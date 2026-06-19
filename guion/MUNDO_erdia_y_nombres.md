@@ -123,9 +123,18 @@ su herida: una niña a la que vaciaron de lo que amaba.)*
 | La hermana / la General | **Vela** | Triple sentido naielo: *arder*, *velar* (vigilia eterna) y la vela que **da luz consumiéndose**. Una niña que el imperio hizo arder hasta consumirse. Rima con Stella: dos hermanas, *Stella y Vela*. |
 | La madre | **Vera** | "Agua clara, verdadera". Es la verdad del relato — y el Parásito viste su cara para *mentir*. La verdad profanada. |
 | El padre | **Naio** | "El que cuida el nai". El guardián del Orbe, el que enseña a canalizar. *(Alternativas si no te gusta: Oran, Caurel.)* |
+| El ajolote de luz | **Gix** | La mascota bioluminiscente del brazalete. Regalo de la madre; puente vivo entre Stella y el Orbe. |
 | El pueblo | **los naieli** | "Nacidos del nai". |
 | El Orbe (nombre sagrado) | **la Fuente Madre** (común: *el Orbe*) | El primer cauce, el corazón del que todo el nai del planeta fluye. |
 | La orden de Vela | **la Guardia Vacía** | Los vaciados de luz para poder matar. |
+
+**Sobre Gix:** no es una mascota decorativa. Es **nai puro dado forma** — un fragmento
+de la luz-agua que la madre ató al brazalete de Stella el día de su Cauce, para que
+"nunca caminara sin un poco de luz propia". Por eso Gix es el único puente vivo entre
+Stella y la Fuente Madre: nació del mismo nai. Eso prepara, sin trampa, su sacrificio
+final (Peli 2): Gix no "resucita" a Stella por magia — *devuelve* la luz que siempre
+fue suya, y al hacerlo se gasta para siempre. La cultura ya lo justifica: un buen cauce
+deja pasar toda su luz hacia quien la necesita, aunque eso lo apague.
 
 ---
 
