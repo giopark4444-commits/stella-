@@ -1,8 +1,9 @@
-# PELÍCULA 1 — "EL NODO" · GUION · ACTO 1
+# PELÍCULA 1 — "EL NODO" · GUION · ACTO 1 (v2 — mundo integrado)
 
-> Primer borrador del Acto 1, escrito sin pensar en duración: cada escena dura lo que
-> la historia pide. Después se corta. Formato de guion. Es un borrador para encontrar
-> el tono y la verdad de las escenas, no la versión final.
+> Reescritura del Acto 1 con la cultura naiel y los nombres dentro: Gix (el ajolote),
+> Vera (madre), Naio (padre), Vela (la hermanita — su nombre se PLANTA aquí), el Cauce,
+> el saludo "que pases limpio", el pelo como voto, el Rey como Cauce Mayor. Sigue siendo
+> borrador para encontrar la verdad de las escenas.
 
 ---
 
@@ -10,139 +11,157 @@ FADE IN:
 
 EXT. TIERRA MUERTA — ¿?
 
-Negro. Luego, un sonido pequeño: una gota de agua cayendo.
+Negro. Un sonido pequeño: una gota de agua cayendo.
 
-Un primerísimo plano de tierra negra, biomecánica, costrosa como una
+Primerísimo plano de tierra negra, biomecánica, costrosa como una
 herida vieja. En el centro, contra toda lógica, un BROTE VERDE empuja
 hacia arriba. Tiembla. Se abre.
 
-No sabemos qué es esto. No sabemos cuándo es. Solo que algo vivo se
-niega a morir.
+No sabemos qué es esto, ni cuándo. Solo que algo vivo se niega a morir.
 
-La gota de agua cae sobre la hoja —
+La gota cae sobre la hoja —
 
 SMASH CUT TO:
 
 EXT. CIUDAD DE ERDIA — DÍA
 
-— y el agua se multiplica en un millón de destellos. CIELO AZUL
-INMACULADO. El sonido estalla: viento limpio, risas lejanas, el
-murmullo de una ciudad que respira.
+— y el agua estalla en un millón de destellos. CIELO AZUL INMACULADO.
+El sonido explota: viento limpio, risas, el murmullo de una ciudad que
+respira.
 
-Rascacielos de cristal orgánico se curvan hacia el cielo como juncos.
-Entre ellos corren ríos suspendidos. Nadie tiene prisa. Nadie tiene
-miedo. Es una utopía, y lo es de verdad.
+Rascacielos de cristal orgánico se curvan como juncos. Entre ellos
+corren ríos suspendidos en el aire, hilos de luz-agua que la gente
+toca al pasar, casi sin mirar, como quien se persigna.
+
+Dos ancianos se cruzan en una pasarela. Uno inclina la cabeza:
+
+ANCIANO
+Que pases limpio.
+
+ANCIANA
+(devolviéndolo)
+Y tú.
 
 SOBREIMPRESIÓN: ERDIA. LA HORA DORADA DEL REINO.
 
 INT. PALACIO IMPERIAL — PASILLOS DE MÁRMOL — CONTINUO
 
-STELLA (14) corre. Pelo del blanco puro de su raza, suelto, volando.
-Va riéndose de nada, de todo, de tener catorce años en un mundo sin
-heridas.
+STELLA (14) corre. Pelo del blanco puro de los naieli, suelto, volando.
+Ríe de nada, de todo, de tener catorce años en un mundo sin heridas.
 
-Lleva un BRAZALETE en la muñeca. Lo toca al correr —
+Toca el BRAZALETE de su muñeca —
 
-— y un chorro de energía líquida brota y cobra forma: un AJOLOTE
-bioluminiscente, del tamaño de un gato, que nada en el aire a su lado.
-Burbujea, cálido y juguetón. La persigue como un perro de luz.
+— y un chorro de luz-agua brota y cobra forma: GIX, un ajolote
+bioluminiscente del tamaño de un gato, que nada en el aire a su lado.
+Burbujea, cálido, juguetón. La persigue como un perro de luz.
 
 STELLA
-(al ajolote, sin aliento)
+(a Gix, sin aliento)
 ¡No, no, no me dejes ganar a propósito!
 
-El ajolote da una voltereta y se le adelanta. Stella ríe más fuerte.
+Gix da una voltereta y se le adelanta. Stella ríe más fuerte. Dobla
+una esquina y casi choca con —
 
-Dobla una esquina y casi choca con —
+VERA (40s), su madre. Belleza cansada y amable. Pelo blanco impecable
+—el voto intacto—. Lleva en brazos a una niña dormida: VELA (4),
+contra su hombro.
 
-LA MADRE (40s). Serena, de una belleza cansada y amable. Sostiene en
-brazos a la HERMANITA (4), dormida contra su hombro.
-
-MADRE
+VERA
 (susurrando, sonriendo)
 La vas a despertar.
 
-Stella frena en seco. El ajolote se queda flotando, conteniéndose,
-haciendo pequeñas burbujas silenciosas para no hacer ruido.
+Stella frena en seco. Gix se queda flotando, conteniéndose, soltando
+burbujas silenciosas para no hacer ruido.
 
-Stella mira a su hermanita dormida. Le aparta un mechón blanco de la
-cara con un dedo, con una ternura que no sabía que tenía.
+Stella mira a la pequeña. Le aparta un mechón blanco de la cara.
 
 STELLA
 (muy bajo)
-¿Cuándo va a ser lo bastante grande para jugar?
+¿Cuándo va a ser lo bastante grande para jugar, Vela?
 
-MADRE
+[El nombre, dicho con ternura, sin peso. El público lo guarda sin
+saber que lo guarda.]
+
+VERA
 Pronto. Demasiado pronto.
 (le besa la frente a Stella)
 Disfruta que sea pequeña. No vuelve.
 
-Stella pone los ojos en blanco —cosa de madres— y el ajolote le da un
+Stella pone los ojos en blanco —cosa de madres— y Gix le da un
 golpecito de luz en la mejilla, impaciente.
 
-MADRE (CONT'D)
+VERA (CONT'D)
 Ve. Tu padre te buscaba.
+(un beat, mirándola con algo que no es solo cariño)
+Que pases limpio, mi estela.
 
-INT. PALACIO IMPERIAL — TALLER DEL CIENTÍFICO JEFE — CONTINUO
+STELLA
+(ya de espaldas, restándole importancia)
+Y tú, mamá.
 
-Una sala alta, llena de luz y de instrumentos que parecen vivos. EL
-PADRE, el Científico Jefe (50s), está de espaldas, ajustando una
+Vera la ve irse. Abraza un poco más fuerte a Vela dormida. Por un
+segundo, su sonrisa tiene una grieta — la de quien presiente, sin
+saberlo, que está mirando algo por última vez.
+
+INT. PALACIO IMPERIAL — TALLER DE NAIO — CONTINUO
+
+Sala alta, llena de luz e instrumentos que parecen vivos. NAIO, el
+Científico Jefe, Guardián del Cauce (50s), de espaldas, ajusta una
 proyección flotante.
 
-En el centro de la sala, lejos, detrás de un campo de contención
-translúcido, flota algo que tiñe toda la habitación de azul: el ORBE.
-Una esfera de luz líquida, latiendo despacio, como un corazón dormido.
+Al fondo, tras un campo de contención translúcido, flota algo que tiñe
+la sala de azul: la FUENTE MADRE — el Orbe. Una esfera de luz-agua que
+late despacio, como un corazón dormido.
 
-Stella entra deslizándose. El ajolote se disuelve de vuelta en el
-brazalete con un suspiro de burbujas.
+Stella entra deslizándose. Gix se disuelve de vuelta en el brazalete
+con un suspiro de burbujas.
 
 STELLA
 Mamá dijo que me buscabas.
 
-PADRE
+NAIO
 (sin volverse, cariñoso)
 Mentí. Quería verte sin que te dieras cuenta de que quería verte.
 
-Se vuelve. Le tiende la mano. Ella se acerca. Juntos miran el Orbe.
+Se vuelve, le tiende la mano. Juntos miran la Fuente Madre.
 
-PADRE (CONT'D)
+NAIO (CONT'D)
 ¿Sabes qué es lo único que la gente entiende mal de esto?
 
 STELLA
-(recitando, aburrida, la ha oído mil veces)
+(recitando, aburrida)
 Que no es nuestro.
 
-PADRE
-Que no se posee.
+NAIO
+Que no se posee. La luz no se tiene, Stella. Se canaliza. Pasa a
+través de ti hacia algún lado.
+
+Acerca la palma al campo. El Orbe se inclina hacia él, como una planta
+hacia el sol.
+
+NAIO (CONT'D)
+Y lo único que de verdad eliges es qué decides nutrir con ella.
 (un beat)
-La luz no se tiene, Stella. Se canaliza. Pasa a través de ti hacia
-algún lado. Y lo único que de verdad eliges...
-
-Acerca la palma al campo de contención. El Orbe responde, se inclina
-hacia él como una planta hacia el sol.
-
-PADRE (CONT'D)
-... es qué decides nutrir con ella. O qué decides devorar.
+O qué decides devorar.
 
 STELLA
-(sin escuchar de verdad, mirando su propio reflejo en el Orbe)
+(sin escuchar de verdad, mirando su reflejo en el Orbe)
 Ajá.
 
-El padre la mira. Sonríe con una tristeza pequeña, la de quien sabe
-que las lecciones importantes solo se entienden tarde.
+Naio la mira. Sonríe con una tristeza pequeña.
 
-PADRE
+NAIO
 Algún día eso va a significar algo para ti.
 
 STELLA
 (ya yéndose, de espaldas)
 Hoy no.
 
-Sale. El padre se queda mirando el Orbe. Su sonrisa se apaga un grado.
-Algo en la lectura del campo —un parpadeo, un número que no debería
-estar ahí— le llama la atención. Frunce el ceño. Se acerca.
+Sale. Naio se queda mirando la Fuente. Su sonrisa se apaga un grado.
+Algo en la lectura del campo —un número que no debería estar— le llama
+la atención. Frunce el ceño. Se acerca.
 
-PADRE (CONT'D)
+NAIO (CONT'D)
 (para sí, casi nada)
 ...¿Y eso?
 
@@ -152,96 +171,91 @@ CORTE A:
 
 INT. PALACIO IMPERIAL — LABORATORIO DE ENERGÍA — MÁS TARDE
 
-El zumbido eléctrico del núcleo principal llena una sala catedralicia.
-El Padre trabaja entre monitores flotantes, ya no sonriente. Teclea.
-Repite una medición. La repite otra vez.
-
-Los números no cambian.
+El zumbido del núcleo llena una sala catedralicia. Naio trabaja entre
+monitores flotantes, ya sin sonrisa. Repite una medición. La repite
+otra vez. Los números no cambian.
 
 Su rostro se vacía de color.
 
-PADRE
+NAIO
 (susurro)
-No. No, no, no — leelo otra vez. Léelo bien.
+No. Léelo otra vez. Léelo bien.
 
-Amplía una gráfica. La curva del flujo de energía del Orbe no sube
-hacia la superficie del planeta —hacia las ciudades, los ríos, la
-gente—. Baja. Se hunde. Va hacia un solo punto, en lo más profundo,
-bajo el trono.
+Amplía una gráfica. La curva del flujo del Orbe no sube hacia las
+ciudades, los ríos, la gente. Baja. Se hunde hacia un solo punto, en
+lo más profundo, bajo el trono.
 
-El Rey no está protegiendo Erdia con la luz.
+El Rey —el Cauce Mayor, el que debería repartir la luz a todos— no la
+está repartiendo.
 
 La está **devorando desde los cimientos.**
 
-De golpe — ALARMAS SÍSMICAS. Una vibración grave nace del suelo y
-sube por las paredes. Los instrumentos tiemblan. Una grieta finísima
-recorre el techo de mármol.
+NAIO (CONT'D)
+(la voz rota, sin creérselo)
+Agua estancada. El Cauce Mayor es... agua estancada.
 
-El Padre se aferra a la consola. Mira hacia la puerta. Mira hacia el
-nivel de profundidad del Orbe. Toma una decisión que le rompe la voz.
+[Para un naiel, no es una traición política. Es la blasfemia
+imposible. Dicho como quien descubre que su dios es un cadáver.]
 
-PADRE (CONT'D)
+De golpe — ALARMAS SÍSMICAS. Una vibración grave sube por las paredes.
+Los instrumentos tiemblan. Una grieta finísima recorre el techo de
+mármol. Naio se aferra a la consola. Toma una decisión que le rompe la
+voz.
+
+NAIO (CONT'D)
 (a un comunicador en su muñeca, urgente, bajo)
-Stella. Stella, ¿dónde estás. Escúchame. Escúchame muy bien y no
-preguntes.
+Stella. Stella, escúchame y no preguntes.
 
 INTERCALADO — PASILLO — CONTINUO
 
-Stella se detiene en seco en un pasillo. La alegría se le cae de la
-cara. Nunca ha oído a su padre hablar así.
+Stella se detiene en seco. La alegría se le cae de la cara. Nunca oyó
+a su padre hablar así.
 
 STELLA
 ¿Papá? ¿Qué es ese ruido—
 
-PADRE (V.O.)
-(por el comunicador)
-Ve a la cámara del Orbe. Tómalo. Hay una cápsula en el hangar oeste,
-ya está cargada, siempre estuvo cargada para esto. Toma el Orbe y
-vete del planeta.
+NAIO (V.O.)
+Ve a la cámara de la Fuente. Toma el Orbe. Hay una cápsula en el
+hangar oeste, siempre estuvo cargada para esto. Tómalo y vete del
+planeta.
 
 STELLA
-¿Qué? ¿Irme? Papá, no entiendo, ¿irme a dónde—
+¿Irme? Papá, no entiendo, ¿irme a dónde—
 
-PADRE (V.O.)
-(la voz se le quiebra)
+NAIO (V.O.)
+(quebrándose)
 Lejos. Tan lejos como puedas. Y no vuelvas hasta que—
 
-La transmisión chisporrotea. Otra sacudida, más fuerte. Las luces del
-pasillo parpadean.
+La transmisión chisporrotea. Otra sacudida. Las luces parpadean.
 
-Stella mira hacia un lado del pasillo —hacia la cámara del Orbe— y
-hacia el otro —hacia las habitaciones, hacia donde está su hermana.
+Stella mira hacia un lado del pasillo —la cámara de la Fuente— y hacia
+el otro —las habitaciones, donde están su madre y Vela.
 
 STELLA
-(decidiendo, ya corriendo en la dirección equivocada)
-No me voy sin ella.
+(ya corriendo en la dirección equivocada)
+No me voy sin ellas.
 
-PADRE (V.O.)
-(gritando ahora, lejano)
-¡Stella! ¡Stella, el Orbe primero! ¡STELLA—!
+NAIO (V.O.)
+(gritando, lejano)
+¡Stella! ¡El Orbe primero! ¡STELLA—!
 
-Ella se arranca el comunicador sin pensar y corre hacia su hermana.
+Se arranca el comunicador sin pensar y corre hacia su familia.
 
-*(Aquí queda plantada, en su primer acto bajo presión, la falla que la
-definirá: salvar a quien ama por encima de todo lo demás — y decidir
-ella sola lo que eso significa.)*
+*(Su falla, dramatizada: salvar a quien ama por encima de todo, y
+decidir ella sola lo que eso significa.)*
 
 CORTE A:
 
-INT. PALACIO IMPERIAL — CÁMARA CENTRAL DEL ORBE — CONTINUO
+INT. PALACIO IMPERIAL — CÁMARA CENTRAL DE LA FUENTE — CONTINUO
 
-Una cámara inmensa, fría, de techos imposibles. En el centro, un
-pedestal vacío bañado en luz azul: aquí debería estar el Orbe, pero
-ahora la luz viene de otra parte.
+Cámara inmensa, fría, de techos imposibles. En el centro, un pedestal
+bañado en luz azul. Y de pie junto a él, perfecto e inmóvil, el REY —
+el Cauce Mayor, el rostro amado por todos. Gélido.
 
-Viene del REY.
+A sus pies, la GUARDIA IMPERIAL —máquinas de cristal negro— sostiene
+a VELA (4) por el cuello, los piececitos sin tocar el suelo.
 
-De pie junto al pedestal, perfecto e inmóvil, el monarca amado por
-todos. Rostro impecable. Gélido. Y a sus pies, la GUARDIA IMPERIAL
-—máquinas de guerra de cristal negro— sostiene a la HERMANITA (4) por
-el cuello, los piececitos sin tocar el suelo.
-
-Stella irrumpe por la puerta y se congela.
+Stella irrumpe y se congela.
 
 STELLA
 (sin aire)
@@ -254,11 +268,11 @@ Tu padre es muy rápido leyendo gráficas. Me ha ahorrado el discurso.
 Tiende una mano abierta.
 
 REY (CONT'D)
-El Orbe está en el pedestal de la bóveda inferior. Tú sabes abrirla;
-llevas su sangre. Tráemelo.
+El Orbe está en la bóveda inferior. Tú sabes abrirla; llevas la sangre
+del Cauce. Tráemelo.
 
 STELLA
-(temblando, mirando a su hermana)
+(temblando, mirando a Vela)
 Suéltala primero.
 
 REY
@@ -266,133 +280,127 @@ No.
 (una sonrisa mínima, sin calor)
 El Orbe, Stella. O tu hermana.
 
-La hermanita, aterrada, estira una manita hacia Stella. No entiende
-nada. Solo quiere a su hermana.
+Vela estira una manita hacia Stella. No entiende nada. Solo quiere a
+su hermana.
 
-Algo en Stella —catorce años, sin un solo día de dolor en el cuerpo—
-decide por instinto lo que un adulto no decidiría.
-
-Se lanza al ataque.
+Algo en Stella —catorce años, sin un día de dolor en el cuerpo— decide
+por instinto.
 
 STELLA
 (grito)
 ¡SUÉLTALA—!
 
-Toca el brazalete. El AJOLOTE estalla en el aire, enorme ahora,
-furioso, hecho de luz líquida, y se arroja contra la guardia.
+Toca el brazalete. GIX estalla en el aire, enorme ahora, hecho de
+luz-agua furiosa, y se arroja contra la guardia.
 
-Por un segundo es hermoso. Por un segundo parece que una niña con un
-animal de luz puede ganarle a un imperio.
+Por un segundo es hermoso. Por un segundo parece que una niña y un
+animal de luz pueden ganarle a un imperio.
 
-No puede.
+No pueden.
 
-INT. CÁMARA CENTRAL DEL ORBE — CONTINUO
+INT. CÁMARA CENTRAL DE LA FUENTE — CONTINUO
 
-La paliza es brutal. Real. Sin coreografía bonita.
-
-La guardia la golpea como se golpea a una cosa, no a una niña. El
-sonido de su armadura abollándose. El crujido seco de algo cediendo
-dentro de ella. El ajolote intenta protegerla, se interpone, recibe
+La paliza es brutal. Real. Sin coreografía bonita. La guardia la golpea
+como se golpea a una cosa. El sonido de la armadura abollándose. El
+crujido seco de algo cediendo dentro de ella. Gix se interpone, recibe
 los golpes que puede, parpadeando, debilitándose.
 
 Stella escupe sangre sobre el mármol blanco.
 
-Pero la guardia, en el caos, ha soltado a la hermanita un instante
-para acabar con Stella. Es el único hueco que va a haber.
+Pero la guardia, para acabar con Stella, ha soltado a Vela un instante.
+Es el único hueco que va a haber.
 
-Stella no corre hacia su hermana. Stella —medio ciega de dolor— ve la
-entrada abierta de la bóveda inferior, y la luz azul latiendo dentro.
+Stella no corre hacia su hermana. Medio ciega de dolor, ve la entrada
+abierta de la bóveda y la luz azul latiendo dentro. Toma la decisión
+correcta y la peor. Se arrastra hacia el Orbe.
 
-Toma la decisión correcta y la peor. Se arrastra hacia el Orbe.
+INT. BÓVEDA INFERIOR DE LA FUENTE — CONTINUO
 
-INT. BÓVEDA INFERIOR DEL ORBE — CONTINUO
-
-Stella cae más que entra. El ORBE flota ante ella, sin contención,
-desnudo, latiendo. Hermoso y terrible.
-
-Extiende las dos manos y lo agarra.
+Stella cae más que entra. El ORBE flota desnudo, sin contención,
+latiendo. Hermoso y terrible. Extiende las dos manos y lo agarra.
 
 La energía en bruto la atraviesa. **Le quema las palmas** — un dolor
-blanco, eléctrico, descontrolado. El Orbe no la reconoce como amo; la
-reconoce como carne. Chisporrotea, se le resbala, le abrasa la piel.
+blanco, eléctrico. El Orbe no la reconoce como cauce; la reconoce como
+carne. Chisporrotea, se le resbala, le abrasa la piel.
 
 STELLA
 (entre dientes, llorando de dolor)
-Vamos — vamos — obedece —
+Pasa limpio — pásame limpio — obedece —
 
-No obedece. No sabe controlarlo. Lo aprieta contra su pecho aunque le
-queme, porque soltarlo es peor.
+[Reza con la fórmula de su pueblo. La luz no la escucha.]
 
-Detrás, en la cámara, la voz del Rey, sin alterarse:
+No obedece. Lo aprieta contra su pecho aunque le queme, porque soltarlo
+es peor.
 
 REY (O.S.)
-Esa luz no te va a obedecer. No sabes lo que es.
+Esa luz no te va a obedecer. No eres su cauce, niña. No sabes lo que es.
 (beat)
 Devuélvemela y le perdono la vida a tu hermana. Tienes mi palabra de
-rey.
+Cauce Mayor.
 
-Stella, abrazada al Orbe que le quema, mira hacia la cámara —hacia su
-hermana, otra vez sujeta por el cuello— y hacia la grieta que ya
-recorre la pared, y siente el suelo hundirse bajo el palacio.
+Stella, abrazada al Orbe que la quema, mira hacia la cámara —hacia
+Vela, otra vez sujeta por el cuello— y hacia la grieta que recorre la
+pared, y siente el suelo hundirse bajo el palacio.
 
 Y entiende, con catorce años, lo imposible: si se queda a salvar a su
-hermana, el Orbe vuelve al Rey, y el Rey termina de devorar el planeta,
-y mueren las dos de todas formas. Y todos los demás también.
+hermana, el Orbe vuelve al Rey, el Rey termina de devorar el planeta, y
+mueren las dos de todas formas. Y todos los demás también.
 
 La decisión la parte por la mitad.
 
 STELLA
-(a su hermana, un susurro que ella no puede oír)
+(a Vela, un susurro que ella no puede oír)
 Perdóname.
 
 Activa la mochila propulsora.
 
-INT. CÁMARA CENTRAL DEL ORBE — CONTINUO
+INT. CÁMARA CENTRAL DE LA FUENTE — CONTINUO
 
-Con un ESTRUENDO ensordecedor, Stella sale disparada hacia arriba, el
-Orbe abrasándole el pecho, dejando atrás a su hermana que grita un
-nombre sin sonido.
+Con un ESTRUENDO, Stella sale disparada hacia arriba, el Orbe
+abrasándole el pecho.
 
-Se escurre por los conductos de ventilación. Los robots de la guardia
-intentan seguirla y se atascan en los tubos estrechos: un crujido de
-metal, una chispa, y una EXPLOSIÓN EN CADENA recorre los conductos.
+Y abajo, cada vez más pequeña, VELA grita.
 
-El muro revienta. La noche de la ciudad entra de golpe.
+No oímos el grito. Solo vemos sus labios formar un nombre, una y otra
+vez, hacia el techo que se traga a su hermana:
 
-Y Stella es escupida al cielo de Erdia.
+VELA
+(sin sonido)
+¡Stella! ¡Stella!
+
+[El reverso exacto del "Perdóname". Dos nombres lanzados al vacío que
+ninguna de las dos oye. Veinte años empiezan aquí.]
+
+Stella se escurre por los conductos de ventilación. Los robots de la
+guardia intentan seguirla y se atascan: crujido de metal, una chispa,
+una EXPLOSIÓN EN CADENA recorre los tubos. El muro revienta. La noche
+de la ciudad entra de golpe. Y Stella es escupida al cielo de Erdia.
 
 EXT. CIELO DE ERDIA — NOCHE — CONTINUO
 
-Stella cae, se estabiliza con la mochila, y corre por los tejados de
-cristal hacia el hangar. Sangre, hollín, el Orbe latiendo bajo su
-brazo como un segundo corazón asustado.
-
-Llega a la nave de asalto de su familia. Se lanza dentro.
+Stella cae, se estabiliza con la mochila, corre por los tejados de
+cristal hacia el hangar. Sangre, hollín, el Orbe latiendo bajo su brazo
+como un segundo corazón asustado. Llega a la nave de asalto de su
+familia. Se lanza dentro.
 
 INT. NAVE DE ASALTO — CONTINUO
 
 Despega entre temblores. A través del parabrisas, la ciudad dorada que
 amaba — ahora con grietas de luz roja abriéndose en el suelo, como si
-el planeta se estuviera resquebrajando desde dentro.
-
-Detrás, alarmas. En los radares, puntos. Muchos.
-
-La cacería empieza.
+el planeta se resquebrajara desde dentro. Detrás, alarmas. En los
+radares, puntos. Muchos. La cacería empieza.
 
 EXT. CIELO DE ERDIA — NOCHE — CONTINUO
 
-Cazas imperiales surgen de las torres. FUEGO ANTIAÉREO florece
-alrededor de la nave de Stella. Un ARPÓN MAGNÉTICO se clava en el
-fuselaje, luego otro, frenándola, destrozándole los motores.
+Cazas imperiales surgen de las torres. FUEGO ANTIAÉREO florece alrededor
+de la nave. Un ARPÓN MAGNÉTICO se clava en el fuselaje, luego otro,
+frenándola, destrozándole los motores.
 
 INT. NAVE DE ASALTO — CONTINUO
 
 Las consolas chillan. Stella, con una mano sujetando el Orbe contra el
-pecho y la otra peleando con los controles, ve que no va a escapar
-volando.
-
-Mira la cápsula de eyección. Mira el núcleo de la nave. Entiende qué
-tiene que hacer.
+pecho y la otra peleando con los controles, entiende que no va a escapar
+volando. Mira la cápsula de eyección. Mira el núcleo de la nave.
 
 STELLA
 (a la nave, a su familia, a todo lo que deja)
@@ -402,39 +410,42 @@ Sobrecarga el núcleo. Se arroja a la cápsula. Sella la escotilla.
 
 EXT. CIELO DE ERDIA — NOCHE — CONTINUO
 
-La nave de asalto estalla en un DESTELLO ELECTROMAGNÉTICO cegador. La
-onda fríe los sistemas de cada caza perseguidor: caen del cielo como
-luces que se apagan, uno tras otro.
-
-Y del corazón de la explosión, una cápsula minúscula sale disparada
-hacia arriba, atravesando las últimas capas de atmósfera, hacia el
-negro.
+La nave estalla en un DESTELLO ELECTROMAGNÉTICO cegador. La onda fríe
+los sistemas de cada caza: caen del cielo como luces que se apagan, una
+tras otra. Y del corazón de la explosión, una cápsula minúscula sale
+disparada hacia arriba, atravesando las últimas capas de atmósfera,
+hacia el negro.
 
 EXT. ÓRBITA DE ERDIA — VACÍO — CONTINUO
 
-De pronto, el rugido de la guerra se apaga.
-
-Silencio sepulcral. La cápsula gira despacio en el vacío absoluto.
-Abajo, Erdia: todavía hermosa de lejos, con sus venas de fuego apenas
-visibles.
+De pronto, el rugido de la guerra se apaga. Silencio sepulcral. La
+cápsula gira despacio en el vacío. Abajo, Erdia: todavía hermosa de
+lejos, con sus venas de fuego apenas visibles.
 
 INT. CÁPSULA DE EYECCIÓN — CONTINUO
 
 Stella, sola. El Orbe flota a su lado, ya en calma, como si no acabara
-de costarle todo. Tiene las palmas quemadas, la cara cubierta de
-sangre seca, la respiración rota.
+de costarle todo. Palmas quemadas, cara cubierta de sangre seca,
+respiración rota.
 
-No mira el planeta. Mira sus propias manos vacías —las manos que no
+No mira el planeta. Mira sus propias manos vacías — las manos que no
 sostuvieron a su hermana.
 
-El brazalete, en su muñeca, emite un brillo débil. El ajolote no
-aparece. Solo un latido tenue, como si también él estuviera herido.
+El brazalete emite un brillo débil. Gix no aparece. Solo un latido
+tenue, como si también él estuviera herido.
 
-Stella se dobla sobre sí misma y llora. No el llanto de una niña.
-El de alguien a quien acaban de quitarle la niñez.
+STELLA
+(un hilo de voz, a Gix, a Vela, a nadie)
+Que pasen limpio.
 
-La cápsula se aleja hacia la oscuridad, llevándose a Stella y al
-corazón robado de un mundo.
+[La bendición de su pueblo, dicha a la familia que abandonó. Lo único
+que puede darles desde aquí. No alcanza, y ella lo sabe.]
+
+Se dobla sobre sí misma y llora. No el llanto de una niña: el de alguien
+a quien acaban de quitarle la niñez.
+
+La cápsula se aleja hacia la oscuridad, llevándose a Stella y al corazón
+robado de un mundo.
 
 FADE OUT.
 
@@ -442,17 +453,22 @@ FIN DEL ACTO 1
 
 ---
 
-## Notas del borrador (para revisar juntos)
-- **Tono:** intenté que la utopía no fuera empalagosa sino *frágil* — que se sienta,
-  desde el agua y la risa, que es algo que se puede romper. El prólogo del brote verde
-  da una promesa silenciosa de que la vida vuelve, aunque aún no sepamos qué es.
-- **El tema** (canalizar/nutrir/devorar) queda dicho una vez, de pasada, por el padre,
-  y Stella NO lo escucha. Eso es a propósito: lo entenderá tarde, que es de lo que va.
-- **La falla de Stella** se dramatiza en acción (se arranca el comunicador, va por su
-  hermana, decide sola) en vez de explicarse.
-- **La crueldad de la huida:** ella toma la decisión "correcta" (el Orbe sobre la
-  hermana) y eso es justo lo que la destruye. No es una heroína que duda; es una niña
-  que acierta y se odia por ello.
-- Pendiente de decidir contigo antes de seguir: **el nombre de la hermanita** y si
-  queremos oír el "nombre sin sonido" que grita (puede ser un gran gancho plantar aquí
-  su nombre para pagarlo en la Peli 1 final / Peli 2).
+## Qué cambió respecto al v1 (y por qué)
+- **"Que pases limpio"** abre y cierra el Acto, ya como saludo cotidiano (los ancianos),
+  como despedida de Vera ("Que pases limpio, mi estela") y como última bendición rota de
+  Stella en el vacío. La fórmula del pueblo se vuelve un hilo emocional.
+- **"Vela" se planta tres veces** sin peso (Stella la nombra; está en brazos de Vera) y su
+  nombre-grito SIN SONIDO al final paga el setup: dos nombres lanzados al vacío.
+- **Naio nombra la herejía:** "El Cauce Mayor es agua estancada". Para un naiel eso es el
+  fin del mundo moral, no un dato técnico. Sube lo que está en juego sin subir el volumen.
+- **El Rey es el "Cauce Mayor"** y jura "por su palabra de Cauce Mayor" — su autoridad es
+  sagrada, lo que hace su traición teológica.
+- **Stella reza con la fórmula** ("pásame limpio") al intentar usar el Orbe — y la luz no
+  la escucha porque "no eres su cauce". El fracaso del Orbe queda anclado a la creencia.
+- **Gix** ya tiene nombre y sigue siendo el que se interpone para protegerla.
+
+## Pendiente de decidir contigo
+- ¿Quieres que VEA a Vera por última vez antes de huir (un cruce de miradas imposible), o
+  el dolor es mayor precisamente porque NO se despiden? (Ahora mismo: no se despiden.)
+- El "mi estela" de Vera: ¿lo dejamos como apodo cariñoso que revela el significado del
+  nombre de Stella, o es demasiado subrayado?
