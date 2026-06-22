@@ -34,3 +34,28 @@
 - ➕ Prioridad: lazos Brog/Nima (#14); destello de cambio de Stella (#20); escena del intento con Selka (#19).
 - ⚠️ Blindar conveniencias: supervivencia de Vera (#8) y regla del Orbe (#4).
 - 🎯 Intocable: "Fui yo", entrada de Vera, prólogo, cierre.
+
+---
+
+## TEMA Y MISIONES (decisión fija)
+
+**Peli 1 — dos misiones con peso parejo (no una por encima de la otra):**
+- Misión planeta/Orbe → **PERDIDA** (Vorthan escapa con el Orbe; Erdia en ruinas).
+- Misión hermana (su alma) → **GANADA** (Selka despierta del odio; "Fui yo" la libera).
+- Misión hermana (su vida) → **PENDIENTE** → motor de la Peli 2.
+- Por eso el final no deprime: pierde el mundo, pero rescata a la persona. Derrota y
+  victoria a la vez. La tragedia muerde porque ambas misiones importan y no puede tener
+  las dos.
+
+**Stella gana sin saberlo:** muere/cae en coma en la ilusión de su madre, convencida de
+que falló, justo mientras su victoria real (el cambio de Selka) ocurre a tres metros.
+
+**Peli 2 — Stella NO se entera (decisión fija):**
+- Selka recupera el Orbe y revive a Stella actuando **sin recompensa posible** — por una
+  hermana que no puede agradecerle ni sabe lo que hizo. Redención pura → máxima evolución
+  de Selka (renuncia al odio y la terquedad, se vuelve quien debió ser, por amor solo).
+- Stella sigue siendo el corazón ausente que mueve a su hermana.
+
+**Consecuencia para la Peli 3:** el "despierta y déjame decírtelo a la cara" NO se paga en
+la 2; se difiere. El entenderse de verdad como hermanas (que Stella asimile lo que Selka
+hizo y en quién se convirtió) se vuelve material íntimo de la Peli 3, junto a lo épico.
