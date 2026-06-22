@@ -1,14 +1,6 @@
 # EL NODO DE ERDIA
-### La historia de la Película 1, contada como relato — versión ajustada
 
-> Reparto: Stella · Selka (hermana menor) · Vera (madre) · Naio (padre) · Gix (ajolote
-> protector) · Theron (el Cazador) · Brog · Nima · Vorthan (el Rey / el Parásito) ·
-> robots G44 (la Guardia Vacía) · planeta del Parásito: Vorth · pueblo naiel.
-> Esta es la Peli 1. Cierra en derrota aparente: Stella tenía DOS misiones de igual peso
-> —salvar el planeta (el Orbe) y rescatar a su hermana—. Pierde la primera y gana la
-> segunda (libera a Selka de la mentira), pero muere/cae en coma sin saber que ganó. La
-> reanimación de Stella ocurre en la Peli 2, donde Selka evoluciona actuando sin que Stella
-> llegue a enterarse.
+*Un relato.*
 
 ---
 
@@ -322,6 +314,5 @@ quien rendirle cuentas, sin la única mirada que habría querido merecer. Esa fu
 semilla de luz que salió de Erdia esa noche: no el Orbe robado, sino una hermana que por fin
 podía elegir.
 
-*Pero recuperarla exigiría robarle el corazón al monstruo. Y esa es la segunda película.*
-
-— FIN (Película 1) —
+Pero devolverle la vida a Stella exigiría algo que aún parecía imposible: robarle el corazón
+al monstruo, en su propio mundo, al final del universo. Y esa ya es otra historia.
