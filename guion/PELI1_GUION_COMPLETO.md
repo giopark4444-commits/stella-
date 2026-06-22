@@ -1,1182 +1,722 @@
                               EL NODO DE ERDIA
-
                             Película 1 de la trilogía
 
+                         GUION — borrador completo
+                      (tres actos, versión con ajustes)
 
-                         Guion — primer borrador completo
-                      (ensamblaje continuo de los tres actos)
 
-
-> Documento de lectura corrida. Reúne Acto 1 (v3), Acto 2 (A y B) y Acto 3 ("Fui yo")
-> en un solo guion, con las costuras entre actos limadas. Se conservan algunas notas de
-> intención entre [corchetes]; se han retirado las notas de trabajo de cada borrador.
-> Nombres: Stella · Selka (la General) · Vera (madre) · Naio (padre) · Gix (ajolote) ·
-> el Cazador, Brog y Nima (tripulación) · pueblo naiel · la Fuente Madre (el Orbe).
+> Formato de guion para estimar metraje (1 página ≈ 1 minuto). Incluye los ajustes
+> acordados: entrada heroica de Vera, Gix como protector del padre, doble misión, escape
+> por hipervelocidad, Theron neutral/seco, Tregua de las Cenizas, Vorthan/Vorth, G44,
+> renuncia activa de Selka. Borrador para trabajar, no versión final.
 
 
 ===============================================================================
-ACTO PRIMERO
+ACTO PRIMERO — LA CAÍDA
 ===============================================================================
 
 FADE IN:
 
 EXT. TIERRA MUERTA — ¿?
 
-Negro. Una gota de agua cayendo.
+Negro. Una gota de agua cae.
 
-Primerísimo plano de tierra negra, biomecánica, costrosa como una
-herida vieja. En el centro, contra toda lógica, un BROTE VERDE empuja
-hacia arriba. Tiembla. Se abre.
-
-No sabemos qué es, ni cuándo. Solo que algo vivo se niega a morir.
-
-La gota cae sobre la hoja —
+Primerísimo plano de tierra negra, biomecánica, muerta hace mucho. En el
+centro, contra toda lógica, un BROTE VERDE empuja hacia arriba. Tiembla.
+Se abre. La gota cae sobre la hoja.
 
 SMASH CUT TO:
 
 EXT. CIUDAD DE ERDIA — DÍA
 
-— y el agua estalla en un millón de destellos. CIELO AZUL INMACULADO.
-El sonido explota: viento limpio, risas, el murmullo de una ciudad que
-respira.
+La gota estalla en un millón de destellos. CIELO AZUL INMACULADO.
 
-Rascacielos de cristal orgánico se curvan como juncos. Entre ellos
-corren ríos suspendidos, hilos de luz-agua que la gente roza al pasar,
-casi sin mirar, como quien se persigna.
+Torres de cristal orgánico curvándose como juncos. Ríos de luz-agua
+flotando en el aire; la gente los roza con los dedos al pasar. Dos
+ancianos se cruzan en un puente.
 
-Dos ancianos se cruzan en una pasarela.
+                    ANCIANO
+          Que pases limpio.
 
-                              ANCIANO
-                    Que pases limpio.
-
-                              ANCIANA
-                    Y tú.
+                    ANCIANA
+          Y tú.
 
 SOBREIMPRESIÓN: ERDIA. LA HORA DORADA DEL REINO.
 
+En una plaza, un viejo cuidador vierte agua-luz de una fuente sobre las
+manos de una niña pequeña. La luz le resbala entre los dedos y vuelve a la
+fuente. Nada se posee. Todo pasa.
+
 INT. PALACIO IMPERIAL — PASILLOS DE MÁRMOL — CONTINUO
 
-STELLA (14) corre. Pelo del blanco puro de los naieli, suelto. Ríe de
-nada, de tener catorce años en un mundo sin heridas.
+STELLA (14), pelo blanco purísimo volando, corre riéndose. Se toca el
+BRAZALETE de la muñeca: brota GIX, un ajolote de luz del tamaño de un
+gato, que nada en el aire soltando burbujas y la persigue.
 
-Toca el BRAZALETE de su muñeca — y un chorro de luz-agua cobra forma:
-GIX, un ajolote bioluminiscente del tamaño de un gato, que nada en el
-aire a su lado. Burbujea, cálido. La persigue como un perro de luz.
+                    STELLA
+          ¡No me dejes ganar a propósito!
 
-                              STELLA
-                    ¡No me dejes ganar a propósito!
+Gix da una voltereta y se le adelanta. Stella ríe — y frena en seco a un
+palmo de su madre.
 
-Gix da una voltereta y se le adelanta. Stella ríe más fuerte. Dobla una
-esquina y casi choca con —
+VERA (40s), pelo blanco impecable, lleva en brazos a una niña dormida de
+cuatro años: SELKA.
 
-VERA (40s), su madre. Belleza cansada, amable. Pelo blanco impecable
-—el voto intacto—. Lleva en brazos a una niña dormida: SELKA (4).
+                    VERA
+              (susurrando)
+          La vas a despertar.
 
-                              VERA
-                         (susurrando)
-                    La vas a despertar.
+Stella se acerca de puntillas, le aparta a Selka un mechón de la cara.
 
-Stella frena. Gix se queda flotando, soltando burbujas silenciosas para
-no hacer ruido. Stella mira a la pequeña. Le aparta un mechón blanco de
-la cara.
+                    STELLA
+              (muy bajo)
+          ¿Cuándo va a ser grande para jugar
+          conmigo de verdad?
 
-                              STELLA
-                         (muy bajo)
-                    ¿Cuándo va a ser grande para jugar,
-                    Selka?
+                    VERA
+          Demasiado pronto. Disfrútala así.
+          Esto no vuelve.
+              (le acomoda un mechón a Stella)
+          Anda. Tu padre te buscaba. Otra vez.
 
-                              VERA
-                    Demasiado pronto. Disfrútala pequeña;
-                    no vuelve.
-                         (le besa la frente)
-                    Ve. Tu padre te buscaba.
+                    STELLA
+              (yéndose)
+          Siempre dice que no me buscaba.
 
-Stella ya se va. Vera la mira un segundo de más.
+                    VERA
+          Siempre miente.
+              (alzando la voz)
+          Que pases limpio, mi estela.
 
-                              VERA (CONT'D)
-                    Que pases limpio, mi estela.
+Stella levanta una mano sin volverse. No gira la cabeza. Vera la mira
+irse, y por un instante su sonrisa esconde algo que no sabría nombrar.
 
-                              STELLA
-                         (de espaldas, sin volverse)
-                    Y tú.
+INT. PALACIO — TALLER DE NAIO — CONTINUO
 
-[Stella no vuelve la cabeza. No lo sabe, pero acaba de ver a su madre
-por última vez. Vera abraza un poco más fuerte a Selka dormida.]
+Sala alta, instrumentos que respiran luz. NAIO (50s), Científico Jefe,
+de espaldas. Al fondo, tras un campo de contención, flota la FUENTE MADRE
+—el Orbe—, una esfera de luz-agua que tiñe todo de azul.
 
-INT. PALACIO IMPERIAL — TALLER DE NAIO — CONTINUO
+Stella entra. Gix se recoge en el brazalete.
 
-Sala alta, instrumentos que parecen vivos. NAIO, el Científico Jefe,
-Guardián del Cauce (50s), de espaldas. Al fondo, tras un campo de
-contención, flota algo que tiñe la sala de azul: la FUENTE MADRE —el
-Orbe—, una esfera de luz-agua latiendo despacio, como un corazón dormido.
+                    STELLA
+          Mamá dijo que me buscabas.
 
-Stella entra deslizándose. Gix se disuelve en el brazalete con un
-suspiro de burbujas.
+                    NAIO
+              (sin volverse)
+          Mentí. Quería verte sin que supieras
+          que quería verte.
 
-                              STELLA
-                    Mamá dijo que me buscabas.
+Le tiende la mano. Miran juntos el Orbe.
 
-                              NAIO
-                         (sin volverse)
-                    Mentí. Quería verte sin que supieras que
-                    quería verte.
+                    NAIO (CONT'D)
+          ¿Qué es lo único que la gente entiende
+          mal de esto?
 
-Se vuelve, le tiende la mano. Miran juntos la Fuente.
+                    STELLA
+              (recitando, aburrida)
+          Que no es nuestro.
 
-                              NAIO (CONT'D)
-                    ¿Qué es lo único que la gente entiende
-                    mal de esto?
+                    NAIO
+          Que no se posee. La luz no se tiene. Se
+          canaliza. Y nadie se la lleva por la
+          fuerza: solo pasa de una mano viva a
+          otra. Lo único que eliges es qué nutrir
+          con ella... o qué devorar.
 
-                              STELLA
-                         (recitando, aburrida)
-                    Que no es nuestro.
+                    STELLA
+              (sin escuchar)
+          Ajá.
 
-                              NAIO
-                    Que no se posee. La luz no se tiene. Se
-                    canaliza.
+                    NAIO
+          Algún día eso va a significar algo para
+          ti.
 
-Acerca la palma al campo. El Orbe se inclina hacia él, como una planta
-hacia el sol.
+                    STELLA
+              (ya yéndose)
+          Hoy no.
 
-                              NAIO (CONT'D)
-                    Lo único que eliges es qué nutrir con
-                    ella. O qué devorar.
+Sale. Naio mira la Fuente. Un número en la lectura le llama la atención.
+La luz azul palpita una vez, fuera de ritmo.
 
-                              STELLA
-                         (mirando su reflejo, sin escuchar)
-                    Ajá.
+INT. PALACIO — LABORATORIO DE ENERGÍA — MÁS TARDE
 
-Naio la mira. Sonríe con una tristeza pequeña.
+Naio repite una medición. Otra vez. Su rostro se vacía de color. Amplía
+una gráfica: el flujo del Orbe no sube hacia la gente. Baja. Se hunde
+hacia un punto bajo el trono.
 
-                              NAIO
-                    Algún día eso va a significar algo para
-                    ti.
+                    NAIO
+              (susurro)
+          El Cauce Mayor es agua estancada.
 
-                              STELLA
-                         (ya yéndose)
-                    Hoy no.
+ALARMAS SÍSMICAS. Una grieta recorre el techo. Naio se aferra a la
+consola, habla al comunicador de su muñeca.
 
-Sale. Naio se queda mirando la Fuente. Su sonrisa se apaga un grado. Un
-número en la lectura del campo —uno que no debería estar— le llama la
-atención. Se acerca.
+                    NAIO (CONT'D)
+          Stella. Escúchame y no preguntes. Ve al
+          hangar oeste. Hay una nave cargada para
+          esto. Lleva el Orbe lejos del planeta.
 
-                              NAIO (CONT'D)
-                         (casi nada)
-                    ...¿Y eso?
+INTERCALADO — PASILLO
 
-La luz azul de la sala palpita una vez, fuera de ritmo.
+Stella se detiene en seco; la alegría se le cae de la cara.
 
-CORTE A:
+                    STELLA
+          ¿Papá? ¿Qué—
 
-INT. PALACIO IMPERIAL — LABORATORIO DE ENERGÍA — MÁS TARDE
+                    NAIO (V.O.)
+          Lejos. Y no vuelvas.
 
-El zumbido del núcleo llena una sala catedralicia. Naio, ya sin sonrisa,
-repite una medición. Otra vez. Los números no cambian. Su rostro se
-vacía de color.
+                    STELLA
+          No me voy sin mamá. Sin Selka.
 
-Amplía una gráfica: la curva del flujo del Orbe no sube hacia las
-ciudades, los ríos, la gente. Baja. Se hunde hacia un solo punto, en lo
-más profundo, bajo el trono.
+                    NAIO (V.O.)
+              (un silencio; cede)
+          ...Ve por tu hermana. Solo por ella.
+          Y corre.
 
-El Rey —el Cauce Mayor, el que debe repartir la luz a todos— la está
-DEVORANDO desde los cimientos.
+INT. PALACIO — TALLER DE NAIO — CONTINUO
 
-                              NAIO
-                         (un susurro que no se cree)
-                    El Cauce Mayor es agua estancada.
+Los G44 —soldados de cristal negro— echan la puerta abajo. Naio, deprisa,
+toca un comando: la luz del Orbe parpadea y se ANCLA a algo invisible.
+Habla a su comunicador mientras lo rodean.
 
-[No es una traición política. Es la blasfemia imposible. Lo dice como
-quien descubre que su dios es un cadáver.]
+                    NAIO
+          Gix no es un juguete, Stella. Lo hice
+          para protegerte. Cuando todo arda,
+          déjalo salir. Y no confíes en lo que
+          veas.
 
-ALARMAS SÍSMICAS. Una vibración grave sube por las paredes. Una grieta
-recorre el techo. Naio se aferra a la consola.
-
-                              NAIO (CONT'D)
-                         (al comunicador de su muñeca, urgente)
-                    Stella. Escúchame y no preguntes.
-
-INTERCALADO — PASILLO — CONTINUO
-
-Stella se detiene en seco. La alegría se le cae de la cara.
-
-                              STELLA
-                    ¿Papá? ¿Qué es ese ruido—
-
-                              NAIO (V.O.)
-                    Ve a la cámara de la Fuente. Toma el
-                    Orbe. Hay una cápsula en el hangar oeste,
-                    cargada para esto. Vete del planeta.
-
-                              STELLA
-                    ¿Irme? ¿A dónde—
-
-                              NAIO (V.O.)
-                         (quebrándose)
-                    Lejos. Y no vuelvas hasta que—
-
-La transmisión chisporrotea. Otra sacudida. Las luces parpadean. Stella
-mira hacia un lado —la cámara de la Fuente— y hacia el otro —las
-habitaciones, su familia.
-
-                              STELLA
-                    No me voy sin ellas.
-
-Se arranca el comunicador y corre hacia las habitaciones.
-
-                              NAIO (V.O.)
-                         (lejano, perdiéndose)
-                    ¡Stella! ¡El Orbe primero—!
-
-INT. PALACIO IMPERIAL — ALA RESIDENCIAL — CONTINUO
-
-Stella irrumpe en las habitaciones de la familia. Vacías. Cortinas
-volando. Una silla caída. Señales de una salida a la fuerza, o de una
-huida. No hay nadie.
-
-                              STELLA
-                         (girando, gritando)
-                    ¡Mamá! ¡Selka!
-                         (nada)
-                    ¡MAMÁ!
-
-Silencio. Solo las alarmas y el suelo temblando.
-
-[No las encuentra. Nunca tuvo la despedida. Las buscó y llegó tarde —que
-es peor que no buscarlas.]
-
-Una explosión lejana la decide. Corre hacia el único lugar donde podrían
-estar: la cámara de la Fuente.
-
-CORTE A:
+Se deja someter sin pelear.
 
 INT. PALACIO — CÁMARA CENTRAL DE LA FUENTE — CONTINUO
 
-Cámara inmensa, fría. En el centro, un pedestal bañado en luz azul. De
-pie junto a él, perfecto e inmóvil, el REY —el Cauce Mayor, el rostro
-amado por todos—. Gélido.
+Stella entra corriendo y se congela. Junto al pedestal, perfecto y frío,
+el REY —rostro humano, el rostro que todo Erdia ama—. A sus pies, un G44
+sostiene a la pequeña SELKA por el cuello, en el aire.
 
-A sus pies, la GUARDIA IMPERIAL —máquinas de cristal negro— sostiene a
-SELKA (4) por el cuello, los piececitos sin tocar el suelo.
+                    REY
+              (calma que hiela)
+          El Orbe, Stella. O tu hermana.
 
-Stella irrumpe y se congela.
+Stella se lanza. Golpea el brazalete: GIX estalla en el aire, enorme,
+furioso, contra la guardia. Por un instante parece posible. No lo es.
 
-                              STELLA
-                         (sin aire)
-                    Suéltala.
+La paliza es brutal. Stella cae, escupe sangre sobre el mármol blanco.
+También ella, prisionera. Un G44 la sujeta del pelo contra el suelo.
 
-                              REY
-                         (con una calma que hiela)
-                    Tu padre lee gráficas muy rápido. Me
-                    ahorró el discurso.
+Y la pared REVIENTA.
 
-Tiende una mano abierta.
+VERA entra entre el humo. No es soldado, pero pelea como si lo fuera.
+Aparta G44, arranca a Stella del suelo, la pone de pie.
 
-                              REY (CONT'D)
-                    El Orbe está en la bóveda. Sabes abrirla;
-                    llevas la sangre del Cauce. Tráemelo.
+                    VERA
+          La nave de tu padre te espera. Llévate
+          el Orbe lejos. Tan lejos que esta cosa
+          no lo alcance nunca. Vete.
 
-                              STELLA
-                    Suéltala primero.
+                    STELLA
+          No sin ustedes.
 
-                              REY
-                    No. El Orbe, Stella. O tu hermana.
+                    VERA
+              (feroz, los ojos llenos)
+          Sí. Exactamente así. ¡VETE!
 
-Selka estira una manita hacia Stella. No entiende nada. Solo la quiere.
-Algo en Stella —catorce años, ni un día de dolor en el cuerpo— decide
-por instinto.
+Vera se vuelve hacia el Rey, hacia los G44, hacia Selka colgando, y se
+lanza a salvar a su hija menor mientras le cubre a Stella la huida.
 
-                              STELLA
-                         (grito)
-                    ¡SUÉLTALA—!
+Stella —partida en dos— mira el Orbe en el pedestal de la bóveda, mira a
+su madre peleando, mira a su hermana. Toma la decisión que va a odiar el
+resto de su vida.
 
-Toca el brazalete. GIX estalla en el aire, enorme, hecho de luz-agua
-furiosa, y se arroja contra la guardia. Por un segundo es hermoso. Por
-un segundo parece que una niña y un animal de luz pueden ganarle a un
-imperio.
+                    STELLA
+              (a Selka, un susurro que no llega)
+          Perdóname.
 
-No pueden.
+Arranca el Orbe del pedestal —le quema las palmas— y enciende la mochila
+propulsora.
 
-La paliza es brutal. Real. Sin coreografía bonita. La guardia la golpea
-como se golpea a una cosa. La armadura abollándose. El crujido seco de
-algo cediendo dentro de ella. Gix se interpone, recibe los golpes que
-puede, parpadeando, apagándose. Stella escupe sangre sobre el mármol
-blanco.
+Sale disparada hacia el techo. Abajo, cada vez más pequeña en el puño de
+una máquina, SELKA grita. No se oye el grito. Solo sus labios formando
+"¡Stella! ¡Stella!".
 
-Pero la guardia, para acabar con ella, suelta a Selka un instante. Es el
-único hueco que va a haber. Stella no corre hacia su hermana. Medio
-ciega de dolor, ve la entrada abierta de la bóveda y la luz azul
-latiendo dentro. Toma la decisión correcta y la peor. Se arrastra hacia
-el Orbe.
+Detrás de Stella, los G44 caen bajo los golpes de VERA — hasta que uno la
+derriba. Vera cae. Queda inmóvil en un charco de su sangre. El Rey no le
+dedica ni una mirada: con el Orbe escapando, una mujer en el suelo no
+vale nada.
 
-INT. BÓVEDA INFERIOR DE LA FUENTE — CONTINUO
+INT. CONDUCTOS DE VENTILACIÓN — CONTINUO
 
-Stella cae más que entra. El ORBE flota desnudo, latiendo. Extiende las
-manos y lo agarra. La energía en bruto la atraviesa. LE QUEMA LAS PALMAS
-—un dolor blanco, eléctrico—. El Orbe no la reconoce como cauce; la
-reconoce como carne. Chisporrotea, se le resbala, le abrasa la piel.
+Stella se escurre por los tubos por donde subía la luz robada. Es
+pequeña; cabe. Los G44 que la persiguen se atascan y REVIENTAN en cadena.
+La onda la escupe a la noche.
 
-                              STELLA
-                         (entre dientes, llorando)
-                    Pásame limpio — pásame limpio — obedece —
+EXT. CIUDAD DE ERDIA — NOCHE — CONTINUO
 
-[Reza con la fórmula de su pueblo. La luz no la escucha.]
+Stella roba la nave de su familia y despega. Detrás, cazas imperiales.
+FUEGO ANTIAÉREO. Arpones magnéticos le destrozan los motores.
 
-                              REY (O.S.)
-                    No eres su cauce, niña. No sabes lo que
-                    es. Devuélvemela y le perdono la vida a tu
-                    hermana. Mi palabra de Cauce Mayor.
+INT. NAVE — CONTINUO
 
-Stella, abrazada al Orbe que la quema, mira hacia Selka —otra vez sujeta
-por el cuello—, hacia la grieta que parte la pared, hacia el suelo que
-se hunde. Y entiende, con catorce años, lo imposible: si se queda a
-salvar a su hermana, el Orbe vuelve al Rey, el Rey termina de devorar el
-planeta, y mueren las dos igual. Y todos los demás también.
+Consolas en rojo. Stella entiende que no escapará volando. Con el Orbe
+ardiéndole contra el pecho, deja de pelear con la nave y le abre las
+manos al Orbe.
 
-La decisión la parte por la mitad.
+                    STELLA
+              (entre dientes)
+          Pásame limpio... pásame limpio...
 
-                              STELLA
-                         (a Selka, un susurro que no llega)
-                    Perdóname.
+La luz pasa a través de ella sin quemarla y se vuelca en los motores.
 
-Activa la mochila propulsora.
+EXT. CIELO DE ERDIA — CONTINUO
 
-INT. CÁMARA CENTRAL DE LA FUENTE — CONTINUO
+La nave salta a una velocidad imposible. El metal grita, se deshace. GIX
+sale del brazalete y se envuelve alrededor de Stella como una coraza de
+luz un instante antes de que el casco se desintegre.
 
-Con un ESTRUENDO, Stella sale disparada hacia arriba, el Orbe
-abrasándole el pecho. Abajo, cada vez más pequeña, SELKA grita. No oímos
-el grito. Solo vemos sus labios formar un nombre, una y otra vez, hacia
-el techo que se traga a su hermana:
+UN DESTELLO cegador — un estallido de energía tan brutal que, a sistemas
+de distancia, hará parpadear radares de naves que ni saben que Erdia
+existe.
 
-                              SELKA
-                         (sin sonido)
-                    ¡Stella! ¡Stella!
+Después: silencio. El vacío.
 
-[El reverso exacto del "Perdóname". Dos nombres lanzados al vacío que
-ninguna oye. Veinte años empiezan aquí.]
+INT. RESTOS DE LA NAVE / VACÍO — CONTINUO
 
-Stella se escurre por los conductos. Los robots intentan seguirla y se
-atascan: crujido de metal, una chispa, una EXPLOSIÓN EN CADENA recorre
-los tubos. El muro revienta. La noche entra de golpe. Stella es escupida
-al cielo de Erdia.
-
-EXT. CIELO DE ERDIA — NOCHE — CONTINUO
-
-Se estabiliza con la mochila, corre por los tejados de cristal hacia el
-hangar. Sangre, hollín, el Orbe latiendo bajo su brazo como un segundo
-corazón asustado. Llega a la nave de asalto familiar. Se lanza dentro.
-
-INT. NAVE DE ASALTO — CONTINUO
-
-Despega entre temblores. Por el parabrisas, la ciudad dorada que amaba
-—ahora con grietas de luz roja abriéndose en el suelo—. Alarmas. En los
-radares, puntos. Muchos. La cacería empieza.
-
-EXT. CIELO DE ERDIA — NOCHE — CONTINUO
-
-Cazas imperiales surgen de las torres. FUEGO ANTIAÉREO florece alrededor
-de la nave. Un ARPÓN MAGNÉTICO se clava en el fuselaje, luego otro,
-frenándola, destrozando los motores.
-
-INT. NAVE DE ASALTO — CONTINUO
-
-Las consolas chillan. Stella —una mano sujetando el Orbe, la otra
-peleando los controles— entiende que no escapará volando. Mira la
-cápsula de eyección. Mira el núcleo.
-
-                              STELLA
-                         (a todo lo que deja)
-                    Lo siento.
-
-Sobrecarga el núcleo. Se arroja a la cápsula. Sella la escotilla.
-
-EXT. CIELO DE ERDIA — NOCHE — CONTINUO
-
-La nave estalla en un DESTELLO ELECTROMAGNÉTICO cegador. La onda fríe
-los sistemas de cada caza: caen del cielo como luces que se apagan, una
-tras otra. Del corazón de la explosión, una cápsula minúscula sale
-disparada hacia el negro.
-
-EXT. ÓRBITA DE ERDIA — VACÍO — CONTINUO
-
-De pronto, el rugido de la guerra se apaga. Silencio sepulcral. La
-cápsula gira despacio en el vacío. Abajo, Erdia: hermosa todavía de
-lejos, con sus venas de fuego apenas visibles.
-
-INT. CÁPSULA DE EYECCIÓN — CONTINUO
-
-Stella, sola. El Orbe flota a su lado, ya en calma, como si no acabara
-de costarle todo. Palmas quemadas, cara con sangre seca. No mira el
-planeta. Mira sus manos vacías —las que no sostuvieron a su hermana.
-
-El brazalete emite un brillo débil. Gix no aparece. Solo un latido
-tenue, como si él también estuviera herido.
-
-                              STELLA
-                         (un hilo de voz, a nadie)
-                    Que pasen limpio.
-
-Se dobla sobre sí misma y llora. No el llanto de una niña: el de alguien
-a quien le acaban de quitar la niñez. La cápsula se aleja hacia la
-oscuridad, llevándose a Stella y al corazón robado de un mundo.
+Stella, blindada por Gix, a la deriva entre escombros. Palmas quemadas.
+Cumplió una de sus dos misiones y traicionó la otra. No mira el planeta.
+Mira sus manos —las que sostuvieron el Orbe y soltaron a su hermana— y se
+deja ir.
 
 FADE OUT.
 
 
 ===============================================================================
-ACTO SEGUNDO
+ACTO SEGUNDO — EL CEBO Y EL REGRESO
 ===============================================================================
 
 EXT. VACÍO PROFUNDO — ¿DÍAS DESPUÉS?
 
-La cápsula de Stella, una mota muerta girando en el negro. Sin luces. El
-Orbe, dentro, late despacio: lo único vivo. De la oscuridad, sin prisa,
-emerge algo que tapa las estrellas. Una nave inmensa, oscura, erizada
-—más cicatriz que máquina—. No persigue. Acecha. Un haz engancha la
-cápsula. Desaparece dentro de la mole.
+Una nave inmensa, erizada, tapa las estrellas. Un haz recoge los restos
+con Stella dentro.
 
-INT. NAVE DEL CAZADOR — BAHÍA DE CARGA — CONTINUO
+INT. NAVE DEL CAZADOR — BAHÍA — CONTINUO
 
-La cápsula se abre con un siseo. Stella cae al suelo metálico, inerte.
-Apenas respira. Botas pesadas la rodean: una MOLE que parece tallada en
-roca viva; una figura de CUATRO BRAZOS; otros parias entre las sombras.
-Y al frente, EL CAZADOR. Alto, envuelto, el rostro oculto. No mira a
-Stella. Mira el ORBE que flota saliendo de la cápsula.
+Siluetas rodean a Stella inconsciente: BROG, una mole de roca; NIMA,
+cuatro brazos; otros parias. Al frente, THERON. Alto, envuelto, rostro
+oculto. No mira a Stella: mira el Orbe.
 
-                              CAZADOR
-                         (grave, casi reverente)
-                    Milenios. Y la carnada me la trae una
-                    niña.
+                    THERON
+              (grave, sin calor)
+          Milenios. Y la fuente de poder me la
+          trae una niña.
 
-BROG (la mole de roca) se inclina sobre Stella, la examina como quien
-calcula si una carga aguantará el viaje.
-
-                              BROG
-                         (media lengua, le faltan palabras)
-                    ...Viva. Poco.
-
-NIMA (cuatro brazos, manos que no paran) ya tiene un escáner sobre el
-Orbe, fascinado y aterrado.
-
-                              NIMA
-                    La radiación de esa cosa satura cada
-                    radar en mil años luz. Por eso la
-                    encontramos. Por eso nos va a encontrar a
-                    nosotros... y todo lo demás.
-                         (traga)
-                    Cazador. No es un artefacto. Está anclado
-                    a ella. A su sangre.
-
-El Cazador por fin mira a Stella. Un cálculo frío.
-
-                              CAZADOR
-                    Entonces la carnada respira.
-                         (a Brog)
-                    Que no se muera. Todavía.
-
-CORTE A:
+                    NIMA
+              (escaneando el Orbe)
+          Está anclado a su sangre, Theron. Esto
+          es lo que satura cada radar. Por esto la
+          encontramos. Por esto nos van a
+          encontrar a nosotros.
 
 INT. NAVE DEL CAZADOR — ENFERMERÍA — MÁS TARDE
 
-Stella despierta de golpe, manotea, busca el Orbe. Nima, sin levantar la
-vista de un panel que repara, habla con calma estudiada.
+Stella despierta, manotea. Theron entra. La sala se enfría.
 
-                              NIMA
-                    Está a tu lado. No lo tocamos. Nadie aquí
-                    quiere tocarlo.
+                    STELLA
+          ¿Dónde estoy. Por qué me salvaron.
 
-                              STELLA
-                         (ronca, en guardia)
-                    ¿Dónde estoy. Quiénes son. Por qué me
-                    salvaron.
+                    THERON
+          No te salvamos. Te recogimos.
 
-                              NIMA
-                         (una risa sin gracia)
-                    "Salvar." Qué palabra.
+Los otros quieren arrancarle el Orbe. Theron lo impide — no por compasión.
 
-El CAZADOR entra. La temperatura de la sala baja.
+                    THERON (CONT'D)
+          Si la matan, ese artefacto detona. Es
+          la única que lo estabiliza.
+              (a Stella)
+          Hay una plaga. Una sola, vieja como las
+          estrellas. No conquista mundos: se los
+          come y se pone su cara. La cazo desde
+          antes de que tu especie hablara.
 
-                              CAZADOR
-                    No te salvamos. Te recogimos.
-                         (un beat)
-                    Hay una plaga. Una sola, vieja como las
-                    estrellas. No conquista mundos: se los
-                    come y se pone su cara. Llevo más vidas de
-                    las que puedo contar persiguiéndola,
-                    siempre tarde, siempre oliendo ceniza.
+                    STELLA
+          Yo no sé nada de plagas. Mi rey es solo
+          un hombre.
 
-Se acerca al Orbe. No lo toca.
+                    THERON
+          Tu rey lleva muerto décadas. Esa cosa
+          usa su piel.
+              (un beat)
+          Y hay una ley que la protege: ninguna
+          flota puede cruzar el cielo de un mundo
+          soberano. Por eso es perfecta. Llega
+          sola, se disfraza de líder, y drena el
+          planeta mientras la galaxia mira a otro
+          lado. Yo no puedo bajar a Erdia. Tú sí.
+          Tú eres la única espada que corta esa
+          cabeza sin encender una guerra.
 
-                              CAZADOR (CONT'D)
-                    Esto grita en una frecuencia que esa cosa
-                    adora. Mientras lo lleves pegado a la
-                    sangre, eres el cebo más brillante del
-                    universo. Puedo tirarte de vuelta al vacío
-                    con tu tesoro. O puedes ser el anzuelo que
-                    use para matarla. A cambio: te enseño a no
-                    morir.
+                    STELLA
+              (rota, sin nadie)
+          ...Enséñame.
 
-                              STELLA
-                         (amarga, rota)
-                    ¿Y si solo quiero volver a casa?
+INT. NAVE DEL CAZADOR — SALA DE ENTRENAMIENTO — DÍAS (MONTAJE)
 
-                              CAZADOR
-                    Tu casa es de donde salió esto, ¿no?
-                    Entonces ya tiene la cara de la plaga
-                    puesta. No hay casa. Hay caza.
+Stella intenta canalizar el Orbe. La luz le salta, le quema. Cae. Se
+levanta.
 
-Silencio. Stella mira el Orbe que le costó todo. Mira a estos extraños
-que no fingen quererla. Y, por primera vez, algo en ella —que ya no
-tiene a nadie— se agarra a eso.
-
-                              STELLA
-                         (muy bajo)
-                    Enséñame.
-
-INT. NAVE DEL CAZADOR — SALA DE ENTRENAMIENTO — DÍAS
-
-Stella, sudando, intenta canalizar el Orbe. La luz le salta de las
-manos, descontrolada, le quema. Cae. Lo intenta otra vez. Cae.
-
-                              CAZADOR (O.S.)
-                         (paciente como una piedra)
-                    No le ordenas. No es tuyo. Es lo que pasa
-                    por ti. Deja de agarrar. Empieza a dejar
-                    pasar.
-
-[Eco directo de Naio. Stella, que no escuchó a su padre, empieza a
-entender la lección con cinco mundos de distancia.]
+                    THERON (O.S.)
+          No le ordenes. No es tuyo. Deja de
+          agarrar. Empieza a dejar pasar.
 
 INT. NAVE — TALLER DE NIMA — NOCHE
 
-Stella encuentra a Nima reparando algo que ya funcionaba. Y otra cosa. Y
-otra. Cuatro brazos que no paran.
+Stella encuentra a Nima reparando algo que ya funcionaba. Y otra cosa.
 
-                              STELLA
-                    Eso ya servía.
+                    STELLA
+          Eso ya servía.
 
-                              NIMA
-                         (sin parar)
-                    Todo sirve mejor.
-                         (un beat, más bajo)
-                    En mi mundo construíamos las naves más
-                    finas de la galaxia. Hasta que vendimos
-                    una flota al postor equivocado y esa flota
-                    borró tres lunas. No puedo desarmar lo que
-                    hice. Así que arreglo lo que tengo
-                    delante. Toda la noche, si hace falta.
-
-Stella lo mira distinto. No es el cínico que parecía: alguien ahogándose
-en una culpa que ella empieza, también, a reconocer.
+                    NIMA
+              (sin parar)
+          Todo sirve mejor.
+              (más bajo)
+          Construí naves. Una flota que vendí
+          borró tres lunas. No puedo deshacerlo.
+          Así que arreglo lo que tengo delante.
 
 INT. NAVE — CASCO INFERIOR — DÍA
 
 BROG traza marcas en una pared. Stella se acerca.
 
-                              STELLA
-                    ¿Qué escribes?
+                    BROG
+              (media lengua)
+          Nombres. Los míos. Todos.
+              (se toca el pecho)
+          Mi gente hablaba junta. Una palabra,
+          tres bocas. Yo solo. Media palabra.
+          Siempre media.
 
-                              BROG
-                         (media lengua)
-                    Nombres. Los míos. Todos.
-                         (una pausa pétrea)
-                    Mi gente... hablaba junta. Una palabra
-                    necesitaba dos bocas. Tres.
-                         (se toca el pecho)
-                    Yo solo. Media palabra. Siempre media.
+Le hace repetir una marca. Stella la dice. Brog asiente.
 
-Señala una marca, le hace repetirla a Stella. Ella la dice. Brog
-asiente, grave, como si por un instante la palabra hubiera estado
-entera.
+                    BROG (CONT'D)
+          Tú también. Última de algo.
 
-                              BROG (CONT'D)
-                         (casi suave)
-                    Tú también. Última de algo.
+INT. SALA DE ENTRENAMIENTO — NOCHE — CONTINUO
 
-INT. NAVE — SALA DE ENTRENAMIENTO — CONTINUO (MONTAJE)
+Stella, sola, deja de apretar los puños. Respira. Abre las manos. La luz
+la atraviesa limpia y dibuja a GIX en el aire, entero, brillante.
 
-— Stella cae. Se levanta.
-— La luz salta. Se quema. Lo intenta.
-— Gix parpadea débil desde el brazalete; aún no vuelve del todo.
-— Una noche, sola, Stella deja de apretar los puños. Respira. Abre las
-  manos. Y la luz, por primera vez, PASA. La atraviesa limpia, sin
-  quemarla, y dibuja en el aire la forma temblorosa de un ajolote.
+                    STELLA
+              (susurro)
+          Pasaste limpio.
 
-GIX vuelve. Entero. Brillante. Stella ríe y llora a la vez.
+INTERCALADO — EXT. ERDIA — (AÑOS EN PARALELO)
 
-                              STELLA
-                         (susurro)
-                    Pasaste limpio.
+El azul se enferma en neblina parda. PANTALLAS DE PROPAGANDA: el rostro
+del Rey, y sobre la cara de Stella, una palabra:
 
-EXT. ERDIA — CIELO — (AÑOS, EN PARALELO)
+                    VOZ DE PROPAGANDA (O.S.)
+          La que estancó la luz.
 
-El azul inmaculado se enturbia. Una neblina tóxica se extiende, año tras
-año, como una infección. Los ríos suspendidos se apagan.
-
-PANTALLAS DE PROPAGANDA por toda la ciudad. El rostro perfecto del Rey.
-Y sobre una imagen de Stella, una palabra que pesa más que cualquier
-acusación:
-
-                              VOZ DE PROPAGANDA (O.S.)
-                    La que estancó la luz.
-
-[No dicen "ladrona". Dicen la herejía. Para un naiel, no hay condena
-peor. El pueblo no la odia: la repudia.]
-
-En un patio de entrenamiento militar, una NIÑA de pelo blanco —SELKA, ya
-de 7— golpea un maniquí una y otra vez, con una furia fría impropia de
-su edad. En la pared, su objetivo pintado: la cara de su hermana.
+En un patio militar, una NIÑA de pelo blanco —SELKA, 8— golpea un maniquí
+con la cara de su hermana pintada, con furia fría.
 
 EXT. ERDIA — TRINCHERAS — LLUVIA ÁCIDA — AÑO 10
 
-Humo. Barro. Una resistencia harapienta. Y al frente, mayor, más dura
-pero inconfundible: VERA. Sobrevivió. Lidera. Esta misión no es un
-ataque: es un rescate. Vera avanza entre el humo, buscando a alguien. Y
-lo encuentra: una NIÑA de ocho años, SELKA, acurrucada en una trinchera,
-llorando.
+Humo. Una resistencia harapienta. Al frente, mayor pero inconfundible:
+VERA, viva. El "Fantasma de Erdia". Avanza buscando a alguien. Encuentra
+a una NIÑA de ocho años acurrucada: SELKA. El rostro de Vera se rompe de
+alivio. Suelta el arma. Corre.
 
-El rostro de Vera se rompe de alivio. Suelta el arma. Corre.
+                    VERA
+          Mi niña. Te encontré—
 
-                              VERA
-                         (llorando, los brazos abiertos)
-                    Mi niña. Mi niña, te encontré—
-
-Selka levanta la cara. Y de pronto está... vacía. Sin lágrimas. Sin nada.
-Levanta una mano hacia el pecho de su madre.
-
-[NO mostramos el detonador con claridad. Vemos la cara vacía de la niña,
-la cara de alivio de la madre, y luego BLANCO. El público entiende lo
-que el imperio quiere que entienda: la hija mató a la madre. La verdad
-espera al Acto Tercero.]
+Selka levanta una cara de pronto vacía. Una mano hacia el pecho de su
+madre. BLANCO.
 
 CORTE A:
 
-INT. PALACIO — SALA DEL TRONO — DÍA
+INT. PALACIO — DÍA
 
-El REY entrega una PLACA MILITAR chamuscada a una SELKA ya casi adulta,
-de rostro pétreo.
+El REY entrega una placa militar chamuscada a una SELKA ya casi
+adulta.
 
-                              REY
-                    Murió intentando recuperar lo que tu
-                    hermana destruyó.
+                    REY
+          Murió intentando recuperar lo que tu
+          hermana destruyó.
 
-Selka cierra la mano sobre la placa. No llora. Algo dentro de ella se
-sella para siempre.
+Selka cierra la mano sobre la placa. No llora. Algo en ella se sella.
 
 INT. NAVE DEL CAZADOR — PUENTE — "CINCO AÑOS DESPUÉS" (PARA STELLA)
 
-Stella, mayor (19), endurecida, canaliza el Orbe con un control sereno.
-Gix nada a su lado, fuerte. Ya no es la niña del palacio. El Cazador
-estudia un mapa estelar. Una firma de radiación parpadea: un rastro.
+Stella (19) canaliza el Orbe con serenidad. Theron estudia un mapa.
 
-                              STELLA
-                         (con una calma nueva)
-                    Han sido cinco años buenos. Los primeros
-                    buenos. Cuando matemos a esa cosa... quiero
-                    volver a verlas. A mi madre. A Selka.
-                    Decirles por qué me fui.
+                    STELLA
+          Cuando matemos a esa cosa, quiero volver
+          a verlas. A mi madre. A Selka.
 
-El Cazador no se vuelve. Hay algo en su quietud que la hiela.
+                    THERON
+          Cinco años para ti. Esto deforma el
+          tiempo.
+              (toca el mapa)
+          Para tu mundo fueron veinte.
 
-                              STELLA (CONT'D)
-                    ¿Qué.
+Stella se queda sin aire. Gix se apaga un grado.
 
-                              CAZADOR
-                    Cinco años para ti. Esto —señala el Orbe,
-                    el espacio, los saltos— deforma el tiempo.
-                    Lo que para ti fueron cinco inviernos,
-                    para tu mundo fueron...
+                    THERON (CONT'D)
+          Y el rastro de la plaga sale de un solo
+          lugar. Tu casa.
 
-Toca el mapa. Una línea temporal se despliega, brutal.
+                    STELLA
+              (baja, firme)
+          Entonces vamos a casa.
 
-                              CAZADOR (CONT'D)
-                    Veinte.
+EXT. ÓRBITA DE ERDIA — LA NAVE — NOCHE
 
-Stella se queda sin aire. Gix, sintiéndola, se apaga un grado.
+Oculta tras una luna muerta. Abajo, Erdia, envuelta en neblina parda.
 
-                              STELLA
-                         (un susurro)
-                    Veinte años. Selka tendría... ya no es una
-                    niña. No es una niña hace mucho.
+                    THERON
+          De aquí no pasamos. Tú bajas sola.
+          Nosotros, las sombras.
 
-                              CAZADOR
-                    La firma del rastro viene de un solo
-                    lugar. El sitio donde esto nació.
+INT. ERDIA — CUARTO OSCURO — NOCHE
 
-La línea del mapa converge en un punto azul y conocido.
-
-                              CAZADOR (CONT'D)
-                    Tu casa, niña. La plaga sigue en tu casa.
-
-Stella mira el punto. La caza y el regreso son lo mismo. Ya no rastrea
-por deber. Rastrea para volver.
-
-                              STELLA
-                         (baja, firme)
-                    Entonces vamos a casa.
-
-EXT. ÓRBITA DE ERDIA — LA NAVE DEL CAZADOR — NOCHE
-
-La nave flota oculta tras una luna muerta. Abajo, Erdia. Stella mira por
-el ventanal — y no reconoce su mundo. El azul se ha ido. El planeta está
-envuelto en una costra de neblina parda, surcada de luces industriales
-enfermas. Donde había ríos de luz, hay chimeneas.
-
-                              NIMA (O.S.)
-                         (suave, a su lado)
-                    ¿Esa era?
-
-                              STELLA
-                         (sin apartar la vista)
-                    Esa era.
-
-                              CAZADOR
-                    La firma del Orbe sale del palacio. Vas a
-                    entrar a un nido con tu propia cara en cada
-                    pantalla de "se busca".
-                         (le tiende un dispositivo)
-                    Te cambia el rostro para los sensores, no
-                    para los espejos. Tú seguirás sabiendo
-                    quién eres. Que no se te olvide ahí abajo.
-
-Stella se lo coloca. Su rostro tiembla y se reordena: otra cara,
-anónima.
-
-                              BROG
-                         (media lengua, grave)
-                    ¿Sola?
-
-                              STELLA
-                    Primero miro. Solo miro.
+Stella, frente a un espejo roto, se TIÑE de oscuro el pelo blanco —el
+rasgo que la delata. Se mira: otra persona, anónima.
 
 EXT. ERDIA — DISTRITO MINERO — NOCHE
 
-Stella camina, encapuchada, por lo que fue una avenida de cristal y hoy
-es un canal de lodo y carbón. La lluvia cae sucia. Pasa gente. Y ve lo
-peor: el PELO. Naieli con el pelo blanco manchado de hollín y gris,
-apelmazado. El voto de transparencia, ensuciado en cada cabeza.
+Stella, encapuchada, camina entre lodo y carbón. Lluvia sucia. Ve lo
+peor: naieli esclavos con el pelo blanco manchado de hollín. Una anciana
+murmura, mirándose el pelo sucio:
 
-Una anciana esclava se cruza con ella. Por costumbre vieja, murmura:
-
-                              ANCIANA
-                         (apenas, sin fe)
-                    ...que pases limpio.
-
-Mira su propio pelo sucio al decirlo. La frase, antes hermosa, ahora
-suena a burla. Sigue arrastrando su carga. Stella se queda clavada.
+                    ANCIANA
+          ...que pases limpio.
 
 EXT. ERDIA — BOCA DE MINA — NOCHE
 
-Un capataz-máquina arrea a una cuadrilla de esclavos hacia los túneles.
-Stella, oculta, escanea rostros. Y entonces lo ve. Un anciano. Encorvado
-bajo un saco de mineral. El pelo gris sucio, ralo. Pero los ojos —
+Stella escanea rostros. Y lo ve: un anciano encorvado bajo un saco de
+mineral, el pelo gris sucio. Los ojos.
 
-                              STELLA
-                         (un soplo)
-                    ...Papá.
+                    STELLA
+              (un soplo)
+          ...Papá.
 
 INT. ERDIA — REFUGIO REBELDE — NOCHE
 
-Stella ha arrastrado a NAIO a un hueco oscuro. Le quita la capucha, se
-desactiva el rostro falso. El viejo retrocede, aterrado — y luego la
-reconoce, y el terror se vuelve algo que no tiene nombre.
-
-                              NAIO
-                         (temblando)
-                    No. Esto es un truco de ellos. Te ponen
-                    caras. Te ponen voces—
-
-                              STELLA
-                         (llorando, agarrándole las manos)
-                    Pásame limpio, papá. Mírame. Soy yo.
-                    Llegué tarde aquella noche. Fui a buscarlas
-                    y el cuarto estaba vacío y me fui sin—
-
-Naio se derrumba sobre ella. La abraza como quien abraza a un muerto que
+Stella ha llevado a NAIO a un hueco. Se quita la capucha. Él retrocede,
+aterrado — y la reconoce. Se abrazan como se abraza a un muerto que
 volvió.
 
-                              NAIO
-                    Veinte años. Veinte años creyéndote polvo.
-                         (frenético)
-                    ¿Tienes el Orbe? Dime que tienes el Orbe—
+                    NAIO
+          Veinte años creyéndote polvo.
+              (frenético)
+          ¿Tienes el Orbe?
 
-                              STELLA
-                    Lo tengo. Aprendí a usarlo. Vine a
-                    arreglarlo todo. Vine por ti, por mamá,
-                    por Ve—
+                    STELLA
+          Lo tengo. Vine por ti. Por mamá. Por—
 
-Se detiene. Algo en la cara de Naio al oír "mamá".
+Se detiene al ver su cara.
 
-                              STELLA (CONT'D)
-                         (despacio, con miedo)
-                    Mamá escapó esa noche. El cuarto estaba
-                    vacío, ella salió. ¿Dónde está mamá?
+                    STELLA (CONT'D)
+          ¿Dónde está mamá?
 
-Naio no puede sostenerle la mirada.
+UNA REBELDE (40s), dura, desde las sombras:
 
-                              NAIO
-                         (roto)
-                    Sobrevivió. Diez años. Levantó la
-                    resistencia de la nada. Era un incendio, tu
-                    madre. Hasta que fue a buscar a tu hermana
-                    al frente.
+                    REBELDE
+          Su hija la mató. Tu hermana. La General.
+          Vera corrió a abrazarla y la niña la
+          mató sin pestañear. Delante de todos.
 
-                              STELLA
-                         (un hilo)
-                    ¿Y?
+                    STELLA
+          No. Selka era una bebé, ella no—
 
-Desde las sombras, una REBELDE (40s), dura, cicatrizada, que ha estado
-escuchando.
+                    NAIO
+              (susurro, deshecho)
+          A mí me dijeron que tú la mataste. A
+          ella, que tú destruiste el mundo. A
+          todos nos dieron una mentira distinta.
 
-                              REBELDE
-                    Y su hija la mató.
+Naio le aprieta la mano.
 
-Stella se vuelve como si le hubieran pegado.
+                    NAIO (CONT'D)
+          Sigo vivo porque me necesitan. Solo yo
+          sé devolverle la luz al planeta. He
+          construido la máquina en secreto, pieza
+          a pieza. Si recuperas el Orbe... yo lo
+          arreglo. Pero no hagas ninguna locura.
 
-                              STELLA
-                    ¿Qué.
+                    STELLA
+          No tengo veinte años para un plan, papá.
+          Tengo esta noche.
 
-                              REBELDE
-                         (sin piedad, porque ya no le queda)
-                    Tu hermana. La General de la Guardia
-                    Vacía. Vera cruzó fuego para sacarla de las
-                    trincheras. Soltó el arma. Corrió a
-                    abrazarla. Y la niña le clavó la muerte en
-                    el pecho sin que le temblara la cara.
-                    Delante de veinte de los nuestros.
+Stella mira hacia el palacio. Trae dos misiones cosidas a la espalda —el
+Orbe, que es el planeta, y Selka, que es su corazón—, y aunque el mundo
+depende de la primera, solo sueña con la segunda.
 
-                              STELLA
-                         (negando, retrocediendo)
-                    No. Selka era una bebé, me agarraba el dedo,
-                    ella no—
+EXT. ERDIA — PALACIO — NOCHE
 
-                              REBELDE
-                    La niña que recuerdas se murió hace mucho.
-                    Lo que vive arriba con su cara solo sabe
-                    ejecutar.
-
-Stella mira a Naio, suplicando que lo desmienta. Naio baja la cabeza.
-
-                              NAIO
-                         (susurro)
-                    A mí me dijeron que tú la mataste. A ella
-                    le dijeron que tú destruiste el mundo. A
-                    todos nos dieron una mentira distinta. Ya
-                    ni sé cuál duele menos.
-
-[El público sabe lo que ninguno de los tres sabe: las dos versiones son
-falsas. El dolor, en cambio, es real.]
-
-Stella se aparta, tambaleándose. Su madre viva diez años sin que ella lo
-supiera. Su madre muerta. Su hermana, una asesina. Todo a la vez. Y
-debajo de todo, su falla de siempre levanta la cabeza: arreglarlo.
-Salvarlos a todos. Decidir ella sola.
-
-                              STELLA
-                         (baja, peligrosa)
-                    ¿Dónde está ella ahora. Selka.
-
-                              NAIO
-                         (alarmado, agarrándola)
-                    Stella, no. Sola no. Hay un plan, la
-                    resistencia—
-
-                              STELLA
-                         (soltándose, ya en su error)
-                    No tengo veinte años para un plan, papá.
-                    Tengo esta noche.
-
-INT. ERDIA — REFUGIO REBELDE — MOMENTOS DESPUÉS
-
-La REBELDE, contra su criterio, despliega un plano del palacio.
-
-                              REBELDE
-                    Esta noche atacamos las baterías del flanco
-                    este. Una distracción. Abrimos una brecha
-                    para liberar esclavos. Tu locura no es
-                    nuestra misión. Si entras, sigues sola. No
-                    vamos a morir por tu venganza.
-
-                              STELLA
-                    No es venganza. Es mi hermana.
-
-Brog y Nima aparecen por el túnel — bajaron tras ella, claro que bajaron.
-Nima deja caer un petate de armas.
-
-                              NIMA
-                         (seca)
-                    "Solo mirar", dijo.
-
-                              BROG
-                         (media lengua)
-                    No te dejo.
-
-Stella los mira. Por un segundo, la dureza se le quiebra en gratitud.
-
-                              STELLA
-                    Cubran a la gente de aquí. Saquen a los
-                    esclavos.
-                         (se cala la capucha)
-                    Lo de arriba es mío.
-
-EXT. ERDIA — PALACIO IMPERIAL — NOCHE
-
-La señal: las baterías del flanco este ESTALLAN en una flor de fuego. El
-asalto rebelde comienza, caótico, desesperado. En el techo de cristal de
-la Sala del Trono —el mismo cristal por el que una niña corría hace
-veinte años—, una sombra encapuchada se mueve.
+Las baterías del flanco este ESTALLAN: el asalto de la resistencia. En el
+techo de cristal de la Sala del Trono, una sombra encapuchada se mueve.
 
 CORTE A NEGRO.
 
 
 ===============================================================================
-ACTO TERCERO
+ACTO TERCERO — FUI YO
 ===============================================================================
 
 INT. PALACIO — SALA DEL TRONO — NOCHE
 
-La lluvia ácida repica contra la cúpula de cristal. Abajo, el trono: una
-garganta de metal negro. Arrodillados en hilera, REBELDES encadenados,
-las cabezas gachas. De pie entre ellos, LA GENERAL —Selka, adulta—.
-Armadura blanca impoluta. El rostro de una estatua a la que le quitaron
-algo y nunca se lo devolvieron.
+Lluvia ácida contra la cúpula. Prisioneros rebeldes arrodillados. De pie
+entre ellos, blanca e impecable: la GENERAL. SELKA, adulta.
 
-Un crujido arriba. Una grieta recorre el cristal.
+                    SELKA
+              (sin mirar arriba)
+          Tarde.
 
-                              GENERAL
-                         (sin mirar arriba)
-                    Tarde.
+El cristal estalla. STELLA cae y revienta el mármol. Las dos hermanas se
+miran por primera vez en veinte años. Una no lo sabe.
 
-El cristal estalla. STELLA cae nueve metros y revienta el suelo de
-mármol con las rodillas. Polvo. Se incorpora despacio. Las dos hermanas
-se miran por primera vez en veinte años. Una no lo sabe.
+                    STELLA
+          Te he buscado mucho tiempo.
 
-                              STELLA
-                    Te he buscado mucho tiempo.
+Selka enciende el sable. Pelean: precisión quirúrgica contra fuerza
+visceral. Pero Stella no da un golpe mortal.
 
-                              GENERAL
-                    Todos buscan algo aquí.
-                         (señala a los rebeldes con el mentón)
-                    Ellos buscaban una salida.
+                    SELKA
+          ¿Por qué no peleas?
 
-Enciende el sable. Luz blanca, fría.
+                    STELLA
+          Porque sé quién eres.
 
-                              GENERAL (CONT'D)
-                    Tú buscas morir en buena compañía.
+Un tajo derriba a Stella. Levanta la mano —no para atacar, para pedir.
 
-[Choque. Ella: precisión quirúrgica, economía total. Stella: fuerza,
-instinto, espacio abierto. La General no falla un golpe; Stella no
-devuelve ninguno con filo.]
+                    STELLA (CONT'D)
+          ¿Por qué mataste a mamá?
 
-Stella bloquea, rueda, se levanta. No ataca el cuerpo. Golpea el arma,
-busca las muñecas. Intenta desarmarla, no herirla.
+                    SELKA
+              (plana, glacial)
+          He ejecutado a cientos de impostoras. No
+          recuerdo a ninguna como "mamá".
 
-                              GENERAL (CONT'D)
-                         (irritada)
-                    ¿Por qué no peleas?
+Un golpe brutal. Stella se estrella contra el trono. Selka le hunde los
+dedos en el pecho, donde late el Orbe bajo la piel.
 
-                              STELLA
-                    Porque sé quién eres.
+                    SELKA (CONT'D)
+              (un rezo aprendido)
+          Por la luz que nos robaste.
 
-Eso la detiene medio segundo. Solo medio. Vuelve a cargar. Un tajo abre
-la armadura de Stella en el costado. Ella cae sobre una rodilla. Levanta
-una mano —no para atacar. Para pedir.
+ARRANCA el Orbe. La luz de Stella se apaga calle por calle. Cae en coma.
+Un cascarón.
 
-                              STELLA (CONT'D)
-                    Mamá.
-                         (la General se queda quieta)
-                    Quiero que me digas por qué mataste a mamá.
+Entra el REY. Selka le entrega el Orbe. Él lo inserta en la consola. La
+luz no vuelve. El suelo TIEMBLA con fuerza de cataclismo.
 
-Silencio. Solo la lluvia.
+                    SELKA
+              (alerta)
+          Majestad, el Orbe debería—
 
-                              GENERAL
-                         (plana — y eso es lo terrible)
-                    He ejecutado a trescientas cuarenta
-                    personas en veinte años. No recuerdo a
-                    ninguna como "mamá". Las impostoras siempre
-                    dicen que te quieren. Es la primera
-                    mentira.
+El Rey RÍE — mil voces metálicas.
 
-                              STELLA
-                         (rota)
-                    No era una impostora. Era nuestra—
+                    REY
+              (mil voces)
+          Llevan veinte años diciéndome qué
+          debería hacer la luz.
 
-La General no la deja terminar. Un golpe brutal con el pomo del sable.
-Stella se estrella contra el pie del trono. La General se inclina sobre
-ella. Mecánica. Sin odio, que sería más humano. Solo procedimiento. Le
-hunde los dedos en el pecho, donde la luz del ORBE late bajo la piel.
+Su rostro hierve como cera. Se transforma en SELKA NIÑA, cubierta de
+hollín.
 
-                              GENERAL
-                         (un rezo aprendido)
-                    Por la luz que nos robaste.
+                    NIÑA (REY)
+          Esta carita abrió muchas puertas.
 
-ARRANCA el Orbe.
+Y otra vez: en la MADRE muerta, VERA, pecho destrozado, rostro gentil.
 
-[El grito de Stella no sale: es un colapso. La luz de su piel se apaga de
-golpe, como una ciudad quedándose sin energía, calle por calle.]
+ÁNGULO — STELLA, en el suelo, agonizando. Ve a su madre acercarse. No ve
+el monstruo. Sonríe.
 
-Stella se desploma. Inmóvil. Un cascarón. La General se yergue, el Orbe
-latiendo en su puño. No lo mira con codicia. Lo mira como quien por fin
-termina un turno larguísimo.
+                    STELLA
+              (apenas)
+          Mamá... viniste.
 
-                              GENERAL (CONT'D)
-                         (a los rebeldes, sin volverse)
-                    Ya pueden contarlo. La traidora cayó.
+Cierra los ojos. Un latido. Silencio. Su corazón se detiene. Se va
+creyendo que la abrazan. Se va creyendo que falló.
 
-Nadie aplaude. Uno de los rebeldes llora en silencio. La General nota el
-brazalete de Stella parpadear una vez. Débil. Aparta la vista.
+ÁNGULO — SELKA. La cosa-madre se inclina hacia ella, voz dulce de Vera.
 
-El REY entra. Túnica impecable. Tiende la mano.
+                    COSA-MADRE
+          Fui yo. Creyó que te abrazaba. Soltó el
+          arma, lloraba de alivio. Y le clavé la
+          cuchilla... vistiendo tu rostro. Tú no
+          la mataste, pequeña. Yo te robé hasta el
+          recuerdo de no haberlo hecho. Fue
+          exquisito.
 
-                              REY
-                    Lo hiciste bien.
+Silencio absoluto. Selka, sin saber por qué, empieza a tararear una nana.
+La nana se quiebra en un sollozo. El sollozo en un grito.
 
-La General le entrega el Orbe. Procedimiento. No triunfo. El Rey camina
-hasta la consola central. Inserta el Orbe. Todos esperan la luz. No
-vuelve la luz. El suelo TIEMBLA. Una grieta cruza el trono.
+                    SELKA
+          ERA MI MADRE.
 
-                              GENERAL
-                         (alerta)
-                    ¿Qué es esto? Majestad, el Orbe debería—
+Enciende el sable, se lanza. La ilusión ESTALLA. El falso rey toma su
+forma real: VORTHAN. El Parásito. Colosal, biomecánico, mil bocas.
 
-El Rey empieza a REÍR. No es su voz. Son mil voces a la vez, metálicas,
-superpuestas.
+De un solo tajo, le SECCIONA el brazo a Selka.
 
-                              REY
-                         (mil voces)
-                    "Debería." Llevan veinte años diciéndome
-                    qué debería hacer la luz.
+Pero Vorthan no la remata, ni la persigue. Ya tiene el Orbe. Bajo los
+cimientos, su nave nodriza despierta; el monstruo solo quiere despegar.
 
-Se vuelve. Y su rostro perfecto empieza a HERVIR. La carne corre como
-cera sobre una llama. La General retrocede. La mano va, por instinto, a
-la empuñadura. La cera se reorganiza. El Rey se convierte en una NIÑA DE
-OCHO AÑOS. Cubierta de hollín. La cara de la propia General, de pequeña.
+Selka, manca, agonizante —veinte años de imperio cayéndosele del cuerpo
+como una armadura que ya no le sirve— toma su última decisión: deja caer
+el sable, le da la espalda al trono, y en lugar de huir o vengarse, se
+arrastra hacia el cuerpo inerte de su hermana.
 
-                              GENERAL
-                         (un hilo de voz)
-                    ...Esa soy yo.
+La resistencia muere por docenas para cubrirla. Un muro REVIENTA: BROG y
+NIMA, bajo fuego pesado.
 
-La niña sonríe con demasiados dientes.
+                    NIMA
+              (ve a Stella)
+          No, no, no—
 
-                              NIÑA (REY)
-                         (mil voces, boca infantil)
-                    Esta carita abrió muchas puertas.
+Nima carga a Stella. Brog agarra a Selka por el muñón.
 
-Y vuelve a hervir. La cera corre. Y toma la forma de una MUJER. La MADRE.
-El pecho destrozado, pero el rostro dolorosamente gentil.
-
-ÁNGULO — STELLA, en el suelo. El pulso apagándose. La visión borrosa. Ve
-a la mujer acercarse. No ve el monstruo. Ve a su MADRE. Una lágrima le
-resbala. Sonríe. Paz.
-
-                              STELLA
-                         (apenas audible)
-                    Mamá... viniste.
-
-Cierra los ojos. Un latido. Y el silencio. Su corazón se detiene.
-
-ÁNGULO — LA GENERAL, de pie. Para ella no hay consuelo. La cosa-madre se
-inclina hacia ella. Habla con la voz suave de la madre.
-
-                              COSA-MADRE
-                         (voz de la madre)
-                    Fui yo.
-
-                              GENERAL
-                    ...Qué.
-
-                              COSA-MADRE
-                         (tierna)
-                    Creyó que te abrazaba. Corrió hacia mí
-                    bajo la lluvia. Soltó el arma. Lloraba de
-                    alivio. Y le clavé la cuchilla... vistiendo
-                    tu rostro.
-                         (saborea)
-                    Tú no la mataste, pequeña. Yo te robé hasta
-                    el recuerdo de no haberlo hecho. Fue
-                    exquisito.
-
-Silencio absoluto. Hasta la lluvia parece callar. Y entonces, muy bajo,
-la General empieza a TARAREAR. La nana. La de la infancia. La que nunca
-supo de dónde venía. Ahora lo sabe: era de su madre. La nana se quiebra
-en un sollozo. El sollozo en un grito.
-
-                              GENERAL
-                         (desgarrada)
-                    ERA MI MADRE.
-
-ENCIENDE el sable.
-
-                              GENERAL (CONT'D)
-                    ERA MI MADRE—
-
-Se lanza. Todo el control quirúrgico, evaporado. Solo una hija con un
-cuchillo de luz. La ilusión de la madre EXPLOTA hacia afuera — y el falso
-rey toma su VERDADERA FORMA: el PARÁSITO. Colosal. Biomecánico. Mil
-bocas. El devorador de mundos. Un solo movimiento, a una velocidad
-imposible de seguir.
-
-El brazo de la General cae al mármol.
-
-Ella ni siquiera grita. Cae de rodillas, mirando el muñón, mirando a
-Stella muerta a tres metros. El Parásito la IGNORA. Empieza a destrozar
-el palacio para desenterrar algo enorme y latente bajo los cimientos: su
-NAVE NODRIZA.
-
-EXPLOSIÓN — el muro vuela en pedazos. BROG y NIMA irrumpen bajo fuego
-pesado.
-
-                              NIMA
-                         (sobre el caos)
-                    ¡La niña! ¿Dónde está la—
-                         (ve a Stella)
-                    No. No, no, no—
-
-Nima CARGA el cuerpo inerte de Stella. Brog agarra a la General por el
-muñón cauterizado y la arrastra. Ella no se resiste.
-
-                              GENERAL
-                         (ida)
-                    La maté. Sin tocarla, la maté.
-
-                              BROG
-                         (media lengua, grave)
-                    ...Vienes.
+                    BROG
+              (media lengua)
+          No te dejo.
 
 EXT. ÓRBITA BAJA DE ERDIA — CONTINUO
 
-La nave de los cazadores rompe la atmósfera. Abajo, el palacio se hunde
-y, de sus ruinas, ASCIENDE la nave nodriza del Parásito —montañas de
-metal vivo iluminadas desde dentro por la luz robada del Orbe—. Erdia se
-resquebraja. Líneas de fuego cruzan el planeta entero.
+La nave del Cazador rompe la atmósfera. De las ruinas del palacio ASCIENDE
+la nave nodriza de Vorthan, iluminada por la luz robada, abre un portal y
+desaparece. Erdia se resquebraja.
 
-INT. NAVE DEL CAZADOR — BAHÍA — CONTINUO
+                    THERON (V.O.)
+          Veinte mil años persiguiéndolo. Por fin
+          tiene lo que vino a buscar. Y por fin sé
+          adónde va a llevarlo.
 
-Nima deposita a Stella en una cápsula de soporte vital. Las máquinas
-chillan: SIN PULSO. Brog suelta a la General contra un mamparo. Ella se
-queda ahí, un solo brazo, mirando el cristal donde flota el cuerpo de su
-hermana. No llora. Está más allá del llanto.
+INT. NAVE DEL CAZADOR — BAHÍA MÉDICA — CONTINUO
 
-A través de la ventanilla, la nave nodriza del Parásito abre un portal
-hiperespacial y desaparece — llevándose el Orbe hacia la oscuridad.
+Stella flota en un tanque. Las máquinas chillan: SIN PULSO.
 
-                              EL CAZADOR (V.O.)
-                         (desde el puente, grave)
-                    Veinte mil años persiguiéndolo. Por fin
-                    tiene lo que vino a buscar.
-                         (beat)
-                    Y por fin sé dónde va a llevarlo.
+Selka, muñón cauterizado, es esposada — prisionera de una tripulación que
+desprecia a su imperio. Antes de que la encierren, apoya su única mano
+contra el cristal del tanque.
 
-La General apoya su única mano contra el cristal del tanque de Stella.
+                    SELKA
+              (susurro, a la hermana que no la oye)
+          No sabía que eras tú. Despierta.
+          Despierta y déjame decírtelo a la cara.
 
-                              GENERAL
-                         (susurro, a la hermana que no la oye)
-                    No sabía que eras tú. Despierta. Despierta
-                    y déjame decírtelo a la cara.
+La nave se hunde en el negro, persiguiendo al monstruo. Atrás quedan un
+mundo en ruinas, un padre esclavo, una madre que ya no está.
 
-PUSH IN lento sobre el rostro inmóvil de Stella tras el cristal.
+Y en la muñeca de un cuerpo sin pulso, el brazalete de GIX late una vez.
+Muy débil. Negándose —contra toda razón— a ser el último latido.
+
+PUSH IN sobre el rostro inmóvil de Stella tras el cristal.
 
 CORTE A NEGRO.
 
 TÍTULO: EL NODO DE ERDIA
 
-FIN
+FIN (Película 1)
