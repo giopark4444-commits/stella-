@@ -32,7 +32,7 @@ no sabía aún lo importante que era eso. No sabía, todavía, casi nada.
 
 Aquella mañana —la última mañana del mundo viejo, aunque nadie lo
 supiera— Stella se cruzó con su madre en un pasillo. Vera llevaba en
-brazos a Vela, la hermana pequeña, dormida, de cuatro años. Stella le
+brazos a Selka, la hermana pequeña, dormida, de cuatro años. Stella le
 apartó a la niña un mechón de la cara y preguntó cuándo sería lo bastante
 grande para jugar con ella de verdad. *Demasiado pronto*, dijo su madre.
 *Siempre demasiado pronto. Disfrútala así.* Y al despedirse, Vera le dijo
@@ -58,12 +58,12 @@ Las alarmas empezaron a sonar. Naio llamó a su hija por el comunicador y
 le ordenó lo único que importaba: tomar el Orbe y huir del planeta. Pero
 Stella, que era quien era, no obedeció. Corrió hacia las habitaciones a
 buscar a su madre y a su hermana, y las encontró vacías, las cortinas al
-viento, un juguete de Vela tirado en el suelo. Lo recogió. Y entonces una
+viento, un juguete de Selka tirado en el suelo. Lo recogió. Y entonces una
 explosión la mandó al único lugar donde podían estar: la cámara de la
 Fuente.
 
 Allí la esperaba el Rey. De pie junto al pedestal, bellísimo y frío, con
-la guardia imperial sosteniendo a la pequeña Vela en alto, por el cuello,
+la guardia imperial sosteniendo a la pequeña Selka en alto, por el cuello,
 los pies sin tocar el suelo. *El Orbe, Stella*, dijo el Rey con una calma
 que helaba el cuarto. *O tu hermana.*
 
@@ -72,7 +72,7 @@ por un instante de verdad pareció posible que una niña y un animal de luz
 le ganaran a un imperio. Solo por un instante. Después vino la paliza, y
 no tuvo nada de hermosa: la armadura abollándose, algo cediendo seco
 dentro de ella, la sangre roja sobre el mármol blanco. Pero en el caos la
-guardia soltó a Vela un segundo, el único hueco de toda la noche, y Stella
+guardia soltó a Selka un segundo, el único hueco de toda la noche, y Stella
 —medio ciega de dolor— tuvo que elegir. Y no corrió hacia su hermana.
 Corrió hacia el Orbe.
 
@@ -80,14 +80,14 @@ Lo agarró con las dos manos y la luz la quemó, porque el Orbe no la
 reconocía como su cauce; la reconocía como carne asustada y la rechazaba.
 Stella rezó con la fórmula de su pueblo —*pásame limpio, pásame limpio*—
 y la luz no la escuchó. Y entendió, con catorce años, la cosa más cruel:
-que si se quedaba a salvar a Vela, el Orbe volvería al Rey, el Rey
+que si se quedaba a salvar a Selka, el Orbe volvería al Rey, el Rey
 terminaría de devorar el planeta, y morirían las dos de todos modos, y
 todos los demás también. La decisión la partió por la mitad. *Perdóname*,
 le susurró a su hermana, un susurro que jamás le llegaría. Y encendió la
 mochila propulsora.
 
 Mientras salía disparada hacia el techo, abajo, cada vez más pequeña en el
-puño de una máquina, Vela gritaba su nombre. No se oía el grito; el rugido
+puño de una máquina, Selka gritaba su nombre. No se oía el grito; el rugido
 de los motores se lo tragaba. Solo se veían los labios de una niña de
 cuatro años formando *¡Stella! ¡Stella!* hacia el techo que se tragaba a
 la única persona del mundo que lo arreglaba todo. Dos nombres lanzados al
@@ -114,7 +114,7 @@ sangre, había saturado los radares de un cazador que llevaba milenios
 persiguiendo a una sola cosa: una plaga vieja como las estrellas, un
 parásito que no conquistaba mundos sino que se los comía y se ponía su
 cara. El Cazador y su tripulación de parias —Brog, un gigante de roca
-orgánica; Vex, una mecánica de cuatro brazos; y otros náufragos del
+orgánica; Nima, una mecánica de cuatro brazos; y otros náufragos del
 universo— no vieron en Stella a una niña, sino a la mejor carnada que el
 azar les había puesto en las manos. *No te salvamos*, le dijo el Cazador.
 *Te recogimos. No hay casa. Hay caza.* Y le ofreció un trato: la
@@ -124,7 +124,7 @@ monstruo.
 Stella, que ya no tenía a nadie, dijo: *enséñame*.
 
 Y así, sin proponérselo, encontró una segunda familia entre aquellos
-seres que también habían perdido sus hogares. Vex reparaba sin descanso
+seres que también habían perdido sus hogares. Nima reparaba sin descanso
 cosas que ya funcionaban, porque no podía reparar las tres lunas que un
 contrato suyo había ayudado a borrar, y le enseñó a Stella que se puede
 sobrevivir a la culpa sin volverse ni mártir ni máquina. Brog, que era el
@@ -150,11 +150,11 @@ demasiado pequeño—, la llamaron *la que estancó la luz*, usando la palabra
 más sagrada de su pueblo como un cuchillo. Y el pueblo no la odió: la
 repudió, que es peor.
 
-Y la pequeña Vela creció con ese odio inyectado en la sangre. Creció
+Y la pequeña Selka creció con ese odio inyectado en la sangre. Creció
 golpeando un maniquí con la cara de su hermana pintada en él, hasta
 convertirse en la implacable General de la Guardia Vacía —los soldados que
 renunciaban voluntariamente a ser cauce, que se vaciaban de luz para poder
-matar sin que les temblara la mano—. Vela fue la más vacía de todos. La
+matar sin que les temblara la mano—. Selka fue la más vacía de todos. La
 más perfecta.
 
 En el décimo año de aquella agonía, su madre todavía vivía. Vera había
@@ -168,8 +168,8 @@ levantó hacia ella un rostro de pronto vacío, sin lágrimas, sin nada, y
 levantó una mano contra su pecho.
 
 Lo que pasó después, todos creyeron entenderlo. El Rey le entregó a la
-Vela adulta la placa militar chamuscada de su madre. *Murió intentando
-recuperar lo que tu hermana destruyó*, le mintió. Y Vela cerró la mano
+Selka adulta la placa militar chamuscada de su madre. *Murió intentando
+recuperar lo que tu hermana destruyó*, le mintió. Y Selka cerró la mano
 sobre la placa y no lloró, y algo dentro de ella se selló para siempre.
 
 ---
@@ -189,7 +189,7 @@ ojos eran los mismos. Se abrazaron como se abraza a un muerto que ha
 vuelto. Y entonces Stella preguntó por su madre, y supo —por el silencio
 de su padre antes que por sus palabras— que Vera había sobrevivido diez
 años solo para que ahora le dijeran que estaba muerta. Y peor: que la
-había matado Vela, su propia hija, sin que le temblara la cara, delante de
+había matado Selka, su propia hija, sin que le temblara la cara, delante de
 veinte testigos.
 
 *A mí me dijeron que tú la mataste*, le confesó Naio, deshecho. *A ella le
@@ -201,12 +201,12 @@ Y bajo todo aquel dolor, la vieja falla de Stella levantó la cabeza otra
 vez: la necesidad de arreglarlo todo, de salvarlos a todos, de decidir
 ella sola. Rechazó el plan de los rebeldes. *No tengo veinte años para un
 plan, papá. Tengo esta noche.* Y aprovechando un asalto de la resistencia,
-subió sola al palacio, mientras Brog y Vex —que habían bajado tras ella,
+subió sola al palacio, mientras Brog y Nima —que habían bajado tras ella,
 porque claro que habían bajado— le cubrían las espaldas. *No te dejo*, le
 dijo Brog con su media lengua. Pero lo de arriba, dijo Stella, era suyo.
 
 Cayó desde el techo de cristal de la Sala del Trono. Y allí, esperándola,
-flanqueada por prisioneros rebeldes de rodillas, estaba la General. Vela.
+flanqueada por prisioneros rebeldes de rodillas, estaba la General. Selka.
 Adulta. Blanca e impecable como una estatua a la que le hubieran quitado
 algo y nunca se lo hubieran devuelto.
 
@@ -296,7 +296,7 @@ mirando a su hermana muerta a tres metros, mientras el monstruo empezaba a
 destrozar el palacio para desenterrar su gigantesca nave nodriza,
 dormida bajo los cimientos.
 
-El muro estalló. Brog y Vex irrumpieron bajo fuego pesado. Vex cargó el
+El muro estalló. Brog y Nima irrumpieron bajo fuego pesado. Nima cargó el
 cuerpo inerte de Stella; Brog agarró a la General por el muñón
 cauterizado y la arrastró, y ella no se resistió, porque ya no le quedaba
 nada con qué resistirse. *La maté*, murmuraba, ida. *Sin tocarla, la

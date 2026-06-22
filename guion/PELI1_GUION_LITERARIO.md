@@ -8,7 +8,7 @@
 > Guion literario: prosa narrativa, acción y diálogo, sin acotaciones técnicas de
 > cámara. Versión desarrollada (no el máster comprimido): la utopía respira, Vera vive
 > más, hay más subtexto. Los Actos Segundo y Tercero continúan en entregas siguientes.
-> Reparto: Stella · Vela · Vera · Naio · Gix · el Cazador, Brog, Vex · pueblo naiel.
+> Reparto: Stella · Selka · Vera · Naio · Gix · el Cazador, Brog, Nima · pueblo naiel.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -97,7 +97,7 @@ madre.
 VERA. Cuarenta y tantos. Una de esas bellezas que el cansancio no apaga
 sino que vuelve más cierta. Pelo blanco impecable: el voto intacto. En
 brazos lleva a una niña dormida, de cuatro años, mejilla aplastada contra
-su hombro: VELA.
+su hombro: SELKA.
 
                     VERA
               (un susurro, sin alarma)
@@ -115,7 +115,7 @@ misma.
                     STELLA
               (muy bajo)
           ¿Cuándo va a ser grande para jugar
-          conmigo de verdad, Vela?
+          conmigo de verdad, Selka?
 
                     VERA
           Demasiado pronto. Siempre demasiado
@@ -126,7 +126,7 @@ misma.
 
 Stella pone los ojos en blanco —es su madre siendo su madre— pero no se
 aparta. Vera, con la mano libre, le acomoda a Stella un mechón propio
-detrás de la oreja, el mismo gesto que acaba de hacer Stella con Vela. Un
+detrás de la oreja, el mismo gesto que acaba de hacer Stella con Selka. Un
 gesto que viaja hacia abajo por la familia sin que nadie lo decida.
 
                     VERA (CONT'D)
@@ -163,7 +163,7 @@ el tiempo del mundo.
 
 No volverá a ver a su madre.
 
-Vera abraza un poco más fuerte a la pequeña Vela dormida, y sigue su
+Vera abraza un poco más fuerte a la pequeña Selka dormida, y sigue su
 camino en la dirección contraria.
 
 
@@ -335,7 +335,7 @@ La transmisión chisporrotea. Otro temblor, más fuerte. Las luces del
 pasillo parpadean todas a la vez, como un pestañeo.
 
 Stella mira a un lado del corredor: hacia la cámara de la Fuente. Mira al
-otro: hacia el ala de las habitaciones. Hacia su madre. Hacia Vela.
+otro: hacia el ala de las habitaciones. Hacia su madre. Hacia Selka.
 
 Y elige. Por instinto, por amor, por la peor de las razones buenas: echa
 a correr en la dirección equivocada.
@@ -363,13 +363,13 @@ Stella entra como una exhalación en las habitaciones de la familia.
 Vacías.
 
 Las cortinas se hinchan hacia adentro por una ventana abierta. Una silla
-volcada. Un juguete de Vela en el suelo. Señales de una salida a la
+volcada. Un juguete de Selka en el suelo. Señales de una salida a la
 fuerza, o de una huida a la carrera, o de las dos cosas. Pero ni un alma.
 
                     STELLA
               (girando sobre sí misma, la voz
                subiendo)
-          ¿Mamá? ¡Vela!
+          ¿Mamá? ¡Selka!
               (nada; solo las alarmas)
           ¡MAMÁ!
 
@@ -393,7 +393,7 @@ naiel ama desde que nace. Bello. Sereno. Gélido.
 
 A sus pies, la GUARDIA IMPERIAL —máquinas de guerra de cristal negro—
 sostiene en alto a una niña de cuatro años por el cuello. Los piececitos
-de Vela patean el aire, sin alcanzar el suelo.
+de Selka patean el aire, sin alcanzar el suelo.
 
 Stella entra corriendo y se convierte en piedra.
 
@@ -424,7 +424,7 @@ Abre una mano hacia ella. Una invitación. Una orden.
                sin un grado de calor)
           El Orbe, Stella. O tu hermana.
 
-La pequeña Vela, aterrada, estira una manita temblorosa hacia Stella. No
+La pequeña Selka, aterrada, estira una manita temblorosa hacia Stella. No
 entiende qué pasa. No entiende de reyes ni de orbes ni de traiciones. Solo
 sabe una cosa, con toda la certeza de sus cuatro años: que su hermana está
 ahí, y que su hermana lo arregla todo.
@@ -454,7 +454,7 @@ golpes que puede, y con cada uno parpadea más débil, se apaga un poco más.
 Stella escupe sangre sobre el mármol blanquísimo del suelo. La sangre es
 de un rojo obscenamente brillante contra tanto blanco.
 
-Pero la guardia, para terminar con ella, ha soltado a Vela un segundo. Un
+Pero la guardia, para terminar con ella, ha soltado a Selka un segundo. Un
 solo segundo. El único hueco que va a existir en toda esta noche.
 
 Y Stella no corre hacia su hermana.
@@ -500,7 +500,7 @@ luz no es de nadie, y menos de quien la agarra con miedo.
           de Cauce Mayor.
 
 Stella, abrazada a un Orbe que la quema y que no la quiere, levanta la
-vista. Mira hacia la cámara: hacia Vela, otra vez colgando del puño de la
+vista. Mira hacia la cámara: hacia Selka, otra vez colgando del puño de la
 guardia. Mira la grieta que ya parte la pared en dos. Siente, bajo las
 rodillas, el suelo del palacio hundiéndose hacia ese punto profundo y
 hambriento.
@@ -515,7 +515,7 @@ La decisión la parte por la mitad, limpiamente, como un tajo. Y la mitad
 que sobrevive es la que ella va a odiar el resto de su vida.
 
                     STELLA
-              (a Vela, un susurro que jamás le va
+              (a Selka, un susurro que jamás le va
                a llegar)
           Perdóname.
 
@@ -527,7 +527,7 @@ Y activa la mochila propulsora.
 Con un estruendo que ahoga las alarmas, Stella sale disparada hacia el
 techo, el Orbe abrasándole el pecho contra el que lo aprieta.
 
-Abajo, cada vez más pequeña, encogida en el puño de una máquina, VELA
+Abajo, cada vez más pequeña, encogida en el puño de una máquina, SELKA
 grita.
 
 No oímos el grito. El rugido de los propulsores se lo traga entero. Solo
@@ -535,7 +535,7 @@ vemos los labios de una niña de cuatro años formar un nombre, una vez, y
 otra, y otra, hacia el techo que se está tragando a la única persona del
 mundo que la arregla todo.
 
-                    VELA
+                    SELKA
               (sin un solo sonido)
           ¡Stella! ¡Stella!
 
@@ -636,7 +636,7 @@ En su muñeca, el brazalete emite un brillo débil, intermitente. Gix no
 sale. Solo late ahí dentro, tenue, como si él también estuviera demasiado
 herido para volver a tomar forma.
 
-Stella abre el puño. Dentro sigue el juguete de Vela, que recogió del
+Stella abre el puño. Dentro sigue el juguete de Selka, que recogió del
 suelo del cuarto vacío y que no ha soltado en toda la huida.
 
                     STELLA

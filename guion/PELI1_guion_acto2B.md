@@ -2,7 +2,7 @@
 
 > Del aterrizaje en Erdia hasta la caída de Stella en la Sala del Trono (que enlaza con
 > el Acto 3, ya escrito en PELI1_final_fui_yo.md). Aquí Stella descubre que Vera
-> sobrevivió aquella noche... y que está muerta, y que —según todos— la mató Vela. La
+> sobrevivió aquella noche... y que está muerta, y que —según todos— la mató Selka. La
 > mentira, que el público ya tragó en el Acto 2A, ahora cae sobre Stella. Borrador.
 
 ---
@@ -18,7 +18,7 @@ El azul se ha ido. El planeta está envuelto en una **costra de neblina
 parda**, surcada de luces industriales enfermas. Donde había ríos de
 luz, hay chimeneas.
 
-VEX (O.S.)
+NIMA (O.S.)
 (suave, a su lado)
 ¿Esa era?
 
@@ -147,10 +147,10 @@ Delante de veinte de los nuestros. No pestañeó.
 
 STELLA
 (negando, retrocediendo)
-No. No, Vela era una bebé, Vela me agarraba el dedo, ella no—
+No. No, Selka era una bebé, Selka me agarraba el dedo, ella no—
 
 REBELDE
-Vela lleva veinte años cazándonos. Ha vaciado aldeas enteras. La niña
+Selka lleva veinte años cazándonos. Ha vaciado aldeas enteras. La niña
 que recuerdas se murió hace mucho.
 (señala arriba, hacia el palacio)
 Lo que vive ahí arriba con su cara solo sabe ejecutar.
@@ -179,7 +179,7 @@ ella sola lo que hay que hacer.
 
 STELLA
 (baja, peligrosa)
-¿Dónde está ella ahora. Vela.
+¿Dónde está ella ahora. Selka.
 
 REBELDE
 (cauta)
@@ -215,10 +215,10 @@ No es venganza.
 (un beat, mintiéndose)
 Es mi hermana.
 
-Brog y Vex aparecen por el túnel — bajaron tras ella, claro que bajaron.
-Vex deja caer un petate de armas y artilugios.
+Brog y Nima aparecen por el túnel — bajaron tras ella, claro que bajaron.
+Nima deja caer un petate de armas y artilugios.
 
-VEX
+NIMA
 (seca)
 "Solo mirar", dijo.
 
@@ -251,7 +251,7 @@ Bajo el cristal: el trono, una garganta de metal negro. Arrodillados en
 hilera, rebeldes capturados en el asalto. Y de pie entre ellos, blanca e
 impecable como una estatua a la que le quitaron algo —
 
-LA GENERAL. Vela. Adulta. Esperando.
+LA GENERAL. Selka. Adulta. Esperando.
 
 GENERAL
 (sin mirar arriba)
@@ -274,19 +274,19 @@ FIN DEL ACTO 2B
   propio pelo sucio. El saludo más hermoso del pueblo, vuelto burla. Prepara el peso de
   ese mismo saludo en boca de Stella.
 - **El triple engaño** queda explícito por boca de Naio: "A todos nos dieron una mentira
-  distinta." A Naio le dijeron que Stella mató a Vera; a Vela, que Stella destruyó el
+  distinta." A Naio le dijeron que Stella mató a Vera; a Selka, que Stella destruyó el
   mundo; al pueblo, que Stella "estancó la luz". El público sabe que TODAS son falsas:
   máxima ironía trágica antes del clímax.
 - **La falla de Stella** la lleva al trono: rechaza el plan, entra sola, "tengo esta
   noche". Es su error de carácter —decidir sola, salvar a todos— el que la mete en la
   trampa del Acto 3.
 - **"No te dejo" de Brog** se planta aquí para pagarlo en el Acto 3 (cuando arrastre a
-  Vela). 
+  Selka). 
 - El acto termina exactamente donde arranca la escena del trono ya escrita, sin costura.
 
 ## Pendiente
 - ¿Stella le revela a la Rebelde / a Naio que trae una tripulación alienígena, o lo
-  mantiene oculto para no complicar la confianza? (Ahora: Brog y Vex aparecen y se
+  mantiene oculto para no complicar la confianza? (Ahora: Brog y Nima aparecen y se
   asume.)
 - Afinar cuánto sabe el público, al final del 2B, sobre que el "Rey" es el Parásito.
   Propuesta: que NO lo sepa aún —que el golpe del Acto 3 también lo sorprenda—, salvo el

@@ -35,7 +35,7 @@ choque con la tripulación. Primer fracaso intentando controlar el Orbe (le quem
 las manos). *Cierre:* decide quedarse y entrenar.
 
 **EP 3 — "Cinco años / veinte años"**
-Estructura paralela: entrenamiento de Stella y los lazos con Brog y Vex (ver doc C)
+Estructura paralela: entrenamiento de Stella y los lazos con Brog y Nima (ver doc C)
 INTERCALADOS con Erdia pudriéndose y la hermanita convirtiéndose en soldado. Aquí
 va, dramatizada, **la muerte de la madre** (ver arreglo #5). *Cierre:* el Rey le
 entrega a la General adulta la placa chamuscada. La mentira queda sellada.
@@ -57,7 +57,7 @@ LA ESCENA DEL TRONO (doc A). Termina con el Orbe arrancado y Stella en coma.
 **EP 7 — "Fui yo"** *(tu mejor episodio — el pico)*
 La transformación (cera, las formas, la madre). La doble escena: Stella muere feliz
 en la ilusión / la General escucha "Fui yo… vistiendo tu rostro. Fue exquisito".
-El quiebre. El Parásito en su forma real le secciona el brazo. Brog y Vex irrumpen,
+El quiebre. El Parásito en su forma real le secciona el brazo. Brog y Nima irrumpen,
 extracción. *Cierre:* huyen NO a la seguridad — persiguen al Parásito a su nido.
 
 **EP 8 — "El nodo"**

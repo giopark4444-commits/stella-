@@ -8,7 +8,7 @@
 
 ## LA GENERAL (la hermana menor) — la coprotagonista, no la villana
 
-**Nombre propio (dáselo):** sugerencia — **Nyx**, o **Vela** (de "vela"/luz que
+**Nombre propio (dáselo):** sugerencia — **Nyx**, o **Selka** (de "vela"/luz que
 se consume). Tener nombre la humaniza; "la General" es lo que el imperio hizo de
 ella.
 
@@ -96,16 +96,16 @@ le dice una de esas palabras — la que significa, aproximadamente, "no te dejo"
 
 ---
 
-## VEX — el mecánico de cuatro brazos
+## NIMA — el mecánico de cuatro brazos
 
-**El cínico con culpa:** Vex era ingeniero en una flota que construyó armas vendidas
+**El cínico con culpa:** Nima era ingeniero en una flota que construyó armas vendidas
 al mejor postor; uno de esos contratos ayudó a destruir un mundo. Repara cosas
 compulsivamente porque no puede reparar lo que hizo. Es el humor de la tripulación,
 y el humor es su defensa.
 
 **Su vínculo con Stella:** discuten todo el tiempo; es quien le enseña que se puede
 sobrevivir a la culpa sin volverse ni mártir (Stella) ni máquina (la General) —la
-tercera vía. Por eso es Vex quien carga el cuerpo inerte de Stella en EP7: el que
+tercera vía. Por eso es Nima quien carga el cuerpo inerte de Stella en EP7: el que
 arregla cosas, cargando lo único que no sabe si podrá arreglar.
 
 ---
@@ -113,7 +113,7 @@ arregla cosas, cargando lo único que no sabe si podrá arreglar.
 ## Cómo estos personajes pagan el final
 
 El final ("Stella elige las estrellas") solo emociona si el público QUIERE a esta
-tripulación. Por eso el doc B mete a Brog y Vex en el EP3 con escenas propias, no en
+tripulación. Por eso el doc B mete a Brog y Nima en el EP3 con escenas propias, no en
 una frase. La despedida del final no es "deja su planeta": es **elige a la familia
 que la vio rota y se quedó, por encima de la familia que el destino le dio** — y lo
 hace sabiendo que su hermana, por fin, está a salvo eligiendo lo contrario. Las dos

@@ -68,7 +68,7 @@ La cápsula a la deriva en el negro absoluto. Stella llorando la hermana que aba
 
 **11. El Cazador (30–34).**
 Días después, al borde de la muerte. La nave inmensa y oscura del Cazador la absorbe.
-Brog (gigante de roca), Vex (cuatro brazos), parias de las estrellas. **No la rescatan
+Brog (gigante de roca), Nima (cuatro brazos), parias de las estrellas. **No la rescatan
 por bondad.**
 
 **12. [HISTORIA B / el pacto] (34–38).**
@@ -80,7 +80,7 @@ monstruo. *(La Historia B —la nueva familia— es lo que la curará.)*
 **13. [DIVERSIÓN Y JUEGO / promesa de la premisa] (38–55).**
 La vida en la nave. Entrenamiento. Choques y vínculos con la tripulación:
 - Brog le enseña las pocas palabras de su idioma muerto (él es el último de su especie).
-- Vex discute con ella, repara cosas compulsivamente, le muestra la tercera vía: ni
+- Nima discute con ella, repara cosas compulsivamente, le muestra la tercera vía: ni
   mártir ni máquina.
 - Stella fracasa una y otra vez con el Orbe (le sigue quemando). Aprende a canalizarlo
   poco a poco. *(Pago progresivo del setup del beat 7.)*
@@ -128,7 +128,7 @@ madre sin pestañear** frente a todos. Stella se niega a creerlo. La grieta emoc
 **20. El plan / la resistencia (77–84).**
 Esa noche, la resistencia prepara un asalto al palacio. Stella decide entrar: necesita
 ver a su hermana, recuperar el Orbe, salvar lo que quede. *(Su falla otra vez: decide
-por todos, entra sola.)* Reencuentro táctico con Brog y Vex, que la respaldarán desde
+por todos, entra sola.)* Reencuentro táctico con Brog y Nima, que la respaldarán desde
 fuera.
 
 **21. [RUMBO AL CLÍMAX] (84–90).**
@@ -187,7 +187,7 @@ brazo a la General.** El monstruo la ignora y empieza a destrozar el palacio par
 desenterrar su **nave nodriza** latente bajo los cimientos.
 
 **31. La extracción (118–121).**
-El muro vuela. Brog y Vex irrumpen bajo fuego pesado. Vex carga el cuerpo inerte de
+El muro vuela. Brog y Nima irrumpen bajo fuego pesado. Nima carga el cuerpo inerte de
 Stella (sin pulso). Brog arrastra a la General agonizante (que no se resiste: no le
 queda nada). Escapan hacia la órbita baja mientras Erdia se resquebraja.
 

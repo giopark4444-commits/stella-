@@ -151,15 +151,15 @@ desenterrar algo enorme y latente bajo los cimientos: su NAVE NODRIZA.
 
 EXPLOSIÓN — el muro vuela en pedazos.
 
-BROG (mole de roca) y VEX (cuatro brazos) irrumpen bajo fuego pesado.
+BROG (mole de roca) y NIMA (cuatro brazos) irrumpen bajo fuego pesado.
 
-VEX
+NIMA
 (gritando sobre el caos)
 ¡La niña! ¿Dónde está la—
 (ve a Stella)
 No. No, no, no—
 
-Vex CARGA el cuerpo inerte de Stella. Brog agarra a la General por el
+Nima CARGA el cuerpo inerte de Stella. Brog agarra a la General por el
 muñón cauterizado y la arrastra. Ella no se resiste. No le queda nada
 para resistir.
 
@@ -182,7 +182,7 @@ Erdia se resquebraja. Líneas de fuego cruzan el planeta entero.
 
 INT. NAVE DEL CAZADOR — BAHÍA — CONTINUO
 
-Vex deposita a Stella en una cápsula de soporte vital. Las máquinas
+Nima deposita a Stella en una cápsula de soporte vital. Las máquinas
 chillan: **sin pulso.**
 
 Brog suelta a la General contra un mamparo. Ella se queda ahí,
@@ -228,7 +228,7 @@ FIN DE LA PELÍCULA 1
   cuenta de qué le robaron.
 - **Derrota + verdad + juramento:** Stella muere, el villano gana y escapa, PERO la
   General despierta del engaño y el Cazador sabe adónde ir. Hay suelo para la Peli 2.
-- **Brog y Vex** entran en acción al final con peso emocional, no como relleno —
+- **Brog y Nima** entran en acción al final con peso emocional, no como relleno —
   preparan que la Peli 2 sea la película de la tripulación + la General.
 
 ## Nota de continuidad para la Peli 2

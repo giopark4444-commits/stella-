@@ -10,8 +10,8 @@
 > Documento de lectura corrida. Reúne Acto 1 (v3), Acto 2 (A y B) y Acto 3 ("Fui yo")
 > en un solo guion, con las costuras entre actos limadas. Se conservan algunas notas de
 > intención entre [corchetes]; se han retirado las notas de trabajo de cada borrador.
-> Nombres: Stella · Vela (la General) · Vera (madre) · Naio (padre) · Gix (ajolote) ·
-> el Cazador, Brog y Vex (tripulación) · pueblo naiel · la Fuente Madre (el Orbe).
+> Nombres: Stella · Selka (la General) · Vera (madre) · Naio (padre) · Gix (ajolote) ·
+> el Cazador, Brog y Nima (tripulación) · pueblo naiel · la Fuente Madre (el Orbe).
 
 
 ===============================================================================
@@ -70,7 +70,7 @@ Gix da una voltereta y se le adelanta. Stella ríe más fuerte. Dobla una
 esquina y casi choca con —
 
 VERA (40s), su madre. Belleza cansada, amable. Pelo blanco impecable
-—el voto intacto—. Lleva en brazos a una niña dormida: VELA (4).
+—el voto intacto—. Lleva en brazos a una niña dormida: SELKA (4).
 
                               VERA
                          (susurrando)
@@ -83,7 +83,7 @@ la cara.
                               STELLA
                          (muy bajo)
                     ¿Cuándo va a ser grande para jugar,
-                    Vela?
+                    Selka?
 
                               VERA
                     Demasiado pronto. Disfrútala pequeña;
@@ -101,7 +101,7 @@ Stella ya se va. Vera la mira un segundo de más.
                     Y tú.
 
 [Stella no vuelve la cabeza. No lo sabe, pero acaba de ver a su madre
-por última vez. Vera abraza un poco más fuerte a Vela dormida.]
+por última vez. Vera abraza un poco más fuerte a Selka dormida.]
 
 INT. PALACIO IMPERIAL — TALLER DE NAIO — CONTINUO
 
@@ -235,7 +235,7 @@ huida. No hay nadie.
 
                               STELLA
                          (girando, gritando)
-                    ¡Mamá! ¡Vela!
+                    ¡Mamá! ¡Selka!
                          (nada)
                     ¡MAMÁ!
 
@@ -256,7 +256,7 @@ pie junto a él, perfecto e inmóvil, el REY —el Cauce Mayor, el rostro
 amado por todos—. Gélido.
 
 A sus pies, la GUARDIA IMPERIAL —máquinas de cristal negro— sostiene a
-VELA (4) por el cuello, los piececitos sin tocar el suelo.
+SELKA (4) por el cuello, los piececitos sin tocar el suelo.
 
 Stella irrumpe y se congela.
 
@@ -281,7 +281,7 @@ Tiende una mano abierta.
                               REY
                     No. El Orbe, Stella. O tu hermana.
 
-Vela estira una manita hacia Stella. No entiende nada. Solo la quiere.
+Selka estira una manita hacia Stella. No entiende nada. Solo la quiere.
 Algo en Stella —catorce años, ni un día de dolor en el cuerpo— decide
 por instinto.
 
@@ -302,7 +302,7 @@ algo cediendo dentro de ella. Gix se interpone, recibe los golpes que
 puede, parpadeando, apagándose. Stella escupe sangre sobre el mármol
 blanco.
 
-Pero la guardia, para acabar con ella, suelta a Vela un instante. Es el
+Pero la guardia, para acabar con ella, suelta a Selka un instante. Es el
 único hueco que va a haber. Stella no corre hacia su hermana. Medio
 ciega de dolor, ve la entrada abierta de la bóveda y la luz azul
 latiendo dentro. Toma la decisión correcta y la peor. Se arrastra hacia
@@ -326,7 +326,7 @@ reconoce como carne. Chisporrotea, se le resbala, le abrasa la piel.
                     es. Devuélvemela y le perdono la vida a tu
                     hermana. Mi palabra de Cauce Mayor.
 
-Stella, abrazada al Orbe que la quema, mira hacia Vela —otra vez sujeta
+Stella, abrazada al Orbe que la quema, mira hacia Selka —otra vez sujeta
 por el cuello—, hacia la grieta que parte la pared, hacia el suelo que
 se hunde. Y entiende, con catorce años, lo imposible: si se queda a
 salvar a su hermana, el Orbe vuelve al Rey, el Rey termina de devorar el
@@ -335,7 +335,7 @@ planeta, y mueren las dos igual. Y todos los demás también.
 La decisión la parte por la mitad.
 
                               STELLA
-                         (a Vela, un susurro que no llega)
+                         (a Selka, un susurro que no llega)
                     Perdóname.
 
 Activa la mochila propulsora.
@@ -343,11 +343,11 @@ Activa la mochila propulsora.
 INT. CÁMARA CENTRAL DE LA FUENTE — CONTINUO
 
 Con un ESTRUENDO, Stella sale disparada hacia arriba, el Orbe
-abrasándole el pecho. Abajo, cada vez más pequeña, VELA grita. No oímos
+abrasándole el pecho. Abajo, cada vez más pequeña, SELKA grita. No oímos
 el grito. Solo vemos sus labios formar un nombre, una y otra vez, hacia
 el techo que se traga a su hermana:
 
-                              VELA
+                              SELKA
                          (sin sonido)
                     ¡Stella! ¡Stella!
 
@@ -454,10 +454,10 @@ calcula si una carga aguantará el viaje.
                          (media lengua, le faltan palabras)
                     ...Viva. Poco.
 
-VEX (cuatro brazos, manos que no paran) ya tiene un escáner sobre el
+NIMA (cuatro brazos, manos que no paran) ya tiene un escáner sobre el
 Orbe, fascinado y aterrado.
 
-                              VEX
+                              NIMA
                     La radiación de esa cosa satura cada
                     radar en mil años luz. Por eso la
                     encontramos. Por eso nos va a encontrar a
@@ -477,10 +477,10 @@ CORTE A:
 
 INT. NAVE DEL CAZADOR — ENFERMERÍA — MÁS TARDE
 
-Stella despierta de golpe, manotea, busca el Orbe. Vex, sin levantar la
+Stella despierta de golpe, manotea, busca el Orbe. Nima, sin levantar la
 vista de un panel que repara, habla con calma estudiada.
 
-                              VEX
+                              NIMA
                     Está a tu lado. No lo tocamos. Nadie aquí
                     quiere tocarlo.
 
@@ -489,7 +489,7 @@ vista de un panel que repara, habla con calma estudiada.
                     ¿Dónde estoy. Quiénes son. Por qué me
                     salvaron.
 
-                              VEX
+                              NIMA
                          (una risa sin gracia)
                     "Salvar." Qué palabra.
 
@@ -546,15 +546,15 @@ manos, descontrolada, le quema. Cae. Lo intenta otra vez. Cae.
 [Eco directo de Naio. Stella, que no escuchó a su padre, empieza a
 entender la lección con cinco mundos de distancia.]
 
-INT. NAVE — TALLER DE VEX — NOCHE
+INT. NAVE — TALLER DE NIMA — NOCHE
 
-Stella encuentra a Vex reparando algo que ya funcionaba. Y otra cosa. Y
+Stella encuentra a Nima reparando algo que ya funcionaba. Y otra cosa. Y
 otra. Cuatro brazos que no paran.
 
                               STELLA
                     Eso ya servía.
 
-                              VEX
+                              NIMA
                          (sin parar)
                     Todo sirve mejor.
                          (un beat, más bajo)
@@ -622,7 +622,7 @@ acusación:
 [No dicen "ladrona". Dicen la herejía. Para un naiel, no hay condena
 peor. El pueblo no la odia: la repudia.]
 
-En un patio de entrenamiento militar, una NIÑA de pelo blanco —VELA, ya
+En un patio de entrenamiento militar, una NIÑA de pelo blanco —SELKA, ya
 de 7— golpea un maniquí una y otra vez, con una furia fría impropia de
 su edad. En la pared, su objetivo pintado: la cara de su hermana.
 
@@ -631,7 +631,7 @@ EXT. ERDIA — TRINCHERAS — LLUVIA ÁCIDA — AÑO 10
 Humo. Barro. Una resistencia harapienta. Y al frente, mayor, más dura
 pero inconfundible: VERA. Sobrevivió. Lidera. Esta misión no es un
 ataque: es un rescate. Vera avanza entre el humo, buscando a alguien. Y
-lo encuentra: una NIÑA de ocho años, VELA, acurrucada en una trinchera,
+lo encuentra: una NIÑA de ocho años, SELKA, acurrucada en una trinchera,
 llorando.
 
 El rostro de Vera se rompe de alivio. Suelta el arma. Corre.
@@ -640,7 +640,7 @@ El rostro de Vera se rompe de alivio. Suelta el arma. Corre.
                          (llorando, los brazos abiertos)
                     Mi niña. Mi niña, te encontré—
 
-Vela levanta la cara. Y de pronto está... vacía. Sin lágrimas. Sin nada.
+Selka levanta la cara. Y de pronto está... vacía. Sin lágrimas. Sin nada.
 Levanta una mano hacia el pecho de su madre.
 
 [NO mostramos el detonador con claridad. Vemos la cara vacía de la niña,
@@ -652,14 +652,14 @@ CORTE A:
 
 INT. PALACIO — SALA DEL TRONO — DÍA
 
-El REY entrega una PLACA MILITAR chamuscada a una VELA ya casi adulta,
+El REY entrega una PLACA MILITAR chamuscada a una SELKA ya casi adulta,
 de rostro pétreo.
 
                               REY
                     Murió intentando recuperar lo que tu
                     hermana destruyó.
 
-Vela cierra la mano sobre la placa. No llora. Algo dentro de ella se
+Selka cierra la mano sobre la placa. No llora. Algo dentro de ella se
 sella para siempre.
 
 INT. NAVE DEL CAZADOR — PUENTE — "CINCO AÑOS DESPUÉS" (PARA STELLA)
@@ -672,7 +672,7 @@ estudia un mapa estelar. Una firma de radiación parpadea: un rastro.
                          (con una calma nueva)
                     Han sido cinco años buenos. Los primeros
                     buenos. Cuando matemos a esa cosa... quiero
-                    volver a verlas. A mi madre. A Vela.
+                    volver a verlas. A mi madre. A Selka.
                     Decirles por qué me fui.
 
 El Cazador no se vuelve. Hay algo en su quietud que la hiela.
@@ -695,7 +695,7 @@ Stella se queda sin aire. Gix, sintiéndola, se apaga un grado.
 
                               STELLA
                          (un susurro)
-                    Veinte años. Vela tendría... ya no es una
+                    Veinte años. Selka tendría... ya no es una
                     niña. No es una niña hace mucho.
 
                               CAZADOR
@@ -721,7 +721,7 @@ el ventanal — y no reconoce su mundo. El azul se ha ido. El planeta está
 envuelto en una costra de neblina parda, surcada de luces industriales
 enfermas. Donde había ríos de luz, hay chimeneas.
 
-                              VEX (O.S.)
+                              NIMA (O.S.)
                          (suave, a su lado)
                     ¿Esa era?
 
@@ -846,7 +846,7 @@ Stella se vuelve como si le hubieran pegado.
 
                               STELLA
                          (negando, retrocediendo)
-                    No. Vela era una bebé, me agarraba el dedo,
+                    No. Selka era una bebé, me agarraba el dedo,
                     ella no—
 
                               REBELDE
@@ -873,7 +873,7 @@ Salvarlos a todos. Decidir ella sola.
 
                               STELLA
                          (baja, peligrosa)
-                    ¿Dónde está ella ahora. Vela.
+                    ¿Dónde está ella ahora. Selka.
 
                               NAIO
                          (alarmado, agarrándola)
@@ -899,10 +899,10 @@ La REBELDE, contra su criterio, despliega un plano del palacio.
                               STELLA
                     No es venganza. Es mi hermana.
 
-Brog y Vex aparecen por el túnel — bajaron tras ella, claro que bajaron.
-Vex deja caer un petate de armas.
+Brog y Nima aparecen por el túnel — bajaron tras ella, claro que bajaron.
+Nima deja caer un petate de armas.
 
-                              VEX
+                              NIMA
                          (seca)
                     "Solo mirar", dijo.
 
@@ -936,7 +936,7 @@ INT. PALACIO — SALA DEL TRONO — NOCHE
 
 La lluvia ácida repica contra la cúpula de cristal. Abajo, el trono: una
 garganta de metal negro. Arrodillados en hilera, REBELDES encadenados,
-las cabezas gachas. De pie entre ellos, LA GENERAL —Vela, adulta—.
+las cabezas gachas. De pie entre ellos, LA GENERAL —Selka, adulta—.
 Armadura blanca impoluta. El rostro de una estatua a la que le quitaron
 algo y nunca se lo devolvieron.
 
@@ -1122,16 +1122,16 @@ Stella muerta a tres metros. El Parásito la IGNORA. Empieza a destrozar
 el palacio para desenterrar algo enorme y latente bajo los cimientos: su
 NAVE NODRIZA.
 
-EXPLOSIÓN — el muro vuela en pedazos. BROG y VEX irrumpen bajo fuego
+EXPLOSIÓN — el muro vuela en pedazos. BROG y NIMA irrumpen bajo fuego
 pesado.
 
-                              VEX
+                              NIMA
                          (sobre el caos)
                     ¡La niña! ¿Dónde está la—
                          (ve a Stella)
                     No. No, no, no—
 
-Vex CARGA el cuerpo inerte de Stella. Brog agarra a la General por el
+Nima CARGA el cuerpo inerte de Stella. Brog agarra a la General por el
 muñón cauterizado y la arrastra. Ella no se resiste.
 
                               GENERAL
@@ -1151,7 +1151,7 @@ resquebraja. Líneas de fuego cruzan el planeta entero.
 
 INT. NAVE DEL CAZADOR — BAHÍA — CONTINUO
 
-Vex deposita a Stella en una cápsula de soporte vital. Las máquinas
+Nima deposita a Stella en una cápsula de soporte vital. Las máquinas
 chillan: SIN PULSO. Brog suelta a la General contra un mamparo. Ella se
 queda ahí, un solo brazo, mirando el cristal donde flota el cuerpo de su
 hermana. No llora. Está más allá del llanto.

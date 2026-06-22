@@ -49,7 +49,7 @@ hermana crece como la General de la Guardia Vacía. Dramatizada: la muerte de la
 Stella vuelve camuflada. El padre esclavo. Cae en la Sala del Trono. **La escena del
 trono** (combate con la General; le arrancan el Orbe; coma). El Rey inserta el Orbe:
 la ciudad no se ilumina, el suelo tiembla. La transformación. **"Fui yo."** La General
-se quiebra, ataca, pierde el brazo. El Parásito toma su forma colosal. Brog y Vex
+se quiebra, ataca, pierde el brazo. El Parásito toma su forma colosal. Brog y Nima
 irrumpen y extraen a las dos hermanas.
 
 → **CIERRE:** El Parásito despega en su nave nodriza con el Orbe. Stella en coma. La
@@ -72,7 +72,7 @@ constante. La General comprende que ella es ahora la única ventaja: **conoce al
 Parásito desde dentro** — sus patrones, su nave, cómo piensa un nodo. Ofrece el robo.
 
 **ACTO 2 — El plan.**
-Heist clásico: reconocimiento, reclutar la confianza de Brog y Vex, ensayos, el plan
+Heist clásico: reconocimiento, reclutar la confianza de Brog y Nima, ensayos, el plan
 que se tuerce. La General se gana a la tripulación no con palabras sino con actos sin
 recompensa (le habla a una Stella que no puede oírla). Aparece el **espacio onírico**:
 Stella, dentro del coma, "conversa" con la ilusión de su madre — mantiene vivo su POV.
@@ -102,7 +102,7 @@ pero no sabe quererla. Tienen que aprender a ser hermanas mientras se prepara la
 La colmena se mueve: amenaza con devorar el siguiente mundo. Deciden atacar el nido.
 
 **ACTO 2 — El asalto.**
-Guerra a gran escala: la flota del Cazador, Brog, Vex, las dos hermanas. Se abren paso
+Guerra a gran escala: la flota del Cazador, Brog, Nima, las dos hermanas. Se abren paso
 hacia el corazón del nido. Pérdidas. La colmena usa su arma psicológica: toma las formas
 de los muertos (la madre, el padre, los caídos de la tripulación). Prueba final de las
 hermanas: distinguir el amor real de la ilusión que devora.

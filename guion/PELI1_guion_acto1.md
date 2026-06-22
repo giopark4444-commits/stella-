@@ -62,7 +62,7 @@ Gix da una voltereta y se le adelanta. Stella ríe más fuerte. Dobla una
 esquina y casi choca con —
 
 VERA (40s), su madre. Belleza cansada, amable. Pelo blanco impecable
-—el voto intacto—. Lleva en brazos a una niña dormida: VELA (4).
+—el voto intacto—. Lleva en brazos a una niña dormida: SELKA (4).
 
 VERA
 (susurrando)
@@ -75,7 +75,7 @@ Stella mira a la pequeña. Le aparta un mechón blanco de la cara.
 
 STELLA
 (muy bajo)
-¿Cuándo va a ser grande para jugar, Vela?
+¿Cuándo va a ser grande para jugar, Selka?
 
 [El nombre, dicho con ternura, sin peso. El público lo guarda sin saber
 que lo guarda.]
@@ -95,7 +95,7 @@ STELLA
 Y tú.
 
 [No vuelve la cabeza. No lo sabe, pero acaba de ver a su madre por
-última vez. Vera abraza un poco más fuerte a Vela dormida.]
+última vez. Vera abraza un poco más fuerte a Selka dormida.]
 
 INT. PALACIO IMPERIAL — TALLER DE NAIO — CONTINUO
 
@@ -230,7 +230,7 @@ fuerza, o de una huida. No hay nadie.
 
 STELLA
 (girando, gritando)
-¡Mamá! ¡Vela!
+¡Mamá! ¡Selka!
 (nada)
 ¡MAMÁ!
 
@@ -244,7 +244,7 @@ Una explosión lejana la decide. Corre hacia el único lugar donde podrían
 estar: la cámara de la Fuente.
 
 *(Nota de continuidad: Vera escapa esta noche con la resistencia naciente
-—por eso no está—. Vela fue llevada por la guardia ante el Rey. Stella
+—por eso no está—. Selka fue llevada por la guardia ante el Rey. Stella
 solo encontrará a una de las dos, y en las peores condiciones.)*
 
 CORTE A:
@@ -256,7 +256,7 @@ pie junto a él, perfecto e inmóvil, el REY —el Cauce Mayor, el rostro
 amado por todos—. Gélido.
 
 A sus pies, la GUARDIA IMPERIAL —máquinas de cristal negro— sostiene a
-VELA (4) por el cuello, los piececitos sin tocar el suelo.
+SELKA (4) por el cuello, los piececitos sin tocar el suelo.
 
 Stella irrumpe y se congela.
 
@@ -280,7 +280,7 @@ Suéltala primero.
 REY
 No. El Orbe, Stella. O tu hermana.
 
-Vela estira una manita hacia Stella. No entiende nada. Solo la quiere.
+Selka estira una manita hacia Stella. No entiende nada. Solo la quiere.
 
 Algo en Stella —catorce años, ni un día de dolor en el cuerpo— decide
 por instinto.
@@ -304,7 +304,7 @@ puede, parpadeando, apagándose.
 
 Stella escupe sangre sobre el mármol blanco.
 
-Pero la guardia, para acabar con ella, suelta a Vela un instante. Es el
+Pero la guardia, para acabar con ella, suelta a Selka un instante. Es el
 único hueco que va a haber.
 
 Stella no corre hacia su hermana. Medio ciega de dolor, ve la entrada
@@ -332,7 +332,7 @@ No eres su cauce, niña. No sabes lo que es.
 Devuélvemela y le perdono la vida a tu hermana. Mi palabra de Cauce
 Mayor.
 
-Stella, abrazada al Orbe que la quema, mira hacia Vela —otra vez sujeta
+Stella, abrazada al Orbe que la quema, mira hacia Selka —otra vez sujeta
 por el cuello—, hacia la grieta que parte la pared, hacia el suelo que
 se hunde bajo el palacio.
 
@@ -343,7 +343,7 @@ mueren las dos igual. Y todos los demás también.
 La decisión la parte por la mitad.
 
 STELLA
-(a Vela, un susurro que no llega)
+(a Selka, un susurro que no llega)
 Perdóname.
 
 Activa la mochila propulsora.
@@ -353,11 +353,11 @@ INT. CÁMARA CENTRAL DE LA FUENTE — CONTINUO
 Con un ESTRUENDO, Stella sale disparada hacia arriba, el Orbe
 abrasándole el pecho.
 
-Abajo, cada vez más pequeña, VELA grita. No oímos el grito. Solo vemos
+Abajo, cada vez más pequeña, SELKA grita. No oímos el grito. Solo vemos
 sus labios formar un nombre, una y otra vez, hacia el techo que se
 traga a su hermana:
 
-VELA
+SELKA
 (sin sonido)
 ¡Stella! ¡Stella!
 
@@ -426,7 +426,7 @@ El brazalete emite un brillo débil. Gix no aparece. Solo un latido
 tenue, como si él también estuviera herido.
 
 STELLA
-(un hilo de voz, a Gix, a Vela, a nadie)
+(un hilo de voz, a Gix, a Selka, a nadie)
 Que pasen limpio.
 
 [La bendición de su pueblo, dicha a la familia que abandonó. Lo único
@@ -448,7 +448,7 @@ FIN DEL ACTO 1
 - **Decisión 1 cerrada — no hay despedida, y duele más:** añadí la escena del **ala
   residencial vacía**. Stella corre hacia su familia y llega tarde: las busca, grita sus
   nombres, no hay nadie. Llegar tarde es peor que no ir. Y resuelve la lógica: Vera no
-  está en el clímax porque escapa esa noche (luego liderará la resistencia); solo Vela
+  está en el clímax porque escapa esa noche (luego liderará la resistencia); solo Selka
   acabará ante el Rey.
 - **Decisión 2 cerrada — "mi estela" se queda, sin explicarse.** Y reforcé el adiós
   involuntario: Stella **no vuelve la cabeza** al despedirse. No sabe que es la última vez.
