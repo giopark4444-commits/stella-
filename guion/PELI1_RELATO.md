@@ -4,7 +4,11 @@
 > Reparto: Stella · Selka (hermana menor) · Vera (madre) · Naio (padre) · Gix (ajolote
 > protector) · Theron (el Cazador) · Brog · Nima · Vorthan (el Rey / el Parásito) ·
 > robots G44 (la Guardia Vacía) · planeta del Parásito: Vorth · pueblo naiel.
-> Esta es la Peli 1; cierra en derrota. La reanimación de Stella ocurre en la Peli 2.
+> Esta es la Peli 1. Cierra en derrota aparente: Stella tenía DOS misiones de igual peso
+> —salvar el planeta (el Orbe) y rescatar a su hermana—. Pierde la primera y gana la
+> segunda (libera a Selka de la mentira), pero muere/cae en coma sin saber que ganó. La
+> reanimación de Stella ocurre en la Peli 2, donde Selka evoluciona actuando sin que Stella
+> llegue a enterarse.
 
 ---
 
@@ -52,9 +56,10 @@ habría dicho que su dios había muerto, porque para un naiel era exactamente es
 
 Las alarmas empezaron a sonar; el palacio sabía que él había visto demasiado. Naio llamó a
 Stella y le ordenó lo único que importaba: tomar el Orbe y huir del planeta, lejos, sin
-volver. Pero Stella, que era quien era, se negó a abandonarlos a todos. No discutió: solo
-le rogó que la dejara ir al menos por su hermana. Y su padre, sabiendo que estaba condenado,
-cedió. En los pocos segundos que les quedaban ancló el Orbe a la sangre de Stella, para que
+volver. Pero Stella, que era quien era, se negó a abandonarlos a todos. Porque desde siempre
+cargó dos amores que aquella noche se volvieron dos misiones imposibles de cumplir a la vez:
+salvar el planeta entero, y no soltar a su hermana. No discutió: solo le rogó que la dejara
+ir al menos por Selka. Y su padre, sabiendo que estaba condenado, cedió. En los pocos segundos que les quedaban ancló el Orbe a la sangre de Stella, para que
 ningún otro pudiera usarlo, y le sujetó la muñeca del brazalete.
 
 —Gix no es un juguete —le dijo, deprisa, con una calma rota—. Lo hice para que te
@@ -132,9 +137,10 @@ de naves que ni siquiera sabían que Erdia existía— y después, de golpe, el 
 del vacío.
 
 Stella quedó a la deriva, blindada por Gix, en los restos de una nave que ya no era nave,
-con las palmas quemadas y el corazón de un mundo entre los brazos. No miró el planeta.
-Miró sus propias manos vacías —las que no sostuvieron a su hermana— y se dejó llevar por la
-oscuridad.
+con las palmas quemadas y el corazón de un mundo entre los brazos. Había cumplido una de
+sus dos misiones y traicionado la otra, y no sabía cuál le pesaba más. No miró el planeta.
+Miró sus propias manos —las que sostuvieron el Orbe y soltaron a su hermana— y se dejó
+llevar por la oscuridad.
 
 ---
 
@@ -219,10 +225,11 @@ años de esclavitud había seguido trabajando en secreto en la máquina que alg�
 la luz al planeta. Le suplicó que no hiciera ninguna locura. No tengo veinte años para un
 plan, le respondió ella. Tengo esta noche.
 
-Porque Stella solo quería una cosa imposible: mirar a su hermana a la cara. Intentó llegar a
-ella, hacerla dudar, contarle la verdad. No lo logró. La niña que le agarraba el dedo se había
-convertido en una General de hielo que la veía como la asesina de su madre y el cáncer de su
-mundo.
+Porque Stella había vuelto con dos misiones cosidas a la espalda —el Orbe, que era el planeta,
+y Selka, que era su corazón—, y aunque el mundo entero dependía de la primera, ella solo
+soñaba con la segunda: mirar a su hermana a la cara. Intentó llegar a ella, hacerla dudar,
+contarle la verdad. No lo logró. La niña que le agarraba el dedo se había convertido en una
+General de hielo que la veía como la asesina de su madre y el cáncer de su mundo.
 
 ---
 
@@ -277,7 +284,10 @@ Orbe; ni el propio cazador lo había imaginado—. De un solo tajo, le seccionó
 
 Pero Vorthan no la remató, ni la persiguió. Ya tenía lo único que le importaba. Mientras la
 nave nodriza despertaba bajo los cimientos del palacio, el monstruo solo quería despegar. Y
-Selka, manca, agonizante, en lugar de huir, se arrastró hacia el cuerpo inerte de su hermana.
+Selka —manca, agonizante, con veinte años de imperio cayéndosele del cuerpo como una armadura
+que ya no le servía— tomó la única decisión que le quedaba por tomar: dejó caer el sable, le
+dio la espalda al trono, y en lugar de huir o de vengarse se arrastró hacia el cuerpo inerte
+de su hermana.
 La resistencia, que había visto la verdad, murió por docenas para cubrirla. Brog y Nima
 reventaron un muro y entraron por ellas. *No te dejo*, le dijo Brog a Selka, y la arrastró
 mientras Nima cargaba a Stella.
@@ -300,6 +310,17 @@ La nave se hundió en el negro, persiguiendo al monstruo hacia los confines del 
 llevándose a una hermana muerta, a una hermana rota, a un padre esclavo que quedó atrás en un
 mundo en ruinas, y a una madre que ya no estaba. Y en la muñeca de un cadáver, el brazalete de
 Gix latió una vez, muy débil, negándose —contra toda razón— a ser el último latido.
+
+Aquella noche Erdia lo perdió todo: el Orbe, la luz, el futuro. La misión que cualquiera
+habría podido ver —salvar el planeta— fracasó por completo. Pero la otra, la que Stella
+llevaba escondida en el pecho desde que soltó una manita de cuatro años, esa se cumplió:
+rescató a su hermana. No del imperio, ni de la muerte —de la mentira, que era peor—. Le
+devolvió la verdad y, con ella, la posibilidad de volver a ser quien debió ser. Stella nunca
+lo supo. Se fue creyendo que había fallado. Y sería Selka, libre al fin y sola con su culpa,
+quien tendría que convertirse en esa otra persona sin más testigo que ella misma, sin nadie a
+quien rendirle cuentas, sin la única mirada que habría querido merecer. Esa fue la verdadera
+semilla de luz que salió de Erdia esa noche: no el Orbe robado, sino una hermana que por fin
+podía elegir.
 
 *Pero recuperarla exigiría robarle el corazón al monstruo. Y esa es la segunda película.*
 
