@@ -17,11 +17,13 @@
 
 **`@STYLE`** (look maestro — se concatena a todos los prompts):
 ```
-cinematic feature animation, painterly stylized 3D with hand-crafted 2D sensibility,
-Ghibli-influenced naturalism (Nausicaä / Mononoke), luminous volumetric light,
-soft organic shapes, rich saturated color, shallow depth of field, 24fps film grain,
-anamorphic widescreen 2.39:1
+hand-painted 2D anime background in the style of classic Studio Ghibli feature films
+(Nausicaä, Princess Mononoke, Spirited Away), lush painterly watercolor-and-gouache
+environments, soft naturalistic light, gentle gradients in the sky, rich but warm color
+palette, hand-drawn organic detail, no harsh CGI, no 3D plastic render, cinematic
+widescreen composition, Miyazaki / Kazuo Oga background-art sensibility
 ```
+**Motor de imagen:** GPT Image 2 (definido con Gio). Locaciones SIN personajes (solo entorno).
 
 **`@NEGATIVE`** (lo que NO queremos, en todos):
 ```
