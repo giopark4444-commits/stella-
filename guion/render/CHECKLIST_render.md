@@ -17,10 +17,10 @@
 ### Arranque `[PILOTO]` — prioridad
 | # | Archivo | Tag | Locación | Estado | job_id / ref_id |
 |---|---------|-----|----------|--------|-----------------|
-| 01 | `LOC_01_erdia_dorada` | `@erdia_dorada` | Erdia en su gloria | ⏳ enviada (v1,v2) | `41bf7f42…` / `dfd4a94a…` |
-| 02 | `LOC_02_palacio_pasillo` | `@palacio_pasillo` | Santuario Núcleo Profundo — pasillos | ⏳ enviada (v1,v2) | `2241e33d…` / `99fd2619…` |
-| 03 | `LOC_03_taller_naio` | `@taller_naio` | Taller de Naio (Sala de la Fuente) | ⏳ enviada (v1,v2) | `cc71174b…` / `5f6558c7…` |
-| 04 | `LOC_04_tierra_muerta` | `@tierra_muerta` | Interior muerto del planeta | ⏳ enviada (v1,v2) | `0572ac4b…` |
+| 01 | `LOC_01_erdia_dorada` | `@erdia_dorada` | Erdia en su gloria | ⏳ enviada (v1,v2) | `16242853…` / `a73613db…` |
+| 02 | `LOC_02_palacio_pasillo` | `@palacio_pasillo` | Santuario Núcleo Profundo — pasillos | ⏳ enviada (v1,v2) | `c14306ed…` / `7fb6c413…` |
+| 03 | `LOC_03_taller_naio` | `@taller_naio` | Taller de Naio (Sala de la Fuente) | ⏳ enviada (v1,v2) | `c3e094c3…` / `3436af3c…` |
+| 04 | `LOC_04_tierra_muerta` | `@tierra_muerta` | Interior muerto del planeta | ⏳ enviada (v1,v2) | `544774de…` / `c291011c…` |
 
 ### Más adelante `[futuro]`
 | # | Archivo | Tag | Locación | Estado | ref_id |
