@@ -105,7 +105,8 @@ echo "── 07 KEY FRAMES · ACTOS 2-4 ──"
 dl "07_keyframes_actos2-4/ESC05_la_caida.png"             hf_20260624_113916_042ac41b-cee8-47b9-94d0-eaccb363a317.png
 dl "07_keyframes_actos2-4/ESC06-07_estrella_fugaz.png"    hf_20260624_113919_fd1c0597-db9e-4228-ab36-397f9ce03f90.png
 dl "07_keyframes_actos2-4/ESC08_celda_nodriza.png"        hf_20260624_113920_a94bba23-3c83-49b9-aa5a-e4408dcf4228.png
-dl "07_keyframes_actos2-4/ESC09_puente_theron.png"        ESC09_PENDIENTE.png
+# ESC09 (puente de Theron) — se dejó pendiente a propósito. Cuando lo generes, descomenta y pon su nombre de archivo:
+# dl "07_keyframes_actos2-4/ESC09_puente_theron.png"      hf_AAAAMMDD_HHMMSS_<ID>.png
 dl "07_keyframes_actos2-4/ESC10_combate_arido.png"        hf_20260624_114217_b34271d3-1afc-4d2b-9ca4-a6cdfbc4f407.png
 dl "07_keyframes_actos2-4/ESC11_campo_batalla.png"        hf_20260624_114218_4ee7910f-e5e1-4d67-a175-e4d6601c4ecd.png
 dl "07_keyframes_actos2-4/ESC13_lluvia_cometas.png"       hf_20260624_114219_0199dcf6-4e46-4b6b-b8c4-dd83908f9a5d.png
