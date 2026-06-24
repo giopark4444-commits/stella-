@@ -60,7 +60,7 @@ light-water bracelet on her wrist, joyful carefree expression, neutral backgroun
 ```
 
 ### `@gix` · Gix (ajolote de luz) `[PILOTO]`
-- **ref_id:** `65791417` ✅ (16:9)
+- **ref_id:** `6df90230` ✅ (16:9 limpia)
 - **Quién:** mascota bioluminiscente del brazalete; regalo del padre. Protege a Stella. Es nai puro.
 - **Prompt de referencia:**
 ```
@@ -71,7 +71,7 @@ and warm gold glow, neutral dark background. @STYLE
 ```
 
 ### `@vera` · Vera (madre, 40s) `[PILOTO]`
-- **ref_id:** `42cd7bd1` ✅ (16:9)
+- **ref_id:** `277e86db` ✅ (16:9 limpia)
 - **Quién:** madre de Stella y Selka. Belleza cansada y verdadera. Luego, líder de la resistencia.
 - **Prompt de referencia:**
 ```
@@ -91,7 +91,7 @@ background. @STYLE
 ```
 
 ### `@naio` · Naio (padre, 50s) `[PILOTO]`
-- **ref_id:** `896762e4` ✅ (16:9)
+- **ref_id:** `cb71672a` ✅ (16:9 limpia)
 - **Quién:** Científico Jefe, Guardián de la Fuente. Brillante y distraído; ternura grave.
 - **Prompt de referencia:**
 ```
@@ -102,7 +102,7 @@ background. @STYLE
 ```
 
 ### `@selka_general` · Selka (la General, adulta) `[futuro]`
-- **ref_id:** `d81518b5` ✅ (16:9)
+- **ref_id:** `7bcc38fc` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
 Character reference, an adult alien woman, perfect impossibly white hair (artificially
@@ -112,7 +112,7 @@ imperial and hollow, neutral background. @STYLE
 ```
 
 ### `@stella_adulta` · Stella adulta (pelo teñido) `[futuro]`
-- **ref_id:** `3c3e781c` ✅ (16:9)
+- **ref_id:** `13741e20` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
 Character reference, the same girl now a young woman, hair dyed dark to hide her white
@@ -122,7 +122,7 @@ background. @STYLE
 ```
 
 ### `@theron` · Theron (el Cazador) `[futuro]`
-- **ref_id:** `32901a43` ✅ (16:9)
+- **ref_id:** `b8b2b3fa` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
 Character reference, a tall alien hunter, dry neutral unreadable expression (not warm),
@@ -131,7 +131,7 @@ him locate anyone, cold professional presence, neutral background. @STYLE
 ```
 
 ### `@brog` · Brog (tripulación, leal) `[futuro]`
-- **ref_id:** `de6e3b41` ✅ (16:9)
+- **ref_id:** `67ddd9dc` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
 Character reference, a big burly good-hearted alien crew member, rough features, warm
@@ -139,7 +139,7 @@ loyal eyes, practical worn flight gear, gentle giant energy, neutral background.
 ```
 
 ### `@nima` · Nima (tripulación) `[futuro]`
-- **ref_id:** `43d7eae5` ✅ (16:9)
+- **ref_id:** `d5e105d9` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
 Character reference, a quick agile alien crew member, sharp clever eyes, light practical
@@ -147,7 +147,7 @@ flight gear with tools, wry expression, neutral background. @STYLE
 ```
 
 ### `@noah` · Noah (guerrero humano de la Tierra) `[futuro]`
-- **ref_id:** `5bf13ce4` ✅ (16:9)
+- **ref_id:** `a48d6010` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
 Character reference, a human young man from Earth (clearly NOT a white-haired naieli),
@@ -156,7 +156,7 @@ among aliens, brave tired eyes, neutral background. @STYLE
 ```
 
 ### `@marek` · Marek (2º líder de la resistencia = el Rey infiltrado) `[futuro]`
-- **ref_id:** `9ce24fc7` ✅ (16:9)
+- **ref_id:** `6108f350` ✅ (16:9 limpia)
 - **Quién:** se ve como camarada noble y de fiar; ES el Rey/Vorthan disfrazado (el topo). Diseño cálido y confiable.
 - **Prompt de referencia:**
 ```
@@ -167,7 +167,7 @@ background. @STYLE
 ```
 
 ### `@vosk` · Vosk (el matón de la nave nodriza) `[futuro]`
-- **ref_id:** `4184fc77` ✅ (16:9)
+- **ref_id:** `48370937` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
 Character reference, a hard aggressive alien crew bully, harsh angular features, sneering
@@ -175,7 +175,7 @@ expression, heavy worn gear, intimidating build, neutral background. @STYLE
 ```
 
 ### `@vorthan_real` · Vorthan / el Parásito (forma real) `[futuro]`
-- **ref_id:** `b6d43fd1` ✅ (16:9)
+- **ref_id:** `90f40f08` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
 Creature reference, the Parasite's true form, a colossal shapeshifting hive-mind entity,
@@ -250,7 +250,7 @@ cold metal corridors, viewports onto fields of stars, utilitarian alien crew qua
 ```
 
 ### `@erdia_podrida` · Erdia 20 años después (podrida) `[futuro]`
-- **ref_id:** `7795b7e0` ✅
+- **ref_id:** `50982707` ✅ (árido-gris)
 ```
 Environment reference, the same grown city now choking, toxic grey mist, the suspended
 light-water rivers run dark and stagnant, white-haired people stained grey with soot,
@@ -263,7 +263,7 @@ old war-robots overgrown then re-armed, dystopia as desecration of a once-holy p
 ## 3. PROPS HÉROE
 
 ### `@orbe` · El Orbe / la Fuente Madre `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `d808886d` ✅ (16:9 · Nano Banana)
 ```
 Prop reference, the Mother Source: a head-sized sphere of living light-water, slowly
 pulsing like a sleeping heart, held behind a translucent containment field, casting
@@ -271,14 +271,14 @@ rippling blue light on everything around it, sacred and alive. @STYLE
 ```
 
 ### `@brazalete` · El brazalete de Stella `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `b65e3b42` ✅ (16:9)
 ```
 Prop reference, an elegant wrist bracelet of woven light, emitting a thread of
 light-water that can take living shape, warm soft glow, a mother's gift. @STYLE
 ```
 
 ### `@rio_luzagua` · Los ríos de luz-agua `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `8271de35` ✅ (16:9)
 ```
 Prop reference, thin rivers of glowing light-water suspended in mid-air with no support,
 flowing slowly, people brush them with their fingertips as they pass, warm and sacred.
@@ -286,14 +286,14 @@ flowing slowly, people brush them with their fingertips as they pass, warm and s
 ```
 
 ### `@fuente_plaza` · La fuente de la plaza `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `527b5ac8` ✅ (16:9)
 ```
 Prop reference, a small public fountain of liquid light, an old caretaker dips a bowl and
 lifts it full of glowing liquid light, children gather to listen to it. @STYLE
 ```
 
 ### `@sable_selka` · El sable de luz de Selka `[futuro]`
-- **ref_id:** —
+- **ref_id:** `800951ae` ✅ (16:9 · Nano Banana)
 ```
 Prop reference, a thin elegant light-blade of the Hollow Guard's General, cold pale
 cutting light. @STYLE
