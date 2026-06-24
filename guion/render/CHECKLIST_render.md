@@ -15,31 +15,29 @@
 ## 🌍 LOCACIONES
 
 ### Arranque `[PILOTO]` — prioridad
-| # | Archivo | Tag | Locación | Estado | job_id / ref_id |
-|---|---------|-----|----------|--------|-----------------|
-| 01 | `LOC_01_erdia_dorada` | `@erdia_dorada` | Erdia en su gloria | ⏳ enviada (v1,v2) | `16242853…` / `a73613db…` |
-| 02 | `LOC_02_palacio_pasillo` | `@palacio_pasillo` | Santuario Núcleo Profundo — pasillos | ⏳ enviada (v1,v2) | `c14306ed…` / `7fb6c413…` |
-| 03 | `LOC_03_taller_naio` | `@taller_naio` | Taller de Naio (Sala de la Fuente) | ⏳ enviada (v1,v2) | `c3e094c3…` / `3436af3c…` |
-| 04 | `LOC_04_tierra_muerta` | `@tierra_muerta` | Interior muerto del planeta | ⏳ enviada (v1,v2) | `544774de…` / `c291011c…` |
+> **Versión final:** rehechas con prompt corto `Studio Ghibli anime background painting, cinematic widescreen establishing shot, no characters. [1 frase]`. Estos job_ids son los buenos (se descartaron las versiones de prompt largo y las de Nano Banana).
 
-### Resto de la película (todas enviadas en GPT Image 2 · LOCATION SHEET)
-| # | Archivo | Tag | Locación | Escenas | job_id (v1) |
-|---|---------|-----|----------|---------|-------------|
-| 05 | `LOC_05_erdia_podrida` | `@erdia_podrida` | Erdia 20 años después (podrida) | 22,23,24,31 | `6f3b4f08` |
-| 06 | `LOC_06_sala_trono` | `@sala_trono` | La Sala del Trono (corrompida) | 25–30 | `e69fc17c` |
-| 07 | `LOC_07_nave_nodriza` | `@nave_nodriza` | Nave nodriza del Cazador | 8 | `80c104dd` |
-| 08 | `LOC_08_conductos_hangar` | `@conductos_hangar` | Conductos / Hangar del palacio | 6 | `31f40d27` |
-| 09 | `LOC_09_espacio_orbita` | `@espacio_orbita` | Espacio · órbita de Erdia | 7 | `bd32025e` |
-| 10 | `LOC_10_nodriza_puente` | `@nodriza_puente` | Nave nodriza · puente de Theron | 9,14,20 | `c3819fa0` |
-| 11 | `LOC_11_nodriza_bodega` | `@nodriza_bodega` | Nave nodriza · bodega/nido | 12,16 | `d1412019` |
-| 12 | `LOC_12_planeta_arido` | `@planeta_arido` | Planeta árido · ruinas | 10 | `75851cb3` |
-| 13 | `LOC_13_planeta_batalla` | `@planeta_batalla` | Planeta · campo de batalla | 11 | `65f3fd42` |
-| 14 | `LOC_14_planeta_bosque` | `@planeta_bosque` | Planeta-bosque · claro (noche) | 13 | `39f5c073` |
-| 15 | `LOC_15_refugio` | `@refugio` | Refugio subterráneo de la resistencia | 17 | `7c30b817` |
-| 16 | `LOC_16_palacio_podrido` | `@palacio_podrido` | Palacio podrido · corredores | 15,18 | `eaf6dbbe` |
-| 17 | `LOC_17_sala_entrenamiento` | `@sala_entrenamiento` | Sala de entrenamiento de la General | 19 | `5993455d` |
-| 18 | `LOC_18_nave_pequena_cabina` | `@nave_pequena_cabina` | Nave pequeña · cabina | 21 | `964e3b14` |
-| 19 | `LOC_19_nave_pequena_medica` | `@nave_pequena_medica` | Nave pequeña · bahía médica | 32 | `39551113` |
+| # | Archivo | Tag | Locación | Escenas | job_id (final) |
+|---|---------|-----|----------|---------|----------------|
+| 01 | `LOC_01_erdia_dorada` | `@erdia_dorada` | Erdia en su gloria | 2 | `51c330ad` |
+| 02 | `LOC_02_palacio_pasillo` | `@palacio_pasillo` | Santuario Núcleo Profundo — pasillos | 3 | `414dba37` |
+| 03 | `LOC_03_taller_naio` | `@taller_naio` | Taller de Naio (Sala de la Fuente) | 4,5 | `53c4e86f` |
+| 04 | `LOC_04_tierra_muerta` | `@tierra_muerta` | Interior muerto del planeta | 1,2,33 | `6cc66ac9` |
+| 05 | `LOC_05_erdia_podrida` | `@erdia_podrida` | Erdia 20 años después (podrida) | 22,23,24,31 | `7795b7e0` |
+| 06 | `LOC_06_sala_trono` | `@sala_trono` | La Sala del Trono (corrompida) | 25–30 | `7e004230` |
+| 07 | `LOC_07_nave_nodriza` | `@nave_nodriza` | Nave nodriza del Cazador | 8 | `54199012` |
+| 08 | `LOC_08_conductos_hangar` | `@conductos_hangar` | Conductos / Hangar del palacio | 6 | `a8854b53` |
+| 09 | `LOC_09_espacio_orbita` | `@espacio_orbita` | Espacio · órbita de Erdia | 7 | `23984f0c` |
+| 10 | `LOC_10_nodriza_puente` | `@nodriza_puente` | Nave nodriza · puente de Theron | 9,14,20 | `71882f51` |
+| 11 | `LOC_11_nodriza_bodega` | `@nodriza_bodega` | Nave nodriza · bodega/nido | 12,16 | `37588edb` |
+| 12 | `LOC_12_planeta_arido` | `@planeta_arido` | Planeta árido · ruinas | 10 | `57ef2fdc` |
+| 13 | `LOC_13_planeta_batalla` | `@planeta_batalla` | Planeta · campo de batalla | 11 | `1162cdbd` |
+| 14 | `LOC_14_planeta_bosque` | `@planeta_bosque` | Planeta-bosque · claro (noche) | 13 | `6e710200` |
+| 15 | `LOC_15_refugio` | `@refugio` | Refugio subterráneo de la resistencia | 17 | `7662cc56` |
+| 16 | `LOC_16_palacio_podrido` | `@palacio_podrido` | Palacio podrido · corredores | 15,18 | `a868e35f` |
+| 17 | `LOC_17_sala_entrenamiento` | `@sala_entrenamiento` | Sala de entrenamiento de la General | 19 | `d9c3d3ee` |
+| 18 | `LOC_18_nave_pequena_cabina` | `@nave_pequena_cabina` | Nave pequeña · cabina | 21 | `fb4fb043` |
+| 19 | `LOC_19_nave_pequena_medica` | `@nave_pequena_medica` | Nave pequeña · bahía médica | 32 | `219a4978` |
 
 ---
 
