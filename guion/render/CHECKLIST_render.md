@@ -43,27 +43,27 @@
 
 ## 👤 PERSONAJES (character sheets)
 
-### Arranque `[PILOTO]`
-| # | Archivo | Tag | Personaje | Estado | ref_id |
-|---|---------|-----|-----------|--------|--------|
-| 01 | `CHAR_01_stella_14` | `@stella_14` | Stella (14 años) | 🟢 generada | `68bb7838` |
-| 02 | `CHAR_02_gix` | `@gix` | Gix (ajolote de luz) | 🟢 generada | `a92ce2a3` |
-| 03 | `CHAR_03_vera` | `@vera` | Vera (madre) | 🟢 generada | `0f3ada53` |
-| 04 | `CHAR_04_selka_4` | `@selka_4` | Selka (4 años, dormida) | 🟢 generada | `8d1f76f8` |
-| 05 | `CHAR_05_naio` | `@naio` | Naio (padre) | 🟢 generada | `64e12b21` |
+### Arranque `[PILOTO]` — todas en 16:9, Ghibli acentuado
+| # | Archivo | Tag | Personaje | Estado | ref_id (16:9) |
+|---|---------|-----|-----------|--------|---------------|
+| 01 | `CHAR_01_stella_14` | `@stella_14` | Stella (14 años) | 🟢 generada | `91f736eb` |
+| 02 | `CHAR_02_gix` | `@gix` | Gix (ajolote de luz) | 🟢 generada | `65791417` |
+| 03 | `CHAR_03_vera` | `@vera` | Vera (madre) | 🟢 generada | `42cd7bd1` |
+| 04 | `CHAR_04_selka_4` | `@selka_4` | Selka (4 años, dormida) | 🟢 generada | `ed9c4bf8` |
+| 05 | `CHAR_05_naio` | `@naio` | Naio (padre) | 🟢 generada | `896762e4` |
 
-### Más adelante `[futuro]`
-| # | Archivo | Tag | Personaje | Estado | ref_id |
-|---|---------|-----|-----------|--------|--------|
-| 06 | `CHAR_06_selka_general` | `@selka_general` | Selka (la General) | ⬜ pendiente | — |
-| 07 | `CHAR_07_stella_adulta` | `@stella_adulta` | Stella adulta | ⬜ pendiente | — |
-| 08 | `CHAR_08_theron` | `@theron` | Theron (el Cazador) | ⬜ pendiente | — |
-| 09 | `CHAR_09_brog` | `@brog` | Brog (tripulación) | ⬜ pendiente | — |
-| 10 | `CHAR_10_nima` | `@nima` | Nima (tripulación) | ⬜ pendiente | — |
-| 11 | `CHAR_11_noah` | `@noah` | Noah (humano de la Tierra) | ⬜ pendiente | — |
-| 12 | `CHAR_12_marek` | `@marek` | Marek (Rey infiltrado) | ⬜ pendiente | — |
-| 13 | `CHAR_13_vosk` | `@vosk` | Vosk (matón) | ⬜ pendiente | — |
-| 14 | `CHAR_14_vorthan_real` | `@vorthan_real` | Vorthan / el Parásito | ⬜ pendiente | — |
+### Más adelante `[futuro]` — todas en 16:9, Ghibli acentuado
+| # | Archivo | Tag | Personaje | Estado | ref_id (16:9) |
+|---|---------|-----|-----------|--------|---------------|
+| 06 | `CHAR_06_selka_general` | `@selka_general` | Selka (la General) | 🟢 generada | `d81518b5` |
+| 07 | `CHAR_07_stella_adulta` | `@stella_adulta` | Stella adulta | 🟢 generada | `3c3e781c` |
+| 08 | `CHAR_08_theron` | `@theron` | Theron (el Cazador) | 🟢 generada | `32901a43` |
+| 09 | `CHAR_09_brog` | `@brog` | Brog (tripulación) | 🟢 generada | `de6e3b41` |
+| 10 | `CHAR_10_nima` | `@nima` | Nima (tripulación) | 🟢 generada | `43d7eae5` |
+| 11 | `CHAR_11_noah` | `@noah` | Noah (humano de la Tierra) | 🟢 generada | `5bf13ce4` |
+| 12 | `CHAR_12_marek` | `@marek` | Marek (Rey infiltrado) | 🟢 generada | `9ce24fc7` |
+| 13 | `CHAR_13_vosk` | `@vosk` | Vosk (matón) | 🟢 generada | `4184fc77` |
+| 14 | `CHAR_14_vorthan_real` | `@vorthan_real` | Vorthan / el Parásito | 🟢 generada | `b6d43fd1` |
 
 ---
 

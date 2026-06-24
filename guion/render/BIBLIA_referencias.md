@@ -49,7 +49,7 @@ no un rasgo de raza). Toda la luz es **luz-agua** (nai): fluye, no se posee. Nad
 > `[PILOTO]` = aparece en el Arranque (primeros 8 clips). Esos los generamos primero.
 
 ### `@stella_14` · Stella (14 años) `[PILOTO]`
-- **ref_id:** `68bb7838` ✅
+- **ref_id:** `91f736eb` ✅ (16:9)
 - **Quién:** protagonista. Adolescente despreocupada; nunca le ha pasado nada malo.
 - **Prompt de referencia:**
 ```
@@ -60,7 +60,7 @@ light-water bracelet on her wrist, joyful carefree expression, neutral backgroun
 ```
 
 ### `@gix` · Gix (ajolote de luz) `[PILOTO]`
-- **ref_id:** `a92ce2a3` ✅
+- **ref_id:** `65791417` ✅ (16:9)
 - **Quién:** mascota bioluminiscente del brazalete; regalo del padre. Protege a Stella. Es nai puro.
 - **Prompt de referencia:**
 ```
@@ -71,7 +71,7 @@ and warm gold glow, neutral dark background. @STYLE
 ```
 
 ### `@vera` · Vera (madre, 40s) `[PILOTO]`
-- **ref_id:** `0f3ada53` ✅
+- **ref_id:** `42cd7bd1` ✅ (16:9)
 - **Quién:** madre de Stella y Selka. Belleza cansada y verdadera. Luego, líder de la resistencia.
 - **Prompt de referencia:**
 ```
@@ -81,7 +81,7 @@ flowing robe in deep teal and silver, calm protective presence, neutral backgrou
 ```
 
 ### `@selka_4` · Selka (hermanita, 4 años, dormida) `[PILOTO]`
-- **ref_id:** `8d1f76f8` ✅
+- **ref_id:** `ed9c4bf8` ✅ (16:9)
 - **Quién:** la hermana pequeña. En el Arranque está dormida en brazos de Vera.
 - **Prompt de referencia:**
 ```
@@ -91,7 +91,7 @@ background. @STYLE
 ```
 
 ### `@naio` · Naio (padre, 50s) `[PILOTO]`
-- **ref_id:** `64e12b21` ✅
+- **ref_id:** `896762e4` ✅ (16:9)
 - **Quién:** Científico Jefe, Guardián de la Fuente. Brillante y distraído; ternura grave.
 - **Prompt de referencia:**
 ```
@@ -102,7 +102,7 @@ background. @STYLE
 ```
 
 ### `@selka_general` · Selka (la General, adulta) `[futuro]`
-- **ref_id:** —
+- **ref_id:** `d81518b5` ✅ (16:9)
 - **Prompt de referencia:**
 ```
 Character reference, an adult alien woman, perfect impossibly white hair (artificially
@@ -112,7 +112,7 @@ imperial and hollow, neutral background. @STYLE
 ```
 
 ### `@stella_adulta` · Stella adulta (pelo teñido) `[futuro]`
-- **ref_id:** —
+- **ref_id:** `3c3e781c` ✅ (16:9)
 - **Prompt de referencia:**
 ```
 Character reference, the same girl now a young woman, hair dyed dark to hide her white
@@ -122,7 +122,7 @@ background. @STYLE
 ```
 
 ### `@theron` · Theron (el Cazador) `[futuro]`
-- **ref_id:** —
+- **ref_id:** `32901a43` ✅ (16:9)
 - **Prompt de referencia:**
 ```
 Character reference, a tall alien hunter, dry neutral unreadable expression (not warm),
@@ -131,7 +131,7 @@ him locate anyone, cold professional presence, neutral background. @STYLE
 ```
 
 ### `@brog` · Brog (tripulación, leal) `[futuro]`
-- **ref_id:** —
+- **ref_id:** `de6e3b41` ✅ (16:9)
 - **Prompt de referencia:**
 ```
 Character reference, a big burly good-hearted alien crew member, rough features, warm
@@ -139,7 +139,7 @@ loyal eyes, practical worn flight gear, gentle giant energy, neutral background.
 ```
 
 ### `@nima` · Nima (tripulación) `[futuro]`
-- **ref_id:** —
+- **ref_id:** `43d7eae5` ✅ (16:9)
 - **Prompt de referencia:**
 ```
 Character reference, a quick agile alien crew member, sharp clever eyes, light practical
@@ -147,7 +147,7 @@ flight gear with tools, wry expression, neutral background. @STYLE
 ```
 
 ### `@noah` · Noah (guerrero humano de la Tierra) `[futuro]`
-- **ref_id:** —
+- **ref_id:** `5bf13ce4` ✅ (16:9)
 - **Prompt de referencia:**
 ```
 Character reference, a human young man from Earth (clearly NOT a white-haired naieli),
@@ -156,7 +156,7 @@ among aliens, brave tired eyes, neutral background. @STYLE
 ```
 
 ### `@marek` · Marek (2º líder de la resistencia = el Rey infiltrado) `[futuro]`
-- **ref_id:** —
+- **ref_id:** `9ce24fc7` ✅ (16:9)
 - **Quién:** se ve como camarada noble y de fiar; ES el Rey/Vorthan disfrazado (el topo). Diseño cálido y confiable.
 - **Prompt de referencia:**
 ```
@@ -167,7 +167,7 @@ background. @STYLE
 ```
 
 ### `@vosk` · Vosk (el matón de la nave nodriza) `[futuro]`
-- **ref_id:** —
+- **ref_id:** `4184fc77` ✅ (16:9)
 - **Prompt de referencia:**
 ```
 Character reference, a hard aggressive alien crew bully, harsh angular features, sneering
@@ -175,7 +175,7 @@ expression, heavy worn gear, intimidating build, neutral background. @STYLE
 ```
 
 ### `@vorthan_real` · Vorthan / el Parásito (forma real) `[futuro]`
-- **ref_id:** —
+- **ref_id:** `b6d43fd1` ✅ (16:9)
 - **Prompt de referencia:**
 ```
 Creature reference, the Parasite's true form, a colossal shapeshifting hive-mind entity,
