@@ -189,7 +189,7 @@ background. @STYLE
 ## 2. LOCACIONES
 
 ### `@tierra_muerta` · El interior muerto del planeta `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `6cc66ac9` ✅
 ```
 Environment reference, extreme close detail of dead biomechanical soil, black metallic
 veined crust, long dead, drained of life; in the exact center a single trembling green
@@ -197,7 +197,7 @@ sprout pushing through. Macro, intimate, ominous silence. @STYLE
 ```
 
 ### `@erdia_dorada` · Ciudad de Erdia en su gloria `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `51c330ad` ✅
 ```
 Environment reference, a peaceful post-war alien civilization, lush green hills and
 wildflower meadows reclaiming colossal ancient ruins, slender pale-white spires on the
@@ -210,7 +210,7 @@ breathtaking, golden daylight. @STYLE
 > agujas blancas, aeronave, ciervos). Subir como guía de paleta + composición.
 
 ### `@palacio_pasillo` · Santuario del Núcleo Profundo — pasillos `[PILOTO]`
-- **ref_id:** — (⚑ SUBIR la lámina de Gio como referencia directa)
+- **ref_id:** `414dba37` ✅ (⚑ SUBIR la lámina de Gio como referencia directa)
 ```
 Environment reference, serene transit corridors of a sacred deep-core sanctuary, noble
 teal-green stone walls and warm sandstone arches in soft organic curves, a vertical beam
@@ -223,7 +223,7 @@ calm functional emptiness, light receding into depth, no people. @STYLE
 > numéricas conectan con la siembra de Naio ("...¿y tú de dónde sales?").
 
 ### `@taller_naio` · Palacio — Taller de Naio `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `53c4e86f` ✅
 ```
 Environment reference, a tall sanctuary chamber of the deep core in the same teal-green
 stone and warm sandstone as the corridors, half-living instruments that breathe light and
@@ -235,14 +235,14 @@ surface teal and gold, a vertical shaft of core-light from above. @STYLE
 > del santuario, no un laboratorio frío y aparte.
 
 ### `@sala_trono` · La Sala del Trono `[futuro]`
-- **ref_id:** —
+- **ref_id:** `7e004230` ✅
 ```
 Environment reference, a vast cold throne hall, once sacred now corrupted, the channel of
 light gone dark and stagnant, oppressive grandeur, sickly inverted light. @STYLE
 ```
 
 ### `@nave_nodriza` · La nave nodriza del Cazador `[futuro]`
-- **ref_id:** —
+- **ref_id:** `54199012` ✅
 ```
 Environment reference, the interior of a vast hunter mothership, industrial and lived-in,
 cold metal corridors, viewports onto fields of stars, utilitarian alien crew quarters.
@@ -250,7 +250,7 @@ cold metal corridors, viewports onto fields of stars, utilitarian alien crew qua
 ```
 
 ### `@erdia_podrida` · Erdia 20 años después (podrida) `[futuro]`
-- **ref_id:** —
+- **ref_id:** `7795b7e0` ✅
 ```
 Environment reference, the same grown city now choking, toxic grey mist, the suspended
 light-water rivers run dark and stagnant, white-haired people stained grey with soot,
