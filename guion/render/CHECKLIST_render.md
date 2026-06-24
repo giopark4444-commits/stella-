@@ -39,6 +39,14 @@
 | 18 | `LOC_18_nave_pequena_cabina` | `@nave_pequena_cabina` | Nave pequeña · cabina | 21 | `fb4fb043` |
 | 19 | `LOC_19_nave_pequena_medica` | `@nave_pequena_medica` | Nave pequeña · bahía médica | 32 | `219a4978` |
 
+### Sub-locaciones extra (áreas distintas dentro de una maestra · GPT Image 2)
+| Sub | Maestra | Área | Escenas | ref_id |
+|-----|---------|------|---------|--------|
+| SUB_01 | `@taller_naio` | Sala de la Fuente | 5 | `032708e7` |
+| SUB_02 | `@conductos_hangar` | Hangar | 6 | `718c17ce` |
+| SUB_03 | `@erdia_podrida` | Poblado de la resistencia | 22,23 | `635f3ea3` |
+| SUB_04 | `@erdia_podrida` | Cielo de Erdia | 31 | `411e1410` |
+
 ---
 
 ## 👤 PERSONAJES (character sheets)
