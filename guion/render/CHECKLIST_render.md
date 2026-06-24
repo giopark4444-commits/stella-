@@ -22,12 +22,24 @@
 | 03 | `LOC_03_taller_naio` | `@taller_naio` | Taller de Naio (Sala de la Fuente) | ⏳ enviada (v1,v2) | `c3e094c3…` / `3436af3c…` |
 | 04 | `LOC_04_tierra_muerta` | `@tierra_muerta` | Interior muerto del planeta | ⏳ enviada (v1,v2) | `544774de…` / `c291011c…` |
 
-### Más adelante `[futuro]`
-| # | Archivo | Tag | Locación | Estado | ref_id |
-|---|---------|-----|----------|--------|--------|
-| 05 | `LOC_05_sala_trono` | `@sala_trono` | La Sala del Trono (corrompida) | ⬜ pendiente | — |
-| 06 | `LOC_06_nave_nodriza` | `@nave_nodriza` | Nave nodriza del Cazador | ⬜ pendiente | — |
-| 07 | `LOC_07_erdia_podrida` | `@erdia_podrida` | Erdia 20 años después (podrida) | ⬜ pendiente | — |
+### Resto de la película (todas enviadas en GPT Image 2 · LOCATION SHEET)
+| # | Archivo | Tag | Locación | Escenas | job_id (v1) |
+|---|---------|-----|----------|---------|-------------|
+| 05 | `LOC_05_erdia_podrida` | `@erdia_podrida` | Erdia 20 años después (podrida) | 22,23,24,31 | `6f3b4f08` |
+| 06 | `LOC_06_sala_trono` | `@sala_trono` | La Sala del Trono (corrompida) | 25–30 | `e69fc17c` |
+| 07 | `LOC_07_nave_nodriza` | `@nave_nodriza` | Nave nodriza del Cazador | 8 | `80c104dd` |
+| 08 | `LOC_08_conductos_hangar` | `@conductos_hangar` | Conductos / Hangar del palacio | 6 | `31f40d27` |
+| 09 | `LOC_09_espacio_orbita` | `@espacio_orbita` | Espacio · órbita de Erdia | 7 | `bd32025e` |
+| 10 | `LOC_10_nodriza_puente` | `@nodriza_puente` | Nave nodriza · puente de Theron | 9,14,20 | `c3819fa0` |
+| 11 | `LOC_11_nodriza_bodega` | `@nodriza_bodega` | Nave nodriza · bodega/nido | 12,16 | `d1412019` |
+| 12 | `LOC_12_planeta_arido` | `@planeta_arido` | Planeta árido · ruinas | 10 | `75851cb3` |
+| 13 | `LOC_13_planeta_batalla` | `@planeta_batalla` | Planeta · campo de batalla | 11 | `65f3fd42` |
+| 14 | `LOC_14_planeta_bosque` | `@planeta_bosque` | Planeta-bosque · claro (noche) | 13 | `39f5c073` |
+| 15 | `LOC_15_refugio` | `@refugio` | Refugio subterráneo de la resistencia | 17 | `7c30b817` |
+| 16 | `LOC_16_palacio_podrido` | `@palacio_podrido` | Palacio podrido · corredores | 15,18 | `eaf6dbbe` |
+| 17 | `LOC_17_sala_entrenamiento` | `@sala_entrenamiento` | Sala de entrenamiento de la General | 19 | `5993455d` |
+| 18 | `LOC_18_nave_pequena_cabina` | `@nave_pequena_cabina` | Nave pequeña · cabina | 21 | `964e3b14` |
+| 19 | `LOC_19_nave_pequena_medica` | `@nave_pequena_medica` | Nave pequeña · bahía médica | 32 | `39551113` |
 
 ---
 
