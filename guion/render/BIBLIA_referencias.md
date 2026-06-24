@@ -15,15 +15,21 @@
 
 ## ⚙️ AJUSTES GLOBALES (cambia aquí y cambia toda la peli)
 
-**`@STYLE`** (look maestro — se concatena a todos los prompts):
+**`@STYLE`** (look maestro — fijado por las láminas de referencia de Gio):
 ```
-hand-painted 2D anime background in the style of classic Studio Ghibli feature films
-(Nausicaä, Princess Mononoke, Spirited Away), lush painterly watercolor-and-gouache
-environments, soft naturalistic light, gentle gradients in the sky, rich but warm color
-palette, hand-drawn organic detail, no harsh CGI, no 3D plastic render, cinematic
-widescreen composition, Miyazaki / Kazuo Oga background-art sensibility
+traditional hand-painted 2D anime background art in the style of classic Studio Ghibli
+feature films (Nausicaä, Princess Mononoke, Castle in the Sky), gouache-and-watercolor
+texture with visible painterly brushwork, soft cel-shaded forms, lush hand-drawn organic
+detail, painterly volumetric cumulus clouds, gentle naturalistic light with luminous
+core-light accents, fine traditional-cel grain, NO 3D render, NO CGI sheen, NO photoreal;
+cinematic widescreen composition, Kazuo Oga background sensibility.
+Palette anchors: teal-green stone, warm sandstone and ochre, lush greens, deep cosmic
+purples / blues / golds in the skies.
 ```
 **Motor de imagen:** GPT Image 2 (definido con Gio). Locaciones SIN personajes (solo entorno).
+**Texturas/técnica de referencia:** láminas que Gio entregó (nebulosas, pradera con ruina,
+ciudad-ruina invadida, "Santuario del Núcleo Profundo", interiores de piedra). Las láminas
+4–5 son **diseño canónico de locación**: subirlas como referencia directa, no regenerar.
 
 **`@NEGATIVE`** (lo que NO queremos, en todos):
 ```
@@ -193,28 +199,40 @@ sprout pushing through. Macro, intimate, ominous silence. @STYLE
 ### `@erdia_dorada` · Ciudad de Erdia en su gloria `[PILOTO]`
 - **ref_id:** —
 ```
-Environment reference, a utopian alien city that was grown not built, towering organic
-crystal spires curving upward like giant reeds, thin suspended rivers of glowing
-light-water flowing through the air with no cables, bridges of light, people walking,
-impossibly clean deep blue sky, golden hour, peaceful, breathtaking. @STYLE
+Environment reference, a peaceful post-war alien civilization, lush green hills and
+wildflower meadows reclaiming colossal ancient ruins, slender pale-white spires on the
+horizon, enormous painterly cumulus clouds in a deep blue sky, huge old structures (rings,
+domes) overgrown with grass and vines, thin suspended rivers of glowing light-water
+flowing through the air with no cables, a tiny airship drifting far off; serene,
+breathtaking, golden daylight. @STYLE
 ```
+> Ref de Gio: láminas 2 (pradera + ruina abovedada) y 3 (ciudad-ruina colosal invadida,
+> agujas blancas, aeronave, ciervos). Subir como guía de paleta + composición.
 
-### `@palacio_pasillo` · Palacio — pasillos de mármol `[PILOTO]`
-- **ref_id:** —
+### `@palacio_pasillo` · Santuario del Núcleo Profundo — pasillos `[PILOTO]`
+- **ref_id:** — (⚑ SUBIR la lámina de Gio como referencia directa)
 ```
-Environment reference, a grand imperial palace corridor of warm white marble, tall arched
-windows pouring golden light, faint living light-water details in the walls, serene and
-luminous. @STYLE
+Environment reference, serene transit corridors of a sacred deep-core sanctuary, noble
+teal-green stone walls and warm sandstone arches in soft organic curves, a vertical beam
+of luminous core-light falling from circular halos in the ceiling down the center of the
+hall, faint glowing vertical inscriptions (rows of numerals / glyphs) on the columns,
+calm functional emptiness, light receding into depth, no people. @STYLE
 ```
+> Ref directa de Gio: lámina 4 "PASILLOS – SANTUARIO DEL NÚCLEO PROFUNDO". Esto SUSTITUYE
+> el viejo "mármol blanco dorado": el palacio es teal + núcleo, no mármol. Las inscripciones
+> numéricas conectan con la siembra de Naio ("...¿y tú de dónde sales?").
 
 ### `@taller_naio` · Palacio — Taller de Naio `[PILOTO]`
 - **ref_id:** —
 ```
-Environment reference, a tall luminous laboratory full of half-living instruments that
-breathe light and tilt as you pass, floating holographic projections; at the far end,
-behind a translucent containment field, a head-sized sphere of glowing light-water tints
-every surface blue. @STYLE
+Environment reference, a tall sanctuary chamber of the deep core in the same teal-green
+stone and warm sandstone as the corridors, half-living instruments that breathe light and
+tilt as you pass, floating holographic projections; at the far end, behind a translucent
+containment field, a head-sized sphere of glowing light-water (the core) tints every
+surface teal and gold, a vertical shaft of core-light from above. @STYLE
 ```
+> Misma familia visual que `@palacio_pasillo` (lámina 4). El taller/Fuente es el corazón
+> del santuario, no un laboratorio frío y aparte.
 
 ### `@sala_trono` · La Sala del Trono `[futuro]`
 - **ref_id:** —
