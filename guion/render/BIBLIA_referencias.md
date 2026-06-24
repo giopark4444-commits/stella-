@@ -49,7 +49,7 @@ no un rasgo de raza). Toda la luz es **luz-agua** (nai): fluye, no se posee. Nad
 > `[PILOTO]` = aparece en el Arranque (primeros 8 clips). Esos los generamos primero.
 
 ### `@stella_14` · Stella (14 años) `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `68bb7838` ✅
 - **Quién:** protagonista. Adolescente despreocupada; nunca le ha pasado nada malo.
 - **Prompt de referencia:**
 ```
@@ -60,7 +60,7 @@ light-water bracelet on her wrist, joyful carefree expression, neutral backgroun
 ```
 
 ### `@gix` · Gix (ajolote de luz) `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `a92ce2a3` ✅
 - **Quién:** mascota bioluminiscente del brazalete; regalo del padre. Protege a Stella. Es nai puro.
 - **Prompt de referencia:**
 ```
@@ -71,7 +71,7 @@ and warm gold glow, neutral dark background. @STYLE
 ```
 
 ### `@vera` · Vera (madre, 40s) `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `0f3ada53` ✅
 - **Quién:** madre de Stella y Selka. Belleza cansada y verdadera. Luego, líder de la resistencia.
 - **Prompt de referencia:**
 ```
@@ -81,7 +81,7 @@ flowing robe in deep teal and silver, calm protective presence, neutral backgrou
 ```
 
 ### `@selka_4` · Selka (hermanita, 4 años, dormida) `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `8d1f76f8` ✅
 - **Quién:** la hermana pequeña. En el Arranque está dormida en brazos de Vera.
 - **Prompt de referencia:**
 ```
@@ -91,7 +91,7 @@ background. @STYLE
 ```
 
 ### `@naio` · Naio (padre, 50s) `[PILOTO]`
-- **ref_id:** —
+- **ref_id:** `64e12b21` ✅
 - **Quién:** Científico Jefe, Guardián de la Fuente. Brillante y distraído; ternura grave.
 - **Prompt de referencia:**
 ```

@@ -46,11 +46,11 @@
 ### Arranque `[PILOTO]`
 | # | Archivo | Tag | Personaje | Estado | ref_id |
 |---|---------|-----|-----------|--------|--------|
-| 01 | `CHAR_01_stella_14` | `@stella_14` | Stella (14 años) | ⬜ pendiente | — |
-| 02 | `CHAR_02_gix` | `@gix` | Gix (ajolote de luz) | ⬜ pendiente | — |
-| 03 | `CHAR_03_vera` | `@vera` | Vera (madre) | ⬜ pendiente | — |
-| 04 | `CHAR_04_selka_4` | `@selka_4` | Selka (4 años, dormida) | ⬜ pendiente | — |
-| 05 | `CHAR_05_naio` | `@naio` | Naio (padre) | ⬜ pendiente | — |
+| 01 | `CHAR_01_stella_14` | `@stella_14` | Stella (14 años) | 🟢 generada | `68bb7838` |
+| 02 | `CHAR_02_gix` | `@gix` | Gix (ajolote de luz) | 🟢 generada | `a92ce2a3` |
+| 03 | `CHAR_03_vera` | `@vera` | Vera (madre) | 🟢 generada | `0f3ada53` |
+| 04 | `CHAR_04_selka_4` | `@selka_4` | Selka (4 años, dormida) | 🟢 generada | `8d1f76f8` |
+| 05 | `CHAR_05_naio` | `@naio` | Naio (padre) | 🟢 generada | `64e12b21` |
 
 ### Más adelante `[futuro]`
 | # | Archivo | Tag | Personaje | Estado | ref_id |
