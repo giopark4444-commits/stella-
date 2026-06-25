@@ -9,6 +9,23 @@
 
 ---
 
+## 🌍 ESTRATEGIA BILINGÜE (clave para la financiación)
+El **~70% del dinero de Kickstarter sale de EE.UU./UK** (mercado anglosajón). El público
+hispanohablante apoya poco en Kickstarter. Por eso: **página, video pitch y subtítulos en
+INGLÉS (o bilingüe)**, y dos frentes de audiencia en el pre-lanzamiento.
+
+| Frente | Idioma | Para qué | Dónde |
+|---|---|---|---|
+| **Principal (el dinero)** | 🇬🇧 Inglés | captar backers USA/UK — adoran el estilo Ghibli/anime | TikTok EN, IG EN, Reddit, YouTube |
+| **Base natural (lealtad)** | 🇪🇸 Español | tu núcleo duro, comparten mucho | TikTok ES, IG ES, Discords ES |
+
+- **El arte no necesita traducción** — sirve igual en ambos. Solo adaptas los **textos**.
+- Los "retratos hablados" de 13 s: grábalos/subtitúlalos en **ambos idiomas** (dos versiones del mismo clip).
+- Cuentas separadas por idioma O una sola cuenta con captions bilingües (empieza simple: captions bilingües).
+- Alternativa 100% español: **Verkami** (plataforma española, comunidad fiel de cómic/animación indie).
+
+---
+
 ## 🎯 LAS 3 METAS DEL PRE-LANZAMIENTO
 1. **Audiencia:** llegar a **1.000–2.000 seguidores reales** repartidos en IG / TikTok / YouTube.
 2. **Lista de correo:** **300–800 emails** de gente que pidió "avísame cuando lance".
@@ -36,11 +53,12 @@ este plan existe: para que el Día 1 ya tengas gente esperando.
 - Semana 3: **mundo**. Locaciones (erdia_dorada → erdia_podrida = el "antes y después" engancha mucho).
 - Semana 4: **proceso**. Behind-the-scenes, bocetos, "cómo nace un personaje".
 
-**TikTok/Reels = donde está el alcance.** Formato que funciona:
+**TikTok/Reels = donde está el alcance.** Formato que funciona (publica versión EN + ES):
 - "Antes/después de Erdia" (utopía → podrida).
 - "Conoce a la tripulación" (carrusel/transiciones).
 - El **clip de prueba** (CLIP01) con texto encima y música.
 - Time-lapse o reveal de un character sheet.
+- **Captions bilingües** o doble publicación EN/ES. El alcance EN trae el dinero; el ES trae la base leal.
 
 **KPI fin de mes 1:** 200-500 seguidores · primeros 50-150 emails.
 
@@ -77,6 +95,8 @@ este plan existe: para que el Día 1 ya tengas gente esperando.
 
 **Construir la página de Kickstarter (Días 61-75)**
 - [ ] **Video pitch** (1-3 min) = teaser + tú/equipo + qué pides y para qué + recompensas.
+      **En inglés** (o español con subtítulos EN). El teaser, subtitulado en inglés.
+- [ ] Texto de la página **en inglés** (con resumen en español al final, opcional).
 - [ ] Texto: sinopsis-gancho, "por qué este proyecto", **presupuesto desglosado**, equipo, riesgos.
 - [ ] **Niveles de recompensa** + **stretch goals** (ver PLAN de la escalera).
 - [ ] Activar la página en modo **"prelaunch"** de Kickstarter → la gente le da "notificarme".
