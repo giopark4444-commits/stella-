@@ -202,8 +202,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Quiere ir sola, pero en el camino se le unen **2 de sus amigos más cercanos** y su **compañero líder**.
   *(Estos serán clave: cuando llegue Stella, le serán leales a ella como lo fueron con su madre.)*
 - La gente disfruta la noche con sus familias; ella decide irse.
-- **GIRO (se revela solo al final):** el "mejor amigo / líder de la resistencia" **siempre fue Vorthan
-  cambiado de forma**, infiltrado para conocer los planes de la resistencia y destruirla poco a poco.
+- **GIRO (se revela solo al final):** el "mejor amigo / líder de la resistencia", **Marek**, **siempre
+  fue Vorthan cambiado de forma**, infiltrado para conocer los planes de la resistencia y destruirla
+  poco a poco.
   Esto solo lo sabremos en la **escena final**, cuando se convierte primero en **la hermana**, luego en
   **la madre**, y por último en **el amigo** — justo cuando los aliados están salvando a Selka y a
   Stella. Intenta engañarlos, pero **ellos ya lo habían visto todo**.
@@ -214,10 +215,11 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 ## 11 — VERA BUSCA A SU FAMILIA (la muerte / el engaño)
 - Vera entra a buscar a su familia. Encuentra a **Naio**; él le da información de **dónde está Selka**.
   Ella le dice que **volverá por él**.
-- Vera va por Selka. Poco antes, el **otro líder** dice que entrar es una locura, que prefiere
-  **quedarse cuidando la espalda afuera**. A Vera le molesta un poco que se eche para atrás justo
-  antes de entrar, pero no quiere pelear y no es mala idea tener a alguien vigilando afuera.
-  *(Era Vorthan disfrazado, evitando el encuentro.)*
+- Vera va por Selka. Poco antes, **Marek** dice que entrar es una locura, que prefiere **quedarse
+  cuidando la espalda afuera**. A Vera le molesta un poco que se eche para atrás justo antes de entrar,
+  pero no quiere pelear y no es mala idea tener a alguien vigilando afuera.
+  *(Era Vorthan: "quedarse afuera" es su coartada para escabullirse, tomar la forma de **Selka** y
+  entrar él a matar a Vera. La **Selka real no es la asesina**.)*
 - Encuentra a **Selka**, que pelea contra ella llamándola **traidora**: por su culpa (y la de Stella,
   que robó el Orbe) el planeta quedó a su suerte y se pudrió.
 - Selka no puede contra su madre, pero **Vera no es capaz de hacerle daño**. Selka se rinde.
@@ -412,8 +414,7 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 - **El pelo de Stella:** se tiñe para camuflarse al volver (beat 13) y **al final conserva el cabello
   teñido** (no vuelve al blanco). *(En la cultura naiel el blanco es un voto; conservarlo teñido marca
   que el exilio la cambió — ya no es la naiel pura de antes.)*
-- **"Marek" (a confirmar):** alias propuesto para el **disfraz de Vorthan** como "amigo líder de la
-  resistencia". Pendiente: mantener "Marek", cambiarlo, o dejarlo sin nombre.
+- **Marek:** ✅ nombre del **disfraz de Vorthan** como "amigo líder de la resistencia" (el topo).
 
 ---
 
