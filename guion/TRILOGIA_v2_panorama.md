@@ -71,6 +71,8 @@ a la hermana que ella misma destruyó**.
   POV. La **nana** persigue a Selka.
 - **ACTO 3 — El robo.** Infiltración en la **nave de Vorthan** (rumbo a Morth) para recuperar el Orbe.
   Entran, lo toman, salen — con un costo. **NO derrotan a Vorthan**: solo recuperan la llave.
+- **Vosk:** es **de los que MÁS quiere que Stella despierte** (cierre de su arco de P1: de matón a aliado).
+  Cuando ella despierta, **le es leal y se une a su equipo**.
 - **CIERRE — La resurrección (v2):** de vuelta, **Naio + Selka** reconectan el Orbe al cuerpo de Stella
   (Naio sabe la ciencia; Selka, su sangre, puede tocarlo). **Stella abre los ojos.** Y **Gix**, que
   sostuvo su corazón todo este tiempo, **se disuelve y muere del todo**. Dos hermanas frente a frente,

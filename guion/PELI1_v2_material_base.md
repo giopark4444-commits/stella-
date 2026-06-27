@@ -182,7 +182,8 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 ## 2 — LA NAVE NODRIZA  *(Stella · años 0 → ~2 subjetivos / Erdia 0 → 8)*
 - La tratan con **indiferencia**, como especie inferior; casi todos son **secos y arrogantes**.
 - Algunos se interesan por ella y muestran **empatía**. Otros se burlan y le hacen la vida imposible.
-- Hasta llegan a los golpes; sus **nuevos amigos** la separan.
+- **El conflicto estalla con VOSK (el matón):** la acosa hasta que **Stella tiene que pelear contra él**.
+  Sus **nuevos amigos** los separan. *(Arranque del arco de Vosk: de rival a leal — ver su ficha.)*
 - Stella les cuenta de su planeta y lo que sucedía, y les **muestra el Orbe**. La mandan a hablar
   con **Theron**.
 - Theron le explica que debe **entrenarse**, pero a un gran costo: **1 año en esta galaxia = 4 años
@@ -221,8 +222,8 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   y su jugada **salva a la tripulación**. Aquí pasa de aprendiz pasiva a **líder**. *(Por eso el que se
   burlaba ahora la respeta: se lo ganó con una decisión propia, no con suerte.)*
 - De regreso a la nave, **rescatan prisioneros** — entre ellos **el chico humano** — y traen a los
-  heridos. Entre ellos, **uno que se burlaba de ella** y ahora le tiene respeto. Todos ríen de la
-  situación, pero en el fondo están agradecidos.
+  heridos. Entre ellos **VOSK**, el que se burlaba de ella: tras ser rescatado/herido por Stella, **le
+  toma respeto**. Todos ríen de la situación, pero en el fondo están agradecidos.
 
 ## 8 — LA FOTO / LOS FLASHBACKS  *(Stella ~3 subjetivos · muestra Erdia hasta ~año 14)*
 - **Poderes de Theron (el Cazador):**
@@ -289,6 +290,8 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   interesa que la vida vuelva a Erdia. Se va indignada.
 - **(Agencia de Stella — Opción C):** el regreso es **SU operación**, decidida **contra la voluntad de
   Theron**: ella **planea la infiltración** y conduce el tercer acto (no se deja arrastrar a él).
+- **Vosk pide entrar:** **Vosk es de los que le ruegan a Theron** poder **entrar a Erdia para ayudar a la
+  fuga/rescate de Stella** — de rival pasó a defenderla. *(Pago de su arco.)*
 - Stella vuelve a Erdia. Al principio Theron **no interviene**, pero **manda un pequeño grupo con ella**
   (Brog, Nima, Noah) — porque para él el Orbe es preciado… ni siquiera por Stella.
 - **PERO en el clímax Theron SÍ entra** a rescatarla: al ver lo que pasa, **se da cuenta de que el
@@ -429,6 +432,15 @@ Naio **aparece en 4 momentos**, no solo en flashbacks:
 - **Ren** (hombre) y **Juno** (mujer) — los **2 piratas** arrogantes: van a contra y quieren **robar
   recursos**.
 - *(Total del trío: 2 hombres + 1 mujer — Noah, Ren, Juno.)*
+
+## 💢 VOSK — arco (de rival a leal)
+- **Nave nodriza (beat 2):** es **el matón** que acosa a Stella; el conflicto estalla y **ella tiene que
+  pelear contra él**. La tripulación los separa.
+- **Misión / rescate (beat 7):** Stella lo **salva/lo carga herido**; Vosk **le toma respeto**.
+- **Regreso (beat 12):** **es de los que le ruega a Theron** poder **entrar a Erdia a ayudar a la fuga
+  de Stella** — ya la defiende.
+- **Peli 2:** Vosk es **de los que MÁS quiere que Stella despierte**; cuando lo hace, **le es leal y se
+  une a su equipo**. *(Su arco se cierra en P2.)*
 
 ## 🎬 ACTO 3 / FINAL (propuesto — reconciliado con lo ya acordado en `_archivo_guion_v1`)
 Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), ajustado a la v2:
