@@ -176,8 +176,11 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   situación, pero en el fondo están agradecidos.
 
 ## 8 — LA FOTO / LOS FLASHBACKS
-- Theron puede **localizar a cualquier persona del universo**, pero necesita **referencia visual**.
-  Stella le entrega una **foto de su familia** y puede **verlos aún con vida**.
+- **Poderes de Theron (el Cazador):**
+  1. Puede **localizar a cualquier persona del universo**, pero necesita una **referencia visual**.
+  2. Al **tocar la mano** de alguien, puede **ver/sentir los planetas (el mundo/origen) de esa persona** —
+     percibe de dónde viene, su historia, su mundo.
+- Stella le entrega una **foto de su familia** y Theron puede **verlos aún con vida**.
 - Flashbacks:
   - **Naio** viviendo una vida de **esclavitud**.
   - **Selka** entrenando estrictamente, al borde del **maltrato militar**.
@@ -249,6 +252,14 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ---
 
+## 🔆 GIX (el ajolote de luz)
+- **Aparición:** solo se ve **en la primera escena, mientras Stella juega** (0.5). De resto, **no
+  anda suelto**.
+- **Invocación:** Stella lo **invoca en ciertas situaciones** cuando lo necesita.
+- **Capacidades:** Gix puede **agrandarse bastante** y servir como:
+  - **Transporte** de Stella.
+  - **Arma de ataque** y para **abrir camino** entre muchos adversarios.
+
 ## 📝 NOTAS Y DATOS CLAVE
 - **Arco de Theron:** al final valora **más a Stella que al propio Orbe**. Descubre que el verdadero
   valor estaba en **Stella**, no en el recurso.
@@ -264,5 +275,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   Hay que cuadrar el calendario exacto Erdia vs. galaxia (dilatación 1:4).
 - **Selka en la huida:** es **bebé** en el laboratorio (beat 1) y luego la **General** adulta — confirmar
   edades/saltos.
-- **Max:** ¿es el reloj/IA de Stella? Definir qué es y su rol.
-- **Gix (ajolote de luz):** aún no aparece en estos beats — ver dónde entra.
+- **"Max":** viene del texto original ("su reloj dice Max activa sus propulsores"). Interpretación
+  actual: el **reloj/dispositivo de muñeca de Stella marca "MAX"** (potencia máxima) y dispara los
+  propulsores — **no es un personaje**. *(Pendiente: confirmar, o decidir si Max sí es una IA/asistente
+  con nombre.)*
