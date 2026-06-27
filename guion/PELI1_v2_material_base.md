@@ -300,8 +300,13 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - El **Orbe** absorbe los **recursos y la energía** del planeta (el "corazón"/batería de Erdia).
   Por eso, al robarlo, el planeta empieza a morir.
 - **Por qué lo quiere Vorthan:** el **palacio** donde estaba el Orbe parece un palacio gigante, pero
-  en realidad es una **NAVE** que lleva **cientos de años** ahí, camuflada. Vorthan necesita la energía
-  del Orbe para **hacer despegar esa nave** y **volver a su planeta** y seguir **devorando otros mundos**.
+  en realidad es la **NAVE del Parásito**, que lleva **cientos de años** ahí, camuflada. Vorthan necesita
+  la energía del Orbe para **hacer despegar esa nave** y **volver a su planeta** y seguir **devorando
+  otros mundos**.
+- **El secreto del meteorito:** la civilización de Stella **siempre creyó** que eso fue un **meteorito**
+  que cayó, y que **el Rey lo convirtió en palacio**. Nadie sabía que era una nave.
+- **La revelación de que es una NAVE se guarda para el FINAL** de la película (clímax): es un secreto que
+  **nadie conocía** hasta ese momento.
 - El **código del Orbe está encriptado en el ADN de Stella** (beat 1); al tomarlo, **se acopla a su
   mano** y ella y el Orbe se vuelven uno.
 
@@ -329,8 +334,9 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 3. **Combate:** Stella **no ataca a matar**, *pide*. Le reclama la muerte de Vera. Selka, glacial
    (doctrina inyectada): "He ejecutado a cientos… no recuerdo a ninguna como 'mamá'."
 4. Selka le **arranca el Orbe del pecho** → Stella **colapsa en coma** (cascarón, sin pulso — **NO muere**).
-5. Selka entrega el Orbe a Vorthan; lo inserta en la consola → **no vuelve la luz**: en su lugar el
-   **palacio-NAVE despierta y empieza a despegar** (lo que Vorthan siempre quiso: energía para volar).
+5. Selka entrega el Orbe a Vorthan; lo inserta en la consola → **no vuelve la luz**: en su lugar, **se
+   revela el gran secreto** — el **palacio cobra vida y empieza a despegar: SIEMPRE fue una NAVE** (lo
+   que todos creían un "meteorito hecho palacio"). Es lo que Vorthan siempre quiso: energía para volar.
 6. **Transformación de Vorthan:** Selka niña → la madre (Vera) → y el **giro v2**: revela que también era
    el **"amigo líder de la resistencia"** todo el tiempo.
 7. **Doble lectura de "Fui yo":** **Stella** ve a su madre y muere-en-paz (entra en coma); **Selka** oye
