@@ -69,7 +69,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Intentan evitar que Naio se quede, pero Vera sabe que no hay más opciones. **Último abrazo de familia.**
 - Llega **Vorthan (el Rey)** con robots. Saluda a Naio amigablemente: sabe que descubrieron su verdad
   y que debe **apresar a toda la familia** — su verdad no puede salir a la luz.
-- Stella y Vera caminan despacio (Vera carga al **bebé Selka**); dicen "ya volvemos, vamos a tomar
+- Stella y Vera caminan despacio (Vera carga a **Selka, de 2 años**); dicen "ya volvemos, vamos a tomar
   aire" y salen nerviosas. Pero Vorthan lo sabe todo.
 - Vorthan **captura a Naio** y grita: "¡No las dejen escapar, vayan por ellas!"
 - Naio activa un **campo de fuerza** en la salida por donde ellas escaparon.
@@ -108,10 +108,10 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **S1G1 se atasca en el orificio del techo y explota.**
 
 ### Cierre del laboratorio
-- Vera queda tirada con el **bebé llorando** a su lado. **Vorthan toma a Selka.**
+- Vera queda tirada con **Selka (2 años) llorando** a su lado. **Vorthan toma a Selka.**
 - Los robots van a levantar a Vera, pero Vorthan: "¡¿Qué hacen?! ¡Ya está muerta! Salgan a buscar a
   Stella, necesitamos el Orbe."
-- Los robots dejan el cuerpo y salen. Vorthan se va con la bebé y **deja a Vera tirada**.
+- Los robots dejan el cuerpo y salen. Vorthan se va con **la niña** y **deja a Vera tirada**.
 
 ---
 
@@ -261,7 +261,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 ---
 
 ## 👧 SELKA (la hermana / la General)
-- De **bebé** es tomada por **Vorthan** en la huida (beat 1) y **criada por él**.
+- Con **2 años** es tomada por **Vorthan** en la huida (beat 1) y **criada por él**.
 - Crece **bajo las mentiras del Rey**: le hacen creer que **Stella es una traidora** que robó el Orbe
   y condenó al planeta. Por eso **odia a Stella** y la trata de traidora.
 - Entrenada estrictamente, al borde del **maltrato militar**, hasta convertirse en **la General**.
@@ -328,6 +328,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   **nadie conocía** hasta ese momento.
 - El **código del Orbe está encriptado en el ADN de Stella** (beat 1); al tomarlo, **se acopla a su
   mano** y ella y el Orbe se vuelven uno.
+- **Por qué Naio lo encripta:** **justo para que Vorthan NO pueda usarlo** — lo bloquea con la sangre
+  naiel de su hija. *(Tragedia: el plan le **rebota**, porque Vorthan **ya tiene a Selka**, de la misma
+  sangre, como llave.)*
 - **Mecánica clave (el candado de ADN):** Vorthan **SÍ puede extraer el poder** del Orbe… pero **NO
   puede tocarlo**, porque está **amarrado al ADN de Stella**. **Solo su familia** (quienes comparten su
   mismo ADN) **puede tocarlo y manipularlo**.
@@ -419,9 +422,11 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 ---
 
 ## ❓ PENDIENTE DE DEFINIR (para cuando escribamos el guion)
-- **Línea de tiempo:** ✅ **nunca se nombra el año.** El único dato fijo: **pasan 20 años (en Erdia)
-  desde que Stella huye** hasta el clímax. Los marcadores (8 / 14 / "5 después") son **waypoints dentro
-  de esos 20 años**; lo de Stella va comprimido por la **dilatación 1:4** (vive ~5 años subjetivos).
+- **Línea de tiempo:** ✅ **nunca se nombra el año.** Único dato fijo: **pasan 20 años (en Erdia)
+  desde que Stella huye** hasta el clímax. Edades:
+  - **Stella:** **14** al huir → vive **~5 años subjetivos** afuera (dilatación 1:4) → **~19** al final.
+  - **Selka:** **2** al huir → **22** al final.
+  Los marcadores (8 / 14 / "5 después") son **waypoints dentro de esos 20 años**.
 - **Selka:** ✅ resuelto — bebé tomada y **criada por Vorthan**, crece con sus mentiras (ver sección Selka).
 - **Orbe / palacio-nave / arco del Orbe / Naio / humanos / final:** ✅ resueltos (ver secciones arriba).
 - **Theron:** ✅ resuelto — especie víctima de los shape-shifters; rastrea por tacto/vista/referencia
