@@ -260,6 +260,8 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   y condenó al planeta. Por eso **odia a Stella** y la trata de traidora.
 - Entrenada estrictamente, al borde del **maltrato militar**, hasta convertirse en **la General**.
 - Vorthan la **usa/controla** (su voz al oído en la muerte de Vera, beat 11).
+- **Edad al final:** **22** (Stella termina con **19, casi 20**).
+- **Descubre la verdad** en el clímax ("Fui yo"): nunca mató a Vera; fue **Vorthan con su rostro**.
 
 ## 🔆 GIX (el ajolote de luz)
 - **Aparición:** solo se ve **en la primera escena, mientras Stella juega** (0.5). De resto, **no
@@ -268,6 +270,64 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **Capacidades:** Gix puede **agrandarse bastante** y servir como:
   - **Transporte** de Stella.
   - **Arma de ataque** y para **abrir camino** entre muchos adversarios.
+- **Relación con el Orbe:** Gix y el Orbe **no están conectados**, pero gracias a la **energía del
+  Orbe** Gix puede volverse **más fuerte**.
+
+## 🔮 EL ORBE Y EL PALACIO-NAVE
+- El **Orbe** absorbe los **recursos y la energía** del planeta (el "corazón"/batería de Erdia).
+  Por eso, al robarlo, el planeta empieza a morir.
+- **Por qué lo quiere Vorthan:** el **palacio** donde estaba el Orbe parece un palacio gigante, pero
+  en realidad es una **NAVE** que lleva **cientos de años** ahí, camuflada. Vorthan necesita la energía
+  del Orbe para **hacer despegar esa nave** y **volver a su planeta** y seguir **devorando otros mundos**.
+- El **código del Orbe está encriptado en el ADN de Stella** (beat 1); al tomarlo, **se acopla a su
+  mano** y ella y el Orbe se vuelven uno.
+
+## ⚡ ARCO DE STELLA CON EL ORBE
+- Al inicio el Orbe es **muy inestable** y le **cuesta controlarlo**.
+- A lo largo de la película lo **va dominando** poco a poco (paga en el clímax, cuando ya lo canaliza).
+
+## 👨‍🔧 NAIO (el padre)
+- Tras la caída vive como **esclavo** en las minas (beat 8, flashback).
+- **Aparece** en la escena en que Vera va a rescatar a Selka (beat 11): le da info de **dónde está
+  Selka** y Vera promete **volver por él**. *(Luego Vera es engañada por Vorthan y muere.)*
+- Es **rescatado al final** (en la guerra del clímax) y **sobrevive**.
+- **Clave para la Peli 2:** Naio será quien permita **traer a Stella de vuelta a la vida**.
+
+## 👤 LOS HUMANOS (de Tierra) — nombres propuestos
+- **Noah** (hombre) — el humano **noble** que reclutan (beat 4); empatía con Stella por parecido físico.
+- **Dax** (hombre) y **Riza** (mujer) — los **2 piratas** arrogantes: van a contra y quieren **robar
+  recursos**.
+- *(Nombres provisionales — cámbialos si quieres. Total: 2 hombres + 1 mujer.)*
+
+## 🎬 ACTO 3 / FINAL (propuesto — reconciliado con lo ya acordado en `_archivo_guion_v1`)
+Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), ajustado a la v2:
+1. Estalla la **guerra** (cierre del beat 15). En el caos, **rescatan a Naio** (sobrevive).
+2. Stella cae por la cúpula de cristal a la **Sala del Trono**; reencuentro con **Selka (la General, 22)**.
+3. **Combate:** Stella **no ataca a matar**, *pide*. Le reclama la muerte de Vera. Selka, glacial
+   (doctrina inyectada): "He ejecutado a cientos… no recuerdo a ninguna como 'mamá'."
+4. Selka le **arranca el Orbe del pecho** → Stella **colapsa en coma** (cascarón, sin pulso — **NO muere**).
+5. Selka entrega el Orbe a Vorthan; lo inserta en la consola → **no vuelve la luz**: en su lugar el
+   **palacio-NAVE despierta y empieza a despegar** (lo que Vorthan siempre quiso: energía para volar).
+6. **Transformación de Vorthan:** Selka niña → la madre (Vera) → y el **giro v2**: revela que también era
+   el **"amigo líder de la resistencia"** todo el tiempo.
+7. **Doble lectura de "Fui yo":** **Stella** ve a su madre y muere-en-paz (entra en coma); **Selka** oye
+   la verdad — **ella nunca mató a Vera, fue Vorthan con su cara** (retomamos el "oído" del beat 11 ahora
+   con la voz de Vorthan). La **nana** de la infancia la rompe.
+8. Selka se quiebra y ataca; Vorthan toma su **forma real (el Parásito biomecánico)** y le **secciona el
+   brazo**. La ignora y sigue desenterrando/levantando su nave.
+9. **Brog y Nima** irrumpen, **cargan a Stella en coma** y **arrastran a Selka** (manca, sin resistirse).
+   Escapan en la nave de **Theron**.
+10. El **palacio-nave de Vorthan despega** con el Orbe y abre un **portal**: se va a seguir devorando
+    mundos. **Theron:** "Por fin sé adónde va a llevarlo." *(Suelo para la Peli 2.)*
+11. Cierre: **Selka**, manca, la mano en el cristal del tanque de Stella: *"No sabía que eras tú.
+    Despierta y déjame decírtelo a la cara."* → Título: **EL NODO DE ERDIA**.
+
+> **Cambios vs. versión vieja:** Selka/General ahora **22** (no 28); el **palacio ES la nave** que
+> despega (antes la nodriza estaba "bajo los cimientos"); **Naio rescatado vivo**; Stella en **coma**
+> (revive en Peli 2 gracias a Naio); se integra el **giro del "amigo"-Vorthan**.
+
+## 🎞️ FORMATO DE SAGA
+- Sigue siendo **Película 1 de 2-3**. Título de la Peli 1: **EL NODO DE ERDIA**.
 
 ## 📝 NOTAS Y DATOS CLAVE
 - **Arco de Theron:** al final valora **más a Stella que al propio Orbe**. Descubre que el verdadero
@@ -282,6 +342,10 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 ## ❓ PENDIENTE DE DEFINIR (para cuando escribamos el guion)
 - **Línea de tiempo:** ✅ confirmada tal cual (8 años → 14 años → "5 años después", con dilatación 1:4).
 - **Selka:** ✅ resuelto — bebé tomada y **criada por Vorthan**, crece con sus mentiras (ver sección Selka).
+- **Orbe / palacio-nave / arco del Orbe / Naio / humanos / final:** ✅ resueltos (ver secciones arriba).
+- **Aún abierto:** qué es **Theron** realmente y su poder (beat 6); naturaleza/origen de **Vorthan** (el
+  Parásito); nombre de la **raza** de Stella y de la **ciudad**; origen de **Gix**; mecánica fina del
+  **Orbe-en-ADN** (qué pasa si Vorthan captura a Stella).
 - **"Max":** ✅ resuelto — es el **nivel de carga del traje de Stella**. Cuando el traje alcanza
   **MAX (carga máxima)**, dispara los **propulsores a toda velocidad** y le permite salir impulsada
   para escapar con el Orbe. **No es un personaje.**
