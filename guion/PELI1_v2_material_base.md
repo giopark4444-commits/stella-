@@ -99,8 +99,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Stella, aterrada y sin poder soltarse, toma un **cuchillo láser** de su traje, **se corta el cabello/
   la trenza** y así se libera. Vera le grita: "¡Huye!"
 - **S1G1 golpea a Vera en la cabeza** y la deja aplastada contra el piso, inconsciente o muerta.
-- Stella escapa, esquivando robots con sus últimas fuerzas; **toma el Orbe**. Apenas lo consigue, el
-  **traje llega a carga MÁXIMA ("MAX")** y activa los **propulsores a toda velocidad**: sale volando
+- Stella escapa, esquivando robots con sus últimas fuerzas; **toma el Orbe**. Apenas lo consigue,
+  vemos su **monitor de muñeca**: una **barrita de carga que se va llenando** hasta **titilar en
+  "MAX"**. En ese instante el traje activa los **propulsores a toda velocidad** y Stella sale volando
   hacia el **ducto estrecho del techo**.
 - Ella pasa; los robots la siguen; el **oscuro (S1G1) con propulsores** casi la alcanza.
 - Desde el aire, Stella ve por **última vez** a su madre y hermana; se le aguan los ojos y entra al ducto.
