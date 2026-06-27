@@ -314,11 +314,17 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Al inicio el Orbe es **muy inestable** y le **cuesta controlarlo**.
 - A lo largo de la película lo **va dominando** poco a poco (paga en el clímax, cuando ya lo canaliza).
 
-## 👨‍🔧 NAIO (el padre)
-- Tras la caída vive como **esclavo** en las minas (beat 8, flashback).
-- **Aparece** en la escena en que Vera va a rescatar a Selka (beat 11): le da info de **dónde está
-  Selka** y Vera promete **volver por él**. *(Luego Vera es engañada por Vorthan y muere.)*
-- Es **rescatado al final** (en la guerra del clímax) y **sobrevive**.
+## 👨‍🔧 NAIO (el padre) — hilo a lo largo de la película
+Naio **aparece en 4 momentos**, no solo en flashbacks:
+1. **Inicio:** en el laboratorio (beats 1–1.2): descubre la verdad, encripta el Orbe en el ADN de
+   Stella, las hace huir y se queda a retener a Vorthan (capturado, esclavizado después).
+2. **Mitad — la muerte de Vera:** aparece en la escena en que Vera va a rescatar a Selka (beat 11);
+   le da info de **dónde está Selka** y Vera promete **volver por él**. *(Luego Vera es engañada por
+   Vorthan y muere.)*
+3. **Antes del clímax:** **Stella lo visita** justo **antes de ir a luchar contra el Parásito**
+   (reencuentro padre-hija tras 20 años; él, anciano esclavo).
+4. **Final:** es **rescatado** y **sobrevive**. Cuando **Selka se vuelve buena y sabe la verdad**, le
+   **pide perdón a su padre** y le **promete que volverá para salvar Erdia**.
 - **Clave para la Peli 2:** Naio será quien permita **traer a Stella de vuelta a la vida**.
 
 ## 👤 LOS HUMANOS (de Tierra) — nombres propuestos
@@ -350,8 +356,13 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
    **arrastran a Selka** (manca, sin resistirse). Escapan en la nave de **Theron**.
 10. El **palacio-nave de Vorthan despega** con el Orbe y abre un **portal**: se va a seguir devorando
     mundos. **Theron:** "Por fin sé adónde va a llevarlo." *(Suelo para la Peli 2.)*
-11. Cierre: **Selka**, manca, la mano en el cristal del tanque de Stella: *"No sabía que eras tú.
-    Despierta y déjame decírtelo a la cara."* → Título: **EL NODO DE ERDIA**.
+11. **Cierre en la nave de Theron** (tres dolientes: Stella en coma + Selka manca + Naio rescatado):
+    - **Selka se vuelve buena y sabe la verdad.** Le **pide perdón a su padre (Naio)** y le **promete
+      que volverá para salvar Erdia** — **hereda la misión que era de Stella**.
+      *(Ese rescate de Erdia ya es la **Película 2**.)*
+    - Selka apoya su única mano en el cristal del tanque de Stella: *"No sabía que eras tú. Despierta y
+      déjame decírtelo a la cara."*
+    - **Theron:** "Por fin sé adónde va a llevarlo." → Título: **EL NODO DE ERDIA**.
 
 > **Cambios vs. versión vieja:** Selka/General ahora **22** (no 28); el **palacio ES la nave** que
 > despega (antes la nodriza estaba "bajo los cimientos"); **Naio rescatado vivo**; Stella en **coma**
