@@ -207,11 +207,18 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 > Estos beats van **intercalados con la línea de Erdia** (la resistencia, Selka creciendo, Naio esclavo),
 > rotulando los años a cada salto.
 
-## 4 — STELLA EN MISIÓN + EL HUMANO
-- Stella aparece también luchando junto a sus compañeros en una misión; vemos un poco quiénes son.
-- **Reclutan a Noah, un guerrero de la Tierra**; hay empatía porque son **físicamente muy similares**.
-  *(Canon: la Tierra fue colonizada por los naieli hace miles de años → ascendencia común. Ver Theron y
-  "Los humanos".)*
+## 4 — EL POZO / EL ENCUENTRO CON LOS HUMANOS (Opción A)
+- **Cómo llega Stella:** Vorthan la marcó como **la ladrona más buscada de la galaxia** (robó el Orbe).
+  **Cazarrecompensas la capturan** (temprano, cuando la tripulación aún la ve como "la inferior" y no la
+  protege) y la **venden a una estación sin ley**: **subasta de esclavos + casas de apuestas**, donde a
+  los "ladrones" los **fuerzan a pelear para los apostadores**.
+- Ahí están los **humanos**: **Ren y Juno** (piratas pillados robando) y **Noah**. **Fuerzan a Stella y a
+  Noah a pelear** entre ellos; en vez de matarse, **se alían**, y con la **tripulación entrando a sacarla**,
+  **deben escapar** todos juntos.
+- **Empatía:** Stella siente algo raro al verlos — **se parecen a ella**. *(Siembra: son descendientes de
+  su mundo; se MUESTRA en una mirada, no se explica aún.)* **Noah** queda prendado de ella.
+- **Doble función (poda):** este **escape ES el acto heroico** que **le gana a Stella** el respeto de
+  Theron (más adelante él accede al **reconocimiento** de Erdia) **y** arranca el **respeto de Vosk**.
 
 ## 5 — VÍNCULOS Y PAISAJES
 - Stella y sus nuevos amigos tienen intercambios; nacen **complicidad y confianza**. Burlas, risas,
@@ -223,12 +230,10 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Stella **descubre quién es realmente Theron** y su verdadero poder.
 
 ## 7 — REGRESO A LA NAVE / RESCATE DE PRISIONEROS
-- **(Agencia de Stella — Opción C):** el rescate sale por **un plan de Stella** — ella **toma el mando**
-  y su jugada **salva a la tripulación**. Aquí pasa de aprendiz pasiva a **líder**. *(Por eso el que se
-  burlaba ahora la respeta: se lo ganó con una decisión propia, no con suerte.)*
-- De regreso a la nave, **rescatan prisioneros** — entre ellos **el chico humano** — y traen a los
-  heridos. Entre ellos **VOSK**, el que se burlaba de ella: tras ser rescatado/herido por Stella, **le
-  toma respeto**. Todos ríen de la situación, pero en el fondo están agradecidos.
+- **(Agencia de Stella — Opción C):** en una **misión posterior**, el éxito sale por **un plan de Stella**
+  — ella **toma el mando** y su jugada **salva a la tripulación**. Cementa su paso de aprendiz a **líder**.
+- De regreso, **rescatan prisioneros** y traen heridos. Aquí **Vosk** (ya con respeto desde el pozo)
+  termina de **rendirse a ella** y la cuadrilla la acepta del todo. Todos ríen, pero en el fondo agradecen.
 
 ## 8 — LA FOTO / LOS FLASHBACKS  *(Stella ~3 subjetivos · muestra Erdia hasta ~año 14)*
 - **Poderes de Theron (el Cazador):**
@@ -365,10 +370,12 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **Su mirada moral (matiz):** sabe que **hay razas que NO merecen salvarse**. Con los **naieli** es más
   empático porque **ya aprendieron de sus errores** y abandonaron la guerra — pero tiene clarísimo que
   **haber aprendido NO borra su pasado** ni las atrocidades que cometieron.
-- **El pasado naiel y la Tierra:** entre las **colonizaciones** del pasado guerrero de los naieli estuvo
-  **la Tierra**, hace **miles de años**. Por eso los **humanos** arrastran la misma **codicia y violencia**
-  — pero **aún NO han aprendido**: la Tierra es **muy joven** y sigue en la fase de **guerras y egoísmo,
-  como un virus**. *(Espejo: los humanos son lo que los naieli **fueron**.)*
+- **El pasado naiel y la Tierra:** la **Tierra** fue el **planeta-exilio** de los naieli — ahí
+  **desterraban a los condenados a muerte**. Contra todo pronóstico, esos exiliados **sobrevivieron y
+  construyeron la humanidad**. Los **humanos son descendientes directos del pueblo de Stella** (de su
+  parte condenada): arrastran su **codicia y violencia**, pero **aún NO han aprendido** (la Tierra es
+  **muy joven**, en fase de guerra/egoísmo como un virus). *(Espejo oscuro: los humanos son lo que los
+  naieli **desecharon**.)*
 - **Su entrada al clímax (beat 12):** Theron **solo aprueba intervenir cuando CONFIRMAN que Vorthan es uno
   de los parásitos que siempre ha cazado**. **No le interesa el planeta de Stella** — le interesa **más
   Stella que el planeta**.
@@ -389,9 +396,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 #### Stella se GANA ir a Erdia (refuerza su agencia + explica los 5 años)
 - A Theron, ir a Erdia **a salvar un planeta** le parece una **pérdida de tiempo** — no hay parásito
   confirmado, solo un mundo muerto. **Se niega.**
-- Por eso **tarda 5 años**: Stella tiene que **GANÁRSELO**. En algún punto del Acto 2, con un **acto
-  heroico / una misión** (p. ej. su jugada que salva a la tripulación, beat 7), **se gana el respeto de
-  Theron** → él **accede a llevarla solo en una misión de RECONOCIMIENTO** a Erdia (no a un rescate).
+- Por eso **tarda 5 años**: Stella tiene que **GANÁRSELO**. Con un **acto heroico** (sobre todo su
+  **escape del pozo de combate, beat 4**, y misiones posteriores), **se gana el respeto de Theron** → él
+  **accede a llevarla solo en una misión de RECONOCIMIENTO** a Erdia (no a un rescate).
 - Ese **reconocimiento** es lo que desemboca en el clímax, donde por fin se **confirma al parásito
   (Vorthan)** y Theron se compromete del todo.
 
@@ -485,21 +492,26 @@ Naio **aparece en 4 momentos**, no solo en flashbacks:
   (deja de sostener su corazón).
 
 ## 👤 LOS HUMANOS (de la Tierra)
-- **Noah** (hombre) — el humano **noble** que reclutan (beat 4).
-- **Ren** (hombre) y **Juno** (mujer) — los **2 piratas** arrogantes: van a contra y quieren **robar
-  recursos**. *(Total del trío: 2 hombres + 1 mujer.)*
-- **Función dramática (resuelve que no sean opcionales):** la **Tierra fue colonizada por los naieli** en
-  su pasado guerrero (ver Theron). Los humanos **heredaron esa codicia/violencia** y **aún no aprenden**
-  → son **el espejo de lo que el pueblo de Stella FUE**. **Noah** es la **excepción noble** (la semilla de
-  que sí se puede cambiar); **Ren y Juno** encarnan el egoísmo no superado (por eso son piratas).
-- Por esa **ascendencia común**, **Noah y Stella se parecen físicamente** — ya no es casualidad, es canon.
+- **Noah** (hombre) — el humano **noble**. **Ren** (hombre) y **Juno** (mujer) — los **2 piratas**
+  arrogantes/oportunistas que quieren **robar recursos**. *(Trío: 2 hombres + 1 mujer.)*
+- **Origen (canon profundo):** la **Tierra fue el planeta-exilio** de los naieli, donde **desterraban a
+  los condenados a muerte**. Esos exiliados **sobrevivieron y construyeron la humanidad** → los humanos
+  son **descendientes directos del pueblo de Stella**, de su **parte condenada**.
+  - Por eso arrastran **codicia y violencia** (sangre de los condenados) pero **aún no aprenden** → son
+    el **espejo oscuro** de lo que los naieli fueron y desecharon. **Noah** prueba que **de esa sangre
+    también nace nobleza**; **Ren y Juno** son lo no superado.
+  - Por esa ascendencia, **Noah y Stella se parecen**, y Stella siente una **empatía incómoda** (reconoce
+    a los suyos en los descartados de su mundo).
+- **Noah ↔ Stella (subtrama):** **Noah se enamora de Stella**, pero **ella no corresponde**: no le importa
+  nada más que **su misión**. *(Amor no correspondido — fuente de pathos, no de romance cumplido.)*
 
 ## 💢 VOSK — arco (de rival a leal)
 - **Nave nodriza (beat 2):** es **el matón** que acosa a Stella; el conflicto estalla y **ella tiene que
   pelear contra él**. La tripulación los separa.
-- **Misión / rescate (beat 7):** Stella lo **salva/lo carga herido**; Vosk **le toma respeto**.
+- **El pozo (beat 4):** al ver a Stella **sobrevivir y escapar del pozo**, empieza a **respetarla**.
+- **Misión posterior (beat 7):** termina de **rendirse a ella**; la cuadrilla la acepta del todo.
 - **Regreso (beat 12):** **es de los que le ruega a Theron** poder **entrar a Erdia a ayudar a la fuga
-  de Stella** — ya la defiende.
+  de Stella** — ya la defiende abiertamente.
 - **Peli 2:** Vosk es **de los que MÁS quiere que Stella despierte**; cuando lo hace, **le es leal y se
   une a su equipo**. *(Su arco se cierra en P2.)*
 
