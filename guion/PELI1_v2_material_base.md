@@ -55,6 +55,10 @@ Mapa (**1 año de Stella = 4 años de Erdia**):
 
 > Regla de montaje: **intercalar** el entrenamiento/misiones de Stella con lo que pasa en Erdia, para
 > sentir que **mientras ella crece poco, su mundo se derrumba mucho**. Mostrar el **año** en cada salto.
+>
+> ⚠️ **No machacar el tiempo (a diferencia del guion viejo):** la dilatación se **establece 1-2 veces**
+> y de ahí se **siente** con los **rótulos de año** y lo que se ve en pantalla — **los personajes NO
+> andan repitiendo "20 años aquí / 5 allá"**. Que el tiempo se note, no que se explique.
 
 ---
 
@@ -321,8 +325,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Entrenada estrictamente, al borde del **maltrato militar**, hasta convertirse en **la General**.
 - Vorthan la **usa/controla** (su voz al oído en la muerte de Vera, beat 11).
 - **Su verdadera función para Vorthan (el candado de ADN):** al ser de la **misma sangre que Stella**,
-  Selka es la **única "llave"** que puede **tocar y manipular el Orbe**. Por eso Vorthan la **crió y
-  conservó**: la necesita para arrancarle el Orbe a Stella y devolverlo a la consola.
+  Selka **puede tocar y manipular el Orbe**. No es la única sangre posible (Naio también), pero sí la
+  **llave LEAL que Vorthan controla** — por eso la **crió y conservó**: la necesita para arrancarle el
+  Orbe a Stella y devolverlo a la consola.
 - **Edad al final:** **21** (Stella termina con **~19**).
 - **Descubre la verdad** en el clímax ("Fui yo"): nunca mató a Vera; fue **Vorthan con su rostro**.
 
@@ -522,9 +527,9 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
       déjame decírtelo a la cara."*
     - **Theron:** "Por fin sé adónde va a llevarlo." → Título: **EL NODO DE ERDIA**.
 
-> **Cambios vs. versión vieja:** Selka/General ahora **22** (no 28); el **palacio ES la nave** que
+> **Cambios vs. versión vieja:** Selka/General ahora **21** (no 28); el **palacio ES la nave** que
 > despega (antes la nodriza estaba "bajo los cimientos"); **Naio rescatado vivo**; Stella en **coma**
-> (revive en Peli 2 gracias a Naio); se integra el **giro del "amigo"-Vorthan**.
+> (revive en Peli 2 gracias a Naio + Selka); se integra el **giro del "amigo"-Vorthan**.
 
 ## 🎞️ FORMATO DE SAGA
 - Sigue siendo **Película 1 de 2-3**. Título de la Peli 1: **EL NODO DE ERDIA**.
@@ -534,8 +539,6 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
   valor estaba en **Stella**, no en el recurso.
 - **La raza de la familia de Stella** es humillada y resentida: todo el mundo les echó la culpa de
   todo, y todo por Stella — por eso la **odian más que a nadie**.
-- **El humano** llega con **2 compañeros más**: los otros dos van siempre en contra, son arrogantes y
-  quieren **robar recursos** (son como **piratas**). Nuestro humano es **el más noble**.
 - **El pelo de Stella:** se tiñe para camuflarse al volver (beat 13) y **al final conserva el cabello
   teñido** (no vuelve al blanco). *(En la cultura naiel el blanco es un voto; conservarlo teñido marca
   que el exilio la cambió — ya no es la naiel pura de antes.)*
