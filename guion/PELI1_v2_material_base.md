@@ -290,7 +290,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ## 👑 VORTHAN (el Rey / el Parásito)
 - **Vorthan es la forma humana** del **rey Parásito**.
-- Viene de **un planeta** (nombre **por definir**).
+- Viene del planeta **Morth**.
 - Es un **shape-shifter** (cambia de forma: por eso puede ser el Rey, la hermana, la madre y "el amigo
   de la resistencia").
 - Su **forma real** es el **Parásito biomecánico colosal**, el devorador de mundos.
