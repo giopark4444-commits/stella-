@@ -217,6 +217,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Stella **descubre quién es realmente Theron** y su verdadero poder.
 
 ## 7 — REGRESO A LA NAVE / RESCATE DE PRISIONEROS
+- **(Agencia de Stella — Opción C):** el rescate sale por **un plan de Stella** — ella **toma el mando**
+  y su jugada **salva a la tripulación**. Aquí pasa de aprendiz pasiva a **líder**. *(Por eso el que se
+  burlaba ahora la respeta: se lo ganó con una decisión propia, no con suerte.)*
 - De regreso a la nave, **rescatan prisioneros** — entre ellos **el chico humano** — y traen a los
   heridos. Entre ellos, **uno que se burlaba de ella** y ahora le tiene respeto. Todos ríen de la
   situación, pero en el fondo están agradecidos.
@@ -284,6 +287,8 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   sucumbieron y se les dio una oportunidad; ¿por qué tendrían otra?"
 - Stella insiste y le reclama que solo dice eso porque **quiere quedarse con el Orbe**, que no le
   interesa que la vida vuelva a Erdia. Se va indignada.
+- **(Agencia de Stella — Opción C):** el regreso es **SU operación**, decidida **contra la voluntad de
+  Theron**: ella **planea la infiltración** y conduce el tercer acto (no se deja arrastrar a él).
 - Stella vuelve a Erdia. Al principio Theron **no interviene**, pero **manda un pequeño grupo con ella**
   (Brog, Nima, Noah) — porque para él el Orbe es preciado… ni siquiera por Stella.
 - **PERO en el clímax Theron SÍ entra** a rescatarla: al ver lo que pasa, **se da cuenta de que el
@@ -393,6 +398,18 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Al inicio el Orbe es **muy inestable** y le **cuesta controlarlo**.
 - A lo largo de la película lo **va dominando** poco a poco (paga en el clímax, cuando ya lo canaliza).
 
+## 💪 AGENCIA DE STELLA (fix del problema de pasividad — A+B+C)
+Para que Stella **no sea una víctima a la que le pasan las cosas**, su tragedia nace de **sus decisiones**:
+- **(C) Conduce, no se deja arrastrar:** en el Acto 2 tiene un **triunfo propio** (su plan salva a la
+  tripulación, beat 7) y el **regreso es su operación** contra Theron (beat 12).
+- **(B) Casi gana lo que importa:** en el trono va **ganando el combate emocional** — agrieta a Selka,
+  casi la despierta.
+- **(A) Pierde por elección, no por debilidad:** **podría vencer** (tiene el beam) pero **elige no
+  matar** y apostar por su hermana; Vorthan/el miedo de Selka **castiga esa elección** arrancándole el
+  Orbe. Su coma es **consecuencia de su mejor cualidad**.
+> Resultado: la derrota duele más, Stella es agente de su destino, y el "Fui yo" llega **pagado**
+> (Selka ya venía dudando desde el trono).
+
 ## 👨‍🔧 NAIO (el padre) — hilo a lo largo de la película
 Naio **aparece en 4 momentos**, no solo en flashbacks:
 1. **Inicio:** en el laboratorio (beats 1–1.2): descubre la verdad, encripta el Orbe en el ADN de
@@ -416,11 +433,18 @@ Naio **aparece en 4 momentos**, no solo en flashbacks:
 ## 🎬 ACTO 3 / FINAL (propuesto — reconciliado con lo ya acordado en `_archivo_guion_v1`)
 Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), ajustado a la v2:
 1. Estalla la **guerra** (cierre del beat 15). En el caos, **rescatan a Naio** (sobrevive).
-2. Stella cae por la cúpula de cristal a la **Sala del Trono**; reencuentro con **Selka (la General, 21)**.
-3. **Combate:** Stella **no ataca a matar**, *pide*. Le reclama la muerte de Vera. Selka, glacial
-   (doctrina inyectada): "He ejecutado a cientos… no recuerdo a ninguna como 'mamá'."
-4. Selka le **arranca el Orbe del pecho** (solo ella puede, por el **candado de ADN**) → Stella
-   **colapsa en coma** (cascarón, sin pulso — **NO muere**).
+2. Stella entra **por su propia jugada** (ella lidera el asalto/infiltración, no "se deja caer"); baja a
+   la **Sala del Trono**; reencuentro con **Selka (la General, 21)**.
+3. **Combate emocional — Stella va GANANDO lo que importa (Opción B):** Stella **podría vencer** (tiene
+   el beam de la palma), pero **no ataca a matar**: *pide*, no hiere. Al negarse y reclamar la muerte de
+   Vera, **agrieta a Selka** — la General **duda**, baja el sable medio segundo, asoma la hermana real.
+   *(Siembra clave: Selka YA empieza a quebrarse aquí → el "Fui yo" será pago, no sorpresa gratis.)*
+   Selka, peleando contra su propia duda, glacial: "He ejecutado a cientos… no recuerdo a ninguna como 'mamá'."
+4. **La derrota como ELECCIÓN (Opción A):** justo cuando Stella casi la despierta, se corta — **Selka,
+   aterrada de lo que está sintiendo (empujada por Vorthan), le arranca el Orbe** para callar la duda.
+   Stella **pierde porque eligió no traicionar lo que es** (no matar, apostar por su hermana). Cae en
+   **coma** (cascarón, sin pulso — **NO muere**). *(Su caída es consecuencia de su mejor cualidad, no de
+   ser débil.)*
    - *Por qué no muere:* **Gix entra en su cuerpo desde su ADN**, pequeño y débil, y **le abraza el
      corazón para mantenerlo latiendo**. *(Eco de la escena 1: el juguete de luz, ahora su última chispa.)*
 5. Selka **coloca el Orbe en la consola** (Vorthan no puede tocarlo) → **no vuelve la luz**: en su lugar, **se
