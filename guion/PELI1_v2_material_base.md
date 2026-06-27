@@ -273,15 +273,20 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **Relación con el Orbe:** Gix y el Orbe **no están conectados**, pero gracias a la **energía del
   Orbe** Gix puede volverse **más fuerte**.
 
-## 👁️ THERON (el Cazador) — naturaleza
-- **IMPORTANTE:** Theron **NO** es de la misma especie que Vorthan; **no son lo mismo**.
+## 👁️ THERON (el Cazador) — naturaleza ✅
+- Es de **otra especie** (NO la de Vorthan): un pueblo que fue **atacado desde hace millones de años**
+  por los **shape-shifters parásitos**. Por eso los **caza** — es una guerra antiquísima.
+- **Su poder (rastreo):** para **buscar a una persona** o **ver un planeta**, Theron necesita **tocarla,
+  verla, o conocerla físicamente** (tener una referencia real de ella).
+- **Su límite (clave de la trama):** a los **shape-shifters NO los puede rastrear** — no puede
+  **tocarlos** y **no sabe qué forma real tienen**. Por eso, pese a perseguirlos hace milenios, **le es
+  imposible encontrarlos**.
+- **Por eso necesita a Stella:** su **Orbe** emite una **gran fuente de energía** (un rastro físico y
+  detectable) que sí puede seguir — el primer hilo real hacia el Parásito en millones de años. *(De ahí
+  el pacto: la entrena/protege a cambio de usar su rastro.)*
 - **Reveló (beat 6):** Stella descubre **qué es realmente Theron** y su verdadero poder.
-- **Arco:** termina **valorando a Stella más que al Orbe** → aprende el **valor de la vida**.
-- **Poderes:** localizar a cualquiera con **referencia visual**; al **tocar la mano**, **ver/sentir
-  los mundos/origen** de esa persona.
-
-> ❓ **A DEFINIR (clave):** ¿qué es Theron exactamente? (Su especie / origen / "verdadero poder" del
-> beat 6.) Pendiente de definir con el autor.
+- **Arco:** termina **valorando a Stella más que al Orbe** → aprende el **valor de la vida** (no solo el
+  recurso ni la cacería).
 
 ## 👑 VORTHAN (el Rey / el Parásito)
 - **Vorthan es la forma humana** del **rey Parásito**.
@@ -381,10 +386,12 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 - **Línea de tiempo:** ✅ confirmada tal cual (8 años → 14 años → "5 años después", con dilatación 1:4).
 - **Selka:** ✅ resuelto — bebé tomada y **criada por Vorthan**, crece con sus mentiras (ver sección Selka).
 - **Orbe / palacio-nave / arco del Orbe / Naio / humanos / final:** ✅ resueltos (ver secciones arriba).
-- **Aún abierto:** qué es **Theron** realmente y su poder (beat 6) — **NO es la especie de Vorthan**;
-  **nombre propio de la forma original** del Rey (hoy solo "el Parásito"; "Vorthan" es la forma humana);
-  nombre del **planeta de Vorthan**; nombre de la **raza** de Stella y de la **ciudad**; origen de
-  **Gix**; mecánica fina del **Orbe-en-ADN** (qué pasa si Vorthan captura a Stella).
+- **Theron:** ✅ resuelto — especie víctima de los shape-shifters; rastrea por tacto/vista/referencia
+  física, pero NO puede rastrear a los parásitos (de ahí que necesite el rastro del Orbe de Stella).
+- **Aún abierto:** **nombre propio de la forma original** del Rey (hoy solo "el Parásito"; "Vorthan" es
+  la forma humana); nombre del **planeta de Vorthan**; nombre de la **especie/planeta de Theron**; nombre
+  de la **raza** de Stella y de la **ciudad/planeta** (Erdia = planeta); origen de **Gix**; mecánica fina
+  del **Orbe-en-ADN** (qué pasa si Vorthan captura a Stella).
 - **"Max":** ✅ resuelto — es el **nivel de carga del traje de Stella**. Cuando el traje alcanza
   **MAX (carga máxima)**, dispara los **propulsores a toda velocidad** y le permite salir impulsada
   para escapar con el Orbe. **No es un personaje.**
