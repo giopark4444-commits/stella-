@@ -273,6 +273,29 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **Relación con el Orbe:** Gix y el Orbe **no están conectados**, pero gracias a la **energía del
   Orbe** Gix puede volverse **más fuerte**.
 
+## 👁️ THERON (el Cazador) — naturaleza
+- Es de una **especie de un planeta** cuyos habitantes son **monstruos shape-shifters**: solo les
+  interesa **colonizar y acabar con otras formas de vida** del universo. Son como un **parásito** que
+  se satisface **arrasando con todo** lo que se les pone en el camino.
+- Por eso es **"el Cazador"** y puede **rastrear al Parásito** (comparten naturaleza), y por eso al
+  principio **valora el Orbe (el recurso) más que la vida**.
+- **Reveló (beat 6):** Stella descubre **qué es realmente Theron** y su verdadero poder.
+- **Arco:** termina **valorando a Stella más que al Orbe** → *un parásito que aprende el valor de la vida.*
+- **Poderes:** localizar a cualquiera con **referencia visual**; al **tocar la mano**, **ver/sentir
+  los mundos/origen** de esa persona.
+
+> ❓ **A DEFINIR (clave):** ¿Theron es **la misma especie** que Vorthan (un parásito que **caza a los
+> de su propia especie**), o una **especie parásita distinta** pero parecida? Cambia mucho el tema.
+
+## 👑 VORTHAN (el Rey / el Parásito)
+- **Vorthan es la forma humana** del **rey Parásito**.
+- Viene de **un planeta** (nombre **por definir**).
+- Como Theron, es un **shape-shifter** (cambia de forma: por eso puede ser el Rey, la hermana, la madre
+  y "el amigo de la resistencia").
+- Su **forma real** es el **Parásito biomecánico colosal**, el devorador de mundos.
+- **Meta:** usar la energía del Orbe para **despegar el palacio-nave**, volver a su planeta y **seguir
+  devorando** otros mundos.
+
 ## 🔮 EL ORBE Y EL PALACIO-NAVE
 - El **Orbe** absorbe los **recursos y la energía** del planeta (el "corazón"/batería de Erdia).
   Por eso, al robarlo, el planeta empieza a morir.
