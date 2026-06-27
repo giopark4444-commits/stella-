@@ -69,7 +69,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Intentan evitar que Naio se quede, pero Vera sabe que no hay más opciones. **Último abrazo de familia.**
 - Llega **Vorthan (el Rey)** con robots. Saluda a Naio amigablemente: sabe que descubrieron su verdad
   y que debe **apresar a toda la familia** — su verdad no puede salir a la luz.
-- Stella y Vera caminan despacio (Vera carga a **Selka, de 2 años**); dicen "ya volvemos, vamos a tomar
+- Stella y Vera caminan despacio (Vera carga a **Selka, de 1 año**); dicen "ya volvemos, vamos a tomar
   aire" y salen nerviosas. Pero Vorthan lo sabe todo.
 - Vorthan **captura a Naio** y grita: "¡No las dejen escapar, vayan por ellas!"
 - Naio activa un **campo de fuerza** en la salida por donde ellas escaparon.
@@ -108,7 +108,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **S1G1 se atasca en el orificio del techo y explota.**
 
 ### Cierre del laboratorio
-- Vera queda tirada con **Selka (2 años) llorando** a su lado. **Vorthan toma a Selka.**
+- Vera queda tirada con **Selka (1 año) llorando** a su lado. **Vorthan toma a Selka.**
 - Los robots van a levantar a Vera, pero Vorthan: "¡¿Qué hacen?! ¡Ya está muerta! Salgan a buscar a
   Stella, necesitamos el Orbe."
 - Los robots dejan el cuerpo y salen. Vorthan se va con **la niña** y **deja a Vera tirada**.
@@ -261,7 +261,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 ---
 
 ## 👧 SELKA (la hermana / la General)
-- Con **2 años** es tomada por **Vorthan** en la huida (beat 1) y **criada por él**.
+- Con **1 año** es tomada por **Vorthan** en la huida (beat 1) y **criada por él**.
 - Crece **bajo las mentiras del Rey**: le hacen creer que **Stella es una traidora** que robó el Orbe
   y condenó al planeta. Por eso **odia a Stella** y la trata de traidora.
 - Entrenada estrictamente, al borde del **maltrato militar**, hasta convertirse en **la General**.
@@ -269,7 +269,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **Su verdadera función para Vorthan (el candado de ADN):** al ser de la **misma sangre que Stella**,
   Selka es la **única "llave"** que puede **tocar y manipular el Orbe**. Por eso Vorthan la **crió y
   conservó**: la necesita para arrancarle el Orbe a Stella y devolverlo a la consola.
-- **Edad al final:** **22** (Stella termina con **19, casi 20**).
+- **Edad al final:** **21** (Stella termina con **~19**).
 - **Descubre la verdad** en el clímax ("Fui yo"): nunca mató a Vera; fue **Vorthan con su rostro**.
 
 ## 🔆 GIX (el ajolote de luz)
@@ -366,7 +366,7 @@ Naio **aparece en 4 momentos**, no solo en flashbacks:
 ## 🎬 ACTO 3 / FINAL (propuesto — reconciliado con lo ya acordado en `_archivo_guion_v1`)
 Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), ajustado a la v2:
 1. Estalla la **guerra** (cierre del beat 15). En el caos, **rescatan a Naio** (sobrevive).
-2. Stella cae por la cúpula de cristal a la **Sala del Trono**; reencuentro con **Selka (la General, 22)**.
+2. Stella cae por la cúpula de cristal a la **Sala del Trono**; reencuentro con **Selka (la General, 21)**.
 3. **Combate:** Stella **no ataca a matar**, *pide*. Le reclama la muerte de Vera. Selka, glacial
    (doctrina inyectada): "He ejecutado a cientos… no recuerdo a ninguna como 'mamá'."
 4. Selka le **arranca el Orbe del pecho** (solo ella puede, por el **candado de ADN**) → Stella
@@ -425,7 +425,7 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 - **Línea de tiempo:** ✅ **nunca se nombra el año.** Único dato fijo: **pasan 20 años (en Erdia)
   desde que Stella huye** hasta el clímax. Edades:
   - **Stella:** **14** al huir → vive **~5 años subjetivos** afuera (dilatación 1:4) → **~19** al final.
-  - **Selka:** **2** al huir → **22** al final.
+  - **Selka:** **1** al huir → **21** al final.
   Los marcadores (8 / 14 / "5 después") son **waypoints dentro de esos 20 años**.
 - **Selka:** ✅ resuelto — bebé tomada y **criada por Vorthan**, crece con sus mentiras (ver sección Selka).
 - **Orbe / palacio-nave / arco del Orbe / Naio / humanos / final:** ✅ resueltos (ver secciones arriba).
