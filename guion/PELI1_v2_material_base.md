@@ -342,10 +342,12 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 7. **Doble lectura de "Fui yo":** **Stella** ve a su madre y muere-en-paz (entra en coma); **Selka** oye
    la verdad — **ella nunca mató a Vera, fue Vorthan con su cara** (retomamos el "oído" del beat 11 ahora
    con la voz de Vorthan). La **nana** de la infancia la rompe.
-8. Selka se quiebra y ataca; Vorthan toma su **forma real (el Parásito biomecánico)** y le **secciona el
-   brazo**. La ignora y sigue desenterrando/levantando su nave.
-9. **Brog y Nima** irrumpen, **cargan a Stella en coma** y **arrastran a Selka** (manca, sin resistirse).
-   Escapan en la nave de **Theron**.
+8. Selka se quiebra. Vorthan toma su **forma real (el Parásito biomecánico colosal)**. Mientras **Brog y
+   Nima rescatan a Stella**, Selka **se planta a hacerle frente al Parásito para cubrir el rescate** —
+   pero **no le da la talla**: el Parásito, casi sin esfuerzo, le **secciona el brazo**. *(Su primer acto
+   por verdad, no por doctrina — heroico aunque inútil; le compra a Stella la salida.)*
+9. El Parásito la **ignora** y sigue **levantando su nave**. **Brog y Nima** sacan a **Stella en coma** y
+   **arrastran a Selka** (manca, sin resistirse). Escapan en la nave de **Theron**.
 10. El **palacio-nave de Vorthan despega** con el Orbe y abre un **portal**: se va a seguir devorando
     mundos. **Theron:** "Por fin sé adónde va a llevarlo." *(Suelo para la Peli 2.)*
 11. Cierre: **Selka**, manca, la mano en el cristal del tanque de Stella: *"No sabía que eras tú.
