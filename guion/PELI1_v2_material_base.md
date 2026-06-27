@@ -282,6 +282,10 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   - **Arma de ataque** y para **abrir camino** entre muchos adversarios.
 - **Relación con el Orbe:** Gix y el Orbe **no están conectados**, pero gracias a la **energía del
   Orbe** Gix puede volverse **más fuerte**.
+- **Su sacrificio (final + Peli 2):** cuando Selka le arranca el Orbe y Stella "muere", **Gix entra en
+  su cuerpo desde su ADN** — pequeño y débil — y **le abraza el corazón para mantenerlo palpitando**.
+  Por eso Stella queda en **coma, no muerta**. Sostiene el corazón hasta que, en la **Peli 2**, **Selka
+  y Naio la reviven** — y al lograrlo **Gix muere del todo**.
 
 ## 👁️ THERON (el Cazador) — naturaleza ✅
 - Es de **otra especie**, **los Threa** (NO la de Vorthan), de su mundo perdido **Orun**: un pueblo que
@@ -345,7 +349,8 @@ Naio **aparece en 4 momentos**, no solo en flashbacks:
    (reencuentro padre-hija tras 20 años; él, anciano esclavo).
 4. **Final:** es **rescatado** y **sobrevive**. Cuando **Selka se vuelve buena y sabe la verdad**, le
    **pide perdón a su padre** y le **promete que volverá para salvar Erdia**.
-- **Clave para la Peli 2:** Naio será quien permita **traer a Stella de vuelta a la vida**.
+- **Clave para la Peli 2:** **Selka y Naio** revivirán a Stella; al lograrlo, **Gix muere del todo**
+  (deja de sostener su corazón).
 
 ## 👤 LOS HUMANOS (de Tierra) — nombres propuestos
 - **Noah** (hombre) — el humano **noble** que reclutan (beat 4); empatía con Stella por parecido físico.
@@ -361,6 +366,8 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
    (doctrina inyectada): "He ejecutado a cientos… no recuerdo a ninguna como 'mamá'."
 4. Selka le **arranca el Orbe del pecho** (solo ella puede, por el **candado de ADN**) → Stella
    **colapsa en coma** (cascarón, sin pulso — **NO muere**).
+   - *Por qué no muere:* **Gix entra en su cuerpo desde su ADN**, pequeño y débil, y **le abraza el
+     corazón para mantenerlo latiendo**. *(Eco de la escena 1: el juguete de luz, ahora su última chispa.)*
 5. Selka **coloca el Orbe en la consola** (Vorthan no puede tocarlo) → **no vuelve la luz**: en su lugar, **se
    revela el gran secreto** — el **palacio cobra vida y empieza a despegar: SIEMPRE fue una NAVE** (lo
    que todos creían un "meteorito hecho palacio"). Es lo que Vorthan siempre quiso: energía para volar.
@@ -402,6 +409,11 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
   todo, y todo por Stella — por eso la **odian más que a nadie**.
 - **El humano** llega con **2 compañeros más**: los otros dos van siempre en contra, son arrogantes y
   quieren **robar recursos** (son como **piratas**). Nuestro humano es **el más noble**.
+- **El pelo de Stella:** se tiñe para camuflarse al volver (beat 13) y **al final conserva el cabello
+  teñido** (no vuelve al blanco). *(En la cultura naiel el blanco es un voto; conservarlo teñido marca
+  que el exilio la cambió — ya no es la naiel pura de antes.)*
+- **"Marek" (a confirmar):** alias propuesto para el **disfraz de Vorthan** como "amigo líder de la
+  resistencia". Pendiente: mantener "Marek", cambiarlo, o dejarlo sin nombre.
 
 ---
 
