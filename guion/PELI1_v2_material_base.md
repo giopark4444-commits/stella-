@@ -293,16 +293,16 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   ellas, colonizar la Tierra). *"Una lección aprendida no desentierra las tumbas que cavaron."*
 - Stella le reclama que solo le importa **el Orbe**. *(En el fondo, lo que a Theron de verdad le importa
   NO es el planeta: es **Stella** — aún no lo admite.)*
-- **(Agencia de Stella — Opción C):** el regreso es **SU operación**, decidida **contra la voluntad de
-  Theron**: ella **planea la infiltración** y conduce el tercer acto (no se deja arrastrar a él).
+- **(Agencia de Stella — Opción C):** Theron **solo accede a una misión de RECONOCIMIENTO** (que Stella
+  **ya se ganó** con su heroísmo, ver "Theron y su equipo"). Pero **una vez en Erdia, Stella la escala a
+  una infiltración/rescate por su cuenta**, contra las órdenes de Theron — **conduce el tercer acto**.
 - **Vosk pide entrar:** **Vosk es de los que le ruegan a Theron** poder **entrar a Erdia para ayudar a la
   fuga/rescate de Stella** — de rival pasó a defenderla. *(Pago de su arco.)*
-- Stella vuelve a Erdia. Al principio Theron **no interviene**, pero **manda un pequeño grupo con ella**
-  (Brog, Nima, Noah) — porque para él el Orbe es preciado… ni siquiera por Stella.
-- **PERO en el clímax Theron SÍ entra** a rescatarla: al ver lo que pasa, **se da cuenta de que el
-  Parásito —lo que caza hace millones de años— es lo que estaba en Erdia**. Eso le da por fin su
-  **razón/excusa para entrar** y luchar contra él. *(Es también el momento en que su rastreo imposible
-  por fin tiene un objetivo visible.)*
+- Theron **manda solo un pequeño grupo de recon** (Brog, Nima, Noah) — para él Erdia sigue siendo una
+  pérdida de tiempo… mientras no haya parásito confirmado.
+- **PERO en el clímax Theron SÍ entra** a rescatarla: al ver lo que pasa, **CONFIRMA que el Parásito —lo
+  que caza hace millones de años— es lo que estaba en Erdia**. Recién ahí **su misión lo justifica** y se
+  compromete del todo. *(Es también el momento en que su rastreo imposible por fin tiene objetivo visible.)*
 
 ## 13 — ERDIA · AÑO 20 — REGRESO A ERDIA (camuflaje, la resistencia, división)
 - Stella se **cambia el color de pelo**, trata de camuflarse. Va con **el humano, Brog y Nima**.
@@ -374,6 +374,26 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   Stella que el planeta**.
 - **Arco:** termina **valorando a Stella más que al Orbe** y más que la cacería → aprende el **valor de la
   vida** (que el verdadero tesoro era **ella**, no el recurso).
+
+### 🛰️ THERON Y SU EQUIPO — propósito, existencia y misión
+- **Quiénes son:** Theron (de los **Threa**, mundo perdido **Orun**) lidera una **flota/tripulación de
+  parias y sobrevivientes** — gente que **perdió su mundo** a los parásitos o a los imperios (Brog, el
+  último de su especie; Nima; Vosk; otros). **No son héroes a sueldo.**
+- **Su misión / razón de existir:** **cazar y exterminar a los parásitos devoradores de mundos** allá
+  donde se escondan, para que **ningún otro mundo sufra lo que sufrió Orun**. Es una **orden de caza
+  sombría**: lo único que les importa es **la presa**. *(Tema: todos perdieron su mundo y ahora cazan a
+  lo que destruye mundos.)*
+- **Por qué rescatan a Stella:** NO por bondad. El **Orbe** es el **primer rastro detectable** hacia un
+  parásito en milenios. Para ellos, **Stella es el cebo/la pista**; su planeta moribundo **no les importa**.
+
+#### Stella se GANA ir a Erdia (refuerza su agencia + explica los 5 años)
+- A Theron, ir a Erdia **a salvar un planeta** le parece una **pérdida de tiempo** — no hay parásito
+  confirmado, solo un mundo muerto. **Se niega.**
+- Por eso **tarda 5 años**: Stella tiene que **GANÁRSELO**. En algún punto del Acto 2, con un **acto
+  heroico / una misión** (p. ej. su jugada que salva a la tripulación, beat 7), **se gana el respeto de
+  Theron** → él **accede a llevarla solo en una misión de RECONOCIMIENTO** a Erdia (no a un rescate).
+- Ese **reconocimiento** es lo que desemboca en el clímax, donde por fin se **confirma al parásito
+  (Vorthan)** y Theron se compromete del todo.
 
 ## 👑 VORTHAN (el Rey / el Parásito)
 - **Vorthan es la forma humana** del **rey Parásito**.
