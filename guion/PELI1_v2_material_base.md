@@ -293,7 +293,8 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Viene del planeta **Morth**.
 - Es un **shape-shifter** (cambia de forma: por eso puede ser el Rey, la hermana, la madre y "el amigo
   de la resistencia").
-- Su **forma real** es el **Parásito biomecánico colosal**, el devorador de mundos.
+- Su **forma real** es el **Parásito biomecánico colosal**, el devorador de mundos. **Se llama
+  igual: Vorthan** — un solo nombre para sus dos formas (humana y verdadera).
 - **Meta:** usar la energía del Orbe para **despegar el palacio-nave**, volver a su planeta y **seguir
   devorando** otros mundos.
 
@@ -388,10 +389,10 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 - **Orbe / palacio-nave / arco del Orbe / Naio / humanos / final:** ✅ resueltos (ver secciones arriba).
 - **Theron:** ✅ resuelto — especie víctima de los shape-shifters; rastrea por tacto/vista/referencia
   física, pero NO puede rastrear a los parásitos (de ahí que necesite el rastro del Orbe de Stella).
-- **Aún abierto:** **nombre propio de la forma original** del Rey (hoy solo "el Parásito"; "Vorthan" es
-  la forma humana); nombre del **planeta de Vorthan**; nombre de la **especie/planeta de Theron**; nombre
-  de la **raza** de Stella y de la **ciudad/planeta** (Erdia = planeta); origen de **Gix**; mecánica fina
-  del **Orbe-en-ADN** (qué pasa si Vorthan captura a Stella).
+- **Nombres del Rey:** ✅ **Vorthan** en sus dos formas (humana y verdadera); su planeta es **Morth**.
+- **Aún abierto:** nombre de la **especie de Theron** y su **planeta**; **mecánica fina del Orbe-en-ADN**
+  (qué pasa si Vorthan captura a Stella); nombres de los **2 piratas** (compañeros de Noah).
+  *(La raza de Stella ya es **los naieli**; el planeta, **Erdia**; el Orbe, **la Fuente Madre**.)*
 - **"Max":** ✅ resuelto — es el **nivel de carga del traje de Stella**. Cuando el traje alcanza
   **MAX (carga máxima)**, dispara los **propulsores a toda velocidad** y le permite salir impulsada
   para escapar con el Orbe. **No es un personaje.**
