@@ -519,6 +519,36 @@ Naio **aparece en 4 momentos**, no solo en flashbacks:
 - **Noah ↔ Stella (subtrama):** **Noah se enamora de Stella**, pero **ella no corresponde**: no le importa
   nada más que **su misión**. *(Amor no correspondido — fuente de pathos, no de romance cumplido.)*
 
+## 🪨🔧 LA TRIPULACIÓN — BROG Y NIMA (pareja dispareja: gigante callado + mecánica parlanchina)
+
+### 🪨 BROG — el gigante de roca (el último de su especie)
+- Ser de **piedra viva**, enorme y lento, de fuerza descomunal. **El último de su pueblo** (su mundo fue
+  devorado): cuando él muera, **muere una especie entera y su lengua**.
+- Habla **poquísimo**, en **palabras graves y sueltas**. Le **enseña a Stella las pocas palabras que
+  quedan de su idioma muerto** — cada palabra, **un funeral y una herencia**.
+- **Contraste que lo hace querible:** un coloso **delicadísimo con lo pequeño y frágil** (el más grande,
+  el más tierno).
+- **Textura:** **talla en piedra los nombres de su gente muerta** — un memorial que carga consigo.
+- **Vínculo con Stella:** ve en ella a alguien que **también lo perdió todo** → su **protector silencioso**.
+
+### 🔧 NIMA — la mecánica de cuatro brazos
+- **Cuatro brazos**, rápida, inquieta, **boca de motor** — la **antítesis de Brog**. Juntos = dúo perfecto.
+- **Manía/herida:** **repara TODO compulsivamente**. *(Raíz: no pudo salvar lo que perdió —su mundo, su
+  gente—, así que **arregla todo** para sentir que controla algo.)*
+- **Su rol con Stella:** la **"tercera vía"** — le enseña que no tiene que ser ni **mártir** ni **máquina**,
+  que puede simplemente **vivir**. La que más **discute** con ella y la más cercana (hermana/mejor amiga).
+- **Humor:** afilada, sarcástica; suelta verdades incómodas envueltas en chiste.
+- **EL TRAJE (clave de diseño):** **Nima le construye a Stella su traje nuevo**, **inspirado en el
+  original** pero a su **nueva talla** (Stella creció) y con **mejores features**. *(Gesto de familia +
+  explica el cambio de diseño de Stella de los 14 a los ~19. El monitor "MAX" y los propulsores son obra
+  suya.)*
+- **Textura:** **casi no duerme** (4 brazos = siempre arreglando algo) — Stella la encuentra despierta en
+  las noches difíciles → escenas íntimas.
+
+### La química del trío (Stella–Brog–Nima)
+- **Brog** aporta el **peso emocional callado**; **Nima**, la **chispa y la voz**. Entre los dos **adoptan**
+  a Stella sin decirlo. Los tres **perdieron su mundo** → la familia que forman es **lo que de verdad la cura**.
+
 ## 💢 VOSK — arco (de rival a leal)
 - **Nave nodriza (beat 2):** es **el matón** que acosa a Stella; el conflicto estalla y **ella tiene que
   pelear contra él**. La tripulación los separa.
