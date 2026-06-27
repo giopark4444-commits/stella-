@@ -542,8 +542,11 @@ Naio **aparece en 4 momentos**, no solo en flashbacks:
   original** pero a su **nueva talla** (Stella creció) y con **mejores features**. *(Gesto de familia +
   explica el cambio de diseño de Stella de los 14 a los ~19. El monitor "MAX" y los propulsores son obra
   suya.)*
-- **Textura:** **casi no duerme** (4 brazos = siempre arreglando algo) — Stella la encuentra despierta en
-  las noches difíciles → escenas íntimas.
+- **Textura (las dos):**
+  - **Le pone nombre a cada herramienta** y **les habla** como si fueran personas (su compañía, su cariño
+    desviado hacia lo que sí puede arreglar).
+  - **Casi no duerme** (4 brazos = siempre arreglando algo) — Stella la encuentra despierta en las noches
+    difíciles → escenas íntimas.
 
 ### La química del trío (Stella–Brog–Nima)
 - **Brog** aporta el **peso emocional callado**; **Nima**, la **chispa y la voz**. Entre los dos **adoptan**
