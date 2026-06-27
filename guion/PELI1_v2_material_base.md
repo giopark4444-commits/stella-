@@ -260,10 +260,16 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   y condenó al planeta. Por eso **odia a Stella** y la trata de traidora.
 - Entrenada estrictamente, al borde del **maltrato militar**, hasta convertirse en **la General**.
 - Vorthan la **usa/controla** (su voz al oído en la muerte de Vera, beat 11).
+- **Su verdadera función para Vorthan (el candado de ADN):** al ser de la **misma sangre que Stella**,
+  Selka es la **única "llave"** que puede **tocar y manipular el Orbe**. Por eso Vorthan la **crió y
+  conservó**: la necesita para arrancarle el Orbe a Stella y devolverlo a la consola.
 - **Edad al final:** **22** (Stella termina con **19, casi 20**).
 - **Descubre la verdad** en el clímax ("Fui yo"): nunca mató a Vera; fue **Vorthan con su rostro**.
 
 ## 🔆 GIX (el ajolote de luz)
+- **Origen:** es un **invento del padre, Naio**, creado **a partir del ADN de Stella**. Por eso **ella
+  puede invocarlo** como **elemento de protección** (responde a su sangre). *(Rima con el candado de
+  ADN del Orbe: ambos están ligados a Stella.)*
 - **Aparición:** solo se ve **en la primera escena, mientras Stella juega** (0.5). De resto, **no
   anda suelto**.
 - **Invocación:** Stella lo **invoca en ciertas situaciones** cuando lo necesita.
@@ -274,8 +280,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   Orbe** Gix puede volverse **más fuerte**.
 
 ## 👁️ THERON (el Cazador) — naturaleza ✅
-- Es de **otra especie**, **los Threa** (NO la de Vorthan): un pueblo que fue **atacado desde hace
-  millones de años** por los **shape-shifters parásitos**. Por eso los **caza** — guerra antiquísima.
+- Es de **otra especie**, **los Threa** (NO la de Vorthan), de su mundo perdido **Orun**: un pueblo que
+  fue **atacado desde hace millones de años** por los **shape-shifters parásitos**. Por eso los **caza**
+  — guerra antiquísima.
 - **Su poder (rastreo):** para **buscar a una persona** o **ver un planeta**, Theron necesita **tocarla,
   verla, o conocerla físicamente** (tener una referencia real de ella).
 - **Su límite (clave de la trama):** a los **shape-shifters NO los puede rastrear** — no puede
@@ -311,6 +318,13 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   **nadie conocía** hasta ese momento.
 - El **código del Orbe está encriptado en el ADN de Stella** (beat 1); al tomarlo, **se acopla a su
   mano** y ella y el Orbe se vuelven uno.
+- **Mecánica clave (el candado de ADN):** Vorthan **SÍ puede extraer el poder** del Orbe… pero **NO
+  puede tocarlo**, porque está **amarrado al ADN de Stella**. **Solo su familia** (quienes comparten su
+  mismo ADN) **puede tocarlo y manipularlo**.
+- **Por eso Vorthan conserva y usa a Selka:** es de la **misma sangre** → la **única "llave"** capaz de
+  **arrancarle el Orbe a Stella** y **devolverlo a la sala/consola** donde estaba, para que Vorthan pueda
+  **extraer su poder y huir en la nave**. *(La crió justo para ese momento.)*
+- **El plan de Vorthan siempre fue dejar a Erdia sin nada, sin recursos** — vaciarla y partir.
 
 ## ⚡ ARCO DE STELLA CON EL ORBE
 - Al inicio el Orbe es **muy inestable** y le **cuesta controlarlo**.
@@ -341,8 +355,9 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 2. Stella cae por la cúpula de cristal a la **Sala del Trono**; reencuentro con **Selka (la General, 22)**.
 3. **Combate:** Stella **no ataca a matar**, *pide*. Le reclama la muerte de Vera. Selka, glacial
    (doctrina inyectada): "He ejecutado a cientos… no recuerdo a ninguna como 'mamá'."
-4. Selka le **arranca el Orbe del pecho** → Stella **colapsa en coma** (cascarón, sin pulso — **NO muere**).
-5. Selka entrega el Orbe a Vorthan; lo inserta en la consola → **no vuelve la luz**: en su lugar, **se
+4. Selka le **arranca el Orbe del pecho** (solo ella puede, por el **candado de ADN**) → Stella
+   **colapsa en coma** (cascarón, sin pulso — **NO muere**).
+5. Selka **coloca el Orbe en la consola** (Vorthan no puede tocarlo) → **no vuelve la luz**: en su lugar, **se
    revela el gran secreto** — el **palacio cobra vida y empieza a despegar: SIEMPRE fue una NAVE** (lo
    que todos creían un "meteorito hecho palacio"). Es lo que Vorthan siempre quiso: energía para volar.
 6. **Transformación de Vorthan:** Selka niña → la madre (Vera) → y el **giro v2**: revela que también era
@@ -390,9 +405,11 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 - **Theron:** ✅ resuelto — especie víctima de los shape-shifters; rastrea por tacto/vista/referencia
   física, pero NO puede rastrear a los parásitos (de ahí que necesite el rastro del Orbe de Stella).
 - **Nombres del Rey:** ✅ **Vorthan** en sus dos formas; su planeta es **Morth**.
-- **Theron:** ✅ especie **los Threa**. **Piratas:** ✅ **Ren** y **Juno** (+ Noah).
-- **Aún abierto:** nombre del **planeta de Theron** (los Threa); **mecánica fina del Orbe-en-ADN**
-  (qué pasa si Vorthan captura a Stella).
+- **Theron:** ✅ especie **los Threa**, planeta **Orun**. **Piratas:** ✅ **Ren** y **Juno** (+ Noah).
+- **Orbe-en-ADN:** ✅ resuelto — Vorthan puede extraer su poder pero **no tocarlo** (candado de ADN);
+  solo la **familia de Stella** lo manipula → por eso usa a **Selka**.
+- **Gix:** ✅ invento de Naio a partir del ADN de Stella.
+- **Aún abierto (menor):** nombre de la **ciudad** principal de Erdia; **diseños/look** (con imágenes).
   *(La raza de Stella ya es **los naieli**; planeta, **Erdia**; Orbe, **la Fuente Madre**.)*
 - **"Max":** ✅ resuelto — es el **nivel de carga del traje de Stella**. Cuando el traje alcanza
   **MAX (carga máxima)**, dispara los **propulsores a toda velocidad** y le permite salir impulsada
