@@ -237,8 +237,12 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   sucumbieron y se les dio una oportunidad; ¿por qué tendrían otra?"
 - Stella insiste y le reclama que solo dice eso porque **quiere quedarse con el Orbe**, que no le
   interesa que la vida vuelva a Erdia. Se va indignada.
-- Stella vuelve a Erdia. Theron **no puede intervenir**, pero **manda un pequeño grupo con ella** —
-  porque para él el Orbe es preciado… ni siquiera por Stella.
+- Stella vuelve a Erdia. Al principio Theron **no interviene**, pero **manda un pequeño grupo con ella**
+  (Brog, Nima, Noah) — porque para él el Orbe es preciado… ni siquiera por Stella.
+- **PERO en el clímax Theron SÍ entra** a rescatarla: al ver lo que pasa, **se da cuenta de que el
+  Parásito —lo que caza hace millones de años— es lo que estaba en Erdia**. Eso le da por fin su
+  **razón/excusa para entrar** y luchar contra él. *(Es también el momento en que su rastreo imposible
+  por fin tiene un objetivo visible.)*
 
 ## 13 — REGRESO A ERDIA (camuflaje, la resistencia, división)
 - Stella se **cambia el color de pelo**, trata de camuflarse. Va con **el humano, Brog y Nima**.
@@ -369,8 +373,11 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
    Nima rescatan a Stella**, Selka **se planta a hacerle frente al Parásito para cubrir el rescate** —
    pero **no le da la talla**: el Parásito, casi sin esfuerzo, le **secciona el brazo**. *(Su primer acto
    por verdad, no por doctrina — heroico aunque inútil; le compra a Stella la salida.)*
-9. El Parásito la **ignora** y sigue **levantando su nave**. **Brog y Nima** sacan a **Stella en coma** y
-   **arrastran a Selka** (manca, sin resistirse). Escapan en la nave de **Theron**.
+9. El Parásito la **ignora** y sigue **levantando su nave**. **Theron entra** (al fin reconoce a su
+   presa milenaria) y, con **Brog y Nima**, sacan a **Stella en coma** y **arrastran a Selka** (manca,
+   sin resistirse). Escapan en la nave de **Theron**.
+   - **Por qué Vorthan no los persigue:** su **prioridad es asegurar su retorno** a Morth — despegar con
+     el Orbe — no perder tiempo cazando a los que huyen.
 10. El **palacio-nave de Vorthan despega** con el Orbe y abre un **portal**: se va a seguir devorando
     mundos. **Theron:** "Por fin sé adónde va a llevarlo." *(Suelo para la Peli 2.)*
 11. **Cierre en la nave de Theron** (tres dolientes: Stella en coma + Selka manca + Naio rescatado):
@@ -399,7 +406,9 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 ---
 
 ## ❓ PENDIENTE DE DEFINIR (para cuando escribamos el guion)
-- **Línea de tiempo:** ✅ confirmada tal cual (8 años → 14 años → "5 años después", con dilatación 1:4).
+- **Línea de tiempo:** ✅ **nunca se nombra el año.** El único dato fijo: **pasan 20 años (en Erdia)
+  desde que Stella huye** hasta el clímax. Los marcadores (8 / 14 / "5 después") son **waypoints dentro
+  de esos 20 años**; lo de Stella va comprimido por la **dilatación 1:4** (vive ~5 años subjetivos).
 - **Selka:** ✅ resuelto — bebé tomada y **criada por Vorthan**, crece con sus mentiras (ver sección Selka).
 - **Orbe / palacio-nave / arco del Orbe / Naio / humanos / final:** ✅ resueltos (ver secciones arriba).
 - **Theron:** ✅ resuelto — especie víctima de los shape-shifters; rastrea por tacto/vista/referencia
