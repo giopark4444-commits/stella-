@@ -252,6 +252,13 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ---
 
+## 👧 SELKA (la hermana / la General)
+- De **bebé** es tomada por **Vorthan** en la huida (beat 1) y **criada por él**.
+- Crece **bajo las mentiras del Rey**: le hacen creer que **Stella es una traidora** que robó el Orbe
+  y condenó al planeta. Por eso **odia a Stella** y la trata de traidora.
+- Entrenada estrictamente, al borde del **maltrato militar**, hasta convertirse en **la General**.
+- Vorthan la **usa/controla** (su voz al oído en la muerte de Vera, beat 11).
+
 ## 🔆 GIX (el ajolote de luz)
 - **Aparición:** solo se ve **en la primera escena, mientras Stella juega** (0.5). De resto, **no
   anda suelto**.
@@ -271,10 +278,8 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 ---
 
 ## ❓ PENDIENTE DE DEFINIR (para cuando escribamos el guion)
-- **Línea de tiempo:** se mencionan 8 años (beat 3), 14 años (beat 9) y "5 años después" (beat 12).
-  Hay que cuadrar el calendario exacto Erdia vs. galaxia (dilatación 1:4).
-- **Selka en la huida:** es **bebé** en el laboratorio (beat 1) y luego la **General** adulta — confirmar
-  edades/saltos.
+- **Línea de tiempo:** ✅ confirmada tal cual (8 años → 14 años → "5 años después", con dilatación 1:4).
+- **Selka:** ✅ resuelto — bebé tomada y **criada por Vorthan**, crece con sus mentiras (ver sección Selka).
 - **"Max":** viene del texto original ("su reloj dice Max activa sus propulsores"). Interpretación
   actual: el **reloj/dispositivo de muñeca de Stella marca "MAX"** (potencia máxima) y dispara los
   propulsores — **no es un personaje**. *(Pendiente: confirmar, o decidir si Max sí es una IA/asistente
