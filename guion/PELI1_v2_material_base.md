@@ -402,6 +402,20 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Ese **reconocimiento** es lo que desemboca en el clímax, donde por fin se **confirma al parásito
   (Vorthan)** y Theron se compromete del todo.
 
+### 🧫 La visión de Theron sobre los humanos (su filosofía más dura)
+- Stella le pregunta **por qué desconfía de los humanos** si su propio pueblo **ya superó la violencia**.
+  Theron responde con su credo más frío:
+- Los **humanos son de las poquísimas especies que funcionan como un VIRUS**. Y lo peor: **romantizan su
+  propia existencia** — esgrimen la **empatía, el amor, los sentimientos** para **justificarse** ("merecemos
+  existir porque sentimos").
+- **Theron NO cae en esa trampa:** por más **buenas intenciones o buen corazón** que tenga un humano
+  individual, **la especie sigue siendo una plaga** — para la Tierra y **dondequiera que van**.
+- **Contraste:** con los **naieli** es empático **porque aprendieron**; con los **humanos** no, **porque no
+  lo han hecho** — la bondad individual **no redime a la especie**.
+- **Dramáticamente:** enfrenta a **Stella (empatía) vs. Theron (juicio frío)** y pone a **Noah en el
+  medio** — su nobleza es, para Theron, **la excepción que no cambia la regla**. *(Posible que el film NO
+  resuelva del todo este debate → más honesto y agridulce.)*
+
 ## 👑 VORTHAN (el Rey / el Parásito)
 - **Vorthan es la forma humana** del **rey Parásito**.
 - Viene del planeta **Morth**.
