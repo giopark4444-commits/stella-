@@ -134,6 +134,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 ## EL DISCURSO DE VORTHAN
 - Vorthan (el Rey) sale a hablar en público: han **robado el Orbe** que contenía todos los recursos
   del planeta, y el planeta **empezará a morir**. Culpa de todo a **Stella**: "ladrona y traidora".
+- Mientras habla, vemos **presos a los aliados** que **derribaron las naves del imperio y ayudaron a
+  escapar a Stella** (1.3) — capturados y exhibidos como traidores. *(El precio del sacrificio que
+  pidieron por radio: "no dejes que sea en vano".)*
 
 ## EL RESCATE / EL PACTO
 - A Stella la rescata la **nave nodriza**: el jefe, **el Cazador (Theron)**, detectó una **gran fuente
