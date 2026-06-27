@@ -99,8 +99,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Stella, aterrada y sin poder soltarse, toma un **cuchillo láser** de su traje, **se corta el cabello/
   la trenza** y así se libera. Vera le grita: "¡Huye!"
 - **S1G1 golpea a Vera en la cabeza** y la deja aplastada contra el piso, inconsciente o muerta.
-- Stella escapa, esquivando robots con sus últimas fuerzas; **toma el Orbe**. Apenas lo consigue, su
-  reloj/IA **"Max"** activa los **propulsores** y sale volando hacia el **ducto estrecho del techo**.
+- Stella escapa, esquivando robots con sus últimas fuerzas; **toma el Orbe**. Apenas lo consigue, el
+  **traje llega a carga MÁXIMA ("MAX")** y activa los **propulsores a toda velocidad**: sale volando
+  hacia el **ducto estrecho del techo**.
 - Ella pasa; los robots la siguen; el **oscuro (S1G1) con propulsores** casi la alcanza.
 - Desde el aire, Stella ve por **última vez** a su madre y hermana; se le aguan los ojos y entra al ducto.
 - **S1G1 se atasca en el orificio del techo y explota.**
@@ -280,7 +281,6 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 ## ❓ PENDIENTE DE DEFINIR (para cuando escribamos el guion)
 - **Línea de tiempo:** ✅ confirmada tal cual (8 años → 14 años → "5 años después", con dilatación 1:4).
 - **Selka:** ✅ resuelto — bebé tomada y **criada por Vorthan**, crece con sus mentiras (ver sección Selka).
-- **"Max":** viene del texto original ("su reloj dice Max activa sus propulsores"). Interpretación
-  actual: el **reloj/dispositivo de muñeca de Stella marca "MAX"** (potencia máxima) y dispara los
-  propulsores — **no es un personaje**. *(Pendiente: confirmar, o decidir si Max sí es una IA/asistente
-  con nombre.)*
+- **"Max":** ✅ resuelto — es el **nivel de carga del traje de Stella**. Cuando el traje alcanza
+  **MAX (carga máxima)**, dispara los **propulsores a toda velocidad** y le permite salir impulsada
+  para escapar con el Orbe. **No es un personaje.**
