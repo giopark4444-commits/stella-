@@ -37,6 +37,27 @@ Eso **solo se revela en la escena final** ("Fui yo").
 
 ---
 
+## ⏳ ESTRUCTURA DE DOS TIEMPOS (rotular SIEMPRE el año)
+La película **alterna en paralelo** dos líneas de tiempo, e **intercala** lo que pasa en cada una. **Cada
+salto importante se rotula con el año en pantalla** para que el público no se pierda:
+- **Línea ERDIA** (el mundo que se pudre): avanza **20 años**. Vera y la resistencia, Selka creciendo
+  como General, Naio esclavo, Vorthan vaciando el planeta.
+- **Línea STELLA** (otro universo): su **entrenamiento y misiones** con Theron, Brog, Nima, Noah. Por la
+  **dilatación 1:4**, ella vive solo **~5 años** mientras Erdia envejece **20**.
+
+Mapa (**1 año de Stella = 4 años de Erdia**):
+| Stella (subjetivo) | Erdia | Hito |
+|---|---|---|
+| 0 | **Año 0** | La huida. Stella 14 · Selka 1. |
+| ~2 | **Año 8** | Beat 3: la resistencia y la **figura encapuchada (Vera)**. |
+| ~3–3.5 | **Año 14** | Beat 9: Vera decide rescatar a su familia → su muerte (el engaño). |
+| 5 | **Año 20** | Beats 12-15: Stella vuelve (**~19**) · Selka **21** · clímax. |
+
+> Regla de montaje: **intercalar** el entrenamiento/misiones de Stella con lo que pasa en Erdia, para
+> sentir que **mientras ella crece poco, su mundo se derrumba mucho**. Mostrar el **año** en cada salto.
+
+---
+
 ## 🎬 APERTURA (≈1 min)
 - Paisaje precioso del planeta. La cámara entra por una **fractura en la tierra**.
 - Descendemos: es más profundo de lo que parecía, baja y baja hasta lo más interno…
@@ -158,7 +179,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ---
 
-## 2 — LA NAVE NODRIZA
+## 2 — LA NAVE NODRIZA  *(Stella · años 0 → ~2 subjetivos / Erdia 0 → 8)*
 - La tratan con **indiferencia**, como especie inferior; casi todos son **secos y arrogantes**.
 - Algunos se interesan por ella y muestran **empatía**. Otros se burlan y le hacen la vida imposible.
 - Hasta llegan a los golpes; sus **nuevos amigos** la separan.
@@ -169,10 +190,17 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ---
 
-## 3 — 8 AÑOS DESPUÉS (la resistencia, misterio)
-- Nos olvidamos de Stella un momento y presentamos al **líder de la resistencia** junto a **su madre**,
-  con **la cara cubierta** — no sabemos aún quién es.
-- Planean, peleando contra robots, en un **planeta más árido**.
+## 3 — ERDIA · AÑO 8 (la resistencia, misterio)
+*(Stella lleva ~2 años fuera. Saltamos a Erdia — rótulo "AÑO 8".)*
+- Nos olvidamos de Stella un momento y presentamos la **resistencia**: su **líder** (Marek) y, a su lado,
+  una **figura encapuchada de rostro cubierto**.
+- **La figura encapuchada es Vera (la madre)** — pero el **público NO lo sabe aún**: se revela en el
+  **beat 8** (la foto).
+- Planean, peleando contra robots, en un **planeta/zona más árida**.
+
+## 4–7 — (INTERCALADOS: Stella ~años 2-3 subjetivos / Erdia ~8-14)
+> Estos beats van **intercalados con la línea de Erdia** (la resistencia, Selka creciendo, Naio esclavo),
+> rotulando los años a cada salto.
 
 ## 4 — STELLA EN MISIÓN + EL HUMANO
 - Stella aparece también luchando junto a sus compañeros en una misión; vemos un poco quiénes son.
@@ -193,7 +221,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   heridos. Entre ellos, **uno que se burlaba de ella** y ahora le tiene respeto. Todos ríen de la
   situación, pero en el fondo están agradecidos.
 
-## 8 — LA FOTO / LOS FLASHBACKS
+## 8 — LA FOTO / LOS FLASHBACKS  *(Stella ~3 subjetivos · muestra Erdia hasta ~año 14)*
 - **Poderes de Theron (el Cazador):**
   1. Puede **localizar a cualquier persona del universo**, pero necesita una **referencia visual**.
   2. Al **tocar la mano** de alguien, puede **ver/sentir los planetas (el mundo/origen) de esa persona** —
@@ -209,7 +237,8 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Todos festejan en la nave, pero Stella, tras hablar con Theron, está **seria, mirando al infinito**.
   Más flashbacks de destrucción en su planeta. Todos se preocupan y le preguntan si está bien.
 
-## 9 — LA MADRE SE DECIDE (han pasado 14 años)
+## 9 — ERDIA · AÑO 14 — LA MADRE SE DECIDE
+*(Rótulo "AÑO 14". Stella lleva ~3-3.5 años fuera.)*
 - Historia de Vera: pasaron **14 años**. Está desesperada por rescatar a su **hija menor (Selka)** y a
   su **esposo (Naio)**, aunque sabe que es peligrosísimo.
 - Habla con los miembros; vemos a la gente de la resistencia: niños, mujeres, familias, heridos.
@@ -248,7 +277,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   final** retomamos este momento y oímos la voz — pero es **la voz de Vorthan**.
 - Llegan los soldados a la habitación de Selka y los compañeros de Vera **huyen**.
 
-## 12 — STELLA SE PREPARA PARA VOLVER (5 años después) / EL ORBE
+## 12 — STELLA SE PREPARA PARA VOLVER (Stella · 5 años subjetivos = Erdia ~AÑO 20) / EL ORBE
 - Stella se prepara para volver. **Theron** le dice que **no vale la pena salvar un planeta como el de
   ella**, sin recursos, sin nada. Con el Orbe podrían revivirlo… pero insiste en que, aunque tengan el
   Orbe, **su raza no merece ser salvada** por el nivel de degradación y el daño ya hecho: "ya una vez
@@ -262,7 +291,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   **razón/excusa para entrar** y luchar contra él. *(Es también el momento en que su rastreo imposible
   por fin tiene un objetivo visible.)*
 
-## 13 — REGRESO A ERDIA (camuflaje, la resistencia, división)
+## 13 — ERDIA · AÑO 20 — REGRESO A ERDIA (camuflaje, la resistencia, división)
 - Stella se **cambia el color de pelo**, trata de camuflarse. Va con **el humano, Brog y Nima**.
 - Llega, pero **pocos le creen**; otros la **odian** (es, supuestamente, el motivo de la decadencia
   del planeta). Entra con discreción y busca a la resistencia.
