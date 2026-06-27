@@ -205,8 +205,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ## 4 — STELLA EN MISIÓN + EL HUMANO
 - Stella aparece también luchando junto a sus compañeros en una misión; vemos un poco quiénes son.
-- **Reclutan a un guerrero de un planeta llamado Tierra**; hay empatía porque son **físicamente
-  muy similares** (humano).
+- **Reclutan a Noah, un guerrero de la Tierra**; hay empatía porque son **físicamente muy similares**.
+  *(Canon: la Tierra fue colonizada por los naieli hace miles de años → ascendencia común. Ver Theron y
+  "Los humanos".)*
 
 ## 5 — VÍNCULOS Y PAISAJES
 - Stella y sus nuevos amigos tienen intercambios; nacen **complicidad y confianza**. Burlas, risas,
@@ -282,12 +283,12 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Llegan los soldados a la habitación de Selka y los compañeros de Vera **huyen**.
 
 ## 12 — STELLA SE PREPARA PARA VOLVER (Stella · 5 años subjetivos = Erdia ~AÑO 20) / EL ORBE
-- Stella se prepara para volver. **Theron** le dice que **no vale la pena salvar un planeta como el de
-  ella**, sin recursos, sin nada. Con el Orbe podrían revivirlo… pero insiste en que, aunque tengan el
-  Orbe, **su raza no merece ser salvada** por el nivel de degradación y el daño ya hecho: "ya una vez
-  sucumbieron y se les dio una oportunidad; ¿por qué tendrían otra?"
-- Stella insiste y le reclama que solo dice eso porque **quiere quedarse con el Orbe**, que no le
-  interesa que la vida vuelva a Erdia. Se va indignada.
+- Stella se prepara para volver. **Theron es reacio:** **no le interesa el planeta** (un mundo vaciado,
+  sin recursos). Con matiz: reconoce que los naieli **aprendieron** de su pasado y por eso les tiene
+  **empatía**, pero le recuerda que **haber aprendido no borra las atrocidades que cometieron** (entre
+  ellas, colonizar la Tierra). *"Una lección aprendida no desentierra las tumbas que cavaron."*
+- Stella le reclama que solo le importa **el Orbe**. *(En el fondo, lo que a Theron de verdad le importa
+  NO es el planeta: es **Stella** — aún no lo admite.)*
 - **(Agencia de Stella — Opción C):** el regreso es **SU operación**, decidida **contra la voluntad de
   Theron**: ella **planea la infiltración** y conduce el tercer acto (no se deja arrastrar a él).
 - **Vosk pide entrar:** **Vosk es de los que le ruegan a Theron** poder **entrar a Erdia para ayudar a la
@@ -356,8 +357,18 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   detectable) que sí puede seguir — el primer hilo real hacia el Parásito en millones de años. *(De ahí
   el pacto: la entrena/protege a cambio de usar su rastro.)*
 - **Reveló (beat 6):** Stella descubre **qué es realmente Theron** y su verdadero poder.
-- **Arco:** termina **valorando a Stella más que al Orbe** → aprende el **valor de la vida** (no solo el
-  recurso ni la cacería).
+- **Su mirada moral (matiz):** sabe que **hay razas que NO merecen salvarse**. Con los **naieli** es más
+  empático porque **ya aprendieron de sus errores** y abandonaron la guerra — pero tiene clarísimo que
+  **haber aprendido NO borra su pasado** ni las atrocidades que cometieron.
+- **El pasado naiel y la Tierra:** entre las **colonizaciones** del pasado guerrero de los naieli estuvo
+  **la Tierra**, hace **miles de años**. Por eso los **humanos** arrastran la misma **codicia y violencia**
+  — pero **aún NO han aprendido**: la Tierra es **muy joven** y sigue en la fase de **guerras y egoísmo,
+  como un virus**. *(Espejo: los humanos son lo que los naieli **fueron**.)*
+- **Su entrada al clímax (beat 12):** Theron **solo aprueba intervenir cuando CONFIRMAN que Vorthan es uno
+  de los parásitos que siempre ha cazado**. **No le interesa el planeta de Stella** — le interesa **más
+  Stella que el planeta**.
+- **Arco:** termina **valorando a Stella más que al Orbe** y más que la cacería → aprende el **valor de la
+  vida** (que el verdadero tesoro era **ella**, no el recurso).
 
 ## 👑 VORTHAN (el Rey / el Parásito)
 - **Vorthan es la forma humana** del **rey Parásito**.
@@ -448,11 +459,15 @@ Naio **aparece en 4 momentos**, no solo en flashbacks:
 - **Clave para la Peli 2:** **Selka y Naio** revivirán a Stella; al lograrlo, **Gix muere del todo**
   (deja de sostener su corazón).
 
-## 👤 LOS HUMANOS (de Tierra) — nombres propuestos
-- **Noah** (hombre) — el humano **noble** que reclutan (beat 4); empatía con Stella por parecido físico.
+## 👤 LOS HUMANOS (de la Tierra)
+- **Noah** (hombre) — el humano **noble** que reclutan (beat 4).
 - **Ren** (hombre) y **Juno** (mujer) — los **2 piratas** arrogantes: van a contra y quieren **robar
-  recursos**.
-- *(Total del trío: 2 hombres + 1 mujer — Noah, Ren, Juno.)*
+  recursos**. *(Total del trío: 2 hombres + 1 mujer.)*
+- **Función dramática (resuelve que no sean opcionales):** la **Tierra fue colonizada por los naieli** en
+  su pasado guerrero (ver Theron). Los humanos **heredaron esa codicia/violencia** y **aún no aprenden**
+  → son **el espejo de lo que el pueblo de Stella FUE**. **Noah** es la **excepción noble** (la semilla de
+  que sí se puede cambiar); **Ren y Juno** encarnan el egoísmo no superado (por eso son piratas).
+- Por esa **ascendencia común**, **Noah y Stella se parecen físicamente** — ya no es casualidad, es canon.
 
 ## 💢 VOSK — arco (de rival a leal)
 - **Nave nodriza (beat 2):** es **el matón** que acosa a Stella; el conflicto estalla y **ella tiene que
