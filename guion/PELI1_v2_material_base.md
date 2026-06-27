@@ -373,6 +373,26 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **Meta:** usar la energía del Orbe para **despegar el palacio-nave**, volver a su planeta y **seguir
   devorando** otros mundos.
 
+### 🕰️ EL PLAN DE 20 AÑOS (por qué espera — su paciencia es deliberada, no pasiva)
+Vorthan **no puede irse sin el Orbe**, y el Orbe **se fue con Stella** a otro universo. Queda **atrapado
+en Erdia**. Sus 20 años son un **plan de depredador paciente** con dos patas:
+- **(a) Cría a Selka como su LLAVE:** Selka tenía **1 año** — un bebé no puede manipular el Orbe.
+  Vorthan **necesita criarla hasta adulta, leal y capaz**, para que sea la mano que él no puede ser. Los
+  **20 años (Erdia) son, literalmente, lo que tarda su llave en crecer**. La espera es **estructural**.
+- **(b) Pudre Erdia como CARNADA:** no persigue a Stella por la galaxia (no la rastrea mejor que nadie);
+  **deja morir el planeta a propósito**, sabiendo que **la culpa de Stella la traerá de vuelta** a
+  salvarlo. **Usa el amor de ella como anzuelo.** Weaponiza a sus dos hijas: una como llave, el mundo
+  como trampa.
+- **Ajuste del Acto 1:** cuando Stella agarra el Orbe y huye, por la regla "no se toma por la fuerza"
+  Vorthan **no puede quitárselo** (no es sangre). No "fracasa": **entiende ahí que empieza la partida de
+  20 años** (puede hasta sonreír). La limitación es la **regla**, no su incompetencia.
+
+### 🔑 POR QUÉ SELKA Y NO NAIO (cierre del hueco de lógica)
+El candado de ADN permite que **cualquier familiar** (misma sangre) toque el Orbe — **también Naio**.
+Pero Naio es **hostil y viejo**: nunca cooperaría. Por eso Vorthan no "necesita la única llave posible",
+sino **una llave que CONTROLE** — y por eso **cría a Selka** desde bebé, leal y adoctrinada. *(No es que
+"solo Selka pueda"; es que es la única **leal**.)*
+
 ## 🔮 EL ORBE Y EL PALACIO-NAVE
 - El **Orbe** absorbe los **recursos y la energía** del planeta (el "corazón"/batería de Erdia).
   Por eso, al robarlo, el planeta empieza a morir.
@@ -392,9 +412,10 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **Mecánica clave (el candado de ADN):** Vorthan **SÍ puede extraer el poder** del Orbe… pero **NO
   puede tocarlo**, porque está **amarrado al ADN de Stella**. **Solo su familia** (quienes comparten su
   mismo ADN) **puede tocarlo y manipularlo**.
-- **Por eso Vorthan conserva y usa a Selka:** es de la **misma sangre** → la **única "llave"** capaz de
-  **arrancarle el Orbe a Stella** y **devolverlo a la sala/consola** donde estaba, para que Vorthan pueda
-  **extraer su poder y huir en la nave**. *(La crió justo para ese momento.)*
+- **Por eso Vorthan conserva y usa a Selka:** es de la **misma sangre** → una **"llave" capaz de
+  manipular el Orbe** (arrancárselo a Stella y devolverlo a la consola) para que Vorthan **extraiga su
+  poder y huya en la nave**. **Naio también es sangre**, pero hostil; por eso Vorthan **cría a Selka como
+  su llave LEAL** (ver "POR QUÉ SELKA Y NO NAIO"). *(La crió justo para ese momento.)*
 - **El plan de Vorthan siempre fue dejar a Erdia sin nada, sin recursos** — vaciarla y partir.
 
 ## ⚡ ARCO DE STELLA CON EL ORBE
