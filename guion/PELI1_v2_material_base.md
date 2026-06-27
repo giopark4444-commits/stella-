@@ -8,6 +8,19 @@
 
 ---
 
+## 🔒 PROTEGER LA SORPRESA (leer antes de escribir o compartir)
+La fuerza de la película depende de **UN secreto**: que **Vorthan/el Parásito puede cambiar de forma**.
+Eso **solo se revela en la escena final** ("Fui yo").
+- **NUNCA** se menciona ni se muestra el cambio de forma antes del clímax — ni en diálogo, ni en
+  cámara, ni en pistas obvias.
+- El público (y casi todos los personajes) debe **vivir como verdad**: que **Marek** es un amigo leal,
+  que **Selka** mató a Vera, que **Vorthan** es solo un rey tirano.
+- En este documento, esos datos van marcados con *(se revela al final)* — son **notas para el equipo**,
+  NO información que el espectador tenga antes de tiempo.
+- Al escribir las escenas, **escríbelas como las vive el público**, no como sabemos que son.
+
+---
+
 ## 🎭 NOMBRES (tabla canónica v2)
 | Rol | Nombre | Nota |
 |-----|--------|------|
@@ -294,13 +307,14 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ## 👁️ THERON (el Cazador) — naturaleza ✅
 - Es de **otra especie**, **los Threa** (NO la de Vorthan), de su mundo perdido **Orun**: un pueblo que
-  fue **atacado desde hace millones de años** por los **shape-shifters parásitos**. Por eso los **caza**
-  — guerra antiquísima.
+  fue **atacado desde hace millones de años** por los **parásitos devoradores de mundos**. Por eso los
+  **caza** — guerra antiquísima.
+  > ⚠️ Theron habla del Parásito como un **devorador de mundos**, NUNCA como un cambiaformas. Ni él
+  > sabe (o nunca lo dice) que pueden mutar — eso refuerza el secreto **y** explica por qué no los rastrea.
 - **Su poder (rastreo):** para **buscar a una persona** o **ver un planeta**, Theron necesita **tocarla,
   verla, o conocerla físicamente** (tener una referencia real de ella).
-- **Su límite (clave de la trama):** a los **shape-shifters NO los puede rastrear** — no puede
-  **tocarlos** y **no sabe qué forma real tienen**. Por eso, pese a perseguirlos hace milenios, **le es
-  imposible encontrarlos**.
+- **Su límite (clave de la trama):** al Parásito **NO lo puede rastrear** — no puede **tocarlo** y **no
+  sabe qué forma real tiene**. Por eso, pese a perseguirlo hace milenios, **le es imposible encontrarlo**.
 - **Por eso necesita a Stella:** su **Orbe** emite una **gran fuente de energía** (un rastro físico y
   detectable) que sí puede seguir — el primer hilo real hacia el Parásito en millones de años. *(De ahí
   el pacto: la entrena/protege a cambio de usar su rastro.)*
@@ -313,6 +327,10 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Viene del planeta **Morth**.
 - Es un **shape-shifter** (cambia de forma: por eso puede ser el Rey, la hermana, la madre y "el amigo
   de la resistencia").
+  > ⚠️ **REGLA ESTRUCTURAL — SECRETO ABSOLUTO:** que Vorthan/el Parásito **puede cambiar de forma NO se
+  > menciona ni se muestra NUNCA hasta la ESCENA FINAL**. El público y casi todos los personajes lo
+  > **ignoran** hasta la revelación del "Fui yo". Todo lo anterior (Marek = Vorthan, "Selka" matando a
+  > Vera) el espectador lo vive como verdad, y solo en el clímax entiende que fueron disfraces.
 - Su **forma real** es el **Parásito biomecánico colosal**, el devorador de mundos. **Se llama
   igual: Vorthan** — un solo nombre para sus dos formas (humana y verdadera).
 - **Meta:** usar la energía del Orbe para **despegar el palacio-nave**, volver a su planeta y **seguir
