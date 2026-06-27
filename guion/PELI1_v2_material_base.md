@@ -274,8 +274,8 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   Orbe** Gix puede volverse **más fuerte**.
 
 ## 👁️ THERON (el Cazador) — naturaleza ✅
-- Es de **otra especie** (NO la de Vorthan): un pueblo que fue **atacado desde hace millones de años**
-  por los **shape-shifters parásitos**. Por eso los **caza** — es una guerra antiquísima.
+- Es de **otra especie**, **los Threa** (NO la de Vorthan): un pueblo que fue **atacado desde hace
+  millones de años** por los **shape-shifters parásitos**. Por eso los **caza** — guerra antiquísima.
 - **Su poder (rastreo):** para **buscar a una persona** o **ver un planeta**, Theron necesita **tocarla,
   verla, o conocerla físicamente** (tener una referencia real de ella).
 - **Su límite (clave de la trama):** a los **shape-shifters NO los puede rastrear** — no puede
@@ -331,9 +331,9 @@ Naio **aparece en 4 momentos**, no solo en flashbacks:
 
 ## 👤 LOS HUMANOS (de Tierra) — nombres propuestos
 - **Noah** (hombre) — el humano **noble** que reclutan (beat 4); empatía con Stella por parecido físico.
-- **Dax** (hombre) y **Riza** (mujer) — los **2 piratas** arrogantes: van a contra y quieren **robar
+- **Ren** (hombre) y **Juno** (mujer) — los **2 piratas** arrogantes: van a contra y quieren **robar
   recursos**.
-- *(Nombres provisionales — cámbialos si quieres. Total: 2 hombres + 1 mujer.)*
+- *(Total del trío: 2 hombres + 1 mujer — Noah, Ren, Juno.)*
 
 ## 🎬 ACTO 3 / FINAL (propuesto — reconciliado con lo ya acordado en `_archivo_guion_v1`)
 Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), ajustado a la v2:
@@ -389,10 +389,11 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 - **Orbe / palacio-nave / arco del Orbe / Naio / humanos / final:** ✅ resueltos (ver secciones arriba).
 - **Theron:** ✅ resuelto — especie víctima de los shape-shifters; rastrea por tacto/vista/referencia
   física, pero NO puede rastrear a los parásitos (de ahí que necesite el rastro del Orbe de Stella).
-- **Nombres del Rey:** ✅ **Vorthan** en sus dos formas (humana y verdadera); su planeta es **Morth**.
-- **Aún abierto:** nombre de la **especie de Theron** y su **planeta**; **mecánica fina del Orbe-en-ADN**
-  (qué pasa si Vorthan captura a Stella); nombres de los **2 piratas** (compañeros de Noah).
-  *(La raza de Stella ya es **los naieli**; el planeta, **Erdia**; el Orbe, **la Fuente Madre**.)*
+- **Nombres del Rey:** ✅ **Vorthan** en sus dos formas; su planeta es **Morth**.
+- **Theron:** ✅ especie **los Threa**. **Piratas:** ✅ **Ren** y **Juno** (+ Noah).
+- **Aún abierto:** nombre del **planeta de Theron** (los Threa); **mecánica fina del Orbe-en-ADN**
+  (qué pasa si Vorthan captura a Stella).
+  *(La raza de Stella ya es **los naieli**; planeta, **Erdia**; Orbe, **la Fuente Madre**.)*
 - **"Max":** ✅ resuelto — es el **nivel de carga del traje de Stella**. Cuando el traje alcanza
   **MAX (carga máxima)**, dispara los **propulsores a toda velocidad** y le permite salir impulsada
   para escapar con el Orbe. **No es un personaje.**
