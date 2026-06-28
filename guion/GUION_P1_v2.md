@@ -813,4 +813,361 @@ CORTE A NEGRO.
 
 ---
 
-> *(Sigue ACTO 3 — el regreso a Erdia [AÑO 20], el trono, "Fui yo", el sacrificio de Selka y el cierre en la nave de Theron. Pendiente de escribir.)*
+# ACTO 3 · 転結 (TEN · KETSU) — EL REGRESO Y EL TRONO
+
+---
+
+## SEC. 21 — EXT. ERDIA — PUERTO EN RUINAS — [ERDIA · AÑO 20] — DÍA
+
+RÓTULO: **ERDIA · AÑO 20.**
+
+Lo que fue una ciudad dorada es hoy gris y partido en dos. Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca, un solo nombre tachado: **STELLA.**
+
+Una nave pequeña aterriza entre la chatarra. Bajan **BROG**, **NIMA**, **NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **STELLA**, ~19. Camuflada en su propio mundo.
+
+Pasa entre la gente. Y la gente, sin reconocerla, la mira con el odio que el Rey les enseñó. Un viejo escupe al oír su nombre en otra conversación.
+
+**NOAH**
+*(bajo, a su lado)*
+Todo un planeta te odia. ¿Y aun así volviste.
+
+**STELLA**
+*(mirando las ruinas)*
+Por eso volví.
+
+Un grupo de la resistencia los intercepta, armas en alto. Al frente, más viejo, más cansado: **KORIN.**
+
+Apunta a Stella. Ella se baja la capucha despacio. Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden de disparar.
+
+Y entonces le ve los **ojos.**
+
+**KORIN**
+*(la voz se le rompe)*
+…¿Stella? Esos ojos. Esos son los ojos de tu madre.
+*(baja el arma, temblando)*
+Eres tú. Volviste.
+
+EN LA ÓRBITA — INT. NAVE NODRIZA DE THERON: **VOSK** mira la pantalla, donde Erdia hierve. Aprieta los puños. Se gira a Theron.
+
+**VOSK**
+Déjame bajar. Está sola ahí abajo.
+
+**THERON**
+No es nuestra guerra.
+
+**VOSK**
+*(beat)*
+Se volvió mía el día que me sacó de esa fosa.
+
+Theron lo mira. No dice que sí. Tampoco se lo impide.
+
+---
+
+## SEC. 22 — INT. ERDIA — REFUGIO DE LA RESISTENCIA — DÍA
+
+Korin lleva a Stella ante un anciano esclavo recién liberado por la resistencia. Encorvado, ciego de un ojo, irreconocible.
+
+**NAIO.**
+
+Stella se queda sin aire. Se acerca. Se arrodilla frente a él.
+
+**STELLA**
+*(apenas)*
+Papá.
+
+Naio levanta la cabeza. Busca su cara y no la encuentra —hasta que le toma la mano. Y siente, bajo la piel, la **llave de luz.** El Orbe. Latiendo.
+
+Se le llena el ojo bueno de lágrimas.
+
+**NAIO**
+Volviste. Veinte años. Te dije que no dejaras que él lo tuviera, y… mírate. Lo cuidaste. Toda tu vida.
+*(le toca el pelo teñido)*
+Mi niña del río.
+
+**STELLA**
+Mamá está viva, papá. La vi. Voy a sacarlos a los dos de aquí. A Selka también. Te lo prometo.
+
+Naio le aprieta la mano. No tiene corazón para decirle lo que la resistencia cree que pasó con Vera. La deja ir con su esperanza intacta.
+
+---
+
+## SEC. 23 — EXT./INT. PALACIO IMPERIAL — EL ASALTO — DÍA
+
+La resistencia ataca. Estalla la guerra por las calles de niebla. Brog abre brechas a puñetazos; Nima inutiliza robots; Noah cubre a Stella.
+
+En el caos, un comando rescata a un grupo de esclavos clave —**Naio entre ellos**, puesto a salvo.
+
+Stella tenía una misión de reconocimiento. La rompe. Sube. Escala el palacio entre disparos, sola, hacia la cúpula más alta —la **Sala del Trono.**
+
+Llega al techo de **cristal.** Abajo, en el centro de la sala, una figura blanca espera de pie, inmóvil, como si supiera que iba a venir.
+
+Stella rompe el cristal de un golpe del Orbe. Y **cae** al trono.
+
+---
+
+## SEC. 24 — INT. PALACIO IMPERIAL — SALA DEL TRONO — CONTINUO
+
+Stella aterriza entre vidrios. Se levanta.
+
+Frente a ella, **SELKA** —la General, 21, blanca, perfecta, sin un gesto.
+
+Las dos hermanas, frente a frente, por primera vez en veinte años. Ninguna de las dos lo sabe del todo.
+
+**SELKA**
+La ladrona. Volviste a la escena del crimen.
+*(desenfunda una hoja de luz)*
+Qué considerada.
+
+**STELLA**
+*(las manos abiertas, sin atacar)*
+No vine a pelear contigo.
+
+**SELKA**
+Todos dicen eso antes de morir.
+
+Selka ataca. Y aquí descubrimos algo: Stella **podría ganar.** Entrenó con cazadores de otro universo; es más rápida, más fuerte. Bloquea, desvía, la desarma una vez. Pero no remata. **No quiere vencerla. Quiere alcanzarla.**
+
+**STELLA**
+*(esquivando)*
+¿Por qué mataste a nuestra madre?
+
+**SELKA**
+*(sin un parpadeo)*
+He ejecutado a cientos. No recuerdo a ninguna que se llamara "madre".
+
+Eso le duele a Stella más que cualquier golpe. Por un segundo baja la guardia. Selka la tira al piso, la hoja en alto.
+
+Y Stella, acorralada, desesperada, sin pensarlo —por puro reflejo de hermana mayor— hace **el gesto.**
+
+Ahueca la palma. Una **chispa de Gix** baila en su mano. Y la levanta hacia la cara de Selka, buscándole la **frente.**
+
+El mismo gesto del laboratorio. El juego de la luz.
+
+Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinte años se remueve. Bajo la General, por un instante, asoma una niña.
+
+**SELKA**
+*(un susurro, perdida)*
+…¿Por qué… por qué conozco eso?
+
+Las dos quietas. A un latido de despertar.
+
+Y es ese latido lo que **aterra** a Selka. No tiene dónde poner lo que siente. Así que hace lo único que le enseñaron: ataca lo que la confunde.
+
+Le agarra la mano a Stella —y le **arranca el Orbe.** Puede: comparte su sangre.
+
+El Orbe sale de la palma de Stella con un fogonazo. Stella **se desploma.** No muere —cae en **coma**, los ojos en blanco.
+
+Una **chispa** sale del brazalete y se mete en el pecho de Stella: **Gix**, abrazándole el corazón por dentro para que no se detenga.
+
+Selka se queda de pie, el Orbe en la mano, respirando agitada, sin saber qué acaba de hacerle a su propio cuerpo.
+
+**SELKA (CONT.)**
+*(a los guardias, la voz no del todo firme)*
+Cuéntenlo. La traidora cayó.
+
+---
+
+## SEC. 25 — INT. SALA DEL TRONO — CONTINUO
+
+Selka camina hacia la **consola** del trono. Coloca el Orbe en su lugar. Por fin. Va a devolverle la luz a Erdia. Va a ser la heroína que cree ser.
+
+La luz no vuelve.
+
+En cambio, todo **tiembla.** Las paredes del palacio se pliegan. El piso se vuelve cubierta. El trono se abre como un puente de mando. Motores antiquísimos despiertan en lo profundo.
+
+Lo que toda la película creímos un **palacio** —lo que el pueblo creyó por siglos un **meteorito** clavado en la ciudad— se enciende entero.
+
+**Siempre fue una nave.**
+
+Selka retrocede, por primera vez en su vida con miedo.
+
+**SELKA**
+*(a la sombra del trono)*
+Majestad… el Orbe debería traer la luz. ¿Qué es esto? ¿Qué está pasando?
+
+Desde el trono, una risa. Mil voces a la vez.
+
+**VORTHAN (O.S.)**
+La luz nunca fue para ellos, pequeña.
+*(beat)*
+Y nunca fue tuya.
+
+---
+
+## SEC. 26 — INT. SALA DEL TRONO — CONTINUO — "FUI YO"
+
+VORTHAN se levanta del trono. Y empieza a **cambiar.**
+
+Primero toma la forma de **VERA.**
+
+Con el rostro de la madre, camina despacio hacia **Stella**, que agoniza en el piso. Se arrodilla junto a ella. Le acaricia el pelo teñido. Juega con su agonía, dulce y monstruoso a la vez.
+
+En el suelo, Stella entreabre los ojos por última vez. Y no ve al monstruo.
+
+Ve a su madre.
+
+**STELLA**
+*(un hilo de voz, una sonrisa)*
+Mamá… viniste.
+
+**"VERA"**
+*(con la voz de su madre)*
+Aquí estoy, mi amor. Descansa.
+
+Stella cierra los ojos. Y se va **en paz**, creyendo que su madre vino por ella.
+
+*(El mismo rostro: para esta hija, el último consuelo. Para la otra, en un segundo, la peor verdad del mundo.)*
+
+La cosa se incorpora. Toma una segunda forma: **MAREK.** El líder bueno de la resistencia.
+
+Selka mira, sin entender, cómo el héroe del pueblo sale de su Rey.
+
+**"MAREK"**
+¿No te preguntaste nunca cómo el Rey sabía siempre dónde golpear a la resistencia?
+*(sonríe con la cara de Marek)*
+No había resistencia. Solo yo. Llevándolos a todos de la mano hacia el matadero.
+
+Y entonces toma la **última** forma. Se encoge. Se vuelve una **niña pequeña** —una bebé crecida apenas, de pelo blanco.
+
+**Selka. De niña.**
+
+Con esa carita, la cosa se gira hacia la General. Y le habla con la voz más tierna del mundo.
+
+**"SELKA NIÑA"**
+Fuiste tú quien la mató. Al menos… eso creyó ella.
+*(ladea la cabeza)*
+Tu madre vino a salvarte. Y murió mirando esta cara. Odiándote con toda el alma.
+*(beat)*
+Porque la maté yo, pequeña. Vistiendo tu rostro. Te puse el cuchillo en la mano sin que lo supieras.
+
+Y ríe. Con la risita de una niña.
+
+Selka retrocede, la cabeza negando sola. Veinte años de certezas cayéndose de golpe.
+
+Ella **nunca mató a su madre.** Y su madre murió creyendo que sí.
+
+Sin darse cuenta, empieza a **tararear la nana.** Esa que canta sin saber de quién es. Y por fin —demasiado tarde— la **entiende:** es la canción de su madre. La que Vera le cantaba de bebé.
+
+Se quiebra entera. Cae de rodillas.
+
+**SELKA**
+*(un grito que sale de lo más hondo)*
+…ERA MI MADRE.
+*(mira a Stella, muerta-en-coma en el piso)*
+ERA NUESTRA MADRE.
+
+---
+
+## SEC. 27 — INT. NAVE-PALACIO — CUBIERTA DEL TRONO — CONTINUO
+
+La cosa abandona todos los disfraces. Y toma su **forma real.**
+
+El **PARÁSITO.** Una criatura colosal, antigua, hecha de la luz robada de mil mundos. Lo que devora planetas. Lo que dejó hueco el corazón de Erdia.
+
+Llena la sala entera.
+
+Y **SELKA** —recién rota, recién humana otra vez, con una sola certeza nueva: que su hermana cruzó un universo por ella— se levanta. Toma su hoja de luz. Y se lanza contra el monstruo para **cubrir el rescate de Stella.**
+
+No le da la talla. Ni cerca.
+
+El Parásito, casi sin notarlo, le **secciona el brazo** de un golpe. Selka cae, manca, pero viva.
+
+En ese instante, una explosión revienta el mamparo.
+
+Entra **THERON.**
+
+Mira al monstruo. Por primera vez en veinte mil años lo ve con sus propios ojos. Y todo —cada planeta muerto, cada rastro perdido— por fin tiene cara.
+
+**THERON**
+*(bajo, casi un rezo)*
+Ahí estás.
+
+Aprovechando que Theron le hace frente, **BROG** y **NIMA** entran por la brecha. Brog levanta a **Stella** (en coma) como a una pluma. Nima carga a **Selka** (manca). **VOSK** los cubre desde la puerta —llegó, después de todo.
+
+**NIMA**
+*(a Theron, gritando)*
+¡Las tengo! ¡VÁMONOS!
+
+Theron retrocede de espaldas, sin quitarle los ojos al Parásito, hasta la brecha.
+
+---
+
+## SEC. 28 — EXT. ERDIA — CIELO SOBRE LA CIUDAD — CONTINUO
+
+La **nave-palacio** termina de arrancarse de la ciudad, escupiendo escombros, con el **Orbe** en su núcleo. Se eleva sobre Erdia.
+
+Y abre un **portal** en el cielo —un tajo de luz hacia otra parte del universo. Hacia el próximo mundo que va a vaciar.
+
+El Parásito **no persigue** a Stella ni a Theron. No le interesan. Tiene lo que vino a buscar. Su nave entra al portal y desaparece.
+
+El cielo se cierra. Silencio.
+
+La nave de Theron se aleja en la dirección contraria, pequeña contra Erdia rota.
+
+En el puente, Theron mira el punto donde estuvo el portal. Por primera vez, no está perdido.
+
+**THERON**
+Veinte mil años buscándolo.
+*(beat)*
+Por fin sé adónde va a llevarlo.
+
+---
+
+## SEC. 29 — INT. NAVE NODRIZA DE THERON — ENFERMERÍA — DÍA
+
+Quietud. El zumbido bajo de la nave.
+
+**STELLA** flota en un **tanque de soporte vital**, dormida, intacta, ausente. En coma.
+
+Junto al tanque, **NAIO** —rescatado, vivo— le sostiene la mirada a su hija dormida sin poder tocarla.
+
+Y sobre el pecho de Stella, dentro del agua, late algo: un **resplandor tenue, como una brasa a punto de apagarse.**
+
+Gix. Todavía adentro. Todavía sosteniéndole el corazón.
+
+**THERON**
+*(mirando la brasa)*
+Eso es lo único que la sostiene.
+*(beat)*
+Y se está apagando.
+
+**SELKA** entra. El brazo le falta; lo lleva vendado. La cara, la de alguien que perdió todo en una sola noche y todavía no sabe cómo se respira con eso.
+
+Se acerca a **Naio.** Su padre. Lo mira. Le toma la mano con la única que le queda.
+
+**SELKA**
+*(sin casi voz)*
+Perdóname.
+*(beat)*
+No sabía. Nada. Me lo robaron todo y ni cuenta me di.
+*(traga)*
+Voy a volver. Voy a salvar lo que quede de Erdia. Te lo juro por ella.
+
+Naio, sin palabras, le aprieta la mano. La perdona con eso.
+
+Selka se vuelve hacia el tanque. Apoya la **palma** —la única— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que rompió el cristal del trono para llegar a ella, que se negó a matarla, que cruzó un universo para volver.
+
+**SELKA (CONT.)**
+*(la frente contra el cristal)*
+No sabía que eras tú.
+*(beat)*
+Despierta. Y déjame decírtelo a la cara.
+
+Adentro del tanque, la **brasa de Gix** late una vez más. Débil. Pequeña.
+
+Pero late.
+
+CORTE A NEGRO.
+
+**EL NODO DE ERDIA.**
+
+*(Fin de la Película 1.)*
+
+---
+
+## NOTAS PARA LA PELÍCULA 2 (semillas plantadas)
+- **La brasa de Gix** apagándose = el reloj de Stella. ¿Cuánto le queda antes de que el corazón se detenga?
+- **Selka jura volver** y hereda la misión de su hermana: ella es la protagonista activa de la P2 mientras Stella duerme.
+- **Theron sabe adónde fue el Parásito** = el mapa de la cacería de la P2.
+- **Gix nació del ADN de Stella** (invento de Naio): puente para una posible revivificación.
+- Naio vivo; Vosk redimido; Noah enamorado; Brog y Nima, la familia que queda en pie.
