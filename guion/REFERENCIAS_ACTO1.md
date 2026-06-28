@@ -22,7 +22,9 @@
 | `@Vorthan` | el Rey: alto, regio, sin edad, **sonrisa que no llega a los ojos**, túnicas imperiales oscuras/doradas | 34-35,44,53,64-65,82-88 | ⬜ por ubicar | ⬜ |
 | `@S1G1` | robot esbelto oscuro, placas negro-gris mate, **un óptico**, ágil, sigiloso | 48,50,55,62,63 | **Stella_Villans** — "Agente Modelo 04" asesino | ✅ |
 | `@RobotImperial` | robots imperiales blanco/gris, visor sin rostro, voluminosos | 34,40,47,57,64,65 | **Stella_Villans** (otras hojas de robot) | 🟡 |
-| `@PilotoAliada` | piloto aliado/resistencia (la voz por radio); **varios, NO pelo blanco**; traje de vuelo | 72-74 (voz), 71/75/85 (otros) | tus refs de pilotos (al menos 3) | 🟡 asignar |
+| `@Piloto1` | piloto que habla por **radio** (tiene cara); **NO pelo blanco**; traje de vuelo | 72,73,74 | tu **piloto 1** | ✅ |
+| `@Piloto2` | segunda piloto, look distinto, **NO pelo blanco** | 71,75,85 | tu **piloto 2** | ✅ |
+| `@Piloto3` | tercera piloto, look distinto, **NO pelo blanco** | 71,75,85 | tu **piloto 3** | ✅ |
 
 ## 🌍 LOCACIONES (8)
 *(Sin arte previo: genera el establishing y reúsalo como `@location`.)*
@@ -51,9 +53,9 @@
 ---
 
 ## RESUMEN ACTO 1
-- **26 referencias** en total: 11 personajes · 8 locaciones · 7 props.
-- ✅ **Listas:** `@StellaRopa`, `@StellaArmadura`, `@StellaPeloCorto`, `@VeraRopa`, `@VeraArmadura`, `@S1G1`.
-- 🟡 **Asignar:** `@PilotoAliada` (varios pilotos, no pelo blanco), `@RobotImperial`.
+- **29 referencias** en total: 14 personajes · 8 locaciones · 7 props.
+- ✅ **Listas (9):** `@StellaRopa`, `@StellaArmadura`, `@StellaPeloCorto`, `@VeraRopa`, `@VeraArmadura`, `@Piloto1`, `@Piloto2`, `@Piloto3`, `@S1G1`.
+- 🟡 **Asignar:** `@RobotImperial`.
 - ⬜ **Faltan por ubicar:** `@Naio`, `@SelkaBebe`, `@Gix`, `@Vorthan`.
 - ⬜ **Locaciones/props:** generar establishings (CLIPS marcados) y reusarlos como referencia.
 
