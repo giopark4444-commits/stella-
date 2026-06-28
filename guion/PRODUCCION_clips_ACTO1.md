@@ -1,127 +1,144 @@
-# PRODUCCIÓN · ACTO 1 — DESGLOSE EN CLIPS DE 15 s
+# PRODUCCIÓN · ACTO 1 — DESGLOSE EN CLIPS DE 15 s  (VERSIÓN JUSTA · 88 clips)
 ## Stella Fugaz · "El Nodo de Erdia" (P1)
 
-> Desglose del **Acto 1** (guión `GUION_P1_v2.md`, SEC 1-9) en planos de **15 segundos** para Seedance 2.0.
-> **Esto NO son los prompts todavía** — es solo el mapa de pedazos: número + qué pasa en cada clip.
-> El autor edita/reordena, y luego se escriben los prompts uno por uno.
+> Desglose oficial del **Acto 1** (guión `GUION_P1_v2.md`, SEC 1-9) en planos de **15 s** para Seedance 2.0.
+> **Versión "justa":** los 73 beats narrativos + 15 planos de cobertura **esenciales** (✛). Se descartó el
+> relleno (~12 planos que solo alargaban). Cuenta todo, sin inflar.
+> Estilo de casa y reglas de contenido: ver `PRODUCCION_setup_visual.md`.
+> **Esto NO son los prompts todavía** — es el mapa de pedazos. Tras el ok → se escriben los prompts.
 >
-> Conteo: cada clip ≈ 15 s. Total Acto 1 = **73 clips ≈ 18 min**.
-> *(Si se quiere más cobertura — planos de reacción, establecimientos, atmósfera sostenida — puede crecer hacia ~100.)*
+> Conteo: **88 clips ≈ 22 min en bruto → ~18-20 min en corte final.**
 
 ---
 
-## SEC. 1 — Descenso al corazón muerto + título  *(clips 1-4)*
+## SEC. 1 — Descenso al corazón muerto + título  *(5)*
 | # | Clip (15 s) |
 |---|---|
-| 1 | Negro → una línea de luz: el borde del planeta amaneciendo. La cámara cae hacia él a través de nubes doradas. |
-| 2 | Sobrevuelo de montañas y bosques vivos; la cámara encuentra la **grieta seca** (la cicatriz). |
-| 3 | Descenso por la grieta; la luz pasa de dorada a gris a negra; paredes de roca. |
-| 4 | Llegada al **corazón hueco**: no late nada, está muerto. Se sostiene en negro. **TÍTULO: STELLA FUGAZ.** |
+| 1 | ✛ Establishing: el planeta entero, luminoso y vivo, desde el espacio (escala, belleza). |
+| 2 | Negro → línea de luz: el borde amaneciendo; la cámara cae entre nubes doradas. |
+| 3 | La cámara encuentra la **grieta seca** (la cicatriz). |
+| 4 | Descenso por la grieta; la luz cae de dorada a gris a negra. |
+| 5 | El **corazón hueco**: no late nada. Negro. **TÍTULO: STELLA FUGAZ.** |
 
-## SEC. 2 — El parque  *(clips 5-14)*
+## SEC. 2 — El parque  *(11)*
 | # | Clip (15 s) |
 |---|---|
-| 5 | Corte a cielo azul + carcajada; **Stella (14)** corre por el parque, pelo blanco al viento. |
-| 6 | El **río de luzagua** a su lado; la gente deja pasar la luz entre las manos. |
-| 7 | Stella se toca el **brazalete** → aparece **Gix** y escapa volando; ella lo persigue. |
-| 8 | **Vera** camina detrás, tranquila: *"Despacio, te vas a partir la cabeza…"* |
-| 9 | Stella de espaldas, corriendo: *"Soy la mejor de mi nivel. Te voy a hacer sentir orgullosa."* |
-| 10 | Stella se frena; una sombra enorme la tapa: el **mecha gigante** cubierto de flores. |
-| 11 | Contrapicado: Stella pequeñita bajo el gigante dormido. *"¿Por qué dejamos de conquistar?"* |
-| 12 | Vera se agacha a su altura: *"Lo quisimos todo… y por poco nos quedamos sin nada."* |
-| 13 | Vera señala el río: *"Una persona es como un río. Si te lo quedas todo, te pudres. Y nos pudres a todos."* |
-| 14 | Stella distraída con Gix; sonrisa triste de Vera. *"Voy por tu hermana."* Stella corre: *"¡Le gané a Gix!"* Se sostiene en Vera mirándola. |
+| 6 | ✛ Establishing: la ciudad dorada, ríos de luzagua entre las plazas. |
+| 7 | Corte a cielo azul + carcajada; **Stella (14)** corre. |
+| 8 | El río de luzagua; la gente deja pasar la luz entre las manos. |
+| 9 | Stella toca el **brazalete** → aparece **Gix** y escapa; lo persigue. |
+| 10 | **Vera** detrás: *"Despacio…"* |
+| 11 | Stella de espaldas: *"Soy la mejor de mi nivel…"* |
+| 12 | Sombra enorme: el **mecha** cubierto de flores. |
+| 13 | Contrapicado: Stella pequeñita bajo el gigante. *"¿Por qué dejamos de conquistar?"* |
+| 14 | Vera a su altura: *"Lo quisimos todo… y por poco nos quedamos sin nada."* |
+| 15 | Vera señala el río: *"…te pudres. Y nos pudres a todos."* |
+| 16 | Stella con Gix; *"Voy por tu hermana."* Plano sostenido en Vera. |
 
-## SEC. 3 — El laboratorio  *(clips 15-29)*
+## SEC. 3 — El laboratorio  *(19)*
 | # | Clip (15 s) |
 |---|---|
-| 15 | La puerta se abre; Stella entra riendo con Gix. |
-| 16 | La risa se le apaga: ve a **Vera** y **Naio** con cara grave frente a la proyección de datos. |
-| 17 | *"¿Todo está bien?"* Naio le tiende el **traje**: *"Póntelo. Rápido."* |
-| 18 | Stella se viste, confundida; Naio bajo: *"El Rey no nos está protegiendo."* |
-| 19 | *"Se está comiendo el planeta desde adentro. Y está muriendo."* La proyección muestra el corazón muerto. |
-| 20 | Stella: *"No es posible, el Orbe le da vida a todo."* Naio: *"Por eso lo quiere."* |
-| 21 | La máquina sobre la **mano** abierta de Stella; la **llave de luz** se le graba en la palma (dolor breve). |
-| 22 | Naio: *"El Orbe es nuestra sangre. Solo nuestra familia puede tocarlo."* |
-| 23 | *"Solamente tú podrías usarlo. Nadie más."* Le cierra la mano. |
-| 24 | La **bebé Selka** despierta y llora; Stella deja todo y va con ella. |
-| 25 | **EL JUEGO DE LA LUZ** (semilla clave): palma ahuecada + chispa de Gix + frente con frente + las dos **sonríen**; Selka se calma. |
-| 26 | Pasos acercándose; Naio y Vera se cruzan una mirada: se acabó el tiempo. |
-| 27 | Naio: *"Tomen a Selka, vayan por el Orbe… nunca dejes que él lo tenga. Yo los retengo."* Abrazo de tres, corto. |
-| 28 | La puerta se abre: **VORTHAN** entra, sonrisa de amigo, robots detrás. *"Naio. Viejo amigo."* |
-| 29 | Naio se interpone, campo de fuerza; Vorthan lo derriba de un golpe; Stella: *"¡PAPÁ!"*; Vera la arranca de ahí. |
+| 17 | ✛ Establishing: el laboratorio de Naio (luz fría, contraste con el parque). |
+| 18 | La puerta se abre; Stella entra riendo con Gix. |
+| 19 | La risa se le apaga: Vera y Naio graves ante la proyección. |
+| 20 | ✛ Insert: la proyección — el descenso al **corazón muerto**. |
+| 21 | *"¿Todo está bien?"* Naio: *"Póntelo. Rápido."* |
+| 22 | Naio bajo: *"El Rey no nos está protegiendo."* |
+| 23 | *"Se está comiendo el planeta… y está muriendo."* |
+| 24 | Stella: *"No es posible…"* Naio: *"Por eso lo quiere."* |
+| 25 | La máquina sobre su mano; la **llave de luz** se graba. |
+| 26 | ✛ Primerísimo plano: la **llave latiendo** bajo la piel de la palma. |
+| 27 | Naio: *"El Orbe es nuestra sangre. Solo nuestra familia puede tocarlo."* |
+| 28 | *"Solamente tú podrías usarlo. Nadie más."* |
+| 29 | La **bebé Selka** llora; Stella va con ella. |
+| 30 | **EL JUEGO DE LA LUZ**: palma + chispa de Gix + frente + las dos sonríen. |
+| 31 | ✛ Primer plano sostenido: la **sonrisa de las dos hermanas** (semilla del clímax). |
+| 32 | Pasos acercándose; Naio y Vera se cruzan la mirada. |
+| 33 | Naio: *"Tomen a Selka… nunca dejes que él lo tenga."* Abrazo de tres. |
+| 34 | La puerta se abre: **VORTHAN**, sonrisa de amigo. *"Naio. Viejo amigo."* |
+| 35 | Naio se interpone; Vorthan lo derriba; *"¡PAPÁ!"*; Vera la arranca. |
 
-## SEC. 4 — Pasillos del palacio  *(clips 30-35)*
+## SEC. 4 — Pasillos del palacio  *(6)*
 | # | Clip (15 s) |
 |---|---|
-| 30 | Vera y Stella corriendo, la bebé contra el pecho; el zumbido de los robots detrás. |
-| 31 | Vera, sin aliento: *"Nada es más importante que ese Orbe. Ni yo. Ni tu hermana."* |
-| 32 | Stella, los ojos llenos: *"Entiendo. Tú cuida de Selka."* La sonrisa imposible de Vera corriendo. |
-| 33 | Vera: *"Llega a la nave, en la salida que da al parque."* |
-| 34 | Una pared estalla; entran robots; pelean mientras avanzan. |
-| 35 | Llegan a las puertas de la **Sala del Orbe**. |
+| 36 | Vera y Stella corriendo, la bebé al pecho; el zumbido de los robots. |
+| 37 | Vera: *"Nada es más importante que ese Orbe. Ni yo. Ni tu hermana."* |
+| 38 | Stella, ojos llenos: *"Entiendo. Tú cuida de Selka."* La sonrisa imposible de Vera. |
+| 39 | Vera: *"Llega a la nave, en la salida que da al parque."* |
+| 40 | Una pared estalla; pelean mientras avanzan. |
+| 41 | Llegan a las puertas de la **Sala del Orbe**. |
 
-## SEC. 5 — La sala del Orbe / la caída de Vera  *(clips 36-47)*
+## SEC. 5 — La sala del Orbe / la caída de Vera  *(15)*
 | # | Clip (15 s) |
 |---|---|
-| 36 | Entran; revelación del **ORBE** suspendido, latiendo en el centro. |
-| 37 | **Vorthan** entra por el lado opuesto; el duelo de miradas / la carrera. |
-| 38 | Vera: *"¡Ve por el Orbe! ¡AHORA!"* Stella arranca hacia la esfera. |
-| 39 | Los robots cierran sobre Vera; pelea protegiendo a Selka, no puede seguirla. |
-| 40 | Entra **S1G1** — el robot oscuro, rápido, asesino; Vera entiende que es una ejecución. |
-| 41 | Vera esconde a la bebé en un panel, a salvo; se planta frente a S1G1. |
-| 42 | **Vera vs S1G1**: da todo lo que tiene; no alcanza; la neutraliza. |
-| 43 | Cayendo, cubre a Selka con el cuerpo: *"¡STELLA, CORRE!"* |
-| 44 | Stella, a tres pasos del Orbe, la mano extendida — **se da vuelta hacia su madre.** Rompe la regla. |
-| 45 | Vorthan la intercepta, la atrapa **por la trenza**, la levanta colgando; ríe: *"Tan parecida a tu madre."* |
-| 46 | Vera, en el piso, levanta las manos → **escudo de luz** sobre Stella, mientras S1G1 le **perfora el corazón**. Stella: *"¡MAMÁ!"* |
-| 47 | Vera sostiene el escudo muriendo; murmura *"Huye"*. Stella saca el **cuchillo láser**, se **corta la trenza** y cae libre. El escudo se apaga con Vera. |
+| 42 | ✛ Establishing: la Sala del Orbe, inmensa; la esfera latiendo como un segundo corazón. |
+| 43 | Entran; revelación del **ORBE** suspendido. |
+| 44 | **Vorthan** entra por el lado opuesto; duelo de miradas / la carrera. |
+| 45 | ✛ **Staging temático:** Stella en el centro, el Orbe a un lado, su madre al otro (la elección). |
+| 46 | Vera: *"¡Ve por el Orbe! ¡AHORA!"* Stella arranca. |
+| 47 | Los robots cierran sobre Vera; pelea protegiendo a Selka. |
+| 48 | Entra **S1G1** — el robot oscuro; Vera entiende que es una ejecución. |
+| 49 | Vera esconde a la bebé en un panel; se planta frente a S1G1. |
+| 50 | **Vera vs S1G1** — da todo; S1G1 la derriba con una **onda de energía**; cae. |
+| 51 | Cayendo, cubre a Selka con el cuerpo: *"¡STELLA, CORRE!"* |
+| 52 | Stella, a tres pasos del Orbe — **se da vuelta hacia su madre.** Rompe la regla. |
+| 53 | Vorthan la atrapa **por la trenza**; ríe: *"Tan parecida a tu madre."* |
+| 54 | ✛ Primer plano: la cara de Stella colgada del pelo, sin poder soltarse. |
+| 55 | Vera levanta las manos → **escudo de luz**; la lanza de luz de S1G1 le **apaga el brillo**. *"¡MAMÁ!"* |
+| 56 | Vera muriendo en luz; murmura *"Huye"*. Stella **corta la trenza**, cae libre. |
 
-## SEC. 6 — Toma el Orbe / huida por el ducto  *(clips 48-55)*
+## SEC. 6 — Toma el Orbe / huida por el ducto  *(9)*
 | # | Clip (15 s) |
 |---|---|
-| 48 | Stella rueda, se levanta y corre al **Orbe**, rota pero corriendo; esquiva un robot. |
-| 49 | **Toma el Orbe**; la llave de la palma se enciende; se integra; la muñequera marca **"MAX"**. |
-| 50 | Rugen los propulsores; despega hacia el **ducto** del techo. |
-| 51 | Antes de entrar, una fracción de segundo, **mira hacia abajo**: su madre muerta, la bebé llorando. Última mirada. |
-| 52 | Entra al ducto; **S1G1** la persigue dentro, ganando terreno, a centímetros de sus botas. |
-| 53 | S1G1 se **atasca** en el orificio; chispas; **EXPLOTA**; la onda escupe a Stella al cielo abierto. |
-| 54 | Abajo: Vorthan se acerca, **levanta a la bebé Selka**; los robots van por el cuerpo de Vera. |
-| 55 | Vorthan los detiene: *"¿Qué hacen? Ya está muerta. Salgan a buscar a Stella."* Deja a Vera; sale con la bebé. |
+| 57 | Stella corre al **Orbe**, rota pero corriendo; esquiva un robot. |
+| 58 | **Toma el Orbe**; la llave de la palma se enciende; se integra. |
+| 59 | ✛ Insert: la muñequera marcando **"MAX"** (el reloj que vuelve al clímax). |
+| 60 | Rugen los propulsores; despega hacia el **ducto**. |
+| 61 | Mira hacia abajo: su madre muerta, la bebé llorando. **Última mirada.** |
+| 62 | Entra al ducto; **S1G1** la persigue, a centímetros. |
+| 63 | S1G1 se **atasca**; **EXPLOTA**; la onda la escupe al cielo. |
+| 64 | Abajo: Vorthan **levanta a la bebé Selka**; los robots van por el cuerpo. |
+| 65 | Vorthan los detiene: *"Ya está muerta. Busquen a Stella."* Deja a Vera; sale con la bebé. |
 
-## SEC. 7 — Persecución en el cielo / el sacrificio  *(clips 56-63)*
+## SEC. 7 — Persecución en el cielo / el sacrificio  *(10)*
 | # | Clip (15 s) |
 |---|---|
-| 56 | Stella cae sobre la **nave** escondida de Vera; manos temblando; arranca. |
-| 57 | Despega; en el horizonte dorado aparece la **FLOTA IMPERIAL**. |
-| 58 | La persecución entre las torres; Stella vuela como nadie, esquiva, hace chocar a sus perseguidores. |
-| 59 | Son demasiados; una nave imperial la encuadra; el disparo va a salir— |
-| 60 | —estalla; aparecen **NAVES ALIADAS**, abren fuego, le hacen un pasillo en el cielo. |
-| 61 | Radio (mujer, en calma): *"Stella. Tu madre nos contó. No dejes que nuestro sacrificio sea en vano."* |
-| 62 | Stella llorando: *"¡No los conozco!"* Radio: *"No dejes que nadie consiga ese Orbe. Ve lejos, hazte fuerte, vuelve."* |
-| 63 | Los aliados se interponen y revientan uno a uno; Stella los ve morir por ella; sale al espacio abierto. |
+| 66 | Stella cae sobre la **nave** de Vera; manos temblando; arranca. |
+| 67 | Despega; aparece la **FLOTA IMPERIAL**. |
+| 68 | ✛ Establishing: la **escala** de la flota — decenas de naves contra una. |
+| 69 | Persecución entre las torres; Stella hace chocar a sus perseguidores. |
+| 70 | Una nave la encuadra; el haz va a salir— |
+| 71 | —estalla; aparecen **NAVES ALIADAS**, le hacen un pasillo. |
+| 72 | ✛ Una **piloto aliada** (cara): la que habla por radio, decidida a morir. |
+| 73 | Radio: *"Tu madre nos contó. No dejes que nuestro sacrificio sea en vano."* |
+| 74 | Stella: *"¡No los conozco!"* Radio: *"No dejes que nadie consiga ese Orbe. Ve lejos, vuelve."* |
+| 75 | Los aliados revientan uno a uno; Stella los ve morir; sale al espacio. |
 
-## SEC. 8 — Sin oxígeno / híper salto  *(clips 64-67)*
+## SEC. 8 — Sin oxígeno / híper salto  *(5)*
 | # | Clip (15 s) |
 |---|---|
-| 64 | El silencio del espacio; Erdia, dorada y enferma, se encoge detrás. |
-| 65 | Alarma suave: **OXÍGENO CRÍTICO**; Stella respira más lento, llora sin ruido. |
-| 66 | Mira su mano —la **llave**, el **Orbe**— y pone la palma en el tablero, desesperada. |
-| 67 | La energía inunda la nave; sobrecarga; **HÍPER SALTO** — un fogonazo blanco se traga todo. Blanco. |
+| 76 | El silencio del espacio; Erdia, dorada y enferma, se encoge detrás. |
+| 77 | Alarma: **OXÍGENO CRÍTICO**; Stella respira más lento, llora sin ruido. |
+| 78 | ✛ Primer plano: los **ojos de Stella** perdiendo el foco. |
+| 79 | Mira su mano —la llave, el Orbe— y pone la palma en el tablero. |
+| 80 | Sobrecarga; **HÍPER SALTO** — fogonazo blanco. Blanco. |
 
-## SEC. 9 — El discurso de Vorthan  *(clips 68-73)*
+## SEC. 9 — El discurso de Vorthan  *(8)*
 | # | Clip (15 s) |
 |---|---|
-| 68 | Cielo todavía azul; **Vorthan** ante una multitud inmensa, voz de luto: *"Hoy nos han robado."* |
-| 69 | *"El Orbe… ha sido arrancado de nuestro mundo."* Horror en la plaza. |
-| 70 | *"Sin él, la luz se irá. El agua se irá. El planeta morirá."* |
-| 71 | Detrás, en jaulas, los **aliados** que salvaron a Stella, exhibidos. |
-| 72 | *"¿Quién nos condenó? Una de los nuestros… Stella. Ladrona. Traidora."* El pueblo se vuelve odio. |
-| 73 | Vorthan sostiene a la **bebé Selka** ante todos; le acaricia la cabeza **como un padre**. Corte a negro. **FIN ACTO 1.** |
+| 81 | ✛ Establishing: la plaza inmensa, el pueblo bajo el cielo aún azul. |
+| 82 | Vorthan, voz de luto: *"Hoy nos han robado."* |
+| 83 | *"El Orbe… ha sido arrancado de nuestro mundo."* |
+| 84 | *"Sin él, la luz se irá. El agua se irá. El planeta morirá."* |
+| 85 | Detrás, en jaulas, los **aliados** exhibidos. |
+| 86 | ✛ Caras del pueblo: el **amor volviéndose odio** en tiempo real. |
+| 87 | *"¿Quién nos condenó? Stella. Ladrona. Traidora."* |
+| 88 | Vorthan acaricia la cabeza de la **bebé Selka** **como un padre**. Negro. **FIN ACTO 1.** |
 
 ---
 
 ## RESUMEN
-- **Total Acto 1: 73 clips** (≈ 18 min a 15 s/clip).
-- Por secuencia: SEC1=4 · SEC2=10 · SEC3=15 · SEC4=6 · SEC5=12 · SEC6=8 · SEC7=8 · SEC8=4 · SEC9=6.
-- **Pendiente:** tras tu visto bueno / reorganización → escribir el **prompt de Seedance** de cada clip (estilo, cámara, acción, sin/con diálogo).
+- **Total: 88 clips** · SEC1=5 · SEC2=11 · SEC3=19 · SEC4=6 · SEC5=15 · SEC6=9 · SEC7=10 · SEC8=5 · SEC9=8.
+- **15 planos de cobertura esenciales (✛)** añadidos sobre los 73 beats; descartado el relleno.
+- En corte final: **~18-20 min** (peso de largometraje, sin grasa).
+- **Pendiente:** escribir el **prompt de Seedance** de cada clip (estilo de casa + cámara + acción), aplicando `PRODUCCION_setup_visual.md`.
