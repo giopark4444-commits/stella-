@@ -1,233 +1,225 @@
 # PROMPTS · ACTO 1 — Stella Fugaz "El Nodo de Erdia" (P1)
-## 88 clips · Seedance 2.0 · 15s · 21:9
+## 88 clips · Seedance 2.0 · 15s · 21:9 · (versión enriquecida)
 
-> Prompts listos para producción. Idioma de directivas + diálogo: **English**.
-> Sistema de **@menciones**: cada `@tag` = un personaje / locación / prop fijo (ver biblia abajo) para
-> mantener coherencia entre clips. Setup de casa: `PRODUCCION_setup_visual.md`.
-> Reglas constantes en cada prompt: estilo Satoshi Kon + Ghibli, 21:9, 15s, **SFX only / no music**,
-> **no blood, no gore, no guns**.
+> Directivas + diálogo en **English**. Cada prompt trae, además del `@location`, una **descripción
+> exquisita de la locación** (cómo se ve la película) y una **acción descrita al detalle**.
+> Sistema de **@menciones** (ver biblia). Setup de casa: `PRODUCCION_setup_visual.md`.
+> Constantes en cada prompt: Satoshi Kon + Ghibli, 21:9, 15s, **SFX only / no music**, **no blood, no gore, no guns**.
+> Cada grupo está marcado por **SECUENCIA** y **ESCENA**.
 
 ---
 
-## 🎭 BIBLIA DE @MENCIONES (definición canónica — referencia para todos los prompts)
+## 🎭 BIBLIA DE @MENCIONES
 
 **Personajes**
-- `@Stella` — 14yo naiel girl; white hair in a long braid; amber eyes; freckles; light grey-white recon suit with subtle orange "04" accents; agile, expressive.
+- `@Stella` — 14yo naiel girl; white hair in a long braid; amber eyes; freckles; light grey-white recon suit, subtle orange "04" accents; agile, expressive.
 - `@Vera` — ~40, the mother; long white hair partly bound; warm, strong face; flowing naiel robes in soft gold and white. **Grey-blue eyes (keep consistent).**
-- `@Naio` — ~45, the father/scientist; white hair; tired kind eyes; lab coat over a naiel tunic.
-- `@SelkaBebe` — 1-year-old baby; wisp of white hair; grey-blue eyes; wrapped in pale cloth.
-- `@Gix` — small palm-sized being of pure warm light, firefly-like glow, faint geometric core; playful.
+- `@Naio` — ~45, father/scientist; white hair; tired kind eyes; lab coat over a naiel tunic.
+- `@SelkaBebe` — 1-year-old baby; wisp of white hair; **grey-blue eyes**; wrapped in pale cloth.
+- `@Gix` — small palm-sized being of warm light, firefly glow, faint geometric core; playful.
 - `@Vorthan` — the King; tall, ageless, regal; calm friendly smile that never reaches the eyes; ornate dark-and-gold imperial robes.
 - `@S1G1` — sleek dark assassin robot; matte black-grey plating; single glowing optic; fast, silent.
 - `@RobotImperial` — white/grey imperial soldier robots; faceless visor; bulkier than @S1G1.
 - `@PilotoAliada` — adult naiel woman pilot; white hair; resolute face; flight gear.
 
-**Locaciones**
-- `@Erdia` — luminous living planet from space; golden continents, glowing rivers, soft clouds.
-- `@CiudadDorada` — golden naiel city; warm stone-and-light architecture; glowing "luzagua" canals between plazas; airy, utopian.
-- `@ParqueLuzagua` — vast green park; a luzagua river of water-and-light; the flower-covered war mecha @MechaFlores in the background.
-- `@Laboratorio` — Naio's lab; cool clean light; holographic data projections; organic-tech naiel design (contrast to the warm park).
-- `@PasillosPalacio` — tall ornate golden palace corridors, now lit by red alert glows.
-- `@SalaDelOrbe` — immense cathedral-scale Orb chamber; the @Orbe suspended and pulsing at center like a second heart.
-- `@PlazaPalacio` — great palace plaza/balcony; a vast crowd; still-blue sky.
-- `@EspacioErdia` — orbit/space around Erdia; the sick golden planet shrinking against the stars.
+**Atlas de locaciones (descripción exquisita canónica)**
+- `@Erdia` — a luminous living world wrapped in soft golden cloud; continents veined with rivers of light, oceans catching the dawn like molten glass; serene, impossibly alive.
+- `@CiudadDorada` — a golden naiel metropolis of warm honey-stone and airy terraces, threaded by canals of "luzagua" (water-and-light that glows as it flows); bridges, hanging gardens, open plazas; sunlight pooling like syrup.
+- `@ParqueLuzagua` — a vast emerald park where a glowing luzagua river winds through the grass; wildflowers, ancient trees, drifting pollen, and the colossal flower-covered war-mecha @MechaFlores kneeling in the distance.
+- `@Laboratorio` — Naio's lab: cool, clean, hushed; pale curved organic-tech surfaces and floating holographic data; the warm world shut outside, replaced by clinical blue-white light.
+- `@PasillosPalacio` — tall ornate corridors of gold and pale stone, banners and arches, now strobed by red alert light and long running shadows; beauty turned to a trap.
+- `@SalaDelOrbe` — a cathedral-scale chamber of pale luminous stone whose ceiling dissolves into golden haze; concentric naiel arches veined with living luzagua, a polished obsidian-gold floor mirroring the @Orbe, thin waterfalls of light down the columns, luminous pollen in god-rays.
+- `@PlazaPalacio` — the great palace plaza beneath a still-blue sky; a vast sea of gathered people, terraces and banners, a high balcony; grand, public, about to curdle.
+- `@EspacioErdia` — the silent void of space; the sick golden planet shrinking against a field of cold stars; emptiness and distance.
 
-**Props**
-- `@Orbe` — sphere of pure luzagua light, pulsing like a heart; can shrink to fit a palm.
-- `@Brazalete` — Stella's wrist bracelet that summons @Gix.
-- `@LlaveDeLuz` — a glowing key-sigil etched under the skin of Stella's palm.
-- `@MonitorMAX` — Stella's wrist monitor; a charge bar that fills and reads "MAX".
-- `@CuchilloLaser` — a small light-blade tool (not a firearm).
-- `@MechaFlores` — colossal ancient war mecha, kneeling, overgrown with flowers and vines.
-- `@NaveStella` — Vera's small hidden escape ship.
+**Props** — `@Orbe` (sphere of pure luzagua light, pulses like a heart, shrinks to a palm) · `@Brazalete` (Stella's wrist band that summons @Gix) · `@LlaveDeLuz` (glowing key-sigil under Stella's palm skin) · `@MonitorMAX` (wrist charge bar reading "MAX") · `@CuchilloLaser` (small light-blade tool, not a firearm) · `@MechaFlores` (colossal flower-overgrown war mecha) · `@NaveStella` (Vera's small hidden escape ship).
 
-> **Constante de estilo (en cada prompt):** `Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.`
-> **Constante de locación (en cada Setting):** `... — match its architecture, materials, colors; lush, detailed, painterly background.`
-> **Constante negativa (en cada prompt):** `no blood, no gore, no guns, no firearms, no on-screen text, no watermark.`
+> **Constante de estilo:** `Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.`
+> **Constante negativa:** `no blood, no gore, no guns, no firearms, no on-screen text, no watermark.`
 
 ---
 
-# SEC. 1 — Descenso al corazón muerto + título
+# 起 ACTO 1
+
+## SECUENCIA 1 — ESCENA: Interior muerto del planeta + título · *(clips 1-5)*
 
 ### CLIP 1 — establishing del planeta
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; lush, detailed, painterly background. The whole luminous living planet seen from space, golden continents and glowing rivers under soft clouds.
-- **Shot/lens:** vast space-wide; the planet centered, small stars around.
-- **Camera:** very slow drift toward the planet.
-- **Light:** soft cosmic dawn light rimming the planet's edge.
-- **Action:** the camera approaches the serene, beautiful world — pure calm.
-- **Mood:** sacred, awe, "before."
-- **Audio:** SFX only — deep space hum, faint shimmering tone. No music.
+- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; lush, detailed, painterly background. A luminous living world wrapped in soft golden cloud, continents veined with glowing rivers, oceans catching the dawn like molten glass, the whole planet breathing with quiet light against the black of space.
+- **Shot/lens:** vast space-wide; the planet centered and small, scattered cold stars around it.
+- **Camera:** an almost imperceptible slow drift toward the world, as if the film is holding its breath.
+- **Light:** a soft cosmic dawn rims the planet's edge in warm gold; the dark side glows faintly with city-light.
+- **Action:** the camera approaches the serene, beautiful world with reverence; cloud bands turn slowly, light creeps across the terminator line revealing rivers of gold, everything calm, sacred, and utterly alive — the world we are about to lose.
+- **Mood:** awe, sacred calm, "before."
+- **Audio:** SFX only — deep space hum, a faint high shimmering tone, like a held chord without music. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 2 — caída entre nubes
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; lush, detailed, painterly background. Upper atmosphere at dawn, golden clouds.
-- **Shot/lens:** wide; a thin line of light cracks the dark as the planet's edge catches dawn.
-- **Camera:** the camera falls toward the surface through golden clouds.
-- **Light:** warm dawn breaking into gold.
-- **Action:** descent begins, light blooming across the world.
-- **Mood:** majestic, descending.
-- **Audio:** SFX only — wind rising, distant atmosphere. No music.
+- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; lush, detailed, painterly background. The upper atmosphere at dawn, towering golden cloudbanks lit from within, a thin blazing line of light cracking the dark along the planet's curve.
+- **Shot/lens:** wide descending; the horizon-line of light splitting darkness from gold.
+- **Camera:** the camera tips over the edge and falls toward the surface, plunging through luminous clouds.
+- **Light:** warm dawn blooming into full gold as it drops, volumetric rays stabbing through the cloud towers.
+- **Action:** the descent accelerates gently through cathedral-like clouds, light blooming and scattering around the lens, the world rushing up to meet us — beauty with the faint vertigo of a fall.
+- **Mood:** majestic, descending, a held breath.
+- **Audio:** SFX only — rising wind, the deep rush of atmosphere. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 3 — la grieta seca
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; lush, detailed, painterly background. Living golden surface — mountains, breathing forests, glowing rivers — and a single dry **fissure**, a scar, cutting through it.
-- **Shot/lens:** aerial wide gliding over the living land, finding the fissure.
-- **Camera:** glide forward, then tilt down into the fissure's mouth.
-- **Light:** warm gold above, shadow deepening in the crack.
-- **Action:** beauty of the surface, then the camera locks onto the wrong thing — the scar.
-- **Mood:** wonder turning to unease.
-- **Audio:** SFX only — wind, distant water, a low ominous note as the crack appears. No music.
+- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; lush, detailed, painterly background. The living golden surface — breathing forests, mirror-bright rivers, mountains in warm haze — scarred by a single long dry **fissure**, a black crack that does not belong amid so much life.
+- **Shot/lens:** low aerial gliding fast over the living land, then locking onto the dark fissure.
+- **Camera:** a sweeping forward glide that finds the scar and tilts down toward its mouth.
+- **Light:** warm gold over the land; cold shadow pooling in the crack.
+- **Action:** the camera skims over forests and shining rivers full of life, then — like a thought intruding — drifts to the dry fissure and tips toward its dark throat, the warmth draining out of frame as it nears.
+- **Mood:** wonder curdling into unease.
+- **Audio:** SFX only — wind, distant water and birds, a low ominous tone swelling as the crack appears. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 4 — descenso por la grieta
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; lush, detailed, painterly background. Interior of the deep rocky fissure, walls passing.
-- **Shot/lens:** vertical descent, rock walls on both sides.
-- **Camera:** slow downward dolly into darkness.
-- **Light:** light shifting golden → grey → near-black as it descends.
-- **Action:** the descent leaves the light behind, deeper and deeper.
-- **Mood:** dread, sinking.
-- **Audio:** SFX only — echoing drips, deep rumble, fading wind. No music.
+- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; lush, detailed, painterly background. The interior of the deep rocky fissure, sheer stone walls streaked with dead mineral veins, the daylight far above shrinking to a thread.
+- **Shot/lens:** vertical descent between close rock walls.
+- **Camera:** a slow, steady downward dolly into darkness.
+- **Light:** light shifting from gold to grey to near-black, the last glow climbing the walls and dying.
+- **Action:** the descent leaves the world of light behind, walls sliding upward past the lens, the warm thread of sky narrowing to nothing until only cold rock and shadow remain, deeper and deeper toward something wrong.
+- **Mood:** dread, sinking, claustrophobic.
+- **Audio:** SFX only — echoing drips, deep groaning rock, the wind from above fading to silence. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 5 — el corazón hueco + título
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; lush, detailed, painterly background. The planet's core: a vast black hollow cavern where a planet's heart should beat — utterly dead, lifeless.
-- **Shot/lens:** wide reveal of the empty dead core, then settle into total black.
-- **Camera:** slow settle, holding on the void.
-- **Light:** almost none — last embers of light swallowed by black.
-- **Action:** reveal that the core is dead; hold on black. Title appears: **STELLA FUGAZ**.
-- **Mood:** ominous, hollow, sacred dread.
-- **Audio:** SFX only — a single deep heartbeat that does NOT repeat, then silence. No music.
-- **Negative:** no blood, no gore, no guns, no watermark. (Title card "STELLA FUGAZ" is the only allowed text.)
+- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; lush, detailed, painterly background. The planet's core: a vast black hollow cavern where a world's heart should beat — a cathedral of emptiness, dead and silent, the last embers of light starved away.
+- **Shot/lens:** a wide reveal opening into the empty dead core, then a slow settle into total black.
+- **Camera:** the camera glides out into the void and stops, holding on nothing.
+- **Light:** almost none — a final dim glow swallowed whole by the dark.
+- **Action:** the cavern opens impossibly wide and utterly empty; the camera drifts into the void where a heartbeat should be and finds dead stillness; the frame sinks to pure black and holds. Title rises: **STELLA FUGAZ**.
+- **Mood:** hollow, ominous, sacred dread.
+- **Audio:** SFX only — one deep heartbeat that does NOT repeat, swallowed by silence. No music.
+- **Negative:** no blood, no gore, no guns, no watermark. (Only the title card "STELLA FUGAZ" is allowed text.)
 
 ---
 
-# SEC. 2 — El parque
+## SECUENCIA 2 — ESCENA: El parque de la luzagua (la utopía) · *(clips 6-16)*
 
 ### CLIP 6 — establishing de la ciudad dorada
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. A warm golden naiel city; glowing luzagua canals running between airy plazas; people strolling.
-- **Shot/lens:** sweeping establishing wide of the utopian city.
-- **Camera:** smooth crane/drift over the canals.
-- **Light:** bright warm morning, glowing water reflections.
-- **Action:** the living, peaceful city — the world worth losing.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. A golden naiel metropolis of warm honey-stone terraces and airy towers, threaded by canals of luzagua that glow as they flow, hanging gardens spilling green over bridges, sunlight pooling like syrup across open plazas.
+- **Shot/lens:** sweeping establishing wide over the utopian city.
+- **Camera:** a smooth high crane drifting over the glowing canals.
+- **Light:** bright warm morning; the luzagua throws rippling gold reflections up the walls.
+- **Action:** the camera sails over the living city — citizens crossing bright bridges, light-water curling through the streets, gardens swaying — a whole civilization at peace, breathing in gold; the camera lets us fall in love with what is about to die.
 - **Mood:** utopian warmth.
-- **Audio:** SFX only — gentle city ambience, flowing luzagua, distant voices. No music.
+- **Audio:** SFX only — gentle city ambience, flowing luzagua, distant laughter and voices. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 7 — Stella corre
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. Vast green park, a luzagua river beside the grass.
+- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. A vast emerald park where a glowing luzagua river winds through the grass, wildflowers nodding in the breeze, ancient trees throwing dappled light, pollen drifting like sparks.
 - **Characters:** @Stella — match her design, braid, freckles, suit exactly.
-- **Shot/lens:** tracking medium-wide following @Stella running.
-- **Camera:** lateral tracking alongside her, energetic.
-- **Light:** bright blue-sky day, warm sun.
-- **Action:** cut from black to blue sky and laughter; @Stella sprints barefoot across the park, white braid flying, joyful.
-- **Mood:** pure joy, freedom.
-- **Audio:** SFX only — laughter, running footsteps on grass, breeze. No music.
+- **Shot/lens:** tracking medium-wide following @Stella as she runs.
+- **Camera:** energetic lateral tracking alongside her, grass and light streaking past.
+- **Light:** bright blue-sky day, warm sun flaring between the trees.
+- **Action:** cutting from the dead black to blue sky and a peal of laughter, @Stella sprints barefoot across the park, white braid snapping behind her, leaping a low rise, arms wide, pure unguarded joy in every stride as light and pollen scatter around her.
+- **Mood:** pure joy, freedom, innocence.
+- **Audio:** SFX only — bright laughter, running footsteps on grass, breeze, distant water. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 8 — el río de luzagua
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. The luzagua river — water-and-light flowing — with people letting the light run through their hands.
-- **Shot/lens:** lyrical medium of hands and flowing light-water.
-- **Camera:** slow glide along the river.
-- **Light:** glowing water casting warm light on faces.
-- **Action:** citizens let the luzagua pass through their fingers, never holding it — the world's quiet law, shown not told.
-- **Mood:** serene, thematic.
-- **Audio:** SFX only — flowing water, soft shimmering tones. No music.
+- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. The luzagua river itself — water and light braided together, glowing turquoise-gold, curling lazily between mossy banks while people kneel and let it pour through their open hands.
+- **Shot/lens:** lyrical medium of hands cupping and releasing flowing light-water.
+- **Camera:** a slow loving glide along the river's surface.
+- **Light:** the glowing water underlights faces and palms in soft turquoise-gold.
+- **Action:** citizens dip their hands into the luzagua and let it run through their fingers, never closing their fists, the light streaming off their palms and rejoining the river — the world's quiet law shown without a word, beautiful and serene.
+- **Mood:** serene, thematic, tender.
+- **Audio:** SFX only — soft flowing water, faint shimmering tones, a child's distant laugh. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 9 — aparece Gix
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella; @Gix — small warm being of light.
-- **Shot/lens:** medium on @Stella's wrist and face.
-- **Camera:** quick playful follow as @Gix darts off.
-- **Light:** sunny, @Gix adds a warm glow.
-- **Action:** @Stella taps her @Brazalete; @Gix ignites from the air and zips away; she laughs and chases it.
-- **Mood:** playful, tender.
-- **Audio:** SFX only — a soft chime as Gix appears, Stella's delighted laugh. No music.
+- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. Sun-dappled grass beneath an ancient tree, motes of pollen hanging in warm shafts of light.
+- **Characters:** @Stella; @Gix — small warm being of light. **Props:** @Brazalete.
+- **Shot/lens:** medium on @Stella's wrist and bright face, then a quick playful follow.
+- **Camera:** snap-follow as @Gix darts upward and away.
+- **Light:** sunny; @Gix adds a dancing firefly glow that paints her face.
+- **Action:** @Stella taps the @Brazalete on her wrist; with a soft chime @Gix blooms out of the air like a struck spark, spirals once around her head, then zips off between the trees — and she breaks into a laughing chase, swatting playfully at the light.
+- **Mood:** playful, tender, alive.
+- **Audio:** SFX only — a soft bright chime as Gix ignites, Stella's delighted laugh, rustling leaves. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 10 — Vera detrás
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera (grey-blue eyes) — match her design exactly; @Stella in the background.
-- **Shot/lens:** medium on @Vera walking calmly, @Stella small ahead.
-- **Camera:** gentle dolly with @Vera.
-- **Light:** warm day.
-- **Action:** @Vera strolls behind her daughter, fond and unhurried, and calls ahead.
+- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. A sunlit path through the park, the luzagua river glinting beyond, the great @MechaFlores a soft silhouette far in the haze.
+- **Characters:** @Vera (grey-blue eyes) — match her design exactly; @Stella small and ahead.
+- **Shot/lens:** medium on @Vera walking calmly, @Stella a bright blur in the distance.
+- **Camera:** a gentle dolly keeping pace with @Vera.
+- **Light:** warm even daylight, soft on her face.
+- **Action:** @Vera strolls unhurried behind her daughter, fond and easy, watching the small running figure with a mother's quiet pride, and calls ahead with a teasing warmth.
 - **Dialogue (@Vera):** "Easy — you'll crack your head open the day before your final test."
-- **Mood:** warm, maternal.
-- **Audio:** SFX only — park ambience, breeze. No music.
+- **Mood:** warm, maternal, ordinary happiness.
+- **Audio:** SFX only — park ambience, breeze, distant laughter. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 11 — "I'm the best"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. Open sunlit lawn, wildflowers, the river glinting behind.
 - **Characters:** @Stella.
-- **Shot/lens:** medium on @Stella, half-turned over her shoulder.
-- **Camera:** light handheld follow.
-- **Light:** warm day.
-- **Action:** @Stella, running backward, grins at her mother, cocky and sweet.
+- **Shot/lens:** medium on @Stella, half-turned over her shoulder mid-run.
+- **Camera:** a light handheld follow keeping her grinning face in frame.
+- **Light:** warm day, sun catching her white braid.
+- **Action:** @Stella runs backward a few steps, turning to flash a cocky, sweet grin at her mother, chin up with the easy arrogance of a kid who has never lost anything yet.
 - **Dialogue (@Stella):** "I'm the best in my class, Mom. I'll make you proud."
-- **Mood:** youthful confidence.
-- **Audio:** SFX only — footsteps, breeze, faint Gix chime. No music.
+- **Mood:** youthful confidence, sweetness.
+- **Audio:** SFX only — footsteps, breeze, a faint Gix chime nearby. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 12 — la sombra del mecha
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella.
-- **Props:** @MechaFlores — colossal ancient war mecha overgrown with flowers.
-- **Shot/lens:** wide; a huge shadow falls over @Stella as she stops.
-- **Camera:** slow push as the shadow swallows her.
-- **Light:** sun behind the mecha, long shadow cast forward.
-- **Action:** @Stella halts; a vast shadow covers her — reveal the towering flower-covered @MechaFlores.
-- **Mood:** awe.
-- **Audio:** SFX only — wind through metal and flowers, birds. No music.
+- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. A clearing where the colossal flower-covered war-mecha @MechaFlores kneels, half-swallowed by blossoming vines, a dormant giant turned into a garden.
+- **Characters:** @Stella. **Props:** @MechaFlores.
+- **Shot/lens:** wide; a vast shadow sweeps across @Stella as she stops.
+- **Camera:** a slow push as the shadow swallows her small figure.
+- **Light:** the sun hides behind the mecha's bulk, its long shadow falling forward over the grass.
+- **Action:** @Stella skids to a stop as a huge shadow rolls over her; she lifts her gaze and the camera reveals the towering @MechaFlores — a war machine the size of a building, kneeling, its armor cracked open with flowers, petals drifting down from its shoulders like slow snow.
+- **Mood:** awe, the past sleeping under beauty.
+- **Audio:** SFX only — wind moaning through hollow metal, rustling vines, birds nesting in the giant. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 13 — contrapicado bajo el gigante
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella.
-- **Props:** @MechaFlores filling the sky behind her.
-- **Shot/lens:** low-angle wide (contrapicado), wide lens; @Stella tiny in the lower frame, dwarfed by the giant.
-- **Camera:** slow tilt-up + gentle push-in.
-- **Light:** warm golden hour, god-rays through the mecha's flowers, dust motes.
-- **Action:** @Stella cranes her neck up at the dormant giant, small and curious, and speaks aloud.
+- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. Beneath the flower-choked @MechaFlores, its vast form filling the sky, blossoms and dust suspended in shafts of golden light.
+- **Characters:** @Stella. **Props:** @MechaFlores.
+- **Shot/lens:** low-angle wide (contrapicado), wide lens; @Stella tiny in the lower frame, dwarfed by the giant overhead.
+- **Camera:** a slow tilt-up combined with a gentle push-in, scaling the machine.
+- **Light:** warm golden hour, god-rays spilling through the mecha's flowers, dust motes glittering.
+- **Action:** @Stella cranes her neck all the way back to take in the giant, mouth slightly open, a flower spiralling down past her face; small and curious beneath the sleeping war-machine, she asks aloud, almost to herself, the question of a generation born after the wars.
 - **Dialogue (@Stella):** "Why did we stop conquering?"
-- **Mood:** wonder, the calm before tragedy.
-- **Audio:** SFX only — soft breeze, distant luzagua, rustling flowers. No music.
+- **Mood:** wonder, innocence, the calm before tragedy.
+- **Audio:** SFX only — soft breeze, distant luzagua, petals and leaves rustling. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 14 — "we wanted it all"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. In the warm shadow of the @MechaFlores, flowers and grass around their feet, golden light behind.
 - **Characters:** @Vera (grey-blue eyes), @Stella.
-- **Shot/lens:** two-shot, @Vera crouching to @Stella's height.
-- **Camera:** slow push to a tender medium.
-- **Light:** warm golden hour.
-- **Action:** @Vera kneels to her daughter's level, serious for the first time.
+- **Shot/lens:** tender two-shot, @Vera crouching to @Stella's height.
+- **Camera:** a slow push into an intimate medium of their faces.
+- **Light:** warm golden hour, soft on both faces.
+- **Action:** @Vera kneels to her daughter's level, brushing a petal from Stella's hair, her smile fading into something honest and a little sad as she answers — the first time the girl hears the weight under the legend.
 - **Dialogue (@Vera):** "That's not as romantic as it sounds. We wanted it all… and almost ended up with nothing."
 - **Mood:** tender, foreboding.
-- **Audio:** SFX only — breeze, distant water. No music.
+- **Audio:** SFX only — breeze, distant water, rustling flowers. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 15 — "a person is a river"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. The luzagua river beside them.
+- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. At the edge of the glowing luzagua river, light-water curling past their feet, reflections rippling up over mother and daughter.
 - **Characters:** @Vera (grey-blue eyes), @Stella.
-- **Shot/lens:** medium two-shot; @Vera gestures to the river.
-- **Camera:** slow dolly linking their faces to the flowing water.
-- **Light:** warm, glowing river light on them.
-- **Action:** @Vera points to the river as she gives the law of their people.
+- **Shot/lens:** medium two-shot; @Vera gestures to the river, linking their faces to the flowing light.
+- **Camera:** a slow dolly that ties them to the moving water.
+- **Light:** warm, with glowing turquoise-gold river light playing over them.
+- **Action:** @Vera scoops a handful of luzagua and lets it stream back into the river, the light pouring off her fingers, as she gives Stella the one law of their people — gentle, deliberate, planting the seed that will decide everything.
 - **Dialogue (@Vera):** "A person is a river, Stella. Keep it all for yourself and you rot. And you rot all of us."
 - **Mood:** the thematic heart, gentle but heavy.
 - **Audio:** SFX only — flowing luzagua, soft wind. No music.
@@ -235,166 +227,164 @@
 
 ### CLIP 16 — "I'm going for your sister"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. The sunlit park path, @Stella already a bright running shape among the trees, @Vera held alone in frame.
 - **Characters:** @Vera (grey-blue eyes), @Stella, @Gix.
-- **Shot/lens:** medium that ends holding on @Vera alone, watching @Stella run off.
-- **Camera:** static settle on @Vera's fond, faintly sad face.
-- **Light:** warm golden hour.
-- **Action:** @Stella is already distracted chasing @Gix; @Vera smiles, a little sad, and lets her go. @Stella shouts back as she runs.
+- **Shot/lens:** medium that ends settling on @Vera alone, watching her daughter go.
+- **Camera:** a slow drift to static on @Vera's face.
+- **Light:** warm golden hour, lengthening shadows.
+- **Action:** already chasing @Gix again, @Stella waves and shouts over her shoulder as she runs off; @Vera answers, then the camera lingers on her — a mother watching her child recede into the gold, a fond, faintly sad smile that we, and only we, know is the last of the good days.
 - **Dialogue (@Vera):** "I'm going for your sister. See you home for dinner." — **(@Stella, off):** "Tell Selka I beat Gix!"
-- **Mood:** the last good day — only we know it.
-- **Audio:** SFX only — fading laughter, breeze. No music.
+- **Mood:** the last good day — dramatic irony.
+- **Audio:** SFX only — fading laughter, breeze, distant Gix chime. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ---
 
-# SEC. 3 — El laboratorio
+## SECUENCIA 3 — ESCENA: El laboratorio de Naio (la verdad y la huida) · *(clips 17-35)*
 
 ### CLIP 17 — establishing del laboratorio
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. Cool, clean naiel lab; holographic data; organic-tech surfaces — a stark contrast to the warm park.
-- **Shot/lens:** wide establishing of the lab interior.
-- **Camera:** slow drift revealing the space and the floating data.
-- **Light:** cool blue-white, clinical.
-- **Action:** the cold heart of the story is introduced — quiet, tense, wrong.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. Naio's lab: cool, hushed, pale curved organic-tech surfaces, holographic data slowly rotating in the air, the warm golden world sealed outside and replaced by clinical blue-white light.
+- **Shot/lens:** wide establishing of the lab interior, the holograms floating like cold ghosts.
+- **Camera:** a slow drift revealing the space and the rotating data.
+- **Light:** cool blue-white, clinical, the opposite of the park's gold.
+- **Action:** the camera glides through the silent laboratory, past slowly turning holographic readouts and pale instruments, the temperature of the whole film dropping — a place where something has already gone quietly, terribly wrong.
 - **Mood:** unease, clinical dread.
-- **Audio:** SFX only — soft electronic hums, holographic blips. No music.
+- **Audio:** SFX only — soft electronic hums, holographic blips, a low room tone. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 18 — Stella entra riendo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The lab doorway, warm park light spilling in behind @Stella, swallowed by the cold interior.
 - **Characters:** @Stella, @Gix.
-- **Shot/lens:** medium on the door as @Stella enters.
-- **Camera:** follow her in a step.
-- **Light:** cool lab light replacing the warm park.
-- **Action:** the door opens; @Stella walks in still laughing, @Gix circling her.
+- **Shot/lens:** medium on the door as @Stella steps in.
+- **Camera:** a step-in follow as she crosses the threshold.
+- **Light:** warm light from behind her giving way to the lab's cold blue-white.
+- **Action:** the door breathes open and @Stella strolls in still laughing, @Gix looping around her shoulders, the warmth of the park trailing in with her for one more second before the cold of the room reaches her.
 - **Mood:** warmth about to be extinguished.
-- **Audio:** SFX only — door, fading laugh, lab hum. No music.
+- **Audio:** SFX only — door hiss, a fading laugh, Gix chime, lab hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 19 — la risa se apaga
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella (foreground), @Vera (grey-blue eyes) and @Naio (grave, at the projection).
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The lab, the dead-core projection glowing coldly behind the parents.
+- **Characters:** @Stella (foreground); @Vera (grey-blue eyes) and @Naio, grave, lit from below by the projection.
 - **Shot/lens:** over-shoulder from @Stella to her grim parents.
-- **Camera:** slow push as her smile dies.
-- **Light:** cold, the projection underlighting the parents.
-- **Action:** @Stella's laughter fades as she reads the dread on @Vera and @Naio's faces.
+- **Camera:** a slow push as her smile drains away.
+- **Light:** cold, the projection underlighting Vera and Naio's faces.
+- **Action:** @Stella's grin fades by degrees as she reads the dread carved into @Vera and @Naio's faces; @Gix's glow dims and tucks behind her; the laughter dies in her throat, the room suddenly far too quiet.
 - **Mood:** the floor dropping out.
-- **Audio:** SFX only — the laugh cutting to silence, low hum. No music.
+- **Audio:** SFX only — the laugh cutting to silence, low hum, a single soft warning blip. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 20 — insert: la proyección
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. A holographic projection showing the descent into the dead hollow core of @Erdia.
-- **Shot/lens:** tight insert on the projection.
-- **Camera:** slow push into the hologram of the dead core.
-- **Light:** the hologram's cold glow.
-- **Action:** the projection shows the planet's dying heart — the stakes, visualized.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. A holographic projection floating in the cold lab, replaying the descent into the dead hollow core of @Erdia.
+- **Shot/lens:** tight insert on the rotating hologram.
+- **Camera:** a slow push into the holographic image of the dead core.
+- **Light:** the hologram's cold blue glow, flickering.
+- **Action:** the projection turns slowly, replaying the plunge into the planet's black empty heart, data-glyphs and warning-reds crawling around the dead core — the unspeakable truth rendered in cold light.
 - **Mood:** clinical horror.
-- **Audio:** SFX only — holographic tones, a faint dead heartbeat. No music.
+- **Audio:** SFX only — holographic tones, a faint dead heartbeat beneath. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 21 — "everything okay?"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The cold lab, a folded recon suit passing between father and daughter.
 - **Characters:** @Stella, @Naio.
-- **Shot/lens:** two-shot; @Naio hands her a suit.
+- **Shot/lens:** two-shot; @Naio presses a suit into her hands.
 - **Camera:** steady, intimate.
-- **Light:** cool clinical.
-- **Action:** @Stella, worried, begins putting on the suit @Naio gives her.
+- **Light:** cool clinical, soft on their faces.
+- **Action:** @Stella takes the suit, confusion crossing her face, beginning to pull it on while searching her father's eyes for reassurance that doesn't come; @Naio's reply is clipped, urgent, gentle.
 - **Dialogue (@Stella):** "Is everything okay?" — **(@Naio):** "Put it on. Quickly."
 - **Mood:** rising fear.
-- **Audio:** SFX only — suit fasteners, hum. No music.
+- **Audio:** SFX only — suit fasteners clicking, low hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 22 — "the King isn't protecting us"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. Close in the cold lab, shadows pooling, the hum of secrets.
 - **Characters:** @Naio, @Stella.
 - **Shot/lens:** close two-shot, @Naio leaning in low.
-- **Camera:** slow push to @Naio.
-- **Light:** cold, half his face in shadow.
-- **Action:** @Naio speaks low, like a forbidden confession.
+- **Camera:** a slow push to @Naio's half-shadowed face.
+- **Light:** cold, one side of his face in darkness.
+- **Action:** @Naio lowers his voice almost to nothing, glancing toward the door, and speaks the forbidden thing aloud for the first time, every word costing him.
 - **Dialogue (@Naio):** "Listen to me. The King isn't protecting us."
 - **Mood:** conspiratorial dread.
-- **Audio:** SFX only — quiet hum, his low voice. No music.
+- **Audio:** SFX only — quiet hum, his low voice, a distant corridor sound. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 23 — "it's dying"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The dead-core projection behind him.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. @Naio framed against the dead-core projection.
 - **Characters:** @Naio, @Stella.
-- **Shot/lens:** medium, @Naio against the projection.
-- **Camera:** subtle push.
-- **Light:** cold, projection glow behind.
-- **Action:** @Naio delivers the truth; @Stella reels.
+- **Shot/lens:** medium, @Naio against the cold projection.
+- **Camera:** a subtle push tightening on his face.
+- **Light:** cold, projection glow behind him.
+- **Action:** @Naio gestures to the dying planet behind him and lands the truth like a stone; @Stella's face crumbles into disbelief, her newly-sealed suit suddenly meaningless against words this big.
 - **Dialogue (@Naio):** "He's eating the planet from the inside. And it's dying."
 - **Mood:** devastating revelation.
-- **Audio:** SFX only — low hum, dead heartbeat under. No music.
+- **Audio:** SFX only — low hum, the faint dead heartbeat beneath. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 24 — "that's why he wants it"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The cold lab between them.
 - **Characters:** @Stella, @Naio.
-- **Shot/lens:** shot-reverse between them.
-- **Camera:** steady.
-- **Light:** cool.
-- **Action:** @Stella protests in disbelief; @Naio answers grimly.
+- **Shot/lens:** shot-reverse between their faces.
+- **Camera:** steady, cutting closer with each line.
+- **Light:** cool, eyes catching the blue light.
+- **Action:** @Stella protests, shaking her head, clinging to what she was taught; @Naio answers low and grim, the simple cruelty of it landing — the thing that gives life is exactly what the King means to steal.
 - **Dialogue (@Stella):** "That's not possible — the Orb gives life to everything." — **(@Naio):** "That's why he wants it."
 - **Mood:** dawning horror.
-- **Audio:** SFX only — hum. No music.
+- **Audio:** SFX only — hum, a held breath. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 25 — la máquina sobre la mano
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella, @Naio.
-- **Props:** @LlaveDeLuz forming in her palm.
-- **Shot/lens:** tight on @Stella's open hand under a device.
-- **Camera:** slow push to the hand.
-- **Light:** the device's light glowing on her palm.
-- **Action:** @Naio activates a machine over @Stella's open hand; a glowing key-sigil burns under her skin; she winces.
-- **Mood:** ritual, sacrifice.
-- **Audio:** SFX only — a rising tone, a soft sizzle, her sharp breath. No music.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. A delicate naiel device unfolding over @Stella's open palm in the cold lab light.
+- **Characters:** @Stella, @Naio. **Props:** @LlaveDeLuz forming in her palm.
+- **Shot/lens:** tight on @Stella's open hand beneath the device.
+- **Camera:** a slow push to the hand as the light builds.
+- **Light:** the device's focused glow blooming across her palm.
+- **Action:** @Naio guides @Stella's open hand under the device; petals of light fold inward and a glowing key-sigil burns itself into the skin of her palm; she sucks in a sharp breath and her fingers twitch, but she holds still, trusting him.
+- **Mood:** ritual, sacrifice, trust.
+- **Audio:** SFX only — a rising tone, a soft searing sizzle, her sharp inhale. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 26 — primerísimo plano: la llave
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella (hand).
-- **Props:** @LlaveDeLuz — glowing key-sigil under the skin of her palm.
-- **Shot/lens:** extreme close-up on the palm.
-- **Camera:** micro push, the sigil pulsing.
-- **Light:** soft inner glow from the sigil.
-- **Action:** the @LlaveDeLuz pulses gently beneath her skin — the lock that defines everything.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. Extreme intimacy — only the palm and its new light in the cold dark.
+- **Characters:** @Stella (hand). **Props:** @LlaveDeLuz — glowing key-sigil under the skin of her palm.
+- **Shot/lens:** extreme close-up of the palm.
+- **Camera:** a micro push, the sigil pulsing under the skin.
+- **Light:** a soft inner glow radiating from the sigil through translucent skin.
+- **Action:** the @LlaveDeLuz pulses gently beneath @Stella's skin like a second small heart, light threading along faint veins — the quiet, fateful lock that the whole story will turn on, shown in a single held breath.
 - **Mood:** intimate, fateful.
-- **Audio:** SFX only — a soft pulsing tone. No music.
+- **Audio:** SFX only — a soft, slow pulsing tone. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 27 — "only our family can touch it"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. Close in the cold lab, the sigil's warm glow held between their hands.
 - **Characters:** @Naio, @Stella.
-- **Shot/lens:** close, @Naio holding her hand closed.
-- **Camera:** steady intimate.
-- **Light:** cool with the sigil's warm glow between their hands.
-- **Action:** @Naio closes her fingers over the sigil and explains.
+- **Shot/lens:** close, @Naio folding her fingers shut over the sigil.
+- **Camera:** steady, intimate.
+- **Light:** cool, with the warm sigil-glow pooling between their hands.
+- **Action:** @Naio closes @Stella's fingers gently over the glowing mark and holds her fist in both of his, explaining the bond in a low, careful voice that makes it sound less like science and more like a vow.
 - **Dialogue (@Naio):** "The Orb is our blood, Stella. Only our family can touch it."
-- **Mood:** solemn.
-- **Audio:** SFX only — quiet hum. No music.
+- **Mood:** solemn, sacred.
+- **Audio:** SFX only — quiet hum, his low voice. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 28 — "only you could ever use it"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The cold lab, the world narrowed to a father's face and a daughter's eyes.
 - **Characters:** @Naio, @Stella.
-- **Shot/lens:** close on @Stella's eyes as it lands.
-- **Camera:** slow push to her face.
-- **Light:** cool, eyes catching light.
-- **Action:** @Naio looks her dead in the eyes; the weight settles on @Stella.
+- **Shot/lens:** close on @Stella's eyes as the weight lands.
+- **Camera:** a slow push to her face.
+- **Light:** cool, her eyes catching a glint of light.
+- **Action:** @Naio holds her gaze without blinking, pressing the truth into her like a seal; @Stella's eyes widen as the size of it settles — she is not just carrying the Orb, she is the only one who can ever wield it.
 - **Dialogue (@Naio):** "Once it's inside you, only you could ever use it. No one else."
 - **Mood:** fateful, heavy.
 - **Audio:** SFX only — hum, a held breath. No music.
@@ -402,115 +392,115 @@
 
 ### CLIP 29 — la bebé llora
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaBebe (grey-blue eyes) (crying in a floating cradle), @Stella moving to her.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. A floating cradle in the cold lab, a small pocket of softness amid the instruments.
+- **Characters:** @SelkaBebe (grey-blue eyes), @Stella.
 - **Shot/lens:** medium; @Stella crosses to the cradle.
-- **Camera:** follow her to the baby.
-- **Light:** cool, softening near the cradle.
-- **Action:** @SelkaBebe wakes and cries; @Stella drops everything and goes to her, big-sister instinct.
+- **Camera:** a follow to the baby, the tension momentarily breaking.
+- **Light:** cool, softening to warmth near the cradle.
+- **Action:** @SelkaBebe stirs and breaks into a thin cry; without a thought @Stella abandons the gravity of the moment and goes straight to her little sister, the older-sister instinct overriding everything else in the room.
 - **Mood:** tenderness amid dread.
-- **Audio:** SFX only — baby crying, soft footsteps. No music.
+- **Audio:** SFX only — baby crying, soft hurried footsteps. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 30 — EL JUEGO DE LA LUZ (semilla)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. Over the cradle, the one warm light in the cold lab coming from Gix's spark.
 - **Characters:** @Stella, @SelkaBebe (grey-blue eyes), @Gix.
-- **Shot/lens:** intimate close two-shot, the sisters' faces.
-- **Camera:** slow gentle push.
-- **Light:** warm glow from Gix's spark, the one warm light in the cold lab.
-- **Action:** @Stella cups her palm; a spark of @Gix dances in it like a firefly; she presses her forehead to the baby's; @SelkaBebe calms. **This gesture is the seed that pays off at the climax.**
-- **Mood:** pure love, fragile.
-- **Audio:** SFX only — soft chime, the baby quieting, a breath. No music.
+- **Shot/lens:** intimate close two-shot of the sisters' faces.
+- **Camera:** a slow, gentle push.
+- **Light:** warm firefly glow from @Gix, the lab's cold blue pushed to the edges.
+- **Action:** @Stella cups her palm and a spark of @Gix drops into it, dancing like a captured firefly; she leans down and presses her forehead softly to the baby's, and both sisters smile — the crying stops. **This exact gesture is the seed that detonates at the climax; render it clearly and warmly.**
+- **Mood:** pure love, fragile, the heart of the film.
+- **Audio:** SFX only — a soft chime, the baby quieting, a small shared breath. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 31 — la sonrisa de las hermanas (sostenida)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. Held close on the two faces, the warm spark between them, the cold room forgotten.
 - **Characters:** @Stella, @SelkaBebe (grey-blue eyes).
-- **Shot/lens:** sustained tender close-up of both sisters smiling, foreheads together.
-- **Camera:** held, almost still.
-- **Light:** warm Gix glow on their faces.
-- **Action:** the two sisters smile at each other — **the image to remember; it returns at the throne.**
-- **Mood:** the heart of the film, held a beat too long.
-- **Audio:** SFX only — a soft warm chime, quiet. No music.
+- **Shot/lens:** sustained tender close-up, foreheads together, both smiling.
+- **Camera:** nearly still, barely breathing.
+- **Light:** warm Gix glow filling both faces.
+- **Action:** the camera holds — too long, on purpose — on the two sisters smiling forehead to forehead, the baby's small hand reaching for Stella's nose; the single image the entire film will ask us to remember.
+- **Mood:** love, dramatic irony, the calm before everything breaks.
+- **Audio:** SFX only — a soft warm chime, quiet breathing. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 32 — pasos acercándose
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The cold lab, a shadow shifting at the corridor mouth beyond the door.
 - **Characters:** @Naio, @Vera (grey-blue eyes).
-- **Shot/lens:** medium; the parents' heads turn toward the door.
-- **Camera:** snap of tension, slight push to the door.
-- **Light:** cold; a shadow shifting at the corridor.
-- **Action:** approaching footsteps; @Naio and @Vera exchange a look — time's up.
+- **Shot/lens:** medium; the parents' heads snap toward the door.
+- **Camera:** a sharp tension-push toward the door and the moving shadow.
+- **Light:** cold; a hard shadow growing across the threshold.
+- **Action:** the warmth shatters as heavy approaching footsteps echo down the corridor; @Naio and @Vera exchange one fast, wordless look that says the time they were dreading has arrived.
 - **Mood:** dread spiking.
-- **Audio:** SFX only — approaching boots, the hum darkening. No music.
+- **Audio:** SFX only — approaching boots, the hum darkening, a low pulse. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 33 — "never let him have it" + abrazo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The cold lab, a tight family knot pulled close against the coming danger.
 - **Characters:** @Naio, @Stella, @Vera (grey-blue eyes), @SelkaBebe (grey-blue eyes).
-- **Shot/lens:** close family huddle, hands on faces.
-- **Camera:** intimate, slight handheld.
-- **Light:** cold around a pocket of warmth.
-- **Action:** @Naio grips @Stella's face, urgent; a short three-way embrace.
+- **Shot/lens:** close family huddle, hands gripping faces and shoulders.
+- **Camera:** intimate, a slight nervous handheld.
+- **Light:** cold around a small pocket of held warmth.
+- **Action:** @Naio takes @Stella's face in both hands, fierce and fast, pressing the command into her; the four of them fold into one brief, crushing embrace, @SelkaBebe pressed between them, before they break apart with the footsteps almost at the door.
 - **Dialogue (@Naio):** "Take Selka. Go for the Orb. Whatever happens — never let him have it. I'll hold them."
-- **Mood:** terror and love.
-- **Audio:** SFX only — urgent whispers, footsteps closing. No music.
+- **Mood:** terror and love at once.
+- **Audio:** SFX only — urgent whispers, footsteps closing, baby's small sounds. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 34 — entra Vorthan
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vorthan (friendly smile), @RobotImperial soldiers behind him filling the doorway.
-- **Shot/lens:** wide low-angle on @Vorthan in the doorway, robots as a shadow behind.
-- **Camera:** slow push to his calm smile.
-- **Light:** he is backlit, a silhouette resolving into a smile.
-- **Action:** the door opens; @Vorthan enters with the warmth of an old friend, soldiers behind.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The lab doorway filled by a tall silhouette, robot soldiers banked behind him like a wall of shadow.
+- **Characters:** @Vorthan (warm friendly smile); @RobotImperial soldiers crowding the doorway behind.
+- **Shot/lens:** wide low-angle on @Vorthan in the doorway, the robots as a dark mass behind.
+- **Camera:** a slow push to his calm, friendly smile.
+- **Light:** he enters backlit, a silhouette resolving into that disarming smile.
+- **Action:** the door opens and @Vorthan steps in with the easy warmth of a family friend dropping by, spreading his hands, the faceless @RobotImperial units filling the frame behind him — menace dressed as affection.
 - **Dialogue (@Vorthan):** "Naio. Old friend. You knew this day would come."
 - **Mood:** charming menace.
-- **Audio:** SFX only — door, heavy robot footsteps, his soft voice. No music.
+- **Audio:** SFX only — door, heavy robot footfalls settling, his soft warm voice. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 35 — Naio derribado / "DAD!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The cold lab erupting into motion, a force-field flaring blue-white.
 - **Characters:** @Naio, @Vorthan, @Stella, @Vera (grey-blue eyes).
-- **Shot/lens:** dynamic wide; @Naio interposes, a force-field flares, @Vorthan strikes him down.
-- **Camera:** quick whip + push as @Stella screams.
-- **Light:** the force-field's flash, then cold again.
-- **Action:** @Naio throws up a force-field; @Vorthan drops him with a single energy strike (no blood); @Vera yanks @Stella away.
+- **Shot/lens:** dynamic wide; @Naio steps between them, a shield flares, @Vorthan strikes him down.
+- **Camera:** a quick whip-pan and push as @Stella screams.
+- **Light:** the force-field's bright flash, then the cold returning.
+- **Action:** @Naio throws himself forward and snaps up a crackling force-field to buy seconds; @Vorthan, almost gently, swats it apart and drops @Naio with a single pulse of energy (no blood, no wound); @Stella lunges with a scream as @Vera hauls her bodily toward the back exit.
 - **Dialogue (@Stella):** "DAD!"
 - **Mood:** the family shattering.
-- **Audio:** SFX only — energy field hum, a concussive thud, Stella's scream. No music.
+- **Audio:** SFX only — force-field hum, a concussive thud, Stella's scream. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ---
 
-# SEC. 4 — Pasillos del palacio
+## SECUENCIA 4 — ESCENA: Pasillos del palacio (la huida) · *(clips 36-41)*
 
 ### CLIP 36 — la huida por el pasillo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Tall golden corridors under red alert glow.
-- **Characters:** @Vera (grey-blue eyes) (carrying @SelkaBebe (grey-blue eyes)), @Stella.
-- **Shot/lens:** tracking wide running toward camera.
-- **Camera:** fast Steadicam retreat ahead of them.
-- **Light:** gold washed with pulsing red alarm.
-- **Action:** @Vera and @Stella sprint, baby clutched to @Vera's chest, robot drones humming behind.
+- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Tall ornate corridors of gold and pale stone, banners hanging still, everything strobed by pulsing red alert light and long thrown shadows.
+- **Characters:** @Vera (grey-blue eyes) carrying @SelkaBebe (grey-blue eyes), @Stella.
+- **Shot/lens:** tracking wide, the two running straight toward camera.
+- **Camera:** a fast Steadicam retreat ahead of them down the corridor.
+- **Light:** gold washed over with throbbing red, shadows sweeping past.
+- **Action:** @Vera and @Stella sprint down the grand corridor, @SelkaBebe clutched tight to Vera's chest, banners and gilded arches flashing past in pulses of red, the low hum of robot drones swelling somewhere behind them.
 - **Mood:** panic, momentum.
-- **Audio:** SFX only — running, alarm, distant robot hum. No music.
+- **Audio:** SFX only — pounding footsteps, alarm, distant robot hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 37 — "nothing matters more than that Orb"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The red-strobed corridor blurring past as they run.
 - **Characters:** @Vera (grey-blue eyes), @Stella, @SelkaBebe (grey-blue eyes).
-- **Shot/lens:** running two-shot, profiles.
-- **Camera:** lateral tracking with them.
-- **Light:** red alert wash.
-- **Action:** @Vera, breathless, lays down the cruel truth as they run.
+- **Shot/lens:** running two-shot, profiles side by side.
+- **Camera:** lateral tracking locked to them.
+- **Light:** red alert wash sweeping over their faces.
+- **Action:** @Vera, breathless and fierce, turns her head to @Stella mid-stride and lays down the brutal law of the night — the Orb above all, above even the people running beside her — the words landing harder than the alarm.
 - **Dialogue (@Vera):** "Nothing matters more than that Orb. Not me. Not your sister."
 - **Mood:** brutal love.
 - **Audio:** SFX only — breathless running, alarm. No music.
@@ -518,653 +508,654 @@
 
 ### CLIP 38 — "take care of Selka"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The corridor, red light flaring over running faces.
 - **Characters:** @Stella, @Vera (grey-blue eyes).
-- **Shot/lens:** close on @Stella's wet eyes, then @Vera's impossible smile.
-- **Camera:** tight tracking.
-- **Light:** red wash, eyes shining.
-- **Action:** @Stella, eyes full, answers; @Vera gives her an impossible, loving smile mid-run.
+- **Shot/lens:** close on @Stella's wet eyes, cutting to @Vera's impossible smile.
+- **Camera:** tight tracking on their faces.
+- **Light:** red wash, eyes shining wet.
+- **Action:** @Stella answers through brimming tears, jaw set; @Vera meets her with a smile that has no business existing in this moment — a mother's reassurance offered while sprinting for their lives.
 - **Dialogue (@Stella):** "I understand. Just take care of Selka."
 - **Mood:** heartbreak in motion.
-- **Audio:** SFX only — running, alarm, ragged breath. No music.
+- **Audio:** SFX only — running, alarm, a ragged breath. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 39 — "get to the ship"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. A branching of the grand corridor, red light and far-off impacts.
 - **Characters:** @Vera (grey-blue eyes), @Stella.
-- **Shot/lens:** running two-shot.
-- **Camera:** tracking, urgency.
+- **Shot/lens:** running two-shot, Vera pointing ahead.
+- **Camera:** tracking with urgency.
 - **Light:** red wash.
-- **Action:** @Vera shouts the plan as they run.
+- **Action:** @Vera flings out an arm toward a far junction as they run, shouting the escape plan over the rising alarm, her certainty the only thing holding the moment together.
 - **Dialogue (@Vera):** "Whatever happens, get to the ship — the exit by the park."
 - **Mood:** desperate resolve.
-- **Audio:** SFX only — running, alarm rising. No music.
+- **Audio:** SFX only — running, alarm rising, distant crashes. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 40 — pelean avanzando
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. A corridor wall bursting inward, robots pouring through dust and red light.
 - **Characters:** @Vera (grey-blue eyes) (one arm shielding @SelkaBebe (grey-blue eyes)), @Stella, @RobotImperial drones.
-- **Shot/lens:** dynamic wide; a wall bursts, robots pour in.
-- **Camera:** energetic handheld through the fight.
-- **Light:** sparks and red alarm.
-- **Action:** a wall explodes; @RobotImperial units attack; @Vera and @Stella fight through while advancing (energy strikes, no firearms).
+- **Shot/lens:** dynamic wide; a wall explodes, robots flood in.
+- **Camera:** energetic handheld weaving through the fight.
+- **Light:** sparks, dust, pulsing red.
+- **Action:** a wall blows inward and faceless @RobotImperial units swarm; @Vera fights one-armed with the baby pinned to her chest while @Stella ducks and strikes with quick agile bursts (energy and motion, no firearms), the two carving a desperate path forward through the chaos.
 - **Mood:** chaos, forward drive.
-- **Audio:** SFX only — wall blast, energy clashes, robot servos. No music.
+- **Audio:** SFX only — wall blast, energy clashes, robot servos, baby cry. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 41 — las puertas de la Sala del Orbe
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Huge ornate doors to @SalaDelOrbe at the corridor's end.
+- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The corridor's end: enormous ornate doors to @SalaDelOrbe, warm golden light bleeding through their seam against the cold red of the hall.
 - **Characters:** @Vera (grey-blue eyes), @Stella.
-- **Shot/lens:** wide; they reach the towering doors.
-- **Camera:** push toward the opening doors, a glow spilling out.
-- **Light:** warm Orb glow leaking from the seam.
-- **Action:** they reach the great doors of the Orb chamber; light spills through.
-- **Mood:** threshold, awe.
-- **Audio:** SFX only — heavy doors, a swelling warm hum. No music.
+- **Shot/lens:** wide; the two reach the towering doors.
+- **Camera:** a push toward the opening doors and the warm glow spilling out.
+- **Light:** red corridor giving way to warm Orb-glow leaking from the seam.
+- **Action:** @Vera and @Stella skid up to the colossal doors of the Orb chamber; the doors part with a deep resonant groan and a flood of warm sacred light pours over their faces — the goal, finally in reach.
+- **Mood:** threshold, awe, fragile hope.
+- **Audio:** SFX only — heavy doors grinding open, a swelling warm hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ---
 
-# SEC. 5 — La sala del Orbe / la caída de Vera
+## SECUENCIA 5 — ESCENA: La sala del Orbe (la caída de Vera) · *(clips 42-56)*
 
 ### CLIP 42 — establishing de la Sala del Orbe
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Immense cathedral-scale chamber; @Orbe suspended at center, pulsing like a second heart.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. A cathedral-scale chamber of pale luminous stone whose ceiling dissolves into golden haze; concentric naiel arches veined with living luzagua, a polished obsidian-gold floor mirroring the sphere above, thin waterfalls of light down the columns, luminous pollen drifting in shafts of god-light.
 - **Props:** @Orbe.
 - **Shot/lens:** vast wide of the chamber and the floating Orb.
-- **Camera:** slow reverent crane.
-- **Light:** the Orb bathes the room in warm sacred light.
-- **Action:** reveal the Orb chamber in its full, holy scale.
-- **Mood:** sacred, immense.
-- **Audio:** SFX only — a deep resonant hum, the Orb's pulse. No music.
+- **Camera:** a slow reverent crane up and forward across the mirror-floor.
+- **Light:** the @Orbe bathes the hall in warm sacred light, rings of glow rippling outward.
+- **Action:** the camera glides into the immense holy chamber, the mirrored floor doubling everything, and rises toward the @Orbe hanging weightless at the center — a sphere of liquid light slowly turning, exhaling rings of glow across the arches with each pulse, dwarfing the tiny figures entering below.
+- **Mood:** sacred, immense, alive.
+- **Audio:** SFX only — a deep resonant hum, the Orb's slow heartbeat-pulse. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 43 — entran / revelación del Orbe
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The luminous hall, the @Orbe glowing ahead across the mirror-floor.
 - **Characters:** @Vera (grey-blue eyes), @Stella. **Props:** @Orbe.
-- **Shot/lens:** wide as they burst in, the Orb ahead.
-- **Camera:** push in with them toward the Orb.
-- **Light:** Orb glow on their faces.
-- **Action:** @Vera and @Stella enter; the @Orbe pulses ahead of them.
-- **Mood:** goal in sight.
-- **Audio:** SFX only — doors, breathless arrival, Orb hum. No music.
+- **Shot/lens:** wide as they burst in, the Orb framed ahead.
+- **Camera:** a push-in with them toward the sphere.
+- **Light:** Orb-glow rising over their faces as they near.
+- **Action:** @Vera and @Stella stumble through the great doors into the radiance, the @Orbe pulsing ahead of them like a second sun; for a breath the chaos behind is forgotten in the sheer presence of the thing they came to save.
+- **Mood:** goal in sight, awe under pressure.
+- **Audio:** SFX only — doors, breathless arrival, the swelling Orb hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 44 — Vorthan entra por el lado opuesto
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vorthan (opposite side), @Vera (grey-blue eyes), @Stella.
-- **Shot/lens:** wide symmetrical; the family on one side, @Vorthan entering opposite, the Orb between.
-- **Camera:** slow lateral, holding the standoff.
-- **Light:** Orb light splitting the room between them.
-- **Action:** @Vorthan enters from the far side at the same moment — a held, breath-held stare across the chamber.
-- **Mood:** the race about to break.
-- **Audio:** SFX only — a tense low drone, the Orb pulse. No music.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast hall, the Orb's light splitting the space between two far doorways.
+- **Characters:** @Vorthan (opposite side), @Vera (grey-blue eyes), @Stella. **Props:** @Orbe.
+- **Shot/lens:** wide symmetrical; the family at one side, @Vorthan entering opposite, the Orb suspended between.
+- **Camera:** a slow lateral move holding the standoff.
+- **Light:** the Orb's glow divides the chamber, each side half-lit.
+- **Action:** across the immense floor, a far door opens and @Vorthan steps in at the very same moment, unhurried, hands folded; the two parties freeze, separated by the glowing Orb — one held, suspended breath before the race detonates.
+- **Mood:** the race coiled, about to spring.
+- **Audio:** SFX only — a tense low drone, the Orb pulse, a single distant alarm. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 45 — STAGING TEMÁTICO (la elección)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The symmetrical heart of the chamber, the Orb on one side, the mother on the other, the daughter caught between.
 - **Characters:** @Stella (center), @Vera (grey-blue eyes) (one side), @Orbe (other side).
 - **Shot/lens:** symmetrical wide composition — @Stella centered, the @Orbe on one side, her mother on the other; the visual of her impossible choice (duty vs love).
-- **Camera:** held, balanced; almost still.
-- **Light:** Orb-warm on one side, @Vera lit on the other.
-- **Action:** @Stella stands caught between the Orb and her mother — the thematic image of the whole film.
+- **Camera:** held, balanced, almost motionless.
+- **Light:** Orb-warm on one side of her, @Vera's softer light on the other, @Stella split between the two.
+- **Action:** the staging itself tells it: @Stella stands dead center of the great hall, the @Orbe glowing to her left, @Vera to her right, her body torn between the duty her father gave her and the mother she loves — the thematic image of the entire film, held in perfect, terrible balance.
 - **Mood:** the dilemma, crystallized.
-- **Audio:** SFX only — low drone, two competing pulses. No music.
+- **Audio:** SFX only — low drone, two competing pulses (Orb and heartbeat). No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 46 — "go for the Orb! NOW!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The luminous hall snapping into motion, Orb glowing ahead.
 - **Characters:** @Vera (grey-blue eyes), @Stella. **Props:** @Orbe.
-- **Shot/lens:** @Vera shouting, @Stella breaking into a sprint toward the Orb.
-- **Camera:** snap-pan from @Vera to @Stella running.
-- **Light:** Orb glow ahead.
-- **Action:** @Vera screams the order; @Stella bolts for the @Orbe.
+- **Shot/lens:** @Vera shouting, snap to @Stella breaking into a sprint toward the Orb.
+- **Camera:** a snap-pan from @Vera to @Stella exploding into a run.
+- **Light:** Orb-glow flaring ahead of her.
+- **Action:** @Vera screams the order and shoves Stella forward; @Stella bolts across the mirror-floor toward the @Orbe, the standoff shattering into desperate speed.
 - **Dialogue (@Vera):** "Go for the Orb! NOW!"
 - **Mood:** ignition.
-- **Audio:** SFX only — shout, running, Orb hum. No music.
+- **Audio:** SFX only — the shout, pounding running steps, Orb hum spiking. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 47 — robots sobre Vera
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The radiant hall, robot shadows cutting across the warm Orb-light.
 - **Characters:** @Vera (grey-blue eyes) (shielding @SelkaBebe (grey-blue eyes)), @RobotImperial units.
-- **Shot/lens:** dynamic medium; @Vera fighting one-armed, baby shielded.
-- **Camera:** handheld with the struggle.
-- **Light:** Orb warmth cut by robot shadows.
-- **Action:** @RobotImperial units close on @Vera; she fights protecting @SelkaBebe, unable to follow @Stella.
-- **Mood:** trapped, fierce.
-- **Audio:** SFX only — energy clashes, servos, baby cry. No music.
+- **Shot/lens:** dynamic medium; @Vera fighting one-armed, the baby shielded against her.
+- **Camera:** handheld locked to her struggle.
+- **Light:** warm Orb-light slashed by hard robot shadows.
+- **Action:** @RobotImperial units converge on @Vera; she fights savagely with one arm while the other cradles @SelkaBebe, kicking and twisting to keep the baby clear, unable to follow her daughter across the hall.
+- **Mood:** trapped, ferocious.
+- **Audio:** SFX only — energy clashes, servos, the baby's cry. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 48 — entra S1G1
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The bright hall, a darker shape entering that seems to drink the light around it.
 - **Characters:** @S1G1, @Vera (grey-blue eyes).
-- **Shot/lens:** low menacing wide as @S1G1 strides in; @Vera's dawning realization.
-- **Camera:** slow push to @S1G1's single optic, then to @Vera's face.
-- **Light:** @S1G1 darker than everything, swallowing Orb light.
-- **Action:** the dark assassin @S1G1 enters, silent and fast; @Vera understands this is an execution.
+- **Shot/lens:** low menacing wide as @S1G1 strides in; cut to @Vera's dawning realization.
+- **Camera:** a slow push to @S1G1's single glowing optic, then to @Vera's face.
+- **Light:** @S1G1 is matte-dark, swallowing the warm Orb-light, a single cold optic burning.
+- **Action:** the dark assassin @S1G1 walks in slow and silent where the other robots are loud, its one optic fixing on @Vera; her face changes as she understands — this is not a fight to win, it is an execution sent for her.
 - **Mood:** doom arriving.
-- **Audio:** SFX only — a low predatory servo whine, silence around it. No music.
+- **Audio:** SFX only — a low predatory servo whine, an unnatural quiet around it. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 49 — esconde a la bebé, se planta
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. A sheltered alcove in the great wall, warm light pooling around the hidden baby.
 - **Characters:** @Vera (grey-blue eyes), @SelkaBebe (grey-blue eyes), @S1G1.
-- **Shot/lens:** medium; @Vera tucks the baby into a safe niche, then squares up.
-- **Camera:** settle as she plants her stance.
+- **Shot/lens:** medium; @Vera tucks the baby into a safe niche, then turns and plants her stance.
+- **Camera:** a settle as she squares up.
 - **Light:** baby in a pocket of warm light, @S1G1 a shadow opposite.
-- **Action:** @Vera hides @SelkaBebe safely in a panel niche and stands to face @S1G1.
+- **Action:** @Vera kisses @SelkaBebe's forehead and tucks her deep into a recessed panel, out of the line of danger, then rises and turns to face @S1G1 alone, planting her feet between the machine and her child.
 - **Mood:** a mother's last stand.
-- **Audio:** SFX only — baby whimper, Vera's breath, servo whine. No music.
+- **Audio:** SFX only — baby whimper, Vera's steadying breath, the servo whine. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 50 — Vera vs S1G1 / la derriba
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The luminous hall as a duelling ground, Orb-light flickering with the violence.
 - **Characters:** @Vera (grey-blue eyes), @S1G1.
-- **Shot/lens:** dynamic combat wide; @Vera gives everything; @S1G1 overpowers her.
-- **Camera:** kinetic handheld, then a hard beat as she's struck down by an energy blast.
-- **Light:** energy flashes, no blood.
-- **Action:** @Vera fights with all she has; @S1G1 knocks her down with an energy wave (no blood, no wound).
-- **Mood:** losing battle.
-- **Audio:** SFX only — energy impacts, a heavy fall. No music.
+- **Shot/lens:** dynamic combat wide; @Vera gives everything, @S1G1 overpowers her.
+- **Camera:** kinetic handheld through the exchange, then a hard beat as she's struck down.
+- **Light:** energy flashes lighting the arches, no blood.
+- **Action:** @Vera throws herself at @S1G1 with everything she has — strikes, a snatched weapon, raw desperation — but the machine is faster and stronger; with a single sweeping energy-wave it knocks her off her feet and she crashes to the mirror-floor, unhurt-looking but beaten.
+- **Mood:** a losing battle.
+- **Audio:** SFX only — energy impacts, ringing blows, a heavy fall. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 51 — "STELLA, RUN!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Low over the mirror-floor where @Vera has fallen, the baby's niche glowing nearby.
 - **Characters:** @Vera (grey-blue eyes) (down), @SelkaBebe (grey-blue eyes).
-- **Shot/lens:** low on @Vera fallen, reaching, the baby beneath her.
-- **Camera:** push to her face as she screams.
-- **Light:** Orb glow on her desperate face.
-- **Action:** @Vera, falling, covers @SelkaBebe with her body and screams.
+- **Shot/lens:** low on @Vera fallen, reaching out, the baby's niche beyond.
+- **Camera:** a push to her face as she screams.
+- **Light:** Orb-glow on her desperate, upturned face.
+- **Action:** sprawled on the floor, @Vera shoves herself up on one arm, flinging the other toward her daughter across the hall, and screams with everything left in her — the command and the goodbye fused into one word.
 - **Dialogue (@Vera):** "STELLA, RUN!"
 - **Mood:** maternal desperation.
-- **Audio:** SFX only — her scream, baby cry. No music.
+- **Audio:** SFX only — her raw scream, the baby's cry. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 52 — Stella se da vuelta (rompe la regla)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Right at the Orb's pedestal, its radiance washing over @Stella's reaching hand.
 - **Characters:** @Stella. **Props:** @Orbe (within reach).
-- **Shot/lens:** @Stella three steps from the Orb, hand out — then she turns back toward her mother.
-- **Camera:** a held beat, then whip as she reverses direction.
-- **Light:** Orb glow on her outstretched hand.
-- **Action:** @Stella, fingertips from the @Orbe, turns away from it and runs back toward @Vera — breaking the one rule, for love.
+- **Shot/lens:** @Stella three steps from the Orb, hand outstretched — then she turns back toward her mother.
+- **Camera:** a held beat on the reaching hand, then a whip as she reverses.
+- **Light:** Orb-glow blazing on her outstretched fingertips.
+- **Action:** @Stella's fingers are a breath from the @Orbe, its light flooding her hand — and then she looks back, sees her mother down and her sister's niche, and turns away from the Orb entirely, sprinting back toward @Vera, breaking the one rule her father gave her for the love she can't override.
 - **Mood:** the choice, made wrong-but-human.
-- **Audio:** SFX only — her gasp, footsteps reversing. No music.
+- **Audio:** SFX only — her gasp, footsteps skidding and reversing, Orb hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 53 — Vorthan la atrapa por la trenza
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The center of the hall, cold and warm light meeting where the King stands.
 - **Characters:** @Vorthan, @Stella.
-- **Shot/lens:** @Vorthan catches @Stella by her long braid, lifting her dangling.
-- **Camera:** push to his cruel calm, then to her kicking feet.
-- **Light:** cold on him, warm Orb behind.
-- **Action:** @Vorthan seizes @Stella by the braid and holds her hanging; he laughs softly.
+- **Shot/lens:** @Vorthan catches @Stella by her long braid and lifts her dangling.
+- **Camera:** a push to his cruel calm, then down to her kicking feet.
+- **Light:** cold on @Vorthan, warm Orb-glow behind.
+- **Action:** @Vorthan's hand closes around @Stella's long white braid and hoists her off the floor, leaving her swinging and clawing at the air; he studies her struggle with serene, almost affectionate cruelty and speaks softly.
 - **Dialogue (@Vorthan):** "So like your mother. Running toward what she loves."
 - **Mood:** cruel, intimate menace.
-- **Audio:** SFX only — his low laugh, her struggling. No music.
+- **Audio:** SFX only — his low laugh, her grunting struggle, fabric and hair tension. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 54 — primer plano: Stella colgada
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Tight on @Stella, the great hall blurred behind her.
 - **Characters:** @Stella.
-- **Shot/lens:** tight close-up of @Stella's face, hung by the hair, crying, unable to break free.
-- **Camera:** slow push to her tears.
-- **Light:** Orb-warm tears, cold around.
-- **Action:** @Stella's face — rage and helplessness — as she dangles, watching the unthinkable about to happen.
+- **Shot/lens:** tight close-up of @Stella's face, hung by the hair, tears flying, unable to break free.
+- **Camera:** a slow push into her anguish.
+- **Light:** Orb-warm catching her tears, cold around the edges.
+- **Action:** held tight on @Stella's face — teeth bared, tears torn loose and floating in the charged air, hands wrenching uselessly at the braid that holds her — pure rage and helplessness as she's forced to watch what comes next.
 - **Mood:** anguish.
-- **Audio:** SFX only — her sobbing breath. No music.
+- **Audio:** SFX only — her sobbing, straining breath. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 55 — el escudo / la luz se apaga / "MOM!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The luminous hall, a shield of light blooming around the hanging girl, a dark machine behind the fallen mother.
 - **Characters:** @Vera (grey-blue eyes), @Stella, @S1G1.
-- **Shot/lens:** @Vera on the floor raising her hands → a light shield wraps @Stella; behind @Vera, @S1G1 lowers a light-lance; a flash crosses her chest and her glow goes out.
-- **Camera:** wide to catch the shield + the killing light, then to Stella's scream. **Death shown as her vital light extinguishing — no blood, no wound.**
-- **Light:** the shield blooms; @Vera's inner light snuffs to grey.
-- **Action:** @Vera shields @Stella as @S1G1's light-lance extinguishes @Vera's glow; @Stella screams.
+- **Shot/lens:** wide catching @Vera's raised hands and the shield around @Stella, with @S1G1's light-lance descending behind @Vera; cut to Stella's scream.
+- **Camera:** a wide that holds the shield and the killing light, then a snap to Stella. **Death shown as her vital glow extinguishing — no blood, no wound.**
+- **Light:** the shield blooms warm around Stella; @Vera's own inner light snuffs from gold to grey.
+- **Action:** from the floor @Vera throws her hands up and a warm shield of light wraps protectively around @Stella; in the same instant, behind her, @S1G1 lowers a lance of light and a single flash passes through @Vera — her glow goes out like a snuffed flame, no blood, only light leaving her — and @Stella's scream tears across the hall.
 - **Dialogue (@Stella):** "MOM!"
 - **Mood:** devastation.
-- **Audio:** SFX only — shield hum, a single sharp light-strike, Stella's scream. No music.
+- **Audio:** SFX only — shield hum, a single sharp light-strike, Stella's ripping scream. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 56 — "run" / corta la trenza
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The same vast hall, grand and fading, scorch-light flickering, the @Orbe throbbing anxiously in the background.
 - **Characters:** @Vera (grey-blue eyes) (dying in light), @Stella. **Props:** @CuchilloLaser.
-- **Shot/lens:** @Vera mouths "run" as her light fades; @Stella draws the @CuchilloLaser and cuts her braid, dropping free.
-- **Camera:** intercut close — mother's fading face / the braid severed by light.
-- **Light:** @Vera's glow gone; the light-blade flares.
-- **Action:** @Vera whispers "Run"; @Stella slices through her braid with the light-blade and falls free as the shield dies.
+- **Shot/lens:** fractured intercutting — @Vera's fading face mouthing a word / @Stella severing her braid with the light-blade.
+- **Camera:** tight intercut, the two actions braided together.
+- **Light:** @Vera's glow gone to grey; the light-blade flares white.
+- **Action:** @Vera, the last of her light guttering out, shapes the word "Run" with no breath behind it; above, @Stella drags the @CuchilloLaser to the nape of her neck and a clean line of white light parts her white braid in a single stroke — the severed plait drifts away as she drops free and the protective shield dies with the last of @Vera's glow. No blood — only light leaving a body.
 - **Dialogue (@Vera, faint):** "Run."
 - **Mood:** grief turned to survival.
-- **Audio:** SFX only — the light-blade snap, the braid parting, a body falling. No music.
+- **Audio:** SFX only — the light-blade snap, the braid parting, a soft final fall. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ---
 
-# SEC. 6 — Toma el Orbe / huida por el ducto
+## SECUENCIA 6 — ESCENA: Toma el Orbe / huida por el ducto · *(clips 57-65)*
 
 ### CLIP 57 — corre al Orbe
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The luminous hall, the @Orbe glowing at its pedestal, a robot lunging in her path.
 - **Characters:** @Stella, @RobotImperial. **Props:** @Orbe.
-- **Shot/lens:** tracking @Stella sprinting to the Orb, dodging a robot.
-- **Camera:** fast follow.
-- **Light:** Orb glow pulling her forward.
-- **Action:** broken but moving, @Stella runs to the @Orbe, dodging a @RobotImperial.
+- **Shot/lens:** tracking @Stella sprinting to the Orb, ducking a robot.
+- **Camera:** a fast follow weaving with her.
+- **Light:** Orb-glow pulling her forward through the gloom.
+- **Action:** broken and tear-streaked but moving on instinct, @Stella sprints back across the mirror-floor toward the @Orbe, sliding under a @RobotImperial's grab and scrambling up without breaking stride, eyes locked on the sphere.
 - **Mood:** desperate drive.
-- **Audio:** SFX only — running, servos, Orb hum. No music.
+- **Audio:** SFX only — running, a robot's grab missing, servos, Orb hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 58 — toma el Orbe
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. At the Orb's pedestal, light flooding outward as it meets her hand.
 - **Characters:** @Stella. **Props:** @Orbe, @LlaveDeLuz.
-- **Shot/lens:** close on her hand closing around the Orb; the palm-key igniting.
-- **Camera:** push as the Orb shrinks and integrates into her hand.
-- **Light:** brilliant flare as Orb meets the sigil.
-- **Action:** @Stella seizes the @Orbe; the @LlaveDeLuz ignites; the Orb integrates into her palm.
+- **Shot/lens:** close on her hand closing around the Orb, the palm-key igniting.
+- **Camera:** a push as the Orb shrinks and pours into her hand.
+- **Light:** a brilliant flare where the Orb meets the @LlaveDeLuz sigil.
+- **Action:** @Stella's hand closes around the @Orbe; the @LlaveDeLuz blazes awake in her palm and the great sphere collapses inward, streaming as liquid light into her hand until it pulses there beneath her skin — power and grief sealed together in one stroke.
 - **Mood:** power, fate sealed.
-- **Audio:** SFX only — a rising surge, a bright chime. No music.
+- **Audio:** SFX only — a rising surge, a bright ringing chime. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 59 — insert: "MAX"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Extreme close on her wrist, the hall blurred to warm bokeh behind.
 - **Characters:** @Stella (wrist). **Props:** @MonitorMAX.
 - **Shot/lens:** extreme close-up of the wrist monitor's bar filling to "MAX".
-- **Camera:** micro push on the readout.
-- **Light:** the monitor's glow.
-- **Action:** the @MonitorMAX charge bar fills and reads **MAX** — the clock that returns at the climax.
+- **Camera:** a micro push on the readout.
+- **Light:** the monitor's glow surging brighter as the bar tops out.
+- **Action:** on @Stella's wrist the @MonitorMAX charge-bar floods from empty to full in a rush of light and locks at **MAX**, the readout pulsing — the clock that will return at the very end of the film, planted here in a single insert.
 - **Mood:** charged, ticking.
-- **Audio:** SFX only — a rising tone, a confirming beep. No music.
+- **Audio:** SFX only — a rising tone, a confirming triple beep. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text. (Only the device readout "MAX" is allowed.)
 
 ### CLIP 60 — despega hacia el ducto
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. A narrow duct high in the ceiling.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The towering chamber, a narrow service duct high in the hazy ceiling.
 - **Characters:** @Stella.
 - **Shot/lens:** low wide; thrusters fire, @Stella launches upward toward the ceiling duct.
-- **Camera:** fast tilt-up following her launch.
-- **Light:** thruster flare.
-- **Action:** @Stella's suit thrusters roar; she rockets toward the ceiling duct — the only way out.
+- **Camera:** a fast tilt-up following her launch into the heights.
+- **Light:** thruster flare lighting the underside of the arches.
+- **Action:** @Stella's suit-thrusters ignite with a roar and she rockets straight up off the floor, threading toward a narrow duct high in the ceiling haze, the great chamber falling away beneath her boots.
 - **Mood:** escape velocity.
-- **Audio:** SFX only — thruster ignition, rushing air. No music.
+- **Audio:** SFX only — thruster ignition, rushing air, distant servos below. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 61 — la última mirada
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Looking down from near the ceiling into the vast hall far below.
 - **Characters:** @Stella (above), @Vera (grey-blue eyes) (still, below), @SelkaBebe (grey-blue eyes) (crying below).
-- **Shot/lens:** @Stella's POV downward — her fallen mother and the crying baby, far below.
-- **Camera:** a held beat, the image searing in.
-- **Light:** warm Orb light over a scene of loss.
-- **Action:** for a split second @Stella looks down at her dead mother and crying baby sister — the last look that will haunt her for twenty years.
-- **Mood:** unbearable, branded.
-- **Audio:** SFX only — muffled baby cry, a held breath, distant chaos. No music.
+- **Shot/lens:** @Stella's POV downward — her fallen mother and the crying baby, tiny and far below.
+- **Camera:** a held beat, the image burning in before she tears away.
+- **Light:** warm Orb-less glow over a scene of loss far beneath.
+- **Action:** for one suspended second @Stella looks down through the rising air at the small, still shape of her mother on the mirror-floor and the crying baby in the alcove — the last look, the image that will hollow her out for twenty years — then she wrenches her gaze away and dives into the duct.
+- **Mood:** unbearable, branded into memory.
+- **Audio:** SFX only — muffled baby cry far below, a caught breath, distant chaos. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 62 — S1G1 la persigue en el ducto
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Inside the tight ceiling duct.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Inside the tight metal ceiling duct, cramped and dark.
 - **Characters:** @Stella, @S1G1.
-- **Shot/lens:** claustrophobic; @S1G1 thrusters chasing inside the duct, inches from her boots.
-- **Camera:** fast forward tracking in the cramped tunnel.
-- **Light:** strobing thruster light in the dark duct.
-- **Action:** @Stella flees up the duct; @S1G1 pursues, gaining, centimeters from her boots.
+- **Shot/lens:** claustrophobic; @S1G1 thrusting up the duct inches from her boots.
+- **Camera:** a fast forward track through the cramped tunnel.
+- **Light:** strobing thruster-light flashing off close metal walls.
+- **Action:** @Stella streaks up the narrow duct on her thrusters, walls a blur inches from her shoulders; below and behind, @S1G1's optic burns as it rockets after her, closing the gap until its claw scrapes the air just beneath her boots.
 - **Mood:** breathless chase.
-- **Audio:** SFX only — roaring thrusters, scraping metal. No music.
+- **Audio:** SFX only — roaring thrusters in a tube, scraping metal, the pursuer's whine. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 63 — S1G1 se atasca y explota
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The duct opening to open sky.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The duct's narrow mouth opening to bright open sky.
 - **Characters:** @Stella, @S1G1.
-- **Shot/lens:** @S1G1 jams in the narrow opening; sparks; a clean explosion blasts @Stella out into the sky.
-- **Camera:** burst out into daylight with her.
-- **Light:** dark duct to sudden bright sky; clean blast light (no gore).
-- **Action:** @S1G1 wedges in the opening, sparks, and explodes cleanly; the shockwave spits @Stella out into open sky.
+- **Shot/lens:** @S1G1 jams in the narrow opening; sparks; a clean blast hurls @Stella out into daylight.
+- **Camera:** burst out of the dark tube into bright sky with her.
+- **Light:** dark duct to sudden blinding sky; a clean light-and-smoke blast (no gore).
+- **Action:** @Stella shoots out of the duct mouth into open sky; right behind her @S1G1's larger frame wedges hard in the narrowing opening, throws sparks, and detonates in a clean burst of light and smoke, the shockwave flinging @Stella clear and tumbling into the air.
 - **Mood:** narrow survival.
-- **Audio:** SFX only — metal grinding, a clean explosion, rushing wind. No music.
+- **Audio:** SFX only — metal grinding and jamming, a clean explosion, rushing wind. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 64 — Vorthan levanta a la bebé
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The hall now dimmer with the Orb gone, the fallen mother small on the vast floor.
 - **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @Vera (grey-blue eyes) (still on the floor), @RobotImperial.
-- **Shot/lens:** @Vorthan lifts the baby; robots move toward @Vera's body.
+- **Shot/lens:** @Vorthan lifts the baby from the alcove; robots move toward @Vera's body.
 - **Camera:** slow, cold, deliberate.
-- **Light:** the Orb gone with Stella; the room dimmer now.
-- **Action:** @Vorthan calmly lifts @SelkaBebe; @RobotImperial units move to take @Vera's body.
+- **Light:** dimmer now that the Orb is gone, a fading warmth around the body.
+- **Action:** @Vorthan crosses the great floor and lifts @SelkaBebe gently from her niche; the baby quiets in his arms, grey-blue eyes wide; behind him @RobotImperial units stoop toward @Vera's still form.
 - **Mood:** cold aftermath.
-- **Audio:** SFX only — baby quieting, servo steps. No music.
+- **Audio:** SFX only — baby quieting, heavy servo steps. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 65 — "she's dead. find Stella."
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast dimmed hall, @Vera left alone and small on the mirror-floor.
 - **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @Vera (grey-blue eyes) (left on the floor), @RobotImperial.
-- **Shot/lens:** @Vorthan stops the robots with a gesture, turns away with the baby, leaving @Vera behind.
-- **Camera:** pull back, leaving @Vera small and alone on the floor.
-- **Light:** cold, a fading warmth around the body.
-- **Action:** @Vorthan halts the robots, cold, and exits with the baby, abandoning @Vera's body.
+- **Shot/lens:** @Vorthan halts the robots with a gesture, turns away with the baby, leaving @Vera behind.
+- **Camera:** a slow pull-back, leaving @Vera tiny and alone in the great room.
+- **Light:** cold, the last warmth draining from around the body.
+- **Action:** @Vorthan raises a single hand and the robots freeze over @Vera's body; without a flicker of feeling he turns and walks out with the baby, his flat order echoing as the camera pulls back to leave @Vera alone on the immense floor.
 - **Dialogue (@Vorthan):** "What are you doing? She's dead. Go find Stella. We need that Orb."
 - **Mood:** chilling indifference.
-- **Audio:** SFX only — his flat voice, retreating steps, silence over the body. No music.
+- **Audio:** SFX only — his flat voice, retreating footsteps, a vast silence settling over the body. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ---
 
-# SEC. 7 — Persecución en el cielo / el sacrificio
+## SECUENCIA 7 — ESCENA: Persecución en el cielo / el sacrificio · *(clips 66-75)*
 
 ### CLIP 66 — Stella alcanza la nave
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. A landing nook by the park.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. A quiet landing nook on a terrace at the park's edge, the golden city spread below.
 - **Characters:** @Stella. **Props:** @NaveStella.
 - **Shot/lens:** @Stella drops onto @Vera's hidden ship; trembling hands at the controls.
-- **Camera:** tight in the cockpit, then ignition.
-- **Light:** daylight, console glow.
-- **Action:** @Stella lands on @NaveStella, hands shaking, and starts it.
-- **Mood:** shock, autopilot survival.
-- **Audio:** SFX only — canopy, trembling breath, engine start. No music.
+- **Camera:** tight in the small cockpit, then a jolt of ignition.
+- **Light:** warm daylight, console glow rising on her tear-streaked face.
+- **Action:** @Stella crashes down onto @NaveStella, scrambles into the cockpit and slaps at the controls with shaking, fumbling hands, sobbing once before the engines catch and the canopy seals — survival on raw autopilot.
+- **Mood:** shock, running on instinct.
+- **Audio:** SFX only — canopy, trembling breath, engine turning over. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 67 — aparece la flota imperial
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. Golden city skyline.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The golden city skyline, warm towers against a sky filling with cold imperial silhouettes.
 - **Characters:** @Stella (in @NaveStella). **Props:** @NaveStella.
-- **Shot/lens:** wide; @NaveStella lifts off as an imperial fleet appears on the horizon.
-- **Camera:** rise with the ship, fleet looming.
-- **Light:** warm city, cold fleet silhouettes.
-- **Action:** @Stella takes off; the imperial fleet appears across the golden horizon.
+- **Shot/lens:** wide; @NaveStella lifts off as the imperial fleet rises on the horizon.
+- **Camera:** rise with the ship, fleet looming beyond.
+- **Light:** warm city below, cold hard-edged fleet above.
+- **Action:** @NaveStella tears up off the terrace into the open sky; ahead, across the golden horizon, a wall of cold imperial warships resolves out of the haze and turns toward her — the chase beginning.
 - **Mood:** the net closing.
-- **Audio:** SFX only — engines, distant fleet drone. No music.
+- **Audio:** SFX only — engines, a distant swelling fleet drone. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 68 — establishing: la escala de la flota
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. Sky above the city.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The high sky above the golden city, dozens of warships dwarfing one tiny craft.
 - **Characters:** @Stella (tiny in @NaveStella).
-- **Shot/lens:** vast wide; dozens of imperial ships dwarfing one small craft.
-- **Camera:** slow reveal of the overwhelming odds.
-- **Light:** the fleet darkening the golden sky.
-- **Action:** the scale — one ship against an armada.
+- **Shot/lens:** vast wide; the armada filling the frame, one small ship beneath it.
+- **Camera:** a slow reveal pulling out to show the impossible odds.
+- **Light:** the fleet darkening the golden sky into bruised shadow.
+- **Action:** the camera widens to reveal the true scale — an armada of imperial ships blackening the sky, and beneath them @NaveStella a single glinting speck, hopelessly outnumbered.
 - **Mood:** hopeless odds.
-- **Audio:** SFX only — a swelling fleet drone. No music.
+- **Audio:** SFX only — a swelling, oppressive fleet drone. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 69 — persecución entre las torres
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. Between the city's towers and bridges.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. Diving between the golden towers and luzagua-bridges of the city, sunlight strobing between structures.
 - **Characters:** @Stella. **Props:** @NaveStella.
-- **Shot/lens:** kinetic chase weaving between towers; pursuers crashing.
-- **Camera:** fast follow + banking with the ship.
-- **Light:** golden light flashing between structures.
-- **Action:** @Stella flies brilliantly, weaving between towers, making pursuers crash (clean impacts, no gore).
-- **Mood:** thrilling skill.
-- **Audio:** SFX only — engines, near-misses, distant crashes. No music.
+- **Shot/lens:** kinetic chase weaving between towers; pursuers clipping and crashing.
+- **Camera:** a fast follow banking hard with the ship.
+- **Light:** gold light flashing between the buildings.
+- **Action:** @Stella flies like she was born to it, threading @NaveStella between honey-stone towers and under glowing bridges, juking so tight that two heavier pursuers misjudge the gaps and slam into the architecture in clean bursts of light — but more keep coming.
+- **Mood:** thrilling skill under doom.
+- **Audio:** SFX only — straining engines, screaming near-misses, distant clean crashes. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 70 — la encuadran
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. A long straightaway above the city, an imperial ship locking on from behind.
 - **Characters:** @Stella. **Props:** @NaveStella.
-- **Shot/lens:** an imperial ship locks onto @NaveStella; an energy beam charges.
-- **Camera:** tense tighten as the beam builds.
-- **Light:** charging energy glow.
-- **Action:** an imperial ship frames her; an energy beam is about to fire.
+- **Shot/lens:** an imperial ship frames @NaveStella; an energy beam charges.
+- **Camera:** a tense tighten as the weapon builds.
+- **Light:** the charging energy throwing a growing glow over the chase.
+- **Action:** a heavy imperial ship slides in behind @NaveStella and locks her dead-center in its sights; its energy-cannon spools up with a rising whine, light gathering at the muzzle, the shot a heartbeat from firing.
 - **Mood:** the trap sprung.
-- **Audio:** SFX only — a targeting tone, a charging whine. No music.
+- **Audio:** SFX only — a targeting tone, a building charge-whine. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 71 — llegan las naves aliadas
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The bright sky over the city, the threatening ship bursting as allies sweep in.
 - **Characters:** @Stella, @PilotoAliada (ships). **Props:** @NaveStella.
-- **Shot/lens:** the threatening ship explodes; allied ships swoop in firing energy beams, carving a path.
-- **Camera:** whip to the rescue, energetic.
-- **Light:** clean energy blasts.
-- **Action:** the imperial ship bursts; allied ships appear, open fire with energy, and clear a path for @Stella.
-- **Mood:** sudden hope.
-- **Audio:** SFX only — explosion, energy fire, allied engines. No music.
+- **Shot/lens:** the pursuing ship explodes; allied ships swoop in firing energy beams, carving a corridor.
+- **Camera:** a whip to the rescue, energetic and sweeping.
+- **Light:** clean bright energy blasts lacing the sky.
+- **Action:** the imperial ship behind her erupts in a clean burst as a flight of allied craft drops out of the sun, lancing energy-fire across the armada and tearing open a corridor of clear sky for @NaveStella to dive through.
+- **Mood:** sudden, fierce hope.
+- **Audio:** SFX only — explosion, energy fire, allied engines screaming past. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 72 — la piloto aliada (cara)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. Allied cockpit.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The cramped cockpit of an allied fighter, stars and energy-flashes beyond the glass.
 - **Characters:** @PilotoAliada.
 - **Shot/lens:** close on @PilotoAliada's resolute face in her cockpit.
-- **Camera:** steady, intimate.
-- **Light:** console glow on her face.
-- **Action:** @PilotoAliada — the voice on the radio — calm, already resolved to die.
-- **Mood:** noble sacrifice, a face to it.
-- **Audio:** SFX only — cockpit hum, comms static. No music.
+- **Camera:** steady, intimate, holding her gaze.
+- **Light:** console glow underlighting her calm, set face.
+- **Action:** inside an allied cockpit, @PilotoAliada — white-haired, steady, already at peace with how this ends — keys her comm and watches the battle through her canopy, fear nowhere on her face.
+- **Mood:** noble sacrifice, given a face.
+- **Audio:** SFX only — cockpit hum, comm static, muffled fire outside. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 73 — "don't let our sacrifice be in vain"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The high battle-sky, allied ships interposing themselves between @Stella and the armada.
 - **Characters:** @PilotoAliada, @Stella (intercut).
-- **Shot/lens:** intercut allied ships interposing / @Stella listening.
-- **Camera:** steady on the radio voice, cut to Stella's eyes.
-- **Light:** energy flashes outside.
-- **Action:** @PilotoAliada speaks to @Stella over the radio as allies shield her.
+- **Shot/lens:** intercut allied ships shielding her / @Stella listening in her cockpit.
+- **Camera:** steady on the radio voice, cutting to Stella's wet eyes.
+- **Light:** energy flashes outside both canopies.
+- **Action:** @PilotoAliada's voice comes over @Stella's radio, calm and final, as allied ships slide deliberately into the line of fire to cover her; @Stella stares at the comm, understanding what they are choosing to do for her.
 - **Dialogue (@PilotoAliada, radio):** "Stella. Your mother told us. Don't let our sacrifice be in vain."
 - **Mood:** solemn, tragic.
-- **Audio:** SFX only — radio voice, distant energy fire. No music.
+- **Audio:** SFX only — the radio voice, distant energy fire, her own breathing. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 74 — "go far. come back."
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. @Stella's cockpit, the battle and the dwindling allies beyond the glass.
 - **Characters:** @Stella, @PilotoAliada (radio).
-- **Shot/lens:** close on @Stella crying in the cockpit, then the allied charge.
-- **Camera:** tight on her, then whip to the sacrifice.
-- **Light:** console glow, energy flashes.
-- **Action:** @Stella protests through tears; the radio voice gives its last instruction.
+- **Shot/lens:** close on @Stella crying in the cockpit, cut to the allied charge.
+- **Camera:** tight on her face, then a whip to the sacrifice outside.
+- **Light:** console glow, energy flashes washing across her.
+- **Action:** @Stella shakes her head, crying out at the comm in protest, hands white on the controls; the radio voice answers with a last, gentle instruction as the allied ships dive into the armada to hold the corridor open.
 - **Dialogue (@Stella):** "I don't even know you!" — **(@PilotoAliada, radio):** "Don't let anyone get that Orb. Go far. Get strong. Come back."
 - **Mood:** grief and duty.
-- **Audio:** SFX only — Stella crying, radio, energy fire. No music.
+- **Audio:** SFX only — Stella crying, the radio, energy fire. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 75 — los aliados se sacrifican
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The edge of the battle opening onto the black of open space.
 - **Characters:** @Stella, @PilotoAliada (ships). **Props:** @NaveStella.
 - **Shot/lens:** allied ships interpose and burst one by one; @Stella watches them die for her as she breaks for open space.
-- **Camera:** her POV through the canopy at the sacrifice, then accelerate away.
-- **Light:** clean bursts of energy receding.
-- **Action:** the allies sacrifice themselves to clear her path; @Stella breaks into open space, alone.
-- **Mood:** survivor's weight.
-- **Audio:** SFX only — successive clean explosions, her breath, engines. No music.
+- **Camera:** her POV through the canopy at the sacrifice, then an acceleration away.
+- **Light:** clean bursts of energy receding behind her.
+- **Action:** one by one the allied ships throw themselves into the armada and bloom into clean bursts of light, each death buying her a few more seconds; @Stella watches through the canopy, tears running, then hauls @NaveStella around and accelerates into the open dark, alone with everyone's sacrifice on her shoulders.
+- **Mood:** the survivor's unbearable weight.
+- **Audio:** SFX only — successive clean explosions, her ragged breath, engines climbing. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ---
 
-# SEC. 8 — Sin oxígeno / híper salto
+## SECUENCIA 8 — ESCENA: Sin oxígeno / híper salto · *(clips 76-80)*
 
 ### CLIP 76 — el silencio del espacio
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. Deep space, @Erdia (sick golden planet) shrinking behind.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. Deep silent space, @Erdia — the sick golden planet — shrinking behind a single drifting ship amid cold stars.
 - **Characters:** @Stella (in @NaveStella).
-- **Shot/lens:** wide; the small ship adrift, the planet receding.
-- **Camera:** slow drift, vast quiet.
-- **Light:** cold starlight, faint golden planet glow.
-- **Action:** sudden silence; @Erdia shrinks behind the lone ship.
+- **Shot/lens:** wide; the small ship adrift, the planet receding into the dark.
+- **Camera:** a slow drift, vast and quiet.
+- **Light:** cold starlight, a faint dying golden glow from the distant planet.
+- **Action:** the roar of battle drops to absolute silence; @NaveStella coasts alone through the void while @Erdia dwindles behind it, golden and faintly sick, the whole world she lost shrinking to a point of light.
 - **Mood:** desolate calm.
-- **Audio:** SFX only — near-silence, a faint cockpit hum. No music.
+- **Audio:** SFX only — near-silence, a faint cockpit hum, a slow heartbeat. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 77 — oxígeno crítico
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. Cockpit interior.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The dim cockpit interior, a soft red warning pulsing across the panels.
 - **Characters:** @Stella.
 - **Shot/lens:** close on @Stella as a soft alarm pulses.
-- **Camera:** slow push to her slowing breath.
-- **Light:** a red warning glow pulsing on her face.
-- **Action:** a soft alarm — OXYGEN CRITICAL; @Stella breathes slower, crying without sound.
+- **Camera:** a slow push to her slowing breath.
+- **Light:** a gentle red warning glow throbbing on her face.
+- **Action:** a soft alarm begins to pulse — oxygen critical — and @Stella's breathing slows and shallows; she sits limp in the harness, tears sliding sideways, too hollowed-out to fight, the red light washing over her in time with her fading breaths.
 - **Mood:** quiet suffocation.
 - **Audio:** SFX only — a gentle warning beep, shallow breathing. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 78 — ojos perdiendo el foco
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. Cockpit.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The cockpit dimming, the red pulse fading toward dark.
 - **Characters:** @Stella.
 - **Shot/lens:** extreme close-up on @Stella's eyes losing focus.
-- **Camera:** micro push, soft rack to blur.
-- **Light:** dimming, red pulse fading.
-- **Action:** @Stella's eyes drift, on the edge of blacking out.
+- **Camera:** a micro push with a soft rack into blur.
+- **Light:** dimming, the red pulse weakening.
+- **Action:** extreme close on @Stella's grey-amber eyes as they drift and unfocus, lids growing heavy, the world sliding out of focus around the edges as she begins to black out.
 - **Mood:** slipping away.
-- **Audio:** SFX only — muffling sound, faint heartbeat slowing. No music.
+- **Audio:** SFX only — sound muffling and distant, a heartbeat slowing. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 79 — la palma en el tablero
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. Cockpit.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The dim cockpit, the console waking under a glowing palm.
 - **Characters:** @Stella. **Props:** @LlaveDeLuz, @Orbe.
-- **Shot/lens:** she looks at her glowing palm, then presses it to the console.
-- **Camera:** from her hand to the console lighting up.
-- **Light:** the @LlaveDeLuz glow flooding into the panels.
-- **Action:** @Stella looks at the @LlaveDeLuz / @Orbe in her hand and presses her palm to the console in desperation.
+- **Shot/lens:** she looks at her glowing palm, then presses it flat to the console.
+- **Camera:** from her hand to the console flooding with light.
+- **Light:** the @LlaveDeLuz glow pouring out into the panels.
+- **Action:** half-conscious, @Stella lifts her hand and stares at the @LlaveDeLuz and the @Orbe glowing beneath her skin, then presses her open palm to the console in pure desperation; light floods out of her hand into the ship, panels igniting one after another.
 - **Mood:** instinctive last resort.
-- **Audio:** SFX only — a rising energy surge through the ship. No music.
+- **Audio:** SFX only — a rising energy surge spreading through the ship. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 80 — HÍPER SALTO
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. Open space, the ship overloading with light, then a tear of white swallowing everything.
 - **Characters:** @Stella (in @NaveStella).
 - **Shot/lens:** energy floods the ship, everything overloads, then a blinding white hyperjump swallows the frame.
-- **Camera:** rush forward into a white bloom.
-- **Light:** total white-out.
-- **Action:** the energy overloads; @NaveStella tears into a hyperjump — a white flash swallows everything. White.
+- **Camera:** a rush forward into a white bloom.
+- **Light:** runaway light building to a total white-out.
+- **Action:** the borrowed light overloads every system; @NaveStella shudders violently, seams blazing, and then snaps forward into a hyperjump — a blinding white flash tears the ship out of its universe and swallows the entire frame in white.
 - **Mood:** violent transcendence.
-- **Audio:** SFX only — a building roar, a snap, then silence into white. No music.
+- **Audio:** SFX only — a building roar, a hard snap, then silence falling into white. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ---
 
-# SEC. 9 — El discurso de Vorthan
+## SECUENCIA 9 — ESCENA: El discurso de Vorthan (Erdia, Año 0) · *(clips 81-88)*
 
 ### CLIP 81 — establishing: la plaza
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. A vast plaza, an enormous crowd, still-blue sky.
-- **Characters:** @Vorthan (distant, on a balcony), crowd.
-- **Shot/lens:** huge establishing wide of the gathered people.
-- **Camera:** slow crane over the crowd toward the balcony.
-- **Light:** bright day, but the mood already heavy.
-- **Action:** the people gather beneath a still-blue sky to hear the King.
+- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. A vast palace plaza beneath a still-blue sky, an enormous crowd packed across terraces and steps, banners hanging, a high balcony above — grandeur with a held breath under it.
+- **Characters:** @Vorthan (distant, on the balcony), the crowd.
+- **Shot/lens:** huge establishing wide over the gathered people toward the balcony.
+- **Camera:** a slow crane over the sea of heads toward the distant King.
+- **Light:** bright clear day, but the air already heavy.
+- **Action:** the camera sails over a vast ocean of gathered citizens filling the plaza beneath banners and a blue sky, all faces turned up toward the small distant figure on the high balcony — a whole people about to be told who to hate.
 - **Mood:** ominous calm.
-- **Audio:** SFX only — a murmuring crowd, wind. No music.
+- **Audio:** SFX only — a vast murmuring crowd, wind over stone. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 82 — "we have been robbed"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The high balcony over the crowd, the King framed against the bright sky.
 - **Characters:** @Vorthan.
 - **Shot/lens:** strong medium of @Vorthan addressing the crowd, mournful and perfect.
-- **Camera:** slow push to his face.
-- **Light:** clean daylight, controlled.
-- **Action:** @Vorthan speaks with practiced grief.
+- **Camera:** a slow push to his composed, sorrowful face.
+- **Light:** clean daylight, controlled and flattering.
+- **Action:** @Vorthan stands at the balcony's edge and lets a long, practiced silence hang before he speaks, his face a mask of shared grief, every gesture calculated to look like a man carrying his people's pain.
 - **Dialogue (@Vorthan):** "Today, we have been robbed."
 - **Mood:** manipulative sorrow.
-- **Audio:** SFX only — his amplified voice, crowd hush. No music.
+- **Audio:** SFX only — his amplified voice rolling over the plaza, the crowd hushing. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 83 — "torn from our world"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vorthan, crowd.
-- **Shot/lens:** medium, intercut with the horrified crowd.
-- **Camera:** steady, then to the faces.
-- **Light:** daylight.
-- **Action:** @Vorthan names the loss; horror ripples through the plaza.
+- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The balcony and the crowd below, faces beginning to break with horror.
+- **Characters:** @Vorthan, the crowd.
+- **Shot/lens:** medium on @Vorthan, intercut with the horrified crowd.
+- **Camera:** steady on him, then cutting down to the faces.
+- **Light:** bright daylight.
+- **Action:** @Vorthan names the loss with grave tenderness; the camera cuts to the crowd as a wave of gasps and grief ripples backward through the plaza, hands to mouths, the lie taking root.
 - **Dialogue (@Vorthan):** "The Orb… has been torn from our world."
 - **Mood:** spreading dread.
-- **Audio:** SFX only — his voice, a wave of gasps. No music.
+- **Audio:** SFX only — his voice, a rolling wave of gasps. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 84 — "our planet will die"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The balcony, the day's light feeling subtly colder as he speaks.
 - **Characters:** @Vorthan.
 - **Shot/lens:** medium on @Vorthan delivering the prophecy.
-- **Camera:** slow push.
-- **Light:** daylight beginning to feel colder.
-- **Action:** @Vorthan foretells the planet's death.
+- **Camera:** a slow push.
+- **Light:** daylight that seems to lose warmth as the words land.
+- **Action:** @Vorthan spreads his hands and foretells the planet's slow death, each phrase weighted to spread fear, the crowd below going silent and stricken beneath him.
 - **Dialogue (@Vorthan):** "Without it, the light will fade. The water will fade. Our planet will die."
 - **Mood:** doom, weaponized.
-- **Audio:** SFX only — his voice, uneasy crowd. No music.
+- **Audio:** SFX only — his voice, an uneasy crowd murmur. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 85 — los aliados en jaulas
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Behind/beside the King, captured allies displayed in cages.
-- **Characters:** @Vorthan, captured allies (incl. @PilotoAliada types).
-- **Shot/lens:** wide revealing the caged, defeated allies behind him.
-- **Camera:** slow lateral past the cages.
-- **Light:** harsh daylight on the prisoners.
-- **Action:** behind @Vorthan, the allies who saved @Stella are displayed, caged and beaten (no blood).
+- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Beside and below the balcony, captured allies displayed in cages as a grim spectacle.
+- **Characters:** @Vorthan, captured allies (resistance pilots like @PilotoAliada).
+- **Shot/lens:** wide revealing the caged, beaten allies behind/below him.
+- **Camera:** a slow lateral move past the cages.
+- **Light:** harsh daylight falling on the prisoners.
+- **Action:** the camera drifts across rows of cages flanking the balcony where the allies who saved @Stella stand captured and defeated, displayed to the crowd as proof — beaten but unbloodied — while @Vorthan gestures to them as traitors.
 - **Mood:** cruel theater.
-- **Audio:** SFX only — chains, crowd murmur. No music.
+- **Audio:** SFX only — chains shifting, a low crowd murmur. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 86 — el amor se vuelve odio
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Down among the crowd, faces filling the frame as the mood turns.
 - **Characters:** the crowd.
-- **Shot/lens:** montage of faces in the crowd shifting from grief to rage in real time.
-- **Camera:** quick pushes across faces.
-- **Light:** daylight hardening.
-- **Action:** the people's love turns to hatred before our eyes.
+- **Shot/lens:** a montage of faces in the crowd shifting from grief to rage in real time.
+- **Camera:** quick pushes across individual faces.
+- **Light:** daylight hardening, shadows sharpening.
+- **Action:** the camera moves through the crowd catching faces mid-transformation — grief tightening into anger, tears drying into snarls, fists clenching — a people's love curdling into hatred before our eyes.
 - **Mood:** the birth of a scapegoat.
-- **Audio:** SFX only — murmurs swelling into angry shouts. No music.
+- **Audio:** SFX only — murmurs swelling into scattered angry shouts. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 87 — "Stella. Thief. Traitor."
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The balcony, the King delivering the verdict to a turning crowd.
 - **Characters:** @Vorthan.
-- **Shot/lens:** strong close on @Vorthan delivering the verdict.
-- **Camera:** push to his calm, cruel face.
-- **Light:** daylight, his eyes cold.
-- **Action:** @Vorthan hands the crowd their enemy.
+- **Shot/lens:** strong close on @Vorthan delivering the name like a sentence.
+- **Camera:** a push to his calm, cruel face.
+- **Light:** daylight, his eyes cold beneath the grief-mask.
+- **Action:** @Vorthan lets the silence build, then hands the crowd their enemy — the name landing like a verdict, his sorrow never slipping even as the plaza erupts in fury beneath him.
 - **Dialogue (@Vorthan):** "And who condemned us? One of our own. Stella. Thief. Traitor."
 - **Mood:** the lie sealed.
-- **Audio:** SFX only — his voice, the crowd roaring Stella's name in hate. No music.
+- **Audio:** SFX only — his voice, then the crowd roaring Stella's name in hatred. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 88 — Vorthan acaricia a la bebé (cierre)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The balcony above the roaring plaza, the King holding a small child before the multitude.
 - **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes).
-- **Shot/lens:** @Vorthan holds @SelkaBebe before the crowd and, almost imperceptibly, strokes her head like a father.
-- **Camera:** slow push to the tender-yet-wrong gesture, then to black.
-- **Light:** bright day, but the warmth feels like a lie.
-- **Action:** @Vorthan holds the baby before all and gently strokes her head — like a father. Cut to black. **END OF ACT 1.**
+- **Shot/lens:** @Vorthan holds @SelkaBebe before the crowd and, almost imperceptibly, strokes her head like a father; then to black.
+- **Camera:** a slow push to the tender-yet-wrong gesture, then a fade to black.
+- **Light:** bright day whose warmth now feels like a lie.
+- **Action:** above the roaring crowd, @Vorthan lifts @SelkaBebe so all can see her, and — almost too small to notice — gently strokes her white hair like a doting father, the baby's grey-blue eyes blinking up at him; the image holds, intimate and deeply wrong, then cuts to black. **END OF ACT 1.**
 - **Mood:** intimate dread, the seed of everything to come.
-- **Audio:** SFX only — the roaring crowd fading, a soft breath, then silence. No music.
+- **Audio:** SFX only — the roaring crowd fading out, a soft breath, then silence. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ---
 
 ## RESUMEN
-- **88 prompts** · SEC1=5 · SEC2=11 · SEC3=19 · SEC4=6 · SEC5=15 · SEC6=9 · SEC7=10 · SEC8=5 · SEC9=8.
-- Cada prompt: @menciones de personaje + locación, línea de Setting, cámara/luz/acción motivadas por la narrativa, SFX only, negativos de contenido.
-- Para producir: en Seedance, vincular cada `@tag` a su elemento de referencia (personaje/locación) y pegar el prompt del clip.
+- **88 prompts enriquecidos** · marcados por **SECUENCIA** y **ESCENA**.
+- SEC1=5 · SEC2=11 · SEC3=19 · SEC4=6 · SEC5=15 · SEC6=9 · SEC7=10 · SEC8=5 · SEC9=8.
+- @Vera y @SelkaBebe con **grey-blue eyes** fijo; cada Setting con descripción exquisita de locación; cada Action al detalle.
+- Canon de enriquecimiento aplicado también a los Actos 2 y 3 (siguiente entrega).
