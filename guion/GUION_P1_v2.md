@@ -8,6 +8,15 @@
 >
 > Convenciones: encabezados `INT./EXT. LUGAR — MOMENTO`. Acción en presente. **PERSONAJE** + diálogo.
 > *(acotación)*. Rótulos de tiempo en **[ERDIA · AÑO X]**.
+>
+> **Ajustes de canon (v2.1):**
+> • **Ojos:** **Vera** y **Selka** tienen **ojos gris-azul** (consistencia visual).
+> • **Pelo blanco:** es el **voto naieli de la familia** (Stella, Vera, Naio, Selka). La **resistencia y los
+>   pilotos NO** son todos de pelo blanco. Los **aliados que salvan a Stella son 3 pilotos** de aspecto variado.
+> • **Armas:** solo de **energía / cuerpo a cuerpo** — **nunca de fuego** (no guns). La violencia se muestra
+>   por luz, no por sangre.
+> • **Vestuario de Stella:** ropa civil (parque) → armadura "04" con trenza (lab/huida) → armadura con **pelo
+>   corto** tras cortarse la trenza.
 
 ---
 
@@ -43,7 +52,7 @@ CORTE BRUSCO a un cielo **azul, abierto, deslumbrante** —y una **carcajada** q
 
 Stella se toca un **brazalete** en la muñeca. Del aire se enciende **GIX** —una pequeña criatura de luz, mitad chispa, mitad travesura— que escapa volando. Stella va tras él, riendo, esquivando a la gente.
 
-Detrás, sin apuro, camina **VERA** (madre, ~40, pelo blanco recogido).
+Detrás, sin apuro, camina **VERA** (madre, ~40, pelo blanco recogido, ojos gris-azul).
 
 **VERA**
 Despacio. Te vas a partir la cabeza el día antes de tu última prueba.
@@ -98,7 +107,7 @@ La risa se le apaga sola.
 
 Porque ve a **VERA** y a su padre **NAIO** (científico, ~45) de pie frente a una proyección de datos. Ninguno de los dos se ríe. Tienen la cara de alguien que acaba de ver algo que no se puede des-ver.
 
-Detrás, en un moisés flotante, duerme la **BEBÉ SELKA** (1 año).
+Detrás, en un moisés flotante, duerme la **BEBÉ SELKA** (1 año, ojos gris-azul).
 
 **STELLA (CONT.)**
 *(la sonrisa cae)*
@@ -582,7 +591,7 @@ Un presentador anuncia a la "ladrona del Orbe, la criminal más buscada del sect
 
 Por una reja se abre el lado opuesto del pozo. Empujan a su oponente.
 
-Es un **humano.** **NOAH** —joven, magullado, espada y pistola viejas, ojos que no se rinden.
+Es un **humano.** **NOAH** —joven, magullado, una vieja espada y un arma de luz, ojos que no se rinden.
 
 Stella se queda helada. Porque ese chico **se parece a ella.** A su gente. *(Lo entenderá después: su planeta desterraba a los condenados a un mundo lejano para morir. No murieron. Se volvieron la humanidad. Son los hijos de sus exiliados.)*
 
@@ -705,7 +714,7 @@ Lo enciende. Y aparecen, vivos, los suyos:
 
 **NAIO** —viejo, encadenado, esclavo en una mina de niebla.
 
-**SELKA** —ya no una bebé, una **joven soldado** entrenando con frialdad quirúrgica, perfecta, vacía.
+**SELKA** —ya no una bebé, una **joven soldado** entrenando con frialdad quirúrgica, perfecta, vacía, los mismos ojos gris-azul de su madre.
 
 Y una **figura encapuchada** liderando a la resistencia junto a Marek. La capucha cae un segundo. Es **VERA.**
 
@@ -762,7 +771,7 @@ Tráela de vuelta.
 
 Vera entra sola.
 
-Adentro, de espaldas, está **SELKA** —la General. Joven, blanca, impecable, fría.
+Adentro, de espaldas, está **SELKA** —la General. Joven, blanca, impecable, fría, de ojos gris-azul.
 
 **SELKA**
 *(sin voltear)*
@@ -909,7 +918,7 @@ Stella rompe el cristal de un golpe del Orbe. Y **cae** al trono.
 
 Stella aterriza entre vidrios. Se levanta.
 
-Frente a ella, **SELKA** —la General, 21, blanca, perfecta, sin un gesto.
+Frente a ella, **SELKA** —la General, 21, blanca, perfecta, ojos gris-azul, sin un gesto.
 
 Las dos hermanas, frente a frente, por primera vez en veinte años. Ninguna de las dos lo sabe del todo.
 
