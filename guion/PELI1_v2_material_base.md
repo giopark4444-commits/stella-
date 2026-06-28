@@ -323,6 +323,36 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ---
 
+## 🌊 LA CULTURA NAIEL (textura de mundo — todo nace de UNA idea)
+> **Idea raíz:** *la luz no se posee, se **canaliza**; puedes **nutrir** o **devorar**.* De aquí sale el
+> tema de toda la saga, incrustado en la vida diaria — y el villano perfecto.
+
+- **El nai:** la **luz-agua sagrada**, lo indiviso de lo que todo fluye (los ríos de luzagua, el Orbe).
+  Los **naieli** = "nacidos del nai".
+- **El Cauce (creencia central):** cada ser vivo es un **canal** por el que la luz pasa hacia otro. **No
+  eres dueño de la luz; eres por dónde pasa.**
+  - **Virtud máxima:** ser **buen cauce** (dejar pasar la luz limpia: generosidad, transparencia).
+  - **Pecado máximo:** **enturbiar tu cauce** — retener, acumular, devorar. A quien lo hace lo llaman
+    **"agua estancada"** (el peor insulto). → **Vorthan es "agua estancada hecha carne": la herejía viva.**
+- **El pelo blanco = un VOTO:** los naieli nacen de pelo blanco ("luz sin escribir") y lo **mantienen
+  blanco** como promesa: *"sigo siendo un cauce claro".* Pagos:
+  - El **futuro podrido** mancha de gris/hollín el pelo de todos (les ensuciaron el voto).
+  - **Selka** lo mantiene de un blanco **perfecto, imposible** — pero **blanqueado por el imperio** (pureza falsa).
+  - **Stella** al final **conserva el pelo teñido** (rompió el voto; el exilio la cambió).
+- **Saludo cotidiano:** en vez de "hola/adiós", **"que pases limpio"** (que la luz pase limpia por ti).
+- **El insulto/condena:** **"agua estancada".** → **Golpe maestro de la propaganda:** Vorthan no solo
+  exilia a Stella, la convierte en *"la que estancó la luz"* — la palabra más sagrada usada en su contra.
+  El pueblo no la odia por ladrona: **la odia por hereje.** *(Por eso Selka puede crecer odiándola con fe.)*
+- **El rito del Cauce (agua):** al **nacer** y al **morir**, se vierte agua sobre la persona mientras la
+  familia dice en voz alta **hacia qué debe canalizar su luz** (esperanza al nacer; despedida al morir).
+  → El Parásito lo **pervierte** (velorios falsos). Posible pago en P3: cuando Erdia sana, las hermanas lo rehacen.
+- **El Rey = el "Cauce Mayor":** no es un dueño, es **el único canal por el que la luz de la Fuente Madre
+  (el Orbe) pasa a todo el pueblo** — el cargo **más sagrado** y el que **menos derecho tiene a retener**.
+  - Por eso la traición es **teológica**, no solo política.
+  - **Por eso el Parásito eligió ese disfraz:** máximo acceso al Orbe, mínima sospecha. *(Y reconecta la
+    regla: el Orbe **se entrega por fe al Cauce Mayor, no se toma por la fuerza** — por eso Naio lo
+    **encripta al ADN de Stella**, rompiendo la cadena sagrada para que Vorthan no lo reciba.)*
+
 ## 💧 VERA — la madre
 - **Esencia:** **calidez + fiereza.** Es el **norte moral** de la familia; tierna en casa, **letal**
   protegiendo. Su nombre naiel = *"agua clara, verdadera"* → **ella ES la verdad del relato** (por eso el
