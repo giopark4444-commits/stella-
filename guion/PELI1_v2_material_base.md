@@ -504,6 +504,20 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - 🔒 **Cuidado (secreto):** esto **NO revela el cambio de forma** — solo planta "el Rey no es un humano
   normal". El shape-shifting se mantiene oculto hasta el final.
 
+### 🩸 Escena: Theron intenta quitarle el Orbe (aterriza el pacto + planta su arco)
+- **Dónde:** temprano en la nave, cuando Theron la ve como **puro cebo.** Frío y pragmático: ¿para qué
+  entrenarla y esperar? Decide **tomar el Orbe y ya.**
+- **Qué pasa:** intenta extraérselo, y el Orbe **estalla en reacción** — Stella **se convulsiona** (su
+  vida está fundida con él) y a Theron lo **rechaza con violencia** (a él también lo mataría). Se detiene.
+- **Descubre:** **no puede arrancárselo sin matarla — y sin matarse él.** Y muerta, el rastro se apaga.
+  Por eso **prefiere conservarla viva**, no eliminarla.
+- **Su línea (fría):** *"No puedo sacártelo sin matarte. Y muerta… no me sirves. Así que vas a vivir. Te
+  guste o no."*
+- **Suma:** aterriza el pacto (la mantiene viva **porque DEBE**); **planta su arco** (1ª semilla de "vale
+  más viva que el Orbe"); **sube el terror del clímax** (ya sabemos que arrancar el Orbe es **letal** →
+  pavor cuando Selka lo hace). 🔒 **NO telegrafía el candado de sangre:** el público aprende "sacarlo
+  mata", no "solo la sangre puede sacarlo".
+
 ### 🧫 La visión de Theron sobre los humanos (su filosofía más dura)
 - Stella le pregunta **por qué desconfía de los humanos** si su propio pueblo **ya superó la violencia**.
   Theron responde con su credo más frío:
