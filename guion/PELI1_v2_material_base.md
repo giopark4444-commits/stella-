@@ -98,6 +98,9 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Le dicen que está a punto de pasar algo que **cambiará por completo sus vidas** y debe ser fuerte.
 - Naio le cuenta lo que sucede; le toma la mano y, en un cajón, **encripta el código del Orbe en
   su ADN**. Stella, aterrada.
+- **(Siembra — "el juego de la luz", idea 3):** en medio de la tensión, la **bebé Selka llora**; Stella,
+  por instinto de hermana mayor, la calma con su ritual de siempre — **palma ahuecada, una chispa de Gix
+  bailando, la frente juntas, la nana tarareada**. La bebé se calma. *(Pagará en el trono.)*
 - Ya descubrieron la **filtración de información**; en poco tiempo vendrán por ellos.
 - Se escuchan **pasos** que se acercan. Naio: "Llegaron. Tomen a **Selka** (la hermana) y vayan
   ya por el Orbe."
@@ -428,6 +431,16 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   su cuerpo desde su ADN** — pequeño y débil — y **le abraza el corazón para mantenerlo palpitando**.
   Por eso Stella queda en **coma, no muerta**. Sostiene el corazón hasta que, en la **Peli 2**, **Selka
   y Naio la reviven** — y al lograrlo **Gix muere del todo**.
+- **🕯️ "El juego de la luz" (idea 3 — recuerdo enterrado entre las hermanas):** de bebés, Stella calmaba
+  a **Selka (1 año)** con un ritual: **ahuecaba la mano, una chispa de Gix bailaba en su palma**, le
+  **juntaba la frente** y le **tarareaba la nana**. *(Siembra en el Acto 1 — beat 1, lab.)* **Pago en el
+  trono:** acorralada, Stella hace el gesto **sin pensarlo** (palma ahuecada con un destello tenue +
+  frente) y Selka **se congela a mitad del golpe** — su cuerpo recuerda la seguridad antes que su mente.
+  Es la grieta, que la nana del "Fui yo" termina de abrir.
+- **⏳ El reloj de arena (idea 4):** mientras Gix sostiene el corazón de Stella, queda **un resplandor
+  tenue sobre su pecho**, latiendo como una brasa (la luz de Gix bajo la piel). **Cada vez que volvemos a
+  ella —tanque, cierre, toda la Peli 2— ese latido es más débil.** Cuando se apague, Stella muere de
+  verdad → **reloj contra el tiempo / motor de la Peli 2.**
 
 ## 👁️ THERON (el Cazador) — naturaleza ✅
 - Es de **otra especie**, **los Threa** (NO la de Vorthan), de su mundo perdido **Orun**: un pueblo que
@@ -656,9 +669,11 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 2. Stella entra **por su propia jugada** (ella lidera el asalto/infiltración, no "se deja caer"); baja a
    la **Sala del Trono**; reencuentro con **Selka (la General, 21)**.
 3. **Combate emocional — Stella va GANANDO lo que importa (Opción B):** Stella **podría vencer** (tiene
-   el beam de la palma), pero **no ataca a matar**: *pide*, no hiere. Al negarse y reclamar la muerte de
-   Vera, **agrieta a Selka** — la General **duda**, baja el sable medio segundo, asoma la hermana real.
-   *(Siembra clave: Selka YA empieza a quebrarse aquí → el "Fui yo" será pago, no sorpresa gratis.)*
+   el beam de la palma), pero **no ataca a matar**: *pide*, no hiere. Al reclamar la muerte de Vera —y al
+   hacer **sin pensarlo el gesto del "juego de la luz"** (palma ahuecada, un destello tenue, la frente)—
+   **agrieta a Selka**: su cuerpo **recuerda la seguridad antes que su mente**, la General **duda**, baja
+   el sable medio segundo, asoma la hermana real. *(Siembra clave: Selka YA empieza a quebrarse aquí → el
+   "Fui yo" será pago, no sorpresa gratis.)*
    Selka, peleando contra su propia duda, glacial: "He ejecutado a cientos… no recuerdo a ninguna como 'mamá'."
 4. **La derrota como ELECCIÓN (Opción A):** justo cuando Stella casi la despierta, se corta — **Selka,
    aterrada de lo que está sintiendo (empujada por Vorthan), le arranca el Orbe** para callar la duda.
@@ -690,6 +705,10 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
     - **Selka se vuelve buena y sabe la verdad.** Le **pide perdón a su padre (Naio)** y le **promete
       que volverá para salvar Erdia** — **hereda la misión que era de Stella**.
       *(Ese rescate de Erdia ya es la **Película 2**.)*
+    - **⏳ El reloj de Gix (idea 4):** sobre el pecho de Stella, en el tanque, late **un resplandor tenue,
+      como una brasa** — la luz de Gix sosteniéndole el corazón. **Theron:** *"Eso que late en su pecho es
+      lo único que la sostiene. Y se está apagando."* *(Cada vez que volvamos a ella —aquí y en la Peli 2—
+      ese latido es más débil: el reloj contra el tiempo.)*
     - Selka apoya su única mano en el cristal del tanque de Stella: *"No sabía que eras tú. Despierta y
       déjame decírtelo a la cara."*
     - **Theron:** "Por fin sé adónde va a llevarlo." → Título: **EL NODO DE ERDIA**.
