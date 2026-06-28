@@ -323,6 +323,25 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ---
 
+## 💧 VERA — la madre
+- **Esencia:** **calidez + fiereza.** Es el **norte moral** de la familia; tierna en casa, **letal**
+  protegiendo. Su nombre naiel = *"agua clara, verdadera"* → **ella ES la verdad del relato** (por eso el
+  Parásito **viste su cara para mentir**: la verdad profanada).
+- **Su falla trágica (y de dónde la heredó Stella):** Vera **no puede abandonar a los suyos**. Es la misma
+  falla de Stella —*volver por la familia aunque sea suicida*—, y por eso **muere** (beat 11: corre a
+  abrazar a "Selka" en vez de protegerse). *La mejor cualidad de Stella viene de Vera… y a las dos las mata.*
+- **La nana (su firma emocional — clave de saga):** Vera les cantaba **una nana** a sus dos hijas. Es **lo
+  único verdadero que le queda a Selka** del recuerdo robado (la tararea sin saber quién se la cantó). En
+  el clímax, la **nana es lo que rompe del todo a Selka** — más que la frase del monstruo. *Es la voz de
+  Vera sobreviviendo a su muerte.* **(Anotar como elemento recurrente de las 3 pelis.)**
+- **Sus dos hijas, dos heridas:**
+  - Con **Stella**: la que tuvo que **mandar lejos** ("¡huye!") — culpa de **haber elegido** a quién salvar.
+  - Con **Selka**: la bebé que **protegió con su cuerpo** y a la que dedica **14-20 años intentando rescatar**.
+- **Madre cálida vs. líder encapuchada:** los 20 años la **endurecieron** (la figura de rostro cubierto
+  de la resistencia), pero por debajo **sigue siendo la madre** — y esa grieta la mata: baja la guardia por amor.
+- **Textura (a):** lleva siempre **un mechón de la trenza que Stella se cortó al huir** — el último pedazo
+  físico de la hija que se fue, pegado al cuerpo.
+
 ## 👧 SELKA (la hermana / la General)
 - Con **1 año** es tomada por **Vorthan** en la huida (beat 1) y **criada por él**.
 - Crece **bajo las mentiras del Rey**: le hacen creer que **Stella es una traidora** que robó el Orbe
