@@ -11,15 +11,17 @@
 ## 👤 PERSONAJES (9)
 | @tag | Qué debe mostrar la referencia | Aparece en | Imagen de Drive | Estado |
 |---|---|---|---|---|
-| `@Stella` | 14, pelo **blanco en trenza larga**, pecas, ojos ámbar, traje "04" claro/naranja, estilo Arcane | casi todo el acto | **Galactic_Crew** — turnaround con trenza | ✅ |
-| `@Vera` | madre ~40, **pelo blanco largo** semi-recogido, rostro cálido, túnicas oro/blanco, **grey-blue eyes** | 10,14-16,19,32-56,64-65 | ⬜ por ubicar | ⬜ |
+| `@StellaRopa` | Stella 14 en **ropa civil**, **trenza larga**, pecas, ojos ámbar | **1-20** (parque + llegada al lab) | tu ref **stellaropa** | ✅ |
+| `@StellaArmadura` | Stella en **traje/armadura "04"**, **trenza larga** | **21-56** (hasta cortar la trenza) | tu ref **stellaarmadura** | ✅ |
+| `@StellaPeloCorto` | Stella en **armadura**, **pelo corto** (tras cortar la trenza) | **57-88** (huida, persecución, espacio) | tu ref **stellapelocorto** | ✅ |
+| `@VeraRopa` | madre ~40, **pelo blanco largo** semi-recogido, **túnicas** oro/blanco, **grey-blue eyes** | 10,14-16,19,32-56,64-65 | tu ref **veraropa** | ✅ |
 | `@Naio` | padre ~45, pelo blanco, ojos cansados amables, bata sobre túnica naiel | 19,21-28,32-35 | ⬜ por ubicar | ⬜ |
 | `@SelkaBebe` | bebé, mechón blanco, **grey-blue eyes**, envuelta en tela pálida | 29-33,40,47,49,51,64-65,88 | ⬜ por ubicar | ⬜ |
 | `@Gix` | pequeño **ser de luz** cálida, brillo luciérnaga, núcleo geométrico tenue | 9,18,30,31 | ⬜ por ubicar | ⬜ |
 | `@Vorthan` | el Rey: alto, regio, sin edad, **sonrisa que no llega a los ojos**, túnicas imperiales oscuras/doradas | 34-35,44,53,64-65,82-88 | ⬜ por ubicar | ⬜ |
 | `@S1G1` | robot esbelto oscuro, placas negro-gris mate, **un óptico**, ágil, sigiloso | 48,50,55,62,63 | **Stella_Villans** — "Agente Modelo 04" asesino | ✅ |
 | `@RobotImperial` | robots imperiales blanco/gris, visor sin rostro, voluminosos | 34,40,47,57,64,65 | **Stella_Villans** (otras hojas de robot) | 🟡 |
-| `@PilotoAliada` | mujer naiel adulta, pelo blanco, rostro resuelto, traje de vuelo | 72-74,85 | ⬜ por ubicar | ⬜ |
+| `@PilotoAliada` | piloto aliado/resistencia (la voz por radio); **varios, NO pelo blanco**; traje de vuelo | 72-74 (voz), 71/75/85 (otros) | tus refs de pilotos (al menos 3) | 🟡 asignar |
 
 ## 🌍 LOCACIONES (8)
 *(Sin arte previo: genera el establishing y reúsalo como `@location`.)*
@@ -48,10 +50,11 @@
 ---
 
 ## RESUMEN ACTO 1
-- **24 referencias** en total: 9 personajes · 8 locaciones · 7 props.
-- ✅ **Listas:** `@Stella`, `@S1G1`. 🟡 `@RobotImperial`.
-- ⬜ **Faltan por ubicar (personajes):** `@Vera`, `@Naio`, `@SelkaBebe`, `@Gix`, `@Vorthan`, `@PilotoAliada`.
+- **26 referencias** en total: 11 personajes · 8 locaciones · 7 props.
+- ✅ **Listas:** `@StellaRopa`, `@StellaArmadura`, `@StellaPeloCorto`, `@VeraRopa`, `@S1G1`.
+- 🟡 **Asignar:** `@PilotoAliada` (varios pilotos, no pelo blanco), `@RobotImperial`.
+- ⬜ **Faltan por ubicar:** `@Naio`, `@SelkaBebe`, `@Gix`, `@Vorthan`.
 - ⬜ **Locaciones/props:** generar establishings (CLIPS marcados) y reusarlos como referencia.
 
-> **Prioridad de setup:** primero los personajes que más salen — `@Stella` (✅), `@Vera`, `@Naio`,
-> `@Vorthan`, `@SelkaBebe`, `@Gix`. Con esos seis tienes cubierto el 90% de los planos del Acto 1.
+> **Prioridad de setup:** los que más salen — las 3 Stella (✅), `@VeraRopa` (✅), `@Naio`, `@Vorthan`,
+> `@SelkaBebe`, `@Gix`. Con esos cubres el 90% de los planos del Acto 1.
