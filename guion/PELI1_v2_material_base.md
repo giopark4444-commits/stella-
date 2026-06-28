@@ -339,7 +339,6 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   - El **futuro podrido** mancha de gris/hollín el pelo de todos (les ensuciaron el voto).
   - **Selka** lo mantiene de un blanco **perfecto, imposible** — pero **blanqueado por el imperio** (pureza falsa).
   - **Stella** al final **conserva el pelo teñido** (rompió el voto; el exilio la cambió).
-- **Saludo cotidiano:** en vez de "hola/adiós", **"que pases limpio"** (que la luz pase limpia por ti).
 - **El insulto/condena:** **"agua estancada".** → **Golpe maestro de la propaganda:** Vorthan no solo
   exilia a Stella, la convierte en *"la que estancó la luz"* — la palabra más sagrada usada en su contra.
   El pueblo no la odia por ladrona: **la odia por hereje.** *(Por eso Selka puede crecer odiándola con fe.)*
