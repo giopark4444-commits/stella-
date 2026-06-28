@@ -402,6 +402,18 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Ese **reconocimiento** es lo que desemboca en el clímax, donde por fin se **confirma al parásito
   (Vorthan)** y Theron se compromete del todo.
 
+### 🕯️ La conversación que siembra la sospecha (Theron ↔ Stella)
+- En algún momento, mientras **Stella sigue insistiendo** en ir a Erdia, Theron le pide que **le muestre
+  la mano y el Orbe** (examina su rastro y, al **tocarla**, puede **sentir su mundo/origen** — su poder).
+- Stella vuelve a **mencionar al Rey**. Theron, intrigado, le pide que **se lo describa**.
+- Ella le cuenta lo que **se dice** de él: que el Rey es **inmortal**, que **nunca ha envejecido**, y que
+  **llegó hace cientos de años**.
+- *(Para Theron eso es una **chispa de sospecha** — suena a su presa milenaria —, PERO es **solo un rumor**:
+  no lo confirma ni lo dice abiertamente. Por eso luego **accede al reconocimiento** pero **no se
+  compromete hasta verlo** en el clímax.)*
+- 🔒 **Cuidado (secreto):** esto **NO revela el cambio de forma** — solo planta "el Rey no es un humano
+  normal". El shape-shifting se mantiene oculto hasta el final.
+
 ### 🧫 La visión de Theron sobre los humanos (su filosofía más dura)
 - Stella le pregunta **por qué desconfía de los humanos** si su propio pueblo **ya superó la violencia**.
   Theron responde con su credo más frío:
