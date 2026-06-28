@@ -171,11 +171,15 @@ Nos olvidamos de Stella un momento y presentamos al **líder de la resistencia**
 figura **con la cara cubierta** — no sabemos todavía quién es *(+ es Vera; el público no lo sabe hasta el
 beat 8)*. Vemos que **planean, peleando contra robots**, en un planeta un poco más árido.
 
-## 4 — STELLA EN MISIÓN + EL HUMANO
-Stella aparece también luchando junto a sus compañeros en una misión, y vemos un poco de quiénes son.
-Aquí **reclutan a un guerrero de un planeta llamado Tierra** *(+ **Noah**)*; sienten empatía porque son
-**físicamente muy similares.** *(+ Razón de fondo: la Tierra fue el planeta-exilio de los condenados del
-pueblo de Stella; sus descendientes son la humanidad.)*
+## 4 — STELLA EN ACCIÓN + EL HUMANO (la fosa)
+Vemos a Stella luchando — y aquí va el encuentro con los humanos que trabajamos juntos. Marcada como la
+criminal más buscada, unos cazarrecompensas la capturan y la venden a una estación sin ley: una **fosa de
+apuestas** donde a los presos los obligan a pelear. Ahí están los humanos. La obligan a pelear contra
+**Noah**, un guerrero de un planeta llamado **Tierra** — pero en vez de matarse, **se alían**, porque
+Stella siente una empatía extraña: son **físicamente muy similares.** *(+ Razón de fondo: la Tierra fue el
+planeta-exilio de los condenados del pueblo de Stella; sus descendientes son la humanidad.)* Con la
+tripulación entrando a buscarla, **escapan todos.** Ese escape es su **primer acto heroico propio**, y le
+gana el respeto del Cazador y de **Vosk.** *(+ Noah, además, queda prendado de ella.)*
 
 ## 5 — VÍNCULOS Y PAISAJES
 Vemos cómo Stella y sus nuevos amigos empiezan a tener intercambios, y cómo nacen **complicidad y
@@ -188,9 +192,10 @@ Stella **descubre quién es realmente el Cazador** y su verdadero poder. *(+ Que
 los devoradores de mundos, y que rastrea por tacto/imagen — pero al monstruo no lo puede encontrar.)*
 
 ## 7 — REGRESO A LA NAVE / RESCATE DE PRISIONEROS
-Siguen su camino de regreso a la nave **rescatando algunos prisioneros** —entre ellos el **chico humano**—
-y trayendo a los heridos de vuelta. Entre ellos, **uno de los que se burlaba de ella** *(+ Vosk)*, que
-ahora le ha tomado respeto. Todos se ríen de la situación, pero en el fondo están agradecidos.
+Siguen su camino de regreso a la nave **rescatando algunos prisioneros** y trayendo a los heridos de
+vuelta. *(+ El rescate sale por un plan de Stella, que la consolida como líder.)* Aquí, **Vosk** —el que
+se burlaba de ella *(ya con respeto desde la fosa)*— termina de **rendirse a ella** y la cuadrilla la
+acepta del todo. Todos se ríen de la situación, pero en el fondo están agradecidos.
 
 ## 8 — LA FOTO / LOS FLASHBACKS
 El Cazador puede **localizar a cualquier persona del universo**, pero necesita una **referencia visual.**
