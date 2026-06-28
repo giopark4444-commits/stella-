@@ -324,16 +324,25 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 ---
 
 ## 🌊 LA CULTURA NAIEL (textura de mundo — todo nace de UNA idea)
-> **Idea raíz:** *la luz no se posee, se **canaliza**; puedes **nutrir** o **devorar**.* De aquí sale el
-> tema de toda la saga, incrustado en la vida diaria — y el villano perfecto.
+> **La idea, dicha (versión oficial — río/lago + ley forjada por la catástrofe):**
+> *Erdia casi se destruyó una vez por su propia codicia. De esa ruina, los naieli sacaron una sola ley:
+> una persona es un **río, no un lago.** Un río entrega su agua y sigue vivo; un lago que la atrapa **se
+> pudre.** Nada es tuyo —ni la luz, ni el agua, ni el poder—: **pasa por ti y sigue.** El que acumula, el
+> que **devora**, no peca: **los pudre a todos.***
+>
+> **En el CINE: mostrarlo, NO narrarlo** (show don't tell): los ríos de luz que la gente deja correr sin
+> retener, las máquinas de guerra rendidas bajo las plantas, el pelo blanco como promesa. El espectador
+> **siente** la regla sin que nadie se la explique. *(La frase de arriba es para entenderla, no un
+> monólogo del guion.)*
 
 - **El nai:** la **luz-agua sagrada**, lo indiviso de lo que todo fluye (los ríos de luzagua, el Orbe).
   Los **naieli** = "nacidos del nai".
-- **El Cauce (creencia central):** cada ser vivo es un **canal** por el que la luz pasa hacia otro. **No
-  eres dueño de la luz; eres por dónde pasa.**
-  - **Virtud máxima:** ser **buen cauce** (dejar pasar la luz limpia: generosidad, transparencia).
-  - **Pecado máximo:** **enturbiar tu cauce** — retener, acumular, devorar. A quien lo hace lo llaman
-    **"agua estancada"** (el peor insulto). → **Vorthan es "agua estancada hecha carne": la herejía viva.**
+- **El Cauce (creencia central):** una persona es un **río, no un cofre.** Lo que entra, sale. **Nada es
+  tuyo; eres por donde pasa.**
+  - **Virtud:** ser **buen cauce** — dar, no aferrarse.
+  - **Pecado máximo:** **represar la corriente para ti** — retener, acumular, **devorar**. A quien lo hace
+    lo llaman **"agua estancada"** (el peor insulto). → **Vorthan es "agua estancada hecha carne": la
+    herejía viva.**
 - **El pelo blanco = un VOTO:** los naieli nacen de pelo blanco ("luz sin escribir") y lo **mantienen
   blanco** como promesa: *"sigo siendo un cauce claro".* Pagos:
   - El **futuro podrido** mancha de gris/hollín el pelo de todos (les ensuciaron el voto).
