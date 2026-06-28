@@ -13,9 +13,9 @@
 
 **Personajes**
 - `@Stella` — 14yo naiel girl; white hair in a long braid; amber eyes; freckles; light grey-white recon suit with subtle orange "04" accents; agile, expressive.
-- `@Vera` — ~40, the mother; long white hair partly bound; warm, strong face; flowing naiel robes in soft gold and white.
+- `@Vera` — ~40, the mother; long white hair partly bound; warm, strong face; flowing naiel robes in soft gold and white. **Grey-blue eyes (keep consistent).**
 - `@Naio` — ~45, the father/scientist; white hair; tired kind eyes; lab coat over a naiel tunic.
-- `@SelkaBebe` — 1-year-old baby; wisp of white hair; big dark eyes; wrapped in pale cloth.
+- `@SelkaBebe` — 1-year-old baby; wisp of white hair; grey-blue eyes; wrapped in pale cloth.
 - `@Gix` — small palm-sized being of pure warm light, firefly-like glow, faint geometric core; playful.
 - `@Vorthan` — the King; tall, ageless, regal; calm friendly smile that never reaches the eyes; ornate dark-and-gold imperial robes.
 - `@S1G1` — sleek dark assassin robot; matte black-grey plating; single glowing optic; fast, silent.
@@ -157,7 +157,7 @@
 ### CLIP 10 — Vera detrás
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera — match her design exactly; @Stella in the background.
+- **Characters:** @Vera (grey-blue eyes) — match her design exactly; @Stella in the background.
 - **Shot/lens:** medium on @Vera walking calmly, @Stella small ahead.
 - **Camera:** gentle dolly with @Vera.
 - **Light:** warm day.
@@ -210,7 +210,7 @@
 ### CLIP 14 — "we wanted it all"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera, @Stella.
+- **Characters:** @Vera (grey-blue eyes), @Stella.
 - **Shot/lens:** two-shot, @Vera crouching to @Stella's height.
 - **Camera:** slow push to a tender medium.
 - **Light:** warm golden hour.
@@ -223,7 +223,7 @@
 ### CLIP 15 — "a person is a river"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background. The luzagua river beside them.
-- **Characters:** @Vera, @Stella.
+- **Characters:** @Vera (grey-blue eyes), @Stella.
 - **Shot/lens:** medium two-shot; @Vera gestures to the river.
 - **Camera:** slow dolly linking their faces to the flowing water.
 - **Light:** warm, glowing river light on them.
@@ -236,7 +236,7 @@
 ### CLIP 16 — "I'm going for your sister"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera, @Stella, @Gix.
+- **Characters:** @Vera (grey-blue eyes), @Stella, @Gix.
 - **Shot/lens:** medium that ends holding on @Vera alone, watching @Stella run off.
 - **Camera:** static settle on @Vera's fond, faintly sad face.
 - **Light:** warm golden hour.
@@ -276,7 +276,7 @@
 ### CLIP 19 — la risa se apaga
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella (foreground), @Vera and @Naio (grave, at the projection).
+- **Characters:** @Stella (foreground), @Vera (grey-blue eyes) and @Naio (grave, at the projection).
 - **Shot/lens:** over-shoulder from @Stella to her grim parents.
 - **Camera:** slow push as her smile dies.
 - **Light:** cold, the projection underlighting the parents.
@@ -403,7 +403,7 @@
 ### CLIP 29 — la bebé llora
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaBebe (crying in a floating cradle), @Stella moving to her.
+- **Characters:** @SelkaBebe (grey-blue eyes) (crying in a floating cradle), @Stella moving to her.
 - **Shot/lens:** medium; @Stella crosses to the cradle.
 - **Camera:** follow her to the baby.
 - **Light:** cool, softening near the cradle.
@@ -415,7 +415,7 @@
 ### CLIP 30 — EL JUEGO DE LA LUZ (semilla)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella, @SelkaBebe, @Gix.
+- **Characters:** @Stella, @SelkaBebe (grey-blue eyes), @Gix.
 - **Shot/lens:** intimate close two-shot, the sisters' faces.
 - **Camera:** slow gentle push.
 - **Light:** warm glow from Gix's spark, the one warm light in the cold lab.
@@ -427,7 +427,7 @@
 ### CLIP 31 — la sonrisa de las hermanas (sostenida)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella, @SelkaBebe.
+- **Characters:** @Stella, @SelkaBebe (grey-blue eyes).
 - **Shot/lens:** sustained tender close-up of both sisters smiling, foreheads together.
 - **Camera:** held, almost still.
 - **Light:** warm Gix glow on their faces.
@@ -439,7 +439,7 @@
 ### CLIP 32 — pasos acercándose
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Naio, @Vera.
+- **Characters:** @Naio, @Vera (grey-blue eyes).
 - **Shot/lens:** medium; the parents' heads turn toward the door.
 - **Camera:** snap of tension, slight push to the door.
 - **Light:** cold; a shadow shifting at the corridor.
@@ -451,7 +451,7 @@
 ### CLIP 33 — "never let him have it" + abrazo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Naio, @Stella, @Vera, @SelkaBebe.
+- **Characters:** @Naio, @Stella, @Vera (grey-blue eyes), @SelkaBebe (grey-blue eyes).
 - **Shot/lens:** close family huddle, hands on faces.
 - **Camera:** intimate, slight handheld.
 - **Light:** cold around a pocket of warmth.
@@ -477,7 +477,7 @@
 ### CLIP 35 — Naio derribado / "DAD!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Naio, @Vorthan, @Stella, @Vera.
+- **Characters:** @Naio, @Vorthan, @Stella, @Vera (grey-blue eyes).
 - **Shot/lens:** dynamic wide; @Naio interposes, a force-field flares, @Vorthan strikes him down.
 - **Camera:** quick whip + push as @Stella screams.
 - **Light:** the force-field's flash, then cold again.
@@ -494,7 +494,7 @@
 ### CLIP 36 — la huida por el pasillo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Tall golden corridors under red alert glow.
-- **Characters:** @Vera (carrying @SelkaBebe), @Stella.
+- **Characters:** @Vera (grey-blue eyes) (carrying @SelkaBebe (grey-blue eyes)), @Stella.
 - **Shot/lens:** tracking wide running toward camera.
 - **Camera:** fast Steadicam retreat ahead of them.
 - **Light:** gold washed with pulsing red alarm.
@@ -506,7 +506,7 @@
 ### CLIP 37 — "nothing matters more than that Orb"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera, @Stella, @SelkaBebe.
+- **Characters:** @Vera (grey-blue eyes), @Stella, @SelkaBebe (grey-blue eyes).
 - **Shot/lens:** running two-shot, profiles.
 - **Camera:** lateral tracking with them.
 - **Light:** red alert wash.
@@ -519,7 +519,7 @@
 ### CLIP 38 — "take care of Selka"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella, @Vera.
+- **Characters:** @Stella, @Vera (grey-blue eyes).
 - **Shot/lens:** close on @Stella's wet eyes, then @Vera's impossible smile.
 - **Camera:** tight tracking.
 - **Light:** red wash, eyes shining.
@@ -532,7 +532,7 @@
 ### CLIP 39 — "get to the ship"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera, @Stella.
+- **Characters:** @Vera (grey-blue eyes), @Stella.
 - **Shot/lens:** running two-shot.
 - **Camera:** tracking, urgency.
 - **Light:** red wash.
@@ -545,7 +545,7 @@
 ### CLIP 40 — pelean avanzando
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera (one arm shielding @SelkaBebe), @Stella, @RobotImperial drones.
+- **Characters:** @Vera (grey-blue eyes) (one arm shielding @SelkaBebe (grey-blue eyes)), @Stella, @RobotImperial drones.
 - **Shot/lens:** dynamic wide; a wall bursts, robots pour in.
 - **Camera:** energetic handheld through the fight.
 - **Light:** sparks and red alarm.
@@ -557,7 +557,7 @@
 ### CLIP 41 — las puertas de la Sala del Orbe
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Huge ornate doors to @SalaDelOrbe at the corridor's end.
-- **Characters:** @Vera, @Stella.
+- **Characters:** @Vera (grey-blue eyes), @Stella.
 - **Shot/lens:** wide; they reach the towering doors.
 - **Camera:** push toward the opening doors, a glow spilling out.
 - **Light:** warm Orb glow leaking from the seam.
@@ -585,7 +585,7 @@
 ### CLIP 43 — entran / revelación del Orbe
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera, @Stella. **Props:** @Orbe.
+- **Characters:** @Vera (grey-blue eyes), @Stella. **Props:** @Orbe.
 - **Shot/lens:** wide as they burst in, the Orb ahead.
 - **Camera:** push in with them toward the Orb.
 - **Light:** Orb glow on their faces.
@@ -597,7 +597,7 @@
 ### CLIP 44 — Vorthan entra por el lado opuesto
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vorthan (opposite side), @Vera, @Stella.
+- **Characters:** @Vorthan (opposite side), @Vera (grey-blue eyes), @Stella.
 - **Shot/lens:** wide symmetrical; the family on one side, @Vorthan entering opposite, the Orb between.
 - **Camera:** slow lateral, holding the standoff.
 - **Light:** Orb light splitting the room between them.
@@ -609,7 +609,7 @@
 ### CLIP 45 — STAGING TEMÁTICO (la elección)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella (center), @Vera (one side), @Orbe (other side).
+- **Characters:** @Stella (center), @Vera (grey-blue eyes) (one side), @Orbe (other side).
 - **Shot/lens:** symmetrical wide composition — @Stella centered, the @Orbe on one side, her mother on the other; the visual of her impossible choice (duty vs love).
 - **Camera:** held, balanced; almost still.
 - **Light:** Orb-warm on one side, @Vera lit on the other.
@@ -621,7 +621,7 @@
 ### CLIP 46 — "go for the Orb! NOW!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera, @Stella. **Props:** @Orbe.
+- **Characters:** @Vera (grey-blue eyes), @Stella. **Props:** @Orbe.
 - **Shot/lens:** @Vera shouting, @Stella breaking into a sprint toward the Orb.
 - **Camera:** snap-pan from @Vera to @Stella running.
 - **Light:** Orb glow ahead.
@@ -634,7 +634,7 @@
 ### CLIP 47 — robots sobre Vera
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera (shielding @SelkaBebe), @RobotImperial units.
+- **Characters:** @Vera (grey-blue eyes) (shielding @SelkaBebe (grey-blue eyes)), @RobotImperial units.
 - **Shot/lens:** dynamic medium; @Vera fighting one-armed, baby shielded.
 - **Camera:** handheld with the struggle.
 - **Light:** Orb warmth cut by robot shadows.
@@ -646,7 +646,7 @@
 ### CLIP 48 — entra S1G1
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @S1G1, @Vera.
+- **Characters:** @S1G1, @Vera (grey-blue eyes).
 - **Shot/lens:** low menacing wide as @S1G1 strides in; @Vera's dawning realization.
 - **Camera:** slow push to @S1G1's single optic, then to @Vera's face.
 - **Light:** @S1G1 darker than everything, swallowing Orb light.
@@ -658,7 +658,7 @@
 ### CLIP 49 — esconde a la bebé, se planta
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera, @SelkaBebe, @S1G1.
+- **Characters:** @Vera (grey-blue eyes), @SelkaBebe (grey-blue eyes), @S1G1.
 - **Shot/lens:** medium; @Vera tucks the baby into a safe niche, then squares up.
 - **Camera:** settle as she plants her stance.
 - **Light:** baby in a pocket of warm light, @S1G1 a shadow opposite.
@@ -670,7 +670,7 @@
 ### CLIP 50 — Vera vs S1G1 / la derriba
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera, @S1G1.
+- **Characters:** @Vera (grey-blue eyes), @S1G1.
 - **Shot/lens:** dynamic combat wide; @Vera gives everything; @S1G1 overpowers her.
 - **Camera:** kinetic handheld, then a hard beat as she's struck down by an energy blast.
 - **Light:** energy flashes, no blood.
@@ -682,7 +682,7 @@
 ### CLIP 51 — "STELLA, RUN!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera (down), @SelkaBebe.
+- **Characters:** @Vera (grey-blue eyes) (down), @SelkaBebe (grey-blue eyes).
 - **Shot/lens:** low on @Vera fallen, reaching, the baby beneath her.
 - **Camera:** push to her face as she screams.
 - **Light:** Orb glow on her desperate face.
@@ -732,7 +732,7 @@
 ### CLIP 55 — el escudo / la luz se apaga / "MOM!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera, @Stella, @S1G1.
+- **Characters:** @Vera (grey-blue eyes), @Stella, @S1G1.
 - **Shot/lens:** @Vera on the floor raising her hands → a light shield wraps @Stella; behind @Vera, @S1G1 lowers a light-lance; a flash crosses her chest and her glow goes out.
 - **Camera:** wide to catch the shield + the killing light, then to Stella's scream. **Death shown as her vital light extinguishing — no blood, no wound.**
 - **Light:** the shield blooms; @Vera's inner light snuffs to grey.
@@ -745,7 +745,7 @@
 ### CLIP 56 — "run" / corta la trenza
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vera (dying in light), @Stella. **Props:** @CuchilloLaser.
+- **Characters:** @Vera (grey-blue eyes) (dying in light), @Stella. **Props:** @CuchilloLaser.
 - **Shot/lens:** @Vera mouths "run" as her light fades; @Stella draws the @CuchilloLaser and cuts her braid, dropping free.
 - **Camera:** intercut close — mother's fading face / the braid severed by light.
 - **Light:** @Vera's glow gone; the light-blade flares.
@@ -810,7 +810,7 @@
 ### CLIP 61 — la última mirada
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Stella (above), @Vera (still, below), @SelkaBebe (crying below).
+- **Characters:** @Stella (above), @Vera (grey-blue eyes) (still, below), @SelkaBebe (grey-blue eyes) (crying below).
 - **Shot/lens:** @Stella's POV downward — her fallen mother and the crying baby, far below.
 - **Camera:** a held beat, the image searing in.
 - **Light:** warm Orb light over a scene of loss.
@@ -846,7 +846,7 @@
 ### CLIP 64 — Vorthan levanta a la bebé
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vorthan, @SelkaBebe, @Vera (still on the floor), @RobotImperial.
+- **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @Vera (grey-blue eyes) (still on the floor), @RobotImperial.
 - **Shot/lens:** @Vorthan lifts the baby; robots move toward @Vera's body.
 - **Camera:** slow, cold, deliberate.
 - **Light:** the Orb gone with Stella; the room dimmer now.
@@ -858,7 +858,7 @@
 ### CLIP 65 — "she's dead. find Stella."
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vorthan, @SelkaBebe, @Vera (left on the floor), @RobotImperial.
+- **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @Vera (grey-blue eyes) (left on the floor), @RobotImperial.
 - **Shot/lens:** @Vorthan stops the robots with a gesture, turns away with the baby, leaving @Vera behind.
 - **Camera:** pull back, leaving @Vera small and alone on the floor.
 - **Light:** cold, a fading warmth around the body.
@@ -1153,7 +1153,7 @@
 ### CLIP 88 — Vorthan acaricia a la bebé (cierre)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vorthan, @SelkaBebe.
+- **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes).
 - **Shot/lens:** @Vorthan holds @SelkaBebe before the crowd and, almost imperceptibly, strokes her head like a father.
 - **Camera:** slow push to the tender-yet-wrong gesture, then to black.
 - **Light:** bright day, but the warmth feels like a lie.
