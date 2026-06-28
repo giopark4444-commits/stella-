@@ -427,4 +427,390 @@ CORTE A NEGRO.
 
 ---
 
-> *(Sigue ACTO 2 — el exilio con Theron, la fosa de los humanos, Erdia que se pudre, la muerte de Vera. Pendiente de escribir tras tu visto bueno al tono y al formato.)*
+# ACTO 2 · 承 (SHŌ) — EL EXILIO / ERDIA SE PUDRE
+
+> *(Montaje intercalado: la vida de Stella en el otro universo ↔ Erdia muriéndose. Rótulos de año en cada salto. Por la dilatación 1:4, Stella envejece poco mientras su mundo se derrumba mucho.)*
+
+---
+
+## SEC. 10 — INT. NAVE NODRIZA DE THERON — BAHÍA DE CARGA — ¿?
+
+Goteo metálico. Luz fría.
+
+Stella despierta de golpe en el suelo de una bahía enorme y oscura. La nave de su madre, lo que queda de ella, está enganchada por brazos mecánicos como un animal cazado.
+
+Stella se incorpora. Lo primero que hace —antes que nada— es mirarse la **mano.** La llave de luz sigue ahí. El Orbe sigue dentro. Respira.
+
+Una sombra enorme se mueve en la penumbra. **THERON** —el Cazador. Alto, de otra especie, con ojos que no parpadean como los nuestros. Lleva siglos en esa cara.
+
+**STELLA**
+*(en guardia, voz rota)*
+¿Dónde estoy? ¿Quién eres? ¿Me… me salvaste?
+
+**THERON**
+*(sin acercarse)*
+No te salvé. Te recogí.
+*(beat)*
+Hay una diferencia.
+
+Se acerca, despacio. Mira la mano de Stella. El brillo del Orbe bajo la piel.
+
+**THERON (CONT.)**
+Eso que llevas dentro brilla. Brilla como nada que haya visto en mucho, mucho tiempo.
+*(la mira a los ojos)*
+Y lo que brilla así… se puede seguir.
+
+Stella aprieta el puño, escondiendo la mano. No entiende todavía que para él ella no es una niña perdida.
+
+Es un rastro.
+
+---
+
+## SEC. 11 — INT. NAVE NODRIZA — PASILLOS Y TALLER — MÁS TARDE
+
+La tripulación de Theron mira a Stella como se mira a algo que no debería estar a bordo. La empujan. La ignoran. Le tiran un plato de comida al piso.
+
+**VOSK** (matón, grande, cicatrices) le bloquea el paso. La mide.
+
+**VOSK**
+La mascota del jefe. El cebo que respira.
+*(la empuja con un dedo)*
+¿Sabes qué le pasa al cebo cuando el pez ya picó?
+
+Stella le aparta la mano de un golpe. Vosk sonríe —era lo que quería. Le tira el primer puñetazo.
+
+Pelean. Stella es rápida, entrenada, pero pequeña; Vosk es un muro. La tiene contra la pared cuando—
+
+Una **mano de piedra** del tamaño de un yunque cae sobre el hombro de Vosk y lo aparta sin esfuerzo.
+
+**BROG.** Un gigante de roca, lento, callado, el último de su especie. No dice nada. Solo se queda ahí, entre Vosk y la niña.
+
+Vosk escupe y se va.
+
+Desde un banco de trabajo lleno de piezas, sin levantar la vista, habla **NIMA** —mecánica de **cuatro brazos**, las cuatro ocupadas a la vez.
+
+**NIMA**
+No le hagas caso a Vosk. Ladra para no pensar.
+*(ahora sí la mira)*
+Hay dos formas de romperse, niña. La que llora… y la que arregla cosas a las tres de la mañana.
+*(vuelve a su trabajo)*
+Adivina cuál soy yo.
+
+Stella se sienta en el piso, agotada, sosteniéndose la mano herida. Brog se sienta a su lado, enorme, en silencio. No la consuela. Solo se queda.
+
+Entra **THERON.**
+
+**STELLA**
+Quiero volver a mi planeta. Mi familia está allá. Mi padre, mi hermana—
+
+**THERON**
+Tu planeta ya no es tu problema más urgente.
+*(beat)*
+Hay algo que debes entender, y no te va a gustar. Aquí, el tiempo no corre igual que en tu mundo.
+*(la mira)*
+Un año tuyo… son cuatro allá.
+
+Stella levanta la cara, lentamente entendiendo el tamaño de eso.
+
+**STELLA**
+*(un hilo de voz)*
+…Cuatro.
+
+**THERON**
+Cada día que pierdas aquí, pierdes cuatro allá. Así que no los pierdas.
+
+Se va. Stella se queda mirando su propia mano, y el peso de un reloj que corre cuatro veces más rápido del otro lado del cielo.
+
+---
+
+## SEC. 12 — EXT. ERDIA — REFUGIO DE LA RESISTENCIA — [ERDIA · AÑO 8] — NOCHE
+
+RÓTULO: **ERDIA · AÑO 8.**
+
+Erdia ya no es dorada. Niebla. Andamios. Los ríos de luzagua corren más finos, más opacos. A lo lejos, chimeneas de minas escupen humo donde antes había jardines.
+
+En un refugio escondido, un grupo de naieli demacrados se reúne alrededor de un líder de voz cálida y firme: **MAREK.** El tipo de hombre al que la gente sigue porque les devuelve la esperanza.
+
+**MAREK**
+El Rey dice que estamos así por culpa de Stella. Por una ladrona.
+*(mira a su gente)*
+Pero yo les pregunto: ¿una niña de catorce años vació un planeta entero? ¿O alguien necesitaba que odiáramos a alguien para no mirarlo a él?
+
+Murmullo. Asienten. Marek les ha dado un enemigo distinto.
+
+A su lado, en silencio, hay una **FIGURA ENCAPUCHADA.** No le vemos la cara. Solo las manos —manos de mujer, fuertes— y un mechón de **pelo blanco** que se escapa de la capucha.
+
+La figura observa a Marek y a la gente. Y baja la cabeza.
+
+No sabemos quién es. Todavía.
+
+---
+
+## SEC. 13 — EXT. PLANETA CHATARRA — OPERACIÓN DE LA FLOTA — [STELLA: ~AÑO 2]
+
+Una misión de la flota de Theron. Stella, ya un poco mayor, más dura, se mueve entre escombros con un grupo. Brog cubre. Vosk va al frente.
+
+Algo sale mal. Cazarrecompensas locales los emboscan. En el caos, Stella se esconde en una grieta, fuera de la vista de los enemigos. A salvo.
+
+Y ve a **VOSK** mirándola desde lejos. Sus ojos se cruzan.
+
+Vosk toma una **piedra.** Y la tira contra el metal, justo al lado de ella —un golpe seco que delata su posición.
+
+**VOSK**
+*(gritando a los cazadores, señalando)*
+¡AHÍ! ¡LA DE LA MANO QUE BRILLA! ¡ESA VALE UNA FORTUNA!
+
+Los cazarrecompensas caen sobre Stella. Ella pelea, pero son muchos. La reducen. La marcan con un collar de contención que le apaga el traje.
+
+Lo último que ve antes de que la suban a una nave esclavista es a Vosk —que sonríe, contando ya su recompensa.
+
+Lo que Vosk no calcula es que los cazadores no hacen distinciones. Una red cae también sobre él.
+
+**VOSK (CONT.)**
+*(forcejeando)*
+¡No, no, esperen, yo se las entregué! ¡YO—!
+
+Se lo llevan a él también.
+
+---
+
+## SEC. 14 — INT. ESTACIÓN DE APUESTAS — LA FOSA — DÍA
+
+Una estación-mercado en el confín de la galaxia. Subastas de esclavos. Y abajo, el corazón del negocio: **LA FOSA** —un pozo de combate rodeado de gradas donde se apuesta a muerte.
+
+Un presentador anuncia a la "ladrona del Orbe, la criminal más buscada del sector." Las gradas rugen. Stella, en el centro, todavía con el collar puesto, busca una salida que no existe.
+
+Por una reja se abre el lado opuesto del pozo. Empujan a su oponente.
+
+Es un **humano.** **NOAH** —joven, magullado, espada y pistola viejas, ojos que no se rinden.
+
+Stella se queda helada. Porque ese chico **se parece a ella.** A su gente. *(Lo entenderá después: su planeta desterraba a los condenados a un mundo lejano para morir. No murieron. Se volvieron la humanidad. Son los hijos de sus exiliados.)*
+
+La multitud exige sangre. Noah levanta la espada, en guardia. Stella no.
+
+**STELLA**
+No voy a matarte para que ellos aplaudan.
+
+**NOAH**
+*(midiéndola, sin bajar el arma)*
+…¿Es una trampa?
+
+**STELLA**
+Es una oferta.
+
+**NOAH**
+*(beat — decide)*
+Entonces vas a tener que ayudarme a salir de aquí.
+
+Y en vez de pelear entre ellos, los dos se giran hacia los guardias. Stella arranca el collar de un tirón —el Orbe vuelve a encenderse en su mano— y la fosa se convierte en una fuga.
+
+---
+
+## SEC. 15 — INT. ESTACIÓN DE APUESTAS — LA FOSA / PASARELAS — CONTINUO
+
+Caos. Stella y Noah pelean espalda con espalda. Brog y Nima entran rompiendo la pared exterior —Theron mandó por ella.
+
+En medio del tumulto, en una plataforma de ejecución sobre la fosa, los dueños del lugar están por **ajusticiar a un prisionero** que ya no les sirve.
+
+Es **VOSK.** De rodillas, un arma en la nuca.
+
+Stella lo ve. Se detiene. Noah le grita que vámonos.
+
+Y Stella —a la que Vosk vendió, traicionó, entregó— cambia de dirección y va por él.
+
+Rompe la plataforma, desvía el disparo, lo carga. Vosk la mira sin entender, con el cuello todavía marcado por el arma.
+
+**VOSK**
+*(aturdido)*
+…Yo te entregué. Te vendí. ¿Por qué—?
+
+**STELLA**
+Porque yo no soy tú.
+
+Lo suelta de un empujón hacia la salida. Y por primera vez, el matón la mira distinto. Algo en él se rompe y se recompone.
+
+Escapan todos juntos —Stella, Noah, Brog, Nima, Vosk— mientras la estación arde detrás.
+
+Más tarde, en la nave, **THERON** observa a Stella desde lejos. No dice nada. Pero algo cambió: la mocosa que recogió acaba de salvar a quien la traicionó. Eso, para un cazador de veinte mil años, vale más que el brillo de su mano.
+
+Noah, vendándose una herida, no le quita los ojos de encima a Stella. Ella ni lo nota. Mira el cielo, hacia donde queda Erdia.
+
+---
+
+## SEC. 16 — EXT. PLANETA DE LOS COMETAS / INT. TALLER — MONTAJE — [STELLA: ~AÑO 3]
+
+Montaje. La familia rara que la fue curando.
+
+**BROG** y Stella, sentados frente a un cielo cruzado de cometas. El gigante le enseña su **idioma muerto** —palabras guturales, antiguas, que ya no le quedan a nadie más en el universo. Stella las repite. Brog asiente, despacio. Es lo más parecido a una sonrisa que tiene una montaña.
+
+**NIMA**, en el taller, le construye un **traje nuevo** —ligero, hecho a su medida, con un **monitor en la muñeca** idéntico al que marcó "MAX" aquel día. Cuatro manos trabajando a la vez.
+
+**NIMA**
+*(ajustando)*
+Tu traje viejo era de niña. Este es de quien va a volver a entrar a ese palacio.
+
+Y Stella entrenando el **Orbe.** Al principio inestable —descargas que la tiran al piso, que revientan paneles. Después, de a poco, **canalizándolo:** la luz le sale de la palma, controlada, como un río que por fin aprende a dejar correr.
+
+Por primera vez desde la huida, Stella no parece una sobreviviente. Parece un arma que eligió su causa.
+
+---
+
+## SEC. 17 — INT. NAVE NODRIZA — PUENTE — NOCHE
+
+Theron y Stella, solos. Él le pide algo con un gesto.
+
+**THERON**
+Muéstrame la mano. Y el Orbe.
+
+Stella duda. Luego abre la palma. El Orbe late bajo la piel, expuesto.
+
+Theron se inclina. Lo estudia con una atención de cazador —y por un instante, la mano de él se acerca como quien va a **arrancarlo.** Stella contiene el aliento.
+
+Pero Theron se detiene. Lee algo en cómo el Orbe está enredado en la sangre de ella, en cada vena. Retira la mano.
+
+**THERON**
+*(para sí, casi)*
+No. Sacarlo a la fuerza te mataría a ti… y quizá a quien lo intente.
+*(la mira)*
+Sigues siendo más útil respirando.
+
+**STELLA**
+*(guardando la mano)*
+Qué consuelo.
+*(beat)*
+Theron. En mi mundo dicen cosas del Rey. Que es inmortal. Que nunca envejeció.
+*(beat)*
+Que llegó hace cientos de años, de ninguna parte.
+
+Theron se queda muy quieto. Algo se le enciende detrás de los ojos —eso suena a **su presa.** Pero no dice nada. Todavía es solo un rumor.
+
+**THERON**
+*(cerrando el tema)*
+Los reyes siempre dicen que son eternos. Duerme.
+
+Stella se va. Theron se queda mirando el vacío, masticando una sospecha de veinte mil años.
+
+---
+
+## SEC. 18 — INT. NAVE NODRIZA — CAMAROTE DE STELLA — NOCHE
+
+Stella no duerme. Theron entra y deja algo sobre la mesa: un **proyector de imagen.**
+
+**THERON**
+No me interesa tu planeta. Pero un buen cazador siempre mira antes de descartar.
+*(beat)*
+Mira tú también.
+
+Lo enciende. Y aparecen, vivos, los suyos:
+
+**NAIO** —viejo, encadenado, esclavo en una mina de niebla.
+
+**SELKA** —ya no una bebé, una **joven soldado** entrenando con frialdad quirúrgica, perfecta, vacía.
+
+Y una **figura encapuchada** liderando a la resistencia junto a Marek. La capucha cae un segundo. Es **VERA.**
+
+Viva.
+
+Stella se lleva la mano a la boca. No respira.
+
+**STELLA**
+*(un susurro destrozado)*
+…Está viva. Mamá está viva.
+
+Theron la observa desde la puerta. Por primera vez no la mira como a un cebo. La mira como a alguien que va a hacer algo imposible.
+
+Se va. Stella se queda toda la noche frente a la imagen de su madre, mirando el infinito.
+
+---
+
+## SEC. 19 — INT. ERDIA — MINAS DE NIEBLA — [ERDIA · AÑO 14] — DÍA
+
+RÓTULO: **ERDIA · AÑO 14.**
+
+La **figura encapuchada** —**VERA**— se desliza entre los esclavos de una mina. Busca. Encuentra.
+
+**NAIO.** Anciano, roto, irreconocible. Vera le baja la capucha lo justo para que él la vea.
+
+**NAIO**
+*(sin aire)*
+…¿Vera? No. No, tú moriste. Yo te vi—
+
+**VERA**
+Está viva, Naio. Selka está viva.
+*(la voz se le quiebra)*
+Pero ya no es… ya no es ella. Le metieron otra cosa adentro.
+
+**NAIO**
+No vayas. Si está con él, es una trampa. Te lo ruego.
+
+**VERA**
+*(le toma la cara, decidida)*
+Vuelvo por ti. Te lo juro. Pero primero voy por mi hija.
+
+Lo abraza. Y se va hacia el palacio. Naio estira la mano hacia ella en la niebla, sin alcanzarla.
+
+---
+
+## SEC. 20 — INT. PALACIO IMPERIAL — APOSENTOS DE LA GENERAL — [ERDIA · AÑO 14] — NOCHE
+
+Vera entra, encapuchada, con sus leales **KORIN** y **LESSA** cubriendo afuera. **MAREK** la acompaña hasta la puerta.
+
+**MAREK**
+Yo vigilo aquí. Si algo sale mal, corre. No mires atrás.
+*(le aprieta el hombro)*
+Tráela de vuelta.
+
+Vera entra sola.
+
+Adentro, de espaldas, está **SELKA** —la General. Joven, blanca, impecable, fría.
+
+**SELKA**
+*(sin voltear)*
+Sé lo que eres. Una rata de la resistencia. ¿Vienes a matarme mientras duermo?
+
+**VERA**
+*(se baja la capucha)*
+Vengo por ti.
+
+Selka se gira. Ve la cara de Vera. Y algo, muy adentro, tiembla un microsegundo —antes de que el adiestramiento lo aplaste.
+
+**SELKA**
+Traidora.
+
+Se lanza al ataque. Pelean —pero Vera **no contraataca.** Esquiva, bloquea, retrocede. No es capaz de hacerle daño a su hija.
+
+**VERA**
+*(entre golpes)*
+No voy a lastimarte. No puedo. Mírame. **Mírame.**
+
+Y Selka, ante una enemiga que se niega a herirla, se desarma. El brazo le tiembla. Baja el arma. Algo en ella se rinde, sin entender por qué.
+
+Vera la envuelve en un abrazo. La aprieta como aprietan las madres.
+
+**VERA (CONT.)**
+*(al oído, llorando)*
+Vámonos a casa. Tú, yo y tu padre. Empecemos de nuevo. Olvidemos todo esto.
+
+Selka, en el abrazo, cierra los ojos.
+
+Y le **clava un arma** en el costado.
+
+Vera ahoga un grito. Selka la sostiene contra sí —el abrazo se vuelve otra cosa— y le **susurra algo al oído** que nosotros NO alcanzamos a oír.
+
+Desde la puerta entreabierta, **KORIN** y **LESSA** lo ven todo: la General abrazando a su madre, y el cuchillo. Marek llega un segundo tarde, la cara desencajada de horror.
+
+**KORIN**
+*(susurro, retrocediendo)*
+…La mató. Su propia hija la mató.
+
+Vera resbala al piso. Mira la cara de Selka —esa cara— hasta el último segundo. Y muere creyéndolo.
+
+Selka se queda de pie sobre el cuerpo de su madre, el arma goteando, sin entender por qué le tiembla todo y por qué, de pronto, sin querer, está **tarareando una nana** que no recuerda haber aprendido.
+
+CORTE A NEGRO.
+
+**FIN DEL ACTO 2.**
+
+---
+
+> *(Sigue ACTO 3 — el regreso a Erdia [AÑO 20], el trono, "Fui yo", el sacrificio de Selka y el cierre en la nave de Theron. Pendiente de escribir.)*
