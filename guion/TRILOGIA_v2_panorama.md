@@ -100,6 +100,18 @@ de Vorthan, para destruirlo de raíz, devolver el Orbe a Erdia y enterrar la men
 
 ---
 
+## 📺 EXPANSIÓN / CONTENIDO EPISÓDICO (la casa del "excedente")
+La densidad de material **no es un problema, es un activo**: lo que no entra en las pelis principales se
+vuelve **contenido expandido** (modelo Star Wars → *Clone Wars / Mandalorian / Andor / Rogue One*).
+- **"Las misiones de Stella"** (sus ~5 años antes de volver a Erdia): **episodios/capítulos inéditos
+  autoconclusivos** — el pozo de combate, planetas extraños, cómo dominó el Orbe, los rescates, el
+  vínculo con la tripulación, los humanos.
+- **Sirve doble:** mantiene la **P1 apretada** (solo la columna emocional) **y** construye un **universo
+  lleno** para explotar después (y para alimentar audiencia entre películas — útil para el plan de
+  financiación/Kickstarter).
+- Regla: P1 se escribe **tan apretada como pida la columna**; el resto **no se descarta, se reserva**
+  para episodios/precuelas.
+
 ## 🎯 EJE TEMÁTICO
 **Se puede canalizar la energía —y el dolor— para nutrir o para devorar.**
 - **P1:** Vorthan *devora* (mundos, recuerdos, vínculos). Stella aprende a *canalizar*.
