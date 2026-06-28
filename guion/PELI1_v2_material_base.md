@@ -355,6 +355,25 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **Edad al final:** **21** (Stella termina con **~19**).
 - **Descubre la verdad** en el clímax ("Fui yo"): nunca mató a Vera; fue **Vorthan con su rostro**.
 
+### Selka por dentro (interioridad)
+- **Su odio es FE, no propaganda:** lo cree con **devoción casi religiosa** — su madre y su hermana
+  "estancaron la luz" y condenaron al planeta. No es villana de cartón: es una **creyente verdadera**.
+- **Ama a un padre falso:** la crió **Vorthan**; para ella es **lo más parecido a un padre/salvador** (el
+  que la "recogió" cuando su familia "traicionó" al mundo). Su lealtad es **amor por su asesino**.
+- **(EL GOLPE) Cree que ELLA mató a su madre:** el recuerdo sembrado por Vorthan la convence de que **fue
+  ella** quien mató a Vera por la causa. Construyó su **identidad sobre esa culpa** (*"soy la que puede
+  hacer lo que hay que hacer"*). En el clímax, al descubrir que **NO lo hizo**, alivio y horror **colapsan
+  juntos**: le robaron hasta **la inocencia de no haberlo hecho**.
+- **El vacío como herida (Guardia Vacía):** se "vació de luz" para ejecutar sin temblar — pero ejecuta sin
+  sentir **porque sentir la rompería**. Es una niña a la que **vaciaron de lo que amaba**.
+- **Su única grieta:** la **nana** de su madre, que **lleva dentro sin saber de quién es** (lo único
+  verdadero que le quedó). Por ahí la alcanza Stella en el trono.
+- **Lo que quiere por debajo:** haber **valido la pena**, haber sido **digna de que la conservaran**. Su
+  dureza es una herida vestida de convicción.
+- **Textura (6):** **delicada con las armas, fría con las personas.** Limpia, calibra y repara su sable
+  **con mimo**; a la gente la trata como **trámite**. El cariño que **no se permite con humanos**, lo
+  vuelca en el **metal**.
+
 ## 🔆 GIX (el ajolote de luz)
 - **Origen:** es un **invento del padre, Naio**, creado **a partir del ADN de Stella**. Por eso **ella
   puede invocarlo** como **elemento de protección** (responde a su sangre). *(Rima con el candado de
