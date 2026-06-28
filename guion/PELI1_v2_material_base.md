@@ -28,7 +28,7 @@ Eso **solo se revela en la escena final** ("Fui yo").
 | Hermana menor / la General | **Selka** | (antes Vela) |
 | Madre | **Vera** | igual |
 | Padre | **Naio** | igual |
-| Ajolote de luz | **Gix** | igual |
+| Ser de luz | **Gix** | igual |
 | El Cazador (tercer padre) | **Theron** | "el Cazador" sigue como título |
 | Gigante de roca | **Brog** | igual |
 | Mecánica de 4 brazos | **Nima** | (antes Vex) |
@@ -412,7 +412,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   **con mimo**; a la gente la trata como **trámite**. El cariño que **no se permite con humanos**, lo
   vuelca en el **metal**.
 
-## 🔆 GIX (el ajolote de luz)
+## 🔆 GIX (el ser de luz)
 - **Origen:** es un **invento del padre, Naio**, creado **a partir del ADN de Stella**. Por eso **ella
   puede invocarlo** como **elemento de protección** (responde a su sangre). *(Rima con el candado de
   ADN del Orbe: ambos están ligados a Stella.)*

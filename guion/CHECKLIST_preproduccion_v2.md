@@ -18,7 +18,7 @@
 | **Vera** (encapuchada, resistencia) | ⬜ | ⬜ | misterio años 8-14 |
 | **Naio** (padre, científico) | ⬜ | ⬜ | inicio |
 | **Naio** (anciano esclavo) | ⬜ | ⬜ | minas |
-| **Gix** (ajolote de luz) | ⬜ | ⬜ | normal + forma grande |
+| **Gix** (ser de luz) | ⬜ | ⬜ | normal + forma grande |
 | **Theron** (el Cazador) | ⬜ | ⬜ | especie Threa, de Orun |
 | **Brog** (gigante de roca) | ⬜ | ⬜ | |
 | **Nima** (mecánica 4 brazos) | ⬜ | ⬜ | |
