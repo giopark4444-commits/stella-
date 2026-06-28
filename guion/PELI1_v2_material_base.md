@@ -100,7 +100,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   su ADN**. Stella, aterrada.
 - **(Siembra — "el juego de la luz", idea 3):** en medio de la tensión, la **bebé Selka llora**; Stella,
   por instinto de hermana mayor, la calma con su ritual de siempre — **palma ahuecada, una chispa de Gix
-  bailando, la frente juntas, la nana tarareada**. La bebé se calma. *(Pagará en el trono.)*
+  bailando, la frente juntas, y una sonrisa**. La bebé se calma. *(Pagará en el trono.)*
 - Ya descubrieron la **filtración de información**; en poco tiempo vendrán por ellos.
 - Se escuchan **pasos** que se acercan. Naio: "Llegaron. Tomen a **Selka** (la hermana) y vayan
   ya por el Orbe."
@@ -211,17 +211,18 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 > rotulando los años a cada salto.
 
 ## 4 — EL POZO / EL ENCUENTRO CON LOS HUMANOS (Opción A)
-- **Cómo llega Stella:** Vorthan la marcó como **la ladrona más buscada de la galaxia** (robó el Orbe).
-  **Cazarrecompensas la capturan** (temprano, cuando la tripulación aún la ve como "la inferior" y no la
-  protege) y la **venden a una estación sin ley**: **subasta de esclavos + casas de apuestas**, donde a
-  los "ladrones" los **fuerzan a pelear para los apostadores**.
-- Ahí están los **humanos**: **Ren y Juno** (piratas pillados robando) y **Noah**. **Fuerzan a Stella y a
-  Noah a pelear** entre ellos; en vez de matarse, **se alían**, y con la **tripulación entrando a sacarla**,
-  **deben escapar** todos juntos.
-- **Empatía:** Stella siente algo raro al verlos — **se parecen a ella**. *(Siembra: son descendientes de
-  su mundo; se MUESTRA en una mirada, no se explica aún.)* **Noah** queda prendado de ella.
+- **Cómo llega Stella (v0.1):** en una **misión de la flota de Theron**, **Vosk le tiende una trampa** —
+  tira una piedra para **delatar su escondite**— y la **capturan.** Marcada como la **más buscada** (robó
+  el Orbe), la venden a una estación sin ley: **fosa de apuestas** donde a los presos los **fuerzan a
+  pelear.** *(Lo que Vosk NO esperaba: a él también lo atrapan, y cae en la misma fosa.)*
+- Ahí están los **humanos**: **Ren y Juno** (piratas) y **Noah**. **Fuerzan a Stella y a Noah a pelear**;
+  en vez de matarse, **se alían**, y con la tripulación entrando, **escapan** todos.
+- **La redención de Vosk:** cuando van a **ejecutar a Vosk** en la fosa, **Stella lo salva** — y recién
+  ahí, el que la traicionó **le toma respeto.**
+- **Empatía:** Stella siente algo raro al verlos — **se parecen a ella**. *(Siembra: descendientes de su
+  mundo; se MUESTRA en una mirada.)* **Noah** queda prendado de ella.
 - **Doble función (poda):** este **escape ES el acto heroico** que **le gana a Stella** el respeto de
-  Theron (más adelante él accede al **reconocimiento** de Erdia) **y** arranca el **respeto de Vosk**.
+  Theron (más adelante él accede al **reconocimiento** de Erdia).
 
 ## 5 — VÍNCULOS Y PAISAJES
 - Stella y sus nuevos amigos tienen intercambios; nacen **complicidad y confianza**. Burlas, risas,
@@ -567,9 +568,13 @@ sino **una llave que CONTROLE** — y por eso **cría a Selka** desde bebé, lea
 - **Por qué Naio lo encripta:** **justo para que Vorthan NO pueda usarlo** — lo bloquea con la sangre
   naiel de su hija. *(Tragedia: el plan le **rebota**, porque Vorthan **ya tiene a Selka**, de la misma
   sangre, como llave.)*
-- **Mecánica clave (el candado de ADN):** Vorthan **SÍ puede extraer el poder** del Orbe… pero **NO
-  puede tocarlo**, porque está **amarrado al ADN de Stella**. **Solo su familia** (quienes comparten su
-  mismo ADN) **puede tocarlo y manipularlo**.
+- **Mecánica clave (candado de sangre) — v0.1:**
+  - **Tocar / manipular / extraer:** **solo la familia de Stella** (su misma sangre). Vorthan **NO puede
+    tocarlo.** → por eso necesita a **Selka** para arrancárselo a Stella y ponerlo en la consola.
+  - **Usar / canalizar su poder:** una vez integrado en Stella, **solo ELLA puede usarlo** (su luz, el
+    beam). Nadie más, ni siquiera otro familiar.
+  - **Vorthan no lo "usa":** solo puede **drenar su energía bruta** metiéndolo en la consola de su
+    nave-palacio. *(Por eso la luz no vuelve a Erdia: la nave se la chupa.)*
 - **Por eso Vorthan conserva y usa a Selka:** es de la **misma sangre** → una **"llave" capaz de
   manipular el Orbe** (arrancárselo a Stella y devolverlo a la consola) para que Vorthan **extraiga su
   poder y huya en la nave**. **Naio también es sangre**, pero hostil; por eso Vorthan **cría a Selka como
@@ -653,11 +658,15 @@ Naio **aparece en 4 momentos**, no solo en flashbacks:
 - **Brog** aporta el **peso emocional callado**; **Nima**, la **chispa y la voz**. Entre los dos **adoptan**
   a Stella sin decirlo. Los tres **perdieron su mundo** → la familia que forman es **lo que de verdad la cura**.
 
-## 💢 VOSK — arco (de rival a leal)
-- **Nave nodriza (beat 2):** es **el matón** que acosa a Stella; el conflicto estalla y **ella tiene que
-  pelear contra él**. La tripulación los separa.
-- **El pozo (beat 4):** al ver a Stella **sobrevivir y escapar del pozo**, empieza a **respetarla**.
-- **Misión posterior (beat 7):** termina de **rendirse a ella**; la cuadrilla la acepta del todo.
+## 💢 VOSK — arco (de traidor a leal)
+- **Nave nodriza (beat 2):** es **el matón** que acosa a Stella; pelean, la tripulación los separa.
+- **La traición (beat 4):** en una misión de la flota, **Vosk traiciona a Stella** — tira una piedra para
+  **delatar su escondite**— y la capturan (la venden a la fosa de apuestas). *(Lo que NO esperaba: a él
+  también lo atrapan, y cae en la misma fosa.)*
+- **La redención (beat 4, el pozo):** cuando van a **ejecutar a Vosk** en la fosa, **Stella lo salva.**
+  RECIÉN AHÍ el matón que la traicionó **le toma respeto** (culpa + deuda). *(Arco más fuerte: no es solo
+  "rival→leal", es "traidor→leal".)*
+- **Misión posterior / regreso:** termina de **rendirse a ella**; ruega a Theron entrar a Erdia a ayudarla.
 - **Regreso (beat 12):** **es de los que le ruega a Theron** poder **entrar a Erdia a ayudar a la fuga
   de Stella** — ya la defiende abiertamente.
 - **Peli 2:** Vosk es **de los que MÁS quiere que Stella despierte**; cuando lo hace, **le es leal y se
