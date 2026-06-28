@@ -177,11 +177,13 @@ El suelo tiembla, y se revela el secreto que nadie supo jamás: el palacio enter
 
 —Majestad —retrocede Selka—, el Orbe debería traer la luz. ¿Qué es esto?
 
-Vorthan empieza a reír con mil voces a la vez, y su carne hierve como cera. Se convierte en la pequeña Selka. Luego en Vera. Y por último en Marek. Siempre fue él. Siempre.
+Vorthan empieza a reír con mil voces a la vez, y su carne hierve como cera. Y se convierte primero en **Vera.** Con el rostro de la madre se acerca a Stella, que agoniza en el suelo, y juega con ella hasta el final. Stella levanta los ojos y no ve al monstruo: ve a su madre. —Mamá… viniste —susurra, sonríe, y cierra los ojos en paz. Su corazón se detiene.
 
-Y ocurren dos cosas a la vez. Stella, moribunda en el suelo, levanta los ojos y ve acercarse a su madre. No ve al monstruo. Ve a Vera. —Mamá… viniste —susurra, y sonríe, y cierra los ojos en paz. Su corazón se detiene.
+Después la cera vuelve a correr, y se convierte en **Marek** — el amigo de la resistencia. Siempre fue él. Siempre.
 
-Pero Selka, de pie, oye algo muy distinto. La cosa con el rostro de su madre se inclina y le repite, al oído, las palabras de aquella noche — ahora con la voz del Rey: —Fui yo. Corrió a mis brazos bajo la lluvia, llorando de alivio. Y le clavé la cuchilla… vistiendo tu cara. Tú nunca la tocaste, pequeña. Te robé hasta el recuerdo de no haberlo hecho.
+Y por último toma la forma de **Selka, de niña.** Con esa carita se vuelve hacia la General, y le clava la verdad: —Fuiste tú quien la mató. —sonríe—. Al menos… eso creyó ella. Tu madre murió mirando esta cara, odiándote. —se inclina—. Porque la maté yo, pequeña. Vistiendo tu rostro. Y ríe.
+
+Selka nunca mató a su madre. Y su madre murió creyendo que su propia hija la mataba.
 
 Silencio. Y entonces Selka, muy bajo, empieza a tararear la nana. La de siempre. La que nunca supo de dónde venía. Y al fin lo entiende: era de su madre. Era lo único verdadero que le quedaba, y se lo acaban de ensuciar. La nana se quiebra en un sollozo, y el sollozo en un grito:
 

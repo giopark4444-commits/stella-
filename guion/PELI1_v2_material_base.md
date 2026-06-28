@@ -685,11 +685,16 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 5. Selka **coloca el Orbe en la consola** (Vorthan no puede tocarlo) → **no vuelve la luz**: en su lugar, **se
    revela el gran secreto** — el **palacio cobra vida y empieza a despegar: SIEMPRE fue una NAVE** (lo
    que todos creían un "meteorito hecho palacio"). Es lo que Vorthan siempre quiso: energía para volar.
-6. **Transformación de Vorthan:** Selka niña → la madre (Vera) → y el **giro v2**: revela que también era
-   el **"amigo líder de la resistencia"** todo el tiempo.
-7. **Doble lectura de "Fui yo":** **Stella** ve a su madre y muere-en-paz (entra en coma); **Selka** oye
-   la verdad — **ella nunca mató a Vera, fue Vorthan con su cara** (retomamos el "oído" del beat 11 ahora
-   con la voz de Vorthan). La **nana** de la infancia la rompe.
+6. **Transformación de Vorthan (orden):**
+   - **Primero en VERA:** con la forma de la madre **juega con / engaña a Stella**. Stella, moribunda, la
+     ve, cree que vino por ella y **muere-en-paz** ("Mamá… viniste") → entra en coma.
+   - **Luego en MAREK:** revela que el "amigo líder de la resistencia" **siempre fue él**.
+   - **Por último en SELKA DE NIÑA.**
+7. **"Fui yo" (en la forma de Selka niña, dirigido a la General):** con el rostro de la niña, le dice que
+   **fue ella quien mató a Vera** — *al menos, eso creyó Vera al morir, mirando esa cara* — *"porque en
+   verdad fui yo, vistiendo tu rostro"*. Y **ríe**. → Doble horror: **Selka nunca mató a su madre**, y
+   **Vera murió creyendo que su propia hija la mataba.** Retomamos el "oído" del beat 11. La **nana**
+   termina de romper a Selka.
 8. Selka se quiebra. Vorthan toma su **forma real (el Parásito biomecánico colosal)**. Mientras **Brog y
    Nima rescatan a Stella**, Selka **se planta a hacerle frente al Parásito para cubrir el rescate** —
    pero **no le da la talla**: el Parásito, casi sin esfuerzo, le **secciona el brazo**. *(Su primer acto
