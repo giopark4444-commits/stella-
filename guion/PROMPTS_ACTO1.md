@@ -15,8 +15,8 @@
 - `@StellaRopa` — Stella (14) in **civilian clothes**; white hair in a **long braid**; amber eyes; freckles. *(Park + lab arrival, clips 1-20.)*
 - `@StellaArmadura` — Stella in her **recon suit / armor** ("04", grey-white + orange); white hair in a **long braid**; amber eyes; freckles. *(Clips 21-56, until she cuts the braid.)*
 - `@StellaPeloCorto` — Stella in the **recon suit / armor** with **short, freshly-cut hair** (after the braid is cut); amber eyes; freckles. *(Clips 57-88.)*
-- `@VeraRopa` — ~40, the mother; long white hair partly bound; warm strong face; flowing naiel **robes** in soft gold/white. **Grey-blue eyes.** *(Used throughout Act 1.)*
-- `@VeraArmadura` — Vera in **combat / resistance gear** (resistance era, Acts 2-3). **Grey-blue eyes.**
+- `@VeraRopa` — ~40, the mother; long white hair partly bound; warm strong face; flowing naiel **robes** in soft gold/white. **Grey-blue eyes.** *(When she strolls with Stella — the park, clips ≤16.)*
+- `@VeraArmadura` — the mother in **combat armor/gear**; long white hair; **grey-blue eyes**. *(While escaping with Stella — lab, corridors, Orb chamber, clips 17-65.)*
 - `@Naio` — ~45, father/scientist; white hair; tired kind eyes; lab coat over a naiel tunic.
 - `@SelkaBebe` — 1-year-old baby; wisp of white hair; **grey-blue eyes**; wrapped in pale cloth.
 - `@Gix` — small palm-sized being of warm light, firefly glow, faint geometric core; playful.
@@ -273,11 +273,11 @@
 ### CLIP 19 — la risa se apaga
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The lab, the dead-core projection glowing coldly behind the parents.
-- **Characters:** @StellaRopa (foreground); @VeraRopa (grey-blue eyes) and @Naio, grave, lit from below by the projection.
+- **Characters:** @StellaRopa (foreground); @VeraArmadura (grey-blue eyes) and @Naio, grave, lit from below by the projection.
 - **Shot/lens:** over-shoulder from @StellaRopa to her grim parents.
 - **Camera:** a slow push as her smile drains away.
 - **Light:** cold, the projection underlighting Vera and Naio's faces.
-- **Action:** @StellaRopa's grin fades by degrees as she reads the dread carved into @VeraRopa and @Naio's faces; @Gix's glow dims and tucks behind her; the laughter dies in her throat, the room suddenly far too quiet.
+- **Action:** @StellaRopa's grin fades by degrees as she reads the dread carved into @VeraArmadura and @Naio's faces; @Gix's glow dims and tucks behind her; the laughter dies in her throat, the room suddenly far too quiet.
 - **Mood:** the floor dropping out.
 - **Audio:** SFX only — the laugh cutting to silence, low hum, a single soft warning blip. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -434,11 +434,11 @@
 ### CLIP 32 — pasos acercándose
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The cold lab, a shadow shifting at the corridor mouth beyond the door.
-- **Characters:** @Naio, @VeraRopa (grey-blue eyes).
+- **Characters:** @Naio, @VeraArmadura (grey-blue eyes).
 - **Shot/lens:** medium; the parents' heads snap toward the door.
 - **Camera:** a sharp tension-push toward the door and the moving shadow.
 - **Light:** cold; a hard shadow growing across the threshold.
-- **Action:** the warmth shatters as heavy approaching footsteps echo down the corridor; @Naio and @VeraRopa exchange one fast, wordless look that says the time they were dreading has arrived.
+- **Action:** the warmth shatters as heavy approaching footsteps echo down the corridor; @Naio and @VeraArmadura exchange one fast, wordless look that says the time they were dreading has arrived.
 - **Mood:** dread spiking.
 - **Audio:** SFX only — approaching boots, the hum darkening, a low pulse. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -446,7 +446,7 @@
 ### CLIP 33 — "never let him have it" + abrazo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The cold lab, a tight family knot pulled close against the coming danger.
-- **Characters:** @Naio, @StellaArmadura, @VeraRopa (grey-blue eyes), @SelkaBebe (grey-blue eyes).
+- **Characters:** @Naio, @StellaArmadura, @VeraArmadura (grey-blue eyes), @SelkaBebe (grey-blue eyes).
 - **Shot/lens:** close family huddle, hands gripping faces and shoulders.
 - **Camera:** intimate, a slight nervous handheld.
 - **Light:** cold around a small pocket of held warmth.
@@ -472,11 +472,11 @@
 ### CLIP 35 — Naio derribado / "DAD!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The cold lab erupting into motion, a force-field flaring blue-white.
-- **Characters:** @Naio, @Vorthan, @StellaArmadura, @VeraRopa (grey-blue eyes).
+- **Characters:** @Naio, @Vorthan, @StellaArmadura, @VeraArmadura (grey-blue eyes).
 - **Shot/lens:** dynamic wide; @Naio steps between them, a shield flares, @Vorthan strikes him down.
 - **Camera:** a quick whip-pan and push as @StellaArmadura screams.
 - **Light:** the force-field's bright flash, then the cold returning.
-- **Action:** @Naio throws himself forward and snaps up a crackling force-field to buy seconds; @Vorthan, almost gently, swats it apart and drops @Naio with a single pulse of energy (no blood, no wound); @StellaArmadura lunges with a scream as @VeraRopa hauls her bodily toward the back exit.
+- **Action:** @Naio throws himself forward and snaps up a crackling force-field to buy seconds; @Vorthan, almost gently, swats it apart and drops @Naio with a single pulse of energy (no blood, no wound); @StellaArmadura lunges with a scream as @VeraArmadura hauls her bodily toward the back exit.
 - **Dialogue (@StellaArmadura):** "DAD!"
 - **Mood:** the family shattering.
 - **Audio:** SFX only — force-field hum, a concussive thud, Stella's scream. No music.
@@ -489,11 +489,11 @@
 ### CLIP 36 — la huida por el pasillo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Tall ornate corridors of gold and pale stone, banners hanging still, everything strobed by pulsing red alert light and long thrown shadows.
-- **Characters:** @VeraRopa (grey-blue eyes) carrying @SelkaBebe (grey-blue eyes), @StellaArmadura.
+- **Characters:** @VeraArmadura (grey-blue eyes) carrying @SelkaBebe (grey-blue eyes), @StellaArmadura.
 - **Shot/lens:** tracking wide, the two running straight toward camera.
 - **Camera:** a fast Steadicam retreat ahead of them down the corridor.
 - **Light:** gold washed over with throbbing red, shadows sweeping past.
-- **Action:** @VeraRopa and @StellaArmadura sprint down the grand corridor, @SelkaBebe clutched tight to Vera's chest, banners and gilded arches flashing past in pulses of red, the low hum of robot drones swelling somewhere behind them.
+- **Action:** @VeraArmadura and @StellaArmadura sprint down the grand corridor, @SelkaBebe clutched tight to Vera's chest, banners and gilded arches flashing past in pulses of red, the low hum of robot drones swelling somewhere behind them.
 - **Mood:** panic, momentum.
 - **Audio:** SFX only — pounding footsteps, alarm, distant robot hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -501,12 +501,12 @@
 ### CLIP 37 — "nothing matters more than that Orb"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The red-strobed corridor blurring past as they run.
-- **Characters:** @VeraRopa (grey-blue eyes), @StellaArmadura, @SelkaBebe (grey-blue eyes).
+- **Characters:** @VeraArmadura (grey-blue eyes), @StellaArmadura, @SelkaBebe (grey-blue eyes).
 - **Shot/lens:** running two-shot, profiles side by side.
 - **Camera:** lateral tracking locked to them.
 - **Light:** red alert wash sweeping over their faces.
-- **Action:** @VeraRopa, breathless and fierce, turns her head to @StellaArmadura mid-stride and lays down the brutal law of the night — the Orb above all, above even the people running beside her — the words landing harder than the alarm.
-- **Dialogue (@VeraRopa):** "Nothing matters more than that Orb. Not me. Not your sister."
+- **Action:** @VeraArmadura, breathless and fierce, turns her head to @StellaArmadura mid-stride and lays down the brutal law of the night — the Orb above all, above even the people running beside her — the words landing harder than the alarm.
+- **Dialogue (@VeraArmadura):** "Nothing matters more than that Orb. Not me. Not your sister."
 - **Mood:** brutal love.
 - **Audio:** SFX only — breathless running, alarm. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -514,11 +514,11 @@
 ### CLIP 38 — "take care of Selka"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The corridor, red light flaring over running faces.
-- **Characters:** @StellaArmadura, @VeraRopa (grey-blue eyes).
-- **Shot/lens:** close on @StellaArmadura's wet eyes, cutting to @VeraRopa's impossible smile.
+- **Characters:** @StellaArmadura, @VeraArmadura (grey-blue eyes).
+- **Shot/lens:** close on @StellaArmadura's wet eyes, cutting to @VeraArmadura's impossible smile.
 - **Camera:** tight tracking on their faces.
 - **Light:** red wash, eyes shining wet.
-- **Action:** @StellaArmadura answers through brimming tears, jaw set; @VeraRopa meets her with a smile that has no business existing in this moment — a mother's reassurance offered while sprinting for their lives.
+- **Action:** @StellaArmadura answers through brimming tears, jaw set; @VeraArmadura meets her with a smile that has no business existing in this moment — a mother's reassurance offered while sprinting for their lives.
 - **Dialogue (@StellaArmadura):** "I understand. Just take care of Selka."
 - **Mood:** heartbreak in motion.
 - **Audio:** SFX only — running, alarm, a ragged breath. No music.
@@ -527,12 +527,12 @@
 ### CLIP 39 — "get to the ship"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. A branching of the grand corridor, red light and far-off impacts.
-- **Characters:** @VeraRopa (grey-blue eyes), @StellaArmadura.
+- **Characters:** @VeraArmadura (grey-blue eyes), @StellaArmadura.
 - **Shot/lens:** running two-shot, Vera pointing ahead.
 - **Camera:** tracking with urgency.
 - **Light:** red wash.
-- **Action:** @VeraRopa flings out an arm toward a far junction as they run, shouting the escape plan over the rising alarm, her certainty the only thing holding the moment together.
-- **Dialogue (@VeraRopa):** "Whatever happens, get to the ship — the exit by the park."
+- **Action:** @VeraArmadura flings out an arm toward a far junction as they run, shouting the escape plan over the rising alarm, her certainty the only thing holding the moment together.
+- **Dialogue (@VeraArmadura):** "Whatever happens, get to the ship — the exit by the park."
 - **Mood:** desperate resolve.
 - **Audio:** SFX only — running, alarm rising, distant crashes. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -540,11 +540,11 @@
 ### CLIP 40 — pelean avanzando
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. A corridor wall bursting inward, robots pouring through dust and red light.
-- **Characters:** @VeraRopa (grey-blue eyes) (one arm shielding @SelkaBebe (grey-blue eyes)), @StellaArmadura, @RobotImperial drones.
+- **Characters:** @VeraArmadura (grey-blue eyes) (one arm shielding @SelkaBebe (grey-blue eyes)), @StellaArmadura, @RobotImperial drones.
 - **Shot/lens:** dynamic wide; a wall explodes, robots flood in.
 - **Camera:** energetic handheld weaving through the fight.
 - **Light:** sparks, dust, pulsing red.
-- **Action:** a wall blows inward and faceless @RobotImperial units swarm; @VeraRopa fights one-armed with the baby pinned to her chest while @StellaArmadura ducks and strikes with quick agile bursts (energy and motion, no firearms), the two carving a desperate path forward through the chaos.
+- **Action:** a wall blows inward and faceless @RobotImperial units swarm; @VeraArmadura fights one-armed with the baby pinned to her chest while @StellaArmadura ducks and strikes with quick agile bursts (energy and motion, no firearms), the two carving a desperate path forward through the chaos.
 - **Mood:** chaos, forward drive.
 - **Audio:** SFX only — wall blast, energy clashes, robot servos, baby cry. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -552,11 +552,11 @@
 ### CLIP 41 — las puertas de la Sala del Orbe
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The corridor's end: enormous ornate doors to @SalaDelOrbe, warm golden light bleeding through their seam against the cold red of the hall.
-- **Characters:** @VeraRopa (grey-blue eyes), @StellaArmadura.
+- **Characters:** @VeraArmadura (grey-blue eyes), @StellaArmadura.
 - **Shot/lens:** wide; the two reach the towering doors.
 - **Camera:** a push toward the opening doors and the warm glow spilling out.
 - **Light:** red corridor giving way to warm Orb-glow leaking from the seam.
-- **Action:** @VeraRopa and @StellaArmadura skid up to the colossal doors of the Orb chamber; the doors part with a deep resonant groan and a flood of warm sacred light pours over their faces — the goal, finally in reach.
+- **Action:** @VeraArmadura and @StellaArmadura skid up to the colossal doors of the Orb chamber; the doors part with a deep resonant groan and a flood of warm sacred light pours over their faces — the goal, finally in reach.
 - **Mood:** threshold, awe, fragile hope.
 - **Audio:** SFX only — heavy doors grinding open, a swelling warm hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -580,11 +580,11 @@
 ### CLIP 43 — entran / revelación del Orbe
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The luminous hall, the @Orbe glowing ahead across the mirror-floor.
-- **Characters:** @VeraRopa (grey-blue eyes), @StellaArmadura. **Props:** @Orbe.
+- **Characters:** @VeraArmadura (grey-blue eyes), @StellaArmadura. **Props:** @Orbe.
 - **Shot/lens:** wide as they burst in, the Orb framed ahead.
 - **Camera:** a push-in with them toward the sphere.
 - **Light:** Orb-glow rising over their faces as they near.
-- **Action:** @VeraRopa and @StellaArmadura stumble through the great doors into the radiance, the @Orbe pulsing ahead of them like a second sun; for a breath the chaos behind is forgotten in the sheer presence of the thing they came to save.
+- **Action:** @VeraArmadura and @StellaArmadura stumble through the great doors into the radiance, the @Orbe pulsing ahead of them like a second sun; for a breath the chaos behind is forgotten in the sheer presence of the thing they came to save.
 - **Mood:** goal in sight, awe under pressure.
 - **Audio:** SFX only — doors, breathless arrival, the swelling Orb hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -592,7 +592,7 @@
 ### CLIP 44 — Vorthan entra por el lado opuesto
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast hall, the Orb's light splitting the space between two far doorways.
-- **Characters:** @Vorthan (opposite side), @VeraRopa (grey-blue eyes), @StellaArmadura. **Props:** @Orbe.
+- **Characters:** @Vorthan (opposite side), @VeraArmadura (grey-blue eyes), @StellaArmadura. **Props:** @Orbe.
 - **Shot/lens:** wide symmetrical; the family at one side, @Vorthan entering opposite, the Orb suspended between.
 - **Camera:** a slow lateral move holding the standoff.
 - **Light:** the Orb's glow divides the chamber, each side half-lit.
@@ -604,11 +604,11 @@
 ### CLIP 45 — STAGING TEMÁTICO (la elección)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The symmetrical heart of the chamber, the Orb on one side, the mother on the other, the daughter caught between.
-- **Characters:** @StellaArmadura (center), @VeraRopa (grey-blue eyes) (one side), @Orbe (other side).
+- **Characters:** @StellaArmadura (center), @VeraArmadura (grey-blue eyes) (one side), @Orbe (other side).
 - **Shot/lens:** symmetrical wide composition — @StellaArmadura centered, the @Orbe on one side, her mother on the other; the visual of her impossible choice (duty vs love).
 - **Camera:** held, balanced, almost motionless.
-- **Light:** Orb-warm on one side of her, @VeraRopa's softer light on the other, @StellaArmadura split between the two.
-- **Action:** the staging itself tells it: @StellaArmadura stands dead center of the great hall, the @Orbe glowing to her left, @VeraRopa to her right, her body torn between the duty her father gave her and the mother she loves — the thematic image of the entire film, held in perfect, terrible balance.
+- **Light:** Orb-warm on one side of her, @VeraArmadura's softer light on the other, @StellaArmadura split between the two.
+- **Action:** the staging itself tells it: @StellaArmadura stands dead center of the great hall, the @Orbe glowing to her left, @VeraArmadura to her right, her body torn between the duty her father gave her and the mother she loves — the thematic image of the entire film, held in perfect, terrible balance.
 - **Mood:** the dilemma, crystallized.
 - **Audio:** SFX only — low drone, two competing pulses (Orb and heartbeat). No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -616,12 +616,12 @@
 ### CLIP 46 — "go for the Orb! NOW!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The luminous hall snapping into motion, Orb glowing ahead.
-- **Characters:** @VeraRopa (grey-blue eyes), @StellaArmadura. **Props:** @Orbe.
-- **Shot/lens:** @VeraRopa shouting, snap to @StellaArmadura breaking into a sprint toward the Orb.
-- **Camera:** a snap-pan from @VeraRopa to @StellaArmadura exploding into a run.
+- **Characters:** @VeraArmadura (grey-blue eyes), @StellaArmadura. **Props:** @Orbe.
+- **Shot/lens:** @VeraArmadura shouting, snap to @StellaArmadura breaking into a sprint toward the Orb.
+- **Camera:** a snap-pan from @VeraArmadura to @StellaArmadura exploding into a run.
 - **Light:** Orb-glow flaring ahead of her.
-- **Action:** @VeraRopa screams the order and shoves Stella forward; @StellaArmadura bolts across the mirror-floor toward the @Orbe, the standoff shattering into desperate speed.
-- **Dialogue (@VeraRopa):** "Go for the Orb! NOW!"
+- **Action:** @VeraArmadura screams the order and shoves Stella forward; @StellaArmadura bolts across the mirror-floor toward the @Orbe, the standoff shattering into desperate speed.
+- **Dialogue (@VeraArmadura):** "Go for the Orb! NOW!"
 - **Mood:** ignition.
 - **Audio:** SFX only — the shout, pounding running steps, Orb hum spiking. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -629,11 +629,11 @@
 ### CLIP 47 — robots sobre Vera
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The radiant hall, robot shadows cutting across the warm Orb-light.
-- **Characters:** @VeraRopa (grey-blue eyes) (shielding @SelkaBebe (grey-blue eyes)), @RobotImperial units.
-- **Shot/lens:** dynamic medium; @VeraRopa fighting one-armed, the baby shielded against her.
+- **Characters:** @VeraArmadura (grey-blue eyes) (shielding @SelkaBebe (grey-blue eyes)), @RobotImperial units.
+- **Shot/lens:** dynamic medium; @VeraArmadura fighting one-armed, the baby shielded against her.
 - **Camera:** handheld locked to her struggle.
 - **Light:** warm Orb-light slashed by hard robot shadows.
-- **Action:** @RobotImperial units converge on @VeraRopa; she fights savagely with one arm while the other cradles @SelkaBebe, kicking and twisting to keep the baby clear, unable to follow her daughter across the hall.
+- **Action:** @RobotImperial units converge on @VeraArmadura; she fights savagely with one arm while the other cradles @SelkaBebe, kicking and twisting to keep the baby clear, unable to follow her daughter across the hall.
 - **Mood:** trapped, ferocious.
 - **Audio:** SFX only — energy clashes, servos, the baby's cry. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -641,11 +641,11 @@
 ### CLIP 48 — entra S1G1
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The bright hall, a darker shape entering that seems to drink the light around it.
-- **Characters:** @S1G1, @VeraRopa (grey-blue eyes).
-- **Shot/lens:** low menacing wide as @S1G1 strides in; cut to @VeraRopa's dawning realization.
-- **Camera:** a slow push to @S1G1's single glowing optic, then to @VeraRopa's face.
+- **Characters:** @S1G1, @VeraArmadura (grey-blue eyes).
+- **Shot/lens:** low menacing wide as @S1G1 strides in; cut to @VeraArmadura's dawning realization.
+- **Camera:** a slow push to @S1G1's single glowing optic, then to @VeraArmadura's face.
 - **Light:** @S1G1 is matte-dark, swallowing the warm Orb-light, a single cold optic burning.
-- **Action:** the dark assassin @S1G1 walks in slow and silent where the other robots are loud, its one optic fixing on @VeraRopa; her face changes as she understands — this is not a fight to win, it is an execution sent for her.
+- **Action:** the dark assassin @S1G1 walks in slow and silent where the other robots are loud, its one optic fixing on @VeraArmadura; her face changes as she understands — this is not a fight to win, it is an execution sent for her.
 - **Mood:** doom arriving.
 - **Audio:** SFX only — a low predatory servo whine, an unnatural quiet around it. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -653,11 +653,11 @@
 ### CLIP 49 — esconde a la bebé, se planta
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. A sheltered alcove in the great wall, warm light pooling around the hidden baby.
-- **Characters:** @VeraRopa (grey-blue eyes), @SelkaBebe (grey-blue eyes), @S1G1.
-- **Shot/lens:** medium; @VeraRopa tucks the baby into a safe niche, then turns and plants her stance.
+- **Characters:** @VeraArmadura (grey-blue eyes), @SelkaBebe (grey-blue eyes), @S1G1.
+- **Shot/lens:** medium; @VeraArmadura tucks the baby into a safe niche, then turns and plants her stance.
 - **Camera:** a settle as she squares up.
 - **Light:** baby in a pocket of warm light, @S1G1 a shadow opposite.
-- **Action:** @VeraRopa kisses @SelkaBebe's forehead and tucks her deep into a recessed panel, out of the line of danger, then rises and turns to face @S1G1 alone, planting her feet between the machine and her child.
+- **Action:** @VeraArmadura kisses @SelkaBebe's forehead and tucks her deep into a recessed panel, out of the line of danger, then rises and turns to face @S1G1 alone, planting her feet between the machine and her child.
 - **Mood:** a mother's last stand.
 - **Audio:** SFX only — baby whimper, Vera's steadying breath, the servo whine. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -665,24 +665,24 @@
 ### CLIP 50 — Vera vs S1G1 / la derriba
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The luminous hall as a duelling ground, Orb-light flickering with the violence.
-- **Characters:** @VeraRopa (grey-blue eyes), @S1G1.
-- **Shot/lens:** dynamic combat wide; @VeraRopa gives everything, @S1G1 overpowers her.
+- **Characters:** @VeraArmadura (grey-blue eyes), @S1G1.
+- **Shot/lens:** dynamic combat wide; @VeraArmadura gives everything, @S1G1 overpowers her.
 - **Camera:** kinetic handheld through the exchange, then a hard beat as she's struck down.
 - **Light:** energy flashes lighting the arches, no blood.
-- **Action:** @VeraRopa throws herself at @S1G1 with everything she has — strikes, a snatched weapon, raw desperation — but the machine is faster and stronger; with a single sweeping energy-wave it knocks her off her feet and she crashes to the mirror-floor, unhurt-looking but beaten.
+- **Action:** @VeraArmadura throws herself at @S1G1 with everything she has — strikes, a snatched weapon, raw desperation — but the machine is faster and stronger; with a single sweeping energy-wave it knocks her off her feet and she crashes to the mirror-floor, unhurt-looking but beaten.
 - **Mood:** a losing battle.
 - **Audio:** SFX only — energy impacts, ringing blows, a heavy fall. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 51 — "STELLA, RUN!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Low over the mirror-floor where @VeraRopa has fallen, the baby's niche glowing nearby.
-- **Characters:** @VeraRopa (grey-blue eyes) (down), @SelkaBebe (grey-blue eyes).
-- **Shot/lens:** low on @VeraRopa fallen, reaching out, the baby's niche beyond.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Low over the mirror-floor where @VeraArmadura has fallen, the baby's niche glowing nearby.
+- **Characters:** @VeraArmadura (grey-blue eyes) (down), @SelkaBebe (grey-blue eyes).
+- **Shot/lens:** low on @VeraArmadura fallen, reaching out, the baby's niche beyond.
 - **Camera:** a push to her face as she screams.
 - **Light:** Orb-glow on her desperate, upturned face.
-- **Action:** sprawled on the floor, @VeraRopa shoves herself up on one arm, flinging the other toward her daughter across the hall, and screams with everything left in her — the command and the goodbye fused into one word.
-- **Dialogue (@VeraRopa):** "STELLA, RUN!"
+- **Action:** sprawled on the floor, @VeraArmadura shoves herself up on one arm, flinging the other toward her daughter across the hall, and screams with everything left in her — the command and the goodbye fused into one word.
+- **Dialogue (@VeraArmadura):** "STELLA, RUN!"
 - **Mood:** maternal desperation.
 - **Audio:** SFX only — her raw scream, the baby's cry. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -694,7 +694,7 @@
 - **Shot/lens:** @StellaArmadura three steps from the Orb, hand outstretched — then she turns back toward her mother.
 - **Camera:** a held beat on the reaching hand, then a whip as she reverses.
 - **Light:** Orb-glow blazing on her outstretched fingertips.
-- **Action:** @StellaArmadura's fingers are a breath from the @Orbe, its light flooding her hand — and then she looks back, sees her mother down and her sister's niche, and turns away from the Orb entirely, sprinting back toward @VeraRopa, breaking the one rule her father gave her for the love she can't override.
+- **Action:** @StellaArmadura's fingers are a breath from the @Orbe, its light flooding her hand — and then she looks back, sees her mother down and her sister's niche, and turns away from the Orb entirely, sprinting back toward @VeraArmadura, breaking the one rule her father gave her for the love she can't override.
 - **Mood:** the choice, made wrong-but-human.
 - **Audio:** SFX only — her gasp, footsteps skidding and reversing, Orb hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -727,11 +727,11 @@
 ### CLIP 55 — el escudo / la luz se apaga / "MOM!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The luminous hall, a shield of light blooming around the hanging girl, a dark machine behind the fallen mother.
-- **Characters:** @VeraRopa (grey-blue eyes), @StellaArmadura, @S1G1.
-- **Shot/lens:** wide catching @VeraRopa's raised hands and the shield around @StellaArmadura, with @S1G1's light-lance descending behind @VeraRopa; cut to Stella's scream.
+- **Characters:** @VeraArmadura (grey-blue eyes), @StellaArmadura, @S1G1.
+- **Shot/lens:** wide catching @VeraArmadura's raised hands and the shield around @StellaArmadura, with @S1G1's light-lance descending behind @VeraArmadura; cut to Stella's scream.
 - **Camera:** a wide that holds the shield and the killing light, then a snap to Stella. **Death shown as her vital glow extinguishing — no blood, no wound.**
-- **Light:** the shield blooms warm around Stella; @VeraRopa's own inner light snuffs from gold to grey.
-- **Action:** from the floor @VeraRopa throws her hands up and a warm shield of light wraps protectively around @StellaArmadura; in the same instant, behind her, @S1G1 lowers a lance of light and a single flash passes through @VeraRopa — her glow goes out like a snuffed flame, no blood, only light leaving her — and @StellaArmadura's scream tears across the hall.
+- **Light:** the shield blooms warm around Stella; @VeraArmadura's own inner light snuffs from gold to grey.
+- **Action:** from the floor @VeraArmadura throws her hands up and a warm shield of light wraps protectively around @StellaArmadura; in the same instant, behind her, @S1G1 lowers a lance of light and a single flash passes through @VeraArmadura — her glow goes out like a snuffed flame, no blood, only light leaving her — and @StellaArmadura's scream tears across the hall.
 - **Dialogue (@StellaArmadura):** "MOM!"
 - **Mood:** devastation.
 - **Audio:** SFX only — shield hum, a single sharp light-strike, Stella's ripping scream. No music.
@@ -740,12 +740,12 @@
 ### CLIP 56 — "run" / corta la trenza
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The same vast hall, grand and fading, scorch-light flickering, the @Orbe throbbing anxiously in the background.
-- **Characters:** @VeraRopa (grey-blue eyes) (dying in light), @StellaArmadura. **Props:** @CuchilloLaser.
-- **Shot/lens:** fractured intercutting — @VeraRopa's fading face mouthing a word / @StellaArmadura severing her braid with the light-blade.
+- **Characters:** @VeraArmadura (grey-blue eyes) (dying in light), @StellaArmadura. **Props:** @CuchilloLaser.
+- **Shot/lens:** fractured intercutting — @VeraArmadura's fading face mouthing a word / @StellaArmadura severing her braid with the light-blade.
 - **Camera:** tight intercut, the two actions braided together.
-- **Light:** @VeraRopa's glow gone to grey; the light-blade flares white.
-- **Action:** @VeraRopa, the last of her light guttering out, shapes the word "Run" with no breath behind it; above, @StellaArmadura drags the @CuchilloLaser to the nape of her neck and a clean line of white light parts her white braid in a single stroke — the severed plait drifts away as she drops free and the protective shield dies with the last of @VeraRopa's glow. No blood — only light leaving a body.
-- **Dialogue (@VeraRopa, faint):** "Run."
+- **Light:** @VeraArmadura's glow gone to grey; the light-blade flares white.
+- **Action:** @VeraArmadura, the last of her light guttering out, shapes the word "Run" with no breath behind it; above, @StellaArmadura drags the @CuchilloLaser to the nape of her neck and a clean line of white light parts her white braid in a single stroke — the severed plait drifts away as she drops free and the protective shield dies with the last of @VeraArmadura's glow. No blood — only light leaving a body.
+- **Dialogue (@VeraArmadura, faint):** "Run."
 - **Mood:** grief turned to survival.
 - **Audio:** SFX only — the light-blade snap, the braid parting, a soft final fall. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -805,7 +805,7 @@
 ### CLIP 61 — la última mirada
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Looking down from near the ceiling into the vast hall far below.
-- **Characters:** @StellaPeloCorto (above), @VeraRopa (grey-blue eyes) (still, below), @SelkaBebe (grey-blue eyes) (crying below).
+- **Characters:** @StellaPeloCorto (above), @VeraArmadura (grey-blue eyes) (still, below), @SelkaBebe (grey-blue eyes) (crying below).
 - **Shot/lens:** @StellaPeloCorto's POV downward — her fallen mother and the crying baby, tiny and far below.
 - **Camera:** a held beat, the image burning in before she tears away.
 - **Light:** warm Orb-less glow over a scene of loss far beneath.
@@ -841,23 +841,23 @@
 ### CLIP 64 — Vorthan levanta a la bebé
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The hall now dimmer with the Orb gone, the fallen mother small on the vast floor.
-- **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @VeraRopa (grey-blue eyes) (still on the floor), @RobotImperial.
-- **Shot/lens:** @Vorthan lifts the baby from the alcove; robots move toward @VeraRopa's body.
+- **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @VeraArmadura (grey-blue eyes) (still on the floor), @RobotImperial.
+- **Shot/lens:** @Vorthan lifts the baby from the alcove; robots move toward @VeraArmadura's body.
 - **Camera:** slow, cold, deliberate.
 - **Light:** dimmer now that the Orb is gone, a fading warmth around the body.
-- **Action:** @Vorthan crosses the great floor and lifts @SelkaBebe gently from her niche; the baby quiets in his arms, grey-blue eyes wide; behind him @RobotImperial units stoop toward @VeraRopa's still form.
+- **Action:** @Vorthan crosses the great floor and lifts @SelkaBebe gently from her niche; the baby quiets in his arms, grey-blue eyes wide; behind him @RobotImperial units stoop toward @VeraArmadura's still form.
 - **Mood:** cold aftermath.
 - **Audio:** SFX only — baby quieting, heavy servo steps. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 65 — "she's dead. find Stella."
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast dimmed hall, @VeraRopa left alone and small on the mirror-floor.
-- **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @VeraRopa (grey-blue eyes) (left on the floor), @RobotImperial.
-- **Shot/lens:** @Vorthan halts the robots with a gesture, turns away with the baby, leaving @VeraRopa behind.
-- **Camera:** a slow pull-back, leaving @VeraRopa tiny and alone in the great room.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast dimmed hall, @VeraArmadura left alone and small on the mirror-floor.
+- **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @VeraArmadura (grey-blue eyes) (left on the floor), @RobotImperial.
+- **Shot/lens:** @Vorthan halts the robots with a gesture, turns away with the baby, leaving @VeraArmadura behind.
+- **Camera:** a slow pull-back, leaving @VeraArmadura tiny and alone in the great room.
 - **Light:** cold, the last warmth draining from around the body.
-- **Action:** @Vorthan raises a single hand and the robots freeze over @VeraRopa's body; without a flicker of feeling he turns and walks out with the baby, his flat order echoing as the camera pulls back to leave @VeraRopa alone on the immense floor.
+- **Action:** @Vorthan raises a single hand and the robots freeze over @VeraArmadura's body; without a flicker of feeling he turns and walks out with the baby, his flat order echoing as the camera pulls back to leave @VeraArmadura alone on the immense floor.
 - **Dialogue (@Vorthan):** "What are you doing? She's dead. Go find Stella. We need that Orb."
 - **Mood:** chilling indifference.
 - **Audio:** SFX only — his flat voice, retreating footsteps, a vast silence settling over the body. No music.
@@ -871,7 +871,7 @@
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. A quiet landing nook on a terrace at the park's edge, the golden city spread below.
 - **Characters:** @StellaPeloCorto. **Props:** @NaveStella.
-- **Shot/lens:** @StellaPeloCorto drops onto @VeraRopa's hidden ship; trembling hands at the controls.
+- **Shot/lens:** @StellaPeloCorto drops onto @VeraArmadura's hidden ship; trembling hands at the controls.
 - **Camera:** tight in the small cockpit, then a jolt of ignition.
 - **Light:** warm daylight, console glow rising on her tear-streaked face.
 - **Action:** @StellaPeloCorto crashes down onto @NaveStella, scrambles into the cockpit and slaps at the controls with shaking, fumbling hands, sobbing once before the engines catch and the canopy seals — survival on raw autopilot.
@@ -1162,5 +1162,5 @@
 ## RESUMEN
 - **88 prompts enriquecidos** · marcados por **SECUENCIA** y **ESCENA**.
 - SEC1=5 · SEC2=11 · SEC3=19 · SEC4=6 · SEC5=15 · SEC6=9 · SEC7=10 · SEC8=5 · SEC9=8.
-- @VeraRopa y @SelkaBebe con **grey-blue eyes** fijo; cada Setting con descripción exquisita de locación; cada Action al detalle.
+- @VeraArmadura y @SelkaBebe con **grey-blue eyes** fijo; cada Setting con descripción exquisita de locación; cada Action al detalle.
 - Canon de enriquecimiento aplicado también a los Actos 2 y 3 (siguiente entrega).

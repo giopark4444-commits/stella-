@@ -14,7 +14,8 @@
 | `@StellaRopa` | Stella 14 en **ropa civil**, **trenza larga**, pecas, ojos ámbar | **1-20** (parque + llegada al lab) | tu ref **stellaropa** | ✅ |
 | `@StellaArmadura` | Stella en **traje/armadura "04"**, **trenza larga** | **21-56** (hasta cortar la trenza) | tu ref **stellaarmadura** | ✅ |
 | `@StellaPeloCorto` | Stella en **armadura**, **pelo corto** (tras cortar la trenza) | **57-88** (huida, persecución, espacio) | tu ref **stellapelocorto** | ✅ |
-| `@VeraRopa` | madre ~40, **pelo blanco largo** semi-recogido, **túnicas** oro/blanco, **grey-blue eyes** | 10,14-16,19,32-56,64-65 | tu ref **veraropa** | ✅ |
+| `@VeraRopa` | madre ~40, **túnicas** oro/blanco, pelo blanco largo, **grey-blue eyes** — *cuando pasea con Stella* | **10,14,15,16** (parque) | tu ref **veraropa** | ✅ |
+| `@VeraArmadura` | madre en **armadura/gear de combate**, pelo blanco, **grey-blue eyes** — *mientras escapa con Stella* | **19,32,33,35,36-56,64,65** | tu ref **veraarmadura** | ✅ |
 | `@Naio` | padre ~45, pelo blanco, ojos cansados amables, bata sobre túnica naiel | 19,21-28,32-35 | ⬜ por ubicar | ⬜ |
 | `@SelkaBebe` | bebé, mechón blanco, **grey-blue eyes**, envuelta en tela pálida | 29-33,40,47,49,51,64-65,88 | ⬜ por ubicar | ⬜ |
 | `@Gix` | pequeño **ser de luz** cálida, brillo luciérnaga, núcleo geométrico tenue | 9,18,30,31 | ⬜ por ubicar | ⬜ |
@@ -51,7 +52,7 @@
 
 ## RESUMEN ACTO 1
 - **26 referencias** en total: 11 personajes · 8 locaciones · 7 props.
-- ✅ **Listas:** `@StellaRopa`, `@StellaArmadura`, `@StellaPeloCorto`, `@VeraRopa`, `@S1G1`.
+- ✅ **Listas:** `@StellaRopa`, `@StellaArmadura`, `@StellaPeloCorto`, `@VeraRopa`, `@VeraArmadura`, `@S1G1`.
 - 🟡 **Asignar:** `@PilotoAliada` (varios pilotos, no pelo blanco), `@RobotImperial`.
 - ⬜ **Faltan por ubicar:** `@Naio`, `@SelkaBebe`, `@Gix`, `@Vorthan`.
 - ⬜ **Locaciones/props:** generar establishings (CLIPS marcados) y reusarlos como referencia.
