@@ -10,6 +10,15 @@
 - **Formato:** **21:9** (cinemascope). Clips de **15 s**.
 - **Audio:** **sin música — solo efectos de sonido (SFX).** La música se agrega en edición.
 
+## 🎬 MODO ACCIÓN (para los set-pieces — ver `SECUENCIAS_ACCION.md`)
+> En los clips de pelea/persecución, **además** del estilo de casa, se añade esta directiva:
+- **Motion strength: MUY ALTO.** Movimiento extremo, vertiginoso.
+- **Cámara visceral:** handheld rápido, **whip-pans**, snap-zooms, **impact frames**, motion blur, *speed ramps* (acelera/frena).
+- **Golpes con peso:** cada impacto se *siente* (cámara que tiembla, frame de contacto, polvo/luz que salta).
+- **Los rostros mandan:** mantener las **caras en foco nítido** durante la acción — miedo, furia, dolor, determinación. La **expresión** importa más que el espectáculo.
+- **Sin sangre/armas de fuego:** el impacto se muestra por **luz, fuerza y expresión**, no por gore.
+- **String sugerido para el campo `Motion:`** → `very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.`
+
 ## REGLAS DE CONTENIDO (negativos, en cada prompt)
 - **No blood, no gore.**
 - **No guns / no firearms.**

@@ -477,6 +477,7 @@
 - **Characters:** @Naio, @Vorthan, @StellaArmadura, @VeraArmadura (grey-blue eyes).
 - **Shot/lens:** dynamic wide; @Naio steps between them, a shield flares, @Vorthan strikes him down.
 - **Camera:** a quick whip-pan and push as @StellaArmadura screams.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** the force-field's bright flash, then the cold returning.
 - **Action:** @Naio throws himself forward and snaps up a crackling force-field to buy seconds; @Vorthan, almost gently, swats it apart and drops @Naio with a single pulse of energy (no blood, no wound); @StellaArmadura lunges with a scream as @VeraArmadura hauls her bodily toward the back exit.
 - **Dialogue (@StellaArmadura):** "DAD!"
@@ -545,6 +546,7 @@
 - **Characters:** @VeraArmadura (grey-blue eyes) (one arm shielding @SelkaBebe (grey-blue eyes)), @StellaArmadura, @RobotImperial drones.
 - **Shot/lens:** dynamic wide; a wall explodes, robots flood in.
 - **Camera:** energetic handheld weaving through the fight.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** sparks, dust, pulsing red.
 - **Action:** a wall blows inward and faceless @RobotImperial units swarm; @VeraArmadura fights one-armed with the baby pinned to her chest while @StellaArmadura ducks and strikes with quick agile bursts (energy and motion, no firearms), the two carving a desperate path forward through the chaos.
 - **Mood:** chaos, forward drive.
@@ -634,6 +636,7 @@
 - **Characters:** @VeraArmadura (grey-blue eyes) (shielding @SelkaBebe (grey-blue eyes)), @RobotImperial units.
 - **Shot/lens:** dynamic medium; @VeraArmadura fighting one-armed, the baby shielded against her.
 - **Camera:** handheld locked to her struggle.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** warm Orb-light slashed by hard robot shadows.
 - **Action:** @RobotImperial units converge on @VeraArmadura; she fights savagely with one arm while the other cradles @SelkaBebe, kicking and twisting to keep the baby clear, unable to follow her daughter across the hall.
 - **Mood:** trapped, ferocious.
@@ -670,6 +673,7 @@
 - **Characters:** @VeraArmadura (grey-blue eyes), @S1G1.
 - **Shot/lens:** dynamic combat wide; @VeraArmadura gives everything, @S1G1 overpowers her.
 - **Camera:** kinetic handheld through the exchange, then a hard beat as she's struck down.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** energy flashes lighting the arches, no blood.
 - **Action:** @VeraArmadura throws herself at @S1G1 with everything she has — strikes, a snatched weapon, raw desperation — but the machine is faster and stronger; with a single sweeping energy-wave it knocks her off her feet and she crashes to the mirror-floor, unhurt-looking but beaten.
 - **Mood:** a losing battle.
@@ -695,6 +699,7 @@
 - **Characters:** @StellaArmadura. **Props:** @Orbe (within reach).
 - **Shot/lens:** @StellaArmadura three steps from the Orb, hand outstretched — then she turns back toward her mother.
 - **Camera:** a held beat on the reaching hand, then a whip as she reverses.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** Orb-glow blazing on her outstretched fingertips.
 - **Action:** @StellaArmadura's fingers are a breath from the @Orbe, its light flooding her hand — and then she looks back, sees her mother down and her sister's niche, and turns away from the Orb entirely, sprinting back toward @VeraArmadura, breaking the one rule her father gave her for the love she can't override.
 - **Mood:** the choice, made wrong-but-human.
@@ -707,6 +712,7 @@
 - **Characters:** @Vorthan, @StellaArmadura.
 - **Shot/lens:** @Vorthan catches @StellaArmadura by her long braid and lifts her dangling.
 - **Camera:** a push to his cruel calm, then down to her kicking feet.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** cold on @Vorthan, warm Orb-glow behind.
 - **Action:** @Vorthan's hand closes around @StellaArmadura's long white braid and hoists her off the floor, leaving her swinging and clawing at the air; he studies her struggle with serene, almost affectionate cruelty and speaks softly.
 - **Dialogue (@Vorthan):** "So like your mother. Running toward what she loves."
@@ -762,6 +768,7 @@
 - **Characters:** @StellaPeloCorto, @RobotImperial. **Props:** @Orbe.
 - **Shot/lens:** tracking @StellaPeloCorto sprinting to the Orb, ducking a robot.
 - **Camera:** a fast follow weaving with her.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** Orb-glow pulling her forward through the gloom.
 - **Action:** broken and tear-streaked but moving on instinct, @StellaPeloCorto sprints back across the mirror-floor toward the @Orbe, sliding under a @RobotImperial's grab and scrambling up without breaking stride, eyes locked on the sphere.
 - **Mood:** desperate drive.
@@ -798,6 +805,7 @@
 - **Characters:** @StellaPeloCorto.
 - **Shot/lens:** low wide; thrusters fire, @StellaPeloCorto launches upward toward the ceiling duct.
 - **Camera:** a fast tilt-up following her launch into the heights.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** thruster flare lighting the underside of the arches.
 - **Action:** @StellaPeloCorto's suit-thrusters ignite with a roar and she rockets straight up off the floor, threading toward a narrow duct high in the ceiling haze, the great chamber falling away beneath her boots.
 - **Mood:** escape velocity.
@@ -822,6 +830,7 @@
 - **Characters:** @StellaPeloCorto, @S1G1.
 - **Shot/lens:** claustrophobic; @S1G1 thrusting up the duct inches from her boots.
 - **Camera:** a fast forward track through the cramped tunnel.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** strobing thruster-light flashing off close metal walls.
 - **Action:** @StellaPeloCorto streaks up the narrow duct on her thrusters, walls a blur inches from her shoulders; below and behind, @S1G1's optic burns as it rockets after her, closing the gap until its claw scrapes the air just beneath her boots.
 - **Mood:** breathless chase.
@@ -834,6 +843,7 @@
 - **Characters:** @StellaPeloCorto, @S1G1.
 - **Shot/lens:** @S1G1 jams in the narrow opening; sparks; a clean blast hurls @StellaPeloCorto out into daylight.
 - **Camera:** burst out of the dark tube into bright sky with her.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** dark duct to sudden blinding sky; a clean light-and-smoke blast (no gore).
 - **Action:** @StellaPeloCorto shoots out of the duct mouth into open sky; right behind her @S1G1's larger frame wedges hard in the narrowing opening, throws sparks, and detonates in a clean burst of light and smoke, the shockwave flinging @StellaPeloCorto clear and tumbling into the air.
 - **Mood:** narrow survival.
@@ -875,6 +885,7 @@
 - **Characters:** @StellaPeloCorto. **Props:** @NaveStella.
 - **Shot/lens:** @StellaPeloCorto drops onto @VeraArmadura's hidden ship; trembling hands at the controls.
 - **Camera:** tight in the small cockpit, then a jolt of ignition.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** warm daylight, console glow rising on her tear-streaked face.
 - **Action:** @StellaPeloCorto crashes down onto @NaveStella, scrambles into the cockpit and slaps at the controls with shaking, fumbling hands, sobbing once before the engines catch and the canopy seals — survival on raw autopilot.
 - **Mood:** shock, running on instinct.
@@ -887,6 +898,7 @@
 - **Characters:** @StellaPeloCorto (in @NaveStella). **Props:** @NaveStella.
 - **Shot/lens:** wide; @NaveStella lifts off as the imperial fleet rises on the horizon.
 - **Camera:** rise with the ship, fleet looming beyond.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** warm city below, cold hard-edged fleet above.
 - **Action:** @NaveStella tears up off the terrace into the open sky; ahead, across the golden horizon, a wall of cold imperial warships resolves out of the haze and turns toward her — the chase beginning.
 - **Mood:** the net closing.
@@ -911,6 +923,7 @@
 - **Characters:** @StellaPeloCorto. **Props:** @NaveStella.
 - **Shot/lens:** kinetic chase weaving between towers; pursuers clipping and crashing.
 - **Camera:** a fast follow banking hard with the ship.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** gold light flashing between the buildings.
 - **Action:** @StellaPeloCorto flies like she was born to it, threading @NaveStella between honey-stone towers and under glowing bridges, juking so tight that two heavier pursuers misjudge the gaps and slam into the architecture in clean bursts of light — but more keep coming.
 - **Mood:** thrilling skill under doom.
@@ -923,6 +936,7 @@
 - **Characters:** @StellaPeloCorto. **Props:** @NaveStella.
 - **Shot/lens:** an imperial ship frames @NaveStella; an energy beam charges.
 - **Camera:** a tense tighten as the weapon builds.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** the charging energy throwing a growing glow over the chase.
 - **Action:** a heavy imperial ship slides in behind @NaveStella and locks her dead-center in its sights; its energy-cannon spools up with a rising whine, light gathering at the muzzle, the shot a heartbeat from firing.
 - **Mood:** the trap sprung.
@@ -935,6 +949,7 @@
 - **Characters:** @StellaPeloCorto, @Piloto1, @Piloto2, @Piloto3 (ships). **Props:** @NaveStella.
 - **Shot/lens:** the pursuing ship explodes; allied ships swoop in firing energy beams, carving a corridor.
 - **Camera:** a whip to the rescue, energetic and sweeping.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** clean bright energy blasts lacing the sky.
 - **Action:** the imperial ship behind her erupts in a clean burst as a flight of allied craft drops out of the sun, lancing energy-fire across the armada and tearing open a corridor of clear sky for @NaveStella to dive through.
 - **Mood:** sudden, fierce hope.
@@ -985,6 +1000,7 @@
 - **Characters:** @StellaPeloCorto, @Piloto1, @Piloto2, @Piloto3 (ships). **Props:** @NaveStella.
 - **Shot/lens:** allied ships interpose and burst one by one; @StellaPeloCorto watches them die for her as she breaks for open space.
 - **Camera:** her POV through the canopy at the sacrifice, then an acceleration away.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** clean bursts of energy receding behind her.
 - **Action:** one by one the allied ships throw themselves into the armada and bloom into clean bursts of light, each death buying her a few more seconds; @StellaPeloCorto watches through the canopy, tears running, then hauls @NaveStella around and accelerates into the open dark, alone with everyone's sacrifice on her shoulders.
 - **Mood:** the survivor's unbearable weight.
@@ -1049,6 +1065,7 @@
 - **Characters:** @StellaPeloCorto (in @NaveStella).
 - **Shot/lens:** energy floods the ship, everything overloads, then a blinding white hyperjump swallows the frame.
 - **Camera:** a rush forward into a white bloom.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** runaway light building to a total white-out.
 - **Action:** the borrowed light overloads every system; @NaveStella shudders violently, seams blazing, and then snaps forward into a hyperjump — a blinding white flash tears the ship out of its universe and swallows the entire frame in white.
 - **Mood:** violent transcendence.
