@@ -39,7 +39,14 @@
 | `@PlazaPalacio` | plaza inmensa, multitud, balcón, cielo azul | CLIP 81 | ⬜ |
 | `@EspacioErdia` | espacio, el planeta encogiéndose entre estrellas | CLIP 76 | ⬜ |
 
-## 🔮 PROPS (7)
+## 🚀 NAVES / VEHÍCULOS (3)
+| @tag | Qué debe mostrar | Aparece en | Estado |
+|---|---|---|---|
+| `@NaveStella` | nave pequeña de huida (civil, ágil, rápida) | 66,67,76-80 | ⬜ |
+| `@NaveImperial` | naves de guerra imperiales (frías, angulares, muchas) | 67,68,69,70,71 | ⬜ |
+| `@NaveAliada` | naves aliadas/resistencia (gastadas, variadas) | 71,72,73,74,75 | ⬜ |
+
+## 🔮 PROPS (6)
 | @tag | Qué debe mostrar | Aparece en | Estado |
 |---|---|---|---|
 | `@Orbe` | esfera de luzagua, late como corazón, se reduce a la palma | 42-46,52,55-58 | ⬜ |
@@ -48,12 +55,11 @@
 | `@LlaveDeLuz` | sigilo-llave de luz bajo la piel de la palma | 25,26,58,79 | ⬜ |
 | `@MonitorMAX` | monitor de muñeca, barra que marca "MAX" | 59 | ⬜ |
 | `@CuchilloLaser` | hoja de luz pequeña (no arma de fuego) | 56 | ⬜ |
-| `@NaveStella` | nave pequeña de huida | 66-67,76-80 | ⬜ |
 
 ---
 
 ## RESUMEN ACTO 1
-- **29 referencias** en total: 14 personajes · 8 locaciones · 7 props.
+- **31 referencias** en total: 14 personajes · 3 naves · 8 locaciones · 6 props.
 - ✅ **Listas (9):** `@StellaRopa`, `@StellaArmadura`, `@StellaPeloCorto`, `@VeraRopa`, `@VeraArmadura`, `@Piloto1`, `@Piloto2`, `@Piloto3`, `@S1G1`.
 - 🟡 **Asignar:** `@RobotImperial`.
 - ⬜ **Faltan por ubicar:** `@Naio`, `@SelkaBebe`, `@Gix`, `@Vorthan`.

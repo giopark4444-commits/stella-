@@ -39,7 +39,12 @@
 - `@PlazaPalacio` — the great palace plaza beneath a still-blue sky; a vast sea of gathered people, terraces and banners, a high balcony; grand, public, about to curdle.
 - `@EspacioErdia` — the silent void of space; the sick golden planet shrinking against a field of cold stars; emptiness and distance.
 
-**Props** — `@Orbe` (sphere of pure luzagua light, pulses like a heart, shrinks to a palm) · `@Brazalete` (Stella's wrist band that summons @Gix) · `@LlaveDeLuz` (glowing key-sigil under Stella's palm skin) · `@MonitorMAX` (wrist charge bar reading "MAX") · `@CuchilloLaser` (small light-blade tool, not a firearm) · `@MechaFlores` (colossal flower-overgrown war mecha) · `@NaveStella` (Vera's small hidden escape ship).
+**Naves / vehículos**
+- `@NaveStella` — Vera's small hidden escape ship (sleek, civilian, fast).
+- `@NaveImperial` — imperial warships of the fleet (cold, hard-edged, angular, many).
+- `@NaveAliada` — the allied/resistance ships that rescue and sacrifice (worn, varied, scrappy).
+
+**Props** — `@Orbe` (sphere of pure luzagua light, pulses like a heart, shrinks to a palm) · `@Brazalete` (Stella's wrist band that summons @Gix) · `@LlaveDeLuz` (glowing key-sigil under Stella's palm skin) · `@MonitorMAX` (wrist charge bar reading "MAX") · `@CuchilloLaser` (small light-blade tool, not a firearm) · `@MechaFlores` (colossal flower-overgrown war mecha).
 
 > **Constante de estilo:** `Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.`
 > **Constante negativa:** `no blood, no gore, no guns, no firearms, no on-screen text, no watermark.`
@@ -896,11 +901,11 @@
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The golden city skyline, warm towers against a sky filling with cold imperial silhouettes.
 - **Characters:** @StellaPeloCorto (in @NaveStella). **Props:** @NaveStella.
-- **Shot/lens:** wide; @NaveStella lifts off as the imperial fleet rises on the horizon.
+- **Shot/lens:** wide; @NaveStella lifts off as the @NaveImperial fleet rises on the horizon.
 - **Camera:** rise with the ship, fleet looming beyond.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** warm city below, cold hard-edged fleet above.
-- **Action:** @NaveStella tears up off the terrace into the open sky; ahead, across the golden horizon, a wall of cold imperial warships resolves out of the haze and turns toward her — the chase beginning.
+- **Action:** @NaveStella tears up off the terrace into the open sky; ahead, across the golden horizon, a wall of cold @NaveImperial warships resolves out of the haze and turns toward her — the chase beginning.
 - **Mood:** the net closing.
 - **Audio:** SFX only — engines, a distant swelling fleet drone. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -912,7 +917,7 @@
 - **Shot/lens:** vast wide; the armada filling the frame, one small ship beneath it.
 - **Camera:** a slow reveal pulling out to show the impossible odds.
 - **Light:** the fleet darkening the golden sky into bruised shadow.
-- **Action:** the camera widens to reveal the true scale — an armada of imperial ships blackening the sky, and beneath them @NaveStella a single glinting speck, hopelessly outnumbered.
+- **Action:** the camera widens to reveal the true scale — an armada of @NaveImperial ships blackening the sky, and beneath them @NaveStella a single glinting speck, hopelessly outnumbered.
 - **Mood:** hopeless odds.
 - **Audio:** SFX only — a swelling, oppressive fleet drone. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -925,16 +930,16 @@
 - **Camera:** a fast follow banking hard with the ship.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** gold light flashing between the buildings.
-- **Action:** @StellaPeloCorto flies like she was born to it, threading @NaveStella between honey-stone towers and under glowing bridges, juking so tight that two heavier pursuers misjudge the gaps and slam into the architecture in clean bursts of light — but more keep coming.
+- **Action:** @StellaPeloCorto flies like she was born to it, threading @NaveStella between honey-stone towers and under glowing bridges, juking so tight that two heavier @NaveImperial pursuers misjudge the gaps and slam into the architecture in clean bursts of light — but more keep coming.
 - **Mood:** thrilling skill under doom.
 - **Audio:** SFX only — straining engines, screaming near-misses, distant clean crashes. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 70 — la encuadran
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. A long straightaway above the city, an imperial ship locking on from behind.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. A long straightaway above the city, an @NaveImperial ship locking on from behind.
 - **Characters:** @StellaPeloCorto. **Props:** @NaveStella.
-- **Shot/lens:** an imperial ship frames @NaveStella; an energy beam charges.
+- **Shot/lens:** an @NaveImperial ship frames @NaveStella; an energy beam charges.
 - **Camera:** a tense tighten as the weapon builds.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** the charging energy throwing a growing glow over the chase.
@@ -947,35 +952,35 @@
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The bright sky over the city, the threatening ship bursting as allies sweep in.
 - **Characters:** @StellaPeloCorto, @Piloto1, @Piloto2, @Piloto3 (ships). **Props:** @NaveStella.
-- **Shot/lens:** the pursuing ship explodes; allied ships swoop in firing energy beams, carving a corridor.
+- **Shot/lens:** the pursuing ship explodes; @NaveAliada ships swoop in firing energy beams, carving a corridor.
 - **Camera:** a whip to the rescue, energetic and sweeping.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** clean bright energy blasts lacing the sky.
-- **Action:** the imperial ship behind her erupts in a clean burst as a flight of allied craft drops out of the sun, lancing energy-fire across the armada and tearing open a corridor of clear sky for @NaveStella to dive through.
+- **Action:** the @NaveImperial ship behind her erupts in a clean burst as a flight of @NaveAliada craft drops out of the sun, lancing energy-fire across the armada and tearing open a corridor of clear sky for @NaveStella to dive through.
 - **Mood:** sudden, fierce hope.
 - **Audio:** SFX only — explosion, energy fire, allied engines screaming past. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 72 — la piloto aliada (cara)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The cramped cockpit of an allied fighter, stars and energy-flashes beyond the glass.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The cramped cockpit of an @NaveAliada fighter, stars and energy-flashes beyond the glass.
 - **Characters:** @Piloto1.
 - **Shot/lens:** close on @Piloto1's resolute face in her cockpit.
 - **Camera:** steady, intimate, holding her gaze.
 - **Light:** console glow underlighting her calm, set face.
-- **Action:** inside an allied cockpit, @Piloto1 — steady, already at peace with how this ends — keys her comm and watches the battle through her canopy, fear nowhere on her face.
+- **Action:** inside an @NaveAliada cockpit, @Piloto1 — steady, already at peace with how this ends — keys her comm and watches the battle through her canopy, fear nowhere on her face.
 - **Mood:** noble sacrifice, given a face.
 - **Audio:** SFX only — cockpit hum, comm static, muffled fire outside. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 73 — "don't let our sacrifice be in vain"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The high battle-sky, allied ships interposing themselves between @StellaPeloCorto and the armada.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The high battle-sky, @NaveAliada ships interposing themselves between @StellaPeloCorto and the armada.
 - **Characters:** @Piloto1, @StellaPeloCorto (intercut).
-- **Shot/lens:** intercut allied ships shielding her / @StellaPeloCorto listening in her cockpit.
+- **Shot/lens:** intercut @NaveAliada ships shielding her / @StellaPeloCorto listening in her cockpit.
 - **Camera:** steady on the radio voice, cutting to Stella's wet eyes.
 - **Light:** energy flashes outside both canopies.
-- **Action:** @Piloto1's voice comes over @StellaPeloCorto's radio, calm and final, as allied ships slide deliberately into the line of fire to cover her; @StellaPeloCorto stares at the comm, understanding what they are choosing to do for her.
+- **Action:** @Piloto1's voice comes over @StellaPeloCorto's radio, calm and final, as @NaveAliada ships slide deliberately into the line of fire to cover her; @StellaPeloCorto stares at the comm, understanding what they are choosing to do for her.
 - **Dialogue (@Piloto1, radio):** "Stella. Your mother told us. Don't let our sacrifice be in vain."
 - **Mood:** solemn, tragic.
 - **Audio:** SFX only — the radio voice, distant energy fire, her own breathing. No music.
@@ -988,7 +993,7 @@
 - **Shot/lens:** close on @StellaPeloCorto crying in the cockpit, cut to the allied charge.
 - **Camera:** tight on her face, then a whip to the sacrifice outside.
 - **Light:** console glow, energy flashes washing across her.
-- **Action:** @StellaPeloCorto shakes her head, crying out at the comm in protest, hands white on the controls; the radio voice answers with a last, gentle instruction as the allied ships dive into the armada to hold the corridor open.
+- **Action:** @StellaPeloCorto shakes her head, crying out at the comm in protest, hands white on the controls; the radio voice answers with a last, gentle instruction as the @NaveAliada ships dive into the armada to hold the corridor open.
 - **Dialogue (@StellaPeloCorto):** "I don't even know you!" — **(@Piloto1, radio):** "Don't let anyone get that Orb. Go far. Get strong. Come back."
 - **Mood:** grief and duty.
 - **Audio:** SFX only — Stella crying, the radio, energy fire. No music.
@@ -998,11 +1003,11 @@
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The edge of the battle opening onto the black of open space.
 - **Characters:** @StellaPeloCorto, @Piloto1, @Piloto2, @Piloto3 (ships). **Props:** @NaveStella.
-- **Shot/lens:** allied ships interpose and burst one by one; @StellaPeloCorto watches them die for her as she breaks for open space.
+- **Shot/lens:** @NaveAliada ships interpose and burst one by one; @StellaPeloCorto watches them die for her as she breaks for open space.
 - **Camera:** her POV through the canopy at the sacrifice, then an acceleration away.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** clean bursts of energy receding behind her.
-- **Action:** one by one the allied ships throw themselves into the armada and bloom into clean bursts of light, each death buying her a few more seconds; @StellaPeloCorto watches through the canopy, tears running, then hauls @NaveStella around and accelerates into the open dark, alone with everyone's sacrifice on her shoulders.
+- **Action:** one by one the @NaveAliada ships throw themselves into the armada and bloom into clean bursts of light, each death buying her a few more seconds; @StellaPeloCorto watches through the canopy, tears running, then hauls @NaveStella around and accelerates into the open dark, alone with everyone's sacrifice on her shoulders.
 - **Mood:** the survivor's unbearable weight.
 - **Audio:** SFX only — successive clean explosions, her ragged breath, engines climbing. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
