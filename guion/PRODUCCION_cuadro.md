@@ -10,13 +10,14 @@
 
 | Acto | Secuencias | Clips / Prompts | Estado de los prompts | Corte final aprox. |
 |---|---|---|---|---|
-| **1** · Erdia / la huida | SEC 1-9 (9) | **88** | ✅ **Escritos** (enriquecidos + MODO ACCIÓN) | ~18-20 min |
-| **2** · Exilio / muerte de Vera | SEC 10-20 (11) | **86** | 🟡 Mapeado (prompts pendientes) | ~17-19 min |
-| **3** · Regreso / trono / final | SEC 21-29 (9) | **74** | 🟡 Mapeado (prompts pendientes) | ~15-17 min |
-| **TOTAL P1** | **29** | **248 prompts** | Acto 1 listo · 2-3 por escribir | **~52-58 min** |
+| **1** · Erdia / la huida | SEC 1-9 (9) | **105** (88 + 17 acción) | ✅ **Escritos** (enriquecidos + MODO ACCIÓN) | ~22-24 min |
+| **2** · Exilio / muerte de Vera | SEC 10-20 (11) | **86** (+ acción ×2 al escribir) | 🟡 Mapeado (prompts pendientes) | ~17-19 min |
+| **3** · Regreso / trono / final | SEC 21-29 (9) | **74** (+ acción ×2 al escribir) | 🟡 Mapeado (prompts pendientes) | ~15-17 min |
+| **TOTAL P1** | **29** | **265+ prompts** | Acto 1 listo · 2-3 por escribir | **~56-62 min** |
 
 - **Set-pieces de acción:** 8 (A1-A8), coreografiados en `SECUENCIAS_ACCION.md`.
-- **Clips de acción con `Motion:` (Acto 1):** 17.
+- **Regla:** las escenas de acción duran **al menos el doble** — se desglosan en sub-clips (40A, 50B…).
+- **Acto 1:** 17 sub-clips de acción añadidos (la acción pasó de ~17 a ~34 planos).
 - **Formato:** 21:9 · 15s · SFX only · no blood / no guns · estilo Satoshi Kon + Ghibli.
 
 ---

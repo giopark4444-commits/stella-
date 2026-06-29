@@ -1,5 +1,6 @@
 # PROMPTS · ACTO 1 — Stella Fugaz "El Nodo de Erdia" (P1)
-## 88 clips · Seedance 2.0 · 15s · 21:9 · (versión enriquecida)
+## 105 clips (88 + 17 de acción) · Seedance 2.0 · 15s · 21:9 · (versión enriquecida)
+> Los **sub-clips** (40A, 50B, 62A…) son los **planos de acción añadidos** para duplicar la duración de los set-pieces. Van **después** de su clip padre.
 
 > Directivas + diálogo en **English**. Cada prompt trae, además del `@location`, una **descripción
 > exquisita de la locación** (cómo se ve la película) y una **acción descrita al detalle**.
@@ -558,6 +559,32 @@
 - **Audio:** SFX only — wall blast, energy clashes, robot servos, baby cry. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 40A — combate ágil de Stella
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Tall golden corridors strobed by red alert light, dust and sparks suspended in the air.
+- **Characters:** @StellaArmadura, @RobotImperial.
+- **Shot/lens:** dynamic action wide tracking her through the fight.
+- **Camera:** fast handheld + whip-pan following the redirect.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** red alert strobe, sparks flaring on each impact.
+- **Action:** @StellaArmadura flips over a lunging @RobotImperial, hooks its arm and redirects its strike into a second unit, then lands in a low crouch, white braid snapping — agile, lethal, fast.
+- **Mood:** fierce, kinetic.
+- **Audio:** SFX only — servo clashes, energy hits, her breath and footwork. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
+### CLIP 40B — Vera brutal con un brazo
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Tall golden corridors strobed by red alert light, dust and sparks suspended in the air.
+- **Characters:** @VeraArmadura (grey-blue eyes) (one arm shielding @SelkaBebe (grey-blue eyes)), @RobotImperial.
+- **Shot/lens:** medium tracking her advance, impact frames.
+- **Camera:** handheld punching in on each hit.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** red strobe, energy flares on contact.
+- **Action:** @VeraArmadura, the baby clamped to her chest with one arm, drives an energy-charged palm into a robot's core; it folds; the corridor strobes red with each impact as she carves a path forward.
+- **Mood:** ferocious, maternal.
+- **Audio:** SFX only — heavy energy palms, robot collapses, baby's cry. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 41 — las puertas de la Sala del Orbe
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The corridor's end: enormous ornate doors to @SalaDelOrbe, warm golden light bleeding through their seam against the cold red of the hall.
@@ -648,6 +675,32 @@
 - **Audio:** SFX only — energy clashes, servos, the baby's cry. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 47A — los robots rodean a Vera
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast luminous Orb chamber, its warm light fractured by combat, energy scorch-marks across the obsidian-gold floor.
+- **Characters:** @VeraArmadura (grey-blue eyes) (shielding @SelkaBebe (grey-blue eyes)), @RobotImperial.
+- **Shot/lens:** medium, she spins inside a ring of robots.
+- **Camera:** orbiting handheld, whip-pans to each threat.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** warm Orb-light slashed by robot shadows.
+- **Action:** surrounded, @VeraArmadura spins through the ring of @RobotImperial units — kicking, elbowing, the baby pressed tight; a unit clamps her arm and she wrenches free with a cry, never dropping @SelkaBebe.
+- **Mood:** trapped, relentless.
+- **Audio:** SFX only — servos, clashes, her grunts, baby crying. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
+### CLIP 47B — derribada, se levanta
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast luminous Orb chamber, its warm light fractured by combat, energy scorch-marks across the obsidian-gold floor.
+- **Characters:** @VeraArmadura (grey-blue eyes), @RobotImperial.
+- **Shot/lens:** wide, she skids across the mirror-floor and rises.
+- **Camera:** camera drops with her, then snaps up as she plants.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** Orb-warm, dust kicking up.
+- **Action:** an energy blast skids @VeraArmadura across the mirror-floor; she is already scrambling up, planting herself again between the machines and the baby's niche, teeth bared, refusing to stay down.
+- **Mood:** unbreakable.
+- **Audio:** SFX only — a hard skid, scrambling, a defiant breath. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 48 — entra S1G1
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The bright hall, a darker shape entering that seems to drink the light around it.
@@ -684,6 +737,32 @@
 - **Mood:** a losing battle.
 - **Audio:** SFX only — energy impacts, ringing blows, a heavy fall. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 50A — Vera ataca a S1G1
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast luminous Orb chamber, its warm light fractured by combat, energy scorch-marks across the obsidian-gold floor.
+- **Characters:** @VeraArmadura (grey-blue eyes), @S1G1.
+- **Shot/lens:** tight combat, her three strikes landing.
+- **Camera:** handheld pushing in with each blow.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** energy flashes lighting the arches.
+- **Action:** @VeraArmadura lands three blistering strikes on @S1G1, driving it back a full step — for one impossible beat she is winning; her face flares with ferocious hope.
+- **Mood:** ferocious hope.
+- **Audio:** SFX only — three heavy impacts, servos staggering. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
+### CLIP 50B — el contraataque de S1G1
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast luminous Orb chamber, its warm light fractured by combat, energy scorch-marks across the obsidian-gold floor.
+- **Characters:** @VeraArmadura (grey-blue eyes), @S1G1.
+- **Shot/lens:** tight, S1G1 catches her wrist and flurries.
+- **Camera:** whip-pan + snap-zoom on the reversal.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** cold optic glare cutting the warm light.
+- **Action:** @S1G1 reads her, catches her wrist mid-swing and unleashes a blinding flurry; @VeraArmadura blocks on pure instinct, losing ground, her hope curdling into grim survival.
+- **Mood:** the tide turning.
+- **Audio:** SFX only — a brutal mechanical flurry, blocks, her strained breath. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 51 — "STELLA, RUN!"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -724,6 +803,19 @@
 - **Mood:** cruel, intimate menace.
 - **Audio:** SFX only — his low laugh, her grunting struggle, fabric and hair tension. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 53A — el tirón de la trenza (impacto)
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast luminous Orb chamber, its warm light fractured by combat, energy scorch-marks across the obsidian-gold floor.
+- **Characters:** @Vorthan, @StellaArmadura.
+- **Shot/lens:** extreme insert + impact frame on the braid snapping taut.
+- **Camera:** whip-pan as her head wrenches back, boots leaving the floor.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** cold on Vorthan, Orb-warm on her face.
+- **Action:** @Vorthan's fist snaps @StellaArmadura's braid taut; her head wrenches back, strands tearing loose, her boots lifting off the floor — a single brutal impact frame of helpless force.
+- **Mood:** violent, cruel.
+- **Audio:** SFX only — a hard snap, hair tension, her choked gasp. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 54 — primer plano: Stella colgada
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -817,6 +909,19 @@
 - **Audio:** SFX only — thruster ignition, rushing air, distant servos below. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 60A — el ascenso vertical
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast luminous Orb chamber, its warm light fractured by combat, energy scorch-marks across the obsidian-gold floor.
+- **Characters:** @StellaPeloCorto.
+- **Shot/lens:** vertiginous vertical wide following her launch.
+- **Camera:** fast tilt-up, the chamber falling away.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** thruster flare lighting the arches from below.
+- **Action:** @StellaPeloCorto rockets straight up past the cathedral arches, debris and pollen streaking past the lens, the vast chamber shrinking dizzyingly beneath her boots.
+- **Mood:** escape velocity, vertigo.
+- **Audio:** SFX only — roaring thrusters, rushing air, debris pinging. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 61 — la última mirada
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Looking down from near the ceiling into the vast hall far below.
@@ -842,6 +947,32 @@
 - **Audio:** SFX only — roaring thrusters in a tube, scraping metal, the pursuer's whine. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 62A — la garra a un pelo
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Inside the tight metal ceiling duct, cramped and dark, strobing thruster-light on close walls.
+- **Characters:** @StellaPeloCorto, @S1G1.
+- **Shot/lens:** claustrophobic; the claw raking sparks by her boot.
+- **Camera:** snap-zoom to her face mid-scream.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** sparks flaring off close metal.
+- **Action:** @S1G1's claw rakes a shower of sparks off the duct wall a hair from @StellaPeloCorto's boot; snap-zoom to her face mid-scream, the sound swallowed by the thruster roar.
+- **Mood:** terror, speed.
+- **Audio:** SFX only — claw-on-metal screech, muffled scream, thrusters. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
+### CLIP 62B — las paredes se cierran
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Inside the tight metal ceiling duct, cramped and dark, strobing thruster-light on close walls.
+- **Characters:** @StellaPeloCorto.
+- **Shot/lens:** first-person urgency as the duct narrows.
+- **Camera:** fast forward-track, walls squeezing in.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** strobing light quickening as the tube tightens.
+- **Action:** the duct narrows hard ahead; @StellaPeloCorto tucks her arms and shoulders tight, metal shrieking inches past her, the strobing light quickening as the tube squeezes down.
+- **Mood:** claustrophobic dread.
+- **Audio:** SFX only — metal shriek, tightening rush, panicked breath. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 63 — S1G1 se atasca y explota
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The duct's narrow mouth opening to bright open sky.
@@ -854,6 +985,19 @@
 - **Mood:** narrow survival.
 - **Audio:** SFX only — metal grinding and jamming, a clean explosion, rushing wind. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 63A — S1G1 se atasca (detalle)
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. Inside the tight metal ceiling duct, cramped and dark, strobing thruster-light on close walls.
+- **Characters:** @S1G1.
+- **Shot/lens:** tight detail on the wedging frame, optic flaring.
+- **Camera:** slow push amid fast chaos, then sparks.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** red optic glare against dark metal.
+- **Action:** @S1G1's bulk wedges in the throat of the duct, joints buckling, its single optic flaring red as it strains after her — sparks crawling up its frame an instant before it goes.
+- **Mood:** doom catching up.
+- **Audio:** SFX only — groaning metal, electric crackle, rising whine. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 64 — Vorthan levanta a la bebé
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -897,6 +1041,19 @@
 - **Audio:** SFX only — canopy, trembling breath, engine turning over. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 66A — despegue bajo fuego
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The golden city skyline and honey-stone towers, energy-fire lacing the sky.
+- **Characters:** @StellaPeloCorto (in @NaveStella), @NaveImperial. **Props:** @NaveStella.
+- **Shot/lens:** wide, energy-fire raining as the ship lurches off.
+- **Camera:** handheld shake, the nook erupting behind.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** muzzle-flashes of energy, a clean blast.
+- **Action:** imperial energy-fire rains on the terrace; @StellaPeloCorto's engines catch and @NaveStella lurches off the landing nook just as it erupts behind her in a clean burst of light.
+- **Mood:** desperate ignition.
+- **Audio:** SFX only — incoming energy fire, engine catch, a clean blast. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 67 — aparece la flota imperial
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The golden city skyline, warm towers against a sky filling with cold imperial silhouettes.
@@ -935,6 +1092,32 @@
 - **Audio:** SFX only — straining engines, screaming near-misses, distant clean crashes. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 69A — el slalom
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The golden city skyline and honey-stone towers, energy-fire lacing the sky.
+- **Characters:** @StellaPeloCorto (in @NaveStella). **Props:** @NaveStella.
+- **Shot/lens:** chase wide, threading a closing gap, inverted.
+- **Camera:** camera bolted to the hull, banking hard.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** gold light strobing between structures.
+- **Action:** @StellaPeloCorto threads @NaveStella through a closing gap between two bridges, inverted, the hull scraping sparks; her hands a blur on the controls, eyes ice-cold.
+- **Mood:** exhilarating skill.
+- **Audio:** SFX only — scraping hull, screaming engines, near-miss whoosh. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
+### CLIP 69B — un perseguidor se estrella
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The golden city skyline and honey-stone towers, energy-fire lacing the sky.
+- **Characters:** @StellaPeloCorto (in @NaveStella), @NaveImperial.
+- **Shot/lens:** over-shoulder as a pursuer clips a tower behind her.
+- **Camera:** whip-pan to the cartwheeling crash.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** clean fireball of light behind her.
+- **Action:** an @NaveImperial ship misjudges the gap behind her, clips a honey-stone tower and cartwheels into a blooming fireball of clean light; debris rains past her canopy.
+- **Mood:** ruthless momentum.
+- **Audio:** SFX only — metal impact, a clean explosion, debris pattering. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 70 — la encuadran
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. A long straightaway above the city, an @NaveImperial ship locking on from behind.
@@ -948,6 +1131,19 @@
 - **Audio:** SFX only — a targeting tone, a building charge-whine. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 70A — el quiebre evasivo
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The golden city skyline and honey-stone towers, energy-fire lacing the sky.
+- **Characters:** @StellaPeloCorto (in @NaveStella), @NaveImperial. **Props:** @NaveStella.
+- **Shot/lens:** tight, she barrel-rolls off the lock at the last instant.
+- **Camera:** whip-roll with the ship as the beam sears past.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** the beam washing the cockpit white.
+- **Action:** at the last instant @StellaPeloCorto barrel-rolls @NaveStella off the targeting lock; the energy beam sears past exactly where she was, close enough to wash the cockpit white.
+- **Mood:** razor-edge survival.
+- **Audio:** SFX only — a charged beam discharge, roll, her sharp exhale. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 71 — llegan las naves aliadas
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; lush, detailed, painterly background. The bright sky over the city, the threatening ship bursting as allies sweep in.
@@ -960,6 +1156,19 @@
 - **Mood:** sudden, fierce hope.
 - **Audio:** SFX only — explosion, energy fire, allied engines screaming past. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 71A — un aliado recibe el impacto
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The high battle-sky over Erdia, cold stars and clean bursts of energy.
+- **Characters:** @StellaPeloCorto, @NaveAliada.
+- **Shot/lens:** through-canopy as an allied ship slides into the beam.
+- **Camera:** push to her eyes catching the sacrifice.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** the ally blooming into light.
+- **Action:** an @NaveAliada ship slides deliberately into the beam meant for @StellaPeloCorto and blooms into light; through the canopy her eyes catch the pilot's silhouette an instant before it is gone.
+- **Mood:** gut-punch sacrifice.
+- **Audio:** SFX only — a beam impact, a clean burst, her caught breath. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 72 — la piloto aliada (cara)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -1015,6 +1224,19 @@
 ---
 
 ## SECUENCIA 8 — ESCENA: Sin oxígeno / híper salto · *(clips 76-80)*
+
+### CLIP 75A — la última compañera
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; lush, detailed, painterly background. The high battle-sky over Erdia, cold stars and clean bursts of energy.
+- **Characters:** @StellaPeloCorto, @Piloto2, @NaveAliada.
+- **Shot/lens:** her path crossed by a burning allied ship shielding her.
+- **Camera:** handheld of fugue, the wingmate spinning across frame.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** burning trails, then a clean burst.
+- **Action:** @Piloto2's burning @NaveAliada spins across @StellaPeloCorto's path, shielding her for the final seconds, before it too bursts into clean light; @StellaPeloCorto's face breaks as she punches for open space.
+- **Mood:** grief and survival.
+- **Audio:** SFX only — burning spin, a final clean burst, engines climbing. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 76 — el silencio del espacio
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
