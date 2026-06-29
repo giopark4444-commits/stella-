@@ -1,5 +1,5 @@
 # PROMPTS · ACTO 2 — Stella Fugaz "El Nodo de Erdia" (P1)
-## Clips 89-174 (+ sub-clips de acción) · Seedance 2.0 · 15s · 21:9
+## 86 clips (89-154 + sub-clips de cobertura/acción) · Seedance 2.0 · 15s · 21:9
 
 > Mismo sistema que el Acto 1 (`PROMPTS_ACTO1.md`): directivas + diálogo en **English**, @menciones,
 > Setting con descripción exquisita, Action al detalle, **grey-blue eyes** en Vera/Selka, **MODO ACCIÓN**
@@ -64,6 +64,18 @@
 - **Mood:** disoriented, relief, grief beneath.
 - **Audio:** SFX only — her gasp, distant hull hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 90A — el duelo al despertar
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @StellaPeloCorto.
+- **Shot/lens:** primerísimo plano on her face.
+- **Camera:** slow push as grief crashes in.
+- **Light:** dim amber on wet eyes.
+- **Action:** as she registers where she is, the grief of the escape crashes back over @StellaPeloCorto — her mother, the allies — her face crumpling before she forces it flat, utterly alone in a strange universe.
+- **Mood:** raw grief, isolation.
+- **Audio:** SFX only — a caught sob, distant hull hum. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 91 — aparece Theron
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -143,6 +155,18 @@
 - **Audio:** SFX only — clatter, jeers. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 96A — se encoge en un rincón
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @StellaPeloCorto, crew.
+- **Shot/lens:** wide, small in the corner of the hold.
+- **Camera:** static, the crew moving around her.
+- **Light:** harsh work-light, deep shadow.
+- **Action:** @StellaPeloCorto folds into a corner of the hold, knees up, watching the strange alien crew move around her — bracing, out of place.
+- **Mood:** small, wary.
+- **Audio:** SFX only — machinery, low alien murmurs. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 97 — Vosk la encara
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
@@ -194,6 +218,19 @@
 - **Mood:** defiance.
 - **Audio:** SFX only — rapid blows, breath, a surprised grunt. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 99B — Vosk la estrella
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @StellaPeloCorto, @Vosk.
+- **Shot/lens:** tight, he hurls her into the lockers.
+- **Camera:** whip + impact frame, she rolls clear.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** harsh, sparks.
+- **Action:** @Vosk catches her mid-combo and hurls @StellaPeloCorto into a wall of lockers; she crashes, rolls clear and comes up in a low crouch, breathing hard but unbroken.
+- **Mood:** outmatched, unbroken.
+- **Audio:** SFX only — a heavy slam, a roll, ragged breath. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 100 — Brog los separa
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -260,6 +297,17 @@
 - **Audio:** SFX only — distant machinery, wind, a thin sick hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 104A — la luzagua se apaga
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Shot/lens:** detail of a thin grey light-water canal; a ragged child crouched.
+- **Camera:** slow drift to the dimming water.
+- **Light:** grey, the gold dying.
+- **Action:** a once-bright luzagua canal runs thin and grey; a hungry child watches the light gutter — the planet's slow death in one small image.
+- **Mood:** quiet rot.
+- **Audio:** SFX only — trickling water, a thin sick hum. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 105 — el refugio / Marek
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @RefugioResistencia — match its architecture, materials, colors; lush, detailed, painterly background. A hidden refuge of gaunt naieli gathered by lamplight.
@@ -271,6 +319,18 @@
 - **Mood:** fragile hope.
 - **Audio:** SFX only — low voices, a crackling lamp. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 105A — las caras de la resistencia
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @RefugioResistencia — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** resistance (varied, not all white-haired).
+- **Shot/lens:** montage of gaunt hopeful faces.
+- **Camera:** slow pushes across faces.
+- **Light:** low warm lamplight.
+- **Action:** the camera moves over gaunt, hopeful faces lit by lamplight — varied people, not all white-haired — clinging to @Marek's words.
+- **Mood:** fragile hope.
+- **Audio:** SFX only — low voices, a crackling lamp. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 106 — Marek: ¿una niña vació un planeta?
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -324,6 +384,18 @@
 - **Mood:** desolate, tense.
 - **Audio:** SFX only — wind over metal, creaking wrecks. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 109A — la tripulación entre los restos
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @StellaPeloCorto, crew.
+- **Shot/lens:** crew clambering through towering dead hulls.
+- **Camera:** slow sweep, tiny against the scrap.
+- **Light:** dusty, overcast.
+- **Action:** the crew clambers through towering dead hulls, salvaging, tiny against a sky of scrap, @StellaPeloCorto among them.
+- **Mood:** desolate texture.
+- **Audio:** SFX only — wind over metal, creaking wrecks. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 110 — la emboscada
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -402,6 +474,18 @@
 - **Mood:** cruel, electric.
 - **Audio:** SFX only — a roaring crowd, chains, a barker's call. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 115A — la multitud y las apuestas
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** crowd, bookies.
+- **Shot/lens:** bookies taking frantic bets, the mob baying.
+- **Camera:** quick whip-pans across the stands.
+- **Light:** pit-glare, smoke.
+- **Action:** bookies snatch frantic bets as the mob bays for blood, tokens flashing, faces lit by the pit-glare — the cruelty of the place laid bare.
+- **Mood:** cruel, electric.
+- **Audio:** SFX only — a roaring crowd, shouted odds. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 116 — anuncian a la ladrona
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -523,6 +607,19 @@
 - **Audio:** SFX only — wall shattering, Nima shouting. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 122A — Brog y Nima arrasan
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @Brog, @Nima.
+- **Shot/lens:** Brog wading through guards, Nima's gadgets.
+- **Camera:** fast handheld through the breach.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** dust, sparks, daylight.
+- **Action:** @Brog wades through pit-guards like a landslide while @Nima's four arms hurl improvised gadgets; the breach widens in dust and sparks.
+- **Mood:** rescue force.
+- **Audio:** SFX only — crashing bodies, gadget pops, dust. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 123 — la ejecución de Vosk
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background. An execution platform over the pit.
@@ -547,6 +644,19 @@
 - **Mood:** impulsive grace.
 - **Audio:** SFX only — Noah's shout, her running, chaos. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 124A — Stella salta hacia la plataforma
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @StellaPeloCorto.
+- **Shot/lens:** she vaults off a guard and flips over the melee.
+- **Camera:** fast tracking up the ramp, chaos blurring.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** chaos, firelight.
+- **Action:** @StellaPeloCorto vaults off a guard's shoulder, flips over the melee and sprints up the execution ramp, the chaos blurring past — pure forward drive toward @Vosk.
+- **Mood:** kinetic resolve.
+- **Audio:** SFX only — vault, rushing chaos, her breath. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 125 — la salva / "porque no soy tú"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -602,6 +712,18 @@
 - **Audio:** SFX only — soft wind, a crackling fire, distant comet hiss. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 127A — montaje de la familia
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @StellaPeloCorto, @Brog, @Nima, @Noah.
+- **Shot/lens:** quick warm montage beats.
+- **Camera:** gentle drifting cuts.
+- **Light:** soft comet-glow, firelight.
+- **Action:** quick warm beats — shared food, repairs by firelight, a rare laugh from @StellaPeloCorto, @Noah watching her — the found family knitting together under the comets.
+- **Mood:** warmth, respite.
+- **Audio:** SFX only — fire crackle, low laughter, tools. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 128 — Brog le enseña su idioma
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background. By a comet-lit fire.
@@ -626,6 +748,18 @@
 - **Mood:** forging a warrior.
 - **Audio:** SFX only — rivets, tools, a soft hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 129A — se prueba el traje nuevo
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @StellaPeloCorto, @Nima. **Props:** @TrajeNuevo.
+- **Shot/lens:** she seals the new suit and stands.
+- **Camera:** slow push, a transformation.
+- **Light:** comet-light rimming her.
+- **Action:** @StellaPeloCorto seals the @TrajeNuevo and stands; in the comet-light she looks older, harder — a transformation from refugee to soldier.
+- **Mood:** becoming.
+- **Audio:** SFX only — suit seals clicking, a breath. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 130 — entrena el Orbe (inestable)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -652,6 +786,18 @@
 - **Audio:** SFX only — a smooth flowing hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 131A — la luz controlada (asombro)
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @StellaPeloCorto, @Brog, @Nima. **Props:** @Orbe.
+- **Shot/lens:** wider shot, the ribbon of light arcing into the night.
+- **Camera:** slow awe, steady.
+- **Light:** a clean bright ribbon of luzagua light.
+- **Action:** a ribbon of luzagua light arcs gracefully from @StellaPeloCorto's palm into the night, steady and bright; @Brog and @Nima watch, quietly amazed.
+- **Mood:** grace, hope.
+- **Audio:** SFX only — a smooth flowing hum. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 132 — un arma que eligió su causa
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background.
@@ -667,6 +813,17 @@
 ---
 
 ## SECUENCIA 17 — ESCENA: Theron pide la mano y el Orbe / la sospecha · *(133-136)*
+
+### CLIP 132A — INTERCUT — Erdia se pudre más
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Shot/lens:** a brief wordless cut to a greyer, sicker Erdia.
+- **Camera:** slow mournful drift.
+- **Light:** grey, smoke, fewer lights.
+- **Action:** a brief wordless cut to Erdia, greyer and sicker than before — fewer lights, more smoke — the 1:4 clock made flesh: she grows a little, her world dies a lot.
+- **Mood:** dread, time.
+- **Audio:** SFX only — distant machinery, a thin hum. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 133 — "muéstrame la mano y el Orbe"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -760,6 +917,18 @@
 - **Mood:** uncanny, sorrow.
 - **Audio:** SFX only — projector hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 139A — primer plano: la General fría
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @SelkaGeneral (grey-blue eyes).
+- **Shot/lens:** the projection pushes in on Selka's cold face.
+- **Camera:** slow push into the hologram.
+- **Light:** pale projector glow.
+- **Action:** the projection pushes in on @SelkaGeneral's cold, perfect face — a stranger now wearing the baby's features, grey-blue eyes empty.
+- **Mood:** uncanny sorrow.
+- **Audio:** SFX only — projector hum. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 140 — Vera viva (la capucha cae)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -898,6 +1067,19 @@
 - **Audio:** SFX only — blade clashes, ragged breath. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 149A — la no-pelea (detalle)
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @VeraEncapuchada (grey-blue eyes), @SelkaGeneral (grey-blue eyes).
+- **Shot/lens:** detail of Vera absorbing blows on her forearms.
+- **Camera:** anguished handheld, never striking back.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** cold, blade-light streaks.
+- **Action:** detail of the duel — @VeraEncapuchada absorbs strike after strike on her forearms, never once hitting back, her face pleading; a mother refusing to harm her child even to survive.
+- **Mood:** heartbreak.
+- **Audio:** SFX only — blade clashes on guard, ragged breath. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 150 — Selka se desarma
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
@@ -922,6 +1104,18 @@
 - **Mood:** false peace.
 - **Audio:** SFX only — a soft breath, a held moment. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 151A — la cara de Selka en el abrazo
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
+- **Characters:** @SelkaGeneral (grey-blue eyes), @VeraEncapuchada (grey-blue eyes).
+- **Shot/lens:** CU of Selka's face over Vera's shoulder.
+- **Camera:** slow push as a shutter slides down.
+- **Light:** cold, faces close.
+- **Action:** CU of @SelkaGeneral's face over @VeraEncapuchada's shoulder in the embrace — confusion, a flicker of longing — then a cold blankness slides down like a shutter.
+- **Mood:** the turn, chilling.
+- **Audio:** SFX only — a soft breath, a held beat. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 152 — la hoja en el abrazo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -962,7 +1156,7 @@
 ---
 
 ## RESUMEN ACTO 2
-- **86 clips base (89-154) + 5 sub-clips de acción (99A, 119A, 121A, 124→125A, etc.) = ~91 prompts.**
-- Set-pieces de acción doblados: **A4** (pelea con Vosk) y **A5** (la fosa) — ver `SECUENCIAS_ACCION.md`.
+- **86 prompts** = 70 base (89-154) + 16 sub-clips (cobertura + acción): 90A, 96A, 99A, 99B, 104A, 105A, 109A, 115A, 119A, 121A, 122A, 124A, 125A, 127A, 129A, 131A, 132A, 139A, 149A, 151A.
+- Densidad recomendada (establishings, reacciones, intercalado del 1:4) + set-pieces **A4** (Vosk) y **A5** (fosa) doblados.
 - @StellaPeloCorto + @TrajeNuevo · @VeraEncapuchada / @SelkaGeneral con **grey-blue eyes** · pilotos/resistencia variados.
 - Pendiente: prompts del **Acto 3** (con acción ×2: A6 asalto, A7 trono, A8 Parásito).
