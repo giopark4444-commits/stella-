@@ -1,0 +1,134 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stella Fugaz · Mapa de Referencias</title>
+<style>
+:root{--bg:#0d0f14;--card:#161a22;--line:#262b36;--gold:#e8c27a;--txt:#e7e9ee;--mut:#9aa3b2;}
+*{box-sizing:border-box}
+body{margin:0;background:linear-gradient(180deg,#0a0c11,#0d0f14);color:var(--txt);font:15px/1.5 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:32px 20px 80px}
+h1{font-size:30px;margin:0 0 2px;letter-spacing:.5px}
+h1 .sub{color:var(--gold);font-weight:400}
+.tag-em{color:var(--gold)}
+.lede{color:var(--mut);margin:0 0 26px}
+h2{font-size:13px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);margin:36px 0 12px;border-bottom:1px solid var(--line);padding-bottom:8px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:6px 0 10px}
+.cardn{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.cardn .n{font-size:26px;font-weight:700;color:var(--gold)}
+.cardn .l{color:var(--mut);font-size:12px;text-transform:uppercase;letter-spacing:1px}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:8px}
+th{text-align:left;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:var(--mut);padding:10px 14px;background:#11141b;border-bottom:1px solid var(--line)}
+td{padding:9px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:0}
+tr:hover td{background:#1b202a}
+.tag{color:var(--gold);font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13px;white-space:nowrap}
+.act{display:inline-block;background:#1f2530;border:1px solid var(--line);color:var(--mut);border-radius:6px;font-size:11px;padding:1px 6px;margin-right:3px}
+.b{font-size:12px;padding:2px 9px;border-radius:20px;white-space:nowrap;font-weight:600}
+.b.ok{background:#15321f;color:#7fe0a3;border:1px solid #1f5234}
+.b.as{background:#33280f;color:#e8c27a;border:1px solid #5a481f}
+.b.pe{background:#23262e;color:#9aa3b2;border:1px solid #333a46}
+.est{font-family:ui-monospace,monospace;font-size:12px;color:#9fb6d8}
+.lock{filter:grayscale(.2)}
+.legend{display:flex;gap:14px;flex-wrap:wrap;color:var(--mut);font-size:13px;margin:10px 0 4px}
+.note{background:#12161e;border-left:3px solid var(--gold);border-radius:0 8px 8px 0;padding:12px 16px;color:var(--mut);margin:16px 0}
+.prodtab td .ok{color:#7fe0a3}
+.foot{color:#5d6573;font-size:12px;margin-top:40px;text-align:center}
+</style></head><body><div class="wrap">
+<h1>Stella Fugaz <span class="sub">· El Nodo de Erdia</span></h1>
+<p class="lede">Mapa maestro de referencias (<span class="tag-em">@elementos</span>) + cuadro de producción · Película 1 · 269 prompts</p>
+
+<h2>Cuadro de producción</h2>
+<table class="prodtab"><tr><th>Acto</th><th>Secuencias</th><th>Prompts</th><th>Estado</th><th>Corte final</th></tr>
+<tr><td>1 · Erdia / la huida</td><td>9</td><td><b>105</b></td><td class="ok">✓ escritos</td><td>~22-24 min</td></tr>
+<tr><td>2 · Exilio / muerte de Vera</td><td>11</td><td><b>86</b></td><td class="ok">✓ escritos</td><td>~21-23 min</td></tr>
+<tr><td>3 · Regreso / trono / final</td><td>9</td><td><b>78</b></td><td class="ok">✓ escritos</td><td>~19-21 min</td></tr>
+<tr><td><b>TOTAL P1</b></td><td><b>29</b></td><td><b>269</b></td><td class="ok">✓ completo</td><td><b>~58-64 min</b></td></tr></table>
+
+<div class="cards">
+<div class="cardn"><div class="n">63</div><div class="l">elementos</div></div>
+<div class="cardn"><div class="n">29</div><div class="l">personajes</div></div>
+<div class="cardn"><div class="n">6</div><div class="l">naves</div></div>
+<div class="cardn"><div class="n">17</div><div class="l">locaciones</div></div>
+<div class="cardn"><div class="n">11</div><div class="l">props</div></div>
+</div>
+<div class="legend"><span><b style="color:#7fe0a3">✓ lista</b> ya la tienes</span><span><b style="color:#e8c27a">◐ asignar</b></span><span><b style="color:#9aa3b2">○ pendiente</b> ubicar/crear</span><span>🔒 = Vorthan (no spoilear)</span></div>
+<div class="note">Guarda cada elemento en <b>Higgsfield → Elementos</b> con el <b>nombre exacto</b> (sin el @). Los 269 prompts los autoconectan al pegarlos. Locaciones sin arte: genera el <b>establishing</b> indicado y reúsalo como <span class="tag-em">@location</span>.</div>
+
+<h2>👤 Personajes · 29</h2>
+<table><tr><th>@tag</th><th>Quién</th><th>Actos</th><th>Estado</th></tr>
+<tr><td class="tag">@StellaRopa</td><td>Stella 14, ropa civil + trenza, ámbar</td><td><span class="act">A1</span></td><td><span class="b ok">✓ lista</span></td></tr>
+<tr><td class="tag">@StellaArmadura</td><td>Stella, armadura "04" + trenza</td><td><span class="act">A1</span></td><td><span class="b ok">✓ lista</span></td></tr>
+<tr><td class="tag">@StellaPeloCorto</td><td>Stella, armadura + pelo corto (tras el corte)</td><td><span class="act">A1</span> <span class="act">A2</span></td><td><span class="b ok">✓ lista</span></td></tr>
+<tr><td class="tag">@StellaTeñida</td><td>Stella ~19, pelo teñido oscuro, traje nuevo</td><td><span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@VeraRopa</td><td>madre en túnicas (pasea con Stella), gris-azul</td><td><span class="act">A1</span></td><td><span class="b ok">✓ lista</span></td></tr>
+<tr><td class="tag">@VeraArmadura</td><td>madre en armadura (escapa con Stella), gris-azul</td><td><span class="act">A1</span></td><td><span class="b ok">✓ lista</span></td></tr>
+<tr><td class="tag">@VeraEncapuchada</td><td>Vera resistencia, encapuchada, gris-azul</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Naio</td><td>padre científico</td><td><span class="act">A1</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@NaioEsclavo</td><td>Naio anciano, esclavo de minas</td><td><span class="act">A2</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@NaioRescatado</td><td>Naio anciano, liberado</td><td><span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@SelkaBebe</td><td>bebé, mechón blanco, gris-azul</td><td><span class="act">A1</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@SelkaGeneral</td><td>la General (21), armadura blanca, gris-azul; luego manca</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="b ok">✓ lista</span></td></tr>
+<tr><td class="tag">@SelkaNiña <span class="lock" title="Secreto = Vorthan">🔒</span></td><td>Selka de niña (forma del "Fui yo"), gris-azul</td><td><span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Gix</td><td>ser de luz cálido</td><td><span class="act">A1</span> <span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Vorthan</td><td>el Rey</td><td><span class="act">A1</span> <span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Marek <span class="lock" title="Secreto = Vorthan">🔒</span></td><td>líder de la resistencia (=Vorthan)</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Parasito <span class="lock" title="Secreto = Vorthan">🔒</span></td><td>criatura colosal de luz robada (=Vorthan)</td><td><span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@S1G1</td><td>robot asesino oscuro, un óptico</td><td><span class="act">A1</span></td><td><span class="b ok">✓ lista</span></td></tr>
+<tr><td class="tag">@RobotImperial</td><td>soldados robot imperiales</td><td><span class="act">A1</span> <span class="act">A2</span> <span class="act">A3</span></td><td><span class="b as">◐ asignar</span></td></tr>
+<tr><td class="tag">@CazadorRecompensas</td><td>cazarrecompensas/esclavistas</td><td><span class="act">A2</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Theron</td><td>el Cazador (especie Threa)</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Brog</td><td>gigante de roca</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Nima</td><td>mecánica de 4 brazos</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Noah</td><td>humano, espadachín</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="b ok">✓ lista</span></td></tr>
+<tr><td class="tag">@Vosk</td><td>matón → leal</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Korin</td><td>leal de Vera</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Lessa</td><td>leal de Vera</td><td><span class="act">A2</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Piloto1</td><td>piloto de la radio (con cara), no pelo blanco</td><td><span class="act">A1</span></td><td><span class="b ok">✓ lista</span></td></tr>
+<tr><td class="tag">@Piloto2</td><td>piloto aliado, no pelo blanco</td><td><span class="act">A1</span></td><td><span class="b ok">✓ lista</span></td></tr>
+<tr><td class="tag">@Piloto3</td><td>piloto aliado, no pelo blanco</td><td><span class="act">A1</span></td><td><span class="b ok">✓ lista</span></td></tr>
+</table>
+<h2>🚀 Naves / vehículos · 6</h2>
+<table><tr><th>@tag</th><th>Qué</th><th>Actos</th><th>Estado</th></tr>
+<tr><td class="tag">@NaveStella</td><td>nave de huida de Vera</td><td><span class="act">A1</span> <span class="act">A2</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@NaveImperial</td><td>naves de guerra imperiales</td><td><span class="act">A1</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@NaveAliada</td><td>naves aliadas/resistencia</td><td><span class="act">A1</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@NaveNodriza</td><td>nave nodriza de Theron (exterior)</td><td><span class="act">A2</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@NaveEsclavista</td><td>nave de cazarrecompensas</td><td><span class="act">A2</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@NavePalacio <span class="lock" title="Secreto = Vorthan">🔒</span></td><td>el palacio que se revela nave colosal</td><td><span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+</table>
+<h2>🌍 Locaciones · 17 <span style="color:#9aa3b2;font-weight:400;text-transform:none;letter-spacing:0">(generar establishing y reusar como @location)</span></h2>
+<table><tr><th>@tag</th><th>Qué</th><th>Actos</th><th>Establishing</th></tr>
+<tr><td class="tag">@Erdia</td><td>planeta desde el espacio</td><td><span class="act">A1</span></td><td><span class="est">CLIP 1</span></td></tr>
+<tr><td class="tag">@CiudadDorada</td><td>metrópolis dorada</td><td><span class="act">A1</span></td><td><span class="est">CLIP 6</span></td></tr>
+<tr><td class="tag">@ParqueLuzagua</td><td>parque + río de luz + mecha-flores</td><td><span class="act">A1</span></td><td><span class="est">CLIP 7</span></td></tr>
+<tr><td class="tag">@Laboratorio</td><td>lab de Naio</td><td><span class="act">A1</span></td><td><span class="est">CLIP 17</span></td></tr>
+<tr><td class="tag">@PasillosPalacio</td><td>corredores del palacio</td><td><span class="act">A1</span></td><td><span class="est">CLIP 36</span></td></tr>
+<tr><td class="tag">@SalaDelOrbe</td><td>cámara catedral del Orbe</td><td><span class="act">A1</span></td><td><span class="est">CLIP 42</span></td></tr>
+<tr><td class="tag">@PlazaPalacio</td><td>plaza del discurso</td><td><span class="act">A1</span></td><td><span class="est">CLIP 81</span></td></tr>
+<tr><td class="tag">@EspacioErdia</td><td>órbita / espacio</td><td><span class="act">A1</span></td><td><span class="est">CLIP 76</span></td></tr>
+<tr><td class="tag">@NodrizaInterior</td><td>interior de la nave de Theron</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="est">CLIP 89/95</span></td></tr>
+<tr><td class="tag">@PlanetaChatarra</td><td>planeta de chatarra</td><td><span class="act">A2</span></td><td><span class="est">CLIP 109</span></td></tr>
+<tr><td class="tag">@FosaApuestas</td><td>estación-fosa de combate</td><td><span class="act">A2</span></td><td><span class="est">CLIP 115</span></td></tr>
+<tr><td class="tag">@PlanetaCometas</td><td>planeta de cometas</td><td><span class="act">A2</span></td><td><span class="est">CLIP 127</span></td></tr>
+<tr><td class="tag">@MinasNiebla</td><td>minas de niebla</td><td><span class="act">A2</span></td><td><span class="est">CLIP 142</span></td></tr>
+<tr><td class="tag">@RefugioResistencia</td><td>refugio de la resistencia</td><td><span class="act">A2</span></td><td><span class="est">CLIP 105</span></td></tr>
+<tr><td class="tag">@AposentosGeneral</td><td>aposentos de la General</td><td><span class="act">A2</span></td><td><span class="est">CLIP 146</span></td></tr>
+<tr><td class="tag">@ErdiaRuinas</td><td>Erdia gris y partida (Año 8/20)</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="est">CLIP 104/155</span></td></tr>
+<tr><td class="tag">@SalaTrono</td><td>sala del trono (clímax)</td><td><span class="act">A3</span></td><td><span class="est">CLIP 176</span></td></tr>
+</table>
+<h2>🔮 Props / objetos · 11</h2>
+<table><tr><th>@tag</th><th>Qué</th><th>Actos</th><th>Estado</th></tr>
+<tr><td class="tag">@Orbe</td><td>la Fuente Madre</td><td><span class="act">A1</span> <span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@LlaveDeLuz</td><td>sigilo-llave en la palma</td><td><span class="act">A1</span> <span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Brazalete</td><td>brazalete que invoca a Gix</td><td><span class="act">A1</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@MonitorMAX</td><td>monitor de muñeca "MAX"</td><td><span class="act">A1</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@CuchilloLaser</td><td>hoja de luz (corta la trenza)</td><td><span class="act">A1</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@MechaFlores</td><td>mecha colosal con flores</td><td><span class="act">A1</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@CollarControl</td><td>collar supresor (apaga el traje)</td><td><span class="act">A2</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@Proyector</td><td>proyector con la foto familiar</td><td><span class="act">A2</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@TrajeNuevo</td><td>traje que construye Nima</td><td><span class="act">A2</span> <span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@HojaSelka</td><td>sable de luz de la General</td><td><span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+<tr><td class="tag">@TanqueSoporte</td><td>tanque de soporte vital</td><td><span class="act">A3</span></td><td><span class="b pe">○ pendiente</span></td></tr>
+</table>
+<div class="note"><b>🔒 No olvidar:</b> <span class="tag-em">@Marek</span>, <span class="tag-em">@Parasito</span>, <span class="tag-em">@SelkaNiña</span> y <span class="tag-em">@NavePalacio</span> se guardan como elementos <b>separados</b> aunque sean Vorthan — así el set de referencias no filtra el secreto.</div>
+<p class="foot">Stella Fugaz · El Nodo de Erdia · generado desde PROMPTS_ACTO1/2/3 · 64 elementos</p>
+</div></body></html>
