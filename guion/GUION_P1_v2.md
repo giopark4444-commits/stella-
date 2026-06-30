@@ -12,6 +12,7 @@
 > **Ajustes de canon (v2.1):**
 > • **Ojos:** **Vera** y **Selka** tienen **ojos gris-azul** (consistencia visual).
 > • **Cicatriz:** **Selka** tiene una **cicatriz sobre el ojo izquierdo** desde joven soldado/cadete en adelante (no de bebé ni de niña).
+> • **Geografía:** el **laboratorio de Naio está DENTRO del palacio imperial** (Naio es el científico del Rey). Por eso la huida **lab → pasillos → Sala del Orbe** es continua, en un mismo edificio.
 > • **Pelo blanco:** es el **voto naieli de la familia** (Stella, Vera, Naio, Selka). La **resistencia y los
 >   pilotos NO** son todos de pelo blanco. Los **aliados que salvan a Stella son 3 pilotos** de aspecto variado.
 > • **Armas:** solo de **energía / cuerpo a cuerpo** — **nunca de fuego** (no guns). La violencia se muestra
@@ -97,7 +98,7 @@ La cámara se queda en Vera mirándola. Una madre observando a su hija en el úl
 
 ---
 
-## SEC. 3 — INT. LABORATORIO DE NAIO — DÍA
+## SEC. 3 — INT. LABORATORIO DE NAIO — PALACIO IMPERIAL — DÍA
 
 La puerta se abre y entra Stella todavía riendo, con Gix dándole vueltas.
 
@@ -106,7 +107,7 @@ Me mandaron llamar, ¿qué es tan importante que no puede esp—
 
 La risa se le apaga sola.
 
-Porque ve a **VERA** y a su padre **NAIO** (científico, ~45) de pie frente a una proyección de datos. Ninguno de los dos se ríe. Tienen la cara de alguien que acaba de ver algo que no se puede des-ver.
+Porque ve a **VERA** y a su padre **NAIO** (~45, **el científico del Rey** —su laboratorio está dentro del propio palacio—) de pie frente a una proyección de datos. Ninguno de los dos se ríe. Tienen la cara de alguien que acaba de ver algo que no se puede des-ver.
 
 Detrás, en un moisés flotante, duerme la **BEBÉ SELKA** (1 año, ojos gris-azul).
 

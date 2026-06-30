@@ -65,7 +65,7 @@
 | `@Erdia` | planeta desde el espacio | A1 | CLIP 1 |
 | `@CiudadDorada` | metrópolis dorada | A1 | CLIP 6 |
 | `@ParqueLuzagua` | parque + río de luz + mecha-flores | A1 | CLIP 7 |
-| `@Laboratorio` | lab de Naio | A1 | CLIP 17 |
+| `@Laboratorio` | lab de Naio (DENTRO del palacio imperial; Naio = científico del Rey) | A1 | CLIP 17 |
 | `@PasillosPalacio` | corredores del palacio | A1 | CLIP 36 |
 | `@SalaDelOrbe` | cámara catedral del Orbe | A1 | CLIP 42 |
 | `@PlazaPalacio` | plaza del discurso | A1 | CLIP 81 |
