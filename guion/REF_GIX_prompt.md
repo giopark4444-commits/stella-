@@ -1,35 +1,44 @@
 # @Gix — Prompt de lámina de referencia (character sheet)
 > Para generar el `@elemento` que falta. Súbelo a Higgsfield → Elementos con el nombre exacto **Gix**.
-> Estilo casa: Satoshi Kon + Ghibli. Gix es **luz**, no una criatura con carne — cálido, pequeño, travieso.
+> Estilo casa: Satoshi Kon + Ghibli. Gix es **luz pura**, no una criatura con carne.
 
-## Canon de Gix (de dónde sale en la película)
-- **Qué es:** un ser de luz del tamaño de una palma — mitad chispa, mitad travesura. Brilla como una luciérnaga cálida (ámbar-dorado), con un **núcleo geométrico tenue** flotando dentro del resplandor.
-- **Origen secreto:** nació del **ADN de Stella** (invento de Naio) — por eso puede "sostenerle el corazón" y es el puente de una posible revivificación.
-- **Se invoca** desde el `@Brazalete` de Stella con un repique suave.
-- **Estados clave que debe mostrar la lámina:** (1) forma flotante en reposo, (2) el núcleo geométrico visible, (3) bailando en la palma como luciérnaga, (4) tenue/brasa a punto de apagarse.
-- **Color = significado:** Gix es la única luz **cálida** en un mundo que se vuelve frío y gris. Nunca azul-acero (ese es el Imperio).
+## Diseño bloqueado (decidido con Gio)
+- **Forma:** luz pura **abstracta** — sin cara, sin ojos, sin cuerpo. Chispa cálida + halo + núcleo.
+- **Núcleo:** una **semilla / brote de luz** flotando dentro del resplandor (liga con el río y la vida:
+  *"una persona es un río"* — Gix es vida-en-luz, sembrada por Naio del ADN de Stella).
+- **Fondo:** el **parque de la luzagua** (`@ParqueLuzagua`) en bokeh suave, hora dorada — mood cálido,
+  pero Gix queda nítido y aislable como referencia.
+
+## Canon de Gix (de dónde sale)
+- Ser de luz del tamaño de una palma — mitad chispa, mitad travesura, luciérnaga cálida ámbar-dorada.
+- Nació del **ADN de Stella** (invento de Naio) → puede "sostenerle el corazón"; puente de revivificación.
+- Se invoca desde el `@Brazalete` con un repique suave.
+- **Estados que la lámina debe dejar claros:** (1) flotando en reposo, (2) el núcleo-semilla en detalle,
+  (3) bailando en la palma, (4) **tenue / brasa a punto de apagarse** (su reloj-de-muerte del final).
+- **Color = significado:** la única luz **cálida** del mundo. Nunca azul-acero (eso es el Imperio).
 
 ---
 
 ## PROMPT (English, copy-paste)
 
-**Character / model sheet of @Gix — a small palm-sized being of pure warm light.**
+**Character / reference sheet of @Gix — a small palm-sized being of pure warm light, set in the luzagua park.**
 
-Style: Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. Clean character-sheet layout, neutral dark-charcoal background so the glow reads clearly. 21:9.
+Style: Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9.
 
-Subject: @Gix is NOT an animal and NOT a fairy with a body — it is **living light**. A drifting amber-gold spark the size of a firefly-to-a-plum, wrapped in a soft warm halo, with a **faint floating geometric core** (tiny rotating polyhedron of light) suspended inside the glow. It reads as half spark, half mischief — alive, curious, playful.
+Setting: the location shown in @ParqueLuzagua — a sunlit park at golden hour with a flowing river of turquoise-gold luzagua (water that is also light) and distant flower-overgrown mecha; rendered as a **soft painterly bokeh background** so @Gix stays the crisp, clear subject and can be isolated as a reference.
 
-Sheet contents (multiple states of the SAME being, labelled cleanly, no other text):
-1. **Resting drift** — Gix hovering, full warm halo, geometric core gently glowing inside.
-2. **Core close-up** — the inner geometric heart-light isolated, showing the structure under the glow.
-3. **Palm-firefly** — Gix dancing in a cupped human palm like a captured firefly, casting warm light up onto unseen fingers.
+Subject: @Gix is **pure living light — NOT an animal, NOT a fairy, NO face, NO eyes, NO body.** A drifting amber-gold spark the size of a firefly-to-a-plum, wrapped in a soft warm halo, with a **tiny floating seed-of-light at its center — a luminous sprouting seed** (a small glowing seed with a delicate sprouting filament of light) suspended inside the glow. It reads as half spark, half mischief — alive, curious, playful, but always abstract light.
+
+Sheet contents — the SAME being shown in four clear states, arranged cleanly against the bokeh park, no written labels:
+1. **Resting drift** — Gix hovering over the river of luzagua, full warm halo, the seed-core glowing softly inside.
+2. **Seed-core detail** — a close inset of the inner light-seed sprouting, showing its structure under the glow.
+3. **Palm-firefly** — Gix dancing in a cupped human palm like a captured firefly, warm light spilling up onto the fingers.
 4. **Dim / ember** — Gix faded to a fragile ember, barely pulsing, the smallest warm light — its dying state.
-5. **Motion trail** — Gix zipping in a quick spiral, leaving a ribbon of warm light (its playful chase look).
 
-Light: everything lit by Gix's own warm amber-gold emission; the background stays cool and dark so the warmth pops. Gentle bloom, no harsh edges.
+Light: everything lit by Gix's own warm amber-gold emission; the park kept soft and slightly cooler so the warmth pops. Gentle bloom, no harsh edges, painterly.
 
-Palette: amber, honey-gold, soft white-hot center. **Never blue, never steel** (that color belongs to the Empire).
+Palette: amber, honey-gold, soft white-hot center, against turquoise-gold park bokeh. **Never blue, never steel** (that color belongs to the Empire).
 
 Mood: warm, tender, alive, faintly magical — the heartbeat of the film in light form.
 
-Negative: no blood, no gore, no guns, no on-screen text/labels-as-words, no watermark, not an insect, not a fairy with a body, no cold blue tones.
+Negative: no blood, no gore, no guns, no on-screen text or word-labels, no watermark; not an insect, not a fairy, no face, no eyes, no body, no cold blue tones.
