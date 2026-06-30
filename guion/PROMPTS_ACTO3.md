@@ -107,7 +107,7 @@
 - **Camera:** slow push to his face as recognition dawns.
 - **Light:** grey, a softening on his weathered face.
 - **Action:** then, under the dyed hair, @Korin recognizes her face — the little girl he knew twenty years ago, always at her mother's side; his aim drops, his voice cracking.
-- **Dialogue (@Korin):** "Stella? I knew you when you were small. Always at your mother's side. It's you. You came back."
+- **Dialogue (@Korin):** "Stella…? I knew you when you were small — always at your mother's side. It's you. You came back."
 - **Mood:** reunion, disbelief.
 - **Audio:** SFX only — his breaking voice, lowered weapons. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -784,7 +784,7 @@
 - **Camera:** held, devastating.
 - **Light:** cold, tears catching it.
 - **Action:** @SelkaGeneral starts to hum the lullaby without meaning to — and finally understands it: her mother's song; she shatters completely.
-- **Dialogue (@SelkaGeneral):** "It was my mother. It was OUR mother."
+- **Dialogue (@SelkaGeneral, hummed lullaby breaking out of her):** "…that song. It was hers." *(then, gutted)* "It was my mother. It was OUR mother."
 - **Mood:** total collapse.
 - **Audio:** SFX only — a broken hummed lullaby, a sob. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
@@ -1127,9 +1127,9 @@
 - **Camera:** slow push to her hand and her sister's face through the glass.
 - **Light:** tank-glow on both faces.
 - **Action:** @SelkaGeneral presses her one palm to the cold glass of the @TanqueSoporte, over @StellaTeñida's sleeping face, and speaks to her.
-- **Dialogue (@SelkaGeneral):** "I didn't know it was you. Wake up. And let me say it to your face."
-- **Mood:** aching hope.
-- **Audio:** SFX only — a hand on glass, the faint ember pulse. No music.
+- **Dialogue (@SelkaGeneral):** "I didn't know it was you. Wake up. And let me say it to your face." — **(@StellaTeñida, faint coma-whisper V.O., echoing their mother):** "…a river that comes back."
+- **Mood:** aching hope — the river motif closing its circle.
+- **Audio:** SFX only — a hand on glass, the faint ember pulse, a breath of a whisper. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
 ### CLIP 228 — la brasa late / EL NODO DE ERDIA

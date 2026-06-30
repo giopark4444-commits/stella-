@@ -75,9 +75,9 @@ Vera la alcanza. Esto sí lo dice en serio. Se agacha a su altura.
 **VERA**
 Eso no es tan romántico como suena. Lo quisimos todo… y por poco nos quedamos sin nada.
 *(le muestra el río con la mano)*
-Una persona es como un río, Stella. No debemos estancarnos. Lo que te dan, lo pasas. Si te lo quedas todo para ti, te pudres.
+Una persona es como un río, Stella. Si lo represas para ti, se pudre.
 *(beat)*
-Y nos pudres a todos.
+Y envenena a todos los que están aguas abajo.
 
 Stella asiente con la cabeza muy seria… y ya tiene los ojos en Gix otra vez, que la llama desde un árbol. Tiene catorce años. No lo entiende todavía.
 
@@ -804,7 +804,13 @@ Selka, en el abrazo, cierra los ojos.
 
 Y le **clava un arma** en el costado.
 
-Vera ahoga un grito. Selka la sostiene contra sí —el abrazo se vuelve otra cosa— y le **susurra algo al oído** que nosotros NO alcanzamos a oír.
+Vera ahoga un grito. Su mano sube hasta la cara de Selka —esa cara— buscándola, sin entender.
+
+**VERA**
+*(un hilo de voz, rota, traicionada)*
+…Selka. ¿Por qué.
+
+Selka la sostiene contra sí —el abrazo se vuelve otra cosa— y le **susurra algo al oído** que nosotros NO alcanzamos a oír.
 
 Desde la puerta entreabierta, **KORIN** y **LESSA** lo ven todo: la General abrazando a su madre, y el cuchillo. Marek llega un segundo tarde, la cara desencajada de horror.
 
@@ -852,7 +858,7 @@ Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció 
 
 **KORIN**
 *(la voz se le rompe)*
-…¿Stella? Yo te conocí de pequeña. Siempre al lado de tu madre.
+…¿Stella? Yo te conocí de pequeña —siempre al lado de tu madre.
 *(baja el arma, temblando)*
 Eres tú. Volviste.
 
@@ -1060,6 +1066,8 @@ Sin darse cuenta, empieza a **tararear la nana.** Esa que canta sin saber de qui
 Se quiebra entera. Cae de rodillas.
 
 **SELKA**
+*(la nana rota saliéndole sola)*
+…esa canción. Era de ella.
 *(un grito que sale de lo más hondo)*
 …ERA MI MADRE.
 *(mira a Stella, muerta-en-coma en el piso)*
@@ -1161,6 +1169,11 @@ Selka se vuelve hacia el tanque. Apoya la **palma** —la única— en el crista
 No sabía que eras tú.
 *(beat)*
 Despierta. Y déjame decírtelo a la cara.
+
+Y entonces —tan tenue que casi no se oye, desde el fondo del coma, con la voz de su madre dentro— Stella **susurra.**
+
+**STELLA (V.O., un hilo)**
+…un río que vuelve.
 
 Adentro del tanque, la **brasa de Gix** late una vez más. Débil. Pequeña.
 

@@ -233,7 +233,7 @@
 - **Camera:** a slow dolly that ties them to the moving water.
 - **Light:** warm, with glowing turquoise-gold river light playing over them.
 - **Action:** @VeraRopa scoops a handful of luzagua and lets it stream back into the river, the light pouring off her fingers, as she gives Stella the one law of their people — gentle, deliberate, planting the seed that will decide everything.
-- **Dialogue (@VeraRopa):** "A person is a river, Stella. Keep it all for yourself and you rot. And you rot all of us."
+- **Dialogue (@VeraRopa):** "A person is a river, Stella. Dam it up for yourself and it goes foul — and it poisons everyone downstream."
 - **Mood:** the thematic heart, gentle but heavy.
 - **Audio:** SFX only — flowing luzagua, soft wind. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.

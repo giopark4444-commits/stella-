@@ -1125,7 +1125,8 @@
 - **Camera:** tight, a single cruel beat. **Death by light, no blood.**
 - **Light:** Vera's vital glow guttering to grey.
 - **Action:** inside the embrace @SelkaGeneral drives a light-blade into @VeraEncapuchada's side; Vera gasps, her warm glow dimming out — no blood, only light leaving her.
-- **Mood:** devastation.
+- **Dialogue (@VeraEncapuchada, dying — reaching for Selka's face, betrayed and breaking):** "…Selka. Why."
+- **Mood:** devastation — a mother dying on her own daughter's face.
 - **Audio:** SFX only — a soft light-strike, a caught breath. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
