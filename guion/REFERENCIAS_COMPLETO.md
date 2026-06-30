@@ -39,7 +39,7 @@
 | `@Theron` | el Cazador (especie Threa) | A2·A3 | ✅ `theron_cazador` |
 | `@Brog` | gigante de roca | A2·A3 | ⬜ **falta — generar** |
 | `@Nima` | mecánica de 4 brazos | A2·A3 | ✅ `nima` |
-| `@Noah` | humano, espadachín | A2·A3 | ✅ `noah_humano` |
+| `@Noah` | humano espadachín; pelo oscuro, ojos marrones, bufanda azul, un hombro acorazado | A2·A3 | ✅ `noah_humano` |
 | `@Vosk` | matón → leal | A2·A3 | ✅ `vosk_maton` |
 | `@Korin` | leal de Vera | A2·A3 | ⬜ **falta — generar** |
 | `@Lessa` | leal de Vera | A2 | ⬜ **falta — generar** |

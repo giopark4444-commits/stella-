@@ -19,7 +19,7 @@
 - `@Theron` — el Cazador, especie Threa; alto, de otra especie; ojos que no parpadean; armadura/abrigo de cazador milenario.
 - `@Brog` — gigante de roca, lento, macizo, el último de su especie; superficie pétrea agrietada con luz tenue.
 - `@Nima` — mecánica con **cuatro brazos**; práctica, cálida; herramientas; mono de trabajo.
-- `@Noah` — humano, pelo oscuro alborotado, pañuelo, espadachín con **arma de luz** (no de fuego).
+- `@Noah` — humano joven superviviente; **pelo oscuro alborotado, ojos marrones** (no pelo blanco); rostro curtido/sucio; **bufanda azul raída**, un **solo hombro acorazado** (pauldron), guantes sin dedos, equipo desgastado; **espadachín con arma de luz / espada** (no de fuego). Mochila.
 - `@Vosk` — matón grande, cicatrices, rudo (luego leal).
 - `@Marek` — líder cálido y carismático de la resistencia 🔒 (=Vorthan).
 - `@Vorthan` — el Rey (en su discurso/control, igual que A1).
