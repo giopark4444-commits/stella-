@@ -1,5 +1,8 @@
 # ESCALETA — EL NODO DE ERDIA (trilogía)
 
+> ⚠️ **RECONCILIADO A CANON v2 (2026-06-30).** Fuente de verdad de la trilogía: `TRILOGIA_v2_panorama.md` (y de la Peli 1, `GUION_P1_v2.md`). Cambios v2 aplicados: **Vorthan = un único ser cambiaformas (NO colmena)**, forma real = el **Parásito** colosal; **Naio vivo**; **Gix** (del ADN de Stella) sostiene y revive a Stella (el brazalete solo lo invoca); títulos **P2 "El Despertar"**, **P3 "Morth"**. El detalle se afinará después.
+
+
 > Peli 1 detallada en Kishōtenketsu (Ki/Shō/Ten/Ketsu). Pelis 2 y 3 en beats con lo
 > cerrado; lo pendiente (Vorth/desenlace) marcado como (abierto · D).
 
@@ -46,19 +49,19 @@
     Extracción de Brog y Nima.
 28. Vorthan despega a Vorth con el Orbe; Erdia en ruinas. Theron: "Sé adónde va a llevarlo."
 29. Bahía médica: Stella sin pulso; Selka prisionera. "Despierta y déjame decírtelo a la
-    cara." El brazalete de Gix late una vez.
+    cara." La brasa de Gix late una vez.
 30. (Sentido) Stella perdió el mundo pero ganó a su hermana — sin saberlo. La semilla es una
     Selka que por fin puede elegir.
 
 ---
 
-## PELÍCULA 2 — "EL ROBO" (la película de Selka)
+## PELÍCULA 2 — "EL DESPERTAR" (la película de Selka)
 1. Selka prisionera en la flota; la tripulación la desprecia. Stella en el tanque: culpa.
 2. Gix mantiene vivo el pulso de Stella. Selka es la única que conoce a Vorthan desde dentro.
 3. Selka ofrece el robo; se gana a Brog y Nima con actos sin recompensa.
 4. Espacio onírico: Stella en coma "conversa" con la ilusión de su madre. La nana persigue a Selka.
 5. El plan: reconocimiento, ensayos, el plan que se tuerce.
-6. Infiltración en la NAVE de Vorthan (no en Vorth aún): robo quirúrgico del Orbe, con un costo.
+6. Infiltración en la NAVE de Vorthan (no en Morth aún): robo quirúrgico del Orbe, con un costo.
 7. Conectan el Orbe al soporte vital; Gix se materializa, mira a Selka, se disuelve y revive a Stella.
 8. Stella abre los ojos. Veinte años de mentira entre las dos — y Stella NO sabe lo que Selka
    hizo ni en quién se convirtió. Reencuentro casi sin palabras.
@@ -66,13 +69,13 @@
 
 ---
 
-## PELÍCULA 3 — "LA COLMENA / VORTH" (las dos · abierto · D)
-1. Hermanas extrañas aprendiendo a serlo; la colmena amenaza el siguiente mundo.
-2. Deciden atacar Vorth. La Tregua NO aplica → la tripulación pelea abierta.
-3. (Abierto) amenaza mayor en Vorth; Vorthan cuenta la historia del Parásito y de Theron.
-4. El asalto; pérdidas; la colmena usa las formas de los muertos como arma psicológica.
+## PELÍCULA 3 — "MORTH" (las dos · abierto · D)
+1. Hermanas extrañas aprendiendo a serlo; Vorthan amenaza el siguiente mundo.
+2. Deciden atacar Morth. La Tregua NO aplica → la tripulación pelea abierta.
+3. (Abierto) amenaza mayor en Morth; Vorthan cuenta la historia del Parásito y de Theron.
+4. El asalto; pérdidas; Vorthan usa las formas de los muertos como arma psicológica.
 5. (Abierto) posible muerte de Theron / saltos espacio-tiempo.
-6. Clímax: red del nodo-madre; invierten el flujo; el Orbe devora al Parásito; implosión.
+6. Clímax: invierten el flujo del Orbe contra Vorthan; lo obligan a devorarse a sí mismo; implosión.
 7. El Orbe vuelve a Erdia; Naio tira la palanca; la luz y el agua regresan.
 8. Las hermanas eligen caminos opuestos (Stella a las estrellas, Selka se queda) porque por
    fin pueden elegir.
