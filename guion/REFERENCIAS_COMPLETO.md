@@ -29,7 +29,7 @@
 | `@SelkaBebe` | bebé, mechón blanco, gris-azul | A1 | ✅ `selka_4_bebe` |
 | `@SelkaGeneral` | la General (21), armadura blanca, gris-azul; luego manca | A2·A3 | ✅ `selka_general` + `selka_manca` |
 | `@SelkaNiña` 🔒 | Selka de niña (forma del "Fui yo"), gris-azul | A3 | 🟡 derivar de `selka_4_bebe` |
-| `@Gix` | ajolote de luz cálido (con cara) | A1·A2·A3 | ⬜ **falta — generar** |
+| `@Gix` | axolotl-espíritu de agua y luz (azul-luzagua + dorado, con cara) | A1·A2·A3 | ✅ `gix` (lámina recibida) |
 | `@Vorthan` | el Rey | A1·A2·A3 | ✅ `rey_humano` |
 | `@Marek` 🔒 | líder de la resistencia (=Vorthan) | A2·A3 | ✅ `marek_rey_infiltrado` |
 | `@Parasito` 🔒 | criatura colosal de luz robada (=Vorthan) | A3 | ✅ `vorthan_real_parasito` |
@@ -101,14 +101,15 @@
   `@Marek`, `@Parasito`, `@Theron`, `@Nima`, `@Noah`, `@Vosk`, `@S1G1`, `@Piloto1/2/3`.
 - 🟡 **Derivables de una lámina existente (3):** `@VeraArmadura` (de `vera_madre`),
   `@NaioRescatado` (de `naio_esclavo`), `@SelkaNiña` (de `selka_4_bebe`). + `@RobotImperial` por asignar.
-- ⬜ **Personajes que FALTAN por generar (5):** `@Gix`, `@Brog`, `@Korin`, `@Lessa`, `@CazadorRecompensas`.
+- ⬜ **Personajes que FALTAN por generar (4):** `@Brog`, `@Korin`, `@Lessa`, `@CazadorRecompensas`.
+- ✅ **`@Gix` recibido** — lámina final "axolotl de luz" (ver `REF_GIX_prompt.md`).
 - ⬜ **Aún no en Drive:** **las 6 naves** y **los 11 props** (`@Orbe`, `@LlaveDeLuz`, `@Brazalete`,
   `@MechaFlores`, `@HojaSelka`, etc.). Las **17 locaciones** se cubren con su **establishing** y se reúsan.
 - 🔒 **No olvidar:** `@Marek` (`marek_rey_infiltrado`), `@Parasito` (`vorthan_real_parasito`) ya existen
   como láminas aparte de `@Vorthan` (`rey_humano`) — bien hecho, el secreto no se filtra en el set.
 
-> **Lo más urgente por generar (recurrentes y aún sin lámina):** `@Gix` (sale en los 3 actos),
-> `@Orbe`, `@LlaveDeLuz`, `@Brog`, `@Korin`. Lo demás ya está cubierto o es derivable.
+> **Lo más urgente por generar (recurrentes y aún sin lámina):** `@Orbe`, `@LlaveDeLuz`, `@Brog`,
+> `@Korin`. Lo demás ya está cubierto o es derivable. (`@Gix` ✅ ya recibido.)
 >
 > **Mapa archivo→@elemento** (sube cada PNG a "Elementos" con el nombre del @tag, sin el @):
 > `stella_14_nina`→StellaRopa · `stella_22_guerrera`→StellaArmadura/PeloCorto ·
