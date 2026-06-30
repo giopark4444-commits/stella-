@@ -1,128 +1,123 @@
-# PRODUCCIÓN · ACTO 3 — DESGLOSE EN CLIPS DE 15 s  (VERSIÓN RECOMENDADA)
-## Stella Fugaz · "El Nodo de Erdia" (P1)
+# PRODUCCIÓN · ACTO 3 — DESGLOSE EN CLIPS (sincronizado con los prompts)
+## 78 clips · 転結 TEN·KETSU — EL REGRESO
 
-> Desglose del **Acto 3** (guión `GUION_P1_v2.md`, SEC 21-29) en planos de **15 s** para Seedance 2.0.
-> **Versión recomendada:** cuenta todo + cobertura esencial del clímax, sin relleno. ✛ = cobertura.
-> Numeración continua (Acto 1 = 1-88; Acto 2 = 89-174; Acto 3 = **175-248**).
-> 🔒 El cambio de forma de @Vorthan se revela en SEC 26 y no antes. Estilo/reglas: `PRODUCCION_setup_visual.md`.
-> **Aún no son los prompts** — es el mapa.
+> Mapa derivado **directamente de** `PROMPTS_ACTO3.md` (fuente de verdad). Los **sub-clips** (40A, 50B…) son planos de **acción/cobertura** añadidos, van tras su clip padre.
+> Total: **78 clips** (74 base + 4 sub-clips). Estilo/reglas: `PRODUCCION_setup_visual.md`.
 
----
-
-## SEC. 21 — [AÑO 20] El regreso  *(10 · 175-184)*
-| # | Clip (15 s) |
+## 21 — ESCENA: [AÑO 20] El regreso · *(155-164)*
+| # | Clip |
 |---|---|
-| 175 | RÓTULO **ERDIA · AÑO 20.** ✛ Establishing wide: la ciudad dorada hoy gris y partida en dos — niebla, soldados, murales del Rey. |
-| 176 | ✛ Detalle: el nombre de @Stella tachado en un muro, grafitis de odio — veinte años de culpa. |
-| 177 | Una nave pequeña aterriza entre la chatarra; bajan @Brog, @Nima, @Noah y @Stella (~19, pelo teñido oscuro, encapuchada). |
-| 178 | @Stella pasa entre la gente; la miran con el odio que el Rey les enseñó; un viejo escupe al oír su nombre. |
-| 179 | @Noah, bajo: *"Todo un planeta te odia. Y aun así volviste."* — @Stella: *"Por eso volví."* |
-| 180 | Un grupo de la resistencia los intercepta, armas en alto; al frente @Korin, más viejo, apunta a @Stella. |
-| 181 | @Stella se baja la capucha; @Korin no reconoce el pelo oscuro, va a dar la orden— |
-| 182 | —y le ve los ojos. @Korin, quebrándose: *"¿Stella? Esos ojos… son los de tu madre. Eres tú."* |
-| 183 | ✛ El murmullo del reencuentro — viejos leales entendiendo que volvió; esperanza y miedo. |
-| 184 | EN ÓRBITA — @NaveNodriza: @Vosk mira Erdia hervir. *"Déjame bajar. Está sola."* — @Theron: *"No es nuestra guerra."* — @Vosk: *"Se volvió mía cuando me sacó de esa fosa."* Theron no lo impide. |
+| **155** | establishing Erdia ruinas — the camera glides over Erdia twenty years on — a grey, fractured city under fog, imperial murals looming above rubble where gardens used to be. |
+| **156** | detalle: el nombre de Stella tachado — on a cracked wall, Stella's name is struck through and ringed with twenty years of scrawled hatred — the lie the King built. |
+| **157** | la nave aterriza / bajan — a small ship sets down among the scrap; |
+| **158** | el odio del pueblo / "por eso volví" — @StellaTeñida moves through the crowd under the hatred the King taught them — an old man spits at her name; |
+| **159** | la resistencia los intercepta — a resistance group steps from the shadows, weapons raised; |
+| **160** | se baja la capucha — @StellaTeñida lowers her hood; |
+| **161** | Korin la reconoce (la conoció de pequeña) — then, under the dyed hair, @Korin recognizes her face — the little girl he knew twenty years ago, always at her mother's side; |
+| **162** | el murmullo del reencuentro — word ripples through the old loyalists that Stella has returned — faces caught between hope and fear, twenty years of grief stirring. |
+| **163** | EN ÓRBITA: Vosk ruega bajar — in orbit @Vosk watches Erdia churn and turns to @Theron; |
+| **164** | Theron no lo impide — @Theron stares at Erdia and lets @Vosk go without a word, his own ancient suspicion pulling him toward the surface too. |
 
-## SEC. 22 — Stella visita a Naio  *(6 · 185-190)*
-| # | Clip (15 s) |
+## 22 — ESCENA: Stella visita a Naio · *(165-170)*
+| # | Clip |
 |---|---|
-| 185 | INT. refugio. @Korin lleva a @Stella ante un anciano esclavo encorvado, medio ciego: @Naio. |
-| 186 | @Stella se arrodilla: *"Papá."* @Naio busca su cara y no la encuentra— |
-| 187 | —hasta que le toma la mano y siente la @LlaveDeLuz bajo la piel. |
-| 188 | ✛ Primer plano sostenido: el ojo bueno de @Naio llenándose: *"Volviste. Veinte años. Lo cuidaste. Mi niña del río."* |
-| 189 | ✛ El abrazo — veinte años colapsando en un solo instante sostenido. |
-| 190 | @Stella: *"Mamá está viva, papá. Voy a sacarlos a todos. A Selka también. Te lo prometo."* @Naio, sin corazón para desmentirla, la deja con su esperanza. |
+| **165** | ante el anciano esclavo — @Korin leads @StellaTeñida to a bent, half-blind old slave — @NaioRescatado, her father, unrecognizable under twenty years. |
+| **166** | "papá" — @StellaTeñida sinks to her knees before him and says it; |
+| **167** | siente la llave en la palma — @NaioRescatado takes her hand — and feels the @LlaveDeLuz pulsing beneath her skin, the @Orbe still safe; |
+| **168** | "mi niña del río" — @NaioRescatado's good eye floods; |
+| **169** | el abrazo — father and daughter hold each other, twenty years of loss folding into a single trembling embrace. |
+| **170** | la promesa (le calla lo de Vera) — @StellaTeñida swears to get them all out; |
 
-## SEC. 23 — La guerra / rescatan a Naio / la cúpula  *(8 · 191-198)*
-| # | Clip (15 s) |
+## 23 — ESCENA: La guerra / rescatan a Naio / la cúpula · *(171-178)*  · SET-PIECE A6
+| # | Clip |
 |---|---|
-| 191 | ✛ Establishing: estalla el asalto por las calles de niebla — empieza la guerra. |
-| 192 | @Brog abre brechas a golpes; @Nima inutiliza robots; @Noah cubre — la familia en combate. |
-| 193 | ✛ Cobertura de batalla: los naieli levantándose contra los robots imperiales en las ruinas grises. |
-| 194 | En el caos, un comando libera esclavos clave — @Naio entre ellos, puesto a salvo. |
-| 195 | @Stella rompe su misión de reconocimiento; escala el palacio bajo fuego, sola. |
-| 196 | ✛ La escalada: @Stella trepando el palacio hacia la cúpula más alta, haces de energía a su alrededor. |
-| 197 | Llega al techo de cristal; abajo, una figura blanca espera, inmóvil, como si supiera que vendría. |
-| 198 | @Stella rompe el cristal con un golpe del @Orbe y cae a la Sala del Trono. |
+| **171** | estalla el asalto — the resistance assault erupts across the grey fog-streets — naieli surging against imperial robots, the war begins in a storm of energy-light and dust… |
+| **172** | Brog, Nima, Noah en combate — @Brog smashes breaches through robot lines, @Nima's four arms dismantle units mid-stride, @Noah covers with his light-blade — the found family at war. |
+| **172A** | cobertura de batalla (acción ×2) — the camera sweeps the battle — ragged naieli charging imperial robots through the grey ruins, banners and energy-light, the fury of a people who waite… |
+| **173** | rescatan a Naio — in the chaos a resistance commando hauls @NaioRescatado clear of the fighting, shielding him toward safety. |
+| **174** | Stella rompe la misión — @StellaTeñida looks up at the high dome of the palace and breaks from her recon mission — her face fixed, unstoppable. |
+| **175** | la escalada bajo fuego — @StellaTeñida scales the towering palace alone, energy-fire shattering the stone at her hands, leaping from ledge to ledge toward the highest dome — t… |
+| **175A** | el ascenso final (acción ×2) — a ledge crumbles under @StellaTeñida; |
+| **176** | la figura blanca espera — through the glass dome @StellaTeñida sees the throne hall far below — and a single white figure standing perfectly still at its heart, as if it knew s… |
+| **177** | rompe el cristal — @StellaTeñida slams the @Orbe into the glass dome — it shatters into a slow rain of shards — and she drops through into the throne hall. |
+| **178** | cae al trono — @StellaTeñida lands hard in a crouch amid the raining glass and rises, glass glittering around her, eyes fixing on the figure ahead. |
 
-## SEC. 24 — El trono / el combate emocional / le arrancan el Orbe  *(11 · 199-209)*
-| # | Clip (15 s) |
+## 24 — ESCENA: El trono / el combate emocional / le arrancan el Orbe · *(179-189)*  · SET-PIECE A7
+| # | Clip |
 |---|---|
-| 199 | INT. sala del trono. @Stella aterriza entre vidrios; se levanta. Frente a ella @Selka — la General, 21, blanca, perfecta, fría. Dos hermanas tras 20 años. |
-| 200 | @Selka: *"La ladrona. Volviste a la escena del crimen. Qué considerada."* (desenfunda una hoja de luz) |
-| 201 | @Stella, manos abiertas: *"No vine a pelear contigo."* — @Selka: *"Todos dicen eso antes de morir."* Selka ataca. |
-| 202 | ✛ El combate: @Stella más rápida, entrenada — bloquea, desvía, la desarma una vez — pero no remata. |
-| 203 | @Stella: *"¿Por qué mataste a nuestra madre?"* — @Selka: *"He ejecutado a cientos. No recuerdo a ninguna 'madre'."* La tira al piso, la hoja en alto. |
-| 204 | Acorralada, por reflejo, @Stella hace **EL GESTO**: ahueca la palma, una chispa de @Gix, la alza hacia la frente de @Selka. |
-| 205 | @Selka se **CONGELA**; la hoja tiembla; su cuerpo recuerda la seguridad antes que su mente. |
-| 206 | ✛ Primer plano sostenido: la General se agrieta — asoma una niña debajo. *"¿Por qué… por qué conozco eso?"* |
-| 207 | ✛ Las dos quietas, casi frente con frente — a un latido de despertar. Y ese latido **aterra** a @Selka. |
-| 208 | Aterrada, @Selka le agarra la mano y le **ARRANCA el @Orbe** *(su sangre)*. @Stella se desploma — coma, no muerte. |
-| 209 | Una chispa del @Brazalete se mete en su pecho: @Gix, abrazándole el corazón. @Selka, temblando: *"Cuéntenlo. La traidora cayó."* |
+| **179** | las dos hermanas, cara a cara — @StellaTeñida rises to face @SelkaGeneral — the General, 21, white, perfect, cold, grey-blue eyes — two sisters across a throne hall for the first tim… |
+| **180** | "the thief" / desenfunda — @SelkaGeneral ignites her @HojaSelka, unhurried, contemptuous. |
+| **181** | "no vine a pelear" / ataca — @StellaTeñida holds her hands open, refusing the fight; |
+| **182** | el combate (Stella superior, no remata) — @StellaTeñida blocks, parries and redirects — clearly the stronger — and disarms @SelkaGeneral with a spin, the @HojaSelka skittering away; |
+| **182A** | el intercambio brutal (acción ×2) — @SelkaGeneral recovers and they trade a blistering hand-to-hand flurry — Stella absorbing, redirecting, never striking to hurt; |
+| **183** | "¿por qué mataste a nuestra madre?" — @StellaTeñida's question cuts deeper than any blow; |
+| **184** | EL GESTO (el juego de la luz) — cornered, by pure reflex @StellaTeñida cups her palm — a spark of @Gix dances in it — and lifts it toward @SelkaGeneral's forehead: the light game fro… |
+| **185** | Selka se congela — @SelkaGeneral freezes mid-strike, the blade shaking — her body remembering the safety of that gesture before her mind can understand why. |
+| **186** | la grieta ("¿por qué conozco eso?") — under the General a child surfaces; |
+| **187** | a un latido de despertar — the two are a single heartbeat from waking the sister — and that nearness terrifies @SelkaGeneral more than any blade. |
+| **188** | le arranca el Orbe / coma — terrified of her own feeling, @SelkaGeneral grabs Stella's hand and rips the @Orbe out in a blinding flare (only she can — shared blood); |
+| **189** | Gix entra al corazón / "la traidora cayó" — a spark of @Gix dives from the @Brazalete into @StellaTeñida's chest, clutching her failing heart; |
 
-## SEC. 25 — El secreto del palacio (es una nave)  *(7 · 210-216)*
-| # | Clip (15 s) |
+## 25 — ESCENA: El secreto del palacio (es una nave) · *(190-196)*
+| # | Clip |
 |---|---|
-| 210 | @Selka lleva el @Orbe a la consola del trono; lo coloca — lista para devolver la luz, la heroína que cree ser. |
-| 211 | La luz **NO** vuelve. |
-| 212 | ✛ Un silencio equivocado; la confusión de @Selka; luego el primer temblor. |
-| 213 | Todo **TIEMBLA**; las paredes se pliegan en mamparos, el piso se vuelve cubierta, el trono se abre en puente; despiertan motores antiquísimos. |
-| 214 | ✛ Espectáculo wide: lo que creímos palacio — lo que el pueblo creyó meteorito — se enciende entero. |
-| 215 | **Siempre fue una nave.** La estructura elevándose, maquinaria por todas partes. |
-| 216 | @Selka retrocede, con miedo: *"Majestad… el Orbe debería traer la luz. ¿Qué es esto?"* — Desde el trono, una risa de mil voces: *"La luz nunca fue para ellos. Y nunca fue tuya."* |
+| **190** | pone el Orbe en la consola — @SelkaGeneral carries the @Orbe to the throne console and sets it in place — about to return the light to Erdia, to be the hero she believes she is. |
+| **191** | la luz NO vuelve — nothing happens. |
+| **192** | todo tiembla — the whole hall shudders — walls fold into bulkheads, the floor becomes deck, ancient engines waking deep below. |
+| **193** | espectáculo: el palacio se enciende — what everyone believed a palace — what the people believed a meteorite — ignites whole: machinery everywhere, the @NavePalacio rising into itself. |
+| **194** | "siempre fue una nave" — the structure climbs around @SelkaGeneral — it was always a ship, every column a strut, every wall a bulkhead. |
+| **195** | Selka retrocede con miedo — @SelkaGeneral backs away, afraid for the first time in her life; |
+| **196** | (reservado / transición al "Fui yo") — @Vorthan rises from the throne, unhurried; |
 
-## SEC. 26 — "Fui yo" (la revelación)  *(11 · 217-227)*
-| # | Clip (15 s) |
+## 26 — ESCENA: "Fui yo" (la revelación) 🔒 · *(197-207)*
+| # | Clip |
 |---|---|
-| 217 | @Vorthan se levanta y empieza a **CAMBIAR**. Primero en **@Vera**. |
-| 218 | Con el rostro de la madre, "@Vera" camina despacio hacia @Stella, que agoniza; se arrodilla; le acaricia el pelo teñido — dulce y monstruoso. |
-| 219 | ✛ Primer plano: @Stella entreabre los ojos por última vez. No ve al monstruo. Ve a su madre. |
-| 220 | @Stella, un hilo de voz, una sonrisa: *"Mamá… viniste."* — "@Vera": *"Aquí estoy, mi amor. Descansa."* |
-| 221 | ✛ @Stella cierra los ojos y muere **en paz** — la misericordia más cruel. |
-| 222 | La cosa se incorpora; toma una segunda forma: **@Marek**. @Selka ve al héroe del pueblo salir de su Rey. |
-| 223 | "@Marek": *"¿Nunca te preguntaste cómo el Rey sabía dónde golpear a la resistencia? No había resistencia. Solo yo. Llevándolos al matadero."* |
-| 224 | Y la **última** forma: una niña pequeña — @SelkaNiña, pelo blanco. Se vuelve hacia la General. |
-| 225 | "@SelkaNiña": *"Fuiste tú quien la mató. Al menos… eso creyó ella. Tu madre murió mirando esta cara, odiándote. Porque la maté yo, pequeña. Vistiendo tu rostro."* |
-| 226 | ✛ Primer plano: @Selka empieza a tararear la nana sin querer — y al fin la entiende: la canción de su madre. |
-| 227 | @Selka se rompe: *"Era mi madre. Era NUESTRA madre."* |
+| **197** | empieza a cambiar → Vera — @Vorthan begins to change — his form flowing — and settles into the shape of @VeraEncapuchada, the mother's face, grey-blue eyes. |
+| **198** | "Vera" se acerca a Stella — wearing the mother's face, the thing kneels beside the dying @StellaTeñida and strokes her dark-dyed hair — sweet and monstrous at once. |
+| **199** | Stella ve a su madre — @StellaTeñida half-opens her eyes one last time — and does not see the monster; |
+| **200** | "mamá… viniste" / muere en paz — @StellaTeñida smiles, believing her mother came for her, and slips away in peace; |
+| **201** | cambia a Marek — the thing rises and takes a second form — @Marek, the resistance's beloved leader — and @SelkaGeneral watches the people's hero step out of her King. |
+| **202** | "no había resistencia, solo yo" — wearing Marek's face, the thing explains how every blow against the resistance always landed. |
+| **203** | la última forma: Selka niña — the thing shrinks into a small child — @SelkaNiña, white hair, grey-blue eyes — and turns that little face toward the General. |
+| **204** | "fui yo, vistiendo tu rostro" — with that tender little face the thing tells @SelkaGeneral the truth that unmakes her. |
+| **205** | la nana / "era mi madre" — @SelkaGeneral starts to hum the lullaby without meaning to — and finally understands it: her mother's song; |
+| **206** | (reacción) Selka mira a Stella muerta — @SelkaGeneral's eyes drop to @StellaTeñida, still on the floor — the sister who crossed a universe for her, whom she just struck down without knowing. |
+| **207** | Vorthan ríe / transición — the child-thing laughs, and its small shape begins to swell and distort — the disguise ending, the true horror rising. |
 
-## SEC. 27 — El Parásito / el brazo de Selka / Theron / la extracción  *(9 · 228-236)*
-| # | Clip (15 s) |
+## 27 — ESCENA: El Parásito / el brazo de Selka / Theron / la extracción · *(208-216)*  · SET-PIECE A8
+| # | Clip |
 |---|---|
-| 228 | La cosa abandona todos los disfraces; toma su **forma real**: el @Parasito — una criatura colosal de luz robada. |
-| 229 | ✛ El Parásito revelado en pleno — antiguo, monstruoso, lo que vació el planeta, llenando la sala. |
-| 230 | @Selka — humana otra vez — se levanta, toma su hoja y se lanza contra él para cubrir el rescate de @Stella. |
-| 231 | No le da la talla; el @Parasito le **secciona el brazo con luz** (cauterizado, sin sangre). @Selka cae, manca pero viva. |
-| 232 | Una explosión revienta el mamparo: entra @Theron. Ve a la criatura — veinte mil años, y su presa por fin tiene cara. *"Ahí estás."* |
-| 233 | ✛ @Theron vs el Parásito — el cazador aguantando la línea, ganando tiempo. |
-| 234 | @Brog y @Nima entran por la brecha; @Brog levanta a @Stella (coma); @Nima carga a @Selka (manca). |
-| 235 | @Vosk cubre desde la puerta — llegó, después de todo. |
-| 236 | @Nima, gritando: *"¡Las tengo! ¡VÁMONOS!"* @Theron retrocede de espaldas, sin quitarle los ojos al @Parasito. |
+| **208** | forma real: el Parásito — the disguises fall and the @Parasito takes its true form — a colossal ancient creature of stolen light, filling the throne hall, the structure trembli… |
+| **208A** | el Parásito en pleno (acción ×2) — the @Parasito lashes out, columns of light and debris exploding across the hall; |
+| **209** | Selka embiste — newly broken and human again, @SelkaGeneral takes up her @HojaSelka and hurls herself at the @Parasito to cover Stella's rescue — fury and grief fused… |
+| **210** | le secciona el brazo (sin sangre) — the @Parasito, almost without noticing, severs @SelkaGeneral's arm with a sweep of light (cauterized, no blood); |
+| **211** | entra Theron / "ahí estás" — a bulkhead blows inward and @Theron strides in — and sees the creature with his own eyes; |
+| **212** | Theron aguanta la línea (acción ×2) — @Theron throws himself at the @Parasito, weaving its colossal strikes, holding the line to buy the others time — a single hunter against a mountain of… |
+| **213** | Brog y Nima entran — @Brog and @Nima charge in through the breach while @Theron holds the monster, racing for the two fallen sisters. |
+| **214** | sacan a Stella y a Selka — @Brog scoops @StellaTeñida (in coma) like a feather; |
+| **215** | "¡las tengo! ¡vámonos!" — @Nima screams for the exit; |
+| **216** | (reservado / salida al cielo) — the group breaks out of the collapsing throne hall toward the grey sky, the @Parasito's roar shaking the structure behind them. |
 
-## SEC. 28 — La huida del monstruo  *(5 · 237-241)*
-| # | Clip (15 s) |
+## 28 — ESCENA: La huida del monstruo · *(217-221)*
+| # | Clip |
 |---|---|
-| 237 | EXT. cielo sobre la ciudad. La **nave-palacio** se arranca de la ciudad escupiendo escombros, el @Orbe en su núcleo; se eleva. |
-| 238 | ✛ Espectáculo: la nave colosal ascendiendo sobre la ciudad en ruinas, empequeñeciéndolo todo. |
-| 239 | Abre un **PORTAL** en el cielo — un tajo de luz hacia el próximo mundo que va a vaciar. |
-| 240 | El @Parasito **no** persigue; tiene lo que vino a buscar; su nave entra al portal y desaparece. El cielo se cierra. |
-| 241 | En el puente de @NaveNodriza, @Theron mira el punto del portal. Por primera vez no está perdido: *"Veinte mil años buscándolo. Por fin sé adónde va a llevarlo."* |
+| **217** | la nave-palacio se arranca — the @NavePalacio tears free of the city, scattering debris, the @Orbe blazing in its core, and climbs into the sky over Erdia. |
+| **218** | espectáculo: asciende sobre la ciudad — the @NavePalacio ascends over the broken city, impossibly vast, dwarfing everything below. |
+| **219** | abre un portal — the @NavePalacio opens a portal in the sky — a slash of light toward elsewhere, toward the next world it will empty. |
+| **220** | no persigue / desaparece — the @Parasito does not pursue Stella or Theron — it has what it came for; |
+| **221** | Theron: "por fin sé adónde va" — on the bridge @Theron stares at the spot where the portal was — for the first time in twenty thousand years, he is not lost. |
 
-## SEC. 29 — Cierre  *(7 · 242-248)*
-| # | Clip (15 s) |
+## 29 — ESCENA: Cierre · *(222-228)*
+| # | Clip |
 |---|---|
-| 242 | INT. enfermería de @NaveNodriza. @Stella flota en un tanque de soporte vital, en coma; @Naio (rescatado) a su lado. |
-| 243 | ✛ Primer plano: sobre su pecho, dentro del agua, late un resplandor tenue — una brasa a punto de apagarse. @Gix, sosteniéndole el corazón. |
-| 244 | @Theron: *"Eso es lo único que la sostiene. Y se está apagando."* |
-| 245 | @Selka entra, manca, vendada — la cara de quien perdió todo en una noche. |
-| 246 | Va con @Naio, le toma la mano con la única que le queda: *"Perdóname. Voy a volver. Voy a salvar lo que quede de Erdia. Te lo juro por ella."* |
-| 247 | @Selka apoya la palma en el cristal frío del tanque, sobre la cara de su hermana: *"No sabía que eras tú. Despierta. Y déjame decírtelo a la cara."* |
-| 248 | ✛ Dentro, la brasa de @Gix late una vez más. Tenue. Pero late. CORTE A NEGRO. **EL NODO DE ERDIA.** |
-
----
+| **222** | la enfermería / Stella en el tanque — in the infirmary @StellaTeñida floats asleep in a @TanqueSoporte, in a coma; |
+| **223** | la brasa de Gix — over @StellaTeñida's heart, inside the tank, a faint glow pulses — like an ember about to go out: @Gix, still inside, still holding her heart. |
+| **224** | "es lo único que la sostiene" — @Theron looks at the failing ember and says the quiet truth. |
+| **225** | Selka manca entra — @SelkaGeneral enters, one arm gone and bandaged, the face of someone who lost everything in a single night and doesn't yet know how to breathe with it… |
+| **226** | "perdóname" / la promesa — @SelkaGeneral goes to @NaioRescatado and takes his hand with her one remaining hand, swearing the oath that makes her the protagonist of what comes ne… |
+| **227** | la mano en el cristal — @SelkaGeneral presses her one palm to the cold glass of the @TanqueSoporte, over @StellaTeñida's sleeping face, and speaks to her. |
+| **228** | la brasa late / EL NODO DE ERDIA — inside the tank the ember of @Gix pulses once more — faint, but it pulses; |
 
 ## RESUMEN
-- **Total Acto 3 (recomendado): 74 clips** (175-248) · SEC21=10 · SEC22=6 · SEC23=8 · SEC24=11 · SEC25=7 · SEC26=11 · SEC27=9 · SEC28=5 · SEC29=7.
-- En corte final: **~15-17 min.**
-- **Película 1 completa (recomendada):** Acto 1 (88) + Acto 2 (86) + Acto 3 (74) = **248 clips ≈ 52-58 min.**
-- **Pendiente:** prompts de los Actos 2 y 3.
+- **Total Acto 3: 78 clips** (74 base + 4 sub-clips de acción/cobertura).
+- Sincronizado 1:1 con `PROMPTS_ACTO3.md`.

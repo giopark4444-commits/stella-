@@ -1,147 +1,139 @@
-# PRODUCCIÓN · ACTO 2 — DESGLOSE EN CLIPS DE 15 s  (VERSIÓN RECOMENDADA)
-## Stella Fugaz · "El Nodo de Erdia" (P1)
+# PRODUCCIÓN · ACTO 2 — DESGLOSE EN CLIPS (sincronizado con los prompts)
+## 86 clips · 承 SHŌ — EL EXILIO
 
-> Desglose del **Acto 2** (guión `GUION_P1_v2.md`, SEC 10-20) en planos de **15 s** para Seedance 2.0.
-> **Versión recomendada:** cuenta todo + cobertura esencial (establishings, reacciones, respiraciones,
-> intercalado del 1:4), sin relleno. ✛ = cobertura. Numeración continua de la película (Acto 1 = 1-88; Acto 2 = **89-174**).
-> 🔒 @Marek es un aliado leal, @Selka mató a @Vera. Estilo/reglas: `PRODUCCION_setup_visual.md`.
-> **Aún no son los prompts** — es el mapa.
+> Mapa derivado **directamente de** `PROMPTS_ACTO2.md` (fuente de verdad). Los **sub-clips** (40A, 50B…) son planos de **acción/cobertura** añadidos, van tras su clip padre.
+> Total: **86 clips** (66 base + 20 sub-clips). Estilo/reglas: `PRODUCCION_setup_visual.md`.
 
----
-
-## SEC. 10 — La nave nodriza / "te recogí"  *(7 · 89-95)*
-| # | Clip (15 s) |
+## 10 — ESCENA: La nave nodriza / "te recogí" · *(89-95)*
+| # | Clip |
 |---|---|
-| 89 | ✛ Establishing: bahía de carga de @NaveNodriza, oscura; la nave rota de @Vera enganchada como presa cazada. |
-| 90 | @Stella despierta en el suelo; lo primero que hace es mirarse la mano — el @Orbe sigue ahí. Alivio. |
-| 91 | ✛ Primer plano: la cara de @Stella al despertar — el duelo cayéndole encima (su madre, los aliados). Sola en un universo extraño. |
-| 92 | Una sombra enorme se mueve: aparece @Theron, sin edad, sin parpadear. |
-| 93 | @Stella en guardia: *"¿Dónde estoy? ¿Me salvaste?"* — @Theron: *"No. Te recogí. Hay una diferencia."* |
-| 94 | @Theron mira el brillo de su mano: *"Lo que brilla así… se puede seguir."* |
-| 95 | Primer plano: @Stella esconde la mano, miedo nuevo — es un rastro, no una niña rescatada. |
+| **89** | establishing de la nodriza — the camera glides through the immense, silent bay, revealing @NaveStella broken and held in the claws of something far older and bigger than anything … |
+| **90** | Stella despierta — @StellaPeloCorto jolts awake on the metal floor; |
+| **90A** | el duelo al despertar — as she registers where she is, the grief of the escape crashes back over @StellaPeloCorto — her mother, the allies — her face crumpling before she for… |
+| **91** | aparece Theron — a vast shadow shifts in the gloom and @Theron steps forward — tall, of another species, eyes that never blink, centuries worn into his face; |
+| **92** | "I picked you up" — @StellaPeloCorto, broken-voiced, asks if he saved her; |
+| **93** | "what shines can be followed" — @Theron's gaze locks onto the light pulsing in her palm as he speaks, reading her like a trail rather than a person. |
+| **94** | esconde la mano (es un rastro) — @StellaPeloCorto closes her fist over the light and hides it against her chest, a new fear dawning — to him she is not a rescued child but bait. |
 
-## SEC. 11 — Maltrato / pelea con Vosk / Brog y Nima / la dilatación  *(11 · 96-106)*
-| # | Clip (15 s) |
+## 11 — ESCENA: Maltrato / Vosk / Brog y Nima / la dilatación · *(96-106)*
+| # | Clip |
 |---|---|
-| 96 | ✛ Establishing: pasillos/bodega de la nave; la tripulación de caras extrañas mira a @Stella como algo que no debería estar a bordo. |
-| 97 | La empujan, la ignoran, le tiran un plato de comida al piso. |
-| 98 | ✛ @Stella se encoge en un rincón, pequeña, observando a estos desconocidos — fuera de lugar. |
-| 99 | @Vosk le bloquea el paso: *"La mascota del jefe. El cebo que respira."* |
-| 100 | @Stella le aparta la mano de un golpe; @Vosk sonríe y tira el primer puñetazo. |
-| 101 | La pelea: @Stella rápida pero pequeña; @Vosk un muro; la tiene contra la pared. |
-| 102 | Una mano de piedra de @Brog aparta a @Vosk; @Brog se planta entre ellos, en silencio. |
-| 103 | @Vosk escupe y se va; @Nima (cuatro brazos): *"No le hagas caso. Ladra para no pensar."* |
-| 104 | @Nima: *"Dos formas de romperse: la que llora y la que arregla cosas a las tres de la mañana. Adivina cuál soy."* |
-| 105 | ✛ Beat silencioso: @Brog se sienta junto a @Stella; ella le asiente; el primer hilo de la familia hallada. |
-| 106 | @Theron: *"El tiempo no corre igual aquí. Un año tuyo son cuatro en tu mundo."* @Stella encaja el peso. |
+| **95** | establishing pasillos/bodega — @StellaPeloCorto moves through the grimy hold under the cold stares of a mismatched alien crew who clearly think she does not belong aboard. |
+| **96** | la desprecian — crew shove past her, ignore her, and a passing hand knocks her food plate to the deck; |
+| **96A** | se encoge en un rincón — @StellaPeloCorto folds into a corner of the hold, knees up, watching the strange alien crew move around her — bracing, out of place. |
+| **97** | Vosk la encara — @Vosk — big, scarred — steps into her path and looks her up and down, taunting. |
+| **98** | el primer golpe — @StellaPeloCorto smacks his prodding hand aside; |
+| **99** | la pelea — @StellaPeloCorto is fast and slippery but small; |
+| **99A** | Stella aguanta (acción ×2) — @StellaPeloCorto ducks two haymakers and lands a quick three-hit combo on @Vosk's ribs — it barely moves him, but her face is pure refusal-to-quit; |
+| **99B** | Vosk la estrella — @Vosk catches her mid-combo and hurls @StellaPeloCorto into a wall of lockers; |
+| **100** | Brog los separa — a massive stone hand closes on @Vosk's shoulder and peels him off effortlessly; |
+| **101** | Nima ("dos formas de romperse") — @Nima, four arms busy at once, talks to @StellaPeloCorto without lifting her eyes; |
+| **102** | beat silencioso con Brog — @StellaPeloCorto sits against @Brog's vast stone side; |
+| **103** | la dilatación 1:4 — @Theron tells her the worst part flatly; |
 
-## SEC. 12 — [AÑO 8] La resistencia / Marek / la figura encapuchada  *(7 · 107-113)*
-| # | Clip (15 s) |
+## 12 — ESCENA: [AÑO 8] La resistencia / Marek / la encapuchada · *(104-108)*
+| # | Clip |
 |---|---|
-| 107 | RÓTULO **ERDIA · AÑO 8.** ✛ Establishing wide: Erdia ya no es dorada — niebla, andamios, luzagua fina, humo de minas sobre la ciudad. |
-| 108 | ✛ Detalle: un río de luzagua corriendo gris y delgado; un niño lo mira apagarse — la podredumbre, mostrada. |
-| 109 | Un refugio escondido; naieli demacrados alrededor de @Marek, cálido y firme. |
-| 110 | @Marek: *"¿Una niña de catorce vació un planeta? ¿O alguien necesitaba que odiáramos a alguien?"* La gente asiente. |
-| 111 | A su lado, una @FiguraEncapuchada — manos de mujer, un mechón blanco escapando de la capucha. |
-| 112 | ✛ Primer plano: la cara oculta en sombra de la figura, solo el mentón y el pelo blanco — misterio sostenido. |
-| 113 | La figura observa a @Marek y baja la cabeza *(es @Vera; no lo sabemos)*. |
+| **104** | establishing Erdia se pudre — the camera glides over Erdia eight years on — the warm gold gone grey, light-water guttering, machinery and smoke where gardens used to be. |
+| **104A** | la luzagua se apaga — a once-bright luzagua canal runs thin and grey; |
+| **105** | el refugio / Marek — @Marek — warm-voiced, the kind people follow — speaks to a circle of worn, hungry naieli who hang on his hope. |
+| **105A** | las caras de la resistencia — the camera moves over gaunt, hopeful faces lit by lamplight — varied people, not all white-haired — clinging to @Marek's words. |
+| **106** | Marek: ¿una niña vació un planeta? — @Marek plants the doubt that holds them together; |
+| **107** | la figura encapuchada — beside @Marek stands a silent @VeraEncapuchada — strong woman's hands, a strand of white hair escaping the hood — face unseen. |
+| **108** | la encapuchada baja la cabeza — the hooded figure watches @Marek and the people, then lowers her head — a private grief we can't read yet. |
 
-## SEC. 13 — La misión / la traición de Vosk / la captura  *(7 · 114-120)*
-| # | Clip (15 s) |
+## 13 — ESCENA: La misión / la traición de Vosk / la captura · *(109-114)*
+| # | Clip |
 |---|---|
-| 114 | ✛ Establishing: un planeta chatarra; operación de la flota de @Theron; @Stella (mayor, más dura) entre escombros. |
-| 115 | Una emboscada — cazarrecompensas locales; caos. |
-| 116 | @Stella se esconde en una grieta, a salvo; @Vosk la ve de lejos; sus ojos se cruzan. |
-| 117 | ✛ Primer plano: el cálculo de @Vosk — la codicia ganándole a la lealtad. |
-| 118 | @Vosk tira una **piedra** junto a ella — un golpe seco que delata su posición. |
-| 119 | @Vosk gritando: *"¡Ahí! ¡La de la mano que brilla! ¡Vale una fortuna!"* Los cazadores caen sobre ella. |
-| 120 | La marcan con un collar (el traje se apaga); última imagen: @Vosk sonriendo — hasta que una red lo atrapa a él también. |
+| **109** | establishing planeta chatarra — Theron's crew, @StellaPeloCorto now older and harder among them, picks through a vast graveyard of dead ships on a scrap world. |
+| **109A** | la tripulación entre los restos — the crew clambers through towering dead hulls, salvaging, tiny against a sky of scrap, @StellaPeloCorto among them. |
+| **110** | la emboscada — local @CazadorRecompensas erupt from the wrecks in an ambush; |
+| **111** | Stella escondida / cruce de miradas — @StellaPeloCorto presses into a crevice, safe and unseen — until @Vosk spots her from across the scrap; |
+| **112** | la piedra (la traición) — @Vosk's hand closes on a rock; |
+| **113** | Vosk la delata — @Vosk points and bellows; |
+| **114** | el collar / Vosk también cae — the hunters clamp a @CollarControl on @StellaPeloCorto and her suit goes dark; |
 
-## SEC. 14 — La fosa / pelea con Noah / la negativa  *(8 · 121-128)*
-| # | Clip (15 s) |
+## 14 — ESCENA: La fosa / Noah / la negativa · *(115-120)*
+| # | Clip |
 |---|---|
-| 121 | ✛ Establishing: la estación de apuestas — subastas de esclavos, una fosa de combate rodeada de gradas que rugen. |
-| 122 | ✛ La multitud y los corredores de apuestas — la crueldad del lugar, las apuestas cruzándose. |
-| 123 | Un presentador anuncia *"la ladrona del Orbe, la más buscada"*. @Stella en la fosa, con el collar. |
-| 124 | Se abre la reja opuesta; empujan a @Noah — humano, magullado, hoja de luz, ojos que no se rinden. |
-| 125 | ✛ @Stella se queda helada — se parece a su gente *(los descendientes desterrados)*; el reconocimiento inquietante. |
-| 126 | @Noah levanta la hoja; @Stella no: *"No voy a matarte para que ellos aplaudan."* |
-| 127 | @Noah: *"¿Es una trampa?"* — @Stella: *"Una oferta."* — @Noah: *"Entonces ayúdame a salir."* Se giran contra los guardias. |
-| 128 | ✛ Beat: los dos se miden en plena pelea — una alianza forjada en una mirada. |
+| **115** | establishing la fosa — the camera drops into a brutal betting-pit — cages, auction blocks, and a sunken arena ringed by a roaring crowd laying bets on blood. |
+| **115A** | la multitud y las apuestas — bookies snatch frantic bets as the mob bays for blood, tokens flashing, faces lit by the pit-glare — the cruelty of the place laid bare. |
+| **116** | anuncian a la ladrona — a barker presents "the Orb thief, the sector's most wanted"; |
+| **117** | empujan a Noah — the opposite gate grinds open and @Noah is shoved into the pit — a battered human with a worn light-blade and eyes that refuse to quit. |
+| **118** | Stella se queda helada — @StellaPeloCorto freezes — @Noah looks uncannily like her own people, an echo she can't place (the exiled descendants); |
+| **119** | "I won't kill you for them" — @Noah lifts his light-blade on guard; |
+| **119A** | el choque de tanteo (acción ×2) — forced to move, @Noah swings and @StellaPeloCorto slips every strike without landing one of her own, the two reading each other mid-fight — challenge … |
+| **120** | la oferta / se giran contra los guardias — a fast exchange of words, a shared decision — and instead of each other, @StellaPeloCorto and @Noah whirl on the pit guards. |
 
-## SEC. 15 — La fuga / salva a Vosk / el respeto de Theron  *(8 · 129-136)*
-| # | Clip (15 s) |
+## 15 — ESCENA: La fuga / salva a Vosk / el respeto de Theron · *(121-126)*
+| # | Clip |
 |---|---|
-| 129 | Caos — @Stella arranca el collar (el @Orbe se reenciende); la fosa se vuelve una fuga; ella y @Noah espalda con espalda. |
-| 130 | ✛ Acción: @Stella canalizando el @Orbe por primera vez en combate — crudo, potente, algo descontrolado. |
-| 131 | @Brog y @Nima entran rompiendo la pared exterior — @Theron mandó por ella. |
-| 132 | En una plataforma de ejecución, van a ajusticiar a un preso ya inútil: @Vosk, de rodillas. |
-| 133 | @Stella lo ve; @Noah grita que vámonos; ella va por @Vosk. |
-| 134 | Rompe la plataforma, lo carga. @Vosk: *"Te vendí. ¿Por qué—?"* — @Stella: *"Porque yo no soy tú."* |
-| 135 | ✛ Primer plano: la cara de @Vosk — algo que se rompe y se recompone; nace el respeto. |
-| 136 | Escapan mientras la estación arde. @Theron la observa de lejos — salvó a quien la traicionó. @Noah no le quita los ojos; ella ni lo nota. |
+| **121** | caos / arranca el collar — @StellaPeloCorto tears the @CollarControl off — the @Orbe blazes back to life in her hand — and she and @Noah fight back-to-back as the pit erupts int… |
+| **121A** | el Orbe se desata (acción ×2) — @StellaPeloCorto channels the @Orbe for the first time in a fight — a raw, uncontrolled burst of light flings a wave of guards off their feet; |
+| **122** | Brog y Nima rompen la pared — the outer wall caves in as @Brog smashes through with @Nima behind — Theron sent for her; |
+| **122A** | Brog y Nima arrasan — @Brog wades through pit-guards like a landslide while @Nima's four arms hurl improvised gadgets; |
+| **123** | la ejecución de Vosk — on a platform above the chaos, the pit-owners kneel a used-up prisoner for execution — it is @Vosk, an energy device leveled at the back of his neck. |
+| **124** | Stella va por él — @StellaPeloCorto sees @Vosk; |
+| **124A** | Stella salta hacia la plataforma — @StellaPeloCorto vaults off a guard's shoulder, flips over the melee and sprints up the execution ramp, the chaos blurring past — pure forward drive t… |
+| **125** | la salva / "porque no soy tú" — @StellaPeloCorto smashes the platform, knocks the energy device aside and drags @Vosk to his feet; |
+| **125A** | Vosk quebrado (acción ×2 / reacción) — for one beat amid the running and the sparks, @Vosk's hard face cracks — something breaking and re-forming behind his eyes as respect is born. |
+| **126** | escapan / Theron la observa — they all break free as the station burns; |
 
-## SEC. 16 — Montaje: vínculos / idioma / traje / domar el Orbe  *(10 · 137-146)*
-| # | Clip (15 s) |
+## 16 — ESCENA: Montaje · vínculos / idioma / traje / domar el Orbe · *(127-132)*
+| # | Clip |
 |---|---|
-| 137 | ✛ Establishing: el planeta de los cometas — cielo cruzado de cometas; la familia que la cura, en calma. |
-| 138 | @Brog le enseña su idioma muerto junto a una fogata; ella repite las palabras antiguas; su sonrisa de montaña. |
-| 139 | ✛ Montaje: la familia — comidas, reparaciones, risas pequeñas; la calidez que balancea lo oscuro. |
-| 140 | @Nima le construye el traje nuevo, cuatro manos: *"Tu traje viejo era de niña. Este es de quien va a volver a ese palacio."* |
-| 141 | ✛ @Stella probándose el traje nuevo — una transformación; se ve mayor, más dura. |
-| 142 | @Stella entrena el @Orbe — inestable: descargas que la tiran, paneles que revientan. |
-| 143 | ✛ Falla, se levanta, vuelve a fallar — el desgaste del dominio; @Brog la sostiene. |
-| 144 | Poco a poco lo canaliza: la luz le sale de la palma, controlada, como un río que aprende a correr. |
-| 145 | ✛ Primer plano: @Stella ya no parece una sobreviviente, sino un arma que eligió su causa; mira hacia donde está Erdia. |
-| 146 | ✛ INTERCUT [ERDIA, se pudre más]: un beat breve y mudo de una Erdia más gris que antes — el reloj 1:4 hecho carne. |
+| **127** | establishing planeta de cometas — the camera drinks in a gentle alien world streaked with comets, the found family camped in its glow — the warmth that balances the dark. |
+| **127A** | montaje de la familia — quick warm beats — shared food, repairs by firelight, a rare laugh from @StellaPeloCorto, @Noah watching her — the found family knitting together unde… |
+| **128** | Brog le enseña su idioma — @Brog teaches @StellaPeloCorto words of his dead language by the fire; |
+| **129** | Nima le construye el traje — @Nima fits @StellaPeloCorto with a new suit, all four hands working at once, talking as she rivets. |
+| **129A** | se prueba el traje nuevo — @StellaPeloCorto seals the @TrajeNuevo and stands; |
+| **130** | entrena el Orbe (inestable) — @StellaPeloCorto trains the @Orbe and it fights her — discharges throw her off her feet, blow panels apart; |
+| **131** | lo canaliza (el río) — at last @StellaPeloCorto channels it — light flows from her palm in a controlled ribbon, like a river that finally learns to run; |
+| **131A** | la luz controlada (asombro) — a ribbon of luzagua light arcs gracefully from @StellaPeloCorto's palm into the night, steady and bright; |
+| **132** | un arma que eligió su causa — @StellaPeloCorto in her new suit no longer looks like a survivor but like a weapon that chose its cause; |
 
-## SEC. 17 — Theron pide la mano y el Orbe / la sospecha  *(5 · 147-151)*
-| # | Clip (15 s) |
+## 17 — ESCENA: Theron pide la mano y el Orbe / la sospecha · *(133-136)*
+| # | Clip |
 |---|---|
-| 147 | INT. puente de la nave, noche. @Theron: *"Muéstrame la mano. Y el Orbe."* Ella abre la palma; el @Orbe brilla expuesto. |
-| 148 | La mano de @Theron se acerca como para arrancarlo; @Stella contiene el aliento; se detiene: *"Sacarlo te mataría. Eres más útil respirando."* |
-| 149 | ✛ Primer plano: @Theron estudiando la luz del @Orbe enredada en su sangre — cálculo, contención. |
-| 150 | @Stella: *"Dicen que el Rey es inmortal. Nunca envejeció. Llegó hace cientos de años."* @Theron se queda muy quieto — suena a su presa. |
-| 151 | @Theron: *"Los reyes siempre dicen que son eternos. Duerme."* Mira el vacío, una sospecha de veinte mil años removiéndose. |
+| **132A** | INTERCUT — Erdia se pudre más — a brief wordless cut to Erdia, greyer and sicker than before — fewer lights, more smoke — the 1:4 clock made flesh: she grows a little, her world dies… |
+| **133** | "muéstrame la mano y el Orbe" — @Theron quietly asks; |
+| **134** | casi lo arranca / "más útil respirando" — @Theron's hand moves as if to tear it out; |
+| **135** | describe al Rey inmortal — @StellaPeloCorto describes her King; |
+| **136** | "los reyes dicen que son eternos" — @Theron closes the subject, then stays staring into the void, a twenty-thousand-year suspicion stirring awake. |
 
-## SEC. 18 — La foto / la familia viva / Vera revelada  *(6 · 152-157)*
-| # | Clip (15 s) |
+## 18 — ESCENA: La foto / la familia viva / Vera revelada · *(137-141)*
+| # | Clip |
 |---|---|
-| 152 | INT. camarote de @Stella, noche. @Theron deja un proyector: *"Un buen cazador mira antes de descartar. Mira tú también."* |
-| 153 | La proyección: @Naio — viejo, encadenado, esclavo en una mina de niebla. |
-| 154 | @Selka — ya no una bebé, una joven soldado entrenando, fría, perfecta, vacía. |
-| 155 | ✛ Primer plano de la imagen de @Selka: la General de hielo en que se convirtió — una extraña con la cara de la bebé. |
-| 156 | Una figura encapuchada liderando la resistencia; la capucha cae — es @Vera. **Viva.** |
-| 157 | Primer plano sostenido: @Stella se lleva la mano a la boca: *"Está viva. Mamá está viva."* @Theron la mira como a quien va a hacer lo imposible. |
+| **137** | el proyector — @Theron sets a @Proyector on her table and tells her to look; |
+| **138** | Naio esclavo — the projection shows @NaioEsclavo — Stella's father, aged, chained, a slave in a fog-mine. |
+| **139** | Selka soldado (gris-azul) — the projection shows @SelkaGeneral — no longer a baby, a young soldier training with surgical cold, perfect and empty, the same grey-blue eyes as her … |
+| **139A** | primer plano: la General fría — the projection pushes in on @SelkaGeneral's cold, perfect face — a stranger now wearing the baby's features, grey-blue eyes empty. |
+| **140** | Vera viva (la capucha cae) — in the projection a hooded leader directs the resistance; |
+| **141** | "está viva. Mamá está viva." — @StellaPeloCorto's hand flies to her mouth, eyes spilling; |
 
-## SEC. 19 — [AÑO 14] Las minas / Naio / Vera se decide  *(5 · 158-162)*
-| # | Clip (15 s) |
+## 19 — ESCENA: [AÑO 14] Las minas / Naio / Vera se decide · *(142-145)*
+| # | Clip |
 |---|---|
-| 158 | RÓTULO **ERDIA · AÑO 14.** ✛ Establishing: minas de niebla, columnas de esclavos; la encapuchada @Vera se desliza entre ellos, buscando. |
-| 159 | Encuentra a @Naio — anciano, roto; le baja la capucha. @Naio: *"¿Vera? Tú moriste. Yo te vi—"* |
-| 160 | @Vera: *"Selka está viva. Pero ya no es ella."* @Naio: *"No vayas. Es una trampa. Te lo ruego."* |
-| 161 | ✛ Primer plano: la decisión de @Vera endureciéndose — una madre a la que no van a disuadir. |
-| 162 | @Vera le toma la cara: *"Vuelvo por ti. Pero primero voy por mi hija."* Abrazo; va hacia el palacio; @Naio estira la mano tras ella. |
+| **142** | establishing minas de niebla — in the fog-mines of Year 14, @VeraEncapuchada slips between columns of slaves, searching face after face. |
+| **143** | encuentra a Naio — @VeraEncapuchada lowers her hood just enough; |
+| **144** | "no vayas, es una trampa" — @VeraEncapuchada tells him Selka is alive but changed; |
+| **145** | "vuelvo por ti" / va al palacio — @VeraEncapuchada cups @NaioEsclavo's face, decided, then turns and vanishes into the fog toward the palace as he reaches uselessly after her. |
 
-## SEC. 20 — Los aposentos de la General / la muerte de Vera (el engaño)  *(12 · 163-174)*
-| # | Clip (15 s) |
+## 20 — ESCENA: Aposentos de la General / la muerte de Vera (el engaño) · *(146-154)*
+| # | Clip |
 |---|---|
-| 163 | ✛ Establishing: el palacio, los aposentos fríos y perfectos de la General — una niña criada hasta volverla un arma. |
-| 164 | INT. @Vera entra encapuchada; @Korin y @Lessa cubren; @Marek en la puerta: *"Yo vigilo. Si sale mal, corre. Tráela."* |
-| 165 | Adentro, @Selka (la General), de espaldas: *"Sé lo que eres. Una rata de la resistencia. ¿Vienes a matarme dormida?"* |
-| 166 | @Vera se baja la capucha: *"Vengo por ti."* @Selka se gira, ve su cara — un temblor de un microsegundo antes de que el adiestramiento lo aplaste. *"Traidora."* |
-| 167 | @Selka ataca; @Vera solo bloquea, retrocede, no puede herir a su hija: *"No voy a lastimarte. No puedo. Mírame."* |
-| 168 | ✛ La pelea: @Vera todo defensa, absorbiendo golpes, negándose a herirla — una no-pelea desgarradora. |
-| 169 | @Selka, ante quien se niega a herirla, se desarma; el brazo le tiembla; baja el arma; algo en ella se rinde. |
-| 170 | @Vera la envuelve en un abrazo: *"Vámonos a casa. Tú, yo y tu padre. Empecemos de nuevo."* |
-| 171 | ✛ Primer plano: la cara de @Selka sobre el hombro de @Vera en el abrazo — confusión, anhelo, y luego un vacío frío bajando. |
-| 172 | En el abrazo, @Selka le clava una hoja de luz en el costado; @Vera ahoga un grito; **su brillo vital se apaga** (sin sangre). |
-| 173 | Primer plano: @Selka la sostiene y le susurra algo al oído que **no oímos**. |
-| 174 | Desde la puerta, @Korin y @Lessa ven solo a la General matando a su madre; @Marek llega tarde, desencajado. @Vera muere mirándole la cara, creyéndolo. @Selka, de pie, temblando, tararea una nana que no recuerda. |
-
----
+| **146** | establishing aposentos / Marek en la puerta — @VeraEncapuchada slips in while @Korin and @Lessa cover the hall; |
+| **147** | Selka de espaldas — inside, @SelkaGeneral stands with her back turned, knowing she is not alone. |
+| **148** | Vera baja la capucha / "traidora" — @VeraEncapuchada lowers her hood; |
+| **149** | Selka ataca / Vera no la hiere — @SelkaGeneral attacks in a flurry; |
+| **149A** | la no-pelea (detalle) — detail of the duel — @VeraEncapuchada absorbs strike after strike on her forearms, never once hitting back, her face pleading; |
+| **150** | Selka se desarma — faced with someone who refuses to wound her, @SelkaGeneral falters; |
+| **151** | el abrazo — @VeraEncapuchada pulls @SelkaGeneral into her arms and holds her the way mothers do. |
+| **151A** | la cara de Selka en el abrazo — CU of @SelkaGeneral's face over @VeraEncapuchada's shoulder in the embrace — confusion, a flicker of longing — then a cold blankness slides down like … |
+| **152** | la hoja en el abrazo — inside the embrace @SelkaGeneral drives a light-blade into @VeraEncapuchada's side; |
+| **153** | el susurro (que no oímos) — @SelkaGeneral holds her mother close and whispers something at her ear we do not hear; |
+| **154** | la creen asesina / la nana — from the doorway @Korin and @Lessa see only the General killing her mother; |
 
 ## RESUMEN
-- **Total Acto 2 (recomendado): 86 clips** (89-174) · SEC10=7 · SEC11=11 · SEC12=7 · SEC13=7 · SEC14=8 · SEC15=8 · SEC16=10 · SEC17=5 · SEC18=6 · SEC19=5 · SEC20=12.
-- En corte final: **~17-19 min.**
-- **Pendiente:** prompts del Acto 2 (mismo sistema de @menciones + setup de casa).
+- **Total Acto 2: 86 clips** (66 base + 20 sub-clips de acción/cobertura).
+- Sincronizado 1:1 con `PROMPTS_ACTO2.md`.
