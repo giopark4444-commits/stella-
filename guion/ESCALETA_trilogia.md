@@ -4,7 +4,7 @@
 
 
 > Peli 1 detallada en Kishōtenketsu (Ki/Shō/Ten/Ketsu). Pelis 2 y 3 en beats con lo
-> cerrado; lo pendiente (Vorth/desenlace) marcado como (abierto · D).
+> cerrado; lo pendiente (Morth/desenlace) marcado como (abierto · D).
 
 ## PELÍCULA 1 — "EL NODO"
 
@@ -47,7 +47,7 @@
 26. Selka se quiebra (la nana); Vorthan, forma real, le secciona el brazo.
 27. Renuncia de Selka: deja el sable, da la espalda al trono, se arrastra hacia su hermana.
     Extracción de Brog y Nima.
-28. Vorthan despega a Vorth con el Orbe; Erdia en ruinas. Theron: "Sé adónde va a llevarlo."
+28. Vorthan despega a Morth con el Orbe; Erdia en ruinas. Theron: "Sé adónde va a llevarlo."
 29. Bahía médica: Stella sin pulso; Selka prisionera. "Despierta y déjame decírtelo a la
     cara." La brasa de Gix late una vez.
 30. (Sentido) Stella perdió el mundo pero ganó a su hermana — sin saberlo. La semilla es una

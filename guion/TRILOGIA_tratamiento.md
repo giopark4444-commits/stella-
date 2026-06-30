@@ -132,5 +132,5 @@ queda— porque por fin *pueden elegir*. Última imagen: **el brote verde.**
    para que no deprima.
 2. Peli 2: Stella inconsciente toda la peli → es **sin disculpas** la película de la
    General; sostenerla con el espacio onírico y la culpa.
-3. No quemar el mundo-colmena en la Peli 2: robo en la **nave**, guerra en el **mundo**.
+3. No quemar **Morth** en la Peli 2: robo en la **nave**, guerra en el **mundo** (P3).
 4. Peli 2 necesita arco completo propio (no ser puente).
