@@ -1,0 +1,772 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stella Fugaz · Guion completo</title><style>
+:root{--bg:#0b0d12;--paper:#15171d;--line:#2a2f3a;--gold:#e8c27a;--txt:#e9ebf0;--mut:#9aa3b2}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#0a0c11,#0d0f14);color:var(--txt);font:16px/1.7 Georgia,'Times New Roman',serif}
+.top{position:sticky;top:0;z-index:10;background:rgba(10,12,17,.95);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding:11px 18px;display:flex;gap:12px;align-items:center}
+.top b{color:var(--gold);letter-spacing:.5px;font-family:-apple-system,Segoe UI,Roboto,sans-serif}
+#q{margin-left:auto;background:#11141b;border:1px solid var(--line);color:var(--txt);padding:7px 12px;border-radius:20px;width:240px;outline:none;font-family:sans-serif;font-size:13px}
+.wrap{max-width:780px;margin:0 auto;padding:30px 26px 90px}
+h1{font-family:-apple-system,Segoe UI,Roboto,sans-serif;color:var(--gold);font-size:25px;letter-spacing:1px;text-transform:uppercase;text-align:center;margin:40px 0 6px;border-top:1px solid var(--line);padding-top:26px}
+h1:first-of-type{border-top:0}
+h2{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:15px;letter-spacing:.5px;color:#cdd3df;margin:34px 0 4px}
+h2.scene{color:#fff;background:#11141b;border-left:3px solid var(--gold);padding:8px 12px;border-radius:0 6px 6px 0}
+h3{font-family:-apple-system,Segoe UI,Roboto,sans-serif;color:var(--gold);font-size:15px;margin:24px 0 4px}
+.action{margin:11px 0;color:#dfe3ea}
+.cue{font-family:ui-monospace,Menlo,monospace;font-weight:700;color:var(--gold);letter-spacing:1px;margin:18px 0 0;padding-left:38%}
+.paren{color:var(--mut);font-style:italic;padding-left:30%;margin:1px 0;font-size:14px}
+.dlg{padding-left:22%;padding-right:8%;margin:1px 0;color:#fff}
+.note{background:#101620;border-left:3px solid #3a4658;border-radius:0 8px 8px 0;padding:8px 16px;margin:16px 0;color:var(--mut);font-family:sans-serif;font-size:13.5px}
+.note p{margin:4px 0}
+hr{border:0;border-top:1px solid var(--line);margin:26px 0}
+.foot{color:#5d6573;font-size:12px;text-align:center;margin-top:40px;font-family:sans-serif}
+@media(max-width:640px){.cue{padding-left:20%}.dlg{padding-left:8%}.paren{padding-left:14%}}
+</style></head><body>
+<div class="top"><b>STELLA FUGAZ · Guion completo</b><input id="q" placeholder="🔍 buscar escena, personaje, texto…" oninput="flt(this.value)"></div>
+<div class="wrap">
+<h1>STELLA FUGAZ · "EL NODO DE ERDIA"</h1>
+<h2 class="h2">Guion — Película 1 (v2) · Borrador de producción</h2>
+<div class="note">
+<p>Guion en formato cine, escrito desde el canon de `PELI1_v2_material_base.md` y `TRATAMIENTO_narrado_P1.md`.</p>
+<p>🔒 <strong>Regla de oro:</strong> el cambio de forma de Vorthan es secreto hasta el clímax. En este guion, Vorthan se</p>
+<p>escribe como un rey tirano, S1G1 como un robot, Marek como un aliado leal y Selka como la asesina de Vera.</p>
+<p>Se escribe <strong>como lo vive el público</strong>, no como sabemos que es.</p>
+</div>
+<p class="action">&gt;</p>
+<div class="note">
+<p>Convenciones: encabezados `INT./EXT. LUGAR — MOMENTO`. Acción en presente. <strong>PERSONAJE</strong> + diálogo.</p>
+<p><em>(acotación)</em>. Rótulos de tiempo en <strong>[ERDIA · AÑO X]</strong>.</p>
+</div>
+<p class="action">&gt;</p>
+<div class="note">
+<p><strong>Ajustes de canon (v2.1):</strong></p>
+<p>• <strong>Ojos:</strong> <strong>Vera</strong> y <strong>Selka</strong> tienen <strong>ojos gris-azul</strong> (consistencia visual).</p>
+<p>• <strong>Cicatriz:</strong> <strong>Selka</strong> tiene una <strong>cicatriz sobre el ojo izquierdo</strong> desde joven soldado/cadete en adelante (no de bebé ni de niña).</p>
+<p>• <strong>Pelo blanco:</strong> es el <strong>voto naieli de la familia</strong> (Stella, Vera, Naio, Selka). La **resistencia y los</p>
+<p>  pilotos NO<strong> son todos de pelo blanco. Los </strong>aliados que salvan a Stella son 3 pilotos** de aspecto variado.</p>
+<p>• <strong>Armas:</strong> solo de <strong>energía / cuerpo a cuerpo</strong> — <strong>nunca de fuego</strong> (no guns). La violencia se muestra</p>
+<p>  por luz, no por sangre.</p>
+<p>• <strong>Vestuario de Stella:</strong> ropa civil (parque) → armadura "04" con trenza (lab/huida) → armadura con **pelo</p>
+<p>  corto** tras cortarse la trenza.</p>
+</div>
+<hr>
+<h1>ACTO 1 · 起 (KI) — ERDIA</h1>
+<hr>
+<h2 class="scene">SEC. 1 — EXT. SUPERFICIE DE ERDIA — DÍA</h2>
+<p class="action">Negro.</p>
+<p class="action">Una línea de luz raja la oscuridad: el borde de un planeta amaneciendo. La cámara cae hacia él, atraviesa nubes doradas, baja sobre cordilleras vivas, sobre bosques que respiran.</p>
+<p class="action">Y encuentra una <strong>grieta</strong>. Una fractura seca en la corteza, como una cicatriz que nadie curó.</p>
+<p class="action">Bajamos por ella. La luz se va quedando atrás. Las paredes de roca pasan de doradas a grises, de grises a negras. Más hondo. Más hondo. Hasta el centro mismo del mundo —donde debería latir el corazón de un planeta entero.</p>
+<p class="action">No late nada.</p>
+<p class="action">Está <strong>hueco</strong>. Muerto. Una caverna negra y sin fondo donde antes hubo vida.</p>
+<p class="action">Silencio total. Sostener.</p>
+<p class="action"><strong>TÍTULO, sobre el negro:</strong> <strong>STELLA FUGAZ</strong></p>
+<hr>
+<h2 class="scene">SEC. 2 — EXT. PARQUE DE LA LUZAGUA, CIUDAD DORADA — DÍA</h2>
+<p class="action">CORTE BRUSCO a un cielo <strong>azul, abierto, deslumbrante</strong> —y una <strong>carcajada</strong> que rompe el silencio anterior como un vaso.</p>
+<p class="action"><strong>STELLA</strong> (14) corre por la hierba de un parque. Pelo blanco al viento, descalza, imparable. Junto a ella corre un río de <strong>luzagua</strong>: agua y luz a la vez, que la gente deja pasar entre las manos sin guardarla.</p>
+<p class="action">Stella se toca un <strong>brazalete</strong> en la muñeca. Del aire se enciende <strong>GIX</strong> —una pequeña criatura de luz, mitad chispa, mitad travesura— que escapa volando. Stella va tras él, riendo, esquivando a la gente.</p>
+<p class="action">Detrás, sin apuro, camina <strong>VERA</strong> (madre, ~40, pelo blanco recogido, ojos gris-azul).</p>
+<div class="cue">VERA</div>
+<div class="dlg">Despacio. Te vas a partir la cabeza el día antes de tu última prueba.</div>
+<div class="cue">STELLA</div>
+<div class="paren">(sin frenar, de espaldas)</div>
+<div class="dlg">Mamá, soy la mejor de mi nivel. Te voy a hacer sentir orgullosa.</div>
+<p class="action">Stella se detiene de golpe. Algo enorme le tapa el sol.</p>
+<p class="action">Es un <strong>MECHA</strong> colosal. Una máquina de guerra antigua, de cuando Erdia conquistaba mundos —ahora arrodillada para siempre, <strong>cubierta de flores y enredaderas</strong>. Un gigante dormido bajo un jardín.</p>
+<p class="action">Stella lo mira hacia arriba, pequeñita.</p>
+<div class="cue">STELLA (CONT.)</div>
+<div class="dlg">¿Por qué dejamos de hacerlo? Conquistar planetas. Éramos los más fuertes del cielo.</div>
+<p class="action">Vera la alcanza. Esto sí lo dice en serio. Se agacha a su altura.</p>
+<div class="cue">VERA</div>
+<div class="dlg">Eso no es tan romántico como suena. Lo quisimos todo… y por poco nos quedamos sin nada.</div>
+<div class="paren">(le muestra el río con la mano)</div>
+<div class="dlg">Una persona es como un río, Stella. Si lo represas para ti, se pudre.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Y envenena a todos los que están aguas abajo.</div>
+<p class="action">Stella asiente con la cabeza muy seria… y ya tiene los ojos en Gix otra vez, que la llama desde un árbol. Tiene catorce años. No lo entiende todavía.</p>
+<p class="action">Vera lo nota. Sonríe con un poco de tristeza. La deja ir.</p>
+<div class="cue">VERA (CONT.)</div>
+<div class="dlg">Voy por tu hermana. Nos vemos en casa para la cena.</div>
+<div class="cue">STELLA</div>
+<div class="paren">(ya corriendo)</div>
+<div class="dlg">¡Dile a Selka que esta vez le gané a Gix!</div>
+<p class="action">Vera la ve alejarse, riendo, blanca contra el verde.</p>
+<p class="action">La cámara se queda en Vera mirándola. Una madre observando a su hija en el último día bueno de toda su vida —y solo nosotros lo sabemos.</p>
+<hr>
+<h2 class="scene">SEC. 3 — INT. LABORATORIO DE NAIO — DÍA</h2>
+<p class="action">La puerta se abre y entra Stella todavía riendo, con Gix dándole vueltas.</p>
+<div class="cue">STELLA</div>
+<div class="dlg">Me mandaron llamar, ¿qué es tan importante que no puede esp—</div>
+<p class="action">La risa se le apaga sola.</p>
+<p class="action">Porque ve a <strong>VERA</strong> y a su padre <strong>NAIO</strong> (científico, ~45) de pie frente a una proyección de datos. Ninguno de los dos se ríe. Tienen la cara de alguien que acaba de ver algo que no se puede des-ver.</p>
+<p class="action">Detrás, en un moisés flotante, duerme la <strong>BEBÉ SELKA</strong> (1 año, ojos gris-azul).</p>
+<div class="cue">STELLA (CONT.)</div>
+<div class="paren">(la sonrisa cae)</div>
+<div class="dlg">…¿Todo está bien?</div>
+<p class="action">Nadie le contesta. Naio le tiende un <strong>traje</strong> plegado.</p>
+<div class="cue">NAIO</div>
+<div class="dlg">Póntelo. Rápido.</div>
+<p class="action">Stella obedece sin entender. Empieza a vestirse. Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.</p>
+<div class="cue">NAIO (CONT.)</div>
+<div class="dlg">Escúchame bien. El Rey no nos está protegiendo.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Se está comiendo el planeta desde adentro. Y está muriendo.</div>
+<p class="action">Detrás de él, la proyección lo confirma: el mismo descenso de la SEC. 1, hasta ese corazón negro y hueco. Erdia, por dentro, vaciándose.</p>
+<div class="cue">STELLA</div>
+<div class="dlg">…Eso no es posible. El Orbe le da vida a todo. Tú me lo enseñaste.</div>
+<div class="cue">NAIO</div>
+<div class="dlg">Por eso lo quiere.</div>
+<p class="action">Naio activa una máquina sobre la <strong>mano</strong> abierta de Stella. Ella espera que le ponga algo dentro —una joya, un objeto. No le pone nada. La <strong>prepara</strong>. Una <strong>llave de luz</strong> se graba bajo su piel, en la palma, con un dolor breve y limpio.</p>
+<p class="action">Stella aprieta los dientes.</p>
+<div class="cue">NAIO (CONT.)</div>
+<div class="dlg">El Orbe es nuestra sangre, Stella. Solo nuestra familia puede tocarlo.</div>
+<div class="paren">(le cierra la mano)</div>
+<div class="dlg">Lo que acabo de hacerte te permite integrarlo. Meterlo dentro de ti. Y una vez dentro…</div>
+<div class="paren">(la mira a los ojos)</div>
+<div class="dlg">…solamente tú podrías usarlo. Nadie más.</div>
+<p class="action">Stella no alcanza a procesarlo. Detrás, la <strong>bebé Selka se despierta y empieza a llorar.</strong></p>
+<p class="action">Y Stella, por puro instinto de hermana mayor, deja todo y va hacia ella.</p>
+<p class="action">Se inclina sobre el moisés. <strong>Ahueca la mano.</strong> Una <strong>chispa de Gix</strong> baja y baila en su palma, como una luciérnaga. Le <strong>junta la frente</strong> a la bebé.</p>
+<p class="action">Y las dos <strong>sonríen.</strong></p>
+<p class="action">Selka se calma al instante. Un momento minúsculo, tibio, de hermanas. <em>(Guardarlo. Vuelve.)</em></p>
+<p class="action">Pasos. Muchos. Acercándose por el corredor.</p>
+<p class="action">Naio y Vera se cruzan una mirada. Se acabó el tiempo.</p>
+<div class="cue">NAIO (CONT.)</div>
+<div class="paren">(rápido, firme)</div>
+<div class="dlg">Llegaron. Tomen a Selka. Vayan por el Orbe.</div>
+<div class="paren">(a Stella, agarrándole la cara con las dos manos)</div>
+<div class="dlg">Cuando lo tengas, ponlo en tu mano. Y pase lo que pase… nunca, nunca dejes que él lo tenga. ¿Me oyes?</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Yo los retengo.</div>
+<div class="cue">STELLA</div>
+<div class="dlg">Papá, no—</div>
+<div class="cue">NAIO</div>
+<div class="dlg">Te quiero. Las tres. Ya.</div>
+<p class="action">Un abrazo de los tres, demasiado corto. Vera levanta a la bebé.</p>
+<p class="action">La puerta principal se abre.</p>
+<p class="action">Entra <strong>VORTHAN</strong> —el Rey. Alto, sereno, con una <strong>sonrisa de viejo amigo de la familia</strong>. Soldados-robot detrás de él, llenando el umbral como una sombra.</p>
+<div class="cue">VORTHAN</div>
+<div class="paren">(casi con cariño)</div>
+<div class="dlg">Naio. Viejo amigo.</div>
+<div class="paren">(mira la escena, el traje, el moisés vacío)</div>
+<div class="dlg">Sabías que este día llegaría.</div>
+<p class="action">Vera y Stella ya se deslizan hacia la salida trasera, despacio, sin correr todavía. Pero los ojos del Rey lo ven todo.</p>
+<div class="cue">VORTHAN (CONT.)</div>
+<div class="paren">(sin levantar la voz)</div>
+<div class="dlg">No las dejen escapar.</div>
+<p class="action">Naio se interpone. Activa un <strong>campo de fuerza</strong> entre el Rey y su familia —les compra tres segundos.</p>
+<p class="action">El Rey lo mira casi con pena. Y lo derriba de un solo golpe, como quien aparta una rama.</p>
+<div class="cue">STELLA</div>
+<div class="paren">(grito ahogado)</div>
+<div class="dlg">¡PAPÁ!</div>
+<p class="action">Vera la arranca de ahí. Corren.</p>
+<hr>
+<h2 class="scene">SEC. 4 — INT. PASILLOS DEL PALACIO — CONTINUO</h2>
+<p class="action">Vera y Stella corren a toda velocidad. Vera lleva a la bebé Selka apretada contra el pecho. Detrás, lejos pero acercándose, el zumbido de los <strong>robots imperiales.</strong></p>
+<p class="action">Vera habla entrecortado, sin dejar de correr. Y lo que dice es brutal de tan claro.</p>
+<div class="cue">VERA</div>
+<div class="dlg">Recuérdalo, Stella: nada es más importante que ese Orbe. Nada.</div>
+<div class="paren">(la mira un segundo)</div>
+<div class="dlg">Ni yo. Ni tu hermana. Sin él, el planeta entero muere. Todos. ¿Entiendes?</div>
+<div class="cue">STELLA</div>
+<div class="paren">(corriendo, los ojos llenos)</div>
+<div class="dlg">Entiendo. Tú solo cuida de Selka.</div>
+<p class="action">Vera la mira de reojo. Y, en plena huida, le <strong>sonríe</strong>. Una sonrisa de madre, imposible en ese momento, y por eso más fuerte.</p>
+<div class="cue">VERA</div>
+<div class="dlg">Pase lo que pase, llega a la nave. La dejé afuera, en la salida que da al parque.</div>
+<p class="action">Una pared estalla. Entran los primeros <strong>robots.</strong></p>
+<p class="action">Vera y Stella pelean a la vez que avanzan —Vera con un brazo cubriendo a la bebé, Stella moviéndose con la agilidad de quien entrenó toda su vida para una prueba que no era esta. Se abren paso.</p>
+<p class="action">Al fondo: las puertas de la <strong>SALA DEL ORBE.</strong></p>
+<hr>
+<h2 class="scene">SEC. 5 — INT. SALA DEL ORBE — CONTINUO</h2>
+<p class="action">Una cámara inmensa. En el centro, suspendido, el <strong>ORBE</strong> —una esfera de luzagua pura, latiendo como un corazón segundo del mundo.</p>
+<p class="action">Vera y Stella entran por un lado. Por el otro, al mismo tiempo, entra <strong>VORTHAN.</strong></p>
+<p class="action">Se miran a través de la sala. Una carrera de un solo latido.</p>
+<div class="cue">VERA</div>
+<div class="dlg">¡Ve por el Orbe! ¡AHORA!</div>
+<p class="action">Stella arranca hacia la esfera. Pero los robots se cierran sobre Vera, que pelea protegiendo a Selka, sin poder seguirla.</p>
+<p class="action">Y entonces entra <strong>otro.</strong></p>
+<p class="action"><strong>S1G1.</strong> Un robot <strong>distinto</strong> —oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un asesino.</p>
+<p class="action">Vera lo ve. Y entiende que esto ya no es una pelea. Es una ejecución.</p>
+<p class="action">Acomoda a la bebé en el hueco de un panel, lejos, a salvo. Y se planta frente a S1G1.</p>
+<p class="action">Pelea de verdad. Da todo lo que tiene. No alcanza.</p>
+<p class="action">S1G1 la <strong>neutraliza.</strong> Vera cae —y aun cayendo, su último movimiento es <strong>cubrir a Selka con el cuerpo.</strong></p>
+<div class="cue">VERA (CONT.)</div>
+<div class="paren">(en el suelo, gritando)</div>
+<div class="dlg">¡STELLA, CORRE! ¡NO MIRES ATRÁS!</div>
+<p class="action">Stella está a tres pasos del Orbe. La mano extendida.</p>
+<p class="action">Y <strong>no obedece.</strong></p>
+<p class="action">Se da media vuelta y corre hacia su madre con toda su fuerza. Rompe la única regla. Por amor.</p>
+<div class="cue">VERA (CONT.)</div>
+<div class="dlg">¡NO! ¡NO TE ACERQUES!</div>
+<p class="action">Demasiado tarde. <strong>VORTHAN</strong> la intercepta. La atrapa <strong>por la trenza</strong> y la levanta del piso, dejándola colgando, inmóvil, pataleando en el aire.</p>
+<p class="action">Stella llora de rabia y de impotencia. El Rey, sosteniéndola del pelo, <strong>ríe</strong> por lo bajo.</p>
+<div class="cue">VORTHAN</div>
+<div class="paren">(suave, casi paternal)</div>
+<div class="dlg">Tan parecida a tu madre. Corriendo hacia lo que ama.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Por eso siempre pierden.</div>
+<p class="action">En el suelo, Vera junta lo último que le queda. Levanta las dos manos hacia su hija—</p>
+<p class="action">—y forma un <strong>escudo de luz</strong> alrededor de Stella.</p>
+<p class="action">Justo en el instante en que S1G1, detrás de ella, <strong>le perfora el corazón.</strong></p>
+<div class="cue">STELLA</div>
+<div class="paren">(un grito que se rompe)</div>
+<div class="dlg">¡MAMÁ!</div>
+<p class="action">Vera la mira. Sostiene el escudo con la vida que se le escapa. Y mueve los labios una última vez:</p>
+<div class="cue">VERA</div>
+<div class="paren">(sin casi voz)</div>
+<div class="dlg">Huye.</div>
+<p class="action">Stella, colgada del pelo, atrapada, ve morir a su madre a un metro de distancia.</p>
+<p class="action">Y hace lo único que puede hacer. Saca de su traje un <strong>cuchillo láser.</strong> Se lo lleva a la nuca. Y <strong>se corta la trenza</strong> de un tajo.</p>
+<p class="action">Cae libre al piso.</p>
+<p class="action">El escudo de Vera se apaga con ella.</p>
+<hr>
+<h2 class="scene">SEC. 6 — INT. SALA DEL ORBE — CONTINUO</h2>
+<p class="action">Stella rueda, se levanta, y ahora sí corre hacia el <strong>Orbe</strong> —rota por dentro, los ojos inundados, pero corriendo. Esquiva a un robot. A otro. Salta.</p>
+<p class="action">Y <strong>toma el Orbe.</strong></p>
+<p class="action">En el segundo exacto en que sus dedos lo tocan, la <strong>llave de su palma</strong> se enciende. La esfera se integra, se hace pequeña, late en su mano. La <strong>muñequera marca: "MAX".</strong></p>
+<p class="action">Los propulsores del traje rugen. Stella despega hacia un <strong>ducto estrecho</strong> en lo alto del techo —la única salida.</p>
+<p class="action">Antes de entrar, una fracción de segundo, <strong>mira hacia abajo.</strong></p>
+<p class="action">Ve a su madre, tirada, quieta. Ve a la <strong>bebé Selka</strong> llorando junto al cuerpo. Las ve por <strong>última vez.</strong></p>
+<p class="action">Aprieta los dientes. Entra al ducto.</p>
+<p class="action"><strong>S1G1</strong> dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas—</p>
+<p class="action">—y se <strong>atasca</strong> en el orificio. Forcejea. Chispas. <strong>EXPLOTA.</strong></p>
+<p class="action">La onda escupe a Stella por el otro lado, al cielo abierto.</p>
+<p class="action">ABAJO, en la sala: Vera muerta en el piso. La bebé llorando a su lado. <strong>VORTHAN</strong> se acerca, sin prisa, y <strong>levanta a Selka</strong> en sus brazos. La bebé se calla, mirándolo.</p>
+<p class="action">Dos robots se inclinan a recoger el cuerpo de Vera. El Rey los detiene con un gesto.</p>
+<div class="cue">VORTHAN</div>
+<div class="paren">(frío, sin mirarla)</div>
+<div class="dlg">¿Qué hacen? Ya está muerta.</div>
+<div class="paren">(se da la vuelta con la bebé)</div>
+<div class="dlg">Salgan a buscar a Stella. Necesitamos ese Orbe.</div>
+<p class="action">Los robots sueltan el cuerpo. Salen.</p>
+<p class="action">El Rey se va con la bebé en brazos, dejando a Vera tirada en el suelo de su propia casa.</p>
+<hr>
+<h2 class="scene">SEC. 7 — EXT. CIELO DE LA CIUDAD DORADA — CONTINUO</h2>
+<p class="action">Stella sale disparada del palacio y cae sobre la <strong>nave</strong> que Vera escondió. Se mete dentro. Manos temblando. Arranca.</p>
+<p class="action">Apenas despega, en el horizonte dorado, aparece una <strong>FLOTA IMPERIAL.</strong> Decenas de naves.</p>
+<p class="action">Empieza la persecución. Y aquí descubrimos algo: Stella <strong>vuela como nadie.</strong> Se mete entre las torres, raspa los puentes, hace chocar a sus perseguidores contra los edificios. Es brillante. Pero son demasiados.</p>
+<p class="action">Una nave imperial la encuadra. El disparo va a salir—</p>
+<p class="action">—y <strong>estalla</strong>, reventada desde un costado.</p>
+<p class="action">Aparecen <strong>OTRAS NAVES.</strong> Aliados. Gente que sabía. Se interponen, abren fuego, le hacen un pasillo en el cielo.</p>
+<div class="cue">VOZ (RADIO)</div>
+<div class="paren">(una mujer, con calma de quien ya decidió morir)</div>
+<div class="dlg">Stella. Tu madre nos contó lo que pasaba.</div>
+<div class="paren">(otra nave se sacrifica de fondo)</div>
+<div class="dlg">Estamos aquí para protegerte. No dejes que nuestro sacrificio sea en vano.</div>
+<div class="cue">STELLA</div>
+<div class="paren">(al borde del llanto)</div>
+<div class="dlg">¿Quiénes son ustedes? ¡No los conozco! ¡No—!</div>
+<div class="cue">VOZ (RADIO)</div>
+<div class="dlg">No dejes que nadie consiga ese Orbe. Nadie.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Ve lejos. Hazte fuerte. Y vuelve algún día a salvarnos.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Te vamos a estar esperando.</div>
+<p class="action">Una a una, las naves aliadas se interponen y revientan, abriéndole camino al espacio abierto. Stella las ve morir por ella en el retrovisor.</p>
+<p class="action">Y sale. Al vacío. Sola.</p>
+<hr>
+<h2 class="scene">SEC. 8 — INT./EXT. NAVE DE STELLA — ESPACIO PROFUNDO — CONTINUO</h2>
+<p class="action">El silencio del espacio. Erdia, dorada y enferma, se encoge detrás.</p>
+<p class="action">Una alarma suave. Luego otra. <strong>OXÍGENO: CRÍTICO.</strong></p>
+<p class="action">Stella respira cada vez más despacio. Llora sin ruido. Tiene catorce años, acaba de ver morir a su madre y a un montón de desconocidos, y se está quedando sin aire en mitad de la nada.</p>
+<p class="action">Mira su mano. La <strong>llave de luz.</strong> El <strong>Orbe</strong> latiendo dentro.</p>
+<p class="action">Y en un acto de pura desesperación —sin saber lo que hace— pone la <strong>palma sobre el tablero.</strong></p>
+<p class="action">La energía del Orbe empieza a fluir hacia la nave. Los paneles se encienden uno tras otro. La carga sube. Sube. Todo el sistema empieza a temblar, a sobrecargarse, a colapsar—</p>
+<p class="action">—y la nave da un <strong>HÍPER SALTO.</strong></p>
+<p class="action">Un estallido de luz blanca se traga la pantalla. La nave es arrancada de su universo.</p>
+<p class="action">Blanco total.</p>
+<hr>
+<h2 class="scene">SEC. 9 — INT. PALACIO, BALCÓN REAL — ERDIA — [AÑO 0] — DÍA</h2>
+<p class="action">Bajo un cielo todavía azul, <strong>VORTHAN</strong> habla ante una multitud inmensa. Voz de luto. Perfecta.</p>
+<div class="cue">VORTHAN</div>
+<div class="dlg">Hoy nos han robado.</div>
+<div class="paren">(deja caer la palabra)</div>
+<div class="dlg">El Orbe —el corazón de Erdia, la fuente de todo lo que somos— ha sido arrancado de nuestro mundo.</div>
+<p class="action">Murmullo de horror en la plaza.</p>
+<div class="cue">VORTHAN (CONT.)</div>
+<div class="dlg">Sin él, la luz se irá. El agua se irá. Y nuestro planeta… empezará a morir.</div>
+<p class="action">Detrás de él, exhibidos en jaulas, los <strong>ALIADOS</strong> que salvaron a Stella —presos, vencidos.</p>
+<div class="cue">VORTHAN (CONT.)</div>
+<div class="dlg">¿Y quién nos ha condenado a esto? Una de los nuestros.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Una niña a la que le dimos todo. Que prefirió quedarse con la luz de todos antes que dejarla correr.</div>
+<div class="paren">(la palabra final, como una sentencia)</div>
+<div class="dlg">Stella. Ladrona. Traidora.</div>
+<p class="action">La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio.</p>
+<p class="action">VORTHAN sostiene a la <strong>bebé Selka</strong> en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.</p>
+<p class="action">Y muy despacio, casi sin que se note, el Rey le <strong>acaricia la cabeza</strong> —como un padre.</p>
+<p class="action">CORTE A NEGRO.</p>
+<div class="cue">FIN DEL ACTO 1.</div>
+<hr>
+<h1>ACTO 2 · 承 (SHŌ) — EL EXILIO / ERDIA SE PUDRE</h1>
+<div class="note">
+<p><em>(Montaje intercalado: la vida de Stella en el otro universo ↔ Erdia muriéndose. Rótulos de año en cada salto. Por la dilatación 1:4, Stella envejece poco mientras su mundo se derrumba mucho.)</em></p>
+</div>
+<hr>
+<h2 class="scene">SEC. 10 — INT. NAVE NODRIZA DE THERON — BAHÍA DE CARGA — ¿?</h2>
+<p class="action">Goteo metálico. Luz fría.</p>
+<p class="action">Stella despierta de golpe en el suelo de una bahía enorme y oscura. La nave de su madre, lo que queda de ella, está enganchada por brazos mecánicos como un animal cazado.</p>
+<p class="action">Stella se incorpora. Lo primero que hace —antes que nada— es mirarse la <strong>mano.</strong> La llave de luz sigue ahí. El Orbe sigue dentro. Respira.</p>
+<p class="action">Una sombra enorme se mueve en la penumbra. <strong>THERON</strong> —el Cazador. Alto, de otra especie, con ojos que no parpadean como los nuestros. Lleva siglos en esa cara.</p>
+<div class="cue">STELLA</div>
+<div class="paren">(en guardia, voz rota)</div>
+<div class="dlg">¿Dónde estoy? ¿Quién eres? ¿Me… me salvaste?</div>
+<div class="cue">THERON</div>
+<div class="paren">(sin acercarse)</div>
+<div class="dlg">No te salvé. Te recogí.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Hay una diferencia.</div>
+<p class="action">Se acerca, despacio. Mira la mano de Stella. El brillo del Orbe bajo la piel.</p>
+<div class="cue">THERON (CONT.)</div>
+<div class="dlg">Eso que llevas dentro brilla. Brilla como nada que haya visto en mucho, mucho tiempo.</div>
+<div class="paren">(la mira a los ojos)</div>
+<div class="dlg">Y lo que brilla así… se puede seguir.</div>
+<p class="action">Stella aprieta el puño, escondiendo la mano. No entiende todavía que para él ella no es una niña perdida.</p>
+<p class="action">Es un rastro.</p>
+<hr>
+<h2 class="scene">SEC. 11 — INT. NAVE NODRIZA — PASILLOS Y TALLER — MÁS TARDE</h2>
+<p class="action">La tripulación de Theron mira a Stella como se mira a algo que no debería estar a bordo. La empujan. La ignoran. Le tiran un plato de comida al piso.</p>
+<p class="action"><strong>VOSK</strong> (matón, grande, cicatrices) le bloquea el paso. La mide.</p>
+<div class="cue">VOSK</div>
+<div class="dlg">La mascota del jefe. El cebo que respira.</div>
+<div class="paren">(la empuja con un dedo)</div>
+<div class="dlg">¿Sabes qué le pasa al cebo cuando el pez ya picó?</div>
+<p class="action">Stella le aparta la mano de un golpe. Vosk sonríe —era lo que quería. Le tira el primer puñetazo.</p>
+<p class="action">Pelean. Stella es rápida, entrenada, pero pequeña; Vosk es un muro. La tiene contra la pared cuando—</p>
+<p class="action">Una <strong>mano de piedra</strong> del tamaño de un yunque cae sobre el hombro de Vosk y lo aparta sin esfuerzo.</p>
+<p class="action"><strong>BROG.</strong> Un gigante de roca, lento, callado, el último de su especie. No dice nada. Solo se queda ahí, entre Vosk y la niña.</p>
+<p class="action">Vosk escupe y se va.</p>
+<p class="action">Desde un banco de trabajo lleno de piezas, sin levantar la vista, habla <strong>NIMA</strong> —mecánica de <strong>cuatro brazos</strong>, las cuatro ocupadas a la vez.</p>
+<div class="cue">NIMA</div>
+<div class="dlg">No le hagas caso a Vosk. Ladra para no pensar.</div>
+<div class="paren">(ahora sí la mira)</div>
+<div class="dlg">Hay dos formas de romperse, niña. La que llora… y la que arregla cosas a las tres de la mañana.</div>
+<div class="paren">(vuelve a su trabajo)</div>
+<div class="dlg">Adivina cuál soy yo.</div>
+<p class="action">Stella se sienta en el piso, agotada, sosteniéndose la mano herida. Brog se sienta a su lado, enorme, en silencio. No la consuela. Solo se queda.</p>
+<p class="action">Entra <strong>THERON.</strong></p>
+<div class="cue">STELLA</div>
+<div class="dlg">Quiero volver a mi planeta. Mi familia está allá. Mi padre, mi hermana—</div>
+<div class="cue">THERON</div>
+<div class="dlg">Tu planeta ya no es tu problema más urgente.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Hay algo que debes entender, y no te va a gustar. Aquí, el tiempo no corre igual que en tu mundo.</div>
+<div class="paren">(la mira)</div>
+<div class="dlg">Un año tuyo… son cuatro allá.</div>
+<p class="action">Stella levanta la cara, lentamente entendiendo el tamaño de eso.</p>
+<div class="cue">STELLA</div>
+<div class="paren">(un hilo de voz)</div>
+<div class="dlg">…Cuatro.</div>
+<div class="cue">THERON</div>
+<div class="dlg">Cada día que pierdas aquí, pierdes cuatro allá. Así que no los pierdas.</div>
+<p class="action">Se va. Stella se queda mirando su propia mano, y el peso de un reloj que corre cuatro veces más rápido del otro lado del cielo.</p>
+<hr>
+<h2 class="scene">SEC. 12 — EXT. ERDIA — REFUGIO DE LA RESISTENCIA — [ERDIA · AÑO 8] — NOCHE</h2>
+<p class="action">RÓTULO: <strong>ERDIA · AÑO 8.</strong></p>
+<p class="action">Erdia ya no es dorada. Niebla. Andamios. Los ríos de luzagua corren más finos, más opacos. A lo lejos, chimeneas de minas escupen humo donde antes había jardines.</p>
+<p class="action">En un refugio escondido, un grupo de naieli demacrados se reúne alrededor de un líder de voz cálida y firme: <strong>MAREK.</strong> El tipo de hombre al que la gente sigue porque les devuelve la esperanza.</p>
+<div class="cue">MAREK</div>
+<div class="dlg">El Rey dice que estamos así por culpa de Stella. Por una ladrona.</div>
+<div class="paren">(mira a su gente)</div>
+<div class="dlg">Pero yo les pregunto: ¿una niña de catorce años vació un planeta entero? ¿O alguien necesitaba que odiáramos a alguien para no mirarlo a él?</div>
+<p class="action">Murmullo. Asienten. Marek les ha dado un enemigo distinto.</p>
+<p class="action">A su lado, en silencio, hay una <strong>FIGURA ENCAPUCHADA.</strong> No le vemos la cara. Solo las manos —manos de mujer, fuertes— y un mechón de <strong>pelo blanco</strong> que se escapa de la capucha.</p>
+<p class="action">La figura observa a Marek y a la gente. Y baja la cabeza.</p>
+<p class="action">No sabemos quién es. Todavía.</p>
+<hr>
+<h2 class="scene">SEC. 13 — EXT. PLANETA CHATARRA — OPERACIÓN DE LA FLOTA — [STELLA: ~AÑO 2]</h2>
+<p class="action">Una misión de la flota de Theron. Stella, ya un poco mayor, más dura, se mueve entre escombros con un grupo. Brog cubre. Vosk va al frente.</p>
+<p class="action">Algo sale mal. Cazarrecompensas locales los emboscan. En el caos, Stella se esconde en una grieta, fuera de la vista de los enemigos. A salvo.</p>
+<p class="action">Y ve a <strong>VOSK</strong> mirándola desde lejos. Sus ojos se cruzan.</p>
+<p class="action">Vosk toma una <strong>piedra.</strong> Y la tira contra el metal, justo al lado de ella —un golpe seco que delata su posición.</p>
+<div class="cue">VOSK</div>
+<div class="paren">(gritando a los cazadores, señalando)</div>
+<div class="dlg">¡AHÍ! ¡LA DE LA MANO QUE BRILLA! ¡ESA VALE UNA FORTUNA!</div>
+<p class="action">Los cazarrecompensas caen sobre Stella. Ella pelea, pero son muchos. La reducen. La marcan con un collar de contención que le apaga el traje.</p>
+<p class="action">Lo último que ve antes de que la suban a una nave esclavista es a Vosk —que sonríe, contando ya su recompensa.</p>
+<p class="action">Lo que Vosk no calcula es que los cazadores no hacen distinciones. Una red cae también sobre él.</p>
+<div class="cue">VOSK (CONT.)</div>
+<div class="paren">(forcejeando)</div>
+<div class="dlg">¡No, no, esperen, yo se las entregué! ¡YO—!</div>
+<p class="action">Se lo llevan a él también.</p>
+<hr>
+<h2 class="scene">SEC. 14 — INT. ESTACIÓN DE APUESTAS — LA FOSA — DÍA</h2>
+<p class="action">Una estación-mercado en el confín de la galaxia. Subastas de esclavos. Y abajo, el corazón del negocio: <strong>LA FOSA</strong> —un pozo de combate rodeado de gradas donde se apuesta a muerte.</p>
+<p class="action">Un presentador anuncia a la "ladrona del Orbe, la criminal más buscada del sector." Las gradas rugen. Stella, en el centro, todavía con el collar puesto, busca una salida que no existe.</p>
+<p class="action">Por una reja se abre el lado opuesto del pozo. Empujan a su oponente.</p>
+<p class="action">Es un <strong>humano.</strong> <strong>NOAH</strong> —joven, magullado, una vieja espada y un arma de luz, ojos que no se rinden.</p>
+<p class="action">Stella se queda helada. Porque ese chico <strong>se parece a ella.</strong> A su gente. <em>(Lo entenderá después: su planeta desterraba a los condenados a un mundo lejano para morir. No murieron. Se volvieron la humanidad. Son los hijos de sus exiliados.)</em></p>
+<p class="action">La multitud exige sangre. Noah levanta la espada, en guardia. Stella no.</p>
+<div class="cue">STELLA</div>
+<div class="dlg">No voy a matarte para que ellos aplaudan.</div>
+<div class="cue">NOAH</div>
+<div class="paren">(midiéndola, sin bajar el arma)</div>
+<div class="dlg">…¿Es una trampa?</div>
+<div class="cue">STELLA</div>
+<div class="dlg">Es una oferta.</div>
+<div class="cue">NOAH</div>
+<div class="paren">(beat — decide)</div>
+<div class="dlg">Entonces vas a tener que ayudarme a salir de aquí.</div>
+<p class="action">Y en vez de pelear entre ellos, los dos se giran hacia los guardias. Stella arranca el collar de un tirón —el Orbe vuelve a encenderse en su mano— y la fosa se convierte en una fuga.</p>
+<hr>
+<h2 class="scene">SEC. 15 — INT. ESTACIÓN DE APUESTAS — LA FOSA / PASARELAS — CONTINUO</h2>
+<p class="action">Caos. Stella y Noah pelean espalda con espalda. Brog y Nima entran rompiendo la pared exterior —Theron mandó por ella.</p>
+<p class="action">En medio del tumulto, en una plataforma de ejecución sobre la fosa, los dueños del lugar están por <strong>ajusticiar a un prisionero</strong> que ya no les sirve.</p>
+<p class="action">Es <strong>VOSK.</strong> De rodillas, un arma en la nuca.</p>
+<p class="action">Stella lo ve. Se detiene. Noah le grita que vámonos.</p>
+<p class="action">Y Stella —a la que Vosk vendió, traicionó, entregó— cambia de dirección y va por él.</p>
+<p class="action">Rompe la plataforma, desvía el disparo, lo carga. Vosk la mira sin entender, con el cuello todavía marcado por el arma.</p>
+<div class="cue">VOSK</div>
+<div class="paren">(aturdido)</div>
+<div class="dlg">…Yo te entregué. Te vendí. ¿Por qué—?</div>
+<div class="cue">STELLA</div>
+<div class="dlg">Porque yo no soy tú.</div>
+<p class="action">Lo suelta de un empujón hacia la salida. Y por primera vez, el matón la mira distinto. Algo en él se rompe y se recompone.</p>
+<p class="action">Escapan todos juntos —Stella, Noah, Brog, Nima, Vosk— mientras la estación arde detrás.</p>
+<p class="action">Más tarde, en la nave, <strong>THERON</strong> observa a Stella desde lejos. No dice nada. Pero algo cambió: la mocosa que recogió acaba de salvar a quien la traicionó. Eso, para un cazador de veinte mil años, vale más que el brillo de su mano.</p>
+<p class="action">Noah, vendándose una herida, no le quita los ojos de encima a Stella. Ella ni lo nota. Mira el cielo, hacia donde queda Erdia.</p>
+<hr>
+<h2 class="scene">SEC. 16 — EXT. PLANETA DE LOS COMETAS / INT. TALLER — MONTAJE — [STELLA: ~AÑO 3]</h2>
+<p class="action">Montaje. La familia rara que la fue curando.</p>
+<p class="action"><strong>BROG</strong> y Stella, sentados frente a un cielo cruzado de cometas. El gigante le enseña su <strong>idioma muerto</strong> —palabras guturales, antiguas, que ya no le quedan a nadie más en el universo. Stella las repite. Brog asiente, despacio. Es lo más parecido a una sonrisa que tiene una montaña.</p>
+<p class="action"><strong>NIMA</strong>, en el taller, le construye un <strong>traje nuevo</strong> —ligero, hecho a su medida, con un <strong>monitor en la muñeca</strong> idéntico al que marcó "MAX" aquel día. Cuatro manos trabajando a la vez.</p>
+<div class="cue">NIMA</div>
+<div class="paren">(ajustando)</div>
+<div class="dlg">Tu traje viejo era de niña. Este es de quien va a volver a entrar a ese palacio.</div>
+<p class="action">Y Stella entrenando el <strong>Orbe.</strong> Al principio inestable —descargas que la tiran al piso, que revientan paneles. Después, de a poco, <strong>canalizándolo:</strong> la luz le sale de la palma, controlada, como un río que por fin aprende a dejar correr.</p>
+<p class="action">Por primera vez desde la huida, Stella no parece una sobreviviente. Parece un arma que eligió su causa.</p>
+<hr>
+<h2 class="scene">SEC. 17 — INT. NAVE NODRIZA — PUENTE — NOCHE</h2>
+<p class="action">Theron y Stella, solos. Él le pide algo con un gesto.</p>
+<div class="cue">THERON</div>
+<div class="dlg">Muéstrame la mano. Y el Orbe.</div>
+<p class="action">Stella duda. Luego abre la palma. El Orbe late bajo la piel, expuesto.</p>
+<p class="action">Theron se inclina. Lo estudia con una atención de cazador —y por un instante, la mano de él se acerca como quien va a <strong>arrancarlo.</strong> Stella contiene el aliento.</p>
+<p class="action">Pero Theron se detiene. Lee algo en cómo el Orbe está enredado en la sangre de ella, en cada vena. Retira la mano.</p>
+<div class="cue">THERON</div>
+<div class="paren">(para sí, casi)</div>
+<div class="dlg">No. Sacarlo a la fuerza te mataría a ti… y quizá a quien lo intente.</div>
+<div class="paren">(la mira)</div>
+<div class="dlg">Sigues siendo más útil respirando.</div>
+<div class="cue">STELLA</div>
+<div class="paren">(guardando la mano)</div>
+<div class="dlg">Qué consuelo.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Theron. En mi mundo dicen cosas del Rey. Que es inmortal. Que nunca envejeció.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Que llegó hace cientos de años, de ninguna parte.</div>
+<p class="action">Theron se queda muy quieto. Algo se le enciende detrás de los ojos —eso suena a <strong>su presa.</strong> Pero no dice nada. Todavía es solo un rumor.</p>
+<div class="cue">THERON</div>
+<div class="paren">(cerrando el tema)</div>
+<div class="dlg">Los reyes siempre dicen que son eternos. Duerme.</div>
+<p class="action">Stella se va. Theron se queda mirando el vacío, masticando una sospecha de veinte mil años.</p>
+<hr>
+<h2 class="scene">SEC. 18 — INT. NAVE NODRIZA — CAMAROTE DE STELLA — NOCHE</h2>
+<p class="action">Stella no duerme. Theron entra y deja algo sobre la mesa: un <strong>proyector de imagen.</strong></p>
+<div class="cue">THERON</div>
+<div class="dlg">No me interesa tu planeta. Pero un buen cazador siempre mira antes de descartar.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Mira tú también.</div>
+<p class="action">Lo enciende. Y aparecen, vivos, los suyos:</p>
+<p class="action"><strong>NAIO</strong> —viejo, encadenado, esclavo en una mina de niebla.</p>
+<p class="action"><strong>SELKA</strong> —ya no una bebé, una <strong>joven soldado</strong> entrenando con frialdad quirúrgica, perfecta, vacía, los mismos ojos gris-azul de su madre, y una cicatriz sobre el ojo izquierdo.</p>
+<p class="action">Y una <strong>figura encapuchada</strong> liderando a la resistencia junto a Marek. La capucha cae un segundo. Es <strong>VERA.</strong></p>
+<p class="action">Viva.</p>
+<p class="action">Stella se lleva la mano a la boca. No respira.</p>
+<div class="cue">STELLA</div>
+<div class="paren">(un susurro destrozado)</div>
+<div class="dlg">…Está viva. Mamá está viva.</div>
+<p class="action">Theron la observa desde la puerta. Por primera vez no la mira como a un cebo. La mira como a alguien que va a hacer algo imposible.</p>
+<p class="action">Se va. Stella se queda toda la noche frente a la imagen de su madre, mirando el infinito.</p>
+<hr>
+<h2 class="scene">SEC. 19 — INT. ERDIA — MINAS DE NIEBLA — [ERDIA · AÑO 14] — DÍA</h2>
+<p class="action">RÓTULO: <strong>ERDIA · AÑO 14.</strong></p>
+<p class="action">La <strong>figura encapuchada</strong> —<strong>VERA</strong>— se desliza entre los esclavos de una mina. Busca. Encuentra.</p>
+<p class="action"><strong>NAIO.</strong> Anciano, roto, irreconocible. Vera le baja la capucha lo justo para que él la vea.</p>
+<div class="cue">NAIO</div>
+<div class="paren">(sin aire)</div>
+<div class="dlg">…¿Vera? No. No, tú moriste. Yo te vi—</div>
+<div class="cue">VERA</div>
+<div class="dlg">Está viva, Naio. Selka está viva.</div>
+<div class="paren">(la voz se le quiebra)</div>
+<div class="dlg">Pero ya no es… ya no es ella. Le metieron otra cosa adentro.</div>
+<div class="cue">NAIO</div>
+<div class="dlg">No vayas. Si está con él, es una trampa. Te lo ruego.</div>
+<div class="cue">VERA</div>
+<div class="paren">(le toma la cara, decidida)</div>
+<div class="dlg">Vuelvo por ti. Te lo juro. Pero primero voy por mi hija.</div>
+<p class="action">Lo abraza. Y se va hacia el palacio. Naio estira la mano hacia ella en la niebla, sin alcanzarla.</p>
+<hr>
+<h2 class="scene">SEC. 20 — INT. PALACIO IMPERIAL — APOSENTOS DE LA GENERAL — [ERDIA · AÑO 14] — NOCHE</h2>
+<p class="action">Vera entra, encapuchada, con sus leales <strong>KORIN</strong> y <strong>LESSA</strong> cubriendo afuera. <strong>MAREK</strong> la acompaña hasta la puerta.</p>
+<div class="cue">MAREK</div>
+<div class="dlg">Yo vigilo aquí. Si algo sale mal, corre. No mires atrás.</div>
+<div class="paren">(le aprieta el hombro)</div>
+<div class="dlg">Tráela de vuelta.</div>
+<p class="action">Vera entra sola.</p>
+<p class="action">Adentro, de espaldas, está <strong>SELKA</strong> —la General. Joven, blanca, impecable, fría, de ojos gris-azul, con una cicatriz sobre el ojo izquierdo.</p>
+<div class="cue">SELKA</div>
+<div class="paren">(sin voltear)</div>
+<div class="dlg">Sé lo que eres. Una rata de la resistencia. ¿Vienes a matarme mientras duermo?</div>
+<div class="cue">VERA</div>
+<div class="paren">(se baja la capucha)</div>
+<div class="dlg">Vengo por ti.</div>
+<p class="action">Selka se gira. Ve la cara de Vera. Y algo, muy adentro, tiembla un microsegundo —antes de que el adiestramiento lo aplaste.</p>
+<div class="cue">SELKA</div>
+<div class="dlg">Traidora.</div>
+<p class="action">Se lanza al ataque. Pelean —pero Vera <strong>no contraataca.</strong> Esquiva, bloquea, retrocede. No es capaz de hacerle daño a su hija.</p>
+<div class="cue">VERA</div>
+<div class="paren">(entre golpes)</div>
+<div class="dlg">No voy a lastimarte. No puedo. Mírame. <strong>Mírame.</strong></div>
+<p class="action">Y Selka, ante una enemiga que se niega a herirla, se desarma. El brazo le tiembla. Baja el arma. Algo en ella se rinde, sin entender por qué.</p>
+<p class="action">Vera la envuelve en un abrazo. La aprieta como aprietan las madres.</p>
+<div class="cue">VERA (CONT.)</div>
+<div class="paren">(al oído, llorando)</div>
+<div class="dlg">Vámonos a casa. Tú, yo y tu padre. Empecemos de nuevo. Olvidemos todo esto.</div>
+<p class="action">Selka, en el abrazo, cierra los ojos.</p>
+<p class="action">Y le <strong>clava un arma</strong> en el costado.</p>
+<p class="action">Vera ahoga un grito. Su mano sube hasta la cara de Selka —esa cara— buscándola, sin entender.</p>
+<div class="cue">VERA</div>
+<div class="paren">(un hilo de voz, rota, traicionada)</div>
+<div class="dlg">…Selka. ¿Por qué.</div>
+<p class="action">Selka la sostiene contra sí —el abrazo se vuelve otra cosa— y le <strong>susurra algo al oído</strong> que nosotros NO alcanzamos a oír.</p>
+<p class="action">Desde la puerta entreabierta, <strong>KORIN</strong> y <strong>LESSA</strong> lo ven todo: la General abrazando a su madre, y el cuchillo. Marek llega un segundo tarde, la cara desencajada de horror.</p>
+<div class="cue">KORIN</div>
+<div class="paren">(susurro, retrocediendo)</div>
+<div class="dlg">…La mató. Su propia hija la mató.</div>
+<p class="action">Vera resbala al piso. Mira la cara de Selka —esa cara— hasta el último segundo. Y muere creyéndolo.</p>
+<p class="action">Selka se queda de pie sobre el cuerpo de su madre, el arma goteando, sin entender por qué le tiembla todo y por qué, de pronto, sin querer, está <strong>tarareando una nana</strong> que no recuerda haber aprendido.</p>
+<p class="action">CORTE A NEGRO.</p>
+<div class="cue">FIN DEL ACTO 2.</div>
+<hr>
+<h1>ACTO 3 · 転結 (TEN · KETSU) — EL REGRESO Y EL TRONO</h1>
+<hr>
+<h2 class="scene">SEC. 21 — EXT. ERDIA — PUERTO EN RUINAS — [ERDIA · AÑO 20] — DÍA</h2>
+<p class="action">RÓTULO: <strong>ERDIA · AÑO 20.</strong></p>
+<p class="action">Lo que fue una ciudad dorada es hoy gris y partido en dos. Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca, un solo nombre tachado: <strong>STELLA.</strong></p>
+<p class="action">Una nave pequeña aterriza entre la chatarra. Bajan <strong>BROG</strong>, <strong>NIMA</strong>, <strong>NOAH</strong> —y una mujer joven con el <strong>pelo teñido de oscuro</strong>, encapuchada. <strong>STELLA</strong>, ~19. Camuflada en su propio mundo.</p>
+<p class="action">Pasa entre la gente. Y la gente, sin reconocerla, la mira con el odio que el Rey les enseñó. Un viejo escupe al oír su nombre en otra conversación.</p>
+<div class="cue">NOAH</div>
+<div class="paren">(bajo, a su lado)</div>
+<div class="dlg">Todo un planeta te odia. ¿Y aun así volviste.</div>
+<div class="cue">STELLA</div>
+<div class="paren">(mirando las ruinas)</div>
+<div class="dlg">Por eso volví.</div>
+<p class="action">Un grupo de la resistencia los intercepta, armas en alto. Al frente, más viejo, más cansado: <strong>KORIN.</strong></p>
+<p class="action">Apunta a Stella. Ella se baja la capucha despacio. Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden de disparar.</p>
+<p class="action">Y entonces, bajo el pelo teñido, <strong>reconoce su cara</strong> —la niña que conoció hace veinte años, siempre pegada a su madre.</p>
+<div class="cue">KORIN</div>
+<div class="paren">(la voz se le rompe)</div>
+<div class="dlg">…¿Stella? Yo te conocí de pequeña —siempre al lado de tu madre.</div>
+<div class="paren">(baja el arma, temblando)</div>
+<div class="dlg">Eres tú. Volviste.</div>
+<p class="action">EN LA ÓRBITA — INT. NAVE NODRIZA DE THERON: <strong>VOSK</strong> mira la pantalla, donde Erdia hierve. Aprieta los puños. Se gira a Theron.</p>
+<div class="cue">VOSK</div>
+<div class="dlg">Déjame bajar. Está sola ahí abajo.</div>
+<div class="cue">THERON</div>
+<div class="dlg">No es nuestra guerra.</div>
+<div class="cue">VOSK</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Se volvió mía el día que me sacó de esa fosa.</div>
+<p class="action">Theron lo mira. No dice que sí. Tampoco se lo impide.</p>
+<hr>
+<h2 class="scene">SEC. 22 — INT. ERDIA — REFUGIO DE LA RESISTENCIA — DÍA</h2>
+<p class="action">Korin lleva a Stella ante un anciano esclavo recién liberado por la resistencia. Encorvado, ciego de un ojo, irreconocible.</p>
+<div class="cue">NAIO.</div>
+<p class="action">Stella se queda sin aire. Se acerca. Se arrodilla frente a él.</p>
+<div class="cue">STELLA</div>
+<div class="paren">(apenas)</div>
+<div class="dlg">Papá.</div>
+<p class="action">Naio levanta la cabeza. Busca su cara y no la encuentra —hasta que le toma la mano. Y siente, bajo la piel, la <strong>llave de luz.</strong> El Orbe. Latiendo.</p>
+<p class="action">Se le llena el ojo bueno de lágrimas.</p>
+<div class="cue">NAIO</div>
+<div class="dlg">Volviste. Veinte años. Te dije que no dejaras que él lo tuviera, y… mírate. Lo cuidaste. Toda tu vida.</div>
+<div class="paren">(le toca el pelo teñido)</div>
+<div class="dlg">Mi niña del río.</div>
+<div class="cue">STELLA</div>
+<div class="dlg">Mamá está viva, papá. La vi. Voy a sacarlos a los dos de aquí. A Selka también. Te lo prometo.</div>
+<p class="action">Naio le aprieta la mano. No tiene corazón para decirle lo que la resistencia cree que pasó con Vera. La deja ir con su esperanza intacta.</p>
+<hr>
+<h2 class="scene">SEC. 23 — EXT./INT. PALACIO IMPERIAL — EL ASALTO — DÍA</h2>
+<p class="action">La resistencia ataca. Estalla la guerra por las calles de niebla. Brog abre brechas a puñetazos; Nima inutiliza robots; Noah cubre a Stella.</p>
+<p class="action">En el caos, un comando rescata a un grupo de esclavos clave —<strong>Naio entre ellos</strong>, puesto a salvo.</p>
+<p class="action">Stella tenía una misión de reconocimiento. La rompe. Sube. Escala el palacio entre disparos, sola, hacia la cúpula más alta —la <strong>Sala del Trono.</strong></p>
+<p class="action">Llega al techo de <strong>cristal.</strong> Abajo, en el centro de la sala, una figura blanca espera de pie, inmóvil, como si supiera que iba a venir.</p>
+<p class="action">Stella rompe el cristal de un golpe del Orbe. Y <strong>cae</strong> al trono.</p>
+<hr>
+<h2 class="scene">SEC. 24 — INT. PALACIO IMPERIAL — SALA DEL TRONO — CONTINUO</h2>
+<p class="action">Stella aterriza entre vidrios. Se levanta.</p>
+<p class="action">Frente a ella, <strong>SELKA</strong> —la General, 21, blanca, perfecta, ojos gris-azul, cicatriz sobre el ojo izquierdo, sin un gesto.</p>
+<p class="action">Las dos hermanas, frente a frente, por primera vez en veinte años. Ninguna de las dos lo sabe del todo.</p>
+<div class="cue">SELKA</div>
+<div class="dlg">La ladrona. Volviste a la escena del crimen.</div>
+<div class="paren">(desenfunda una hoja de luz)</div>
+<div class="dlg">Qué considerada.</div>
+<div class="cue">STELLA</div>
+<div class="paren">(las manos abiertas, sin atacar)</div>
+<div class="dlg">No vine a pelear contigo.</div>
+<div class="cue">SELKA</div>
+<div class="dlg">Todos dicen eso antes de morir.</div>
+<p class="action">Selka ataca. Y aquí descubrimos algo: Stella <strong>podría ganar.</strong> Entrenó con cazadores de otro universo; es más rápida, más fuerte. Bloquea, desvía, la desarma una vez. Pero no remata. <strong>No quiere vencerla. Quiere alcanzarla.</strong></p>
+<div class="cue">STELLA</div>
+<div class="paren">(esquivando)</div>
+<div class="dlg">¿Por qué mataste a nuestra madre?</div>
+<div class="cue">SELKA</div>
+<div class="paren">(sin un parpadeo)</div>
+<div class="dlg">He ejecutado a cientos. No recuerdo a ninguna que se llamara "madre".</div>
+<p class="action">Eso le duele a Stella más que cualquier golpe. Por un segundo baja la guardia. Selka la tira al piso, la hoja en alto.</p>
+<p class="action">Y Stella, acorralada, desesperada, sin pensarlo —por puro reflejo de hermana mayor— hace <strong>el gesto.</strong></p>
+<p class="action">Ahueca la palma. Una <strong>chispa de Gix</strong> baila en su mano. Y la levanta hacia la cara de Selka, buscándole la <strong>frente.</strong></p>
+<p class="action">El mismo gesto del laboratorio. El juego de la luz.</p>
+<p class="action">Selka se <strong>congela.</strong> La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— <strong>antes</strong> de que su mente entienda de dónde. Algo enterrado veinte años se remueve. Bajo la General, por un instante, asoma una niña.</p>
+<div class="cue">SELKA</div>
+<div class="paren">(un susurro, perdida)</div>
+<div class="dlg">…¿Por qué… por qué conozco eso?</div>
+<p class="action">Las dos quietas. A un latido de despertar.</p>
+<p class="action">Y es ese latido lo que <strong>aterra</strong> a Selka. No tiene dónde poner lo que siente. Así que hace lo único que le enseñaron: ataca lo que la confunde.</p>
+<p class="action">Le agarra la mano a Stella —y le <strong>arranca el Orbe.</strong> Puede: comparte su sangre.</p>
+<p class="action">El Orbe sale de la palma de Stella con un fogonazo. Stella <strong>se desploma.</strong> No muere —cae en <strong>coma</strong>, los ojos en blanco.</p>
+<p class="action">Una <strong>chispa</strong> sale del brazalete y se mete en el pecho de Stella: <strong>Gix</strong>, abrazándole el corazón por dentro para que no se detenga.</p>
+<p class="action">Selka se queda de pie, el Orbe en la mano, respirando agitada, sin saber qué acaba de hacerle a su propio cuerpo.</p>
+<div class="cue">SELKA (CONT.)</div>
+<div class="paren">(a los guardias, la voz no del todo firme)</div>
+<div class="dlg">Cuéntenlo. La traidora cayó.</div>
+<hr>
+<h2 class="scene">SEC. 25 — INT. SALA DEL TRONO — CONTINUO</h2>
+<p class="action">Selka camina hacia la <strong>consola</strong> del trono. Coloca el Orbe en su lugar. Por fin. Va a devolverle la luz a Erdia. Va a ser la heroína que cree ser.</p>
+<p class="action">La luz no vuelve.</p>
+<p class="action">En cambio, todo <strong>tiembla.</strong> Las paredes del palacio se pliegan. El piso se vuelve cubierta. El trono se abre como un puente de mando. Motores antiquísimos despiertan en lo profundo.</p>
+<p class="action">Lo que toda la película creímos un <strong>palacio</strong> —lo que el pueblo creyó por siglos un <strong>meteorito</strong> clavado en la ciudad— se enciende entero.</p>
+<p class="action"><strong>Siempre fue una nave.</strong></p>
+<p class="action">Selka retrocede, por primera vez en su vida con miedo.</p>
+<div class="cue">SELKA</div>
+<div class="paren">(a la sombra del trono)</div>
+<div class="dlg">Majestad… el Orbe debería traer la luz. ¿Qué es esto? ¿Qué está pasando?</div>
+<p class="action">Desde el trono, una risa. Mil voces a la vez.</p>
+<div class="cue">VORTHAN (O.S.)</div>
+<div class="dlg">La luz nunca fue para ellos, pequeña.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Y nunca fue tuya.</div>
+<hr>
+<h2 class="scene">SEC. 26 — INT. SALA DEL TRONO — CONTINUO — "FUI YO"</h2>
+<p class="action">VORTHAN se levanta del trono. Y empieza a <strong>cambiar.</strong></p>
+<p class="action">Primero toma la forma de <strong>VERA.</strong></p>
+<p class="action">Con el rostro de la madre, camina despacio hacia <strong>Stella</strong>, que agoniza en el piso. Se arrodilla junto a ella. Le acaricia el pelo teñido. Juega con su agonía, dulce y monstruoso a la vez.</p>
+<p class="action">En el suelo, Stella entreabre los ojos por última vez. Y no ve al monstruo.</p>
+<p class="action">Ve a su madre.</p>
+<div class="cue">STELLA</div>
+<div class="paren">(un hilo de voz, una sonrisa)</div>
+<div class="dlg">Mamá… viniste.</div>
+<div class="cue">"VERA"</div>
+<div class="paren">(con la voz de su madre)</div>
+<div class="dlg">Aquí estoy, mi amor. Descansa.</div>
+<p class="action">Stella cierra los ojos. Y se va <strong>en paz</strong>, creyendo que su madre vino por ella.</p>
+<div class="paren">(El mismo rostro: para esta hija, el último consuelo. Para la otra, en un segundo, la peor verdad del mundo.)</div>
+<p class="action">La cosa se incorpora. Toma una segunda forma: <strong>MAREK.</strong> El líder bueno de la resistencia.</p>
+<p class="action">Selka mira, sin entender, cómo el héroe del pueblo sale de su Rey.</p>
+<div class="cue">"MAREK"</div>
+<div class="dlg">¿No te preguntaste nunca cómo el Rey sabía siempre dónde golpear a la resistencia?</div>
+<div class="paren">(sonríe con la cara de Marek)</div>
+<div class="dlg">No había resistencia. Solo yo. Llevándolos a todos de la mano hacia el matadero.</div>
+<p class="action">Y entonces toma la <strong>última</strong> forma. Se encoge. Se vuelve una <strong>niña pequeña</strong> —una bebé crecida apenas, de pelo blanco.</p>
+<p class="action"><strong>Selka. De niña.</strong></p>
+<p class="action">Con esa carita, la cosa se gira hacia la General. Y le habla con la voz más tierna del mundo.</p>
+<div class="cue">"SELKA NIÑA"</div>
+<div class="dlg">Fuiste tú quien la mató. Al menos… eso creyó ella.</div>
+<div class="paren">(ladea la cabeza)</div>
+<div class="dlg">Tu madre vino a salvarte. Y murió mirando esta cara. Odiándote con toda el alma.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Porque la maté yo, pequeña. Vistiendo tu rostro. Te puse el cuchillo en la mano sin que lo supieras.</div>
+<p class="action">Y ríe. Con la risita de una niña.</p>
+<p class="action">Selka retrocede, la cabeza negando sola. Veinte años de certezas cayéndose de golpe.</p>
+<p class="action">Ella <strong>nunca mató a su madre.</strong> Y su madre murió creyendo que sí.</p>
+<p class="action">Sin darse cuenta, empieza a <strong>tararear la nana.</strong> Esa que canta sin saber de quién es. Y por fin —demasiado tarde— la <strong>entiende:</strong> es la canción de su madre. La que Vera le cantaba de bebé.</p>
+<p class="action">Se quiebra entera. Cae de rodillas.</p>
+<div class="cue">SELKA</div>
+<div class="paren">(la nana rota saliéndole sola)</div>
+<div class="dlg">…esa canción. Era de ella.</div>
+<div class="paren">(un grito que sale de lo más hondo)</div>
+<div class="dlg">…ERA MI MADRE.</div>
+<div class="paren">(mira a Stella, muerta-en-coma en el piso)</div>
+<div class="dlg">ERA NUESTRA MADRE.</div>
+<hr>
+<h2 class="scene">SEC. 27 — INT. NAVE-PALACIO — CUBIERTA DEL TRONO — CONTINUO</h2>
+<p class="action">La cosa abandona todos los disfraces. Y toma su <strong>forma real.</strong></p>
+<p class="action">El <strong>PARÁSITO.</strong> Una criatura colosal, antigua, hecha de la luz robada de mil mundos. Lo que devora planetas. Lo que dejó hueco el corazón de Erdia.</p>
+<p class="action">Llena la sala entera.</p>
+<p class="action">Y <strong>SELKA</strong> —recién rota, recién humana otra vez, con una sola certeza nueva: que su hermana cruzó un universo por ella— se levanta. Toma su hoja de luz. Y se lanza contra el monstruo para <strong>cubrir el rescate de Stella.</strong></p>
+<p class="action">No le da la talla. Ni cerca.</p>
+<p class="action">El Parásito, casi sin notarlo, le <strong>secciona el brazo</strong> de un golpe. Selka cae, manca, pero viva.</p>
+<p class="action">En ese instante, una explosión revienta el mamparo.</p>
+<p class="action">Entra <strong>THERON.</strong></p>
+<p class="action">Mira al monstruo. Por primera vez en veinte mil años lo ve con sus propios ojos. Y todo —cada planeta muerto, cada rastro perdido— por fin tiene cara.</p>
+<div class="cue">THERON</div>
+<div class="paren">(bajo, casi un rezo)</div>
+<div class="dlg">Ahí estás.</div>
+<p class="action">Aprovechando que Theron le hace frente, <strong>BROG</strong> y <strong>NIMA</strong> entran por la brecha. Brog levanta a <strong>Stella</strong> (en coma) como a una pluma. Nima carga a <strong>Selka</strong> (manca). <strong>VOSK</strong> los cubre desde la puerta —llegó, después de todo.</p>
+<div class="cue">NIMA</div>
+<div class="paren">(a Theron, gritando)</div>
+<div class="dlg">¡Las tengo! ¡VÁMONOS!</div>
+<p class="action">Theron retrocede de espaldas, sin quitarle los ojos al Parásito, hasta la brecha.</p>
+<hr>
+<h2 class="scene">SEC. 28 — EXT. ERDIA — CIELO SOBRE LA CIUDAD — CONTINUO</h2>
+<p class="action">La <strong>nave-palacio</strong> termina de arrancarse de la ciudad, escupiendo escombros, con el <strong>Orbe</strong> en su núcleo. Se eleva sobre Erdia.</p>
+<p class="action">Y abre un <strong>portal</strong> en el cielo —un tajo de luz hacia otra parte del universo. Hacia el próximo mundo que va a vaciar.</p>
+<p class="action">El Parásito <strong>no persigue</strong> a Stella ni a Theron. No le interesan. Tiene lo que vino a buscar. Su nave entra al portal y desaparece.</p>
+<p class="action">El cielo se cierra. Silencio.</p>
+<p class="action">La nave de Theron se aleja en la dirección contraria, pequeña contra Erdia rota.</p>
+<p class="action">En el puente, Theron mira el punto donde estuvo el portal. Por primera vez, no está perdido.</p>
+<div class="cue">THERON</div>
+<div class="dlg">Veinte mil años buscándolo.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Por fin sé adónde va a llevarlo.</div>
+<hr>
+<h2 class="scene">SEC. 29 — INT. NAVE NODRIZA DE THERON — ENFERMERÍA — DÍA</h2>
+<p class="action">Quietud. El zumbido bajo de la nave.</p>
+<p class="action"><strong>STELLA</strong> flota en un <strong>tanque de soporte vital</strong>, dormida, intacta, ausente. En coma.</p>
+<p class="action">Junto al tanque, <strong>NAIO</strong> —rescatado, vivo— le sostiene la mirada a su hija dormida sin poder tocarla.</p>
+<p class="action">Y sobre el pecho de Stella, dentro del agua, late algo: un <strong>resplandor tenue, como una brasa a punto de apagarse.</strong></p>
+<p class="action">Gix. Todavía adentro. Todavía sosteniéndole el corazón.</p>
+<div class="cue">THERON</div>
+<div class="paren">(mirando la brasa)</div>
+<div class="dlg">Eso es lo único que la sostiene.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Y se está apagando.</div>
+<p class="action"><strong>SELKA</strong> entra. El brazo le falta; lo lleva vendado. La cara, la de alguien que perdió todo en una sola noche y todavía no sabe cómo se respira con eso.</p>
+<p class="action">Se acerca a <strong>Naio.</strong> Su padre. Lo mira. Le toma la mano con la única que le queda.</p>
+<div class="cue">SELKA</div>
+<div class="paren">(sin casi voz)</div>
+<div class="dlg">Perdóname.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">No sabía. Nada. Me lo robaron todo y ni cuenta me di.</div>
+<div class="paren">(traga)</div>
+<div class="dlg">Voy a volver. Voy a salvar lo que quede de Erdia. Te lo juro por ella.</div>
+<p class="action">Naio, sin palabras, le aprieta la mano. La perdona con eso.</p>
+<p class="action">Selka se vuelve hacia el tanque. Apoya la <strong>palma</strong> —la única— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que rompió el cristal del trono para llegar a ella, que se negó a matarla, que cruzó un universo para volver.</p>
+<div class="cue">SELKA (CONT.)</div>
+<div class="paren">(la frente contra el cristal)</div>
+<div class="dlg">No sabía que eras tú.</div>
+<div class="paren">(beat)</div>
+<div class="dlg">Despierta. Y déjame decírtelo a la cara.</div>
+<p class="action">Y entonces —tan tenue que casi no se oye, desde el fondo del coma, con la voz de su madre dentro— Stella <strong>susurra.</strong></p>
+<p class="action"><strong>STELLA (V.O., un hilo)</strong></p>
+<p class="action">…un río que vuelve.</p>
+<p class="action">Adentro del tanque, la <strong>brasa de Gix</strong> late una vez más. Débil. Pequeña.</p>
+<p class="action">Pero late.</p>
+<p class="action">CORTE A NEGRO.</p>
+<div class="cue">EL NODO DE ERDIA.</div>
+<div class="paren">(Fin de la Película 1.)</div>
+<hr>
+<h2 class="h2">NOTAS PARA LA PELÍCULA 2 (semillas plantadas)</h2>
+<p class="action">- <strong>La brasa de Gix</strong> apagándose = el reloj de Stella. ¿Cuánto le queda antes de que el corazón se detenga?</p>
+<p class="action">- <strong>Selka jura volver</strong> y hereda la misión de su hermana: ella es la protagonista activa de la P2 mientras Stella duerme.</p>
+<p class="action">- <strong>Theron sabe adónde fue el Parásito</strong> = el mapa de la cacería de la P2.</p>
+<p class="action">- <strong>Gix nació del ADN de Stella</strong> (invento de Naio): puente para una posible revivificación.</p>
+<p class="action">- Naio vivo; Vosk redimido; Noah enamorado; Brog y Nima, la familia que queda en pie.</p>
+<p class="foot">Stella Fugaz · El Nodo de Erdia · Película 1 · guion v2</p></div>
+<script>
+function flt(v){v=v.toLowerCase().trim();const all=[...document.querySelectorAll('.wrap > *')];
+all.forEach(el=>{el.style.display=(!v||el.textContent.toLowerCase().includes(v))?'':'none'})}
+</script></body></html>
