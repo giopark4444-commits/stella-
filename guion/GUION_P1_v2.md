@@ -11,6 +11,7 @@
 >
 > **Ajustes de canon (v2.1):**
 > • **Ojos:** **Vera** y **Selka** tienen **ojos gris-azul** (consistencia visual).
+> • **Cicatriz:** **Selka** tiene una **cicatriz sobre el ojo izquierdo** desde joven soldado/cadete en adelante (no de bebé ni de niña).
 > • **Pelo blanco:** es el **voto naieli de la familia** (Stella, Vera, Naio, Selka). La **resistencia y los
 >   pilotos NO** son todos de pelo blanco. Los **aliados que salvan a Stella son 3 pilotos** de aspecto variado.
 > • **Armas:** solo de **energía / cuerpo a cuerpo** — **nunca de fuego** (no guns). La violencia se muestra
@@ -714,7 +715,7 @@ Lo enciende. Y aparecen, vivos, los suyos:
 
 **NAIO** —viejo, encadenado, esclavo en una mina de niebla.
 
-**SELKA** —ya no una bebé, una **joven soldado** entrenando con frialdad quirúrgica, perfecta, vacía, los mismos ojos gris-azul de su madre.
+**SELKA** —ya no una bebé, una **joven soldado** entrenando con frialdad quirúrgica, perfecta, vacía, los mismos ojos gris-azul de su madre, y una cicatriz sobre el ojo izquierdo.
 
 Y una **figura encapuchada** liderando a la resistencia junto a Marek. La capucha cae un segundo. Es **VERA.**
 
@@ -771,7 +772,7 @@ Tráela de vuelta.
 
 Vera entra sola.
 
-Adentro, de espaldas, está **SELKA** —la General. Joven, blanca, impecable, fría, de ojos gris-azul.
+Adentro, de espaldas, está **SELKA** —la General. Joven, blanca, impecable, fría, de ojos gris-azul, con una cicatriz sobre el ojo izquierdo.
 
 **SELKA**
 *(sin voltear)*
@@ -924,7 +925,7 @@ Stella rompe el cristal de un golpe del Orbe. Y **cae** al trono.
 
 Stella aterriza entre vidrios. Se levanta.
 
-Frente a ella, **SELKA** —la General, 21, blanca, perfecta, ojos gris-azul, sin un gesto.
+Frente a ella, **SELKA** —la General, 21, blanca, perfecta, ojos gris-azul, cicatriz sobre el ojo izquierdo, sin un gesto.
 
 Las dos hermanas, frente a frente, por primera vez en veinte años. Ninguna de las dos lo sabe del todo.
 

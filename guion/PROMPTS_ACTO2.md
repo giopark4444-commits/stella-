@@ -14,7 +14,7 @@
 - `@StellaPeloCorto` — Stella (crece de ~15 a ~18); pelo blanco corto; recon suit; luego el **@TrajeNuevo** de Nima. Amber eyes.
 - `@VeraEncapuchada` — Vera, líder de la resistencia, **encapuchada**; bajo la capucha, su cara: pelo blanco, **grey-blue eyes**.
 - `@NaioEsclavo` — Naio anciano, encorvado, encadenado, andrajos de mina.
-- `@SelkaGeneral` — la General (joven soldado → 21); armadura blanca/dorada imperial; fría; **grey-blue eyes**; hoja de luz.
+- `@SelkaGeneral` — la General (joven soldado → 21); armadura blanca/dorada imperial; fría; **grey-blue eyes**; **scar over her left eye**; hoja de luz.
 - `@Gix` — ser de luz cálido (igual que A1).
 - `@Theron` — el Cazador, especie Threa; alto, de otra especie; ojos que no parpadean; armadura/abrigo de cazador milenario.
 - `@Brog` — gigante de roca, lento, macizo, el último de su especie; superficie pétrea agrietada con luz tenue.
@@ -909,7 +909,7 @@
 ### CLIP 139 — Selka soldado (gris-azul)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. Inside the projection.
-- **Characters:** @SelkaGeneral (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the projected image of Selka training, cold.
 - **Camera:** slow push, chilling.
 - **Light:** pale glow.
@@ -921,7 +921,7 @@
 ### CLIP 139A — primer plano: la General fría
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the projection pushes in on Selka's cold face.
 - **Camera:** slow push into the hologram.
 - **Light:** pale projector glow.
@@ -1030,7 +1030,7 @@
 ### CLIP 147 — Selka de espaldas
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @VeraEncapuchada.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada.
 - **Shot/lens:** Selka's back, Vera in the doorway.
 - **Camera:** slow push to Selka.
 - **Light:** cold, single source.
@@ -1043,7 +1043,7 @@
 ### CLIP 148 — Vera baja la capucha / "traidora"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @VeraEncapuchada (grey-blue eyes), @SelkaGeneral (grey-blue eyes).
+- **Characters:** @VeraEncapuchada (grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** Vera lowers her hood; Selka turns, a microsecond tremor.
 - **Camera:** push to Selka's face, the flicker crushed.
 - **Light:** cold, both faces lit.
@@ -1056,7 +1056,7 @@
 ### CLIP 149 — Selka ataca / Vera no la hiere
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @VeraEncapuchada (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes).
 - **Shot/lens:** Selka attacks; Vera only blocks and retreats.
 - **Camera:** kinetic but anguished handheld.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -1070,7 +1070,7 @@
 ### CLIP 149A — la no-pelea (detalle)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @VeraEncapuchada (grey-blue eyes), @SelkaGeneral (grey-blue eyes).
+- **Characters:** @VeraEncapuchada (grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** detail of Vera absorbing blows on her forearms.
 - **Camera:** anguished handheld, never striking back.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -1083,7 +1083,7 @@
 ### CLIP 150 — Selka se desarma
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @VeraEncapuchada (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes).
 - **Shot/lens:** Selka's arm shaking, the blade lowering.
 - **Camera:** slow push to her cracking face.
 - **Light:** cold, softening.
@@ -1095,7 +1095,7 @@
 ### CLIP 151 — el abrazo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @VeraEncapuchada (grey-blue eyes), @SelkaGeneral (grey-blue eyes).
+- **Characters:** @VeraEncapuchada (grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** Vera folds her into an embrace.
 - **Camera:** slow, tender, dread underneath.
 - **Light:** cold with a fragile warmth.
@@ -1108,7 +1108,7 @@
 ### CLIP 151A — la cara de Selka en el abrazo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @VeraEncapuchada (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes).
 - **Shot/lens:** CU of Selka's face over Vera's shoulder.
 - **Camera:** slow push as a shutter slides down.
 - **Light:** cold, faces close.
@@ -1120,7 +1120,7 @@
 ### CLIP 152 — la hoja en el abrazo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @VeraEncapuchada (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes).
 - **Shot/lens:** in the embrace, a light-blade drives in; Vera's glow dims.
 - **Camera:** tight, a single cruel beat. **Death by light, no blood.**
 - **Light:** Vera's vital glow guttering to grey.
@@ -1133,7 +1133,7 @@
 ### CLIP 153 — el susurro (que no oímos)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @VeraEncapuchada (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes).
 - **Shot/lens:** primerísimo plano of Selka at Vera's ear.
 - **Camera:** held, intimate, withholding the words.
 - **Light:** cold, faces close.
@@ -1145,7 +1145,7 @@
 ### CLIP 154 — la creen asesina / la nana
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @VeraEncapuchada (grey-blue eyes), @Korin, @Lessa, @Marek.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes), @Korin, @Lessa, @Marek.
 - **Shot/lens:** from the door, Korin/Lessa see only the killing; Vera dies on Selka's face.
 - **Camera:** slow pull from the doorway witnesses to Selka standing over the body.
 - **Light:** cold, a body's warmth fading.

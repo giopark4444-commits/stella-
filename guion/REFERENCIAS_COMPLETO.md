@@ -27,7 +27,7 @@
 | `@NaioEsclavo` | Naio anciano, esclavo de minas | A2 | ✅ `naio_esclavo` |
 | `@NaioRescatado` | Naio anciano, liberado | A3 | 🟡 derivar de `naio_esclavo` |
 | `@SelkaBebe` | bebé, mechón blanco, gris-azul | A1 | ✅ `selka_4_bebe` |
-| `@SelkaGeneral` | la General (21), armadura blanca, gris-azul; luego manca | A2·A3 | ✅ `selka_general` + `selka_manca` |
+| `@SelkaGeneral` | la General (21), armadura blanca, gris-azul, cicatriz ojo izq.; luego manca | A2·A3 | ✅ `selka_general` + `selka_manca` |
 | `@SelkaNiña` 🔒 | Selka de niña (forma del "Fui yo"), gris-azul | A3 | 🟡 derivar de `selka_4_bebe` |
 | `@Gix` | axolotl-espíritu de agua y luz (azul-luzagua + dorado, con cara) | A1·A2·A3 | ✅ `gix` (lámina recibida) |
 | `@Vorthan` | el Rey | A1·A2·A3 | ✅ `rey_humano` |

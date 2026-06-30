@@ -10,7 +10,7 @@
 
 ## 🎭 BIBLIA — NUEVOS @ELEMENTOS DEL ACTO 3
 - `@StellaTeñida` — Stella ~19, **pelo teñido oscuro** (camuflada), @TrajeNuevo, amber eyes; mayor, endurecida.
-- `@SelkaGeneral` — la General (21), armadura blanca/dorada, hoja de luz, **grey-blue eyes**, fría; luego **manca** (sin un brazo).
+- `@SelkaGeneral` — la General (21), armadura blanca/dorada, hoja de luz, **grey-blue eyes**, **scar over her left eye**, fría; luego **manca** (sin un brazo).
 - `@SelkaNiña` — Selka de niña pequeña (forma del "Fui yo"), pelo blanco, **grey-blue eyes**. 🔒 (=Vorthan)
 - `@Vorthan` — el Rey. `@Marek` — líder de la resistencia 🔒. `@Parasito` — criatura colosal de luz robada 🔒. *(los tres = misma entidad)*
 - `@NaioRescatado` — Naio anciano, liberado. `@Theron` · `@Brog` · `@Nima` · `@Vosk` · `@Korin`. `@Gix` (ser de luz).
@@ -393,7 +393,7 @@
 ### CLIP 179 — las dos hermanas, cara a cara
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes).
+- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** wide symmetrical face-off across the hall.
 - **Camera:** slow, holding the distance between them.
 - **Light:** cold, both lit from opposite sides.
@@ -405,7 +405,7 @@
 ### CLIP 180 — "the thief" / desenfunda
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes). **Props:** @HojaSelka.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
 - **Shot/lens:** Selka draws her light-blade, cold.
 - **Camera:** push to her unblinking face.
 - **Light:** blade-light igniting cold on her.
@@ -418,7 +418,7 @@
 ### CLIP 181 — "no vine a pelear" / ataca
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes).
+- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** Stella's open hands; Selka lunges.
 - **Camera:** snap from Stella's plea to Selka's strike.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -432,7 +432,7 @@
 ### CLIP 181A — el primer choque de hojas
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
-- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes). **Props:** @HojaSelka.
+- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
 - **Shot/lens:** first blade clash; they lock and spring apart.
 - **Camera:** snap-zoom on the clash, sparks.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -445,7 +445,7 @@
 ### CLIP 182 — el combate (Stella superior, no remata)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes). **Props:** @HojaSelka.
+- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
 - **Shot/lens:** fast duel; Stella blocks, redirects, disarms her once.
 - **Camera:** circling whip-pans, the blade flying.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -458,7 +458,7 @@
 ### CLIP 182A — el intercambio brutal (acción ×2)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes).
+- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** a flurry of hand-to-hand after the disarm.
 - **Camera:** tight whip-pans, impact frames on each block.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -471,7 +471,7 @@
 ### CLIP 183 — "¿por qué mataste a nuestra madre?"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes).
+- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the question lands; Selka knocks her down.
 - **Camera:** push to Stella's face on the line, then impact as she's downed.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -485,7 +485,7 @@
 ### CLIP 183A — la derriba (impacto)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
-- **Characters:** @SelkaGeneral (grey-blue eyes), @StellaTeñida.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @StellaTeñida.
 - **Shot/lens:** Selka's takedown; Stella hits the floor hard.
 - **Camera:** impact frame as Stella slams down, the blade rising.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -498,7 +498,7 @@
 ### CLIP 184 — EL GESTO (el juego de la luz)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes), @Gix. **Props:** @Brazalete.
+- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes, scar over her left eye), @Gix. **Props:** @Brazalete.
 - **Shot/lens:** cornered, by reflex Stella cups her palm, a spark of Gix toward Selka's forehead.
 - **Camera:** the chaos slows to a held breath.
 - **Light:** the one warm spark of @Gix in the cold hall.
@@ -510,7 +510,7 @@
 ### CLIP 185 — Selka se congela
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** her blade trembles in the air; she freezes.
 - **Camera:** slow push to her cracking face.
 - **Light:** the warm spark reflected in grey-blue eyes.
@@ -522,7 +522,7 @@
 ### CLIP 186 — la grieta ("¿por qué conozco eso?")
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @StellaTeñida.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @StellaTeñida.
 - **Shot/lens:** primerísimo plano sostenido — the General cracks, a child surfacing.
 - **Camera:** held, foreheads almost touching.
 - **Light:** warm spark between them.
@@ -535,7 +535,7 @@
 ### CLIP 187 — a un latido de despertar
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes).
+- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the two still, foreheads close — and that nearness terrifies Selka.
 - **Camera:** held, then a flicker of panic.
 - **Light:** warm spark, cold around.
@@ -547,7 +547,7 @@
 ### CLIP 188 — le arranca el Orbe / coma
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @StellaTeñida. **Props:** @Orbe, @LlaveDeLuz.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @StellaTeñida. **Props:** @Orbe, @LlaveDeLuz.
 - **Shot/lens:** terrified, Selka rips the Orb from Stella's hand; Stella collapses.
 - **Camera:** snap + flare as the Orb tears free, then Stella crumpling.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -560,7 +560,7 @@
 ### CLIP 188A — el Orbe se arranca (impacto)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
-- **Characters:** @SelkaGeneral (grey-blue eyes), @StellaTeñida. **Props:** @Orbe, @LlaveDeLuz.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @StellaTeñida. **Props:** @Orbe, @LlaveDeLuz.
 - **Shot/lens:** the Orb tears free in a blinding flare; Stella's body arcs.
 - **Camera:** slow-mo + impact frame on the tear, then a hard whip.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -573,7 +573,7 @@
 ### CLIP 189 — Gix entra al corazón / "la traidora cayó"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (down), @SelkaGeneral (grey-blue eyes), @Gix. **Props:** @Brazalete.
+- **Characters:** @StellaTeñida (down), @SelkaGeneral (grey-blue eyes, scar over her left eye), @Gix. **Props:** @Brazalete.
 - **Shot/lens:** a spark dives from the bracelet into Stella's chest; Selka, shaking, gives the order.
 - **Camera:** insert on the spark sinking in, then to Selka's unsteady face.
 - **Light:** the faint ember glow over Stella's heart.
@@ -590,7 +590,7 @@
 ### CLIP 190 — pone el Orbe en la consola
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. The throne console.
-- **Characters:** @SelkaGeneral (grey-blue eyes). **Props:** @Orbe.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @Orbe.
 - **Shot/lens:** she sets the Orb into the console, expecting the light.
 - **Camera:** push to her hopeful, brittle face.
 - **Light:** the Orb's glow on the console.
@@ -602,7 +602,7 @@
 ### CLIP 191 — la luz NO vuelve
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the wrong silence; her confusion.
 - **Camera:** hold, dread building.
 - **Light:** the expected glow failing to spread.
@@ -614,7 +614,7 @@
 ### CLIP 192 — todo tiembla
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the hall shudders; walls folding into bulkheads.
 - **Camera:** shaking, vertiginous.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -639,7 +639,7 @@
 ### CLIP 194 — "siempre fue una nave"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @NavePalacio — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes). **Props:** @NavePalacio.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @NavePalacio.
 - **Shot/lens:** Selka small against the rising machinery.
 - **Camera:** tilt up the awakening structure.
 - **Light:** ship-light flooding the hall.
@@ -651,7 +651,7 @@
 ### CLIP 195 — Selka retrocede con miedo
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @Vorthan (O.S.).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @Vorthan (O.S.).
 - **Shot/lens:** Selka backs toward the throne; a voice answers from it.
 - **Camera:** push to her fear, then to the shadowed throne.
 - **Light:** cold, the throne in deeper shadow.
@@ -664,7 +664,7 @@
 ### CLIP 196 — (reservado / transición al "Fui yo")
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vorthan, @SelkaGeneral (grey-blue eyes), @StellaTeñida (down).
+- **Characters:** @Vorthan, @SelkaGeneral (grey-blue eyes, scar over her left eye), @StellaTeñida (down).
 - **Shot/lens:** the King rises from the throne; the hall holds its breath.
 - **Camera:** slow ominous push to Vorthan rising.
 - **Light:** cold, his silhouette uncoiling.
@@ -729,7 +729,7 @@
 ### CLIP 201 — cambia a Marek
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** "@Marek" (=Vorthan), @SelkaGeneral (grey-blue eyes).
+- **Characters:** "@Marek" (=Vorthan), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the form rises and becomes Marek; Selka watches in horror.
 - **Camera:** slow reveal of the second face.
 - **Light:** cold.
@@ -754,7 +754,7 @@
 ### CLIP 203 — la última forma: Selka niña
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** "@SelkaNiña" (grey-blue eyes) (=Vorthan), @SelkaGeneral (grey-blue eyes).
+- **Characters:** "@SelkaNiña" (grey-blue eyes) (=Vorthan), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the form shrinks into a small white-haired child and turns to the General.
 - **Camera:** slow, uncanny push.
 - **Light:** cold, the child-face lit.
@@ -766,7 +766,7 @@
 ### CLIP 204 — "fui yo, vistiendo tu rostro"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** "@SelkaNiña" (grey-blue eyes), @SelkaGeneral (grey-blue eyes).
+- **Characters:** "@SelkaNiña" (grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the child speaks the verdict; the General breaks.
 - **Camera:** intercut child-face / the General shattering.
 - **Light:** cold.
@@ -779,7 +779,7 @@
 ### CLIP 205 — la nana / "era mi madre"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** primerísimo plano — she hums the lullaby, understands, breaks.
 - **Camera:** held, devastating.
 - **Light:** cold, tears catching it.
@@ -792,7 +792,7 @@
 ### CLIP 206 — (reacción) Selka mira a Stella muerta
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @StellaTeñida (in coma).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @StellaTeñida (in coma).
 - **Shot/lens:** Selka's eyes find her fallen sister.
 - **Camera:** slow push from Selka to Stella's still form.
 - **Light:** cold, the faint ember glow on Stella's chest.
@@ -833,7 +833,7 @@
 ### CLIP 208A — el Parásito en pleno (acción ×2)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Parasito, @SelkaGeneral (grey-blue eyes).
+- **Characters:** @Parasito, @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the creature lashes; Selka tiny beneath it.
 - **Camera:** vertiginous, debris flying.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -846,7 +846,7 @@
 ### CLIP 209 — Selka embiste
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes). **Props:** @HojaSelka.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
 - **Shot/lens:** newly human again, she charges the colossus.
 - **Camera:** handheld running with her, the monster filling frame.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -859,7 +859,7 @@
 ### CLIP 209A — Selka esquiva los embates
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
-- **Characters:** @SelkaGeneral (grey-blue eyes), @Parasito. **Props:** @HojaSelka.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @Parasito. **Props:** @HojaSelka.
 - **Shot/lens:** she weaves the colossal limbs as she charges in.
 - **Camera:** vertiginous, the giant's strikes filling frame.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -872,7 +872,7 @@
 ### CLIP 210 — le secciona el brazo (sin sangre)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes), @Parasito.
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @Parasito.
 - **Shot/lens:** a sweep of light severs her arm; she falls.
 - **Camera:** impact frame + the camera dropping with her. **Cauterized by light, no blood.**
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -885,7 +885,7 @@
 ### CLIP 210A — Selka cae manca (detalle)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
-- **Characters:** @SelkaGeneral (grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** detail of the cauterized stump glowing; she crashes down.
 - **Camera:** the camera drops with her, impact frame. Cauterized by light, no blood.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -937,7 +937,7 @@
 ### CLIP 214 — sacan a Stella y a Selka
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Brog, @Nima, @StellaTeñida (coma), @SelkaGeneral (manca, grey-blue eyes), @Vosk.
+- **Characters:** @Brog, @Nima, @StellaTeñida (coma), @SelkaGeneral (manca, grey-blue eyes, scar over her left eye), @Vosk.
 - **Shot/lens:** Brog lifts Stella; Nima carries Selka; Vosk covers the door.
 - **Camera:** running handheld of the extraction.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -964,7 +964,7 @@
 ### CLIP 215A — la sala se derrumba
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
-- **Characters:** @Brog, @Nima, @StellaTeñida (coma), @SelkaGeneral (manca, grey-blue eyes), @Vosk. **Props:** @Parasito.
+- **Characters:** @Brog, @Nima, @StellaTeñida (coma), @SelkaGeneral (manca, grey-blue eyes, scar over her left eye), @Vosk. **Props:** @Parasito.
 - **Shot/lens:** the hall collapses around them as they flee.
 - **Camera:** running handheld, debris and light raining.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -977,7 +977,7 @@
 ### CLIP 216 — (reservado / salida al cielo)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. A blasted opening to the grey sky.
-- **Characters:** @Brog, @Nima, @StellaTeñida (coma), @SelkaGeneral (manca, grey-blue eyes), @Vosk.
+- **Characters:** @Brog, @Nima, @StellaTeñida (coma), @SelkaGeneral (manca, grey-blue eyes, scar over her left eye), @Vosk.
 - **Shot/lens:** the group bursts out toward the open sky.
 - **Camera:** fast forward track out of the collapsing hall.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -1097,7 +1097,7 @@
 ### CLIP 225 — Selka manca entra
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (manca, grey-blue eyes).
+- **Characters:** @SelkaGeneral (manca, grey-blue eyes, scar over her left eye).
 - **Shot/lens:** Selka enters, one arm gone, bandaged, hollowed.
 - **Camera:** slow, holding her ruin.
 - **Light:** soft tank-glow on her face.
@@ -1109,7 +1109,7 @@
 ### CLIP 226 — "perdóname" / la promesa
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (manca, grey-blue eyes), @NaioRescatado.
+- **Characters:** @SelkaGeneral (manca, grey-blue eyes, scar over her left eye), @NaioRescatado.
 - **Shot/lens:** she takes Naio's hand with her remaining one.
 - **Camera:** intimate two-shot.
 - **Light:** soft, low.
@@ -1122,7 +1122,7 @@
 ### CLIP 227 — la mano en el cristal
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (manca, grey-blue eyes), @StellaTeñida (coma). **Props:** @TanqueSoporte.
+- **Characters:** @SelkaGeneral (manca, grey-blue eyes, scar over her left eye), @StellaTeñida (coma). **Props:** @TanqueSoporte.
 - **Shot/lens:** her palm flat on the cold glass over her sleeping sister's face.
 - **Camera:** slow push to her hand and her sister's face through the glass.
 - **Light:** tank-glow on both faces.
