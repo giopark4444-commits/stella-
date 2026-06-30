@@ -20,7 +20,7 @@
 - `@VeraArmadura` — the mother in **combat armor/gear**; long white hair; **grey-blue eyes**. *(While escaping with Stella — lab, corridors, Orb chamber, clips 17-65.)*
 - `@Naio` — ~45, father/scientist; white hair; tired kind eyes; lab coat over a naiel tunic.
 - `@SelkaBebe` — 1-year-old baby; wisp of white hair; **grey-blue eyes**; wrapped in pale cloth.
-- `@Gix` — small palm-sized being of warm light, firefly glow, faint geometric core; playful.
+- `@Gix` — small palm-sized **axolotl made of warm light** (sweet smiling face, friendly eyes, light-frond gills, a glowing seed-of-light pulsing in its translucent chest); amber-gold, playful. Never blue.
 - `@Vorthan` — the King; tall, ageless, regal; calm friendly smile that never reaches the eyes; ornate dark-and-gold imperial robes.
 - `@S1G1` — sleek dark assassin robot; matte black-grey plating; single glowing optic; fast, silent.
 - `@RobotImperial` — white/grey imperial soldier robots; faceless visor; bulkier than @S1G1.

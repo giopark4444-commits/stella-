@@ -29,7 +29,7 @@
 | `@SelkaBebe` | bebé, mechón blanco, gris-azul | A1 | ✅ `selka_4_bebe` |
 | `@SelkaGeneral` | la General (21), armadura blanca, gris-azul; luego manca | A2·A3 | ✅ `selka_general` + `selka_manca` |
 | `@SelkaNiña` 🔒 | Selka de niña (forma del "Fui yo"), gris-azul | A3 | 🟡 derivar de `selka_4_bebe` |
-| `@Gix` | ser de luz cálido | A1·A2·A3 | ⬜ **falta — generar** |
+| `@Gix` | ajolote de luz cálido (con cara) | A1·A2·A3 | ⬜ **falta — generar** |
 | `@Vorthan` | el Rey | A1·A2·A3 | ✅ `rey_humano` |
 | `@Marek` 🔒 | líder de la resistencia (=Vorthan) | A2·A3 | ✅ `marek_rey_infiltrado` |
 | `@Parasito` 🔒 | criatura colosal de luz robada (=Vorthan) | A3 | ✅ `vorthan_real_parasito` |
