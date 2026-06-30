@@ -99,15 +99,15 @@
 - **Audio:** SFX only — tense quiet, a weapon's hum. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
-### CLIP 161 — "los ojos de tu madre"
+### CLIP 161 — Korin la reconoce (la conoció de pequeña)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Korin, @StellaTeñida.
-- **Shot/lens:** he catches her eyes; recognition breaks him.
-- **Camera:** push between their eyes.
-- **Light:** grey, a glint in her eyes.
-- **Action:** then @Korin meets her eyes — and the recognition lands; his aim drops, his voice cracking.
-- **Dialogue (@Korin):** "Stella? Those eyes… your mother's eyes. It's you. You came back."
+- **Shot/lens:** he studies her face; an old memory surfaces and breaks him.
+- **Camera:** slow push to his face as recognition dawns.
+- **Light:** grey, a softening on his weathered face.
+- **Action:** then, under the dyed hair, @Korin recognizes her face — the little girl he knew twenty years ago, always at her mother's side; his aim drops, his voice cracking.
+- **Dialogue (@Korin):** "Stella? I knew you when you were small. Always at your mother's side. It's you. You came back."
 - **Mood:** reunion, disbelief.
 - **Audio:** SFX only — his breaking voice, lowered weapons. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.

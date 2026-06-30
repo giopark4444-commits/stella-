@@ -848,11 +848,11 @@ Un grupo de la resistencia los intercepta, armas en alto. Al frente, más viejo,
 
 Apunta a Stella. Ella se baja la capucha despacio. Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden de disparar.
 
-Y entonces le ve los **ojos.**
+Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinte años, siempre pegada a su madre.
 
 **KORIN**
 *(la voz se le rompe)*
-…¿Stella? Esos ojos. Esos son los ojos de tu madre.
+…¿Stella? Yo te conocí de pequeña. Siempre al lado de tu madre.
 *(baja el arma, temblando)*
 Eres tú. Volviste.
 
