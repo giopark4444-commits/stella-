@@ -12,7 +12,7 @@
 - `@StellaTeñida` — Stella ~19, **pelo teñido oscuro** (camuflada), @TrajeNuevo, amber eyes; mayor, endurecida.
 - `@SelkaGeneral` — la General (21), armadura blanca/dorada, hoja de luz, **grey-blue eyes**, **scar over her left eye**, fría; luego **manca** (sin un brazo).
 - `@SelkaNiña` — Selka de niña pequeña (forma del "Fui yo"), pelo blanco, **grey-blue eyes**. 🔒 (=Vorthan)
-- `@Vorthan` — el Rey. `@Marek` — líder de la resistencia 🔒. `@Parasito` — criatura colosal de luz robada 🔒. *(los tres = misma entidad)*
+- `@Vorthan` — el Rey. `@Marek` — líder de la resistencia 🔒. `@Parasito` — Vorthan's true form 🔒: a ~300m pitch-black colossal mass made of countless screaming human faces (the devoured) that surface, cry and sink as it endlessly transforms; a porous black membrane that drinks all light; no fixed form, no boundaries. Alt forms: scattering shadow-spores, a giant-armed shape, a city-covering curtain, a gravity-vortex sphere. *(los tres = misma entidad)*
 - `@NaioRescatado` — Naio anciano, liberado. `@Theron` · `@Brog` · `@Nima` · `@Vosk` · `@Korin`. `@Gix` (ser de luz).
 - `@NavePalacio` — el palacio que se revela **nave** colosal 🔒.
 - Locaciones: `@ErdiaRuinas` · `@SalaTrono` · `@NodrizaInterior` (enfermería).

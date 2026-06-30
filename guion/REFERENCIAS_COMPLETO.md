@@ -32,7 +32,7 @@
 | `@Gix` | axolotl-espíritu de agua y luz (azul-luzagua + dorado, con cara) | A1·A2·A3 | ✅ `gix` (lámina recibida) |
 | `@Vorthan` | el Rey | A1·A2·A3 | ✅ `rey_humano` |
 | `@Marek` 🔒 | líder de la resistencia (=Vorthan) | A2·A3 | ✅ `marek_rey_infiltrado` |
-| `@Parasito` 🔒 | criatura colosal de luz robada (=Vorthan) | A3 | ✅ `vorthan_real_parasito` |
+| `@Parasito` 🔒 | colosal (~300m) de rostros que gritan, membrana negra que traga la luz, sin bordes; muta (esporas / brazos / cortina-ciudad / esfera-vórtice) (=Vorthan) | A3 | ✅ `vorthan_real_parasito` |
 | `@S1G1` | robot asesino oscuro, un óptico | A1 | ✅ |
 | `@RobotImperial` | soldados robot imperiales | A1·A2·A3 | 🟡 |
 | `@CazadorRecompensas` | cazarrecompensas/esclavistas | A2 | ⬜ **falta — generar** |
