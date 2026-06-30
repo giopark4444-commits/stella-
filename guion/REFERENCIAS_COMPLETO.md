@@ -6,41 +6,45 @@
 > **Actos:** dónde aparece. **Estado:** ✅ ya la tienes/confirmada · ⬜ por ubicar o generar.
 > 🔒 = secreto: `@Marek`, `@Parasito`, `@SelkaNiña`, `@NavePalacio` son la misma entidad (Vorthan) — elementos
 > separados para no spoilear. 🔑 Locaciones sin arte: genera el establishing y reúsalo como `@location`.
+>
+> **✅ Verificado contra tu Drive (2026-06-30)** · carpeta `Stella_Character_Drafts` (manifiesto `estante.json`):
+> confirmadas **17 láminas de personaje** ya generadas + 8 keyframes (`KF_CLIP01-08`). El nombre del
+> archivo real aparece en la columna Estado entre \`comillas\` para que sepas cuál sube a cada `@elemento`.
 
 ---
 
 ## 👤 PERSONAJES (29)
 | @tag | Quién | Actos | Estado |
 |---|---|---|---|
-| `@StellaRopa` | Stella 14, ropa civil + trenza, ámbar | A1 | ✅ |
-| `@StellaArmadura` | Stella, armadura "04" + trenza | A1 | ✅ |
-| `@StellaPeloCorto` | Stella, armadura + pelo corto (tras el corte) | A1·A2 | ✅ |
-| `@StellaTeñida` | Stella ~19, pelo teñido oscuro, traje nuevo | A3 | ⬜ (teñir ref de Stella) |
-| `@VeraRopa` | madre en túnicas (pasea con Stella), gris-azul | A1 | ✅ |
-| `@VeraArmadura` | madre en armadura (escapa con Stella), gris-azul | A1 | ✅ |
-| `@VeraEncapuchada` | Vera resistencia, encapuchada, gris-azul | A2·A3 | ⬜ |
-| `@Naio` | padre científico | A1 | ⬜ |
-| `@NaioEsclavo` | Naio anciano, esclavo de minas | A2 | ⬜ |
-| `@NaioRescatado` | Naio anciano, liberado | A3 | ⬜ |
-| `@SelkaBebe` | bebé, mechón blanco, gris-azul | A1 | ⬜ |
-| `@SelkaGeneral` | la General (21), armadura blanca, gris-azul; luego manca | A2·A3 | ✅ |
-| `@SelkaNiña` 🔒 | Selka de niña (forma del "Fui yo"), gris-azul | A3 | ⬜ (derivar) |
-| `@Gix` | ser de luz cálido | A1·A2·A3 | ⬜ |
-| `@Vorthan` | el Rey | A1·A2·A3 | ⬜ |
-| `@Marek` 🔒 | líder de la resistencia (=Vorthan) | A2·A3 | ⬜ |
-| `@Parasito` 🔒 | criatura colosal de luz robada (=Vorthan) | A3 | ⬜ |
+| `@StellaRopa` | Stella 14, ropa civil + trenza, ámbar | A1 | ✅ `stella_14_nina` |
+| `@StellaArmadura` | Stella, armadura "04" + trenza | A1 | ✅ `stella_22_guerrera` |
+| `@StellaPeloCorto` | Stella, armadura + pelo corto (tras el corte) | A1·A2 | ✅ `stella_22_guerrera` (recorte) |
+| `@StellaTeñida` | Stella ~19, pelo teñido oscuro, traje nuevo | A3 | ✅ `stella_adulta_pelo_tenido` |
+| `@VeraRopa` | madre en túnicas (pasea con Stella), gris-azul | A1 | ✅ `vera_madre` |
+| `@VeraArmadura` | madre en armadura (escapa con Stella), gris-azul | A1 | 🟡 derivar de `vera_madre` (no hay lámina en armadura) |
+| `@VeraEncapuchada` | Vera resistencia, encapuchada, gris-azul | A2·A3 | ✅ `vera_mayor_lider` |
+| `@Naio` | padre científico | A1 | ✅ `naio_cientifico` |
+| `@NaioEsclavo` | Naio anciano, esclavo de minas | A2 | ✅ `naio_esclavo` |
+| `@NaioRescatado` | Naio anciano, liberado | A3 | 🟡 derivar de `naio_esclavo` |
+| `@SelkaBebe` | bebé, mechón blanco, gris-azul | A1 | ✅ `selka_4_bebe` |
+| `@SelkaGeneral` | la General (21), armadura blanca, gris-azul; luego manca | A2·A3 | ✅ `selka_general` + `selka_manca` |
+| `@SelkaNiña` 🔒 | Selka de niña (forma del "Fui yo"), gris-azul | A3 | 🟡 derivar de `selka_4_bebe` |
+| `@Gix` | ser de luz cálido | A1·A2·A3 | ⬜ **falta — generar** |
+| `@Vorthan` | el Rey | A1·A2·A3 | ✅ `rey_humano` |
+| `@Marek` 🔒 | líder de la resistencia (=Vorthan) | A2·A3 | ✅ `marek_rey_infiltrado` |
+| `@Parasito` 🔒 | criatura colosal de luz robada (=Vorthan) | A3 | ✅ `vorthan_real_parasito` |
 | `@S1G1` | robot asesino oscuro, un óptico | A1 | ✅ |
 | `@RobotImperial` | soldados robot imperiales | A1·A2·A3 | 🟡 |
-| `@CazadorRecompensas` | cazarrecompensas/esclavistas | A2 | ⬜ |
-| `@Theron` | el Cazador (especie Threa) | A2·A3 | ⬜ |
-| `@Brog` | gigante de roca | A2·A3 | ⬜ |
-| `@Nima` | mecánica de 4 brazos | A2·A3 | ⬜ |
-| `@Noah` | humano, espadachín | A2·A3 | ✅ |
-| `@Vosk` | matón → leal | A2·A3 | ⬜ |
-| `@Korin` | leal de Vera | A2·A3 | ⬜ |
-| `@Lessa` | leal de Vera | A2 | ⬜ |
-| `@Piloto1` | piloto de la radio (con cara), no pelo blanco | A1 | ✅ |
-| `@Piloto2` / `@Piloto3` | pilotos aliados, no pelo blanco | A1 | ✅ |
+| `@CazadorRecompensas` | cazarrecompensas/esclavistas | A2 | ⬜ **falta — generar** |
+| `@Theron` | el Cazador (especie Threa) | A2·A3 | ✅ `theron_cazador` |
+| `@Brog` | gigante de roca | A2·A3 | ⬜ **falta — generar** |
+| `@Nima` | mecánica de 4 brazos | A2·A3 | ✅ `nima` |
+| `@Noah` | humano, espadachín | A2·A3 | ✅ `noah_humano` |
+| `@Vosk` | matón → leal | A2·A3 | ✅ `vosk_maton` |
+| `@Korin` | leal de Vera | A2·A3 | ⬜ **falta — generar** |
+| `@Lessa` | leal de Vera | A2 | ⬜ **falta — generar** |
+| `@Piloto1` | piloto de la radio (con cara), no pelo blanco | A1 | ✅ (casting sheet) |
+| `@Piloto2` / `@Piloto3` | pilotos aliados, no pelo blanco | A1 | ✅ (casting sheet) |
 
 ## 🚀 NAVES / VEHÍCULOS (6)
 | @tag | Qué | Actos | Estado |
@@ -90,13 +94,26 @@
 
 ---
 
-## RESUMEN
+## RESUMEN — verificado contra Drive (2026-06-30)
 - **63 elementos** = 29 personajes · 6 naves · 17 locaciones · 11 props.
-- ✅ **Ya las tienes (11):** las 3 Stella, las 2 Vera, `@SelkaGeneral`, `@Noah`, `@S1G1`, `@Piloto1/2/3`.
-- 🟡 **Asignar:** `@RobotImperial`.
-- ⬜ **Por ubicar/crear:** el resto de personajes (Naio×, Gix, Vorthan, Theron, Brog, Nima, Vosk, Korin/Lessa, Cazarrecompensas, Vera/Selka-niña), **todas las naves** y **props**.
-- 🔑 **Las 17 locaciones** se cubren generando su **establishing** (clip marcado) y reusándolo como `@location`.
-- 🔒 **No olvidar:** `@Marek`, `@Parasito`, `@SelkaNiña`, `@NavePalacio` se crean como elementos aparte aunque sean Vorthan — así no se filtra el secreto en el set de referencias.
+- ✅ **Personajes confirmados en Drive (21):** las 3 Stella + `@StellaTeñida`, `@VeraRopa`,
+  `@VeraEncapuchada`, `@Naio`, `@NaioEsclavo`, `@SelkaBebe`, `@SelkaGeneral` (+manca), `@Vorthan`,
+  `@Marek`, `@Parasito`, `@Theron`, `@Nima`, `@Noah`, `@Vosk`, `@S1G1`, `@Piloto1/2/3`.
+- 🟡 **Derivables de una lámina existente (3):** `@VeraArmadura` (de `vera_madre`),
+  `@NaioRescatado` (de `naio_esclavo`), `@SelkaNiña` (de `selka_4_bebe`). + `@RobotImperial` por asignar.
+- ⬜ **Personajes que FALTAN por generar (5):** `@Gix`, `@Brog`, `@Korin`, `@Lessa`, `@CazadorRecompensas`.
+- ⬜ **Aún no en Drive:** **las 6 naves** y **los 11 props** (`@Orbe`, `@LlaveDeLuz`, `@Brazalete`,
+  `@MechaFlores`, `@HojaSelka`, etc.). Las **17 locaciones** se cubren con su **establishing** y se reúsan.
+- 🔒 **No olvidar:** `@Marek` (`marek_rey_infiltrado`), `@Parasito` (`vorthan_real_parasito`) ya existen
+  como láminas aparte de `@Vorthan` (`rey_humano`) — bien hecho, el secreto no se filtra en el set.
 
-> **Prioridad de setup (más recurrentes):** `@Orbe`, `@LlaveDeLuz`, `@Gix`, `@Vorthan`, `@RobotImperial`,
-> las 4 Stella, las 3 Vera, las 3 Selka, `@Theron`, `@Brog`, `@Nima`, `@Noah`, `@NodrizaInterior`, `@ErdiaRuinas`.
+> **Lo más urgente por generar (recurrentes y aún sin lámina):** `@Gix` (sale en los 3 actos),
+> `@Orbe`, `@LlaveDeLuz`, `@Brog`, `@Korin`. Lo demás ya está cubierto o es derivable.
+>
+> **Mapa archivo→@elemento** (sube cada PNG a "Elementos" con el nombre del @tag, sin el @):
+> `stella_14_nina`→StellaRopa · `stella_22_guerrera`→StellaArmadura/PeloCorto ·
+> `stella_adulta_pelo_tenido`→StellaTeñida · `vera_madre`→VeraRopa · `vera_mayor_lider`→VeraEncapuchada ·
+> `naio_cientifico`→Naio · `naio_esclavo`→NaioEsclavo · `selka_4_bebe`→SelkaBebe ·
+> `selka_general`/`selka_manca`→SelkaGeneral · `rey_humano`→Vorthan · `marek_rey_infiltrado`→Marek ·
+> `vorthan_real_parasito`→Parasito · `theron_cazador`→Theron · `nima`→Nima · `noah_humano`→Noah ·
+> `vosk_maton`→Vosk.
