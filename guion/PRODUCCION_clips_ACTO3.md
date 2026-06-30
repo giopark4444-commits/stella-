@@ -1,8 +1,8 @@
 # PRODUCCIÓN · ACTO 3 — DESGLOSE EN CLIPS (sincronizado con los prompts)
-## 78 clips · 転結 TEN·KETSU — EL REGRESO
+## 86 clips · 転結 TEN·KETSU — EL REGRESO
 
-> Mapa derivado **directamente de** `PROMPTS_ACTO3.md` (fuente de verdad). Los **sub-clips** (40A, 50B…) son planos de **acción/cobertura** añadidos, van tras su clip padre.
-> Total: **78 clips** (74 base + 4 sub-clips). Estilo/reglas: `PRODUCCION_setup_visual.md`.
+> Mapa derivado **directamente de** `PROMPTS_ACTO3.md` (fuente de verdad). Sub-clips (40A…) = acción/cobertura.
+> Total: **86 clips** (74 base + 12 sub-clips). Estilo/reglas: `PRODUCCION_setup_visual.md`.
 
 ## 21 — ESCENA: [AÑO 20] El regreso · *(155-164)*
 | # | Clip |
@@ -36,10 +36,12 @@
 | **172A** | cobertura de batalla (acción ×2) — the camera sweeps the battle — ragged naieli charging imperial robots through the grey ruins, banners and energy-light, the fury of a people who waite… |
 | **173** | rescatan a Naio — in the chaos a resistance commando hauls @NaioRescatado clear of the fighting, shielding him toward safety. |
 | **174** | Stella rompe la misión — @StellaTeñida looks up at the high dome of the palace and breaks from her recon mission — her face fixed, unstoppable. |
+| **174A** | arranca la escalada — @StellaTeñida sprints up a slope of rubble and launches onto the sheer palace wall, slamming a handhold and starting to climb as the battle rages far … |
 | **175** | la escalada bajo fuego — @StellaTeñida scales the towering palace alone, energy-fire shattering the stone at her hands, leaping from ledge to ledge toward the highest dome — t… |
 | **175A** | el ascenso final (acción ×2) — a ledge crumbles under @StellaTeñida; |
 | **176** | la figura blanca espera — through the glass dome @StellaTeñida sees the throne hall far below — and a single white figure standing perfectly still at its heart, as if it knew s… |
 | **177** | rompe el cristal — @StellaTeñida slams the @Orbe into the glass dome — it shatters into a slow rain of shards — and she drops through into the throne hall. |
+| **177A** | el cristal estalla (slow-mo) — the glass dome detonates into a slow-spinning storm of shards lit by the @Orbe's flare; |
 | **178** | cae al trono — @StellaTeñida lands hard in a crouch amid the raining glass and rises, glass glittering around her, eyes fixing on the figure ahead. |
 
 ## 24 — ESCENA: El trono / el combate emocional / le arrancan el Orbe · *(179-189)*  · SET-PIECE A7
@@ -48,14 +50,17 @@
 | **179** | las dos hermanas, cara a cara — @StellaTeñida rises to face @SelkaGeneral — the General, 21, white, perfect, cold, grey-blue eyes — two sisters across a throne hall for the first tim… |
 | **180** | "the thief" / desenfunda — @SelkaGeneral ignites her @HojaSelka, unhurried, contemptuous. |
 | **181** | "no vine a pelear" / ataca — @StellaTeñida holds her hands open, refusing the fight; |
+| **181A** | el primer choque de hojas — @SelkaGeneral's @HojaSelka cracks against @StellaTeñida's guard in a shower of sparks; |
 | **182** | el combate (Stella superior, no remata) — @StellaTeñida blocks, parries and redirects — clearly the stronger — and disarms @SelkaGeneral with a spin, the @HojaSelka skittering away; |
 | **182A** | el intercambio brutal (acción ×2) — @SelkaGeneral recovers and they trade a blistering hand-to-hand flurry — Stella absorbing, redirecting, never striking to hurt; |
 | **183** | "¿por qué mataste a nuestra madre?" — @StellaTeñida's question cuts deeper than any blow; |
+| **183A** | la derriba (impacto) — @SelkaGeneral sweeps @StellaTeñida's legs and drives her down; |
 | **184** | EL GESTO (el juego de la luz) — cornered, by pure reflex @StellaTeñida cups her palm — a spark of @Gix dances in it — and lifts it toward @SelkaGeneral's forehead: the light game fro… |
 | **185** | Selka se congela — @SelkaGeneral freezes mid-strike, the blade shaking — her body remembering the safety of that gesture before her mind can understand why. |
 | **186** | la grieta ("¿por qué conozco eso?") — under the General a child surfaces; |
 | **187** | a un latido de despertar — the two are a single heartbeat from waking the sister — and that nearness terrifies @SelkaGeneral more than any blade. |
 | **188** | le arranca el Orbe / coma — terrified of her own feeling, @SelkaGeneral grabs Stella's hand and rips the @Orbe out in a blinding flare (only she can — shared blood); |
+| **188A** | el Orbe se arranca (impacto) — @SelkaGeneral wrenches the @Orbe from @StellaTeñida's palm in a blinding white tear; |
 | **189** | Gix entra al corazón / "la traidora cayó" — a spark of @Gix dives from the @Brazalete into @StellaTeñida's chest, clutching her failing heart; |
 
 ## 25 — ESCENA: El secreto del palacio (es una nave) · *(190-196)*
@@ -90,12 +95,15 @@
 | **208** | forma real: el Parásito — the disguises fall and the @Parasito takes its true form — a colossal ancient creature of stolen light, filling the throne hall, the structure trembli… |
 | **208A** | el Parásito en pleno (acción ×2) — the @Parasito lashes out, columns of light and debris exploding across the hall; |
 | **209** | Selka embiste — newly broken and human again, @SelkaGeneral takes up her @HojaSelka and hurls herself at the @Parasito to cover Stella's rescue — fury and grief fused… |
+| **209A** | Selka esquiva los embates — @SelkaGeneral charges the @Parasito, ducking and rolling under colossal sweeps of light that crater the floor around her, closing the distance with re… |
 | **210** | le secciona el brazo (sin sangre) — the @Parasito, almost without noticing, severs @SelkaGeneral's arm with a sweep of light (cauterized, no blood); |
+| **210A** | Selka cae manca (detalle) — @SelkaGeneral crashes to the floor, the stump of her arm cauterized to a glowing seal (no blood); |
 | **211** | entra Theron / "ahí estás" — a bulkhead blows inward and @Theron strides in — and sees the creature with his own eyes; |
 | **212** | Theron aguanta la línea (acción ×2) — @Theron throws himself at the @Parasito, weaving its colossal strikes, holding the line to buy the others time — a single hunter against a mountain of… |
 | **213** | Brog y Nima entran — @Brog and @Nima charge in through the breach while @Theron holds the monster, racing for the two fallen sisters. |
 | **214** | sacan a Stella y a Selka — @Brog scoops @StellaTeñida (in coma) like a feather; |
 | **215** | "¡las tengo! ¡vámonos!" — @Nima screams for the exit; |
+| **215A** | la sala se derrumba — the throne hall caves in around @Brog, @Nima, @Vosk and the two fallen sisters as they run for the breach, columns of light and falling debris explodi… |
 | **216** | (reservado / salida al cielo) — the group breaks out of the collapsing throne hall toward the grey sky, the @Parasito's roar shaking the structure behind them. |
 
 ## 28 — ESCENA: La huida del monstruo · *(217-221)*
@@ -119,5 +127,5 @@
 | **228** | la brasa late / EL NODO DE ERDIA — inside the tank the ember of @Gix pulses once more — faint, but it pulses; |
 
 ## RESUMEN
-- **Total Acto 3: 78 clips** (74 base + 4 sub-clips de acción/cobertura).
+- **Total Acto 3: 86 clips** (74 base + 12 sub-clips de acción).
 - Sincronizado 1:1 con `PROMPTS_ACTO3.md`.

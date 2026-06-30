@@ -1,5 +1,5 @@
 # PROMPTS · ACTO 3 — Stella Fugaz "El Nodo de Erdia" (P1)
-## 83 clips (155-228 + sub-clips de acción) · Seedance 2.0 · 15s · 21:9
+## 86 clips (74 base 155-228 + 12 sub-clips de acción) · Seedance 2.0 · 15s · 21:9
 
 > Mismo sistema (`PROMPTS_ACTO1/2.md`): English, @menciones, Setting exquisito, Action al detalle,
 > **grey-blue eyes** (Vera/Selka), **MODO ACCIÓN** + **acción ×2** (A6 asalto, A7 trono, A8 Parásito).
@@ -296,6 +296,19 @@
 - **Audio:** SFX only — battle behind, her breath. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 174A — arranca la escalada
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; lush, detailed, painterly background. 
+- **Characters:** @StellaTeñida.
+- **Shot/lens:** she sprints up the rubble and leaps onto the palace wall.
+- **Camera:** fast low track, then a vertiginous tilt up as she leaps.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** grey, energy-fire below.
+- **Action:** @StellaTeñida sprints up a slope of rubble and launches onto the sheer palace wall, slamming a handhold and starting to climb as the battle rages far beneath her boots.
+- **Mood:** explosive drive.
+- **Audio:** SFX only — running, a hard impact on stone, distant fire. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 175 — la escalada bajo fuego
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; lush, detailed, painterly background. The towering palace façade.
@@ -346,6 +359,19 @@
 - **Mood:** the plunge into the climax.
 - **Audio:** SFX only — a surge, glass shattering, rushing air. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 177A — el cristal estalla (slow-mo)
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
+- **Characters:** @StellaTeñida. **Props:** @Orbe.
+- **Shot/lens:** extreme detail of the dome shattering, shards spinning in light.
+- **Camera:** slow-motion through the breaking glass with her.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** the @Orbe flare refracting through a thousand shards.
+- **Action:** the glass dome detonates into a slow-spinning storm of shards lit by the @Orbe's flare; @StellaTeñida plunges through the center of it, glass blooming outward around her like a halo.
+- **Mood:** spectacular plunge.
+- **Audio:** SFX only — a glass detonation, ringing shards, rushing air. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 178 — cae al trono
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -403,6 +429,19 @@
 - **Audio:** SFX only — a blade swing, her dodge. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 181A — el primer choque de hojas
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
+- **Characters:** @StellaTeñida, @SelkaGeneral (grey-blue eyes). **Props:** @HojaSelka.
+- **Shot/lens:** first blade clash; they lock and spring apart.
+- **Camera:** snap-zoom on the clash, sparks.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** cold hall, blade-light flaring on contact.
+- **Action:** @SelkaGeneral's @HojaSelka cracks against @StellaTeñida's guard in a shower of sparks; they lock for a heartbeat, faces inches apart, then spring apart — the duel exploding into motion.
+- **Mood:** kinetic ignition.
+- **Audio:** SFX only — a hard blade clash, sparks, two breaths. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 182 — el combate (Stella superior, no remata)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
@@ -442,6 +481,19 @@
 - **Mood:** gut-wound.
 - **Audio:** SFX only — a hard takedown, her gasp. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 183A — la derriba (impacto)
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
+- **Characters:** @SelkaGeneral (grey-blue eyes), @StellaTeñida.
+- **Shot/lens:** Selka's takedown; Stella hits the floor hard.
+- **Camera:** impact frame as Stella slams down, the blade rising.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** cold, a brutal flash.
+- **Action:** @SelkaGeneral sweeps @StellaTeñida's legs and drives her down; Stella hits the marble hard, the wind knocked out of her, @SelkaGeneral's blade already rising over her.
+- **Mood:** brutal, breathless.
+- **Audio:** SFX only — a leg-sweep, a heavy body-slam, a gasp. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 184 — EL GESTO (el juego de la luz)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -504,6 +556,19 @@
 - **Mood:** catastrophe.
 - **Audio:** SFX only — a tearing surge, a body falling. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 188A — el Orbe se arranca (impacto)
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
+- **Characters:** @SelkaGeneral (grey-blue eyes), @StellaTeñida. **Props:** @Orbe, @LlaveDeLuz.
+- **Shot/lens:** the Orb tears free in a blinding flare; Stella's body arcs.
+- **Camera:** slow-mo + impact frame on the tear, then a hard whip.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** a blinding white flare exploding from the palm.
+- **Action:** @SelkaGeneral wrenches the @Orbe from @StellaTeñida's palm in a blinding white tear; Stella's body arcs and convulses as the light rips out of her — no blood, only a soul-deep wrench of light leaving a body.
+- **Mood:** catastrophic.
+- **Audio:** SFX only — a tearing surge, a white-out crack, a body dropping. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 189 — Gix entra al corazón / "la traidora cayó"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -791,6 +856,19 @@
 - **Audio:** SFX only — her war-cry, the charge. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
 
+### CLIP 209A — Selka esquiva los embates
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
+- **Characters:** @SelkaGeneral (grey-blue eyes), @Parasito. **Props:** @HojaSelka.
+- **Shot/lens:** she weaves the colossal limbs as she charges in.
+- **Camera:** vertiginous, the giant's strikes filling frame.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** wild stolen-light, her blade a thread against it.
+- **Action:** @SelkaGeneral charges the @Parasito, ducking and rolling under colossal sweeps of light that crater the floor around her, closing the distance with reckless fury, her @HojaSelka raised.
+- **Mood:** reckless courage.
+- **Audio:** SFX only — colossal impacts, her sprint, a war-cry. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
+
 ### CLIP 210 — le secciona el brazo (sin sangre)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
@@ -803,6 +881,19 @@
 - **Mood:** sacrifice.
 - **Audio:** SFX only — a searing strike, a hard fall, her cry. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 210A — Selka cae manca (detalle)
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
+- **Characters:** @SelkaGeneral (grey-blue eyes).
+- **Shot/lens:** detail of the cauterized stump glowing; she crashes down.
+- **Camera:** the camera drops with her, impact frame. Cauterized by light, no blood.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** the wound sealed in glowing, no blood.
+- **Action:** @SelkaGeneral crashes to the floor, the stump of her arm cauterized to a glowing seal (no blood); her face twists in pain and then, beneath it, fierce relief — she bought the seconds.
+- **Mood:** sacrifice landing.
+- **Audio:** SFX only — a hard fall, a sharp cry, the roar above. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 211 — entra Theron / "ahí estás"
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -869,6 +960,19 @@
 - **Mood:** the line breaking, escape.
 - **Audio:** SFX only — her shout, collapsing structure, the roar. No music.
 - **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.
+
+### CLIP 215A — la sala se derrumba
+- **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background. 
+- **Characters:** @Brog, @Nima, @StellaTeñida (coma), @SelkaGeneral (manca, grey-blue eyes), @Vosk. **Props:** @Parasito.
+- **Shot/lens:** the hall collapses around them as they flee.
+- **Camera:** running handheld, debris and light raining.
+- **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
+- **Light:** collapsing structure, the monster blazing behind.
+- **Action:** the throne hall caves in around @Brog, @Nima, @Vosk and the two fallen sisters as they run for the breach, columns of light and falling debris exploding behind them, the @Parasito's roar shaking everything.
+- **Mood:** chaotic flight.
+- **Audio:** SFX only — collapsing structure, running, a deafening roar. No music.
+- **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
 
 ### CLIP 216 — (reservado / salida al cielo)
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
@@ -1043,7 +1147,7 @@
 ---
 
 ## RESUMEN ACTO 3
-- **78 prompts** = 74 base (155-228) + 4 sub-clips de acción (172A, 175A, 182A, 208A) en A6/A7/A8.
-- *Nota:* el clímax ya es denso en acción de base (asalto, trono, Parásito), por eso el doblaje fue más ligero que en A1-A2. Ampliable si se quiere más vértigo.
+- **86 prompts** = 74 base (155-228) + 12 sub-clips de acción en A6/A7/A8 (172A, 174A, 175A, 177A, 181A, 182A, 183A, 188A, 208A, 209A, 210A, 215A).
+- Acción del clímax **doblada** (asalto/escalada, duelo del trono, el Parásito) — vertiginosa y visceral como A1-A2.
 - 🔒 Revelación de Vorthan solo en SEC 26. @StellaTeñida · @SelkaGeneral/@SelkaNiña **grey-blue eyes** · @NavePalacio.
 - **Película 1 completa:** Acto 1 (105) + Acto 2 (86) + Acto 3 (78) = **269 prompts ≈ 58-64 min.**

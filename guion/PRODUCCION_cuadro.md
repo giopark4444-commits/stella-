@@ -12,8 +12,8 @@
 |---|---|---|---|---|
 | **1** · Erdia / la huida | SEC 1-9 (9) | **105** (88 + 17 acción) | ✅ **Escritos** (enriquecidos + MODO ACCIÓN) | ~22-24 min |
 | **2** · Exilio / muerte de Vera | SEC 10-20 (11) | **86** (70 + 16 cobertura/acción) | ✅ **Escritos** (densidad recom. + acción ×2) | ~21-23 min |
-| **3** · Regreso / trono / final | SEC 21-29 (9) | **78** (74 + 4 acción) | ✅ **Escritos** (clímax denso de base) | ~19-21 min |
-| **TOTAL P1** | **29** | **269 prompts** | ✅ **Los 3 actos escritos** | **~58-64 min** |
+| **3** · Regreso / trono / final | SEC 21-29 (9) | **86** (74 + 12 acción) | ✅ **Escritos** (acción ×2) | ~22-24 min |
+| **TOTAL P1** | **29** | **277 prompts** | ✅ **Los 3 actos escritos** | **~62-68 min** |
 
 - **Set-pieces de acción:** 8 (A1-A8), coreografiados en `SECUENCIAS_ACCION.md`.
 - **Regla:** las escenas de acción duran **al menos el doble** — se desglosan en sub-clips (40A, 50B…).
