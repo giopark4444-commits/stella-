@@ -17,17 +17,17 @@
 | @tag | Quién | Actos | Estado |
 |---|---|---|---|
 | `@StellaRopa` | Stella 14, ropa civil + trenza, ámbar | A1 | ✅ `stella_14_nina` |
-| `@StellaArmadura` | Stella, armadura "04" + trenza | A1 | ✅ `stella_22_guerrera` |
-| `@StellaPeloCorto` | Stella, armadura + pelo corto (tras el corte) | A1·A2 | ✅ `stella_22_guerrera` (recorte) |
+| `@StellaArmadura` | Stella (14), armadura "04" blanca+naranja, **trenza** blanca, ojos ámbar | A1 | ✅ lámina turnaround 04 recibida |
+| `@StellaPeloCorto` | Stella, armadura "04" + **pelo corto** (tras el corte), ojos ámbar | A1·A2 | ✅ lámina turnaround 04 pelo corto recibida |
 | `@StellaTeñida` | Stella ~19, pelo teñido oscuro, traje nuevo | A3 | ✅ `stella_adulta_pelo_tenido` |
 | `@VeraRopa` | madre en túnicas (pasea con Stella), gris-azul | A1 | ✅ `vera_madre` |
 | `@VeraArmadura` | madre en armadura (escapa con Stella), gris-azul | A1 | 🟡 derivar de `vera_madre` (no hay lámina en armadura) |
 | `@VeraEncapuchada` | Vera resistencia, encapuchada, gris-azul | A2·A3 | ✅ `vera_mayor_lider` |
-| `@Naio` | padre científico | A1 | ✅ `naio_cientifico` |
+| `@Naio` | padre científico; bata blanca/costuras doradas, gafas redondas, pelo+barba blancos, guante holográfico; **creador de @Gix** | A1 | ✅ `naio_cientifico` (lámina recibida) |
 | `@NaioEsclavo` | Naio anciano, esclavo de minas | A2 | ✅ `naio_esclavo` |
 | `@NaioRescatado` | Naio anciano, liberado | A3 | 🟡 derivar de `naio_esclavo` |
 | `@SelkaBebe` | bebé, mechón blanco, gris-azul | A1 | ✅ `selka_4_bebe` |
-| `@SelkaGeneral` | la General (21), armadura blanca, gris-azul, cicatriz ojo izq.; luego manca | A2·A3 | ✅ `selka_general` + `selka_manca` |
+| `@SelkaGeneral` | la General (21), armadura blanca/dorada, gris-azul, cicatriz ojo izq.; luego manca | A2·A3 | ✅ `selka_general` + `selka_manca` · ⚠️ añadir cicatriz a la lámina |
 | `@SelkaNiña` 🔒 | Selka de niña (forma del "Fui yo"), gris-azul | A3 | 🟡 derivar de `selka_4_bebe` |
 | `@Gix` | axolotl-espíritu de agua y luz (azul-luzagua + dorado, con cara) | A1·A2·A3 | ✅ `gix` (lámina recibida) |
 | `@Vorthan` | el Rey | A1·A2·A3 | ✅ `rey_humano` |
@@ -45,6 +45,9 @@
 | `@Lessa` | leal de Vera | A2 | ⬜ **falta — generar** |
 | `@Piloto1` | piloto de la radio (con cara), no pelo blanco | A1 | ✅ (casting sheet) |
 | `@Piloto2` / `@Piloto3` | pilotos aliados, no pelo blanco | A1 | ✅ (casting sheet) |
+
+> **Láminas recibidas (turnarounds 2026-06-30):** `@StellaArmadura`/`@StellaPeloCorto` (armadura 04), `@SelkaGeneral` (general), `@Naio` (científico c/ @Gix), `@Noah`, `@Gix` (axolotl), `@Parasito` (coloso).
+> **Lámina EXTRA:** *Selka adolescente / cadete imperial* (uniforme blanco-oro, moño, gris-azul, cicatriz ojo izq.). Úsala como base de `@SelkaGeneral`, o pídeme un tag `@SelkaCadete` si quieres un **flashback** (aún no está en los prompts).
 
 ## 🚀 NAVES / VEHÍCULOS (6)
 | @tag | Qué | Actos | Estado |
