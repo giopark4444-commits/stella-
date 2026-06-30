@@ -43,8 +43,8 @@
 | `@Vosk` | matón → leal | A2·A3 | ✅ `vosk_maton` |
 | `@Korin` | leal de Vera | A2·A3 | ⬜ **falta — generar** |
 | `@Lessa` | leal de Vera | A2 | ⬜ **falta — generar** |
-| `@Piloto1` | piloto de la radio (con cara), no pelo blanco | A1 | ✅ (casting sheet) |
-| `@Piloto2` / `@Piloto3` | pilotos aliados, no pelo blanco | A1 | ✅ (casting sheet) |
+| `@Piloto1` | piloto de la radio (con cara), **capturado** (jaulas), no pelo blanco | A1 | ✅ (casting sheet) |
+| `@Piloto2` / `@Piloto3` | pilotos aliados **capturados** (jaulas), no pelo blanco | A1 | ✅ (casting sheet) |
 
 > **Láminas recibidas (turnarounds 2026-06-30):** `@StellaArmadura`/`@StellaPeloCorto` (armadura 04), `@SelkaGeneral` (general), `@Naio` (científico c/ @Gix), `@Noah`, `@Gix` (axolotl), `@Parasito` (coloso).
 > **Lámina EXTRA:** *Selka adolescente / cadete imperial* (uniforme blanco-oro, moño, gris-azul, cicatriz ojo izq.). Úsala como base de `@SelkaGeneral`, o pídeme un tag `@SelkaCadete` si quieres un **flashback** (aún no está en los prompts).

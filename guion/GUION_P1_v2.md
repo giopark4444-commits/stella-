@@ -374,7 +374,7 @@ Ve lejos. Hazte fuerte. Y vuelve algún día a salvarnos.
 *(beat)*
 Te vamos a estar esperando.
 
-Una a una, las naves aliadas se interponen y revientan, abriéndole camino al espacio abierto. Stella las ve morir por ella en el retrovisor.
+Una a una, las naves aliadas se interponen y **revientan**, abriéndole camino al espacio abierto. La mayoría **muere** por ella. Pero **tres** son derribadas sin estallar —forzadas, no destruidas— y la flota imperial **captura vivos a sus tres pilotos.** Stella lo ve todo en el retrovisor: a los que mueren, y a los tres que se llevan presos.
 
 Y sale. Al vacío. Sola.
 
@@ -416,7 +416,7 @@ Murmullo de horror en la plaza.
 **VORTHAN (CONT.)**
 Sin él, la luz se irá. El agua se irá. Y nuestro planeta… empezará a morir.
 
-Detrás de él, exhibidos en jaulas, los **ALIADOS** que salvaron a Stella —presos, vencidos.
+Detrás de él, exhibidos en jaulas, los **TRES PILOTOS** que salvaron a Stella —presos, vencidos. (Los demás aliados murieron abriéndole el cielo.)
 
 **VORTHAN (CONT.)**
 ¿Y quién nos ha condenado a esto? Una de los nuestros.
