@@ -3,81 +3,87 @@
 #  STELLA FUGAZ · "El Nodo de Erdia"
 #  Crea en tu ESCRITORIO toda la estructura de carpetas para
 #  archivar las referencias de la película.
+#  v2: los nombres de personaje/nave/locación/prop llevan la @
+#      tal cual el prompt, y hay una carpeta 09_STORYBOARDS.
 #  → Doble clic para ejecutar (Mac). Si no abre: clic derecho →
 #    Abrir. O en Terminal:  bash CREAR_estructura_Stella.command
 # ============================================================
 set -e
 BASE="$HOME/Desktop/Stella_Fugaz_Referencias"
 echo "Creando estructura en: $BASE"
-
 mk() { mkdir -p "$BASE/$1"; }
+
+PERS="@StellaRopa @StellaArmadura @StellaPeloCorto @StellaTeñida @VeraRopa @VeraArmadura @VeraEncapuchada @Naio @NaioEsclavo @NaioRescatado @SelkaBebe @SelkaCadete @SelkaGeneral @SelkaNiña @Gix @Vorthan @Marek @Parasito @Theron @Brog @Nima @Noah @Vosk @Korin @Lessa @Piloto1 @Piloto2 @Piloto3 @S1G1 @RobotImperial @CazadorRecompensas"
+NAVES="@NaveStella @NaveImperial @NaveAliada @NaveNodriza @NaveEsclavista @NavePalacio"
+LOC1="@Erdia @CiudadDorada @ParqueLuzagua @Laboratorio @PasillosPalacio @SalaDelOrbe @PlazaPalacio @EspacioErdia"
+LOC2="@NodrizaInterior @PlanetaChatarra @FosaApuestas @PlanetaCometas @MinasNiebla @RefugioResistencia @AposentosGeneral"
+LOC3="@ErdiaRuinas @SalaTrono"
+PROPS="@Orbe @LlaveDeLuz @Brazalete @MonitorMAX @CuchilloLaser @MechaFlores @CollarControl @Proyector @TrajeNuevo @HojaSelka @TanqueSoporte"
 
 # ---------- 00 · Estilo y setup ----------
 mk "00_ESTILO_Y_SETUP/Paletas"
 mk "00_ESTILO_Y_SETUP/House_Style_SatoshiKon_Ghibli"
 mk "00_ESTILO_Y_SETUP/Keyframes_arranque"
 
-# ---------- 01 · Personajes (nombre de carpeta = @elemento) ----------
-for d in StellaRopa StellaArmadura StellaPeloCorto StellaTeñida; do mk "01_PERSONAJES/Stella/$d"; done
-for d in VeraRopa VeraArmadura VeraEncapuchada; do mk "01_PERSONAJES/Vera/$d"; done
-for d in Naio NaioEsclavo NaioRescatado; do mk "01_PERSONAJES/Naio/$d"; done
-for d in SelkaBebe SelkaCadete SelkaGeneral SelkaNiña_🔒; do mk "01_PERSONAJES/Selka/$d"; done
-mk "01_PERSONAJES/Gix"
-for d in Vorthan Marek_🔒 Parasito_🔒; do mk "01_PERSONAJES/Vorthan_SECRETO/$d"; done
-for d in Theron Brog Nima Noah Vosk; do mk "01_PERSONAJES/Tripulacion_Theron/$d"; done
-for d in Korin Lessa Piloto1 Piloto2 Piloto3; do mk "01_PERSONAJES/Resistencia/$d"; done
-for d in S1G1 RobotImperial CazadorRecompensas; do mk "01_PERSONAJES/Enemigos/$d"; done
+# ---------- 01 · Personajes (nombre = @tag del prompt) ----------
+for d in $PERS; do mk "01_PERSONAJES/$d"; done
 
 # ---------- 02 · Naves ----------
-for d in NaveStella NaveImperial NaveAliada NaveNodriza NaveEsclavista NavePalacio_🔒; do mk "02_NAVES/$d"; done
+for d in $NAVES; do mk "02_NAVES/$d"; done
 
 # ---------- 03 · Locaciones (por acto) ----------
-for d in Erdia CiudadDorada ParqueLuzagua Laboratorio PasillosPalacio SalaDelOrbe PlazaPalacio EspacioErdia; do mk "03_LOCACIONES/Acto1/$d"; done
-for d in NodrizaInterior PlanetaChatarra FosaApuestas PlanetaCometas MinasNiebla RefugioResistencia AposentosGeneral; do mk "03_LOCACIONES/Acto2/$d"; done
-for d in ErdiaRuinas SalaTrono; do mk "03_LOCACIONES/Acto3/$d"; done
+for d in $LOC1; do mk "03_LOCACIONES/Acto1/$d"; done
+for d in $LOC2; do mk "03_LOCACIONES/Acto2/$d"; done
+for d in $LOC3; do mk "03_LOCACIONES/Acto3/$d"; done
 
 # ---------- 04 · Props / objetos ----------
-for d in Orbe LlaveDeLuz Brazalete MonitorMAX CuchilloLaser MechaFlores CollarControl Proyector TrajeNuevo HojaSelka TanqueSoporte; do mk "04_PROPS/$d"; done
+for d in $PROPS; do mk "04_PROPS/$d"; done
 
-# ---------- 05 · Keyframes por acto ----------
-for a in Acto1 Acto2 Acto3; do mk "05_KEYFRAMES/$a"; done
-
-# ---------- 06 · Generaciones RAW (borradores / historial) ----------
-for a in Acto1 Acto2 Acto3; do mk "06_GENERACIONES_RAW/$a"; done
+# ---------- 05 / 06 / 08 · Keyframes, RAW, exports (por acto) ----------
+for a in Acto1 Acto2 Acto3; do mk "05_KEYFRAMES/$a"; mk "06_GENERACIONES_RAW/$a"; mk "08_EXPORTS_CLIPS_FINALES/$a"; done
 
 # ---------- 07 · Audio / SFX ----------
 mk "07_AUDIO_SFX"
 
-# ---------- 08 · Exports finales de clips (video 15s) ----------
-for a in Acto1 Acto2 Acto3; do mk "08_EXPORTS_CLIPS_FINALES/$a"; done
+# ---------- 09 · STORYBOARDS (nuevo) ----------
+for a in Acto1 Acto2 Acto3; do mk "09_STORYBOARDS/$a"; done
+mk "09_STORYBOARDS/_prompts_por_toma"
 
 # ---------- LÉEME ----------
 cat > "$BASE/_LEEME.txt" <<'TXT'
-STELLA FUGAZ · "El Nodo de Erdia" — Carpeta de referencias
-==========================================================
+STELLA FUGAZ · "El Nodo de Erdia" — Carpeta de referencias (v2, con @)
+======================================================================
 
-REGLA DE ORO: el nombre de cada carpeta de personaje/nave/locación/prop
-es EXACTAMENTE el nombre del @elemento. Cuando subas la lámina a
-Higgsfield → Elementos, guárdala con ese mismo nombre (sin el @) y los
-prompts la autoconectan.
+CAMBIO EN ESTA VERSIÓN:
+- Las carpetas de personaje/nave/locación/prop se llaman EXACTAMENTE como el
+  tag del prompt, CON la @ (ej. @StellaRopa, @SalaDelOrbe, @Orbe).
+- Nueva carpeta 09_STORYBOARDS para los cuadros del storyboard.
+
+OJO al subir a Higgsfield → Elementos:
+  El nombre del ELEMENTO en Higgsfield va SIN la @ (el prompt escribe @StellaRopa,
+  pero el elemento se llama "StellaRopa"). La carpeta lleva la @ solo para que
+  la reconozcas de un vistazo; al subir, quita la @.
 
 Qué va en cada sitio:
-- 00_ESTILO_Y_SETUP  → paletas, referencias de estilo (Satoshi Kon + Ghibli), keyframes de arranque.
-- 01_PERSONAJES      → una carpeta por versión del personaje (ej. Stella tiene 4).
-- 02_NAVES           → cada nave.
-- 03_LOCACIONES      → establishing de cada locación, ordenadas por acto.
-- 04_PROPS           → objetos (Orbe, Brazalete, HojaSelka, etc.).
+- 00_ESTILO_Y_SETUP  → paletas, estilo (Satoshi Kon + Ghibli), keyframes de arranque.
+- 01_PERSONAJES      → una carpeta por @personaje.
+- 02_NAVES           → una por @nave.
+- 03_LOCACIONES      → @locaciones, ordenadas por acto.
+- 04_PROPS           → @objetos (@Orbe, @Brazalete, @HojaSelka, etc.).
 - 05_KEYFRAMES       → fotogramas clave por acto.
-- 06_GENERACIONES_RAW→ borradores/versiones que vas generando (el "historial").
+- 06_GENERACIONES_RAW→ borradores/versiones (historial).
 - 07_AUDIO_SFX       → efectos de sonido (la peli es SFX only, sin música).
-- 08_EXPORTS_CLIPS_FINALES → los videos finales de 15s, por acto.
+- 08_EXPORTS_CLIPS_FINALES → videos finales de 15s, por acto.
+- 09_STORYBOARDS     → los cuadros del storyboard, por acto (+ _prompts_por_toma).
 
-🔒 = SECRETO de trama (Marek, Parásito, SelkaNiña, NavePalacio son Vorthan).
-Guárdalos como elementos aparte para no spoilear el giro.
+SECRETOS DE TRAMA (guárdalos aparte para no spoilear el giro):
+  @Marek, @Parasito, @SelkaNiña y @NavePalacio son en realidad la misma
+  entidad: Vorthan.
 
-Total: 63 @elementos (29 personajes · 6 naves · 17 locaciones · 11 props).
-Consejo: dentro de cada carpeta de personaje puedes tener subcarpetas
-"01_final", "02_variantes", "03_descartes" si quieres ordenar versiones.
+Canon de ojos: ÁMBAR → @Stella* y @Naio*.  GRIS-AZUL → @Vera* y @Selka*.
+Pelo blanco = voto de la familia.
+
+Total: 65 @elementos (31 personajes · 6 naves · 17 locaciones · 11 props).
 TXT
 
 echo ""
