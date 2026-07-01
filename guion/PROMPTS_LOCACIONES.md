@@ -11,7 +11,7 @@
 
 ### @ErdiaSuperficieViva — la superficie viva con la pequeña grieta (INTRO)
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** Erdia's living surface in a wide establishing view: a lush, green, healthy Studio-Ghibli landscape — rolling emerald hills, forests and bright meadows under a clear blue sky, everything vivid and alive — with ONE small, dark, ominous crack fracturing the ground in the middle distance: a tiny wound in an otherwise thriving world.
+- **Location:** Make a location sheet of Erdia's living surface in a wide establishing view: a lush, green, healthy Studio-Ghibli landscape — rolling emerald hills, forests and bright meadows under a clear blue sky, everything vivid and alive — with ONE small, dark, ominous crack fracturing the ground in the middle distance: a tiny wound in an otherwise thriving world.
 - **Key elements:** a wide healthy green landscape (hills, forests, meadows, a thread of glowing water), a clear bright sky, and a single SMALL dark fissure in the earth as the only wrong note; the surface looks alive, only the little crack looks sick.
 - **Light & atmosphere:** bright warm healthy daylight, idyllic and alive, with the faintest unease radiating from the small dark crack.
 - **Palette:** vivid emerald green, warm sunlight, bright blue sky — and one slash of ominous dark.
@@ -20,7 +20,7 @@
 
 ### @CorazonMuerto — el corazón muerto y hueco del planeta (INTRO)
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** an immense cavernous void at the very center of the planet — a colossal empty black chamber the size of a buried cathedral-city, shown in a wide interior vista with faint distant rock walls curving away on every side; utterly empty, lightless, silent, where a world's heart should be beating and nothing does.
+- **Location:** Make a location sheet of an immense cavernous void at the very center of the planet — a colossal empty black chamber the size of a buried cathedral-city, shown in a wide interior vista with faint distant rock walls curving away on every side; utterly empty, lightless, silent, where a world's heart should be beating and nothing does.
 - **Key elements:** a huge hollow cavern shown wide, faint distant curving rock walls receding on all sides, a vast empty black space with no floor visible far below, overwhelming scale and emptiness, near-total darkness (a giant chamber, not a small hole).
 - **Light & atmosphere:** near-total darkness, only the faintest cold edge-light grazing distant rock; dead, absolute silence.
 - **Palette:** black, deep charcoal, the faintest cold grey.
@@ -29,7 +29,7 @@
 
 ### @Erdia — el mundo vivo desde la órbita
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a luminous living planet seen from orbit, wrapped in soft golden cloud; continents veined with glowing rivers of light, oceans catching the dawn like molten glass; the whole world breathing with quiet light against the black of space.
+- **Location:** Make a location sheet of a luminous living planet seen from orbit, wrapped in soft golden cloud; continents veined with glowing rivers of light, oceans catching the dawn like molten glass; the whole world breathing with quiet light against the black of space.
 - **Key elements:** swirling gold cloud-bands, rivers of light threading the continents, seas like molten glass, a soft glowing terminator line where dawn meets night, faint city-light on the dark side, scattered cold stars.
 - **Light & atmosphere:** warm cosmic dawn rimming the planet's edge in gold; serene, sacred, impossibly alive.
 - **Palette:** warm gold, honey, soft white, deep space black.
@@ -38,7 +38,7 @@
 
 ### @CiudadDorada — la metrópoli de miel y luzagua
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a golden naiel metropolis of warm honey-stone and airy terraces, threaded by canals of "luzagua" — water-and-light that glows softly as it flows; graceful bridges, hanging gardens, wide open plazas, tiered rooftops.
+- **Location:** Make a location sheet of a golden naiel metropolis of warm honey-stone and airy terraces, threaded by canals of "luzagua" — water-and-light that glows softly as it flows; graceful bridges, hanging gardens, wide open plazas, tiered rooftops.
 - **Key elements:** honey-stone architecture, glowing luzagua canals and waterfalls, arched bridges, cascading hanging gardens, terraced levels climbing into a bright sky.
 - **Light & atmosphere:** late-afternoon sunlight pooling like syrup, warm and golden, gentle haze between the towers.
 - **Palette:** honey gold, warm cream, luminous aqua-gold water, soft green foliage.
@@ -47,7 +47,7 @@
 
 ### @ParqueLuzagua — el parque del río de luz
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a vast emerald park where a glowing luzagua river winds through the grass; wildflowers, ancient broad trees, drifting pollen in the light — and in the distance, a colossal flower-covered war-mecha kneeling for good, overgrown with vines and blossoms.
+- **Location:** Make a location sheet of a vast emerald park where a glowing luzagua river winds through the grass; wildflowers, ancient broad trees, drifting pollen in the light — and in the distance, a colossal flower-covered war-mecha kneeling for good, overgrown with vines and blossoms.
 - **Key elements:** a winding river of glowing water-light, meadows of wildflowers, huge old trees, floating pollen motes, a giant moss-and-flower-covered kneeling war-mecha half-swallowed by the garden on the horizon.
 - **Light & atmosphere:** bright open midday, dappled sun through leaves, golden pollen shimmering in the air.
 - **Palette:** emerald green, glowing aqua-gold river, wildflower pastels, warm sunlight.
@@ -56,7 +56,7 @@
 
 ### @Laboratorio — el laboratorio de Naio (dentro del palacio)
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** Naio's laboratory inside the imperial palace: cool, clean and hushed; pale curved organic-tech surfaces and floating holographic data displays; the warm world shut outside, replaced by clinical blue-white light.
+- **Location:** Make a location sheet of Naio's laboratory inside the imperial palace: cool, clean and hushed; pale curved organic-tech surfaces and floating holographic data displays; the warm world shut outside, replaced by clinical blue-white light.
 - **Key elements:** smooth pale curved walls and consoles, floating holographic charts and data, a hovering cradle/bassinet, soft tech light-lines, one shuttered window holding back the golden day.
 - **Light & atmosphere:** clinical blue-white glow, quiet and still, faint hum of technology.
 - **Palette:** cool white, pale grey-blue, soft cyan holograms, thin gold seams.
@@ -65,7 +65,7 @@
 
 ### @PasillosPalacio — los pasillos del palacio en alarma
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** tall ornate palace corridors of gold and pale stone, hung with banners and framed by arches — now strobed by red alert light and cut with long running shadows; beauty turned into a trap.
+- **Location:** Make a location sheet of tall ornate palace corridors of gold and pale stone, hung with banners and framed by arches — now strobed by red alert light and cut with long running shadows; beauty turned into a trap.
 - **Key elements:** high vaulted corridors, gold trim and pale stone, long banners, repeating arches, pulsing red alert lighting, deep raking shadows, a sense of depth down the hall.
 - **Light & atmosphere:** emergency red light strobing over warm gold, tense and disorienting.
 - **Palette:** gold and cream stone bruised by alarm-red and deep shadow.
@@ -74,7 +74,7 @@
 
 ### @SalaDelOrbe — la cámara del Orbe
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a cathedral-scale chamber of pale luminous stone whose ceiling dissolves into golden haze; concentric naiel arches veined with living luzagua, a polished obsidian-gold floor that mirrors the light, thin waterfalls of light running down the columns, and at the very center a suspended sphere of pure luzagua light pulsing like a heart.
+- **Location:** Make a location sheet of a cathedral-scale chamber of pale luminous stone whose ceiling dissolves into golden haze; concentric naiel arches veined with living luzagua, a polished obsidian-gold floor that mirrors the light, thin waterfalls of light running down the columns, and at the very center a suspended sphere of pure luzagua light pulsing like a heart.
 - **Key elements:** cathedral scale, concentric glowing arches, living luzagua veins in the stone, mirror-polished dark-gold floor, thin light-waterfalls on the columns, a central suspended glowing sphere, god-rays full of luminous pollen.
 - **Light & atmosphere:** sacred, radiant, warm gold light bleeding into haze; reverent and immense.
 - **Palette:** pale luminous stone, deep obsidian-gold floor, glowing aqua-gold light.
@@ -83,7 +83,7 @@
 
 ### @PlazaPalacio — la gran plaza del palacio
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** the great palace plaza beneath a still-blue sky; a vast paved public square framed by terraces and long banners, a high royal balcony overlooking it all; grand, ceremonial, built to hold a multitude.
+- **Location:** Make a location sheet of the great palace plaza beneath a still-blue sky; a vast paved public square framed by terraces and long banners, a high royal balcony overlooking it all; grand, ceremonial, built to hold a multitude.
 - **Key elements:** immense paved plaza, tiered stone terraces, tall hanging banners, a high balcony on the palace facade, ceremonial scale and symmetry.
 - **Light & atmosphere:** clear pale-blue daylight, calm and open — grand and public.
 - **Palette:** honey stone, blue sky, imperial gold-and-dark banners.
@@ -92,7 +92,7 @@
 
 ### @EspacioErdia — el vacío del espacio sobre Erdia
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** the silent void of deep space; the sick golden planet Erdia small and distant against a field of cold scattered stars; pure emptiness and distance.
+- **Location:** Make a location sheet of the silent void of deep space; the sick golden planet Erdia small and distant against a field of cold scattered stars; pure emptiness and distance.
 - **Key elements:** black star-field, the small distant golden planet, subtle nebular haze, absolute emptiness around it.
 - **Light & atmosphere:** faint gold planet-glow against cold starlight; silent, vast, lonely.
 - **Palette:** deep black, cold white stars, a small warm gold planet.
@@ -101,7 +101,7 @@
 
 ### @CabinaStella — el interior de la nave de Stella
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** the cramped single-seat cockpit interior of Vera's small escape ship: a curved canopy of glass over a compact naiel dashboard of soft-glowing controls and dials; a worn pilot seat, a wide starfield beyond the canopy; intimate, enclosing, a little fragile.
+- **Location:** Make a location sheet of the cramped single-seat cockpit interior of Vera's small escape ship: a curved canopy of glass over a compact naiel dashboard of soft-glowing controls and dials; a worn pilot seat, a wide starfield beyond the canopy; intimate, enclosing, a little fragile.
 - **Key elements:** curved glass canopy, compact glowing control panel and switches, a single worn seat, a small wrist-charge readout, warm indicator lights, the void of space outside the glass.
 - **Light & atmosphere:** soft glow of instrument lights on curved surfaces, cold starlight from the canopy; quiet, tight, lonely.
 - **Palette:** warm amber instrument glow, pale cockpit interior, cold space-black beyond.
@@ -110,7 +110,7 @@
 
 ### @CieloCiudadDorada — el cielo de la persecución sobre la ciudad
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** the open sky above the golden metropolis at the moment of the chase: honey-stone towers and light-bridges below, a warm hazy horizon — and on it, an imperial fleet of dark angular warships rising like a wall against the gold.
+- **Location:** Make a location sheet of the open sky above the golden metropolis at the moment of the chase: honey-stone towers and light-bridges below, a warm hazy horizon — and on it, an imperial fleet of dark angular warships rising like a wall against the gold.
 - **Key elements:** towering honey-stone spires and glowing bridges seen from the air, deep aerial perspective between the towers, a distant dark imperial fleet massing on the horizon, wisps of cloud, streaks of light.
 - **Light & atmosphere:** warm golden-hour light turning tense, the dark fleet bruising the horizon; grand, kinetic, ominous.
 - **Palette:** honey gold and warm haze, darkening to the cold steel of the fleet.
@@ -123,7 +123,7 @@
 
 ### @NodrizaInterior — la nave nodriza de Theron
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** the interior of Theron's ancient mothership: cramped, grimy corridors and a cluttered cargo hold of cold old metal; huge mechanical arms hang from the ceiling like the ribs of a dead whale; condensation drips in the gloom.
+- **Location:** Make a location sheet of the interior of Theron's ancient mothership: cramped, grimy corridors and a cluttered cargo hold of cold old metal; huge mechanical arms hang from the ceiling like the ribs of a dead whale; condensation drips in the gloom.
 - **Key elements:** narrow riveted corridors, a vast dim cargo bay, hanging mechanical claw-arms, chained salvage, dripping pipes, worn industrial panels, cold blue work-lights.
 - **Light & atmosphere:** cold industrial blue light, deep shadow, damp and metallic; lived-in and hostile.
 - **Palette:** cold steel grey-blue, rust, dim amber warning lights.
@@ -132,7 +132,7 @@
 
 ### @PlanetaChatarra — el planeta chatarra
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a junk planet — endless dunes of dead ships and twisted metal stretching to the horizon under a bruised, sickly sky; colossal rusted wrecks jut from the debris like mountains.
+- **Location:** Make a location sheet of a junk planet — endless dunes of dead ships and twisted metal stretching to the horizon under a bruised, sickly sky; colossal rusted wrecks jut from the debris like mountains.
 - **Key elements:** mountains of scrapped ships, twisted metal dunes, colossal half-buried hulls, drifting dust and haze, narrow canyons between wrecks.
 - **Light & atmosphere:** flat bruised light under a sick greenish-grey sky, dust suspended in the air.
 - **Palette:** rust brown, oxidized greys, sickly green-grey sky.
@@ -141,7 +141,7 @@
 
 ### @FosaApuestas — la Fosa de apuestas
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a grimy betting-station at the edge of the galaxy: slave auctions and market stalls above, and below a sunken combat pit of packed dirt ringed by steep tiers of roaring, gambling crowds' seating; dirty neon and cage-lights everywhere.
+- **Location:** Make a location sheet of a grimy betting-station at the edge of the galaxy: slave auctions and market stalls above, and below a sunken combat pit of packed dirt ringed by steep tiers of roaring, gambling crowds' seating; dirty neon and cage-lights everywhere.
 - **Key elements:** a sunken circular combat pit, steep ringed grandstands, hanging cages, market stalls and auction blocks above, filthy neon signs, chains and grates.
 - **Light & atmosphere:** dirty neon glow, smoky haze, harsh pit-lights; loud, cruel, chaotic (shown as empty architecture for the plate).
 - **Palette:** grimy neon magenta and cyan, rust, dark grime.
@@ -150,7 +150,7 @@
 
 ### @PlanetaCometas — el planeta de los cometas
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a strange, beautiful alien world under a sky streaked with slow-moving comets; soft rolling grass, drifting motes of light, a serene otherworldly horizon.
+- **Location:** Make a location sheet of a strange, beautiful alien world under a sky streaked with slow-moving comets; soft rolling grass, drifting motes of light, a serene otherworldly horizon.
 - **Key elements:** a wide sky crossed by long slow comet-trails, gentle grassland, floating light particles, distant strange rock formations, a calm alien horizon.
 - **Light & atmosphere:** soft twilight glow lit by comet-light, dreamy and quiet, drifting light in the air.
 - **Palette:** deep blue-violet sky, comet gold-white streaks, soft green-teal grass.
@@ -159,7 +159,7 @@
 
 ### @MinasNiebla — las minas de niebla
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** fog-drowned mines on dying Erdia: oxidized scaffolds and pit-heads rising out of thick grey vapor, dim lamps glowing in the murk, mud and chains underfoot; the golden world reduced to industrial gloom.
+- **Location:** Make a location sheet of fog-drowned mines on dying Erdia: oxidized scaffolds and pit-heads rising out of thick grey vapor, dim lamps glowing in the murk, mud and chains underfoot; the golden world reduced to industrial gloom.
 - **Key elements:** rusted scaffolds and mine towers, thick rolling fog, dim hanging lamps, muddy ground, dangling chains, columns of grey vapor.
 - **Light & atmosphere:** dim grey fog swallowing everything, cold weak lamplight, damp and heavy.
 - **Palette:** grey vapor, oxidized rust, weak amber lamplight.
@@ -168,7 +168,7 @@
 
 ### @RefugioResistencia — el refugio de la resistencia
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a hidden resistance refuge dug into the rubble: a cramped low-ceilinged shelter of salvaged materials and hung cloth, lit by a few warm lamps and a central fire-light; maps, crates and makeshift bedding around the edges.
+- **Location:** Make a location sheet of a hidden resistance refuge dug into the rubble: a cramped low-ceilinged shelter of salvaged materials and hung cloth, lit by a few warm lamps and a central fire-light; maps, crates and makeshift bedding around the edges.
 - **Key elements:** salvaged walls and hanging cloth partitions, warm lamplight and a low central fire, stacked crates, pinned maps, makeshift furniture, a low sheltering ceiling.
 - **Light & atmosphere:** intimate warm lamp/firelight against surrounding dark, close and secret.
 - **Palette:** warm amber lamplight, earthy browns, deep shadow.
@@ -177,7 +177,7 @@
 
 ### @AposentosGeneral — los aposentos de la General
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** the General's cold, perfect quarters inside the imperial palace: austere white-and-gold walls, immaculate and minimal, everything in its place; a single tall window letting in cold blue night light — the room of a child raised into a weapon.
+- **Location:** Make a location sheet of the General's cold, perfect quarters inside the imperial palace: austere white-and-gold walls, immaculate and minimal, everything in its place; a single tall window letting in cold blue night light — the room of a child raised into a weapon.
 - **Key elements:** austere white-and-gold walls, minimal impeccable furnishings, a precise made bed, a rack of imperial armor, one tall arched window with cold night light, no clutter, no warmth.
 - **Light & atmosphere:** cold blue moonlight and thin gold accents, sterile and still.
 - **Palette:** white, pale gold, cold blue night.
@@ -190,7 +190,7 @@
 
 ### @ErdiaRuinas — la ciudad dorada en ruinas (Año 20)
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** the once-golden city twenty years on: grey and cracked, broken in two by drifting fog; towering imperial murals of the King loom over rubble where gardens used to be; the luzagua canals run dull and nearly dry; ash hangs in the still air.
+- **Location:** Make a location sheet of the once-golden city twenty years on: grey and cracked, broken in two by drifting fog; towering imperial murals of the King loom over rubble where gardens used to be; the luzagua canals run dull and nearly dry; ash hangs in the still air.
 - **Key elements:** broken honey-stone buildings gone grey, huge peeling imperial murals over the ruins, dead dull luzagua channels, drifting fog and ash, scaffolds and rubble, faded banners.
 - **Light & atmosphere:** cold grey smoke-filtered daylight, the old gold long dead; still and mournful.
 - **Palette:** ashen grey, faded gold, cold fog-blue, muted rust.
@@ -199,7 +199,7 @@
 
 ### @SalaTrono — la sala del trono
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a vast, cold imperial throne hall crowned by an immense glass ceiling; a single high throne stands at the far center on a raised dais, flanked by tall dark-and-gold banners; polished stone floor stretching in cathedral scale, hard-edged and severe (secretly the command deck of a colossal ship).
+- **Location:** Make a location sheet of a vast, cold imperial throne hall crowned by an immense glass ceiling; a single high throne stands at the far center on a raised dais, flanked by tall dark-and-gold banners; polished stone floor stretching in cathedral scale, hard-edged and severe (secretly the command deck of a colossal ship).
 - **Key elements:** enormous glass ceiling, a lone raised throne on a dais, towering imperial banners, mirror-polished cold floor, severe angular columns, faint hidden machine-lines under the ornamentation.
 - **Light & atmosphere:** cold pale light falling from the glass ceiling, immense and empty, echoing.
 - **Palette:** cold marble white-grey, imperial dark gold, pale skylight.
