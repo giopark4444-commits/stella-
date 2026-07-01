@@ -9,7 +9,7 @@
 
 # 起 ACTO 1 · Erdia viva y su caída
 
-### @GrietaDescenso — la superficie viva con la pequeña grieta (INTRO)
+### @ErdiaSuperficieViva — la superficie viva con la pequeña grieta (INTRO)
 - **Style:** Studio Ghibli style LOCATION SHEET — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
 - **Location:** Erdia's living surface in a wide establishing view: a lush, green, healthy Studio-Ghibli landscape — rolling emerald hills, forests and bright meadows under a clear blue sky, everything vivid and alive — with ONE small, dark, ominous crack fracturing the ground in the middle distance: a tiny wound in an otherwise thriving world.
 - **Key elements:** a wide healthy green landscape (hills, forests, meadows, a thread of glowing water), a clear bright sky, and a single SMALL dark fissure in the earth as the only wrong note; the surface looks alive, only the little crack looks sick.
