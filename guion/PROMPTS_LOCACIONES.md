@@ -9,6 +9,24 @@
 
 # 起 ACTO 1 · Erdia viva y su caída
 
+### @GrietaDescenso — la grieta / el descenso a la corteza (INTRO)
+- **Style:** Studio Ghibli style, hand-painted anime background art, Satoshi Kon cinematic composition, film-grade lighting, soft grain, richly detailed painterly environment, no characters. 21:9 aspect ratio.
+- **Location:** a dry fracture splitting the planet's crust like an uncured scar, plunging straight down; sheer rock walls slide past and darken as the light is left behind — from warm sunlit gold at the top, to grey, to black in the depths. A vertiginous descent into the world.
+- **Key elements:** a deep jagged fracture in the crust, towering sheer rock walls, a top-to-bottom gradient of sunlit gold rock → grey stone → black depths, drifting dust, a bottomless sense of falling downward.
+- **Light & atmosphere:** warm daylight glowing at the top, fading into cold darkness below; foreboding, vertiginous.
+- **Palette:** golden sunlit rock, cooling greys, black depths.
+- **Mood:** leaving the living world behind, descending toward something dead.
+- **Negative:** no characters, no people, no text, no watermark, no logos.
+
+### @CorazonMuerto — el corazón muerto y hueco del planeta (INTRO)
+- **Style:** Studio Ghibli style, hand-painted anime background art, Satoshi Kon cinematic composition, film-grade lighting, soft grain, richly detailed painterly environment, no characters. 21:9 aspect ratio.
+- **Location:** the hollow dead core at the very center of the planet — a vast, black, bottomless cavern where a world's heart should be beating, and nothing does; utterly empty, lightless, silent, its far walls swallowed by the dark. The wound at the center of Erdia.
+- **Key elements:** an immense pitch-black hollow cavern, no visible floor, faint dead rock walls dissolving into void, total absence of life or glow, overwhelming scale, a single implied empty space where a heart of light once was.
+- **Light & atmosphere:** near-total darkness, only the faintest cold edge-light grazing distant rock; dead, absolute silence.
+- **Palette:** black, deep charcoal, the faintest cold grey.
+- **Mood:** death, emptiness, the film's very first image — the silence before the title.
+- **Negative:** no characters, no people, no text, no watermark, no logos.
+
 ### @Erdia — el mundo vivo desde la órbita
 - **Style:** Studio Ghibli style, hand-painted anime background art, Satoshi Kon cinematic composition, film-grade lighting, soft grain, richly detailed painterly environment, no characters. 21:9 aspect ratio.
 - **Location:** a luminous living planet seen from orbit, wrapped in soft golden cloud; continents veined with glowing rivers of light, oceans catching the dawn like molten glass; the whole world breathing with quiet light against the black of space.
