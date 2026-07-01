@@ -28,80 +28,80 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — La cámara cae hacia el planeta, atraviesa nubes doradas que se abren como cortinas de polvo de luz.
-- **Staging / background:** a luminous living world wrapped in soft golden cloud, continents veined with rivers of light, oceans catching the dawn like molten glass, against the black of space.
-- **Light & mood:** soft cosmic dawn, warm gold rimming the world against black, cold star-light. Contemplative, reverent, awed. Still, quiet, held.
+- **Staging / background:** high in @Erdia's upper atmosphere: towering golden cloudbanks lit from within, volumetric dawn rays, the living green world glowing far below.
+- **Light & mood:** warm dawn blooming to full gold, volumetric god-rays through the cloud towers. Majestic, descending, a held breath.
 - **Note:** La cámara cae hacia el planeta, atraviesa nubes doradas que se abren como cortinas de polvo de luz.
 
 ### FRAME 4 — SEC 1 — Living mountains
 - **Style:** Satoshi Kon–style anime storyboard frame, cinematic composition, 2D hand-painted Studio Ghibli aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
+- **References to attach:** location — @Erdia (living surface from the air).
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Sobrevuelo de cordilleras vivas, crestas nevadas encendidas por el amanecer. El mundo respira.
-- **Staging / background:** a luminous living world wrapped in soft golden cloud, continents veined with rivers of light, oceans catching the dawn like molten glass, against the black of space.
-- **Light & mood:** soft cosmic dawn, warm gold rimming the world against black, cold star-light. Contemplative, reverent, awed. Still, quiet, held.
+- **Staging / background:** @Erdia's living surface seen from the air: vast green mountain ranges with snow crests, forests breathing with mist, everything alive and healthy under the dawn.
+- **Light & mood:** warm gold dawn across living green-and-snow peaks, glowing mist. Majestic, alive.
 - **Note:** Sobrevuelo de cordilleras vivas, crestas nevadas encendidas por el amanecer. El mundo respira.
 
 ### FRAME 5 — SEC 1 — Breathing forests
 - **Style:** Satoshi Kon–style anime storyboard frame, cinematic composition, 2D hand-painted Studio Ghibli aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
+- **References to attach:** location — @ErdiaSuperficieViva (lush green living surface).
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — Bosques que respiran: copas ondulando como oleaje verde, bruma subiendo entre los árboles.
-- **Staging / background:** a luminous living world wrapped in soft golden cloud, continents veined with rivers of light, oceans catching the dawn like molten glass, against the black of space.
-- **Light & mood:** soft cosmic dawn, warm gold rimming the world against black, cold star-light. Contemplative, reverent, awed. Still, quiet, held.
+- **Staging / background:** @Erdia's lush green LIVING surface: healthy forests and meadows breathing, canopies rolling like green surf, mist rising between the trees — everything vivid, green and alive.
+- **Light & mood:** bright warm healthy daylight over deep green forest. Alive, idyllic, the last calm before.
 - **Note:** Bosques que respiran: copas ondulando como oleaje verde, bruma subiendo entre los árboles.
 
 ### FRAME 6 — SEC 1 — The dry fissure
 - **Style:** Satoshi Kon–style anime storyboard frame, cinematic composition, 2D hand-painted Studio Ghibli aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
+- **References to attach:** location — @ErdiaSuperficieViva (green living surface + one small crack).
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
-- **Subject:** No character in frame — La cámara encuentra una grieta: una fractura seca en la corteza, como una cicatriz que nadie curó.
-- **Staging / background:** a luminous living world wrapped in soft golden cloud, continents veined with rivers of light, oceans catching the dawn like molten glass, against the black of space.
-- **Light & mood:** soft cosmic dawn, warm gold rimming the world against black, cold star-light. Contemplative, reverent, awed. Still, quiet, held.
-- **Note:** La cámara encuentra una grieta: una fractura seca en la corteza, como una cicatriz que nadie curó.
+- **Subject:** No character in frame — La superficie sigue VERDE y viva; la camara encuentra UNA grieta pequena y oscura en el suelo verde: una fisura diminuta que no deberia estar, la unica nota mala en un mundo sano.
+- **Staging / background:** @Erdia's lush GREEN living surface, healthy and thriving, with ONE small dark crack in the green ground in the middle distance — a tiny wound, the only wrong note in a living world (surface is green, NOT rocky).
+- **Light & mood:** bright warm healthy daylight on green land, with a faint cold unease seeping only from the small dark crack. Wonder curdling into quiet dread.
+- **Note:** La superficie sigue VERDE y viva; una grieta PEQUENA y oscura en el suelo verde, no una corteza rocosa.
 
 ### FRAME 7 — SEC 1 — Descending the crack
 - **Style:** Satoshi Kon–style anime storyboard frame, cinematic composition, 2D hand-painted Studio Ghibli aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
+- **References to attach:** location — @CorazonMuerto (dead interior, on the way down).
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — Bajamos por la grieta. Paredes de roca que pasan de doradas a grises. La luz se queda atrás.
-- **Staging / background:** a luminous living world wrapped in soft golden cloud, continents veined with rivers of light, oceans catching the dawn like molten glass, against the black of space.
-- **Light & mood:** soft cosmic dawn, warm gold rimming the world against black, cold star-light. Contemplative, reverent, awed. Still, quiet, held.
+- **Staging / background:** INSIDE the small crack now, sinking below @Erdia's green surface: sheer rock walls sliding from warm gold to cold grey, dead mineral veins, the green daylight above shrinking to a thin thread.
+- **Light & mood:** light dying from gold to grey to near-black as we descend. Dread, sinking, claustrophobic.
 - **Note:** Bajamos por la grieta. Paredes de roca que pasan de doradas a grises. La luz se queda atrás.
 
 ### FRAME 8 — SEC 1 — Dead stone texture
 - **Style:** Satoshi Kon–style anime storyboard frame, cinematic composition, 2D hand-painted Studio Ghibli aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
+- **References to attach:** location — @CorazonMuerto (dead rock interior).
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — Textura de roca deslizándose: vetas grises, luego negras. Un hilo de polvo cae en la penumbra.
-- **Staging / background:** a luminous living world wrapped in soft golden cloud, continents veined with rivers of light, oceans catching the dawn like molten glass, against the black of space.
-- **Light & mood:** soft cosmic dawn, warm gold rimming the world against black, cold star-light. Contemplative, reverent, awed. Still, quiet, held.
+- **Staging / background:** deep inside the fissure: dead grey-and-black rock walls, mineral veins drained of all life, a thin thread of dust falling through the gloom.
+- **Light & mood:** near-dark, cold, the last dim glow dying on the stone. Dead, airless, silent.
 - **Note:** Textura de roca deslizándose: vetas grises, luego negras. Un hilo de polvo cae en la penumbra.
 
 ### FRAME 9 — SEC 1 — Deeper and deeper
 - **Style:** Satoshi Kon–style anime storyboard frame, cinematic composition, 2D hand-painted Studio Ghibli aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
+- **References to attach:** location — @CorazonMuerto (dead interior, deeper).
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Más hondo. Más hondo. La oscuridad se traga las paredes. El descenso no termina.
-- **Staging / background:** a luminous living world wrapped in soft golden cloud, continents veined with rivers of light, oceans catching the dawn like molten glass, against the black of space.
-- **Light & mood:** soft cosmic dawn, warm gold rimming the world against black, cold star-light. Contemplative, reverent, awed. Still, quiet, held.
+- **Staging / background:** far down the fissure: cold dead rock walls swallowed by advancing darkness, no daylight left, the descent endless.
+- **Light & mood:** almost no light, darkness eating the frame. Sinking, endless, dread.
 - **Note:** Más hondo. Más hondo. La oscuridad se traga las paredes. El descenso no termina.
 
 ### FRAME 10 — SEC 1 — The hollow core
 - **Style:** Satoshi Kon–style anime storyboard frame, cinematic composition, 2D hand-painted Studio Ghibli aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
+- **References to attach:** location — @CorazonMuerto (immense hollow dead core).
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Llegamos al centro del mundo: una caverna negra y sin fondo donde debería latir un corazón. Está hueca. Muerta.
-- **Staging / background:** a luminous living world wrapped in soft golden cloud, continents veined with rivers of light, oceans catching the dawn like molten glass, against the black of space.
-- **Light & mood:** soft cosmic dawn, warm gold rimming the world against black, cold star-light. Contemplative, reverent, awed. Still, quiet, held.
+- **Staging / background:** the immense hollow DEAD heart of @Erdia: a colossal empty black cavern the size of a buried cathedral-city, faint distant curving rock walls receding on every side, utterly empty and silent where a world's heart should be beating.
+- **Light & mood:** near-total darkness, only the faintest cold edge-light grazing distant rock. Death, emptiness, absolute silence.
 - **Note:** Llegamos al centro del mundo: una caverna negra y sin fondo donde debería latir un corazón. Está hueca. Muerta.
 
 ### FRAME 11 — SEC 1 — Held on the void
 - **Style:** Satoshi Kon–style anime storyboard frame, cinematic composition, 2D hand-painted Studio Ghibli aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
+- **References to attach:** location — @CorazonMuerto (the dead void).
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — El vacío negro sostenido. No late nada. Silencio total. Sostener hasta que duela.
-- **Staging / background:** a luminous living world wrapped in soft golden cloud, continents veined with rivers of light, oceans catching the dawn like molten glass, against the black of space.
-- **Light & mood:** soft cosmic dawn, warm gold rimming the world against black, cold star-light. Contemplative, reverent, awed. Still, quiet, held.
+- **Staging / background:** held on the vast dead black void at @Erdia's core — empty, lightless, silent, endless.
+- **Light & mood:** near-total black, a single faint cold rim of light on far rock. Death, the silence before the title.
 - **Note:** El vacío negro sostenido. No late nada. Silencio total. Sostener hasta que duela.
 
 ### FRAME 12 — SEC 1 — Title card

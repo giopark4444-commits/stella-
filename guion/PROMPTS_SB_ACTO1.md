@@ -32,11 +32,11 @@
 
 ### CLIP 1x3 — The dry fissure · 13s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
-- **Setting:** the location shown in @Erdia — match its architecture, materials, colors; breathing forests below, canopies rolling like green surf with mist rising between the trees, all warm gold — scarred by one long dry black fissure that does not belong.
+- **Setting:** @Erdia's lush GREEN living surface — healthy green forests and meadows below, canopies rolling like green surf with mist rising between the trees, everything vivid and alive — marked by ONE small dark crack in the green ground that does not belong (surface is green and healthy, NOT rocky).
 - **Shot/lens:** two chained wides — an aerial over breathing forests, then a dolly-in that finds and locks onto the dark fissure.
 - **Camera:** a fast aerial glide over the living canopy that eases into a slow dolly-in toward the crack.
 - **Light:** warm gold over the forests; a cold shadow pooling in the throat of the fissure as the camera nears.
-- **Action:** the camera skims over forests breathing like green ocean swell, mist climbing the trunks; then — like an intruding thought — it finds a dry fracture in the crust, a scar no one healed, and pushes slowly toward its dark mouth, the warmth draining from frame.
+- **Action:** the camera skims over lush green forests breathing like ocean swell, mist climbing the trunks; then — like an intruding thought — it finds ONE small dark crack in the green living ground, a tiny scar no one healed, and pushes slowly toward its dark mouth, the warmth draining from frame.
 - **Mood:** wonder curdling into unease.
 - **Audio:** SFX only — wind, distant water and birds, a low ominous tone swelling as the crack appears. No music.
 - **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
