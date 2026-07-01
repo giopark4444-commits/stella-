@@ -1,7 +1,7 @@
 # PROMPTS STORYBOARD · ACTO 3 — Stella Fugaz «El Nodo de Erdia»
 ## 71 clips (Seedance 2.0 · 15s · 21:9) · storyboard desglosado, un clip por escena continua
 
-> **Bible:** @StellaTeñida (~19, dark-dyed hair, grey-blue eyes, @TrajeNuevo, older, hardened) · @SelkaGeneral (the General, 21, white/gold armor, light-blade, **grey-blue eyes**, **scar over her left eye**, cold; later one-armed) · @SelkaNiña (small white-haired child, grey-blue eyes) 🔒 · @Vorthan (the King) · @Marek (resistance leader) 🔒 · @Parasito (Vorthan's true form) 🔒: a colossal ancient creature of stolen luzagua light, no fixed form · @NaioRescatado (old freed Naio) · @Theron · @Brog · @Nima · @Vosk · @Noah · @Korin · @Gix (light-being).
+> **Bible:** @StellaTeñida (~19, dark-dyed hair, amber eyes, @TrajeNuevo, older, hardened) · @SelkaGeneral (the General, 21, white/gold armor, light-blade, **grey-blue eyes**, **scar over her left eye**, cold; later one-armed) · @SelkaNiña (small white-haired child, grey-blue eyes) 🔒 · @Vorthan (the King) · @Marek (resistance leader) 🔒 · @Parasito (Vorthan's true form) 🔒: a colossal ancient creature of stolen luzagua light, no fixed form · @NaioRescatado (old freed Naio) · @Theron · @Brog · @Nima · @Vosk · @Noah · @Korin · @Gix (light-being).
 > **Locations:** @ErdiaRuinas · @SalaTrono · @NavePalacio 🔒 · @NodrizaInterior. **Props:** @Orbe · @LlaveDeLuz · @Brazalete · @HojaSelka · @TanqueSoporte.
 > **Canon:** violence by light only; @Parasito is @Vorthan's true form (secret, revealed SEC 26); the palace is really a ship 🔒; contemplative ending (the river that returns, the ember of @Gix).
 
@@ -34,11 +34,11 @@
 ### CLIP 21x3 — They step out / Stella's face · 11s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the scrap-strewn landing in the ruined city; lush, detailed, painterly background.
-- **Characters:** @Brog, @Nima, @Noah, @StellaTeñida (dark-dyed hair, grey-blue eyes).
+- **Characters:** @Brog, @Nima, @Noah, @StellaTeñida (dark-dyed hair, amber eyes).
 - **Shot/lens:** full shot of the hatch opening and the team stepping out, then a steadicam close-up of Stella's face under the hood.
 - **Camera:** fixed on the hatch as they descend; then a slow steadicam push in on @StellaTeñida.
 - **Light:** grey daylight, soft on her face.
-- **Action:** the hatch opens and @Brog, @Nima, @Noah and a hooded young woman with dark-dyed hair — @StellaTeñida, 19 — step out. The camera drifts to her face under the hood as her grey-blue eyes travel over her own destroyed world in silence (hold, let it breathe, 間/ma).
+- **Action:** the hatch opens and @Brog, @Nima, @Noah and a hooded young woman with dark-dyed hair — @StellaTeñida, 19 — step out. The camera drifts to her face under the hood as her amber eyes travel over her own destroyed world in silence (hold, let it breathe, 間/ma).
 - **Mood:** return, quiet grief.
 - **Audio:** SFX only — the hatch, boots on scrap, wind, her held breath. No music.
 - **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
@@ -46,7 +46,7 @@
 ### CLIP 21x4 — Through the hatred / "you still came back" · 13s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; a grey ruined market street, hollow-faced people; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @Noah.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @Noah.
 - **Shot/lens:** medium tracking of Stella through the crowd, detail insert of an old man spitting, then a close two-shot with Noah.
 - **Camera:** steadicam through hostile stares; fixed insert on the spit hitting the dust; fixed two-shot as Noah leans in.
 - **Light:** grey, hard faces.
@@ -59,7 +59,7 @@
 ### CLIP 21x5 — "That's why I came back" / surrounded · 12s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the grey ruined street; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @Korin, resistance fighters.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @Korin, resistance fighters.
 - **Shot/lens:** close-up on Stella holding her gaze, close-up as she answers low, then a sudden wide as the resistance surrounds them.
 - **Camera:** fixed on her face (held silence, 間/ma); fixed as she speaks; then a fast handheld snap as the group closes in.
 - **Light:** grey; light-weapons casting hard glow.
@@ -72,11 +72,11 @@
 ### CLIP 21x6 — She lowers the hood / grey-blue eyes · 14s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the grey ruined street; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @Korin.
-- **Shot/lens:** shot/reverse of Korin aiming and Stella lowering the hood, dolly-in close-up on his unrecognizing face, extreme close-up on her grey-blue eyes.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @Korin.
+- **Shot/lens:** shot/reverse of Korin aiming and Stella lowering the hood, dolly-in close-up on his unrecognizing face, extreme close-up on her amber eyes.
 - **Camera:** fixed on the face-off; slow dolly in on @Korin's finger tightening on the energy trigger; hold extreme close-up on her eyes.
 - **Light:** grey, a light-weapon's cold glow on her face.
-- **Action:** @Korin aims at @StellaTeñida; slowly she lowers her hood, revealing the dark-dyed hair. @Korin studies her face without knowing her, his finger over the energy trigger (held silence). The camera pushes to an extreme close-up of her grey-blue eyes under the dark hair — the one feature that betrays her (hold, 間/ma).
+- **Action:** @Korin aims at @StellaTeñida; slowly she lowers her hood, revealing the dark-dyed hair. @Korin studies her face without knowing her, his finger over the energy trigger (held silence). The camera pushes to an extreme close-up of her amber eyes under the dark hair — the one feature that betrays her (hold, 間/ma).
 - **Mood:** a breath from disaster.
 - **Audio:** SFX only — tense quiet, a weapon's hum. No music.
 - **Negative:** no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
@@ -84,7 +84,7 @@
 ### CLIP 21x7 — Korin recognizes her · 14s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the grey ruined street; lush, detailed, painterly background.
-- **Characters:** @Korin, @StellaTeñida (dark-dyed hair, grey-blue eyes).
+- **Characters:** @Korin, @StellaTeñida (dark-dyed hair, amber eyes).
 - **Shot/lens:** close-up on Korin as recognition breaks him, medium as he lowers the weapon, close-up on Stella holding silent.
 - **Camera:** fixed on his cracking face; fixed as his weapon drops; hold on Stella (let it breathe, 間/ma).
 - **Light:** grey, a softening on his weathered face.
@@ -139,7 +139,7 @@
 ### CLIP 22x1 — The refuge / Korin leads her to the old slave · 11s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; a resistance refuge in the rubble, dripping water, hung cloth, cold light filtering through scaffolding; lush, detailed, painterly background.
-- **Characters:** @Korin, @StellaTeñida (dark-dyed hair, grey-blue eyes), @NaioRescatado.
+- **Characters:** @Korin, @StellaTeñida (dark-dyed hair, amber eyes), @NaioRescatado.
 - **Shot/lens:** wide of the dim refuge interior, then medium steadicam as Korin leads her toward a bent old man.
 - **Camera:** fixed wide on the refuge (hold, let it breathe); then steadicam following them toward the corner.
 - **Light:** dim, a single lamp, cold shafts of light.
@@ -151,7 +151,7 @@
 ### CLIP 22x2 — She recognizes her father / kneels · 15s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the dim resistance refuge; lush, detailed, painterly background.
-- **Characters:** @NaioRescatado, @StellaTeñida (dark-dyed hair, grey-blue eyes).
+- **Characters:** @NaioRescatado, @StellaTeñida (dark-dyed hair, amber eyes).
 - **Shot/lens:** dolly-in close-up on the old blind-in-one-eye face, close-up on Stella losing her breath, full shot as she kneels.
 - **Camera:** slow dolly in on @NaioRescatado's ruined face; hold on Stella (held silence, 間/ma); fixed as she sinks to her knees.
 - **Light:** lamp-glow.
@@ -163,7 +163,7 @@
 ### CLIP 22x3 — "Dad" / he feels the Key in her hand · 15s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the dim resistance refuge; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @NaioRescatado. **Props:** @LlaveDeLuz, @Orbe.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @NaioRescatado. **Props:** @LlaveDeLuz, @Orbe.
 - **Shot/lens:** extreme close-up on Stella barely speaking, close-up on Naio searching for a face he can't find, detail on their joined hands with the Key glowing.
 - **Camera:** fixed extreme close-up as she whispers; fixed on his empty searching eyes; slow push to their hands, the @LlaveDeLuz pulsing under her skin (hold, 間/ma).
 - **Light:** lamp-glow; the sigil's warm pulse between their hands.
@@ -176,7 +176,7 @@
 ### CLIP 22x4 — His eye floods / "you kept it safe" · 11s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the dim resistance refuge; lush, detailed, painterly background.
-- **Characters:** @NaioRescatado, @StellaTeñida (dark-dyed hair, grey-blue eyes).
+- **Characters:** @NaioRescatado, @StellaTeñida (dark-dyed hair, amber eyes).
 - **Shot/lens:** extreme close-up on Naio's good eye flooding, close-up as his voice breaks with wonder.
 - **Camera:** hold on his welling eye (let it breathe, 間/ma); fixed as he speaks.
 - **Light:** lamp-glow on his tears.
@@ -189,7 +189,7 @@
 ### CLIP 22x5 — "My river girl" · 10s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the dim resistance refuge; lush, detailed, painterly background.
-- **Characters:** @NaioRescatado, @StellaTeñida (dark-dyed hair, grey-blue eyes).
+- **Characters:** @NaioRescatado, @StellaTeñida (dark-dyed hair, amber eyes).
 - **Shot/lens:** detail on Naio's trembling hand touching her dark-dyed hair, close-up on Stella holding back tears.
 - **Camera:** fixed detail on his hand in her hair; hold on Stella letting the words land (let it breathe, 間/ma).
 - **Light:** lamp-glow.
@@ -202,7 +202,7 @@
 ### CLIP 22x6 — The promise / Naio stays silent about Vera · 12s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the dim resistance refuge; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @NaioRescatado.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @NaioRescatado.
 - **Shot/lens:** close-up on Stella firm through tears, extreme close-up on Naio hearing her, a shadow of grief crossing his face.
 - **Camera:** fixed on Stella as she swears; hold on Naio's face as he keeps his silence (間/ma).
 - **Light:** lamp-glow.
@@ -215,7 +215,7 @@
 ### CLIP 22x7 — He lets her keep her hope · 11s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the dim resistance refuge; lush, detailed, painterly background.
-- **Characters:** @NaioRescatado, @StellaTeñida (dark-dyed hair, grey-blue eyes).
+- **Characters:** @NaioRescatado, @StellaTeñida (dark-dyed hair, amber eyes).
 - **Shot/lens:** detail on Naio's hand squeezing hers, then a wide dolly-out of the two small figures in the refuge gloom.
 - **Camera:** fixed detail on the clasped hands (held silence); slow dolly out to two small silhouettes as the dripping continues (hold, let it breathe, 間/ma).
 - **Light:** lamp-glow fading into gloom.
@@ -231,7 +231,7 @@
 ### CLIP 23x1 — The palace / war erupts · 15s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the fog-streets erupting into war beneath the looming palace-dome; lush, detailed, painterly background.
-- **Characters:** @Brog, @Nima, @Noah, @StellaTeñida (dark-dyed hair, grey-blue eyes), resistance, imperial robots.
+- **Characters:** @Brog, @Nima, @Noah, @StellaTeñida (dark-dyed hair, amber eyes), resistance, imperial robots.
 - **Shot/lens:** grand crane wide of the dome over the city and the resistance tide, then medium/detail action on Brog, Nima and Noah.
 - **Camera:** slow mournful crane over the palace-dome above the grey tide (hold); then it cuts fast and kinetic — handheld and whip-pans through the fighting.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -244,7 +244,7 @@
 ### CLIP 23x2 — Naio saved / Stella breaks off and climbs · 12s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the war-torn streets and the sheer palace façade above; lush, detailed, painterly background.
-- **Characters:** @NaioRescatado, @StellaTeñida (dark-dyed hair, grey-blue eyes), resistance.
+- **Characters:** @NaioRescatado, @StellaTeñida (dark-dyed hair, amber eyes), resistance.
 - **Shot/lens:** wide of a commando pulling slaves from a cage, close-up on Stella deciding, low-angle crane of her climbing, detail on her fingers gripping cold metal.
 - **Camera:** handheld on the rescue; brief fixed close-up on Stella's decision (held breath); then a vertiginous crane up as she scales; fixed detail on her grip, the tiny city far below.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -257,7 +257,7 @@
 ### CLIP 23x3 — The glass dome / the white figure / she shatters it · 14s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; seen down through the glass dome, a vast cold throne hall, one white figure standing perfectly still at its center; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @SelkaGeneral (below, distant). **Props:** @Orbe.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (below, distant). **Props:** @Orbe.
 - **Shot/lens:** wide of the dome and the waiting figure below, close-up dolly-in of Stella loading the Orb, detail as her fist meets the glass, low-angle as she falls through.
 - **Camera:** fixed on the still figure through the glass (hold, 間/ma); slow dolly in on Stella breathing; fixed detail on the Orb-light bursting on the surface; handheld low-angle as the glass shatters and she drops.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -274,7 +274,7 @@
 ### CLIP 24x1 — She lands / the General waits · 11s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; a vast cold imperial throne hall, polished floor; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye).
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** full shot of Stella landing and rolling up, detail of glass settling, medium of Selka standing motionless.
 - **Camera:** handheld impact frame as she lands and rolls up; fixed detail on shards settling, the echo dying (let it breathe); fixed medium on @SelkaGeneral (held silence, 間/ma).
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -287,7 +287,7 @@
 ### CLIP 24x2 — Two sisters / "the thief" / blade ignites · 14s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the vast cold throne hall; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
 - **Shot/lens:** wide symmetrical face-off, close-up on Selka glacial, detail on the light-blade igniting.
 - **Camera:** fixed wide holding the distance between them (hold, 間/ma); fixed close-up on Selka; fixed detail as the @HojaSelka ignites with a hiss.
 - **Light:** cold, both lit from opposite sides; blade-light flaring on.
@@ -300,7 +300,7 @@
 ### CLIP 24x3 — "I didn't come to fight" / she disarms Selka · 14s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the vast cold throne hall; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
 - **Shot/lens:** medium of Stella's open hands, close-up on Selka disbelieving, full whip-pan as Selka lunges, medium as Stella blocks, detail as she disarms.
 - **Camera:** fixed on Stella's open hands and on Selka's line; then fast — whip-pan on Selka's lunge, handheld on Stella's counter, whip-pan detail as the blade flies.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -314,7 +314,7 @@
 ### CLIP 24x4 — She won't kill / "why did you kill our mother?" · 12s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the vast cold throne hall; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
 - **Shot/lens:** close-up on Stella holding the kill and refusing, medium as she backs off searching Selka's eyes, extreme close-up on Selka recovering the blade.
 - **Camera:** hold on Stella's restraint (held silence, 間/ma); handheld as she backs away asking; fixed extreme close-up on Selka, no blink.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -328,7 +328,7 @@
 ### CLIP 24x5 — She's downed / the light-game gesture · 14s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the vast cold throne hall; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye), @Gix. **Props:** @Brazalete, @HojaSelka.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye), @Gix. **Props:** @Brazalete, @HojaSelka.
 - **Shot/lens:** close-up on the line landing on Stella, full shot as Selka sweeps her down, POV of the blade over her face, detail of a Gix spark in her cupped palm, medium as she lifts it to Selka's forehead.
 - **Camera:** fixed on Stella struck by the words (held); handheld sweep as Selka downs her, impact frame; POV up at the blinding blade; then the chaos slows to a held breath — detail on the warm @Gix spark; fixed as she raises the hand.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -341,7 +341,7 @@
 ### CLIP 24x6 — Selka freezes / "why do I know that?" · 10s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the vast cold throne hall; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @StellaTeñida (dark-dyed hair, grey-blue eyes).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @StellaTeñida (dark-dyed hair, amber eyes).
 - **Shot/lens:** close-up on Selka frozen mid-strike, the blade trembling, dolly-in extreme close-up as a lost child surfaces.
 - **Camera:** fixed on her frozen, shaking blade (hold, 間/ma); slow dolly in as her cold mask splits.
 - **Light:** the warm spark reflected in her grey-blue eyes.
@@ -354,7 +354,7 @@
 ### CLIP 24x7 — A heartbeat from waking / she rips the Orb out · 14s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the vast cold throne hall; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @Orbe, @LlaveDeLuz.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye). **Props:** @Orbe, @LlaveDeLuz.
 - **Shot/lens:** shot/reverse of the two still, foreheads close, the spark between them; close-up on Selka terrified; whip-pan detail as she grabs Stella's hand; extreme close-up as the Orb tears free in a blinding flare.
 - **Camera:** fixed on the two still, spark floating between their faces (hold, let it breathe, 間/ma); fixed on Selka's flicker of panic; then fast — whip-pan as she seizes the hand, a blinding flare snap as the @Orbe rips out of Stella's palm.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
@@ -367,7 +367,7 @@
 ### CLIP 24x8 — Stella collapses / Gix into her heart · 12s
 - **Style:** Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the vast cold throne hall; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dark-dyed hair, grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye), @Gix. **Props:** @Orbe, @Brazalete.
+- **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye), @Gix. **Props:** @Orbe, @Brazalete.
 - **Shot/lens:** full shot as Stella crumples into coma, detail as a spark leaves the bracelet and sinks into her chest, close-up on Selka holding the Orb, shaken.
 - **Camera:** handheld as Stella drops, eyes rolling white; fixed detail on the ember spark sinking into her heart (hold, 間/ma); fixed close-up on Selka breathing hard, not knowing what she did (held silence).
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
