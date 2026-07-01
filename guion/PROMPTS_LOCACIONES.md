@@ -9,13 +9,13 @@
 
 # 起 ACTO 1 · Erdia viva y su caída
 
-### @GrietaDescenso — la grieta / el descenso a la corteza (INTRO)
+### @GrietaDescenso — la superficie viva con la pequeña grieta (INTRO)
 - **Style:** Studio Ghibli style LOCATION SHEET — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a vast dry canyon-like fracture torn across the planet's rocky crust, seen from high above in a sweeping aerial wide shot; the great chasm snakes across a barren golden-grey landscape all the way to the horizon, its far depths fading from sunlit gold rock down into grey and then black shadow.
-- **Key elements:** an enormous jagged canyon seen from far away, the whole fracture winding across a wide barren landscape, layered rock going gold → grey → black into the depths, a distant horizon, a huge overwhelming sense of scale (a landscape, not a close crack).
-- **Light & atmosphere:** warm daylight glowing at the top, fading into cold darkness below; foreboding, vertiginous.
-- **Palette:** golden sunlit rock, cooling greys, black depths.
-- **Mood:** leaving the living world behind, descending toward something dead.
+- **Location:** Erdia's living surface in a wide establishing view: a lush, green, healthy Studio-Ghibli landscape — rolling emerald hills, forests and bright meadows under a clear blue sky, everything vivid and alive — with ONE small, dark, ominous crack fracturing the ground in the middle distance: a tiny wound in an otherwise thriving world.
+- **Key elements:** a wide healthy green landscape (hills, forests, meadows, a thread of glowing water), a clear bright sky, and a single SMALL dark fissure in the earth as the only wrong note; the surface looks alive, only the little crack looks sick.
+- **Light & atmosphere:** bright warm healthy daylight, idyllic and alive, with the faintest unease radiating from the small dark crack.
+- **Palette:** vivid emerald green, warm sunlight, bright blue sky — and one slash of ominous dark.
+- **Mood:** a healthy world with a hidden wound — the calm before we learn what lies below.
 - **Negative:** no characters, no people, no text, no watermark, no logos.
 
 ### @CorazonMuerto — el corazón muerto y hueco del planeta (INTRO)
