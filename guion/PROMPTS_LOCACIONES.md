@@ -11,8 +11,8 @@
 
 ### @GrietaDescenso — la grieta / el descenso a la corteza (INTRO)
 - **Style:** Studio Ghibli style LOCATION SHEET — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** a dry fracture splitting the planet's crust like an uncured scar, plunging straight down; sheer rock walls slide past and darken as the light is left behind — from warm sunlit gold at the top, to grey, to black in the depths. A vertiginous descent into the world.
-- **Key elements:** a deep jagged fracture in the crust, towering sheer rock walls, a top-to-bottom gradient of sunlit gold rock → grey stone → black depths, drifting dust, a bottomless sense of falling downward.
+- **Location:** a vast dry canyon-like fracture torn across the planet's rocky crust, seen from high above in a sweeping aerial wide shot; the great chasm snakes across a barren golden-grey landscape all the way to the horizon, its far depths fading from sunlit gold rock down into grey and then black shadow.
+- **Key elements:** an enormous jagged canyon seen from far away, the whole fracture winding across a wide barren landscape, layered rock going gold → grey → black into the depths, a distant horizon, a huge overwhelming sense of scale (a landscape, not a close crack).
 - **Light & atmosphere:** warm daylight glowing at the top, fading into cold darkness below; foreboding, vertiginous.
 - **Palette:** golden sunlit rock, cooling greys, black depths.
 - **Mood:** leaving the living world behind, descending toward something dead.
@@ -20,8 +20,8 @@
 
 ### @CorazonMuerto — el corazón muerto y hueco del planeta (INTRO)
 - **Style:** Studio Ghibli style LOCATION SHEET — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** the hollow dead core at the very center of the planet — a vast, black, bottomless cavern where a world's heart should be beating, and nothing does; utterly empty, lightless, silent, its far walls swallowed by the dark. The wound at the center of Erdia.
-- **Key elements:** an immense pitch-black hollow cavern, no visible floor, faint dead rock walls dissolving into void, total absence of life or glow, overwhelming scale, a single implied empty space where a heart of light once was.
+- **Location:** an immense cavernous void at the very center of the planet — a colossal empty black chamber the size of a buried cathedral-city, shown in a wide interior vista with faint distant rock walls curving away on every side; utterly empty, lightless, silent, where a world's heart should be beating and nothing does.
+- **Key elements:** a huge hollow cavern shown wide, faint distant curving rock walls receding on all sides, a vast empty black space with no floor visible far below, overwhelming scale and emptiness, near-total darkness (a giant chamber, not a small hole).
 - **Light & atmosphere:** near-total darkness, only the faintest cold edge-light grazing distant rock; dead, absolute silence.
 - **Palette:** black, deep charcoal, the faintest cold grey.
 - **Mood:** death, emptiness, the film's very first image — the silence before the title.
