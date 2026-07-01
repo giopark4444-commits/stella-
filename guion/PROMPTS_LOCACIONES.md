@@ -99,6 +99,24 @@
 - **Mood:** isolation, smallness, the point of no return.
 - **Negative:** no characters, no people, no text, no watermark, no logos, no spaceships.
 
+### @CabinaStella — el interior de la nave de Stella
+- **Style:** Studio Ghibli style, hand-painted anime background art, Satoshi Kon cinematic composition, film-grade lighting, soft grain, richly detailed painterly environment, no characters. 21:9 aspect ratio.
+- **Location:** the cramped single-seat cockpit interior of Vera's small escape ship: a curved canopy of glass over a compact naiel dashboard of soft-glowing controls and dials; a worn pilot seat, a wide starfield beyond the canopy; intimate, enclosing, a little fragile.
+- **Key elements:** curved glass canopy, compact glowing control panel and switches, a single worn seat, a small wrist-charge readout, warm indicator lights, the void of space outside the glass.
+- **Light & atmosphere:** soft glow of instrument lights on curved surfaces, cold starlight from the canopy; quiet, tight, lonely.
+- **Palette:** warm amber instrument glow, pale cockpit interior, cold space-black beyond.
+- **Mood:** refuge and trap at once — a tiny lifeboat in the void.
+- **Negative:** no characters, no people, no text, no watermark, no logos.
+
+### @CieloCiudadDorada — el cielo de la persecución sobre la ciudad
+- **Style:** Studio Ghibli style, hand-painted anime background art, Satoshi Kon cinematic composition, film-grade lighting, soft grain, richly detailed painterly environment, no characters. 21:9 aspect ratio.
+- **Location:** the open sky above the golden metropolis at the moment of the chase: honey-stone towers and light-bridges below, a warm hazy horizon — and on it, an imperial fleet of dark angular warships rising like a wall against the gold.
+- **Key elements:** towering honey-stone spires and glowing bridges seen from the air, deep aerial perspective between the towers, a distant dark imperial fleet massing on the horizon, wisps of cloud, streaks of light.
+- **Light & atmosphere:** warm golden-hour light turning tense, the dark fleet bruising the horizon; grand, kinetic, ominous.
+- **Palette:** honey gold and warm haze, darkening to the cold steel of the fleet.
+- **Mood:** beauty invaded — the last flight out.
+- **Negative:** no characters, no people, no text, no watermark, no logos.
+
 ---
 
 # 承 ACTO 2 · el exilio y Erdia pudriéndose
