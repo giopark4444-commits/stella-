@@ -8,7 +8,7 @@
 # 👤 PERSONAJES (31)
 
 ### @StellaRopa — Stella, 14, ropa civil (parque/lab)
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Stella, a 14-year-old naiel girl, cadet-in-training and the film's heroine, in her everyday civilian clothes.
 - **Appearance:** white hair worn in a single long braid down her back; warm amber eyes; light freckles across the nose and cheeks; slim, athletic, wiry build; fair skin with a sun-kissed glow; bright, open, confident face; simple soft naiel civilian clothing in light earthy tones, comfortable and made for running, barefoot or in light shoes.
 - **Key features:** long white braid; amber eyes; freckles; youthful athletic 14-year-old build; open, joyful expression.
@@ -17,7 +17,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @StellaArmadura — Stella, 14, traje de reconocimiento "04" (trenza)
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Stella, 14, in her recon suit / light armor during the escape from the lab.
 - **Appearance:** white hair still in a single long braid; amber eyes; freckles; slim athletic build; fair golden skin; grey-white recon suit / light armor marked with the number "04" and accented in orange, fitted sleek panels, soft naiel-tech detailing, holographic wrist band; determined, frightened face.
 - **Key features:** long white braid; amber eyes; freckles; grey-white "04" recon suit with orange accents; wrist band.
@@ -26,7 +26,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @StellaPeloCorto — Stella, ~15-18, traje "04" con pelo corto
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Stella growing from ~15 to ~18, in the recon suit with short, freshly-cut hair after the braid is cut.
 - **Appearance:** short, choppy freshly-cut white hair (the braid gone); amber eyes; freckles; slim but harder, more scarred and toughened athletic build; fair skin; the same grey-white "04" recon suit with orange accents, more worn and battered; guarded, hardening expression.
 - **Key features:** short white hair; amber eyes; freckles; grey-white "04" recon suit with orange accents; tougher, warier face.
@@ -35,7 +35,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @StellaTeñida — Stella, ~19, pelo teñido oscuro (camuflada)
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Stella, ~19, older and hardened, hair dyed dark to move unseen on ruined Erdia, wearing the new suit Nima built her.
 - **Appearance:** short-to-medium dark-dyed hair (white roots hidden); amber eyes; faint freckles; lean, strong, battle-worn adult build; fair skin, a little weathered; the @TrajeNuevo — a sleeker, self-built recon/combat suit in muted greys and warm accents, hood available; steady, resolute, guarded expression.
 - **Key features:** dark-dyed hair; amber eyes (unchanged); freckles; the new fitted combat suit; hardened, determined face.
@@ -44,7 +44,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @VeraRopa — Vera, ~40, la madre en túnicas naiel
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Vera, ~40, Stella's mother, warm and strong, strolling with her daughter in the park.
 - **Appearance:** long white hair, partly bound back; grey-blue eyes; warm, strong, kind face with soft maternal features; graceful upright build; fair skin; flowing naiel robes in soft gold and white, elegant and airy; serene, loving expression.
 - **Key features:** long white hair partly bound; grey-blue eyes; warm strong maternal face; flowing gold-and-white naiel robes.
@@ -53,7 +53,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @VeraArmadura — Vera en armadura de combate
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Vera, ~40, the mother in combat armor/gear while escaping with Stella.
 - **Appearance:** long white hair; grey-blue eyes; warm strong face now set hard and fierce; graceful but powerful build; fair skin; practical naiel combat armor/gear in pale metal, gold and muted tones, fitted protective panels over a bodysuit; tense, protective, resolute expression.
 - **Key features:** long white hair; grey-blue eyes; strong maternal-but-fierce face; pale gold-toned combat armor.
@@ -62,7 +62,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @VeraEncapuchada — Vera, líder de la resistencia, encapuchada
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Vera, older, the hidden leader of the resistance, cloaked and hooded.
 - **Appearance:** face mostly shadowed under a worn hood; beneath it, white hair (a strand escaping) and grey-blue eyes; strong woman's hands; older, weathered, grief-carved face; upright commanding build; a heavy travel-worn cloak/hood over layered resistance clothing in muted greys and browns; quiet, watchful, sorrowful presence.
 - **Key features:** hooded, face in shadow; white hair strand escaping the hood; grey-blue eyes; strong hands; worn muted cloak.
@@ -71,7 +71,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Naio — Naio, ~45, padre/científico
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Naio, ~45, Stella's father, the King's scientist, creator of Gix; warm, wise, tired.
 - **Appearance:** white/grey hair and a short white/grey beard; round glasses; tired, kind amber eyes; gentle, intelligent, warm face; slender scholarly build; fair skin; a white lab coat with gold seams over soft naiel clothing, a holographic gauntlet on one forearm; often shown holding the little light-axolotl Gix.
 - **Key features:** white/grey hair + short beard; round glasses; amber eyes; white lab coat with gold seams; holographic gauntlet.
@@ -80,7 +80,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @NaioEsclavo — Naio anciano, esclavo de las minas
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Naio, now aged and broken, a mine slave under the Empire.
 - **Appearance:** thin white/grey hair and unkempt white beard; tired amber eyes, one half-blind and clouded; deeply lined, gaunt, aged face; bent, stooped, frail build; grimy fair skin; chained wrists, mine-slave rags, worn and dirt-caked; broken but not extinguished presence.
 - **Key features:** amber eyes (one clouded); gaunt aged bearded face; stooped chained posture; ragged mine-slave clothing.
@@ -89,7 +89,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @NaioRescatado — Naio anciano, liberado
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Naio, the aged father freed from slavery, reunited with Stella.
 - **Appearance:** thin white/grey hair and beard, a little cleaner and combed; amber eyes, one half-blind and clouded, brimming with emotion; gaunt lined aged face, softened by relief; still stooped and frail but no longer chained; fair skin; simple clean resistance-refuge clothing in muted warm tones, a blanket or shawl over the shoulders.
 - **Key features:** amber eyes (one clouded); gaunt aged bearded face; stooped frail build; freed, unchained, in simple clean clothes.
@@ -98,7 +98,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @SelkaBebe — Selka, bebé de 1 año
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Selka, a 1-year-old baby, Stella's little sister.
 - **Appearance:** a soft wisp of white hair; big grey-blue eyes; round chubby infant face and body; soft fair baby skin; wrapped in pale soft cloth/swaddle in cream and gold tones; sweet, innocent, tiny.
 - **Key features:** wisp of white hair; grey-blue eyes; chubby 1-year-old baby; pale cloth swaddle.
@@ -107,7 +107,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @SelkaCadete — Selka adolescente, cadete imperial
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Selka as a teenage imperial cadet, raised by the Empire, before she becomes the General.
 - **Appearance:** white hair pulled back in a neat bun; grey-blue eyes; young, cold, disciplined face with a faint scar beginning over the left eye; slim, trained, upright adolescent build; fair skin; a crisp white-and-gold imperial cadet uniform, buttoned and immaculate; controlled, guarded, indoctrinated expression.
 - **Key features:** white hair in a bun; grey-blue eyes; nascent scar over the left eye; white-and-gold cadet uniform; cold disciplined bearing.
@@ -116,7 +116,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @SelkaGeneral — Selka, 21, la General imperial
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Selka, 21, the cold imperial General, Stella's grown sister who does not know it.
 - **Appearance:** white hair, sleek and severe; grey-blue eyes; perfect, cold, beautiful face marked by a distinct scar over the left eye; tall, disciplined, powerful build; fair skin; ornate white-and-gold imperial General's armor, regal and immaculate; carries a light-blade (@HojaSelka); icy, commanding, unreadable expression. (Later in Act 3 she becomes one-armed — missing an arm — after the throne-room events; her one-armed version can be shown as an alt.)
 - **Key features:** white hair; grey-blue eyes; scar over the left eye; white-and-gold imperial armor; light-blade; cold perfect bearing. (Later: missing one arm / one-armed.)
@@ -125,7 +125,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @SelkaNiña — Selka de niña pequeña 🔒
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Selka as a small child, the "it was me" apparition form.
 - **Appearance:** white hair, soft and short like a small child's; big grey-blue eyes; sweet, innocent little-child face; small delicate build; fair skin; simple pale naiel child's clothing; gentle, guileless, slightly uncanny stillness.
 - **Key features:** white hair; grey-blue eyes; small innocent child; pale simple clothing.
@@ -134,7 +134,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Gix — axolote de luz (NO humano)
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Gix, a small translucent axolotl-spirit of water and light, Naio's playful, empathetic creation.
 - **Appearance:** NOT human — a small light-axolotl; translucent luzagua-blue (water-and-light blue) body dusted with tiny golden star-points; a sweet smiling face with big dark round eyes; luminous golden frond-gills fanning from the head; a finned tail trailing a streak of light; a warm gold glow radiating from its chest; soft, gentle, glowing like a captured firefly.
 - **Key features:** translucent luzagua-blue body; sweet smiling face with big dark eyes; luminous golden frond-gills; light-trailing finned tail; warm gold chest glow. Luzagua-blue + warm gold only, NEVER cold steel-grey (steel-grey is the Empire).
@@ -143,7 +143,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Vorthan — el Rey
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Vorthan, the King — tall, ageless, regal, the film's antagonist wearing a benevolent mask.
 - **Appearance:** tall, ageless, imposing yet graceful; a calm, friendly smile that never reaches the eyes; refined regal features; upright commanding posture; ornate dark-and-gold imperial robes, layered and elaborate with imperial insignia; an aura of disarming warmth over cold menace.
 - **Key features:** tall ageless regal figure; calm friendly smile that never reaches the eyes; ornate dark-and-gold imperial robes.
@@ -152,7 +152,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Marek — líder cálido de la resistencia 🔒
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Marek, the warm, charismatic leader of the resistance the people follow.
 - **Appearance:** warm, open, trustworthy face with kind eyes and an easy inspiring smile; approachable and charismatic; average-to-tall sturdy build; naiel features; weathered but hopeful; humble worn resistance clothing — layered cloak, muted earthy tones, practical gear — nothing regal, deliberately of-the-people; a leader who radiates hope.
 - **Key features:** warm charismatic trustworthy face; inspiring easy smile; humble worn resistance clothing in muted earth tones.
@@ -161,7 +161,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Parasito — forma real de Vorthan 🔒
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** The Parasite — the true form of Vorthan, a ~300m colossal being with no fixed shape.
 - **Appearance:** NOT humanoid — a colossal (~300m) pitch-black mass built of countless human faces (the devoured) that surface, scream, cry and sink back as it endlessly transforms; a porous black membrane that drinks in all light, matte and lightless; no fixed form, no clean boundaries; alternate shapes it flows into — scattering shadow-spores, a giant-armed silhouette, a curtain of darkness draping a whole city, a gravity-vortex sphere. Show the model sheet as a few of these shifting states (colossal face-mass, spore cloud, giant-armed form, vortex sphere).
 - **Key features:** colossal ~300m black mass; countless screaming human faces surfacing and sinking; light-drinking porous black membrane; no fixed form; multiple morphing states.
@@ -170,7 +170,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Theron — el Cazador (especie Threa), cazarrecompensas ancestral
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Theron, tall alien male of the Threa species, an ancient bounty hunter centuries old; cold, patient, predatory.
 - **Appearance:** very tall and lean-imposing, of another species — non-human alien anatomy, weathered leathery skin with a subtle otherworldly hue, gaunt angular face with centuries of wear carved into it; deep-set eyes that never blink, unnaturally still; wears a long, layered hunter's coat and worn armor of a millennia-old tracker, dark ancient materials, utilitarian buckles and plates, a heavy silhouette that reads as old and dangerous.
 - **Key features:** unblinking, never-closing eyes; visibly ancient/aged alien face; tall imposing lean silhouette; long layered hunter's coat over old armor; cold, still, predatory stillness.
@@ -179,7 +179,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Brog — gigante de roca, el último de su especie
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Brog, a colossal, slow, silent rock giant — a living mountain of stone, the last of his kind; gentle, immensely powerful, protective.
 - **Appearance:** enormous mountain-shaped humanoid built entirely of cracked grey stone; massive boulder shoulders, huge slab-like hands, thick craggy limbs; a rugged pitted surface of rock and mineral, deep fissures running across his body glowing with a faint warm inner light; heavy, dense, monolithic silhouette; small calm eyes set in a broad craggy face; no clothing, his body is his armor.
 - **Key features:** body made of cracked grey stone with faint warm glowing cracks; gigantic monolithic mountain-like silhouette; huge slab hands; silent, calm expression; the last of his species.
@@ -188,7 +188,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Nima — mecánica de cuatro brazos
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Nima, a practical, warm, ingenious mechanic of an alien species with four arms; the crew's engineer and mother-figure.
 - **Appearance:** wiry adult female alien with four fully functional arms working in coordinated pairs, quick and dexterous; smart, weathered, kind face with clever eyes; smudges of grease on skin and cheeks; wears a well-worn mechanic's jumpsuit/coveralls with rolled sleeves, a tool-belt and harness of gadgets, straps and pouches crossing her torso, tools slotted everywhere, fingerless work-gloves on several hands.
 - **Key features:** FOUR arms (two pairs) always busy; grease-smudged mechanic's coveralls; tool-belt and gadget harness; warm, clever, no-nonsense expression; practical improviser.
@@ -197,7 +197,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Noah — humano joven espadachín (pelo oscuro, ojos marrones)
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Noah, a young human male survivor and swordsman, late teens/early twenties; scrappy, battered, refuses to quit.
 - **Appearance:** lean, wiry young human with a weathered, dirt-smudged face; messy DARK hair (NOT white); warm BROWN eyes that refuse to give up; a raggedy blue scarf wound around his neck (frayed, worn); a single armored shoulder pauldron on one side only; fingerless gloves; worn, mismatched survivor's gear and a backpack; carries a light-blade / energy sword and a sword (a swordsman, not a gunner, no firearms).
 - **Key features:** dark messy hair and BROWN eyes (never white hair); frayed blue scarf; ONE armored shoulder pauldron only; fingerless gloves and worn survivor gear with a backpack; light-blade / sword.
@@ -206,7 +206,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Vosk — matón enorme y cicatrizado (luego aliado leal)
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Vosk, a huge, scarred alien brute and crew tough; starts cruel and provoking, later becomes a fiercely loyal ally.
 - **Appearance:** massive, wall-like humanoid with heavy muscle and a broad, brutal build; thick neck, big fists; tough hide/skin marked with many old scars, a prominent scar across his face; hard, sneering features that later soften into loyalty; wears grimy heavy-duty crew clothing, reinforced vest, straps and worn plating, a scavenger's rough gear.
 - **Key features:** enormous wall-like brawler build; face and body covered in old scars; brutal sneer (later a rough loyalty); grimy heavy crew clothing with reinforced vest.
@@ -215,7 +215,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Korin — leal veterano de la resistencia
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Korin, an older, weary naieli resistance fighter, a loyalist of Vera who knew Stella as a child; common folk, hardened by twenty years of struggle.
 - **Appearance:** older adult naieli man, weathered lined face, tired but resolute eyes; ordinary features, NOT white-haired — greying/dark hair of his own; gaunt from years of scarcity; practical, patched resistance clothing — layered rugged coat, scarf/wrap, worn boots, an improvised energy weapon and a rebel armband/sash; a survivor's careful, watchful posture.
 - **Key features:** older, deeply weathered and weary face; his own greying/dark hair (not white); patched rugged resistance gear with armband; improvised energy weapon; watchful, careworn presence.
@@ -224,7 +224,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Lessa — leal de la resistencia
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Lessa, a hardened naieli resistance fighter and loyalist of Vera; ordinary person weathered by the occupation.
 - **Appearance:** adult naieli woman, lean and gaunt from hard years, a determined, careworn face with a small old scar; ordinary features, NOT white-haired — her own dark/auburn hair tied back practically; wears layered patched resistance clothing, a fitted rugged jacket, wrap and utility belt, worn boots, a rebel sash/armband and an improvised energy weapon slung across her.
 - **Key features:** gaunt, determined careworn face; her own dark/auburn tied-back hair (not white); patched practical resistance gear with sash/armband; improvised energy weapon; steady, resilient presence.
@@ -233,7 +233,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Piloto1 — piloto aliado (voz de radio, rostro en pantalla)
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Piloto1, an allied fighter pilot — the one who speaks over the radio and whose face we see; resolute, steady under fire; later captured in a cage.
 - **Appearance:** adult pilot, common-folk look, NOT white-haired — short dark hair of their own and an ordinary, determined face; wears a fitted flight suit with harness straps, a chest rig, a flight helmet held or worn (visor up), gloves; small squadron patches and worn oxygen line; grounded, capable posture.
 - **Key features:** resolute, determined face; NOT white hair (short dark hair); full pilot flight suit with harness and helmet; squadron rig; radio/comms detail.
@@ -242,7 +242,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Piloto2 — segundo piloto aliado
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Piloto2, a second allied fighter pilot with a distinct look; part of the sacrificing squad, later caged.
 - **Appearance:** adult pilot with a distinct silhouette from Piloto1, common-folk look, NOT white-haired — cropped light-brown or ginger hair and freckled, weathered face; heavier build; wears a scuffed flight suit with a different-colored squadron scarf, harness and chest rig, helmet with a distinct visor, patched gloves; a couple of personal charms clipped to the rig.
 - **Key features:** distinct from the other pilots; NOT white hair (cropped brown/ginger hair, freckles); scuffed flight suit with colored squadron scarf; harness and helmet with distinct visor.
@@ -251,7 +251,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Piloto3 — tercer piloto aliado
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Piloto3, a third allied fighter pilot with a distinct look; part of the sacrificing squad, later caged.
 - **Appearance:** adult pilot clearly distinct from the other two, common-folk look, NOT white-haired — dark shaved sides with a topknot or braids, an alien or older weathered face of their own; slim, agile build; wears a patched flight suit in a different cut, a mismatched pauldron, harness and chest rig, a helmet clipped to the belt, goggles pushed up on the forehead, worn gloves.
 - **Key features:** distinct from Piloto1 and Piloto2; NOT white hair (dark shaved-sides with topknot/braids); patched flight suit with mismatched pauldron; goggles on forehead, helmet on belt.
@@ -260,7 +260,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @S1G1 — robot asesino esbelto
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** S1G1, a sleek dark assassin robot sent by the Empire; fast, silent, lethal — an execution machine, not a soldier.
 - **Appearance:** tall, slim, humanoid killer robot with a lithe predatory build; matte black-grey plating that seems to drink the light around it, smooth segmented armor over cable-like joints; NO face — a single glowing cold optic (a lone burning eye) set in a narrow head; sharp, minimal silhouette built for speed and quiet; bladed, precise limbs; unnervingly still until it strikes.
 - **Key features:** matte black-grey light-swallowing plating; SINGLE glowing cold optic (one eye); slim, sleek, fast predatory build; silent, unnatural stillness; markedly slimmer than the imperial soldier robots.
@@ -269,7 +269,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @RobotImperial — soldado robot imperial
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** RobotImperial, a standard white/grey imperial soldier robot; mass-produced, faceless, bulky trooper.
 - **Appearance:** heavy humanoid combat robot in clean white and grey plating with imperial gold trim; bulky, armored torso and thick limbs, broad shoulders; NO face — a smooth faceless visor band across the head where eyes would be; blocky, uniform, mass-produced silhouette; visibly more voluminous and heavier than the slim @S1G1; carries energy weaponry.
 - **Key features:** white/grey plating with imperial accents; faceless smooth visor (no face); bulky, heavy, blocky build; clearly more voluminous than @S1G1; uniform mass-produced trooper.
@@ -278,7 +278,7 @@
 - **Negative:** no text, no watermark, no logos, only one character, no extra characters.
 
 ### @CazadorRecompensas — cazarrecompensas local del planeta chatarra
-- **Style:** Studio Ghibli style, hand-painted anime character reference sheet, clean neutral background, front view and 3/4 view full-body plus a face close-up, consistent model-sheet design, soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Style:** Studio Ghibli style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** CazadorRecompensas, a rough local bounty hunter from the junk planet; rugged, improvised, opportunistic — the kind who ambushes and cages people for reward.
 - **Appearance:** grizzled alien/humanoid bounty hunter with a rough, hardened look; scrappy, improvised outfit cobbled from salvaged scrap-planet materials — mismatched armor plates, patched leather, scavenged straps, a jury-rigged helmet or breather mask; goggles, dust-wrap and a worn cloak against the bruised-sky dust; slung with restraints, nets, control collars and an improvised energy weapon; tough, cynical bearing.
 - **Key features:** improvised scrap-cobbled armor and gear (mismatched salvaged parts); rugged hardened look with breather/goggles and dust-wrap; carries nets, restraints and control collars; junk-planet local, opportunistic.
