@@ -1,485 +1,620 @@
-acto,secuencia,plano,tipo,movimiento,descripcion,dialogo,dur_seg,acumulado
-ACTO 1,SEC 1 — Superficie de Erdia,1,Plano detalle,Fijo,Negro absoluto. Una fina línea de luz raja la oscuridad: el borde de un planeta amaneciendo.,,6,0:06
-ACTO 1,SEC 1 — Superficie de Erdia,2,Gran plano general,Aéreo,"La cámara cae hacia el planeta, atraviesa nubes doradas sobre cordilleras vivas.",,7,0:13
-ACTO 1,SEC 1 — Superficie de Erdia,3,Plano general,Grúa,Vuelo rasante sobre bosques que respiran bajo luz dorada.,,5,0:18
-ACTO 1,SEC 1 — Superficie de Erdia,4,Plano general,Dolly in,"La cámara encuentra una grieta: una fractura seca en la corteza, como cicatriz sin curar.",,6,0:24
-ACTO 1,SEC 1 — Superficie de Erdia,5,Plano general,Travelling,Descenso por la grieta; las paredes de roca pasan de doradas a grises.,,6,0:30
-ACTO 1,SEC 1 — Superficie de Erdia,6,Plano detalle,Travelling,"Las paredes se oscurecen de grises a negras. Más hondo, más hondo.",,5,0:35
-ACTO 1,SEC 1 — Superficie de Erdia,7,Gran plano general,Dolly out,"Llegamos al centro del mundo: una caverna negra, hueca, sin fondo. No late nada.",,8,0:43
-ACTO 1,SEC 1 — Superficie de Erdia,8,Plano detalle,Fijo,Negro total. Silencio sostenido. Aparece el TÍTULO: STELLA FUGAZ.,,7,0:50
-ACTO 1,SEC 2 — Parque de la Luzagua,9,Gran plano general,Tilt,CORTE BRUSCO a un cielo azul deslumbrante. Una carcajada rompe el silencio.,,4,0:54
-ACTO 1,SEC 2 — Parque de la Luzagua,10,Plano general,Travelling,"Stella (14), pelo blanco al viento, descalza, corre imparable por la hierba del parque.",,5,0:59
-ACTO 1,SEC 2 — Parque de la Luzagua,11,Plano detalle,Paneo,Junto a ella corre un río de luzagua; la gente lo deja pasar entre las manos.,,4,1:03
-ACTO 1,SEC 2 — Parque de la Luzagua,12,Primer plano,Fijo,Stella se toca el brazalete en la muñeca; del aire se enciende una chispa.,,3,1:06
-ACTO 1,SEC 2 — Parque de la Luzagua,13,Plano detalle,Cámara en mano,"GIX, criatura de luz mitad chispa mitad travesura, escapa volando.",,3,1:09
-ACTO 1,SEC 2 — Parque de la Luzagua,14,Plano entero,Steadicam,"Stella corre tras Gix, riendo, esquivando a la gente.",,4,1:13
-ACTO 1,SEC 2 — Parque de la Luzagua,15,Plano medio,Travelling,"Detrás, sin apuro, camina Vera (madre, ~40, pelo blanco recogido, ojos gris-azul).",Despacio. Te vas a partir la cabeza el día antes de tu última prueba.,5,1:18
-ACTO 1,SEC 2 — Parque de la Luzagua,16,Plano americano,Steadicam,"Stella, de espaldas y sin frenar, responde a su madre.","Mamá, soy la mejor de mi nivel. Te voy a hacer sentir orgullosa.",5,1:23
-ACTO 1,SEC 2 — Parque de la Luzagua,17,Primer plano,Fijo,Stella se detiene de golpe. Algo enorme le tapa el sol; su cara cambia.,,3,1:26
-ACTO 1,SEC 2 — Parque de la Luzagua,18,Contrapicado,Tilt,"REVELACIÓN: un MECHA colosal arrodillado para siempre, cubierto de flores y enredaderas.",,6,1:32
-ACTO 1,SEC 2 — Parque de la Luzagua,19,Gran plano general,Grúa,El gigante dormido bajo un jardín; Stella pequeñita a sus pies.,,5,1:37
-ACTO 1,SEC 2 — Parque de la Luzagua,20,Plano medio,Contrapicado,"Stella lo mira hacia arriba, empequeñecida y pensativa.",¿Por qué dejamos de hacerlo? Conquistar planetas. Éramos los más fuertes del cielo.,6,1:43
-ACTO 1,SEC 2 — Parque de la Luzagua,21,Plano medio,Fijo,Vera la alcanza. Esto lo dice en serio; se agacha a su altura.,Eso no es tan romántico como suena. Lo quisimos todo… y por poco nos quedamos sin nada.,6,1:49
-ACTO 1,SEC 2 — Parque de la Luzagua,22,Plano detalle,Fijo,La mano de Vera muestra el río de luzagua corriendo entre los dedos.,"Una persona es como un río, Stella. Si lo represas para ti, se pudre.",5,1:54
-ACTO 1,SEC 2 — Parque de la Luzagua,23,Primer plano,Dolly in,"Vera, seria, remata la lección con la mirada fija en su hija.",Y envenena a todos los que están aguas abajo.,5,1:59
-ACTO 1,SEC 2 — Parque de la Luzagua,24,Primer plano,Fijo,Stella asiente muy seria… pero sus ojos ya buscan a Gix. Tiene catorce años; no lo entiende aún.,,4,2:03
-ACTO 1,SEC 2 — Parque de la Luzagua,25,Plano detalle,Paneo,"Gix la llama desde un árbol, parpadeando.",,3,2:06
-ACTO 1,SEC 2 — Parque de la Luzagua,26,Primer plano,Fijo,Vera lo nota. Sonríe con un poco de tristeza y la deja ir.,Voy por tu hermana. Nos vemos en casa para la cena.,5,2:11
-ACTO 1,SEC 2 — Parque de la Luzagua,27,Plano entero,Paneo,"Stella ya corriendo, de espaldas, gritando alegre hacia su madre.",¡Dile a Selka que esta vez le gané a Gix!,4,2:15
-ACTO 1,SEC 2 — Parque de la Luzagua,28,Plano general,Fijo,"Stella se aleja riendo, blanca contra el verde del parque.",,5,2:20
-ACTO 1,SEC 2 — Parque de la Luzagua,29,Primer plano,Dolly in,"HOLD emocional en Vera mirándola: una madre en el último día bueno de su vida, y solo nosotros lo sabemos.",,8,2:28
-ACTO 1,SEC 3 — Laboratorio de Naio,30,Plano medio,Fijo,"La puerta se abre; entra Stella riendo, con Gix dándole vueltas.","Me mandaron llamar, ¿qué es tan importante que no puede esp—",4,2:32
-ACTO 1,SEC 3 — Laboratorio de Naio,31,Primer plano,Fijo,La risa se le apaga sola al ver la escena.,,3,2:35
-ACTO 1,SEC 3 — Laboratorio de Naio,32,Plano general,Fijo,"POV/revelación: Vera y Naio (~45, científico del Rey) de pie ante una proyección de datos, graves.",,5,2:40
-ACTO 1,SEC 3 — Laboratorio de Naio,33,Plano detalle,Fijo,"En un moisés flotante duerme la bebé Selka (1 año, ojos gris-azul).",,3,2:43
-ACTO 1,SEC 3 — Laboratorio de Naio,34,Primer plano,Fijo,La sonrisa de Stella cae del todo.,…¿Todo está bien?,4,2:47
-ACTO 1,SEC 3 — Laboratorio de Naio,35,Plano medio,Fijo,Nadie contesta. Naio le tiende un traje plegado.,Póntelo. Rápido.,4,2:51
-ACTO 1,SEC 3 — Laboratorio de Naio,36,Plano americano,Fijo,Stella obedece sin entender y empieza a vestirse.,,3,2:54
-ACTO 1,SEC 3 — Laboratorio de Naio,37,Primer plano,Dolly in,"Naio se acerca y baja la voz, como quien confiesa algo prohibido en su propia casa.",Escúchame bien. El Rey no nos está protegiendo.,4,2:58
-ACTO 1,SEC 3 — Laboratorio de Naio,38,Primerísimo primer plano,Fijo,"Los ojos de Naio, graves.",Se está comiendo el planeta desde adentro. Y está muriendo.,5,3:03
-ACTO 1,SEC 3 — Laboratorio de Naio,39,Plano general,Dolly in,La proyección repite el descenso de la SEC. 1 hasta el corazón negro y hueco: Erdia vaciándose.,,5,3:08
-ACTO 1,SEC 3 — Laboratorio de Naio,40,Primer plano,Fijo,"Stella, incrédula.",…Eso no es posible. El Orbe le da vida a todo. Tú me lo enseñaste.,5,3:13
-ACTO 1,SEC 3 — Laboratorio de Naio,41,Primer plano,Fijo,"Contraplano de Naio, tajante.",Por eso lo quiere.,3,3:16
-ACTO 1,SEC 3 — Laboratorio de Naio,42,Plano detalle,Fijo,Naio activa una máquina sobre la mano abierta de Stella.,,3,3:19
-ACTO 1,SEC 3 — Laboratorio de Naio,43,Inserto,Fijo,"Una llave de luz se graba bajo la piel de la palma, con dolor breve y limpio.",,3,3:22
-ACTO 1,SEC 3 — Laboratorio de Naio,44,Primerísimo primer plano,Fijo,Stella aprieta los dientes por el dolor.,,2,3:24
-ACTO 1,SEC 3 — Laboratorio de Naio,45,Primer plano,Fijo,"Naio le cierra la mano y sostiene su mirada, revelando el secreto de sangre.","El Orbe es nuestra sangre, Stella. Solo nuestra familia puede tocarlo.",5,3:29
-ACTO 1,SEC 3 — Laboratorio de Naio,46,Primer plano,Dolly in,"Naio la mira a los ojos, cerrando la explicación.",Lo que acabo de hacerte te permite integrarlo. Meterlo dentro de ti. Y una vez dentro… solamente tú podrías usarlo. Nadie más.,6,3:35
-ACTO 1,SEC 3 — Laboratorio de Naio,47,Plano medio,Fijo,"Stella no alcanza a procesarlo. Detrás, la bebé Selka se despierta y llora.",,4,3:39
-ACTO 1,SEC 3 — Laboratorio de Naio,48,Plano entero,Steadicam,"Por instinto de hermana mayor, Stella deja todo y va hacia la bebé.",,3,3:42
-ACTO 1,SEC 3 — Laboratorio de Naio,49,Plano medio,Fijo,Se inclina sobre el moisés y ahueca la mano.,,3,3:45
-ACTO 1,SEC 3 — Laboratorio de Naio,50,Inserto,Fijo,Una chispa de Gix baja y baila en su palma como una luciérnaga.,,3,3:48
-ACTO 1,SEC 3 — Laboratorio de Naio,51,Primer plano,Dolly in,Stella junta su frente a la de la bebé. Las dos sonríen. Selka se calma al instante.,,6,3:54
-ACTO 1,SEC 3 — Laboratorio de Naio,52,Plano detalle,Fijo,Momento minúsculo y tibio de hermanas. Guardarlo. (Volverá.),,4,3:58
-ACTO 1,SEC 3 — Laboratorio de Naio,53,Plano detalle,Fijo,"Inserto sonoro/visual: pasos, muchos, acercándose por el corredor.",,2,4:00
-ACTO 1,SEC 3 — Laboratorio de Naio,54,Plano medio,Fijo,Naio y Vera se cruzan una mirada. Se acabó el tiempo.,,3,4:03
-ACTO 1,SEC 3 — Laboratorio de Naio,55,Plano medio,Fijo,"Naio, rápido y firme, da la orden.",Llegaron. Tomen a Selka. Vayan por el Orbe.,4,4:07
-ACTO 1,SEC 3 — Laboratorio de Naio,56,Primerísimo primer plano,Fijo,"Naio agarra la cara de Stella con las dos manos, urgente.","Cuando lo tengas, ponlo en tu mano. Y pase lo que pase… nunca, nunca dejes que él lo tenga. ¿Me oyes?",6,4:13
-ACTO 1,SEC 3 — Laboratorio de Naio,57,Primer plano,Fijo,"Naio, decidido a sacrificarse.",Yo los retengo.,3,4:16
-ACTO 1,SEC 3 — Laboratorio de Naio,58,Primer plano,Fijo,Stella al borde del quiebre.,"Papá, no—",2,4:18
-ACTO 1,SEC 3 — Laboratorio de Naio,59,Primer plano,Dolly in,"Naio la corta, cargándolo todo en una despedida.",Te quiero. Las tres. Ya.,4,4:22
-ACTO 1,SEC 3 — Laboratorio de Naio,60,Plano medio,Fijo,"Un abrazo de los tres, demasiado corto. Vera levanta a la bebé.",,4,4:26
-ACTO 1,SEC 3 — Laboratorio de Naio,61,Plano general,Fijo,La puerta principal se abre.,,2,4:28
-ACTO 1,SEC 3 — Laboratorio de Naio,62,Contrapicado,Dolly in,"Entra VORTHAN, el Rey: alto, sereno, con sonrisa de viejo amigo. Soldados-robot detrás llenan el umbral como una sombra.",Naio. Viejo amigo.,6,4:34
-ACTO 1,SEC 3 — Laboratorio de Naio,63,Plano medio,Paneo,"El Rey pasea la mirada por la escena: el traje, el moisés vacío.",Sabías que este día llegaría.,5,4:39
-ACTO 1,SEC 3 — Laboratorio de Naio,64,Plano entero,Cámara en mano,"Vera y Stella se deslizan hacia la salida trasera, despacio, sin correr todavía.",,3,4:42
-ACTO 1,SEC 3 — Laboratorio de Naio,65,Primerísimo primer plano,Fijo,Los ojos del Rey lo ven todo.,No las dejen escapar.,4,4:46
-ACTO 1,SEC 3 — Laboratorio de Naio,66,Plano medio,Cámara en mano,Naio se interpone y activa un campo de fuerza entre el Rey y su familia: tres segundos.,,3,4:49
-ACTO 1,SEC 3 — Laboratorio de Naio,67,Plano medio,Fijo,El Rey lo mira casi con pena.,,3,4:52
-ACTO 1,SEC 3 — Laboratorio de Naio,68,Plano entero,Whip-pan,"De un solo golpe derriba a Naio, como quien aparta una rama.",,2,4:54
-ACTO 1,SEC 3 — Laboratorio de Naio,69,Primerísimo primer plano,Fijo,"Stella, grito ahogado de horror.",¡PAPÁ!,3,4:57
-ACTO 1,SEC 3 — Laboratorio de Naio,70,Plano entero,Cámara en mano,Vera la arranca de ahí. Corren.,,2,4:59
-ACTO 1,SEC 4 — Pasillos del palacio,71,Plano general,Steadicam,Vera y Stella corren a toda velocidad; Vera lleva a la bebé apretada al pecho.,,4,5:03
-ACTO 1,SEC 4 — Pasillos del palacio,72,Plano detalle,Cámara en mano,"Detrás, lejos pero acercándose, el zumbido de los robots imperiales.",,2,5:05
-ACTO 1,SEC 4 — Pasillos del palacio,73,Plano medio,Steadicam,"Vera habla entrecortado sin dejar de correr, brutal de tan clara.","Recuérdalo, Stella: nada es más importante que ese Orbe. Nada.",4,5:09
-ACTO 1,SEC 4 — Pasillos del palacio,74,Primer plano,Steadicam,Vera la mira un segundo en plena carrera.,"Ni yo. Ni tu hermana. Sin él, el planeta entero muere. Todos. ¿Entiendes?",5,5:14
-ACTO 1,SEC 4 — Pasillos del palacio,75,Primer plano,Steadicam,"Stella corriendo, los ojos llenos.",Entiendo. Tú solo cuida de Selka.,4,5:18
-ACTO 1,SEC 4 — Pasillos del palacio,76,Primer plano,Steadicam,"Vera la mira de reojo y, en plena huida, le sonríe: una sonrisa imposible y por eso más fuerte.","Pase lo que pase, llega a la nave. La dejé afuera, en la salida que da al parque.",5,5:23
-ACTO 1,SEC 4 — Pasillos del palacio,77,Plano general,Cámara en mano,Una pared estalla. Entran los primeros robots.,,2,5:25
-ACTO 1,SEC 4 — Pasillos del palacio,78,Plano detalle,Whip-pan,Inserto de impacto: escombros y siluetas robóticas surgiendo del boquete.,,1,5:26
-ACTO 1,SEC 4 — Pasillos del palacio,79,Plano entero,Cámara en mano,"Vera pelea con un brazo cubriendo a la bebé, golpeando a un robot mientras avanza.",,2,5:28
-ACTO 1,SEC 4 — Pasillos del palacio,80,Plano americano,Whip-pan,"Stella se mueve con agilidad de quien entrenó toda su vida, esquivando y golpeando.",,2,5:30
-ACTO 1,SEC 4 — Pasillos del palacio,81,Inserto,Fijo,"Un puño de luz de Stella revienta el torso de un robot; violencia por luz, sin sangre.",,1,5:31
-ACTO 1,SEC 4 — Pasillos del palacio,82,Plano general,Steadicam,Madre e hija se abren paso entre los robots hacia el fondo.,,3,5:34
-ACTO 1,SEC 4 — Pasillos del palacio,83,Plano general,Dolly in,Al fondo aparecen las enormes puertas de la SALA DEL ORBE.,,3,5:37
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),84,Gran plano general,Grúa,"Una cámara inmensa. En el centro, suspendido, el ORBE: esfera de luzagua pura latiendo como un corazón.",,6,5:43
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),85,Plano general,Fijo,Vera y Stella entran por un lado.,,2,5:45
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),86,Plano general,Fijo,"Por el lado opuesto, al mismo tiempo, entra VORTHAN.",,2,5:47
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),87,Plano medio,Whip-pan,Se miran a través de la sala: una carrera de un solo latido.,,3,5:50
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),88,Primer plano,Fijo,Vera grita la orden.,¡Ve por el Orbe! ¡AHORA!,2,5:52
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),89,Plano entero,Travelling,Stella arranca hacia la esfera a toda velocidad.,,2,5:54
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),90,Plano general,Cámara en mano,"Los robots se cierran sobre Vera, que pelea protegiendo a Selka sin poder seguir a Stella.",,3,5:57
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),91,Plano entero,Dolly in,"Entra OTRO: S1G1, un robot distinto, oscuro, esbelto, rápido, silencioso. Un asesino.",,4,6:01
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),92,Primer plano,Fijo,"Vera lo ve y entiende: esto ya no es una pelea, es una ejecución.",,4,6:05
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),93,Plano medio,Cámara en mano,"Vera acomoda a la bebé en el hueco de un panel, lejos, a salvo.",,3,6:08
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),94,Plano americano,Fijo,"Se planta frente a S1G1, en guardia.",,2,6:10
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),95,Plano entero,Cámara en mano,Pelea de verdad: Vera da todo lo que tiene contra el asesino.,,3,6:13
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),96,Inserto,Whip-pan,Impacto: S1G1 bloquea y contragolpea con precisión letal.,,1,6:14
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),97,Plano medio,Cámara en mano,S1G1 la neutraliza; Vera cae.,,2,6:16
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),98,Primer plano,Fijo,"Aun cayendo, su último movimiento es cubrir a Selka con el cuerpo.","¡STELLA, CORRE! ¡NO MIRES ATRÁS!",4,6:20
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),99,Plano detalle,Fijo,"Stella a tres pasos del Orbe, la mano extendida.",,2,6:22
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),100,Primer plano,Fijo,Stella no obedece: se da media vuelta.,,2,6:24
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),101,Plano entero,Travelling,Corre hacia su madre con toda su fuerza. Rompe la única regla. Por amor.,,3,6:27
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),102,Primer plano,Fijo,"Vera, desesperada, grita.",¡NO! ¡NO TE ACERQUES!,2,6:29
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),103,Plano entero,Whip-pan,Demasiado tarde: VORTHAN la intercepta y la atrapa por la trenza.,,2,6:31
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),104,Contrapicado,Fijo,"La levanta del piso; Stella cuelga inmóvil, pataleando en el aire.",,3,6:34
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),105,Primerísimo primer plano,Fijo,Stella llora de rabia e impotencia.,,3,6:37
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),106,Primer plano,Dolly in,"El Rey, sosteniéndola del pelo, ríe por lo bajo, suave y casi paternal.",Tan parecida a tu madre. Corriendo hacia lo que ama.,5,6:42
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),107,Primer plano,Fijo,Sentencia del Rey.,Por eso siempre pierden.,3,6:45
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),108,Plano medio,Fijo,"En el suelo, Vera junta lo último que le queda y levanta las dos manos hacia su hija.",,3,6:48
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),109,Inserto,Fijo,Se forma un escudo de luz alrededor de Stella.,,2,6:50
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),110,Plano medio,Fijo,"En ese instante, S1G1 detrás de Vera le perfora el corazón. Violencia por luz, sin sangre.",,2,6:52
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),111,Primerísimo primer plano,Fijo,"Stella, un grito que se rompe.",¡MAMÁ!,3,6:55
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),112,Primer plano,Dolly in,"Vera la mira, sosteniendo el escudo con la vida que se le escapa. Mueve los labios.",Huye.,5,7:00
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),113,Primer plano,Fijo,"Stella, colgada del pelo, atrapada, ve morir a su madre a un metro. HOLD desgarrador.",,5,7:05
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),114,Plano detalle,Fijo,Saca de su traje un cuchillo láser.,,2,7:07
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),115,Inserto,Fijo,Se lleva la hoja a la nuca y se corta la trenza de un tajo.,,2,7:09
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),116,Plano entero,Fijo,"Cae libre al piso, con el pelo corto.",,2,7:11
-ACTO 1,SEC 5 — Sala del Orbe (muerte de Vera),117,Plano medio,Fijo,El escudo de Vera se apaga con ella.,,4,7:15
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),118,Plano entero,Cámara en mano,"Stella rueda, se levanta y ahora sí corre hacia el Orbe, rota por dentro pero corriendo.",,3,7:18
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),119,Inserto,Whip-pan,Esquiva a un robot. A otro. Salta.,,2,7:20
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),120,Plano detalle,Dolly in,Su mano se cierra sobre la esfera. Toma el Orbe.,,3,7:23
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),121,Inserto,Fijo,"La llave de la palma se enciende; la esfera se integra, se hace pequeña y late en su mano.",,3,7:26
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),122,Plano detalle,Fijo,La muñequera marca: 'MAX'.,,2,7:28
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),123,Plano entero,Contrapicado,Los propulsores del traje rugen; Stella despega hacia un ducto estrecho en lo alto del techo.,,3,7:31
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),124,Primer plano,Fijo,"Antes de entrar, una fracción de segundo, mira hacia abajo.",,2,7:33
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),125,Picado,Fijo,"POV de Stella: su madre tirada, quieta; la bebé Selka llorando junto al cuerpo. Las ve por última vez.",,5,7:38
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),126,Primerísimo primer plano,Fijo,"Stella aprieta los dientes, tragándose todo.",,2,7:40
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),127,Plano detalle,Travelling,Entra al ducto y se lanza por el túnel estrecho.,,2,7:42
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),128,Plano entero,Travelling,"S1G1 dispara sus propulsores y la persigue dentro del túnel, ganando terreno.",,3,7:45
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),129,Plano detalle,Cámara en mano,"A centímetros de sus botas, la mano metálica de S1G1.",,2,7:47
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),130,Inserto,Fijo,S1G1 se atasca en el orificio. Forcejea. Chispas.,,2,7:49
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),131,Plano general,Whip-pan,"EXPLOTA. La onda escupe a Stella por el otro lado, al cielo abierto.",,3,7:52
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),132,Plano general,Grúa,"ABAJO, en la sala: Vera muerta en el piso, la bebé llorando a su lado.",,4,7:56
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),133,Plano medio,Dolly in,"VORTHAN se acerca sin prisa y levanta a Selka en brazos. La bebé se calla, mirándolo.",,5,8:01
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),134,Plano medio,Fijo,Dos robots se inclinan a recoger el cuerpo de Vera; el Rey los detiene con un gesto.,,3,8:04
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),135,Primer plano,Fijo,"El Rey, frío, sin mirar a Vera.",¿Qué hacen? Ya está muerta.,4,8:08
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),136,Plano medio,Fijo,Se da la vuelta con la bebé y da la orden.,Salgan a buscar a Stella. Necesitamos ese Orbe.,4,8:12
-ACTO 1,SEC 6 — Sala del Orbe (Stella toma el Orbe),137,Plano general,Grúa,"Los robots sueltan el cuerpo y salen. El Rey se va con la bebé, dejando a Vera tirada en el suelo de su propia casa.",,6,8:18
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,138,Plano general,Grúa,Stella sale disparada del palacio y cae sobre la nave que Vera escondió.,,3,8:21
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,139,Plano medio,Cámara en mano,"Se mete dentro, manos temblando, y arranca.",,3,8:24
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,140,Gran plano general,Paneo,"Apenas despega, en el horizonte dorado aparece una FLOTA IMPERIAL: decenas de naves.",,5,8:29
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,141,Plano general,Travelling,"Empieza la persecución. Stella vuela como nadie, metiéndose entre las torres.",,3,8:32
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,142,Plano detalle,Cámara en mano,Raspa los puentes; chispas contra el metal.,,2,8:34
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,143,Inserto,Whip-pan,Hace chocar a dos perseguidores contra un edificio; estallan.,,2,8:36
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,144,Primer plano,Fijo,"Stella concentrada al mando; es brillante, pero son demasiados.",,3,8:39
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,145,Plano detalle,Fijo,Una nave imperial la encuadra en su punto de mira. El disparo va a salir.,,2,8:41
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,146,Inserto,Whip-pan,"La nave enemiga estalla, reventada desde un costado.",,2,8:43
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,147,Plano general,Grúa,"Aparecen OTRAS NAVES: aliados. Se interponen, abren fuego, le hacen un pasillo en el cielo.",,4,8:47
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,148,Plano medio,Fijo,Stella escucha la radio; una voz de mujer con calma de quien ya decidió morir.,Stella. Tu madre nos contó lo que pasaba.,4,8:51
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,149,Plano general,Whip-pan,"Al fondo, otra nave aliada se sacrifica contra la flota.",Estamos aquí para protegerte. No dejes que nuestro sacrificio sea en vano.,5,8:56
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,150,Primer plano,Fijo,"Stella al borde del llanto, sin entender.",¿Quiénes son ustedes? ¡No los conozco! ¡No—!,4,9:00
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,151,Plano medio,Fijo,"La voz de radio, firme, le encarga la misión.",No dejes que nadie consiga ese Orbe. Nadie.,4,9:04
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,152,Primer plano,Dolly in,La voz cierra su testamento a Stella.,Ve lejos. Hazte fuerte. Y vuelve algún día a salvarnos. Te vamos a estar esperando.,6,9:10
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,153,Plano general,Grúa,"Una a una, las naves aliadas se interponen y revientan, abriéndole camino al espacio.",,4,9:14
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,154,Plano detalle,Fijo,"Tres naves son derribadas sin estallar, forzadas; la flota captura vivos a sus tres pilotos.",,3,9:17
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,155,Primer plano,Fijo,Stella lo ve todo en el retrovisor: los que mueren y los tres que se llevan presos.,,5,9:22
-ACTO 1,SEC 7 — Cielo de la Ciudad Dorada,156,Gran plano general,Dolly out,Y sale. Al vacío. Sola.,,5,9:27
-ACTO 1,SEC 8 — Nave de Stella / Espacio profundo,157,Gran plano general,Fijo,"El silencio del espacio. Erdia, dorada y enferma, se encoge detrás.",,6,9:33
-ACTO 1,SEC 8 — Nave de Stella / Espacio profundo,158,Plano detalle,Fijo,Una alarma suave. Luego otra. El panel marca: OXÍGENO CRÍTICO.,,4,9:37
-ACTO 1,SEC 8 — Nave de Stella / Espacio profundo,159,Primer plano,Dolly in,"Stella respira cada vez más despacio; llora sin ruido. Catorce años, sin aire en mitad de la nada.",,7,9:44
-ACTO 1,SEC 8 — Nave de Stella / Espacio profundo,160,Plano detalle,Fijo,"Mira su mano: la llave de luz, el Orbe latiendo dentro.",,4,9:48
-ACTO 1,SEC 8 — Nave de Stella / Espacio profundo,161,Plano medio,Fijo,"En un acto de pura desesperación, sin saber lo que hace, pone la palma sobre el tablero.",,4,9:52
-ACTO 1,SEC 8 — Nave de Stella / Espacio profundo,162,Inserto,Fijo,La energía del Orbe fluye hacia la nave; los paneles se encienden uno tras otro.,,3,9:55
-ACTO 1,SEC 8 — Nave de Stella / Espacio profundo,163,Plano detalle,Cámara en mano,"La carga sube y sube; todo el sistema tiembla, se sobrecarga, colapsa.",,3,9:58
-ACTO 1,SEC 8 — Nave de Stella / Espacio profundo,164,Plano general,Whip-pan,La nave da un HÍPER SALTO.,,2,10:00
-ACTO 1,SEC 8 — Nave de Stella / Espacio profundo,165,Gran plano general,Dolly out,Un estallido de luz blanca se traga la pantalla; la nave es arrancada de su universo. Blanco total.,,5,10:05
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",166,Gran plano general,Grúa,"Bajo un cielo todavía azul, VORTHAN habla ante una multitud inmensa. Voz de luto, perfecta.",Hoy nos han robado.,6,10:11
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",167,Plano medio,Dolly in,El Rey deja caer la palabra desde el balcón.,"El Orbe —el corazón de Erdia, la fuente de todo lo que somos— ha sido arrancado de nuestro mundo.",6,10:17
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",168,Plano general,Paneo,Murmullo de horror en la plaza; rostros descompuestos entre la multitud.,,4,10:21
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",169,Primer plano,Fijo,"Vorthan continúa, sembrando el miedo.","Sin él, la luz se irá. El agua se irá. Y nuestro planeta… empezará a morir.",5,10:26
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",170,Plano general,Dolly in,"Detrás de él, exhibidos en jaulas, los TRES PILOTOS que salvaron a Stella, presos y vencidos.",,5,10:31
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",171,Primer plano,Fijo,El Rey lanza la acusación.,¿Y quién nos ha condenado a esto? Una de los nuestros.,4,10:35
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",172,Primer plano,Dolly in,Retorciendo la verdad con calma venenosa.,Una niña a la que le dimos todo. Que prefirió quedarse con la luz de todos antes que dejarla correr.,6,10:41
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",173,Primerísimo primer plano,Fijo,"La palabra final, como una sentencia.",Stella. Ladrona. Traidora.,5,10:46
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",174,Plano general,Cámara en mano,"La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio.",,5,10:51
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",175,Plano medio,Fijo,"Vorthan sostiene a la bebé Selka en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender.",,5,10:56
-ACTO 1,"SEC 9 — Palacio, balcón real [Año 0]",176,Primer plano,Dolly in,"Muy despacio, casi sin que se note, el Rey le acaricia la cabeza, como un padre. HOLD siniestro. CORTE A NEGRO.",,7,11:03
-ACTO 2,SEC 10 — Bahía de carga de Theron,1,Plano detalle,Fijo,Goteo metálico cae sobre una superficie oscura y fría; una gota tras otra en luz azul industrial.,,4,11:07
-ACTO 2,SEC 10 — Bahía de carga de Theron,2,Gran plano general,Grúa,La bahía enorme y penumbrosa; la nave destrozada de Vera sujeta por brazos mecánicos como un animal cazado.,,8,11:15
-ACTO 2,SEC 10 — Bahía de carga de Theron,3,Plano medio,Dolly in,"Stella despierta de golpe en el suelo, jadeando, desorientada.",,3,11:18
-ACTO 2,SEC 10 — Bahía de carga de Theron,4,Primerísimo primer plano,Fijo,"Antes que nada, mira su mano: la llave de luz sigue grabada, el Orbe late bajo la piel.",,4,11:22
-ACTO 2,SEC 10 — Bahía de carga de Theron,5,Primer plano,Fijo,"Stella cierra los ojos y respira, aliviada de que el Orbe sigue con ella.",,3,11:25
-ACTO 2,SEC 10 — Bahía de carga de Theron,6,Plano general,Fijo,Una sombra colosal se mueve en la penumbra al fondo de la bahía.,,4,11:29
-ACTO 2,SEC 10 — Bahía de carga de Theron,7,Plano entero,Tilt,"Stella se incorpora, en guardia, encarando la sombra que se define.",¿Dónde estoy? ¿Quién eres? ¿Me… me salvaste?,5,11:34
-ACTO 2,SEC 10 — Bahía de carga de Theron,8,Contrapicado,Fijo,"Theron, el Cazador, alto, de otra especie, ojos que no parpadean; siglos en la cara.",No te salvé. Te recogí.,4,11:38
-ACTO 2,SEC 10 — Bahía de carga de Theron,9,Primer plano,Fijo,El rostro impasible de Theron remata la frase.,Hay una diferencia.,3,11:41
-ACTO 2,SEC 10 — Bahía de carga de Theron,10,Plano medio,Steadicam,"Theron avanza despacio hacia Stella, acortando la distancia.",,4,11:45
-ACTO 2,SEC 10 — Bahía de carga de Theron,11,Inserto,Dolly in,POV de Theron sobre la mano de Stella: el brillo del Orbe latiendo bajo la piel.,"Eso que llevas dentro brilla. Brilla como nada que haya visto en mucho, mucho tiempo.",5,11:50
-ACTO 2,SEC 10 — Bahía de carga de Theron,12,Plano-contraplano,Fijo,"Theron la mira a los ojos, evaluándola como rastro, no como niña.",Y lo que brilla así… se puede seguir.,4,11:54
-ACTO 2,SEC 10 — Bahía de carga de Theron,13,Primerísimo primer plano,Fijo,Stella aprieta el puño y esconde la mano; comprende que para él es una presa.,,5,11:59
-ACTO 2,SEC 11 — Pasillos y taller,14,Plano general,Steadicam,La tripulación de Theron observa a Stella con desprecio mientras cruza el pasillo; la empujan al pasar.,,5,12:04
-ACTO 2,SEC 11 — Pasillos y taller,15,Inserto,Fijo,Un plato de comida cae y se estrella contra el suelo metálico.,,2,12:06
-ACTO 2,SEC 11 — Pasillos y taller,16,Plano americano,Fijo,"Vosk, matón enorme y con cicatrices, bloquea el paso de Stella y la mide.",La mascota del jefe. El cebo que respira.,4,12:10
-ACTO 2,SEC 11 — Pasillos y taller,17,Plano detalle,Fijo,El dedo grueso de Vosk empuja el hombro de Stella.,¿Sabes qué le pasa al cebo cuando el pez ya picó?,3,12:13
-ACTO 2,SEC 11 — Pasillos y taller,18,Primer plano,Cámara en mano,"Stella aparta la mano de Vosk de un golpe seco, desafiante.",,2,12:15
-ACTO 2,SEC 11 — Pasillos y taller,19,Plano medio,Fijo,Vosk sonríe: era justo lo que buscaba.,,2,12:17
-ACTO 2,SEC 11 — Pasillos y taller,20,Plano detalle,Whip-pan,El primer puñetazo de Vosk sale disparado hacia el encuadre.,,1,12:18
-ACTO 2,SEC 11 — Pasillos y taller,21,Plano entero,Cámara en mano,"Pelea: Stella esquiva rápida y golpea, pequeña contra el muro que es Vosk.",,3,12:21
-ACTO 2,SEC 11 — Pasillos y taller,22,Plano medio,Cámara en mano,"Vosk la estampa contra la pared, dominándola.",,2,12:23
-ACTO 2,SEC 11 — Pasillos y taller,23,Inserto,Fijo,"Una mano de piedra, del tamaño de un yunque, cae sobre el hombro de Vosk.",,2,12:25
-ACTO 2,SEC 11 — Pasillos y taller,24,Contrapicado,Tilt,"Brog, gigante de roca, se revela imponente entre Vosk y la niña.",,4,12:29
-ACTO 2,SEC 11 — Pasillos y taller,25,Plano medio,Fijo,"Vosk escupe al suelo y se retira, vencido sin pelea.",,3,12:32
-ACTO 2,SEC 11 — Pasillos y taller,26,Plano americano,Fijo,"Nima, mecánica de cuatro brazos, trabaja sin levantar la vista en su banco de piezas.",No le hagas caso a Vosk. Ladra para no pensar.,5,12:37
-ACTO 2,SEC 11 — Pasillos y taller,27,Primer plano,Fijo,Nima al fin levanta la mirada hacia Stella.,"Hay dos formas de romperse, niña. La que llora… y la que arregla cosas a las tres de la mañana.",5,12:42
-ACTO 2,SEC 11 — Pasillos y taller,28,Plano medio,Fijo,Nima vuelve a su trabajo con sus cuatro manos.,Adivina cuál soy yo.,3,12:45
-ACTO 2,SEC 11 — Pasillos y taller,29,Plano entero,Dolly out,"Stella se deja caer al suelo, agotada, sosteniéndose la mano herida.",,4,12:49
-ACTO 2,SEC 11 — Pasillos y taller,30,Plano general,Fijo,"Brog se sienta a su lado, enorme y en silencio; no la consuela, solo se queda.",,5,12:54
-ACTO 2,SEC 11 — Pasillos y taller,31,Plano medio,Steadicam,"Theron entra al taller; Stella se gira hacia él, decidida.","Quiero volver a mi planeta. Mi familia está allá. Mi padre, mi hermana—",5,12:59
-ACTO 2,SEC 11 — Pasillos y taller,32,Plano-contraplano,Fijo,"Theron corta su esperanza sin dureza, con la frialdad del que sabe.",Tu planeta ya no es tu problema más urgente.,4,13:03
-ACTO 2,SEC 11 — Pasillos y taller,33,Primer plano,Dolly in,Theron suelta la verdad del tiempo dilatado.,Un año tuyo… son cuatro allá.,5,13:08
-ACTO 2,SEC 11 — Pasillos y taller,34,Primerísimo primer plano,Fijo,"Stella levanta la cara lentamente, entendiendo el tamaño del horror.",…Cuatro.,5,13:13
-ACTO 2,SEC 11 — Pasillos y taller,35,Plano medio,Fijo,"Theron se da la vuelta para irse, dejando caer la sentencia.","Cada día que pierdas aquí, pierdes cuatro allá. Así que no los pierdas.",5,13:18
-ACTO 2,SEC 11 — Pasillos y taller,36,Primer plano,Dolly in,"Stella mira su propia mano, sintiendo el peso de un reloj que corre cuádruple.",,6,13:24
-ACTO 2,SEC 12 — Refugio resistencia (Año 8),37,Gran plano general,Grúa,"Rótulo ERDIA · AÑO 8. Erdia ya no dorada: niebla, andamios, ríos de luzagua finos y opacos; chimeneas escupen humo donde hubo jardines.",,9,13:33
-ACTO 2,SEC 12 — Refugio resistencia (Año 8),38,Plano general,Travelling,Interior del refugio escondido: naieli demacrados reunidos alrededor de un líder.,,5,13:38
-ACTO 2,SEC 12 — Refugio resistencia (Año 8),39,Plano americano,Dolly in,"Marek, voz cálida y firme, arenga a su gente devolviéndoles esperanza.",El Rey dice que estamos así por culpa de Stella. Por una ladrona.,5,13:43
-ACTO 2,SEC 12 — Refugio resistencia (Año 8),40,Primer plano,Fijo,Marek mira a los suyos y siembra la duda contra el Rey.,¿Una niña de catorce años vació un planeta entero? ¿O alguien necesitaba que odiáramos a alguien para no mirarlo a él?,6,13:49
-ACTO 2,SEC 12 — Refugio resistencia (Año 8),41,Plano general,Paneo,La gente murmura y asiente; Marek les ha dado un enemigo distinto.,,4,13:53
-ACTO 2,SEC 12 — Refugio resistencia (Año 8),42,Plano medio,Fijo,"A su lado, una figura encapuchada en silencio; no le vemos la cara.",,4,13:57
-ACTO 2,SEC 12 — Refugio resistencia (Año 8),43,Plano detalle,Fijo,"Manos de mujer, fuertes, y un mechón de pelo blanco escapando de la capucha.",,4,14:01
-ACTO 2,SEC 12 — Refugio resistencia (Año 8),44,Primer plano,Fijo,"La figura encapuchada observa a Marek y a la gente, y baja la cabeza. No sabemos quién es. Todavía.",,6,14:07
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),45,Gran plano general,Aéreo,Rótulo STELLA ~AÑO 2. Un planeta chatarra bajo cielo enfermo; la operación de la flota de Theron entre escombros colosales.,,7,14:14
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),46,Plano general,Steadicam,"Stella, ya mayor y más dura, avanza con el grupo; Brog cubre, Vosk al frente.",,5,14:19
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),47,Plano medio,Cámara en mano,"De pronto, disparos de luz cruzan el encuadre: cazarrecompensas locales emboscan.",,2,14:21
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),48,Plano entero,Cámara en mano,"Caos: el grupo se dispersa entre destellos, escombros que estallan.",,2,14:23
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),49,Plano medio,Cámara en mano,"Stella se desliza y se esconde en una grieta, fuera de la vista enemiga.",,3,14:26
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),50,Primer plano,Fijo,"Stella contiene la respiración en la grieta, a salvo.",,3,14:29
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),51,POV,Fijo,"Desde la grieta, Stella ve a Vosk mirándola desde lejos.",,3,14:32
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),52,Primerísimo primer plano,Fijo,Los ojos de Stella y de Vosk se cruzan; un instante suspendido.,,3,14:35
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),53,Inserto,Fijo,La mano de Vosk recoge una piedra del suelo.,,2,14:37
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),54,Plano detalle,Whip-pan,La piedra golpea el metal justo al lado de Stella: un ruido seco que la delata.,,2,14:39
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),55,Plano americano,Cámara en mano,Vosk grita a los cazadores señalando la posición de Stella.,¡AHÍ! ¡LA DE LA MANO QUE BRILLA! ¡ESA VALE UNA FORTUNA!,3,14:42
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),56,Plano general,Cámara en mano,Los cazarrecompensas caen en masa sobre la grieta de Stella.,,2,14:44
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),57,Plano entero,Cámara en mano,Stella pelea con furia pero son demasiados; la rodean.,,3,14:47
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),58,Inserto,Fijo,Un collar de contención se cierra en su cuello; el traje se apaga con un chisporroteo.,,2,14:49
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),59,POV,Fijo,"Lo último que ve Stella al ser subida a la nave esclavista: Vosk sonriendo, contando su recompensa.",,4,14:53
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),60,Plano medio,Whip-pan,Una red cae de golpe también sobre Vosk: los cazadores no hacen distinciones.,,2,14:55
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),61,Plano americano,Cámara en mano,"Vosk forcejea en la red, protestando en vano.","¡No, no, esperen, yo se las entregué! ¡YO—!",3,14:58
-ACTO 2,SEC 13 — Planeta chatarra (Stella Año 2),62,Plano general,Fijo,Se llevan a Vosk arrastrando junto a Stella; el silencio cae sobre la chatarra.,,4,15:02
-ACTO 2,SEC 14 — La Fosa de apuestas,63,Gran plano general,Grúa,"Estación-mercado en el confín de la galaxia; abajo, la Fosa: pozo de combate rodeado de gradas rugientes.",,7,15:09
-ACTO 2,SEC 14 — La Fosa de apuestas,64,Plano general,Paneo,El presentador anuncia a la ladrona del Orbe; las gradas estallan en gritos y apuestas.,,4,15:13
-ACTO 2,SEC 14 — La Fosa de apuestas,65,Plano entero,Steadicam,"Stella en el centro del pozo, aún con el collar, busca una salida que no existe.",,4,15:17
-ACTO 2,SEC 14 — La Fosa de apuestas,66,Plano medio,Fijo,Una reja se abre en el lado opuesto; empujan a su oponente al pozo.,,3,15:20
-ACTO 2,SEC 14 — La Fosa de apuestas,67,Plano americano,Dolly in,"Noah, humano joven y magullado, con vieja espada y arma de luz; ojos que no se rinden.",,4,15:24
-ACTO 2,SEC 14 — La Fosa de apuestas,68,Primerísimo primer plano,Fijo,"Stella se queda helada: ese chico se parece a ella, a su gente.",,5,15:29
-ACTO 2,SEC 14 — La Fosa de apuestas,69,Plano general,Paneo,"La multitud exige sangre a gritos, puños en alto en las gradas.",,3,15:32
-ACTO 2,SEC 14 — La Fosa de apuestas,70,Plano medio,Fijo,"Noah levanta la espada en guardia; Stella, en cambio, no.",No voy a matarte para que ellos aplaudan.,4,15:36
-ACTO 2,SEC 14 — La Fosa de apuestas,71,Plano-contraplano,Fijo,"Noah la mide sin bajar el arma, receloso.",…¿Es una trampa?,3,15:39
-ACTO 2,SEC 14 — La Fosa de apuestas,72,Primer plano,Fijo,"Stella sostiene la mirada, ofreciendo otra salida.",Es una oferta.,3,15:42
-ACTO 2,SEC 14 — La Fosa de apuestas,73,Primer plano,Dolly in,Noah decide; algo cede en su rostro.,Entonces vas a tener que ayudarme a salir de aquí.,4,15:46
-ACTO 2,SEC 14 — La Fosa de apuestas,74,Plano entero,Whip-pan,Los dos giran a la vez hacia los guardias en lugar de pelear entre sí.,,2,15:48
-ACTO 2,SEC 14 — La Fosa de apuestas,75,Plano detalle,Fijo,Stella arranca el collar de un tirón; el Orbe se reenciende en su palma con un fogonazo.,,2,15:50
-ACTO 2,SEC 14 — La Fosa de apuestas,76,Plano general,Cámara en mano,La fosa se convierte en fuga: luz y caos estallan en el pozo.,,3,15:53
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),77,Plano medio,Cámara en mano,Stella y Noah pelean espalda con espalda contra los guardias.,,2,15:55
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),78,Plano detalle,Whip-pan,La luz del Orbe barre a un guardia lanzándolo contra la reja.,,1,15:56
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),79,Plano detalle,Whip-pan,La espada de luz de Noah corta el aire y desvía a otro atacante.,,1,15:57
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),80,Inserto,Fijo,La pared exterior estalla hacia adentro: escombros y polvo.,,2,15:59
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),81,Contrapicado,Cámara en mano,Brog y Nima entran por la brecha; Theron mandó por ella.,,3,16:02
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),82,Plano general,Grúa,"En una plataforma de ejecución sobre la fosa, los dueños van a ajusticiar a un prisionero que ya no sirve.",,4,16:06
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),83,Plano medio,Dolly in,"Es Vosk: de rodillas, un arma de luz en la nuca.",,3,16:09
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),84,Primer plano,Fijo,Stella lo ve y se detiene en seco en plena fuga.,,3,16:12
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),85,Plano medio,Cámara en mano,"Noah le grita que vámonos, tirando de ella.",,2,16:14
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),86,Primerísimo primer plano,Fijo,Stella decide en un latido: cambia de dirección hacia Vosk.,,2,16:16
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),87,Plano entero,Steadicam,Stella corre por la pasarela hacia la plataforma de ejecución.,,2,16:18
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),88,Plano detalle,Whip-pan,Rompe la plataforma con el Orbe y desvía el disparo de luz que iba a la nuca de Vosk.,,2,16:20
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),89,Plano medio,Cámara en mano,"Stella carga a Vosk, tirando de él fuera del filo.",,2,16:22
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),90,Primer plano,Fijo,"Vosk la mira sin entender, el cuello aún marcado por el arma.",…Yo te entregué. Te vendí. ¿Por qué—?,4,16:26
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),91,Primer plano,Fijo,"Stella lo mira a los ojos, firme.",Porque yo no soy tú.,4,16:30
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),92,Plano medio,Cámara en mano,Lo suelta de un empujón hacia la salida.,,2,16:32
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),93,Primer plano,Dolly in,El matón la mira distinto por primera vez; algo en él se rompe y se recompone.,,4,16:36
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),94,Gran plano general,Grúa,"Todos escapan juntos —Stella, Noah, Brog, Nima, Vosk— mientras la estación arde detrás.",,5,16:41
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),95,Plano medio,Fijo,"Más tarde, en la nave, Theron observa a Stella desde lejos, en silencio; algo cambió.",,5,16:46
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),96,Plano medio,Fijo,"Noah, vendándose una herida, no le quita los ojos de encima a Stella.",,4,16:50
-ACTO 2,SEC 15 — Fosa / Pasarelas (fuga),97,Primer plano,Dolly out,"Stella, ajena, mira el cielo hacia donde queda Erdia.",,6,16:56
-ACTO 2,SEC 16 — Montaje familia rara (Stella Año 3),98,Gran plano general,Grúa,Rótulo STELLA ~AÑO 3. Planeta de los Cometas: cielo cruzado de cometas sobre un horizonte extraño.,,7,17:03
-ACTO 2,SEC 16 — Montaje familia rara (Stella Año 3),99,Plano medio,Fijo,"Brog y Stella sentados frente al cielo; el gigante le enseña su idioma muerto, gutural y antiguo.",,5,17:08
-ACTO 2,SEC 16 — Montaje familia rara (Stella Año 3),100,Primer plano,Fijo,"Stella repite las palabras con cuidado; Brog asiente despacio, lo más cercano a una sonrisa en una montaña.",,5,17:13
-ACTO 2,SEC 16 — Montaje familia rara (Stella Año 3),101,Plano detalle,Fijo,"En el taller, las cuatro manos de Nima ensamblan un traje nuevo ligero, con monitor en la muñeca.",,4,17:17
-ACTO 2,SEC 16 — Montaje familia rara (Stella Año 3),102,Plano medio,Dolly in,Nima ajusta el traje sobre Stella.,Tu traje viejo era de niña. Este es de quien va a volver a entrar a ese palacio.,5,17:22
-ACTO 2,SEC 16 — Montaje familia rara (Stella Año 3),103,Plano entero,Cámara en mano,Stella entrena el Orbe: una descarga inestable la tira al piso y revienta un panel.,,3,17:25
-ACTO 2,SEC 16 — Montaje familia rara (Stella Año 3),104,Plano detalle,Fijo,"De a poco, la luz le sale de la palma controlada, como un río que aprende a correr.",,4,17:29
-ACTO 2,SEC 16 — Montaje familia rara (Stella Año 3),105,Plano americano,Dolly out,"Stella de pie, dominando el Orbe; ya no parece una sobreviviente sino un arma que eligió su causa.",,6,17:35
-ACTO 2,"SEC 17 — Puente, la sospecha",106,Plano general,Fijo,Puente de la nave nodriza de noche; Theron y Stella solos ante el vacío estrellado.,,5,17:40
-ACTO 2,"SEC 17 — Puente, la sospecha",107,Plano medio,Fijo,Theron le pide algo con un gesto.,Muéstrame la mano. Y el Orbe.,4,17:44
-ACTO 2,"SEC 17 — Puente, la sospecha",108,Primer plano,Fijo,"Stella duda; luego abre la palma. El Orbe late bajo la piel, expuesto.",,4,17:48
-ACTO 2,"SEC 17 — Puente, la sospecha",109,Inserto,Dolly in,Theron se inclina y estudia el Orbe con atención de cazador.,,4,17:52
-ACTO 2,"SEC 17 — Puente, la sospecha",110,Plano detalle,Fijo,La mano de Theron se acerca como quien va a arrancar el Orbe; Stella contiene el aliento.,,3,17:55
-ACTO 2,"SEC 17 — Puente, la sospecha",111,Primerísimo primer plano,Fijo,Theron lee cómo el Orbe está enredado en cada vena de ella; retira la mano.,No. Sacarlo a la fuerza te mataría a ti… y quizá a quien lo intente.,5,18:00
-ACTO 2,"SEC 17 — Puente, la sospecha",112,Plano medio,Fijo,"Theron la mira, seco.",Sigues siendo más útil respirando.,4,18:04
-ACTO 2,"SEC 17 — Puente, la sospecha",113,Primer plano,Fijo,"Stella guarda la mano, con ironía amarga.",Qué consuelo.,3,18:07
-ACTO 2,"SEC 17 — Puente, la sospecha",114,Plano medio,Dolly in,"Stella lanza los rumores sobre el Rey, tanteando.","En mi mundo dicen cosas del Rey. Que es inmortal. Que nunca envejeció. Que llegó hace cientos de años, de ninguna parte.",6,18:13
-ACTO 2,"SEC 17 — Puente, la sospecha",115,Primerísimo primer plano,Dolly in,Theron se queda muy quieto; algo se le enciende detrás de los ojos: eso suena a su presa.,,5,18:18
-ACTO 2,"SEC 17 — Puente, la sospecha",116,Plano medio,Fijo,"Theron cierra el tema, guardándose la sospecha.",Los reyes siempre dicen que son eternos. Duerme.,4,18:22
-ACTO 2,"SEC 17 — Puente, la sospecha",117,Plano general,Dolly out,"Stella se va; Theron se queda mirando el vacío, masticando una sospecha de veinte mil años.",,6,18:28
-ACTO 2,"SEC 18 — Camarote, la revelación",118,Plano general,Fijo,"Camarote de Stella de noche; ella no duerme, tumbada mirando el techo.",,5,18:33
-ACTO 2,"SEC 18 — Camarote, la revelación",119,Plano medio,Steadicam,Theron entra y deja un proyector de imagen sobre la mesa.,No me interesa tu planeta. Pero un buen cazador siempre mira antes de descartar.,5,18:38
-ACTO 2,"SEC 18 — Camarote, la revelación",120,Primer plano,Fijo,Theron la mira desde la puerta.,Mira tú también.,3,18:41
-ACTO 2,"SEC 18 — Camarote, la revelación",121,Inserto,Fijo,El proyector se enciende; una luz temblorosa llena el camarote.,,3,18:44
-ACTO 2,"SEC 18 — Camarote, la revelación",122,Plano medio,Dolly in,"En la imagen: Naio, viejo, encadenado, esclavo en una mina de niebla.",,5,18:49
-ACTO 2,"SEC 18 — Camarote, la revelación",123,Plano entero,Fijo,"En la imagen: Selka, joven soldado, entrena con frialdad quirúrgica, perfecta y vacía; ojos gris-azul, cicatriz sobre el ojo izquierdo.",,5,18:54
-ACTO 2,"SEC 18 — Camarote, la revelación",124,Plano medio,Fijo,En la imagen: una figura encapuchada lidera la resistencia junto a Marek; la capucha cae un segundo.,,4,18:58
-ACTO 2,"SEC 18 — Camarote, la revelación",125,Primer plano,Dolly in,Es Vera. Viva.,,5,19:03
-ACTO 2,"SEC 18 — Camarote, la revelación",126,Primerísimo primer plano,Fijo,Stella se lleva la mano a la boca; no respira.,…Está viva. Mamá está viva.,6,19:09
-ACTO 2,"SEC 18 — Camarote, la revelación",127,Plano medio,Fijo,"Theron la observa desde la puerta; por primera vez no la mira como a un cebo, sino como a alguien que hará algo imposible.",,5,19:14
-ACTO 2,"SEC 18 — Camarote, la revelación",128,Plano general,Dolly out,"Theron se va; Stella se queda toda la noche frente a la imagen de su madre, mirando el infinito.",,7,19:21
-ACTO 2,SEC 19 — Minas de niebla (Año 14),129,Gran plano general,Grúa,Rótulo ERDIA · AÑO 14. Minas de niebla: siluetas de esclavos entre vapor gris y andamios oxidados.,,8,19:29
-ACTO 2,SEC 19 — Minas de niebla (Año 14),130,Plano medio,Steadicam,"La figura encapuchada —Vera— se desliza entre los esclavos, buscando.",,5,19:34
-ACTO 2,SEC 19 — Minas de niebla (Año 14),131,Plano entero,Dolly in,"Encuentra a Naio: anciano, roto, irreconocible entre la niebla.",,4,19:38
-ACTO 2,SEC 19 — Minas de niebla (Año 14),132,Plano detalle,Fijo,Vera se baja la capucha lo justo para que él la vea.,,3,19:41
-ACTO 2,SEC 19 — Minas de niebla (Año 14),133,Primer plano,Dolly in,"Naio, sin aire, no puede creer lo que ve.","…¿Vera? No. No, tú moriste. Yo te vi—",5,19:46
-ACTO 2,SEC 19 — Minas de niebla (Año 14),134,Primer plano,Fijo,"Vera le da la noticia, la voz quebrándose.","Está viva, Naio. Selka está viva. Pero ya no es… ya no es ella. Le metieron otra cosa adentro.",6,19:52
-ACTO 2,SEC 19 — Minas de niebla (Año 14),135,Primer plano,Fijo,Naio le suplica que no vaya.,"No vayas. Si está con él, es una trampa. Te lo ruego.",5,19:57
-ACTO 2,SEC 19 — Minas de niebla (Año 14),136,Primerísimo primer plano,Fijo,"Vera le toma la cara, decidida.",Vuelvo por ti. Te lo juro. Pero primero voy por mi hija.,5,20:02
-ACTO 2,SEC 19 — Minas de niebla (Año 14),137,Plano medio,Fijo,"Se abrazan, breve y fuerte.",,4,20:06
-ACTO 2,SEC 19 — Minas de niebla (Año 14),138,Plano general,Dolly out,"Vera se va hacia el palacio; Naio estira la mano hacia ella en la niebla, sin alcanzarla.",,7,20:13
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),139,Plano general,Steadicam,"Rótulo ERDIA · AÑO 14. Aposentos de la General; Vera entra encapuchada, Korin y Lessa cubren afuera, Marek la acompaña.",,6,20:19
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),140,Plano medio,Fijo,Marek se detiene en la puerta y le aprieta el hombro.,"Yo vigilo aquí. Si algo sale mal, corre. No mires atrás.",5,20:24
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),141,Primer plano,Fijo,"Marek, grave, pone toda su esperanza en ella.",Tráela de vuelta.,3,20:27
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),142,Plano entero,Dolly in,Vera entra sola a los aposentos; la puerta queda entreabierta a su espalda.,,5,20:32
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),143,Plano general,Fijo,"Adentro, de espaldas, Selka la General: joven, blanca, impecable, fría.",Sé lo que eres. Una rata de la resistencia. ¿Vienes a matarme mientras duermo?,6,20:38
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),144,Primer plano,Fijo,"Vera se baja la capucha, revelando su cara.",Vengo por ti.,4,20:42
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),145,Plano medio,Dolly in,Selka se gira y ve la cara de Vera.,,3,20:45
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),146,Primerísimo primer plano,Fijo,"Algo muy adentro de Selka tiembla un microsegundo, antes de que el adiestramiento lo aplaste.",,4,20:49
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),147,Primer plano,Fijo,"El rostro de Selka se cierra de nuevo, glacial.",Traidora.,3,20:52
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),148,Plano entero,Cámara en mano,Selka se lanza al ataque con su hoja de luz.,,2,20:54
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),149,Plano medio,Cámara en mano,"Vera no contraataca: esquiva, bloquea, retrocede; no puede herir a su hija.",,3,20:57
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),150,Plano detalle,Whip-pan,"La hoja de luz de Selka pasa a un palmo de Vera, que la desvía con el antebrazo.",,2,20:59
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),151,Primer plano,Cámara en mano,"Vera, entre golpes, le suplica que la mire.",No voy a lastimarte. No puedo. Mírame. Mírame.,5,21:04
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),152,Primerísimo primer plano,Fijo,"Ante una enemiga que se niega a herirla, Selka se desarma; el brazo le tiembla.",,4,21:08
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),153,Inserto,Fijo,La hoja de luz de Selka baja lentamente y se apaga.,,3,21:11
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),154,Plano medio,Dolly in,Algo en Selka se rinde sin entender por qué; queda vulnerable.,,4,21:15
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),155,Plano entero,Steadicam,Vera se acerca y la envuelve en un abrazo; la aprieta como aprietan las madres.,,5,21:20
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),156,Primer plano,Fijo,"Vera, al oído de su hija, llorando.","Vámonos a casa. Tú, yo y tu padre. Empecemos de nuevo. Olvidemos todo esto.",6,21:26
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),157,Primerísimo primer plano,Fijo,"Selka, en el abrazo, cierra los ojos.",,4,21:30
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),158,Inserto,Dolly in,"La mano de Selka, oculta, alza un arma corta de luz hacia el costado de Vera.",,2,21:32
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),159,Plano detalle,Fijo,"El arma se clava en el costado de Vera; un fogonazo contenido, sin sangre.",,3,21:35
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),160,Primerísimo primer plano,Fijo,Vera ahoga un grito; los ojos se le abren de golpe.,,4,21:39
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),161,Plano detalle,Fijo,"La mano de Vera sube temblando hasta la cara de Selka, buscándola, sin entender.",,5,21:44
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),162,Primer plano,Fijo,"Vera, un hilo de voz, rota, traicionada.",…Selka. ¿Por qué.,5,21:49
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),163,Plano medio,Fijo,Selka la sostiene contra sí; el abrazo se vuelve otra cosa. Le susurra algo al oído que no alcanzamos a oír.,,6,21:55
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),164,POV,Fijo,"Desde la puerta entreabierta, Korin y Lessa lo ven todo: la General abrazando a su madre, y el arma.",,4,21:59
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),165,Plano medio,Cámara en mano,"Marek llega un segundo tarde, la cara desencajada de horror.",,3,22:02
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),166,Primer plano,Fijo,"Korin, susurrando, retrocede sin poder creerlo.",…La mató. Su propia hija la mató.,5,22:07
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),167,Plano entero,Dolly out,"Vera resbala lentamente al piso, deslizándose contra Selka.",,5,22:12
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),168,Primerísimo primer plano,Fijo,"Vera mira la cara de Selka hasta el último segundo, y muere creyéndolo.",,7,22:19
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),169,Plano detalle,Fijo,La mano de Vera se desliza de la mejilla de Selka y cae al suelo.,,4,22:23
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),170,Plano entero,Grúa,"Selka queda de pie sobre el cuerpo de su madre, el arma goteando luz, temblando entera sin entender por qué.",,6,22:29
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),171,Primer plano,Dolly in,"Sin querer, Selka empieza a tararear una nana que no recuerda haber aprendido.",,7,22:36
-ACTO 2,SEC 20 — Muerte de Vera (Año 14),172,Gran plano general,Grúa,Cenital lento sobre la sala: la General diminuta de pie junto al cuerpo de Vera. Corte a negro.,,8,22:44
-ACTO 3,SEC 21 — Puerto en ruinas,1,Gran plano general,Grúa,"Rótulo ERDIA · AÑO 20 sobre la ciudad dorada hoy gris, partida en dos, envuelta en niebla",,8,22:52
-ACTO 3,SEC 21 — Puerto en ruinas,2,Plano general,Paneo,"Murales del Rey por las paredes; bajo ellos, pintado con bronca, el nombre STELLA tachado",,5,22:57
-ACTO 3,SEC 21 — Puerto en ruinas,3,Plano general,Fijo,"Una nave pequeña aterriza entre la chatarra, levantando polvo y niebla",,4,23:01
-ACTO 3,SEC 21 — Puerto en ruinas,4,Plano entero,Fijo,"Se abre la rampa; bajan Brog, Nima, Noah y una mujer encapuchada de pelo teñido oscuro",,4,23:05
-ACTO 3,SEC 21 — Puerto en ruinas,5,Primer plano,Dolly in,"Bajo la capucha, el rostro de Stella (~19), pelo teñido, camuflada en su propio mundo",,4,23:09
-ACTO 3,SEC 21 — Puerto en ruinas,6,Plano medio,Steadicam,Stella camina entre la gente; miradas de odio la siguen sin reconocerla,,5,23:14
-ACTO 3,SEC 21 — Puerto en ruinas,7,Plano detalle,Fijo,Un viejo escupe al suelo al oír el nombre de Stella en una conversación ajena,,2,23:16
-ACTO 3,SEC 21 — Puerto en ruinas,8,Plano medio,Fijo,"Noah, a su lado, bajo, mirándola de reojo",Todo un planeta te odia. ¿Y aun así volviste.,4,23:20
-ACTO 3,SEC 21 — Puerto en ruinas,9,Primer plano,Fijo,"Stella mira las ruinas, dura, contenida",Por eso volví.,4,23:24
-ACTO 3,SEC 21 — Puerto en ruinas,10,Plano general,Cámara en mano,"Un grupo de la resistencia los rodea de golpe, armas de luz en alto",,3,23:27
-ACTO 3,SEC 21 — Puerto en ruinas,11,Plano americano,Fijo,"Al frente, más viejo y cansado, Korin apunta a Stella",,3,23:30
-ACTO 3,SEC 21 — Puerto en ruinas,12,Primer plano,Dolly in,"Stella se baja la capucha despacio, ofreciendo la cara",,4,23:34
-ACTO 3,SEC 21 — Puerto en ruinas,13,Plano-contraplano,Fijo,"Korin la escruta; no reconoce el pelo, el dedo tensa el gatillo de luz",,4,23:38
-ACTO 3,SEC 21 — Puerto en ruinas,14,Primerísimo primer plano,Dolly in,Los ojos de Korin: bajo el tinte reconoce la cara de la niña de hace veinte años,,3,23:41
-ACTO 3,SEC 21 — Puerto en ruinas,15,Primer plano,Fijo,"Korin, la voz rota, baja el arma temblando",¿Stella? Yo te conocí de pequeña —siempre al lado de tu madre. Eres tú. Volviste.,6,23:47
-ACTO 3,SEC 21 — Puerto en ruinas,16,Plano medio,Fijo,"Stella sostiene la mirada, algo se le ablanda un instante",,3,23:50
-ACTO 3,SEC 21 — Puerto en ruinas,17,Plano general,Fijo,EN ÓRBITA — Puente de la nave nodriza: la pantalla muestra Erdia hirviendo,,4,23:54
-ACTO 3,SEC 21 — Puerto en ruinas,18,Primer plano,Fijo,"Vosk aprieta los puños mirando la pantalla, se gira a Theron",Déjame bajar. Está sola ahí abajo.,4,23:58
-ACTO 3,SEC 21 — Puerto en ruinas,19,Plano medio,Fijo,"Theron, inmóvil, contraplano",No es nuestra guerra.,3,24:01
-ACTO 3,SEC 21 — Puerto en ruinas,20,Primer plano,Dolly in,"Vosk, decidido, sin apartar la vista",Se volvió mía el día que me sacó de esa fosa.,5,24:06
-ACTO 3,SEC 21 — Puerto en ruinas,21,Plano medio,Fijo,"Theron lo mira; no dice sí, tampoco lo impide",,4,24:10
-ACTO 3,SEC 22 — Refugio / Naio,22,Plano general,Fijo,Interior del refugio de la resistencia; Korin guía a Stella entre escombros y esclavos liberados,,5,24:15
-ACTO 3,SEC 22 — Refugio / Naio,23,Plano americano,Steadicam,"Se detienen ante un anciano encorvado, ciego de un ojo, irreconocible",,4,24:19
-ACTO 3,SEC 22 — Refugio / Naio,24,Primer plano,Dolly in,El rostro del anciano: es Naio,,4,24:23
-ACTO 3,SEC 22 — Refugio / Naio,25,Plano medio,Fijo,"Stella se queda sin aire, se acerca y se arrodilla frente a él",Papá.,5,24:28
-ACTO 3,SEC 22 — Refugio / Naio,26,Plano detalle,Fijo,Las manos de Naio buscan y toman la de Stella; siente bajo la piel la llave de luz latiendo,,4,24:32
-ACTO 3,SEC 22 — Refugio / Naio,27,Primerísimo primer plano,Fijo,El ojo bueno de Naio se llena de lágrimas,,4,24:36
-ACTO 3,SEC 22 — Refugio / Naio,28,Primer plano,Fijo,"Naio, temblando de emoción, le toca el pelo teñido",Volviste. Veinte años. Lo cuidaste toda tu vida. Mi niña del río.,8,24:44
-ACTO 3,SEC 22 — Refugio / Naio,29,Primer plano,Fijo,"Stella, con esperanza intacta, le aprieta la mano","Mamá está viva, papá. La vi. Voy a sacarlos a los dos. A Selka también. Te lo prometo.",7,24:51
-ACTO 3,SEC 22 — Refugio / Naio,30,Plano medio,Dolly out,Naio calla lo que la resistencia cree de Vera; la deja irse con su esperanza,,5,24:56
-ACTO 3,SEC 23 — El asalto,31,Gran plano general,Grúa,La resistencia carga contra el palacio; estalla la guerra en las calles de niebla,,5,25:01
-ACTO 3,SEC 23 — El asalto,32,Plano entero,Cámara en mano,Brog abre una brecha en un muro a puñetazos,,2,25:03
-ACTO 3,SEC 23 — El asalto,33,Plano medio,Whip-pan,"Nima, cuatro brazos, inutiliza robots imperiales en cadena",,2,25:05
-ACTO 3,SEC 23 — El asalto,34,Plano americano,Steadicam,"Noah cubre a Stella con espada y arma de luz, avanzando",,3,25:08
-ACTO 3,SEC 23 — El asalto,35,Inserto,Fijo,"Un comando arranca a un grupo de esclavos clave; Naio entre ellos, puesto a salvo",,3,25:11
-ACTO 3,SEC 23 — El asalto,36,Plano medio,Fijo,Stella mira la cúpula más alta; decide romper la misión de reconocimiento,,3,25:14
-ACTO 3,SEC 23 — El asalto,37,Contrapicado,Tilt,"Stella escala la fachada del palacio entre destellos de luz, sola, hacia la Sala del Trono",,5,25:19
-ACTO 3,SEC 23 — El asalto,38,Plano general,Fijo,"Llega al techo de cristal; abajo, en el centro, una figura blanca espera de pie, inmóvil",,4,25:23
-ACTO 3,SEC 23 — El asalto,39,Plano detalle,Fijo,El Orbe brilla en la palma de Stella al alzar el puño sobre el cristal,,2,25:25
-ACTO 3,SEC 23 — El asalto,40,Cenital,Fijo,El cristal estalla; Stella cae en picado hacia el trono en lluvia de vidrios,,3,25:28
-ACTO 3,SEC 24 — Duelo de hermanas,41,Plano entero,Fijo,Stella aterriza entre vidrios y se levanta,,3,25:31
-ACTO 3,SEC 24 — Duelo de hermanas,42,Plano americano,Dolly in,"Frente a ella, Selka —la General, blanca, perfecta, cicatriz sobre el ojo izquierdo, sin un gesto",,4,25:35
-ACTO 3,SEC 24 — Duelo de hermanas,43,Plano general,Fijo,"Las dos hermanas, frente a frente, por primera vez en veinte años",,4,25:39
-ACTO 3,SEC 24 — Duelo de hermanas,44,Primer plano,Fijo,"Selka, glacial, desenfunda una hoja de luz",La ladrona. Volviste a la escena del crimen. Qué considerada.,5,25:44
-ACTO 3,SEC 24 — Duelo de hermanas,45,Plano medio,Fijo,"Stella, las manos abiertas, sin atacar",No vine a pelear contigo.,3,25:47
-ACTO 3,SEC 24 — Duelo de hermanas,46,Primer plano,Fijo,"Selka, hoja en guardia, contraplano",Todos dicen eso antes de morir.,3,25:50
-ACTO 3,SEC 24 — Duelo de hermanas,47,Plano entero,Whip-pan,Selka ataca; la hoja de luz corta el aire,,2,25:52
-ACTO 3,SEC 24 — Duelo de hermanas,48,Plano medio,Cámara en mano,Stella bloquea y desvía con velocidad de otro universo,,2,25:54
-ACTO 3,SEC 24 — Duelo de hermanas,49,Inserto,Fijo,"Las hojas chocan, fogonazo de luz en el punto de contacto",,1,25:55
-ACTO 3,SEC 24 — Duelo de hermanas,50,Plano detalle,Whip-pan,Stella gira la muñeca de Selka y la desarma; la hoja vuela,,2,25:57
-ACTO 3,SEC 24 — Duelo de hermanas,51,Plano medio,Fijo,"Stella tiene el remate y no lo da; no quiere vencerla, quiere alcanzarla",,3,26:00
-ACTO 3,SEC 24 — Duelo de hermanas,52,Primer plano,Fijo,"Stella, esquivando, la voz quebrada",¿Por qué mataste a nuestra madre?,4,26:04
-ACTO 3,SEC 24 — Duelo de hermanas,53,Primer plano,Fijo,"Selka, sin un parpadeo, recupera un arma de reserva",He ejecutado a cientos. No recuerdo a ninguna que se llamara 'madre'.,5,26:09
-ACTO 3,SEC 24 — Duelo de hermanas,54,Primerísimo primer plano,Fijo,La frase le duele a Stella más que un golpe; baja la guardia un segundo,,3,26:12
-ACTO 3,SEC 24 — Duelo de hermanas,55,Plano entero,Cámara en mano,"Selka la barre y la tira al piso, la hoja en alto sobre ella",,2,26:14
-ACTO 3,SEC 24 — Duelo de hermanas,56,POV,Fijo,POV de Stella acorralada: la hoja de luz cayendo hacia su cara,,1,26:15
-ACTO 3,SEC 24 — Duelo de hermanas,57,Plano detalle,Dolly in,Stella ahueca la palma; una chispa de Gix baila en su mano,,3,26:18
-ACTO 3,SEC 24 — Duelo de hermanas,58,Inserto,Fijo,La mano de Stella sube buscando la frente de Selka —el mismo gesto del laboratorio,,2,26:20
-ACTO 3,SEC 24 — Duelo de hermanas,59,Primerísimo primer plano,Fijo,"Selka se congela; la hoja tiembla en el aire, algo enterrado se remueve",,4,26:24
-ACTO 3,SEC 24 — Duelo de hermanas,60,Primerísimo primer plano,Dolly in,Bajo la General asoma una niña; el susurro perdido,…¿Por qué… por qué conozco eso?,5,26:29
-ACTO 3,SEC 24 — Duelo de hermanas,61,Plano medio,Fijo,"Las dos quietas, a un latido de despertar; el chispazo de Gix flota entre ellas",,4,26:33
-ACTO 3,SEC 24 — Duelo de hermanas,62,Primer plano,Fijo,"El latido aterra a Selka; el miedo se vuelve rabia, ataca lo que la confunde",,3,26:36
-ACTO 3,SEC 24 — Duelo de hermanas,63,Plano detalle,Whip-pan,Selka agarra la mano de Stella con fuerza,,1,26:37
-ACTO 3,SEC 24 — Duelo de hermanas,64,Inserto,Fijo,Fogonazo: el Orbe sale arrancado de la palma de Stella —comparten sangre,,2,26:39
-ACTO 3,SEC 24 — Duelo de hermanas,65,Plano entero,Fijo,"Stella se desploma, los ojos en blanco; cae en coma, no muere",,3,26:42
-ACTO 3,SEC 24 — Duelo de hermanas,66,Plano detalle,Dolly in,Una chispa sale del brazalete y se hunde en el pecho de Stella: Gix abrazándole el corazón,,3,26:45
-ACTO 3,SEC 24 — Duelo de hermanas,67,Plano medio,Fijo,"Selka de pie, el Orbe en la mano, respirando agitada, sin saber qué acaba de hacerse",,4,26:49
-ACTO 3,SEC 24 — Duelo de hermanas,68,Plano americano,Fijo,"Selka a los guardias, la voz no del todo firme",Cuéntenlo. La traidora cayó.,4,26:53
-ACTO 3,SEC 25 — La nave despierta,69,Plano medio,Steadicam,Selka camina hacia la consola del trono con el Orbe en la mano,,4,26:57
-ACTO 3,SEC 25 — La nave despierta,70,Plano detalle,Dolly in,"Coloca el Orbe en su lugar en la consola; por fin, cree, va a devolver la luz",,4,27:01
-ACTO 3,SEC 25 — La nave despierta,71,Primer plano,Fijo,Selka espera la luz. La luz no vuelve,,4,27:05
-ACTO 3,SEC 25 — La nave despierta,72,Plano general,Cámara en mano,"Todo tiembla; las paredes del palacio se pliegan, el piso se vuelve cubierta",,4,27:09
-ACTO 3,SEC 25 — La nave despierta,73,Inserto,Fijo,El trono se abre como un puente de mando; motores antiquísimos despiertan en lo profundo,,3,27:12
-ACTO 3,SEC 25 — La nave despierta,74,Gran plano general,Grúa,Lo que fue palacio —el 'meteorito' clavado siglos— se enciende entero: siempre fue una nave,,7,27:19
-ACTO 3,SEC 25 — La nave despierta,75,Plano medio,Dolly out,"Selka retrocede, por primera vez en su vida con miedo",,3,27:22
-ACTO 3,SEC 25 — La nave despierta,76,Plano americano,Fijo,Selka habla hacia la sombra del trono,Majestad… el Orbe debería traer la luz. ¿Qué es esto? ¿Qué está pasando?,6,27:28
-ACTO 3,SEC 25 — La nave despierta,77,Primer plano,Dolly in,"Desde el trono, una risa hecha de mil voces a la vez","La luz nunca fue para ellos, pequeña. Y nunca fue tuya.",6,27:34
-ACTO 3,SEC 26 — 'Fui yo',78,Plano entero,Dolly in,Vorthan se levanta del trono y empieza a cambiar,,4,27:38
-ACTO 3,SEC 26 — 'Fui yo',79,Plano medio,Fijo,La forma se transmuta y toma el rostro de Vera,,4,27:42
-ACTO 3,SEC 26 — 'Fui yo',80,Plano entero,Steadicam,"Con la cara de la madre, camina despacio hacia Stella que agoniza en el piso",,5,27:47
-ACTO 3,SEC 26 — 'Fui yo',81,Plano medio,Fijo,"'Vera' se arrodilla junto a Stella y le acaricia el pelo teñido, dulce y monstruoso",,5,27:52
-ACTO 3,SEC 26 — 'Fui yo',82,Primerísimo primer plano,Fijo,"Stella entreabre los ojos por última vez; no ve al monstruo, ve a su madre",,4,27:56
-ACTO 3,SEC 26 — 'Fui yo',83,Primer plano,Fijo,"Stella, un hilo de voz, una sonrisa en paz",Mamá… viniste.,5,28:01
-ACTO 3,SEC 26 — 'Fui yo',84,Primer plano,Fijo,"'Vera', con la voz de la madre, contraplano tierno y falso","Aquí estoy, mi amor. Descansa.",5,28:06
-ACTO 3,SEC 26 — 'Fui yo',85,Primerísimo primer plano,Dolly in,"Stella cierra los ojos y se va en paz, creyendo que su madre vino por ella",,6,28:12
-ACTO 3,SEC 26 — 'Fui yo',86,Plano medio,Fijo,La cosa se incorpora; el rostro de Vera se deshace y muta a Marek,,4,28:16
-ACTO 3,SEC 26 — 'Fui yo',87,Plano medio,Fijo,Selka mira sin entender cómo el héroe del pueblo sale de su Rey,,3,28:19
-ACTO 3,SEC 26 — 'Fui yo',88,Primer plano,Dolly in,"'Marek' sonríe con su propia cara, revelando la verdad",¿No te preguntaste nunca cómo el Rey sabía siempre dónde golpear a la resistencia? No había resistencia. Solo yo. Llevándolos a todos al matadero.,8,28:27
-ACTO 3,SEC 26 — 'Fui yo',89,Plano medio,Fijo,La forma se encoge y toma la última máscara: una niña pequeña de pelo blanco —Selka de niña,,4,28:31
-ACTO 3,SEC 26 — 'Fui yo',90,Plano americano,Fijo,La 'niña Selka' se gira hacia la General con la voz más tierna del mundo,Fuiste tú quien la mató. Al menos… eso creyó ella.,5,28:36
-ACTO 3,SEC 26 — 'Fui yo',91,Primer plano,Dolly in,"La niña ladea la cabeza, clavando el cuchillo verbal",Tu madre vino a salvarte. Y murió mirando esta cara. Odiándote con toda el alma.,7,28:43
-ACTO 3,SEC 26 — 'Fui yo',92,Primerísimo primer plano,Fijo,"La carita de la niña, la revelación final, la risita infantil","Porque la maté yo, pequeña. Vistiendo tu rostro. Te puse el cuchillo en la mano sin que lo supieras.",8,28:51
-ACTO 3,SEC 26 — 'Fui yo',93,Plano detalle,Fijo,Inserto-recuerdo: la mano de Selka sobre el cuchillo en el costado de Vera (SEC 20),,2,28:53
-ACTO 3,SEC 26 — 'Fui yo',94,Plano medio,Dolly out,"Selka retrocede, la cabeza negando sola; veinte años de certezas cayéndose",,4,28:57
-ACTO 3,SEC 26 — 'Fui yo',95,Primer plano,Fijo,"Sin darse cuenta, empieza a tararear la nana; por fin la reconoce",,5,29:02
-ACTO 3,SEC 26 — 'Fui yo',96,Primerísimo primer plano,Dolly in,"Selka se quiebra entera y cae de rodillas, la nana rota saliéndole sola",…esa canción. Era de ella.,6,29:08
-ACTO 3,SEC 26 — 'Fui yo',97,Primer plano,Fijo,Un grito que sale de lo más hondo,…ERA MI MADRE.,4,29:12
-ACTO 3,SEC 26 — 'Fui yo',98,Plano medio,Fijo,"Selka mira a Stella, muerta-en-coma en el piso, deshecha",ERA NUESTRA MADRE.,6,29:18
-ACTO 3,SEC 27 — El Parásito,99,Plano general,Tilt,La cosa abandona todos los disfraces y colapsa hacia su forma real,,3,29:21
-ACTO 3,SEC 27 — El Parásito,100,Gran plano general,Grúa,"El PARÁSITO: criatura colosal de luz robada de mil mundos, llena la sala entera",,5,29:26
-ACTO 3,SEC 27 — El Parásito,101,Contrapicado,Tilt,"El monstruo se alza sobre Selka, minúscula bajo él",,3,29:29
-ACTO 3,SEC 27 — El Parásito,102,Plano medio,Fijo,Selka —recién humana otra vez— se levanta y toma su hoja de luz,,3,29:32
-ACTO 3,SEC 27 — El Parásito,103,Plano entero,Cámara en mano,Se lanza contra el monstruo para cubrir el rescate de Stella,,2,29:34
-ACTO 3,SEC 27 — El Parásito,104,Inserto,Whip-pan,"Un tentáculo de luz barre; casi sin notarla, secciona el brazo de Selka (violencia por luz)",,2,29:36
-ACTO 3,SEC 27 — El Parásito,105,Plano entero,Fijo,"Selka cae, manca pero viva, sobre la cubierta",,2,29:38
-ACTO 3,SEC 27 — El Parásito,106,Inserto,Cámara en mano,Una explosión revienta el mamparo lateral,,2,29:40
-ACTO 3,SEC 27 — El Parásito,107,Plano entero,Dolly in,"Entra Theron por el humo, la vista clavada en el monstruo",,3,29:43
-ACTO 3,SEC 27 — El Parásito,108,Primerísimo primer plano,Dolly in,Los ojos de Theron: por primera vez en veinte mil años lo ve con sus propios ojos,Ahí estás.,5,29:48
-ACTO 3,SEC 27 — El Parásito,109,Plano general,Cámara en mano,"Theron le hace frente al Parásito, distrayéndolo; luz contra luz",,3,29:51
-ACTO 3,SEC 27 — El Parásito,110,Plano entero,Steadicam,Brog y Nima entran por la brecha; Brog levanta a Stella en coma como a una pluma,,3,29:54
-ACTO 3,SEC 27 — El Parásito,111,Plano medio,Cámara en mano,Nima carga a Selka manca con dos de sus brazos,,2,29:56
-ACTO 3,SEC 27 — El Parásito,112,Plano americano,Fijo,"Vosk los cubre desde la puerta —llegó, después de todo",,2,29:58
-ACTO 3,SEC 27 — El Parásito,113,Plano medio,Cámara en mano,Nima grita a Theron mientras arrastra la carga hacia la brecha,¡Las tengo! ¡VÁMONOS!,3,30:01
-ACTO 3,SEC 27 — El Parásito,114,Plano entero,Dolly out,"Theron retrocede de espaldas, sin quitarle los ojos al Parásito, hasta la brecha",,4,30:05
-ACTO 3,SEC 28 — El portal,115,Gran plano general,Grúa,"La nave-palacio termina de arrancarse de la ciudad, escupiendo escombros, y se eleva",,6,30:11
-ACTO 3,SEC 28 — El portal,116,Plano detalle,Fijo,"En el núcleo de la nave, el Orbe latiendo, robado",,2,30:13
-ACTO 3,SEC 28 — El portal,117,Gran plano general,Tilt,La nave abre un portal en el cielo: un tajo de luz hacia otro mundo que vaciará,,5,30:18
-ACTO 3,SEC 28 — El portal,118,Plano general,Fijo,El Parásito no persigue a nadie; tiene lo que vino a buscar. Su nave entra al portal y desaparece,,4,30:22
-ACTO 3,SEC 28 — El portal,119,Gran plano general,Fijo,El cielo se cierra. Silencio sobre Erdia rota,,5,30:27
-ACTO 3,SEC 28 — El portal,120,Plano general,Travelling,"La nave de Theron se aleja en dirección contraria, pequeña contra el planeta",,5,30:32
-ACTO 3,SEC 28 — El portal,121,Primer plano,Dolly in,"En el puente, Theron mira el punto donde estuvo el portal; por primera vez, no está perdido",Veinte mil años buscándolo. Por fin sé adónde va a llevarlo.,8,30:40
-ACTO 3,SEC 29 — Enfermería,122,Plano general,Fijo,Enfermería en quietud; el zumbido bajo de la nave,,6,30:46
-ACTO 3,SEC 29 — Enfermería,123,Plano medio,Dolly in,"Stella flota en un tanque de soporte vital, dormida, intacta, ausente. En coma",,6,30:52
-ACTO 3,SEC 29 — Enfermería,124,Plano medio,Fijo,"Junto al tanque, Naio le sostiene la mirada a su hija sin poder tocarla",,5,30:57
-ACTO 3,SEC 29 — Enfermería,125,Plano detalle,Dolly in,"Sobre el pecho de Stella, dentro del agua, late un resplandor tenue: Gix como brasa a punto de apagarse",,5,31:02
-ACTO 3,SEC 29 — Enfermería,126,Primer plano,Fijo,Theron mira la brasa,Eso es lo único que la sostiene. Y se está apagando.,7,31:09
-ACTO 3,SEC 29 — Enfermería,127,Plano entero,Fijo,"Selka entra; el brazo le falta, vendado; la cara de quien perdió todo en una noche",,5,31:14
-ACTO 3,SEC 29 — Enfermería,128,Plano medio,Fijo,"Se acerca a Naio, su padre, y le toma la mano con la única que le queda",Perdóname. No sabía. Nada. Me lo robaron todo y ni cuenta me di.,8,31:22
-ACTO 3,SEC 29 — Enfermería,129,Primer plano,Dolly in,"Selka, tragando el llanto, jura",Voy a volver. Voy a salvar lo que quede de Erdia. Te lo juro por ella.,7,31:29
-ACTO 3,SEC 29 — Enfermería,130,Plano detalle,Fijo,"Naio, sin palabras, le aprieta la mano; la perdona con eso",,4,31:33
-ACTO 3,SEC 29 — Enfermería,131,Plano medio,Steadicam,Selka se vuelve hacia el tanque y apoya la palma —la única— en el cristal frío,,4,31:37
-ACTO 3,SEC 29 — Enfermería,132,Plano detalle,Fijo,"La palma de Selka contra el cristal, justo sobre la cara de su hermana dormida",,3,31:40
-ACTO 3,SEC 29 — Enfermería,133,Primerísimo primer plano,Dolly in,"Selka, la frente contra el cristal, le habla a Stella",No sabía que eras tú. Despierta. Y déjame decírtelo a la cara.,8,31:48
-ACTO 3,SEC 29 — Enfermería,134,Primerísimo primer plano,Fijo,"Desde el fondo del coma, con la voz de su madre dentro, Stella susurra",…un río que vuelve.,6,31:54
-ACTO 3,SEC 29 — Enfermería,135,Plano detalle,Dolly in,"Dentro del tanque, la brasa de Gix late una vez más. Débil, pequeña. Pero late",,6,32:00
-ACTO 3,SEC 29 — Enfermería,136,Plano general,Dolly out,Corte a negro sobre la enfermería. Rótulo: EL NODO DE ERDIA,,5,32:05
+acto,secuencia,plano,tipo,movimiento,ritmo,descripcion,dialogo,dur_seg,acumulado
+ACTO 1,SEC 1 — Descenso al corazón muerto,1,Gran plano general,Fijo,contemplativo,Negro total. Nada. El vacío antes del mundo. Sostener la oscuridad.,,6,0:06
+ACTO 1,SEC 1 — Descenso al corazón muerto,2,Gran plano general,Tilt,contemplativo,"Una línea de luz raja la oscuridad: el borde de un planeta amaneciendo, curva incandescente contra el negro.",,7,0:13
+ACTO 1,SEC 1 — Descenso al corazón muerto,3,Gran plano general,Grúa,contemplativo,"La cámara cae hacia el planeta, atraviesa nubes doradas que se abren como cortinas de polvo de luz.",,8,0:21
+ACTO 1,SEC 1 — Descenso al corazón muerto,4,Gran plano general,Aéreo,contemplativo,"Sobrevuelo de cordilleras vivas, crestas nevadas encendidas por el amanecer. El mundo respira.",,7,0:28
+ACTO 1,SEC 1 — Descenso al corazón muerto,5,Plano general,Aéreo,contemplativo,"Bosques que respiran: copas ondulando como oleaje verde, bruma subiendo entre los árboles.",,6,0:34
+ACTO 1,SEC 1 — Descenso al corazón muerto,6,Gran plano general,Dolly in,contemplativo,"La cámara encuentra una grieta: una fractura seca en la corteza, como una cicatriz que nadie curó.",,7,0:41
+ACTO 1,SEC 1 — Descenso al corazón muerto,7,Plano general,Travelling,contemplativo,Bajamos por la grieta. Paredes de roca que pasan de doradas a grises. La luz se queda atrás.,,8,0:49
+ACTO 1,SEC 1 — Descenso al corazón muerto,8,Plano detalle,Travelling,contemplativo,"Textura de roca deslizándose: vetas grises, luego negras. Un hilo de polvo cae en la penumbra.",,6,0:55
+ACTO 1,SEC 1 — Descenso al corazón muerto,9,Gran plano general,Travelling,contemplativo,Más hondo. Más hondo. La oscuridad se traga las paredes. El descenso no termina.,,8,1:03
+ACTO 1,SEC 1 — Descenso al corazón muerto,10,Gran plano general,Dolly out,contemplativo,Llegamos al centro del mundo: una caverna negra y sin fondo donde debería latir un corazón. Está hueca. Muerta.,,10,1:13
+ACTO 1,SEC 1 — Descenso al corazón muerto,11,Gran plano general,Fijo,contemplativo,El vacío negro sostenido. No late nada. Silencio total. Sostener hasta que duela.,,9,1:22
+ACTO 1,SEC 1 — Descenso al corazón muerto,12,Gran plano general,Fijo,transicion,"Sobre el negro, aparece el título: STELLA FUGAZ. Se sostiene, solo. Luego se desvanece.",,8,1:30
+ACTO 1,SEC 2 — Parque de la Luzagua,13,Gran plano general,Fijo,transicion,"CORTE BRUSCO: un cielo azul, abierto, deslumbrante. Una carcajada rompe el silencio como un vaso.",,4,1:34
+ACTO 1,SEC 2 — Parque de la Luzagua,14,Plano general,Travelling,accion,"Stella (14) corre descalza por la hierba de un parque, pelo blanco al viento, imparable.",,5,1:39
+ACTO 1,SEC 2 — Parque de la Luzagua,15,Plano detalle,Paneo,contemplativo,"Junto a ella corre un río de luzagua: agua y luz a la vez, que la gente deja pasar entre las manos.",,6,1:45
+ACTO 1,SEC 2 — Parque de la Luzagua,16,Primer plano,Cámara en mano,accion,Stella se toca el brazalete en la muñeca. Sus dedos rozan el metal cálido.,,3,1:48
+ACTO 1,SEC 2 — Parque de la Luzagua,17,Plano detalle,Whip-pan,accion,"Del aire se enciende Gix, criatura de luz mitad chispa mitad travesura, que escapa volando.",,3,1:51
+ACTO 1,SEC 2 — Parque de la Luzagua,18,Plano entero,Steadicam,accion,"Stella va tras Gix, riendo, esquivando a la gente que pasea entre la luz.",,4,1:55
+ACTO 1,SEC 2 — Parque de la Luzagua,19,Plano medio,Travelling,contemplativo,"Detrás, sin apuro, camina Vera (~40, pelo blanco recogido, ojos gris-azul). Serena.",,4,1:59
+ACTO 1,SEC 2 — Parque de la Luzagua,20,Plano medio,Steadicam,dialogo,Vera observa a su hija correr.,Despacio. Te vas a partir la cabeza el día antes de tu última prueba.,4,2:03
+ACTO 1,SEC 2 — Parque de la Luzagua,21,Plano americano,Cámara en mano,dialogo,"Stella, de espaldas, sin frenar, la voz llena de sol.","Mamá, soy la mejor de mi nivel. Te voy a hacer sentir orgullosa.",4,2:07
+ACTO 1,SEC 2 — Parque de la Luzagua,22,Plano entero,Fijo,accion,Stella se detiene de golpe. Algo enorme le tapa el sol. Su sombra se hunde en otra sombra mayor.,,3,2:10
+ACTO 1,SEC 2 — Parque de la Luzagua,23,Contrapicado,Tilt,contemplativo,"Un MECHA colosal, máquina de guerra antigua, arrodillada para siempre, cubierta de flores y enredaderas. Un gigante dormido.",,8,2:18
+ACTO 1,SEC 2 — Parque de la Luzagua,24,Plano detalle,Paneo,contemplativo,"Flores trepando por el metal oxidado del mecha, una enredadera meciéndose apenas en la brisa.",,6,2:24
+ACTO 1,SEC 2 — Parque de la Luzagua,25,Gran plano general,Fijo,silencio,"Stella pequeñita al pie del gigante, mirándolo hacia arriba. La escala de un mundo que fue.",,5,2:29
+ACTO 1,SEC 2 — Parque de la Luzagua,26,Plano medio,Fijo,dialogo,"Stella, sin dejar de mirar arriba, pregunta.",¿Por qué dejamos de hacerlo? Conquistar planetas. Éramos los más fuertes del cielo.,5,2:34
+ACTO 1,SEC 2 — Parque de la Luzagua,27,Plano medio,Cámara en mano,silencio,Vera la alcanza. La sonrisa se le pone seria. Esto sí lo dice en serio. Se agacha a su altura.,,4,2:38
+ACTO 1,SEC 2 — Parque de la Luzagua,28,Primer plano,Fijo,dialogo,"Vera, a la altura de su hija, eligiendo las palabras.",Eso no es tan romántico como suena. Lo quisimos todo… y por poco nos quedamos sin nada.,5,2:43
+ACTO 1,SEC 2 — Parque de la Luzagua,29,Plano detalle,Fijo,dialogo,"La mano de Vera muestra el río de luzagua corriendo entre los dedos de la gente, sin ser retenido.","Una persona es como un río, Stella. Si lo represas para ti, se pudre.",5,2:48
+ACTO 1,SEC 2 — Parque de la Luzagua,30,Primer plano,Fijo,dialogo,Vera sostiene la mirada de su hija. Beat. La verdad que aún no cabe en una niña.,Y envenena a todos los que están aguas abajo.,5,2:53
+ACTO 1,SEC 2 — Parque de la Luzagua,31,Primer plano,Fijo,silencio,Stella asiente muy seria… pero los ojos ya se le escapan hacia otra parte. Tiene catorce años. No lo entiende todavía.,,5,2:58
+ACTO 1,SEC 2 — Parque de la Luzagua,32,Plano detalle,Paneo,contemplativo,"Gix la llama desde la rama de un árbol, parpadeando, travieso.",,3,3:01
+ACTO 1,SEC 2 — Parque de la Luzagua,33,Primer plano,Fijo,silencio,Vera lo nota. Sonríe con un poco de tristeza. La deja ir.,,5,3:06
+ACTO 1,SEC 2 — Parque de la Luzagua,34,Plano medio,Fijo,dialogo,"Vera, todavía agachada, en voz suave.",Voy por tu hermana. Nos vemos en casa para la cena.,4,3:10
+ACTO 1,SEC 2 — Parque de la Luzagua,35,Plano entero,Steadicam,dialogo,"Stella ya corriendo, girando el cuello para gritar por encima del hombro.",¡Dile a Selka que esta vez le gané a Gix!,4,3:14
+ACTO 1,SEC 2 — Parque de la Luzagua,36,Gran plano general,Fijo,contemplativo,"Stella se aleja riendo, blanca contra el verde, cada vez más pequeña.",,6,3:20
+ACTO 1,SEC 2 — Parque de la Luzagua,37,Primer plano,Dolly in,silencio,La cámara se queda en Vera mirándola. Una madre observando a su hija en el último día bueno de toda su vida. Y solo nosotros lo sabemos.,,9,3:29
+ACTO 1,SEC 2 — Parque de la Luzagua,38,Plano detalle,Fijo,contemplativo,"El río de luzagua sigue corriendo, indiferente, brillando bajo el sol. Sostener.",,6,3:35
+ACTO 1,SEC 3 — Laboratorio de Naio,39,Plano general,Fijo,accion,"La puerta del laboratorio se abre. Entra Stella todavía riendo, con Gix dándole vueltas alrededor.",,4,3:39
+ACTO 1,SEC 3 — Laboratorio de Naio,40,Plano medio,Steadicam,dialogo,"Stella entra ligera, la risa aún en la boca.","Me mandaron llamar, ¿qué es tan importante que no puede esp—",4,3:43
+ACTO 1,SEC 3 — Laboratorio de Naio,41,Primer plano,Fijo,silencio,La risa se le apaga sola. La sonrisa cae. Algo en el aire está mal.,,5,3:48
+ACTO 1,SEC 3 — Laboratorio de Naio,42,Plano general,Fijo,contemplativo,POV de Stella: Vera y Naio (~45) de pie frente a una proyección de datos. Ninguno se ríe. La cara de quien vio algo que no se puede des-ver.,,6,3:54
+ACTO 1,SEC 3 — Laboratorio de Naio,43,Plano detalle,Fijo,contemplativo,"En un moisés flotante duerme la bebé Selka (1 año, ojos cerrados). Respira apenas.",,5,3:59
+ACTO 1,SEC 3 — Laboratorio de Naio,44,Primer plano,Fijo,dialogo,"Stella, la sonrisa completamente ida, la voz pequeña.",…¿Todo está bien?,4,4:03
+ACTO 1,SEC 3 — Laboratorio de Naio,45,Plano medio,Fijo,silencio,Nadie le contesta. El silencio pesa. Naio le tiende un traje plegado sin una palabra.,,5,4:08
+ACTO 1,SEC 3 — Laboratorio de Naio,46,Primer plano,Fijo,dialogo,"Naio, la mandíbula tensa.",Póntelo. Rápido.,3,4:11
+ACTO 1,SEC 3 — Laboratorio de Naio,47,Plano entero,Cámara en mano,accion,"Stella obedece sin entender. Empieza a vestirse, torpe, mirando a sus padres.",,4,4:15
+ACTO 1,SEC 3 — Laboratorio de Naio,48,Plano medio,Dolly in,dialogo,"Naio se acerca, baja la voz, como quien confiesa algo prohibido dentro de su propia casa.",Escúchame bien. El Rey no nos está protegiendo.,5,4:20
+ACTO 1,SEC 3 — Laboratorio de Naio,49,Primer plano,Fijo,dialogo,"Naio, un beat, y luego lo imposible.",Se está comiendo el planeta desde adentro. Y está muriendo.,5,4:25
+ACTO 1,SEC 3 — Laboratorio de Naio,50,Gran plano general,Dolly in,contemplativo,"La proyección lo confirma: el mismo descenso de la SEC 1, hasta el corazón negro y hueco. Erdia vaciándose por dentro.",,7,4:32
+ACTO 1,SEC 3 — Laboratorio de Naio,51,Primer plano,Fijo,dialogo,"Stella mira la proyección, incapaz de creerlo.",…Eso no es posible. El Orbe le da vida a todo. Tú me lo enseñaste.,5,4:37
+ACTO 1,SEC 3 — Laboratorio de Naio,52,Primer plano,Fijo,dialogo,"Naio, sin rodeos.",Por eso lo quiere.,4,4:41
+ACTO 1,SEC 3 — Laboratorio de Naio,53,Plano detalle,Fijo,accion,"Naio activa una máquina sobre la mano abierta de Stella. Ella espera una joya, un objeto.",,3,4:44
+ACTO 1,SEC 3 — Laboratorio de Naio,54,Inserto,Fijo,accion,"No le pone nada. La prepara. Una llave de luz se graba bajo la piel de la palma, un dolor breve y limpio.",,3,4:47
+ACTO 1,SEC 3 — Laboratorio de Naio,55,Primer plano,Cámara en mano,silencio,"Stella aprieta los dientes, aguantando el dolor.",,3,4:50
+ACTO 1,SEC 3 — Laboratorio de Naio,56,Plano medio,Fijo,dialogo,"Naio, sosteniéndole la mano recién marcada.","El Orbe es nuestra sangre, Stella. Solo nuestra familia puede tocarlo.",5,4:55
+ACTO 1,SEC 3 — Laboratorio de Naio,57,Plano detalle,Fijo,dialogo,"Naio le cierra la mano de Stella sobre la llave, con cuidado.",Lo que acabo de hacerte te permite integrarlo. Meterlo dentro de ti. Y una vez dentro…,5,5:00
+ACTO 1,SEC 3 — Laboratorio de Naio,58,Primer plano,Dolly in,dialogo,"Naio la mira a los ojos, la carga de todo lo que viene.",…solamente tú podrías usarlo. Nadie más.,5,5:05
+ACTO 1,SEC 3 — Laboratorio de Naio,59,Primer plano,Fijo,silencio,Stella no alcanza a procesarlo. Su cara buscando un asidero que no llega.,,4,5:09
+ACTO 1,SEC 3 — Laboratorio de Naio,60,Plano detalle,Fijo,accion,"En el moisés, la bebé Selka abre los ojos y empieza a llorar.",,3,5:12
+ACTO 1,SEC 3 — Laboratorio de Naio,61,Plano entero,Steadicam,accion,"Stella, por puro instinto de hermana mayor, deja todo y va hacia la bebé.",,3,5:15
+ACTO 1,SEC 3 — Laboratorio de Naio,62,Plano medio,Cámara en mano,silencio,Stella se inclina sobre el moisés. Ahueca la mano sobre la bebé.,,4,5:19
+ACTO 1,SEC 3 — Laboratorio de Naio,63,Inserto,Fijo,contemplativo,"Una chispa de Gix baja y baila en la palma de Stella, como una luciérnaga.",,4,5:23
+ACTO 1,SEC 3 — Laboratorio de Naio,64,Primer plano,Fijo,silencio,"Stella junta la frente a la de la bebé. Las dos sonríen. Un momento minúsculo, tibio, de hermanas.",,6,5:29
+ACTO 1,SEC 3 — Laboratorio de Naio,65,Plano detalle,Fijo,silencio,"Selka se calma al instante, la manita agarrando el dedo de Stella. Guardarlo.",,5,5:34
+ACTO 1,SEC 3 — Laboratorio de Naio,66,Plano detalle,Fijo,accion,Un suelo que vibra: pasos. Muchos. Acercándose por el corredor. El polvo tiembla.,,3,5:37
+ACTO 1,SEC 3 — Laboratorio de Naio,67,Plano medio,Fijo,silencio,Naio y Vera se cruzan una mirada. Se acabó el tiempo. Sin palabras.,,4,5:41
+ACTO 1,SEC 3 — Laboratorio de Naio,68,Plano medio,Cámara en mano,dialogo,"Naio, rápido, firme, ya en marcha.",Llegaron. Tomen a Selka. Vayan por el Orbe.,4,5:45
+ACTO 1,SEC 3 — Laboratorio de Naio,69,Primer plano,Fijo,dialogo,"Naio agarra la cara de Stella con las dos manos, cara a cara.","Cuando lo tengas, ponlo en tu mano. Y pase lo que pase… nunca, nunca dejes que él lo tenga. ¿Me oyes?",6,5:51
+ACTO 1,SEC 3 — Laboratorio de Naio,70,Primer plano,Fijo,dialogo,"Naio, un beat, la voz firme sobre el miedo.",Yo los retengo.,4,5:55
+ACTO 1,SEC 3 — Laboratorio de Naio,71,Primer plano,Cámara en mano,dialogo,"Stella, los ojos llenándose, negando.","Papá, no—",3,5:58
+ACTO 1,SEC 3 — Laboratorio de Naio,72,Primer plano,Fijo,dialogo,"Naio, sin dejarla terminar, todo el amor en tres frases.",Te quiero. Las tres. Ya.,4,6:02
+ACTO 1,SEC 3 — Laboratorio de Naio,73,Plano entero,Fijo,silencio,"Un abrazo de los tres, demasiado corto. Vera levanta a la bebé del moisés.",,5,6:07
+ACTO 1,SEC 3 — Laboratorio de Naio,74,Plano general,Fijo,accion,La puerta principal se abre. Luz fría inunda el umbral.,,3,6:10
+ACTO 1,SEC 3 — Laboratorio de Naio,75,Contrapicado,Dolly in,contemplativo,"Entra VORTHAN, el Rey. Alto, sereno, con una sonrisa de viejo amigo de la familia. Soldados-robot detrás, llenando el umbral como una sombra.",,6,6:16
+ACTO 1,SEC 3 — Laboratorio de Naio,76,Plano medio,Fijo,dialogo,"Vorthan, casi con cariño, saboreando el momento.",Naio. Viejo amigo.,4,6:20
+ACTO 1,SEC 3 — Laboratorio de Naio,77,Primer plano,Paneo,dialogo,"Los ojos de Vorthan recorren la escena: el traje, el moisés vacío. Lo entiende todo.",Sabías que este día llegaría.,5,6:25
+ACTO 1,SEC 3 — Laboratorio de Naio,78,Plano entero,Steadicam,silencio,"Vera y Stella se deslizan hacia la salida trasera, despacio, sin correr todavía.",,4,6:29
+ACTO 1,SEC 3 — Laboratorio de Naio,79,Primerísimo primer plano,Fijo,dialogo,Los ojos del Rey lo ven todo. No parpadean.,No las dejen escapar.,4,6:33
+ACTO 1,SEC 3 — Laboratorio de Naio,80,Plano entero,Cámara en mano,accion,Naio se interpone. Activa un campo de fuerza entre el Rey y su familia. Les compra tres segundos.,,3,6:36
+ACTO 1,SEC 3 — Laboratorio de Naio,81,Plano medio,Fijo,silencio,El Rey mira a Naio casi con pena.,,3,6:39
+ACTO 1,SEC 3 — Laboratorio de Naio,82,Plano entero,Whip-pan,accion,"Vorthan lo derriba de un solo golpe de luz, como quien aparta una rama. Naio vuela contra la consola.",,2,6:41
+ACTO 1,SEC 3 — Laboratorio de Naio,83,Primer plano,Cámara en mano,dialogo,"Stella, grito ahogado, la mano estirada hacia su padre caído.",¡PAPÁ!,3,6:44
+ACTO 1,SEC 3 — Laboratorio de Naio,84,Plano medio,Cámara en mano,accion,Vera la arranca de ahí de un tirón. Corren. La escena se rompe en movimiento.,,3,6:47
+ACTO 1,SEC 4 — Pasillos del palacio,85,Plano entero,Steadicam,accion,Vera y Stella corren a toda velocidad por el pasillo. Vera lleva a la bebé Selka apretada contra el pecho.,,4,6:51
+ACTO 1,SEC 4 — Pasillos del palacio,86,Plano detalle,Travelling,accion,"Detrás, lejos pero acercándose, el zumbido de los robots imperiales. Luces frías barriendo las paredes.",,3,6:54
+ACTO 1,SEC 4 — Pasillos del palacio,87,Plano medio,Cámara en mano,dialogo,"Vera habla entrecortado, sin dejar de correr. Lo que dice es brutal de tan claro.","Recuérdalo, Stella: nada es más importante que ese Orbe. Nada.",5,6:59
+ACTO 1,SEC 4 — Pasillos del palacio,88,Primer plano,Cámara en mano,dialogo,"Vera la mira un segundo mientras corren, la verdad más dura de su vida.","Ni yo. Ni tu hermana. Sin él, el planeta entero muere. Todos. ¿Entiendes?",6,7:05
+ACTO 1,SEC 4 — Pasillos del palacio,89,Primer plano,Cámara en mano,dialogo,"Stella corriendo, los ojos llenos, tragándose todo.",Entiendo. Tú solo cuida de Selka.,4,7:09
+ACTO 1,SEC 4 — Pasillos del palacio,90,Primer plano,Steadicam,silencio,"Vera la mira de reojo. Y, en plena huida, le sonríe. Una sonrisa de madre imposible en ese momento, y por eso más fuerte.",,5,7:14
+ACTO 1,SEC 4 — Pasillos del palacio,91,Plano medio,Cámara en mano,dialogo,"Vera, firme entre jadeos.","Pase lo que pase, llega a la nave. La dejé afuera, en la salida que da al parque.",5,7:19
+ACTO 1,SEC 4 — Pasillos del palacio,92,Plano general,Whip-pan,accion,Una pared estalla en polvo y esquirlas. Entran los primeros robots por el boquete.,,2,7:21
+ACTO 1,SEC 4 — Pasillos del palacio,93,Plano detalle,Cámara en mano,accion,"Polvo y escombros suspendidos un instante en el aire, atravesados por la luz de un robot.",,2,7:23
+ACTO 1,SEC 4 — Pasillos del palacio,94,Plano entero,Cámara en mano,accion,"Vera pelea con un brazo cubriendo a la bebé, derribando un robot con un golpe de luz.",,2,7:25
+ACTO 1,SEC 4 — Pasillos del palacio,95,Plano americano,Whip-pan,accion,"Stella se mueve con la agilidad de quien entrenó toda su vida para una prueba que no era esta. Desvía, esquiva, avanza.",,2,7:27
+ACTO 1,SEC 4 — Pasillos del palacio,96,Plano detalle,Cámara en mano,accion,"Un robot cae partido por la luz, chispas saltando, la carcasa humeando.",,2,7:29
+ACTO 1,SEC 4 — Pasillos del palacio,97,Plano entero,Steadicam,accion,"Madre e hija se abren paso, espalda con espalda, avanzando entre el humo.",,3,7:32
+ACTO 1,SEC 4 — Pasillos del palacio,98,Gran plano general,Dolly in,contemplativo,"Al fondo del corredor: las puertas inmensas de la SALA DEL ORBE, latiendo con luz.",,5,7:37
+ACTO 1,SEC 5 — Muerte de Vera,99,Gran plano general,Grúa,contemplativo,"Una cámara inmensa. En el centro, suspendido, el ORBE: una esfera de luzagua pura, latiendo como un corazón segundo del mundo.",,8,7:45
+ACTO 1,SEC 5 — Muerte de Vera,100,Plano detalle,Fijo,contemplativo,El Orbe late despacio. Ondas de luz recorriendo su superficie líquida. Sostener el latido.,,6,7:51
+ACTO 1,SEC 5 — Muerte de Vera,101,Plano general,Fijo,accion,"Vera y Stella entran por un lado. Por el otro, al mismo tiempo, entra VORTHAN. La sala inmensa entre ellos.",,4,7:55
+ACTO 1,SEC 5 — Muerte de Vera,102,Plano medio,Fijo,silencio,Se miran a través de la sala. Una carrera de un solo latido. El aire suspendido.,,4,7:59
+ACTO 1,SEC 5 — Muerte de Vera,103,Primer plano,Cámara en mano,dialogo,"Vera, todo o nada.",¡Ve por el Orbe! ¡AHORA!,3,8:02
+ACTO 1,SEC 5 — Muerte de Vera,104,Plano entero,Steadicam,accion,Stella arranca hacia la esfera a toda velocidad.,,2,8:04
+ACTO 1,SEC 5 — Muerte de Vera,105,Plano general,Whip-pan,accion,"Los robots se cierran sobre Vera, que pelea protegiendo a Selka, sin poder seguir a su hija.",,3,8:07
+ACTO 1,SEC 5 — Muerte de Vera,106,Plano entero,Fijo,contemplativo,"Y entonces entra otro. S1G1: un robot distinto, oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un asesino.",,5,8:12
+ACTO 1,SEC 5 — Muerte de Vera,107,Primer plano,Dolly in,silencio,Vera lo ve. Y entiende que esto ya no es una pelea. Es una ejecución. El rostro se le vacía de esperanza.,,5,8:17
+ACTO 1,SEC 5 — Muerte de Vera,108,Plano medio,Cámara en mano,silencio,"Vera acomoda a la bebé en el hueco de un panel, lejos, a salvo, con manos que tiemblan un instante.",,4,8:21
+ACTO 1,SEC 5 — Muerte de Vera,109,Plano entero,Fijo,silencio,Vera se planta frente a S1G1. Se afirma. La última decisión de una madre.,,4,8:25
+ACTO 1,SEC 5 — Muerte de Vera,110,Plano medio,Cámara en mano,accion,"Pelea de verdad. Vera da todo lo que tiene: golpes de luz, fintas, fuerza.",,3,8:28
+ACTO 1,SEC 5 — Muerte de Vera,111,Plano detalle,Whip-pan,accion,"S1G1 esquiva sin esfuerzo, frío, calculado. No alcanza. Un choque de luz contra la nada.",,2,8:30
+ACTO 1,SEC 5 — Muerte de Vera,112,Plano entero,Cámara en mano,accion,S1G1 la neutraliza de un golpe seco. Vera cae.,,2,8:32
+ACTO 1,SEC 5 — Muerte de Vera,113,Plano detalle,Fijo,silencio,"Aun cayendo, su último movimiento es cubrir a la bebé Selka con el cuerpo. El instinto por encima de todo.",,4,8:36
+ACTO 1,SEC 5 — Muerte de Vera,114,Primer plano,Cámara en mano,dialogo,"Vera en el suelo, girando la cabeza, gritando con la vida entera.","¡STELLA, CORRE! ¡NO MIRES ATRÁS!",4,8:40
+ACTO 1,SEC 5 — Muerte de Vera,115,Plano detalle,Dolly in,accion,"Stella a tres pasos del Orbe. La mano extendida, los dedos a punto de tocarlo.",,3,8:43
+ACTO 1,SEC 5 — Muerte de Vera,116,Primer plano,Fijo,silencio,"Y no obedece. La cara de Stella decidiendo, el amor rompiendo la regla.",,4,8:47
+ACTO 1,SEC 5 — Muerte de Vera,117,Plano entero,Whip-pan,accion,Se da media vuelta y corre hacia su madre con toda su fuerza. Rompe la única regla. Por amor.,,3,8:50
+ACTO 1,SEC 5 — Muerte de Vera,118,Primer plano,Cámara en mano,dialogo,"Vera, con horror, gritando.",¡NO! ¡NO TE ACERQUES!,3,8:53
+ACTO 1,SEC 5 — Muerte de Vera,119,Plano entero,Whip-pan,accion,Demasiado tarde. VORTHAN la intercepta. La atrapa por la trenza y la levanta del piso.,,2,8:55
+ACTO 1,SEC 5 — Muerte de Vera,120,Plano medio,Cámara en mano,accion,"Stella cuelga inmóvil, pataleando en el aire, sostenida solo por el pelo.",,3,8:58
+ACTO 1,SEC 5 — Muerte de Vera,121,Primer plano,Fijo,silencio,"Stella llora de rabia y de impotencia, retorciéndose.",,3,9:01
+ACTO 1,SEC 5 — Muerte de Vera,122,Primer plano,Fijo,dialogo,"El Rey, sosteniéndola del pelo, ríe por lo bajo, suave, casi paternal.",Tan parecida a tu madre. Corriendo hacia lo que ama.,5,9:06
+ACTO 1,SEC 5 — Muerte de Vera,123,Primerísimo primer plano,Fijo,dialogo,"Vorthan, un beat, la sentencia.",Por eso siempre pierden.,4,9:10
+ACTO 1,SEC 5 — Muerte de Vera,124,Plano medio,Fijo,silencio,"En el suelo, Vera junta lo último que le queda. Levanta las dos manos hacia su hija.",,4,9:14
+ACTO 1,SEC 5 — Muerte de Vera,125,Plano entero,Dolly in,accion,"Un escudo de luz se forma alrededor de Stella, tejido por las manos de Vera. Su amor hecho barrera.",,4,9:18
+ACTO 1,SEC 5 — Muerte de Vera,126,Plano medio,Fijo,accion,"Justo en ese instante, detrás de Vera, S1G1 le perfora el corazón con una lanza de luz. Sin sangre: la luz la atraviesa.",,3,9:21
+ACTO 1,SEC 5 — Muerte de Vera,127,Primerísimo primer plano,Cámara en mano,dialogo,"Stella, un grito que se rompe en dos.",¡MAMÁ!,3,9:24
+ACTO 1,SEC 5 — Muerte de Vera,128,Primer plano,Fijo,silencio,Vera la mira. Sostiene el escudo con la vida que se le escapa. Todo su ser volcado en no soltarlo.,,6,9:30
+ACTO 1,SEC 5 — Muerte de Vera,129,Primerísimo primer plano,Dolly in,dialogo,"Los labios de Vera se mueven una última vez, casi sin voz.",Huye.,5,9:35
+ACTO 1,SEC 5 — Muerte de Vera,130,Primer plano,Fijo,silencio,"Stella, colgada del pelo, atrapada, ve morir a su madre a un metro de distancia. La cara de una niña rompiéndose para siempre.",,8,9:43
+ACTO 1,SEC 5 — Muerte de Vera,131,Plano detalle,Cámara en mano,accion,"Stella saca de su traje un cuchillo láser. La hoja se enciende, fina y azul.",,2,9:45
+ACTO 1,SEC 5 — Muerte de Vera,132,Plano detalle,Whip-pan,accion,Se lo lleva a la nuca. Y se corta la trenza de un tajo limpio.,,2,9:47
+ACTO 1,SEC 5 — Muerte de Vera,133,Plano entero,Cámara en mano,accion,"Cae libre al piso, rodando, el pelo corto ahora.",,3,9:50
+ACTO 1,SEC 5 — Muerte de Vera,134,Plano detalle,Fijo,silencio,"La trenza cortada queda colgando de la mano de Vorthan, un trofeo inútil.",,3,9:53
+ACTO 1,SEC 5 — Muerte de Vera,135,Plano medio,Dolly out,silencio,El escudo de Vera se apaga con ella. La luz se disuelve. El cuerpo queda quieto.,,7,10:00
+ACTO 1,SEC 5 — Muerte de Vera,136,Plano detalle,Fijo,contemplativo,"El pelo cortado de Stella y la mano abierta de Vera en el suelo, muy cerca, sin tocarse. Sostener.",,6,10:06
+ACTO 1,SEC 6 — Toma del Orbe / huida,137,Plano entero,Cámara en mano,accion,"Stella rueda, se levanta. Rota por dentro, los ojos inundados, pero corriendo hacia el Orbe.",,3,10:09
+ACTO 1,SEC 6 — Toma del Orbe / huida,138,Plano medio,Whip-pan,accion,Esquiva a un robot. A otro. Salta por encima de una carcasa caída.,,2,10:11
+ACTO 1,SEC 6 — Toma del Orbe / huida,139,Plano detalle,Dolly in,accion,Y toma el Orbe. Sus dedos se cierran sobre la esfera de luz.,,2,10:13
+ACTO 1,SEC 6 — Toma del Orbe / huida,140,Inserto,Fijo,accion,"En el segundo exacto del contacto, la llave de la palma se enciende. La esfera se integra, se hace pequeña, late en su mano.",,3,10:16
+ACTO 1,SEC 6 — Toma del Orbe / huida,141,Plano detalle,Fijo,accion,La muñequera del traje marca: MAX. Los caracteres encendiéndose.,,2,10:18
+ACTO 1,SEC 6 — Toma del Orbe / huida,142,Plano entero,Tilt,accion,"Los propulsores del traje rugen. Stella despega hacia un ducto estrecho en lo alto del techo, la única salida.",,3,10:21
+ACTO 1,SEC 6 — Toma del Orbe / huida,143,Primer plano,Fijo,silencio,"Antes de entrar, una fracción de segundo, Stella mira hacia abajo.",,3,10:24
+ACTO 1,SEC 6 — Toma del Orbe / huida,144,Gran plano general,Picado,silencio,"POV de Stella: su madre tirada, quieta. La bebé Selka llorando junto al cuerpo. Las ve por última vez.",,6,10:30
+ACTO 1,SEC 6 — Toma del Orbe / huida,145,Primer plano,Fijo,silencio,"Stella aprieta los dientes, se traga el grito. Entra al ducto.",,3,10:33
+ACTO 1,SEC 6 — Toma del Orbe / huida,146,Plano detalle,Travelling,accion,"S1G1 dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas.",,2,10:35
+ACTO 1,SEC 6 — Toma del Orbe / huida,147,Plano medio,Cámara en mano,accion,S1G1 se atasca en el orificio del ducto. Forcejea. Chispas saltando por todas partes.,,2,10:37
+ACTO 1,SEC 6 — Toma del Orbe / huida,148,Plano general,Whip-pan,accion,"S1G1 EXPLOTA. La onda escupe a Stella por el otro lado, al cielo abierto.",,2,10:39
+ACTO 1,SEC 6 — Toma del Orbe / huida,149,Plano detalle,Fijo,contemplativo,Escombros metálicos asentándose en el ducto humeante. Una chispa muriendo. La resaca del impacto.,,3,10:42
+ACTO 1,SEC 6 — Toma del Orbe / huida,150,Plano general,Grúa,contemplativo,"ABAJO, en la sala: Vera muerta en el piso. La bebé llorando a su lado. El vacío enorme alrededor.",,6,10:48
+ACTO 1,SEC 6 — Toma del Orbe / huida,151,Plano medio,Steadicam,silencio,"VORTHAN se acerca, sin prisa, y levanta a Selka en sus brazos. La bebé se calla, mirándolo.",,5,10:53
+ACTO 1,SEC 6 — Toma del Orbe / huida,152,Plano entero,Fijo,accion,Dos robots se inclinan a recoger el cuerpo de Vera. El Rey los detiene con un gesto seco de la mano.,,3,10:56
+ACTO 1,SEC 6 — Toma del Orbe / huida,153,Primer plano,Fijo,dialogo,"Vorthan, frío, sin siquiera mirarla.",¿Qué hacen? Ya está muerta.,4,11:00
+ACTO 1,SEC 6 — Toma del Orbe / huida,154,Plano medio,Fijo,dialogo,"El Rey se da la vuelta con la bebé, dando la espalda al cuerpo.",Salgan a buscar a Stella. Necesitamos ese Orbe.,4,11:04
+ACTO 1,SEC 6 — Toma del Orbe / huida,155,Plano entero,Fijo,accion,"Los robots sueltan el cuerpo, que golpea el suelo, y salen.",,3,11:07
+ACTO 1,SEC 6 — Toma del Orbe / huida,156,Gran plano general,Grúa,contemplativo,"El Rey se va con la bebé en brazos, dejando a Vera tirada en el suelo de su propia casa. La sala inmensa, vacía, alrededor del cuerpo. Sostener el abandono.",,9,11:16
+ACTO 1,SEC 7 — Cielo / naves aliadas,157,Plano general,Grúa,accion,Stella sale disparada del palacio y cae sobre la nave que Vera escondió entre las torres.,,3,11:19
+ACTO 1,SEC 7 — Cielo / naves aliadas,158,Plano detalle,Cámara en mano,accion,Manos temblando sobre los controles. Arranca. La cabina cobra vida.,,3,11:22
+ACTO 1,SEC 7 — Cielo / naves aliadas,159,Gran plano general,Fijo,contemplativo,"Apenas despega, en el horizonte dorado, aparece una FLOTA IMPERIAL. Decenas de naves, silueta amenazante contra el sol.",,6,11:28
+ACTO 1,SEC 7 — Cielo / naves aliadas,160,Plano entero,Steadicam,accion,"Empieza la persecución. Stella se mete entre las torres, vuela como nadie, raspando los puentes.",,3,11:31
+ACTO 1,SEC 7 — Cielo / naves aliadas,161,Plano general,Whip-pan,accion,Hace chocar a dos perseguidores contra los edificios. Estallidos de luz entre las torres doradas.,,2,11:33
+ACTO 1,SEC 7 — Cielo / naves aliadas,162,Primer plano,Cámara en mano,silencio,"Stella pilotando, brillante y desesperada a la vez. Pero son demasiados.",,3,11:36
+ACTO 1,SEC 7 — Cielo / naves aliadas,163,Plano detalle,Fijo,accion,Una nave imperial la encuadra en su punto de mira. El disparo va a salir.,,2,11:38
+ACTO 1,SEC 7 — Cielo / naves aliadas,164,Plano general,Whip-pan,accion,"La nave imperial estalla, reventada desde un costado por un disparo que no era de Stella.",,2,11:40
+ACTO 1,SEC 7 — Cielo / naves aliadas,165,Plano general,Grúa,accion,"Aparecen OTRAS NAVES. Aliados. Gente que sabía. Se interponen, abren fuego, le hacen un pasillo en el cielo.",,4,11:44
+ACTO 1,SEC 7 — Cielo / naves aliadas,166,Primer plano,Fijo,silencio,"Stella escucha la radio, sin entender.",,3,11:47
+ACTO 1,SEC 7 — Cielo / naves aliadas,167,Plano detalle,Fijo,dialogo,"El altavoz de la radio crepita. Una voz de mujer, con la calma de quien ya decidió morir.",Stella. Tu madre nos contó lo que pasaba.,5,11:52
+ACTO 1,SEC 7 — Cielo / naves aliadas,168,Plano general,Whip-pan,dialogo,"Otra nave aliada se sacrifica al fondo, reventando contra un caza imperial.",Estamos aquí para protegerte. No dejes que nuestro sacrificio sea en vano.,5,11:57
+ACTO 1,SEC 7 — Cielo / naves aliadas,169,Primer plano,Cámara en mano,dialogo,"Stella, al borde del llanto, gritando a la radio.",¿Quiénes son ustedes? ¡No los conozco! ¡No—!,4,12:01
+ACTO 1,SEC 7 — Cielo / naves aliadas,170,Plano detalle,Fijo,dialogo,"La radio, la voz firme sobre la estática.",No dejes que nadie consiga ese Orbe. Nadie.,4,12:05
+ACTO 1,SEC 7 — Cielo / naves aliadas,171,Plano general,Travelling,dialogo,"Naves aliadas abriéndole camino, una tras otra, hacia el negro del espacio.",Ve lejos. Hazte fuerte. Y vuelve algún día a salvarnos.,5,12:10
+ACTO 1,SEC 7 — Cielo / naves aliadas,172,Primer plano,Fijo,dialogo,"Stella escuchando, las lágrimas cayendo, sin poder responder.",Te vamos a estar esperando.,5,12:15
+ACTO 1,SEC 7 — Cielo / naves aliadas,173,Plano general,Whip-pan,accion,"Una a una, las naves aliadas se interponen y revientan, flores de luz abriéndose en el cielo. La mayoría muere por ella.",,4,12:19
+ACTO 1,SEC 7 — Cielo / naves aliadas,174,Plano detalle,Fijo,accion,"Tres naves aliadas caen sin estallar: forzadas, no destruidas. La flota imperial captura vivos a sus tres pilotos.",,3,12:22
+ACTO 1,SEC 7 — Cielo / naves aliadas,175,Primer plano,Fijo,silencio,"Stella lo ve todo en el retrovisor: a los que mueren, y a los tres que se llevan presos. Su cara guardándolo.",,5,12:27
+ACTO 1,SEC 7 — Cielo / naves aliadas,176,Gran plano general,Dolly out,contemplativo,"Y sale. Al vacío. Sola. Erdia dorada quedando atrás, pequeña.",,7,12:34
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,177,Gran plano general,Fijo,contemplativo,El silencio del espacio. El negro absoluto salpicado de estrellas. Nada se mueve. Sostener el vacío.,,8,12:42
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,178,Gran plano general,Dolly out,contemplativo,"Erdia, dorada y enferma, se encoge lentamente detrás de la nave. Cada vez más chica.",,9,12:51
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,179,Plano detalle,Fijo,contemplativo,Un panel de la cabina. Una alarma suave se enciende. Luz ámbar parpadeando en el silencio.,,4,12:55
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,180,Inserto,Fijo,contemplativo,Luego otra alarma. Un cartel se ilumina: OXÍGENO: CRÍTICO. Las letras rojas latiendo.,,5,13:00
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,181,Primer plano,Fijo,silencio,Stella respira cada vez más despacio. El pecho subiendo apenas. Sostener.,,6,13:06
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,182,Primerísimo primer plano,Dolly in,silencio,"Su cara. Llora sin ruido. Tiene catorce años, acaba de ver morir a su madre y a un montón de desconocidos, y se queda sin aire en mitad de la nada.",,10,13:16
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,183,Plano detalle,Fijo,contemplativo,"Una lágrima se desprende de su mejilla y flota, suspendida, en la gravedad cero. Una perla de agua a la deriva.",,6,13:22
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,184,Plano detalle,Fijo,contemplativo,"La lágrima flotante atrapa la luz de las estrellas, girando despacio. Sostener el 間.",,5,13:27
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,185,Primer plano,Tilt,silencio,Stella baja la mirada. Mira su mano.,,4,13:31
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,186,Plano detalle,Dolly in,contemplativo,"La llave de luz en su palma. El Orbe latiendo dentro, cálido, vivo, ajeno a la muerte de alrededor.",,6,13:37
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,187,Primerísimo primer plano,Fijo,silencio,"Los ojos de Stella, vidriosos, mirando el Orbe. Un pensamiento naciendo desde la desesperación.",,5,13:42
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,188,Plano detalle,Cámara en mano,accion,"En un acto de pura desesperación, sin saber lo que hace, Stella pone la palma abierta sobre el tablero.",,4,13:46
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,189,Inserto,Fijo,accion,La energía del Orbe empieza a fluir hacia la nave. Un hilo de luz corriendo desde su mano al metal.,,4,13:50
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,190,Plano detalle,Tilt,contemplativo,Un panel se enciende. Luego otro. Y otro. Cada uno cobrando vida uno a uno en la penumbra.,,5,13:55
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,191,Plano medio,Fijo,silencio,"Stella observa, la cara iluminada por los paneles que despiertan, sin entender qué está haciendo.",,4,13:59
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,192,Inserto,Cámara en mano,accion,La carga sube. Sube. Un medidor trepando hacia el rojo. La luz se intensifica.,,3,14:02
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,193,Plano general,Cámara en mano,accion,"Todo el sistema empieza a temblar, a sobrecargarse, a colapsar. La cabina vibra, las luces destellan.",,3,14:05
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,194,Primer plano,Cámara en mano,accion,"Stella se aferra al asiento, los ojos muy abiertos, el rugido creciendo.",,3,14:08
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,195,Gran plano general,Whip-pan,accion,La nave da un HÍPER SALTO. Se estira en una línea de luz y desaparece del espacio conocido.,,2,14:10
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,196,Gran plano general,Fijo,accion,Un estallido de luz blanca se traga la pantalla. La nave es arrancada de su universo.,,3,14:13
+ACTO 1,SEC 8 — Clímax silencioso / híper-salto,197,Gran plano general,Fijo,contemplativo,"Blanco total. Nada más. Sostener el blanco, como se sostuvo el negro al principio.",,7,14:20
+ACTO 1,SEC 9 — Balcón real / discurso,198,Gran plano general,Grúa,contemplativo,"Bajo un cielo todavía azul, una plaza inmensa repleta de gente. VORTHAN de pie en el balcón real, minúsculo sobre la multitud.",,7,14:27
+ACTO 1,SEC 9 — Balcón real / discurso,199,Plano medio,Dolly in,dialogo,"Vorthan habla con voz de luto, perfecta, medida.",Hoy nos han robado.,4,14:31
+ACTO 1,SEC 9 — Balcón real / discurso,200,Primer plano,Fijo,dialogo,"Vorthan deja caer la palabra, saboreando el silencio de la plaza.","El Orbe —el corazón de Erdia, la fuente de todo lo que somos— ha sido arrancado de nuestro mundo.",6,14:37
+ACTO 1,SEC 9 — Balcón real / discurso,201,Plano general,Paneo,contemplativo,"Murmullo de horror recorriendo la plaza. Rostros descompuestos, manos en la boca.",,4,14:41
+ACTO 1,SEC 9 — Balcón real / discurso,202,Plano medio,Fijo,dialogo,"Vorthan, la condena creciendo.","Sin él, la luz se irá. El agua se irá. Y nuestro planeta… empezará a morir.",5,14:46
+ACTO 1,SEC 9 — Balcón real / discurso,203,Plano general,Tilt,contemplativo,"Detrás de él, exhibidos en jaulas, los TRES PILOTOS que salvaron a Stella. Presos, vencidos, la cabeza baja.",,6,14:52
+ACTO 1,SEC 9 — Balcón real / discurso,204,Primer plano,Fijo,silencio,"Uno de los pilotos alza apenas la mirada hacia el cielo, hacia donde se fue Stella. Silencio.",,5,14:57
+ACTO 1,SEC 9 — Balcón real / discurso,205,Primer plano,Dolly in,dialogo,"Vorthan, girando el cuchillo.",¿Y quién nos ha condenado a esto? Una de los nuestros.,5,15:02
+ACTO 1,SEC 9 — Balcón real / discurso,206,Primer plano,Fijo,dialogo,"Vorthan, un beat, envenenando el recuerdo.",Una niña a la que le dimos todo. Que prefirió quedarse con la luz de todos antes que dejarla correr.,6,15:08
+ACTO 1,SEC 9 — Balcón real / discurso,207,Primerísimo primer plano,Fijo,dialogo,"Vorthan, la palabra final como una sentencia.",Stella. Ladrona. Traidora.,5,15:13
+ACTO 1,SEC 9 — Balcón real / discurso,208,Gran plano general,Cámara en mano,accion,"La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio. Un mar de puños alzados.",,5,15:18
+ACTO 1,SEC 9 — Balcón real / discurso,209,Plano medio,Fijo,silencio,"Vorthan sostiene a la bebé Selka en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.",,6,15:24
+ACTO 1,SEC 9 — Balcón real / discurso,210,Primerísimo primer plano,Dolly in,silencio,"Muy despacio, casi sin que se note, el Rey le acaricia la cabeza a la bebé. Como un padre. El horror disfrazado de ternura.",,8,15:32
+ACTO 1,SEC 9 — Balcón real / discurso,211,Plano detalle,Fijo,contemplativo,"La manita de Selka se cierra sobre el dedo de Vorthan, confiada. Sostener la imagen intolerable.",,6,15:38
+ACTO 1,SEC 9 — Balcón real / discurso,212,Gran plano general,Fijo,transicion,"CORTE A NEGRO. El cielo azul, la plaza rugiendo, se apagan de golpe. Fin del Acto 1.",,4,15:42
+ACTO 2,SEC 10 — Bahía de Theron,1,Gran plano general,Fijo,contemplativo,La bahía de carga inmensa y oscura en penumbra; brazos mecánicos cuelgan como costillas de una ballena muerta. Vapor y sombras.,,8,15:50
+ACTO 2,SEC 10 — Bahía de Theron,2,Plano detalle,Fijo,contemplativo,"Una gota metálica se forma en un conducto, cuelga, cae. Eco. El único sonido en el silencio.",,6,15:56
+ACTO 2,SEC 10 — Bahía de Theron,3,Plano general,Fijo,contemplativo,"La nave de Vera, destrozada, enganchada por garras mecánicas como un animal cazado. Chatarra alrededor.",,7,16:03
+ACTO 2,SEC 10 — Bahía de Theron,4,Primer plano,Fijo,silencio,"El rostro de Stella en el suelo, ojos cerrados. Un párpado tiembla.",,4,16:07
+ACTO 2,SEC 10 — Bahía de Theron,5,Plano medio,Cámara en mano,accion,"Stella despierta de golpe, se incorpora sobre un codo, desorientada, respirando fuerte.",,3,16:10
+ACTO 2,SEC 10 — Bahía de Theron,6,Inserto,Fijo,silencio,"Antes que nada, se mira la palma de la mano: la llave de luz sigue grabada, el Orbe late tenue bajo la piel.",,5,16:15
+ACTO 2,SEC 10 — Bahía de Theron,7,Primerísimo primer plano,Fijo,silencio,Los ojos de Stella se cierran de alivio. Suelta el aire que retenía. Respira.,,5,16:20
+ACTO 2,SEC 10 — Bahía de Theron,8,Plano general,Paneo,contemplativo,"Una sombra colosal se desplaza en la penumbra al fondo. Algo enorme, lento, camina.",,5,16:25
+ACTO 2,SEC 10 — Bahía de Theron,9,Plano entero,Cámara en mano,dialogo,"Stella se pone en guardia, retrocediendo, la espalda contra su nave rota.",¿Dónde estoy? ¿Quién eres?,4,16:29
+ACTO 2,SEC 10 — Bahía de Theron,10,Plano medio,Fijo,dialogo,"Stella, voz rota, tragando el miedo.",¿Me… me salvaste?,4,16:33
+ACTO 2,SEC 10 — Bahía de Theron,11,Contrapicado,Fijo,silencio,"THERON emerge de la sombra: alto, de otra especie, ojos que no parpadean. Se sostiene su silueta.",,6,16:39
+ACTO 2,SEC 10 — Bahía de Theron,12,Plano medio,Fijo,dialogo,"Theron, inmóvil, sin acercarse aún.",No te salvé. Te recogí.,4,16:43
+ACTO 2,SEC 10 — Bahía de Theron,13,Primer plano,Fijo,dialogo,Los ojos sin parpadeo de Theron. El silencio pesa antes de la última palabra.,Hay una diferencia.,5,16:48
+ACTO 2,SEC 10 — Bahía de Theron,14,Plano medio,Dolly in,accion,"Theron avanza despacio hacia Stella, la vista fija en la mano de ella.",,4,16:52
+ACTO 2,SEC 10 — Bahía de Theron,15,Inserto,Fijo,silencio,POV de Theron sobre la palma de Stella: el brillo del Orbe pulsa bajo la piel.,,4,16:56
+ACTO 2,SEC 10 — Bahía de Theron,16,Primer plano,Fijo,dialogo,"Theron estudia el brillo, casi hambriento.","Eso que llevas dentro brilla. Como nada que haya visto en mucho, mucho tiempo.",5,17:01
+ACTO 2,SEC 10 — Bahía de Theron,17,Plano-contraplano,Fijo,dialogo,Theron levanta los ojos hasta los de ella.,Y lo que brilla así… se puede seguir.,5,17:06
+ACTO 2,SEC 10 — Bahía de Theron,18,Primerísimo primer plano,Fijo,silencio,"Stella cierra el puño, escondiendo la mano contra el pecho. Comprende que para él no es una niña.",,6,17:12
+ACTO 2,SEC 10 — Bahía de Theron,19,Plano detalle,Fijo,contemplativo,"El puño cerrado de Stella, un hilo de luz escapando entre los dedos. Es un rastro.",,5,17:17
+ACTO 2,SEC 11 — Pasillos y taller,20,Plano general,Travelling,contemplativo,"Pasillos industriales de la nave nodriza. Tripulación de aspecto duro cruza. Luz fría, tuberías.",,6,17:23
+ACTO 2,SEC 11 — Pasillos y taller,21,Plano medio,Cámara en mano,accion,Un tripulante empuja a Stella al pasar; otro la ignora deliberadamente.,,3,17:26
+ACTO 2,SEC 11 — Pasillos y taller,22,Inserto,Fijo,accion,"Un plato de comida cae al piso metálico, la comida se derrama y rueda.",,3,17:29
+ACTO 2,SEC 11 — Pasillos y taller,23,Primer plano,Fijo,silencio,"Stella mira la comida en el suelo, sin recogerla. Hambre y orgullo.",,4,17:33
+ACTO 2,SEC 11 — Pasillos y taller,24,Plano entero,Fijo,dialogo,"VOSK, enorme, cicatrices, bloquea el paso. La mide de arriba abajo.",La mascota del jefe. El cebo que respira.,4,17:37
+ACTO 2,SEC 11 — Pasillos y taller,25,Plano detalle,Fijo,dialogo,El dedo grueso de Vosk empuja el hombro de Stella.,¿Sabes qué le pasa al cebo cuando el pez ya picó?,4,17:41
+ACTO 2,SEC 11 — Pasillos y taller,26,Primer plano,Fijo,silencio,"Stella sostiene la mirada un instante, decidiendo.",,3,17:44
+ACTO 2,SEC 11 — Pasillos y taller,27,Inserto,Cámara en mano,accion,La mano de Stella aparta de un golpe seco la de Vosk.,,2,17:46
+ACTO 2,SEC 11 — Pasillos y taller,28,Plano medio,Fijo,accion,Vosk sonríe: era lo que quería. Carga el primer puñetazo.,,2,17:48
+ACTO 2,SEC 11 — Pasillos y taller,29,Plano entero,Cámara en mano,accion,"Chocan. Stella esquiva rápida, golpea, gira. Vosk es un muro.",,3,17:51
+ACTO 2,SEC 11 — Pasillos y taller,30,Plano detalle,Whip-pan,accion,El puño de Vosk impacta la pared junto a la cabeza de Stella; salta metal.,,2,17:53
+ACTO 2,SEC 11 — Pasillos y taller,31,Plano medio,Cámara en mano,accion,"Vosk la estampa contra la pared, antebrazo en su cuello.",,2,17:55
+ACTO 2,SEC 11 — Pasillos y taller,32,Plano detalle,Fijo,accion,Una mano de piedra del tamaño de un yunque cae sobre el hombro de Vosk.,,3,17:58
+ACTO 2,SEC 11 — Pasillos y taller,33,Contrapicado,Tilt,silencio,"BROG, gigante de roca, aparta a Vosk sin esfuerzo. Se planta entre él y la niña, callado.",,5,18:03
+ACTO 2,SEC 11 — Pasillos y taller,34,Plano medio,Fijo,accion,"Vosk escupe al piso y se retira, humillado.",,3,18:06
+ACTO 2,SEC 11 — Pasillos y taller,35,Plano general,Fijo,contemplativo,"El taller: banco lleno de piezas, chispas de soldadura flotando en el aire quieto.",,5,18:11
+ACTO 2,SEC 11 — Pasillos y taller,36,Plano medio,Fijo,dialogo,"NIMA, mecánica de cuatro brazos, las cuatro manos ocupadas, sin levantar la vista.",No le hagas caso a Vosk. Ladra para no pensar.,4,18:15
+ACTO 2,SEC 11 — Pasillos y taller,37,Primer plano,Fijo,dialogo,Nima al fin levanta la mirada hacia Stella.,"Hay dos formas de romperse, niña. La que llora… y la que arregla cosas a las tres de la mañana.",5,18:20
+ACTO 2,SEC 11 — Pasillos y taller,38,Plano detalle,Fijo,dialogo,"Las cuatro manos vuelven al trabajo, ajustando, soldando.",Adivina cuál soy yo.,4,18:24
+ACTO 2,SEC 11 — Pasillos y taller,39,Plano entero,Grúa,silencio,"Stella se deja caer al piso, agotada, sosteniéndose la mano herida. Pequeña en el taller enorme.",,6,18:30
+ACTO 2,SEC 11 — Pasillos y taller,40,Plano medio,Fijo,silencio,"Brog se sienta a su lado, montaña junto a niña. No la consuela. Solo se queda.",,7,18:37
+ACTO 2,SEC 11 — Pasillos y taller,41,Plano detalle,Fijo,contemplativo,"La mano herida de Stella, temblando levemente, junto a la mano de piedra inmóvil de Brog.",,6,18:43
+ACTO 2,SEC 11 — Pasillos y taller,42,Plano general,Fijo,silencio,Theron entra al taller. Se detiene en el umbral.,,4,18:47
+ACTO 2,SEC 11 — Pasillos y taller,43,Plano medio,Fijo,dialogo,"Stella se yergue, urgente.","Quiero volver a mi planeta. Mi familia está allá. Mi padre, mi hermana—",5,18:52
+ACTO 2,SEC 11 — Pasillos y taller,44,Plano-contraplano,Fijo,dialogo,"Theron, sin inmutarse.",Tu planeta ya no es tu problema más urgente.,4,18:56
+ACTO 2,SEC 11 — Pasillos y taller,45,Primer plano,Fijo,dialogo,"Theron la mira, midiendo cómo dar la noticia.","Aquí, el tiempo no corre igual que en tu mundo. Un año tuyo… son cuatro allá.",6,19:02
+ACTO 2,SEC 11 — Pasillos y taller,46,Primerísimo primer plano,Dolly in,silencio,La cara de Stella entendiendo lentamente el tamaño de eso. El silencio se abre bajo ella.,,6,19:08
+ACTO 2,SEC 11 — Pasillos y taller,47,Primer plano,Fijo,dialogo,"Stella, un hilo de voz.",…Cuatro.,4,19:12
+ACTO 2,SEC 11 — Pasillos y taller,48,Plano medio,Fijo,dialogo,"Theron ya de espaldas, saliendo.","Cada día que pierdas aquí, pierdes cuatro allá. Así que no los pierdas.",5,19:17
+ACTO 2,SEC 11 — Pasillos y taller,49,Inserto,Fijo,silencio,"La palma de Stella abierta: el Orbe late. Sobre ella, el peso invisible de un reloj que corre cuádruple.",,7,19:24
+ACTO 2,SEC 12 — Refugio · Año 8,50,Transición,Fijo,transicion,RÓTULO sobre negro: ERDIA · AÑO 8.,,4,19:28
+ACTO 2,SEC 12 — Refugio · Año 8,51,Gran plano general,Paneo,contemplativo,"Erdia ya no dorada: niebla, andamios, ríos de luzagua finos y opacos. Chimeneas de mina escupen humo donde hubo jardines.",,9,19:37
+ACTO 2,SEC 12 — Refugio · Año 8,52,Plano general,Tilt,contemplativo,El humo sube contra un cielo apagado. Ceniza cayendo lenta como nieve sucia.,,7,19:44
+ACTO 2,SEC 12 — Refugio · Año 8,53,Plano detalle,Fijo,contemplativo,"Un hilo de luzagua opaca corre entre escombros, casi sin brillo, muriéndose.",,6,19:50
+ACTO 2,SEC 12 — Refugio · Año 8,54,Plano general,Fijo,contemplativo,Interior del refugio: naieli demacrados reunidos alrededor de una luz. Rostros cansados.,,6,19:56
+ACTO 2,SEC 12 — Refugio · Año 8,55,Plano medio,Fijo,dialogo,"MAREK, voz cálida y firme, dirigiéndose a los suyos.",El Rey dice que estamos así por culpa de Stella. Por una ladrona.,5,20:01
+ACTO 2,SEC 12 — Refugio · Año 8,56,Primer plano,Dolly in,dialogo,Marek recorre las caras de su gente.,Pero yo les pregunto: ¿una niña de catorce años vació un planeta entero?,5,20:06
+ACTO 2,SEC 12 — Refugio · Año 8,57,Plano medio,Fijo,dialogo,"Marek, la pregunta que desplaza el odio.",¿O alguien necesitaba que odiáramos a alguien para no mirarlo a él?,5,20:11
+ACTO 2,SEC 12 — Refugio · Año 8,58,Plano general,Paneo,silencio,"Los rostros del refugio asienten, murmullo bajo. Marek les ha dado otro enemigo.",,5,20:16
+ACTO 2,SEC 12 — Refugio · Año 8,59,Plano entero,Fijo,silencio,"A un lado, quieta, una FIGURA ENCAPUCHADA. No le vemos la cara. Manos de mujer, fuertes.",,6,20:22
+ACTO 2,SEC 12 — Refugio · Año 8,60,Plano detalle,Fijo,contemplativo,Un mechón de pelo blanco escapa de la capucha y cuelga en la penumbra.,,6,20:28
+ACTO 2,SEC 12 — Refugio · Año 8,61,Primer plano,Fijo,silencio,"La figura baja la cabeza, sombra sobre el rostro. No sabemos quién es. Todavía.",,7,20:35
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,62,Transición,Fijo,transicion,Rótulo tenue: STELLA · ~AÑO 2. Match sobre chatarra a chatarra.,,3,20:38
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,63,Gran plano general,Grúa,contemplativo,Planeta-chatarra: montañas de metal muerto bajo un cielo enfermo. Polvo suspendido.,,8,20:46
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,64,Plano detalle,Fijo,contemplativo,Polvo metálico flota en un rayo de luz oblicua. Quietud total antes de la violencia.,,6,20:52
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,65,Plano entero,Steadicam,accion,"Stella, ya mayor y más dura, avanza entre escombros con el grupo. Brog cubre atrás; Vosk al frente.",,5,20:57
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,66,Plano general,Whip-pan,accion,Algo sale mal: cazarrecompensas locales emboscan. Estallidos de luz cruzan el encuadre.,,3,21:00
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,67,Plano medio,Cámara en mano,accion,"Stella se lanza a una grieta entre chapas, fuera de la vista enemiga. Contiene la respiración.",,3,21:03
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,68,Primer plano,Fijo,silencio,"Stella pegada al metal, agachada, a salvo. Respira despacio en la sombra.",,4,21:07
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,69,Plano-contraplano,Fijo,silencio,"A lo lejos, VOSK la mira desde su escondite. Sus ojos se cruzan con los de ella.",,5,21:12
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,70,Primer plano,Fijo,silencio,"El rostro de Vosk, decidiendo algo feo. Una sonrisa mínima.",,4,21:16
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,71,Inserto,Fijo,accion,La mano de Vosk levanta una piedra del suelo.,,2,21:18
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,72,Plano detalle,Whip-pan,accion,La piedra golpea el metal justo al lado de Stella: un CLANG seco que la delata.,,2,21:20
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,73,Plano medio,Cámara en mano,dialogo,"Vosk grita a los cazadores, señalando la grieta.",¡AHÍ! ¡La de la mano que brilla! ¡Esa vale una fortuna!,3,21:23
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,74,Primerísimo primer plano,Fijo,silencio,Los ojos de Stella se abren: traición. Un latido de incredulidad.,,3,21:26
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,75,Plano general,Cámara en mano,accion,"Los cazadores caen sobre la grieta. Stella pelea, golpea, gira, pero son demasiados.",,3,21:29
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,76,Plano detalle,Fijo,accion,Un collar de contención se cierra en el cuello de Stella; el traje se apaga con un chisporroteo.,,2,21:31
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,77,POV,Cámara en mano,silencio,"POV de Stella arrastrada: lo último que ve es a Vosk, sonriendo, contando su recompensa.",,4,21:35
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,78,Plano medio,Whip-pan,accion,Una red cae sobre Vosk desde el flanco: los cazadores no hacen distinciones.,,2,21:37
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,79,Plano entero,Cámara en mano,dialogo,"Vosk forcejea en la red, gritando.","¡No, no, esperen, yo se las entregué! ¡YO—!",3,21:40
+ACTO 2,SEC 13 — Planeta chatarra · Año 2,80,Gran plano general,Grúa,contemplativo,Se los llevan a los dos hacia la nave esclavista. El planeta-chatarra los traga en el polvo.,,6,21:46
+ACTO 2,SEC 14 — La Fosa,81,Gran plano general,Grúa,contemplativo,"Estación-mercado en el confín de la galaxia: subastas, luces sucias, gentío. Abajo, LA FOSA.",,7,21:53
+ACTO 2,SEC 14 — La Fosa,82,Plano general,Tilt,contemplativo,El pozo de combate rodeado de gradas rugientes. Arena polvorienta en el centro.,,5,21:58
+ACTO 2,SEC 14 — La Fosa,83,Plano medio,Fijo,accion,"Un presentador anuncia a la 'ladrona del Orbe, la criminal más buscada del sector'. Las gradas rugen.",,4,22:02
+ACTO 2,SEC 14 — La Fosa,84,Plano entero,Grúa,silencio,"Stella en el centro del pozo, collar aún puesto, girando, buscando una salida que no existe.",,5,22:07
+ACTO 2,SEC 14 — La Fosa,85,Plano detalle,Fijo,contemplativo,"El collar de contención en su cuello, luz roja parpadeando. El traje muerto.",,3,22:10
+ACTO 2,SEC 14 — La Fosa,86,Plano general,Fijo,accion,Una reja se abre en el lado opuesto. Empujan a su oponente a la arena.,,3,22:13
+ACTO 2,SEC 14 — La Fosa,87,Plano entero,Fijo,silencio,"NOAH: humano joven, magullado, una vieja espada y un arma de luz. Ojos que no se rinden.",,5,22:18
+ACTO 2,SEC 14 — La Fosa,88,Primerísimo primer plano,Dolly in,silencio,Stella se queda helada: ese chico se parece a ella. A su gente.,,6,22:24
+ACTO 2,SEC 14 — La Fosa,89,Plano general,Paneo,accion,"La multitud exige sangre, puños en alto, un rugido animal alrededor del pozo.",,3,22:27
+ACTO 2,SEC 14 — La Fosa,90,Plano medio,Fijo,silencio,"Noah levanta la espada, en guardia. Stella no. Baja las manos.",,4,22:31
+ACTO 2,SEC 14 — La Fosa,91,Primer plano,Fijo,dialogo,"Stella, firme, contra el rugido.",No voy a matarte para que ellos aplaudan.,4,22:35
+ACTO 2,SEC 14 — La Fosa,92,Plano-contraplano,Fijo,dialogo,"Noah la mide, sin bajar el arma, desconfiado.",…¿Es una trampa?,4,22:39
+ACTO 2,SEC 14 — La Fosa,93,Primer plano,Fijo,dialogo,"Stella sostiene su mirada, tranquila.",Es una oferta.,4,22:43
+ACTO 2,SEC 14 — La Fosa,94,Primerísimo primer plano,Fijo,silencio,"Noah, decidiendo. El rugido de las gradas se apaga bajo el silencio entre ellos.",,5,22:48
+ACTO 2,SEC 14 — La Fosa,95,Plano medio,Fijo,dialogo,Noah baja apenas el arma; algo cede en él.,Entonces vas a tener que ayudarme a salir de aquí.,4,22:52
+ACTO 2,SEC 14 — La Fosa,96,Plano entero,Cámara en mano,accion,"Los dos se giran a la vez hacia los guardias, dando la espalda al público.",,2,22:54
+ACTO 2,SEC 14 — La Fosa,97,Plano detalle,Whip-pan,accion,Stella arranca el collar de un tirón. Chispa violenta.,,2,22:56
+ACTO 2,SEC 14 — La Fosa,98,Inserto,Fijo,accion,El Orbe se reenciende en su palma con un fogonazo blanco. Vuelve a estar viva.,,2,22:58
+ACTO 2,SEC 14 — La Fosa,99,Plano general,Cámara en mano,accion,La fosa se convierte en fuga: los dos cargan contra los guardias. Caos.,,3,23:01
+ACTO 2,SEC 15 — La Fosa · Fuga,100,Plano medio,Cámara en mano,accion,"Stella y Noah pelean espalda con espalda, moviéndose como un solo cuerpo.",,3,23:04
+ACTO 2,SEC 15 — La Fosa · Fuga,101,Plano detalle,Whip-pan,accion,La hoja de luz de Noah desvía un golpe; la palma de Stella empuja a un guardia con luz.,,2,23:06
+ACTO 2,SEC 15 — La Fosa · Fuga,102,Plano general,Cámara en mano,accion,"La pared exterior estalla: BROG entra a puñetazos, NIMA detrás. Theron mandó por ella.",,3,23:09
+ACTO 2,SEC 15 — La Fosa · Fuga,103,Contrapicado,Tilt,accion,Brog arranca una reja entera y la usa de escudo. Escombros lloviendo.,,2,23:11
+ACTO 2,SEC 15 — La Fosa · Fuga,104,Plano general,Paneo,accion,"Sobre la fosa, una plataforma de ejecución: van a ajusticiar a un prisionero inútil.",,3,23:14
+ACTO 2,SEC 15 — La Fosa · Fuga,105,Plano medio,Fijo,silencio,"Es VOSK. De rodillas, un arma en la nuca. Marcado por la muerte.",,4,23:18
+ACTO 2,SEC 15 — La Fosa · Fuga,106,Primer plano,Fijo,silencio,Stella lo ve. Se detiene en seco en medio del caos.,,4,23:22
+ACTO 2,SEC 15 — La Fosa · Fuga,107,Plano-contraplano,Cámara en mano,dialogo,"Noah le grita, tironeando.","¡Stella, vámonos!",2,23:24
+ACTO 2,SEC 15 — La Fosa · Fuga,108,Primerísimo primer plano,Fijo,silencio,"Stella mira a Vosk, luego a la salida. Elige. Cambia de dirección.",,4,23:28
+ACTO 2,SEC 15 — La Fosa · Fuga,109,Plano entero,Steadicam,accion,"Stella corre hacia la plataforma, contra la corriente de la fuga.",,2,23:30
+ACTO 2,SEC 15 — La Fosa · Fuga,110,Plano detalle,Whip-pan,accion,Su palma revienta la base de la plataforma; desvía el arma en el instante del disparo de luz.,,2,23:32
+ACTO 2,SEC 15 — La Fosa · Fuga,111,Plano medio,Cámara en mano,accion,"Stella carga a Vosk, tirando de él fuera del filo de luz.",,2,23:34
+ACTO 2,SEC 15 — La Fosa · Fuga,112,Primer plano,Fijo,dialogo,"Vosk, aturdido, el cuello aún marcado, sin entender.",…Yo te entregué. Te vendí. ¿Por qué—?,5,23:39
+ACTO 2,SEC 15 — La Fosa · Fuga,113,Primerísimo primer plano,Fijo,dialogo,"Stella lo mira, sin rencor. Deja aterrizar la línea.",Porque yo no soy tú.,5,23:44
+ACTO 2,SEC 15 — La Fosa · Fuga,114,Plano medio,Cámara en mano,accion,Lo suelta de un empujón hacia la salida.,,2,23:46
+ACTO 2,SEC 15 — La Fosa · Fuga,115,Primer plano,Fijo,silencio,El matón la mira distinto. Algo en él se rompe y se recompone.,,5,23:51
+ACTO 2,SEC 15 — La Fosa · Fuga,116,Gran plano general,Grúa,accion,"Todos escapan juntos —Stella, Noah, Brog, Nima, Vosk— mientras la estación arde detrás.",,5,23:56
+ACTO 2,SEC 15 — La Fosa · Fuga,117,Plano general,Fijo,contemplativo,"Más tarde, en la nave. Quietud tras el fuego. El humo se asienta afuera por las ventanillas.",,6,24:02
+ACTO 2,SEC 15 — La Fosa · Fuga,118,Plano medio,Fijo,silencio,THERON observa a Stella desde lejos. No dice nada. Algo cambió para el cazador.,,6,24:08
+ACTO 2,SEC 15 — La Fosa · Fuga,119,Plano medio,Fijo,silencio,"Noah, vendándose una herida, no le quita los ojos a Stella.",,5,24:13
+ACTO 2,SEC 15 — La Fosa · Fuga,120,Primer plano,Dolly in,silencio,Stella mira por la ventanilla hacia donde queda Erdia. Ni nota a Noah.,,7,24:20
+ACTO 2,SEC 16 — Montaje años · Año 3,121,Transición,Fijo,transicion,Rótulo tenue: STELLA · ~AÑO 3. Fundido a un cielo de cometas.,,3,24:23
+ACTO 2,SEC 16 — Montaje años · Año 3,122,Gran plano general,Paneo,contemplativo,PLANETA DE LOS COMETAS: el cielo entero cruzado de estelas lentas de luz. Silencio cósmico.,,9,24:32
+ACTO 2,SEC 16 — Montaje años · Año 3,123,Plano detalle,Tilt,contemplativo,Un cometa lejano deja su rastro y se apaga tras el horizonte. Tiempo pasando.,,6,24:38
+ACTO 2,SEC 16 — Montaje años · Año 3,124,Plano general,Fijo,contemplativo,"Brog y Stella sentados de espaldas a nosotros, frente al cielo de cometas. Dos siluetas quietas.",,7,24:45
+ACTO 2,SEC 16 — Montaje años · Año 3,125,Plano medio,Fijo,dialogo,"Brog pronuncia una palabra gutural de su idioma muerto. Grave, antigua.",(idioma de Brog) …krun-tha.,4,24:49
+ACTO 2,SEC 16 — Montaje años · Año 3,126,Primer plano,Fijo,dialogo,"Stella repite la palabra, torpe primero, luego más limpia.",…krun-tha.,4,24:53
+ACTO 2,SEC 16 — Montaje años · Año 3,127,Primer plano,Fijo,silencio,Brog asiente despacio. Lo más parecido a una sonrisa que tiene una montaña.,,6,24:59
+ACTO 2,SEC 16 — Montaje años · Año 3,128,Plano detalle,Fijo,contemplativo,La mano de piedra de Brog y la mano de Stella dibujando la misma seña en el aire de cometas.,,5,25:04
+ACTO 2,SEC 16 — Montaje años · Año 3,129,Transición,Fijo,transicion,Match cut: del cielo de cometas a las chispas de soldadura del taller de Nima.,,3,25:07
+ACTO 2,SEC 16 — Montaje años · Año 3,130,Plano general,Grúa,contemplativo,"El taller: un traje nuevo colgado, ligero, hecho a medida. Nima trabaja con las cuatro manos.",,6,25:13
+ACTO 2,SEC 16 — Montaje años · Año 3,131,Plano detalle,Fijo,contemplativo,"Inserto: un monitor de muñeca nuevo, idéntico al que marcó 'MAX' aquel día. La pantalla parpadea.",,5,25:18
+ACTO 2,SEC 16 — Montaje años · Año 3,132,Plano medio,Fijo,dialogo,"Nima ajusta una placa sobre el hombro de Stella, sin dejar de mirar su obra.",Tu traje viejo era de niña.,4,25:22
+ACTO 2,SEC 16 — Montaje años · Año 3,133,Primer plano,Fijo,dialogo,Nima la mira a los ojos.,Este es de quien va a volver a entrar a ese palacio.,5,25:27
+ACTO 2,SEC 16 — Montaje años · Año 3,134,Primer plano,Fijo,silencio,Stella deja aterrizar la palabra 'palacio'. Un músculo de la mandíbula.,,5,25:32
+ACTO 2,SEC 16 — Montaje años · Año 3,135,Transición,Fijo,transicion,Match cut: de la muñeca 'MAX' a la palma de Stella cargando el Orbe en una sala de entrenamiento.,,3,25:35
+ACTO 2,SEC 16 — Montaje años · Año 3,136,Plano entero,Cámara en mano,accion,"Entrenamiento del Orbe, inestable: una descarga la tira al piso, revienta un panel. Humo.",,3,25:38
+ACTO 2,SEC 16 — Montaje años · Año 3,137,Plano detalle,Fijo,contemplativo,"Chispas cayendo, el panel reventado humeando. La resaca del fallo se asienta.",,4,25:42
+ACTO 2,SEC 16 — Montaje años · Año 3,138,Primer plano,Fijo,silencio,"Stella en el suelo, respirando fuerte, la palma quemada. Se levanta.",,5,25:47
+ACTO 2,SEC 16 — Montaje años · Año 3,139,Plano medio,Dolly in,accion,"Otro intento. La luz le sale de la palma, controlada ahora, como un río que aprende a correr.",,5,25:52
+ACTO 2,SEC 16 — Montaje años · Año 3,140,Plano detalle,Fijo,contemplativo,La luzagua fluye de su mano en un hilo estable y limpio. Por fin obedece.,,5,25:57
+ACTO 2,SEC 16 — Montaje años · Año 3,141,Plano general,Grúa,silencio,Stella de pie en la luz de su propia palma. Ya no una sobreviviente: un arma que eligió su causa.,,7,26:04
+ACTO 2,SEC 16 — Montaje años · Año 3,142,Gran plano general,Paneo,contemplativo,"Pillow de cierre: el cielo de cometas otra vez, más estelas que antes. Han pasado los años.",,8,26:12
+ACTO 2,SEC 17 — Puente · noche,143,Plano general,Fijo,contemplativo,"El puente de la nave nodriza, de noche. Estrellas fijas tras el ventanal. Theron y Stella, solos.",,7,26:19
+ACTO 2,SEC 17 — Puente · noche,144,Plano medio,Fijo,dialogo,Theron pide algo con un gesto de la mano.,Muéstrame la mano. Y el Orbe.,4,26:23
+ACTO 2,SEC 17 — Puente · noche,145,Primer plano,Fijo,silencio,"Stella duda un instante, leyéndolo.",,4,26:27
+ACTO 2,SEC 17 — Puente · noche,146,Inserto,Fijo,silencio,"Abre la palma. El Orbe late bajo la piel, expuesto y vulnerable.",,5,26:32
+ACTO 2,SEC 17 — Puente · noche,147,Plano detalle,Dolly in,accion,La mano de Theron se acerca a la de ella como quien va a arrancar algo.,,4,26:36
+ACTO 2,SEC 17 — Puente · noche,148,Primerísimo primer plano,Fijo,silencio,"Stella contiene el aliento, sin retirar la mano. Confía y no confía a la vez.",,5,26:41
+ACTO 2,SEC 17 — Puente · noche,149,Plano detalle,Fijo,silencio,La mano de Theron se detiene. Lee cómo el Orbe está enredado en cada vena de ella.,,5,26:46
+ACTO 2,SEC 17 — Puente · noche,150,Plano medio,Fijo,dialogo,"Theron retira la mano, hablando casi para sí.",No. Sacarlo a la fuerza te mataría a ti… y quizá a quien lo intente.,6,26:52
+ACTO 2,SEC 17 — Puente · noche,151,Primer plano,Fijo,dialogo,Theron la mira.,Sigues siendo más útil respirando.,4,26:56
+ACTO 2,SEC 17 — Puente · noche,152,Plano medio,Fijo,dialogo,"Stella guarda la mano, seca.",Qué consuelo.,4,27:00
+ACTO 2,SEC 17 — Puente · noche,153,Primer plano,Dolly in,dialogo,"Stella, bajando la voz, cambiando de tema hacia lo que le quema.",Theron. En mi mundo dicen cosas del Rey. Que es inmortal. Que nunca envejeció.,6,27:06
+ACTO 2,SEC 17 — Puente · noche,154,Primer plano,Fijo,dialogo,"Stella, un beat, la carnada de la sospecha.","Que llegó hace cientos de años, de ninguna parte.",5,27:11
+ACTO 2,SEC 17 — Puente · noche,155,Primerísimo primer plano,Dolly in,silencio,Theron se queda muy quieto. Algo se le enciende detrás de los ojos: eso suena a su presa.,,7,27:18
+ACTO 2,SEC 17 — Puente · noche,156,Plano medio,Fijo,dialogo,"Theron cierra el tema, controlado.",Los reyes siempre dicen que son eternos. Duerme.,5,27:23
+ACTO 2,SEC 17 — Puente · noche,157,Plano general,Fijo,silencio,"Stella sale. Theron solo, mirando el vacío estrellado, masticando una sospecha de veinte mil años.",,8,27:31
+ACTO 2,SEC 17 — Puente · noche,158,Gran plano general,Fijo,contemplativo,"El ventanal: el vacío estrellado, inmóvil, infinito. Sostener.",,7,27:38
+ACTO 2,SEC 18 — Camarote · noche,159,Plano general,Fijo,contemplativo,"Camarote de Stella, penumbra. Ella despierta, sentada en el catre, sin dormir.",,6,27:44
+ACTO 2,SEC 18 — Camarote · noche,160,Plano medio,Fijo,dialogo,Theron entra y deja un proyector de imagen sobre la mesa.,No me interesa tu planeta. Pero un buen cazador siempre mira antes de descartar.,6,27:50
+ACTO 2,SEC 18 — Camarote · noche,161,Plano medio,Fijo,dialogo,"Theron, desde la puerta.",Mira tú también.,3,27:53
+ACTO 2,SEC 18 — Camarote · noche,162,Inserto,Fijo,contemplativo,El proyector se enciende. Un haz de luz sube en el aire polvoriento del camarote.,,4,27:57
+ACTO 2,SEC 18 — Camarote · noche,163,Plano medio,Fijo,silencio,"En la imagen: NAIO, viejo, encadenado, esclavo en una mina de niebla.",,5,28:02
+ACTO 2,SEC 18 — Camarote · noche,164,Primer plano,Dolly in,silencio,"En la imagen: SELKA, joven soldado, entrenando con frialdad quirúrgica. Ojos gris-azul, cicatriz sobre el ojo izquierdo.",,6,28:08
+ACTO 2,SEC 18 — Camarote · noche,165,Plano medio,Fijo,silencio,En la imagen: una figura encapuchada liderando la resistencia junto a Marek.,,4,28:12
+ACTO 2,SEC 18 — Camarote · noche,166,Plano detalle,Fijo,silencio,La capucha cae un segundo. Es VERA. Viva.,,5,28:17
+ACTO 2,SEC 18 — Camarote · noche,167,Primerísimo primer plano,Dolly in,silencio,Stella se lleva la mano a la boca. No respira. El mundo se detiene.,,7,28:24
+ACTO 2,SEC 18 — Camarote · noche,168,Primer plano,Fijo,dialogo,"Stella, un susurro destrozado, apenas aire.",…Está viva. Mamá está viva.,6,28:30
+ACTO 2,SEC 18 — Camarote · noche,169,Plano medio,Fijo,silencio,Theron la observa desde la puerta. Por primera vez no la mira como a un cebo.,,6,28:36
+ACTO 2,SEC 18 — Camarote · noche,170,Plano general,Dolly out,silencio,"Theron se va. Stella queda sola frente a la imagen de su madre, cada vez más pequeña en el camarote.",,6,28:42
+ACTO 2,SEC 18 — Camarote · noche,171,Primer plano,Fijo,silencio,"El rostro de Stella iluminado por la imagen de Vera, mirando el infinito toda la noche. Hold.",,9,28:51
+ACTO 2,SEC 19 — Minas de niebla · Año 14,172,Transición,Fijo,transicion,RÓTULO: ERDIA · AÑO 14.,,4,28:55
+ACTO 2,SEC 19 — Minas de niebla · Año 14,173,Gran plano general,Paneo,contemplativo,"Minas de niebla: siluetas de esclavos encorvados entre vapores grises. Cadenas, tos, penumbra.",,8,29:03
+ACTO 2,SEC 19 — Minas de niebla · Año 14,174,Plano detalle,Fijo,contemplativo,"La niebla se enrosca sobre el barro. Una cadena cuelga inmóvil, goteando.",,6,29:09
+ACTO 2,SEC 19 — Minas de niebla · Año 14,175,Plano medio,Steadicam,silencio,"La figura encapuchada —VERA— se desliza entre los esclavos, buscando entre las caras.",,5,29:14
+ACTO 2,SEC 19 — Minas de niebla · Año 14,176,Primer plano,Fijo,silencio,"Encuentra una cara. Se detiene. NAIO: anciano, roto, casi irreconocible.",,5,29:19
+ACTO 2,SEC 19 — Minas de niebla · Año 14,177,Plano detalle,Fijo,silencio,Vera se baja la capucha lo justo para que él la vea.,,4,29:23
+ACTO 2,SEC 19 — Minas de niebla · Año 14,178,Primerísimo primer plano,Dolly in,dialogo,"Naio la reconoce y no puede creerlo, sin aire.","…¿Vera? No. No, tú moriste. Yo te vi—",6,29:29
+ACTO 2,SEC 19 — Minas de niebla · Año 14,179,Primer plano,Fijo,dialogo,"Vera, urgente, la voz baja.","Está viva, Naio. Selka está viva.",5,29:34
+ACTO 2,SEC 19 — Minas de niebla · Año 14,180,Primer plano,Fijo,dialogo,A Vera se le quiebra la voz.,Pero ya no es… ya no es ella. Le metieron otra cosa adentro.,6,29:40
+ACTO 2,SEC 19 — Minas de niebla · Año 14,181,Primer plano,Fijo,dialogo,"Naio, aterrado por ella, la sujeta con la mirada.","No vayas. Si está con él, es una trampa. Te lo ruego.",6,29:46
+ACTO 2,SEC 19 — Minas de niebla · Año 14,182,Plano medio,Fijo,dialogo,"Vera le toma la cara con las dos manos, decidida.",Vuelvo por ti. Te lo juro. Pero primero voy por mi hija.,6,29:52
+ACTO 2,SEC 19 — Minas de niebla · Año 14,183,Plano medio,Fijo,silencio,"Lo abraza fuerte, un instante robado.",,5,29:57
+ACTO 2,SEC 19 — Minas de niebla · Año 14,184,Plano general,Dolly out,silencio,"Vera se aleja hacia el palacio. Naio estira la mano hacia ella en la niebla, sin alcanzarla.",,7,30:04
+ACTO 2,SEC 19 — Minas de niebla · Año 14,185,Plano detalle,Fijo,contemplativo,"La mano temblorosa de Naio abierta en el vapor, tragada por la niebla. Ella ya no está.",,7,30:11
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,186,Transición,Fijo,transicion,RÓTULO: ERDIA · AÑO 14 — APOSENTOS DE LA GENERAL. NOCHE.,,3,30:14
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,187,Plano general,Fijo,contemplativo,"Aposentos fríos, palaciegos, en penumbra azulada. Una sola vela de luz. Silencio.",,8,30:22
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,188,Plano medio,Fijo,silencio,En la puerta: KORIN y LESSA cubriendo afuera. MAREK acompaña a Vera hasta el umbral.,,4,30:26
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,189,Primer plano,Fijo,dialogo,"Marek, grave, le aprieta el hombro.","Yo vigilo aquí. Si algo sale mal, corre. No mires atrás.",6,30:32
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,190,Primer plano,Fijo,dialogo,"Marek, un beat cargado.",Tráela de vuelta.,4,30:36
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,191,Plano medio,Fijo,silencio,"Vera asiente. Respira hondo. Cruza el umbral, sola.",,5,30:41
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,192,Plano detalle,Fijo,contemplativo,La puerta se cierra despacio tras ella. El clic del pestillo en el silencio.,,4,30:45
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,193,Plano entero,Fijo,silencio,"Adentro, de espaldas, SELKA la General. Joven, blanca, impecable, inmóvil ante la ventana.",,6,30:51
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,194,Plano medio,Fijo,dialogo,"Selka, sin voltearse, fría.",Sé lo que eres. Una rata de la resistencia. ¿Vienes a matarme mientras duermo?,6,30:57
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,195,Primer plano,Fijo,dialogo,"Vera se baja la capucha. El rostro descubierto, temblando de contención.",Vengo por ti.,5,31:02
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,196,Plano medio,Fijo,silencio,Selka empieza a girarse hacia la voz. Lentitud.,,4,31:06
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,197,Primerísimo primer plano,Dolly in,silencio,Selka ve la cara de Vera. Algo muy adentro tiembla un microsegundo.,,6,31:12
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,198,Primerísimo primer plano,Fijo,dialogo,El adiestramiento aplasta ese temblor. La cara vuelve a cerrarse como una puerta.,Traidora.,5,31:17
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,199,Plano entero,Cámara en mano,accion,"Selka se lanza al ataque. Golpe rápido, quirúrgico.",,2,31:19
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,200,Plano medio,Cámara en mano,accion,"Vera esquiva, bloquea, retrocede. No contraataca. No puede herir a su hija.",,3,31:22
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,201,Plano detalle,Whip-pan,accion,La hoja de Selka pasa a un pelo de la cara de Vera; Vera solo desvía el brazo.,,2,31:24
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,202,Primer plano,Cámara en mano,dialogo,"Vera, entre golpes, suplicando con la voz.",No voy a lastimarte. No puedo. Mírame. Mírame.,5,31:29
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,203,Primerísimo primer plano,Fijo,silencio,Selka ante una enemiga que se niega a herirla. El brazo le tiembla. Se desarma.,,6,31:35
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,204,Plano detalle,Fijo,silencio,El arma de Selka baja lentamente. Algo en ella se rinde sin entender por qué.,,5,31:40
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,205,Plano medio,Dolly in,silencio,Vera avanza y la envuelve en un abrazo. La aprieta como aprietan las madres.,,6,31:46
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,206,Primer plano,Fijo,dialogo,"Vera al oído de Selka, llorando.","Vámonos a casa. Tú, yo y tu padre. Empecemos de nuevo. Olvidemos todo esto.",7,31:53
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,207,Primerísimo primer plano,Fijo,silencio,"Selka, en el abrazo, cierra los ojos. Un instante de paz robada.",,6,31:59
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,208,Plano detalle,Fijo,accion,"Bajo el abrazo, la mano de Selka desliza un arma oculta hacia el costado de Vera.",,4,32:03
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,209,Plano detalle,Fijo,accion,El arma se clava en el costado de Vera. Un fogonazo mínimo de luz. Sin sangre: la luz la traspasa.,,3,32:06
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,210,Primerísimo primer plano,Fijo,silencio,Vera ahoga un grito. Los ojos se le abren enormes.,,4,32:10
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,211,Plano detalle,Fijo,silencio,La mano de Vera sube temblando hasta la cara de Selka —esa cara— buscándola.,,5,32:15
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,212,Primerísimo primer plano,Dolly in,dialogo,"Vera, un hilo de voz, rota, traicionada. Deja aterrizar cada palabra.",…Selka. ¿Por qué.,7,32:22
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,213,Primer plano,Fijo,silencio,"Selka no responde. Su cara, un vacío que empieza a agrietarse. Silencio devastador.",,6,32:28
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,214,Plano medio,Fijo,silencio,Selka sostiene a Vera contra sí; el abrazo se vuelve otra cosa. Le susurra al oído algo que no oímos.,,6,32:34
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,215,Plano medio,Fijo,silencio,"Desde la puerta entreabierta, KORIN y LESSA lo ven todo: la General abrazando a su madre, y el cuchillo.",,5,32:39
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,216,Primer plano,Fijo,silencio,"Marek llega un segundo tarde, la cara desencajada de horror.",,4,32:43
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,217,Plano medio,Fijo,dialogo,"Korin, susurro, retrocediendo.",…La mató. Su propia hija la mató.,5,32:48
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,218,Plano entero,Tilt,silencio,"Vera resbala al piso, muy despacio, sostenida un instante por Selka y luego soltada.",,5,32:53
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,219,Primerísimo primer plano,Fijo,silencio,"En el suelo, Vera mira la cara de Selka hasta el último segundo. Y muere creyéndolo.",,8,33:01
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,220,Plano detalle,Fijo,contemplativo,La mano de Vera cae abierta contra el piso frío. Se queda quieta. Hold.,,6,33:07
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,221,Plano entero,Fijo,silencio,"Selka de pie sobre el cuerpo de su madre, el arma goteando luz, todo el cuerpo temblándole.",,6,33:13
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,222,Primer plano,Dolly in,silencio,"Selka, sin querer, sin entender, empieza a tararear una nana que no recuerda haber aprendido.","(tarareando, quebrado) mmm… mm-mmm…",8,33:21
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,223,Gran plano general,Grúa,contemplativo,Vista cenital: la General diminuta de pie sobre el cuerpo de su madre en la sala inmensa y fría. La nana flota.,,9,33:30
+ACTO 2,SEC 20 — Muerte de Vera · Año 14,224,Plano detalle,Fijo,contemplativo,La única vela de luz de la sala tiembla y casi se apaga. Sostener. CORTE A NEGRO.,,7,33:37
+ACTO 3,SEC 21 — Puerto en ruinas,1,Gran plano general,Grúa,contemplativo,"Amanecer gris sobre la ciudad dorada rota, partida en dos por la niebla; ceniza flotando en el aire quieto",,8,33:45
+ACTO 3,SEC 21 — Puerto en ruinas,2,Plano detalle,Fijo,contemplativo,"Un mural del Rey descascarado; debajo, pintado con bronca, un solo nombre tachado: STELLA",,6,33:51
+ACTO 3,SEC 21 — Puerto en ruinas,3,Plano general,Fijo,contemplativo,"Un hilo de luzagua opaca corre entre la chatarra, casi seco, sin brillo",,6,33:57
+ACTO 3,SEC 21 — Puerto en ruinas,4,Plano general,Travelling,accion,Una nave pequeña desciende entre la chatarra y se posa; el polvo se levanta y vuelve a asentarse,,6,34:03
+ACTO 3,SEC 21 — Puerto en ruinas,5,Plano entero,Fijo,accion,"Se abre la escotilla; bajan Brog, Nima, Noah y una mujer joven encapuchada de pelo teñido oscuro: Stella, 19",,5,34:08
+ACTO 3,SEC 21 — Puerto en ruinas,6,Primer plano,Steadicam,silencio,"El rostro de Stella bajo la capucha, recorriendo con los ojos su propio mundo destruido, en silencio",,6,34:14
+ACTO 3,SEC 21 — Puerto en ruinas,7,Plano medio,Steadicam,contemplativo,Stella pasa entre la gente; rostros hundidos la miran con el odio que el Rey les enseñó,,5,34:19
+ACTO 3,SEC 21 — Puerto en ruinas,8,Plano detalle,Fijo,accion,Un viejo escupe al suelo al oír el nombre de Stella en otra conversación; el salivazo en el polvo,,4,34:23
+ACTO 3,SEC 21 — Puerto en ruinas,9,Plano medio,Fijo,dialogo,"Noah camina pegado a ella, baja la voz, la mira de reojo",Todo un planeta te odia. ¿Y aun así volviste.,4,34:27
+ACTO 3,SEC 21 — Puerto en ruinas,10,Primer plano,Fijo,silencio,"Stella sostiene la mirada en las ruinas, sin responder aún; el peso de estar en casa",,4,34:31
+ACTO 3,SEC 21 — Puerto en ruinas,11,Primer plano,Fijo,dialogo,"Stella, los ojos en la ciudad rota, responde bajo",Por eso volví.,4,34:35
+ACTO 3,SEC 21 — Puerto en ruinas,12,Plano general,Cámara en mano,accion,"Un grupo de la resistencia los rodea de golpe, armas de luz en alto; al frente, viejo y cansado, Korin",,4,34:39
+ACTO 3,SEC 21 — Puerto en ruinas,13,Plano-contraplano,Fijo,accion,"Korin apunta a Stella; ella se baja la capucha despacio, revelando el pelo teñido",,5,34:44
+ACTO 3,SEC 21 — Puerto en ruinas,14,Primer plano,Dolly in,silencio,"Korin escruta su cara, sin reconocerla; el dedo sobre el gatillo de energía",,5,34:49
+ACTO 3,SEC 21 — Puerto en ruinas,15,Primerísimo primer plano,Fijo,silencio,Los ojos gris-azul de Stella bajo el pelo oscuro; el rasgo que la delata,,4,34:53
+ACTO 3,SEC 21 — Puerto en ruinas,16,Primer plano,Fijo,dialogo,Algo se rompe en la cara de Korin: la reconoce; la voz le tiembla,…¿Stella? Yo te conocí de pequeña —siempre al lado de tu madre.,5,34:58
+ACTO 3,SEC 21 — Puerto en ruinas,17,Plano medio,Fijo,dialogo,"Korin baja el arma, temblando; los demás dudan",Eres tú. Volviste.,4,35:02
+ACTO 3,SEC 21 — Puerto en ruinas,18,Primer plano,Fijo,silencio,"Stella sostiene la mirada de Korin en silencio, tragando veinte años",,5,35:07
+ACTO 3,SEC 21 — Puerto en ruinas,19,Gran plano general,Fijo,contemplativo,"Erdia vista desde la órbita, dorada y enferma, girando lenta en el negro",,7,35:14
+ACTO 3,SEC 21 — Puerto en ruinas,20,Plano medio,Fijo,silencio,"En la nave nodriza, Vosk mira la pantalla donde Erdia hierve; aprieta los puños",,5,35:19
+ACTO 3,SEC 21 — Puerto en ruinas,21,Plano-contraplano,Fijo,dialogo,"Vosk se gira hacia Theron, decidido",Déjame bajar. Está sola ahí abajo.,4,35:23
+ACTO 3,SEC 21 — Puerto en ruinas,22,Primer plano,Fijo,dialogo,"Theron, inmóvil, sin apartar los ojos de la pantalla",No es nuestra guerra.,4,35:27
+ACTO 3,SEC 21 — Puerto en ruinas,23,Primer plano,Fijo,silencio,"Vosk sostiene el silencio, la mandíbula tensa, antes de responder",,4,35:31
+ACTO 3,SEC 21 — Puerto en ruinas,24,Primer plano,Fijo,dialogo,"Vosk, la voz baja y firme",Se volvió mía el día que me sacó de esa fosa.,5,35:36
+ACTO 3,SEC 21 — Puerto en ruinas,25,Plano medio,Fijo,silencio,"Theron lo mira largamente; no dice que sí, tampoco lo impide",,5,35:41
+ACTO 3,SEC 22 — Refugio / Naio,26,Plano general,Fijo,contemplativo,"Interior del refugio en penumbra; goteo, tela colgada, luz fría filtrándose entre andamios",,6,35:47
+ACTO 3,SEC 22 — Refugio / Naio,27,Plano medio,Steadicam,accion,"Korin guía a Stella hacia un anciano esclavo recién liberado, encorvado en un rincón",,5,35:52
+ACTO 3,SEC 22 — Refugio / Naio,28,Primer plano,Dolly in,contemplativo,"El rostro del anciano, ciego de un ojo, irreconocible: Naio",,5,35:57
+ACTO 3,SEC 22 — Refugio / Naio,29,Primer plano,Fijo,silencio,Stella se queda sin aire; reconoce a su padre bajo la ruina de su cara,,6,36:03
+ACTO 3,SEC 22 — Refugio / Naio,30,Plano entero,Fijo,accion,Stella se arrodilla despacio frente a él,,4,36:07
+ACTO 3,SEC 22 — Refugio / Naio,31,Primerísimo primer plano,Fijo,dialogo,"Stella, la voz apenas audible",Papá.,4,36:11
+ACTO 3,SEC 22 — Refugio / Naio,32,Primer plano,Fijo,silencio,"Naio levanta la cabeza, buscando una cara que no encuentra; los ojos vacíos",,5,36:16
+ACTO 3,SEC 22 — Refugio / Naio,33,Plano detalle,Fijo,contemplativo,Las manos de Naio encuentran la mano de Stella y palpan bajo la piel la llave de luz: el Orbe latiendo,,6,36:22
+ACTO 3,SEC 22 — Refugio / Naio,34,Primerísimo primer plano,Fijo,silencio,El ojo bueno de Naio se llena de lágrimas al sentir el latido,,5,36:27
+ACTO 3,SEC 22 — Refugio / Naio,35,Primer plano,Fijo,dialogo,"Naio, la voz quebrada de asombro","Volviste. Veinte años. Te dije que no dejaras que él lo tuviera, y… mírate. Lo cuidaste. Toda tu vida.",6,36:33
+ACTO 3,SEC 22 — Refugio / Naio,36,Plano detalle,Fijo,dialogo,La mano temblorosa de Naio toca el pelo teñido de oscuro de su hija,Mi niña del río.,5,36:38
+ACTO 3,SEC 22 — Refugio / Naio,37,Primer plano,Fijo,silencio,"Stella deja aterrizar esas palabras, conteniendo el llanto, sin cortar",,5,36:43
+ACTO 3,SEC 22 — Refugio / Naio,38,Primer plano,Fijo,dialogo,"Stella, firme pese a las lágrimas","Mamá está viva, papá. La vi. Voy a sacarlos a los dos de aquí. A Selka también. Te lo prometo.",6,36:49
+ACTO 3,SEC 22 — Refugio / Naio,39,Primerísimo primer plano,Fijo,silencio,"Naio la escucha; el peso de lo que la resistencia cree sobre Vera cruza su cara, pero calla",,6,36:55
+ACTO 3,SEC 22 — Refugio / Naio,40,Plano detalle,Fijo,silencio,La mano de Naio aprieta la de Stella; la deja ir con su esperanza intacta,,5,37:00
+ACTO 3,SEC 22 — Refugio / Naio,41,Plano general,Dolly out,contemplativo,"Padre e hija, dos siluetas pequeñas en la penumbra del refugio; el goteo sigue",,6,37:06
+ACTO 3,SEC 23 — El asalto,42,Gran plano general,Grúa,contemplativo,"El palacio-cúpula se alza sobre la ciudad de niebla; abajo, la resistencia avanza como una marea gris",,6,37:12
+ACTO 3,SEC 23 — El asalto,43,Plano general,Cámara en mano,accion,"Estalla la guerra en las calles: luz contra luz, sin fuego; cuerpos y robots chocando",,3,37:15
+ACTO 3,SEC 23 — El asalto,44,Plano medio,Cámara en mano,accion,Brog abre una brecha en un muro a puñetazos; los bloques saltan,,2,37:17
+ACTO 3,SEC 23 — El asalto,45,Plano detalle,Whip-pan,accion,Los cuatro brazos de Nima destripan un robot imperial; chispas frías,,2,37:19
+ACTO 3,SEC 23 — El asalto,46,Plano medio,Steadicam,accion,Noah desvía una descarga de luz y cubre el flanco de Stella,,2,37:21
+ACTO 3,SEC 23 — El asalto,47,Plano general,Cámara en mano,accion,"Un comando de la resistencia arranca a un grupo de esclavos de una jaula; Naio entre ellos, puesto a salvo",,3,37:24
+ACTO 3,SEC 23 — El asalto,48,Primer plano,Fijo,silencio,Stella mira hacia la cúpula más alta; decide romper su misión de reconocimiento,,4,37:28
+ACTO 3,SEC 23 — El asalto,49,Contrapicado,Grúa,accion,"Stella escala el palacio sola entre destellos de luz, subiendo hacia la Sala del Trono",,3,37:31
+ACTO 3,SEC 23 — El asalto,50,Plano detalle,Fijo,accion,Sus dedos aferran un saliente de metal frío; la ciudad diminuta muy abajo,,2,37:33
+ACTO 3,SEC 23 — El asalto,51,Plano general,Fijo,contemplativo,"Stella llega al techo de cristal de la cúpula; abajo, en el centro, una figura blanca espera inmóvil",,5,37:38
+ACTO 3,SEC 23 — El asalto,52,Primer plano,Dolly in,silencio,Stella mira hacia abajo a través del cristal; respira; carga el Orbe en la palma,,4,37:42
+ACTO 3,SEC 23 — El asalto,53,Plano detalle,Fijo,accion,El puño de Stella baja sobre el cristal; la luz del Orbe estalla en la superficie,,2,37:44
+ACTO 3,SEC 23 — El asalto,54,Contrapicado,Cámara en mano,accion,El cristal se hace añicos; Stella cae hacia el trono entre una lluvia de esquirlas brillantes,,3,37:47
+ACTO 3,SEC 24 — Duelo de hermanas,55,Plano entero,Cámara en mano,accion,"Stella aterriza entre vidrios rotos, rueda y se incorpora",,2,37:49
+ACTO 3,SEC 24 — Duelo de hermanas,56,Plano detalle,Fijo,contemplativo,Las esquirlas de cristal se asientan en el suelo pulido; el eco muriendo,,4,37:53
+ACTO 3,SEC 24 — Duelo de hermanas,57,Plano medio,Fijo,silencio,"Frente a ella, Selka —la General, 21, blanca, cicatriz sobre el ojo izquierdo, sin un gesto",,5,37:58
+ACTO 3,SEC 24 — Duelo de hermanas,58,Plano-contraplano,Fijo,silencio,Las dos hermanas frente a frente por primera vez en veinte años; ninguna lo sabe del todo,,6,38:04
+ACTO 3,SEC 24 — Duelo de hermanas,59,Primer plano,Fijo,dialogo,"Selka, glacial",La ladrona. Volviste a la escena del crimen.,4,38:08
+ACTO 3,SEC 24 — Duelo de hermanas,60,Plano detalle,Fijo,dialogo,Selka desenfunda una hoja de luz; el filo se enciende con un siseo,Qué considerada.,4,38:12
+ACTO 3,SEC 24 — Duelo de hermanas,61,Plano medio,Fijo,dialogo,"Stella abre las manos, sin atacar",No vine a pelear contigo.,4,38:16
+ACTO 3,SEC 24 — Duelo de hermanas,62,Primer plano,Fijo,dialogo,"Selka, sin creerle nada",Todos dicen eso antes de morir.,4,38:20
+ACTO 3,SEC 24 — Duelo de hermanas,63,Plano entero,Whip-pan,accion,Selka se lanza; la hoja de luz traza un arco contra Stella,,2,38:22
+ACTO 3,SEC 24 — Duelo de hermanas,64,Plano medio,Cámara en mano,accion,"Stella bloquea, desvía, esquiva con destreza de otro universo; más rápida",,2,38:24
+ACTO 3,SEC 24 — Duelo de hermanas,65,Plano detalle,Whip-pan,accion,Stella la desarma de un giro; la hoja de Selka vuela y repica en el suelo,,2,38:26
+ACTO 3,SEC 24 — Duelo de hermanas,66,Primer plano,Fijo,silencio,"Stella tiene el remate y no lo da; no quiere vencerla, quiere alcanzarla",,3,38:29
+ACTO 3,SEC 24 — Duelo de hermanas,67,Plano medio,Cámara en mano,dialogo,"Stella retrocede esquivando, buscando sus ojos",¿Por qué mataste a nuestra madre?,4,38:33
+ACTO 3,SEC 24 — Duelo de hermanas,68,Primerísimo primer plano,Fijo,dialogo,"Selka, sin un parpadeo, recupera su hoja",He ejecutado a cientos. No recuerdo a ninguna que se llamara «madre».,5,38:38
+ACTO 3,SEC 24 — Duelo de hermanas,69,Primer plano,Fijo,silencio,Eso le duele a Stella más que cualquier golpe; la frase aterriza en su cara,,4,38:42
+ACTO 3,SEC 24 — Duelo de hermanas,70,Plano entero,Cámara en mano,accion,"Selka aprovecha la guardia baja, la barre y la tira al piso, la hoja en alto",,2,38:44
+ACTO 3,SEC 24 — Duelo de hermanas,71,POV,Fijo,accion,"POV de Stella en el suelo: la hoja de luz suspendida sobre su cara, cegadora",,2,38:46
+ACTO 3,SEC 24 — Duelo de hermanas,72,Plano detalle,Fijo,accion,La palma de Stella se ahueca por reflejo; una chispa de Gix baja y baila en su mano,,3,38:49
+ACTO 3,SEC 24 — Duelo de hermanas,73,Plano medio,Fijo,accion,"Stella levanta la mano con la chispa hacia la frente de Selka: el gesto del laboratorio, el juego de la luz",,3,38:52
+ACTO 3,SEC 24 — Duelo de hermanas,74,Primer plano,Fijo,silencio,Selka se congela; la hoja tiembla en el aire; su cuerpo reconoce el gesto antes que su mente,,5,38:57
+ACTO 3,SEC 24 — Duelo de hermanas,75,Primerísimo primer plano,Dolly in,dialogo,"Bajo la General asoma, un instante, una niña perdida",…¿Por qué… por qué conozco eso?,5,39:02
+ACTO 3,SEC 24 — Duelo de hermanas,76,Plano-contraplano,Fijo,silencio,"Las dos quietas, a un latido de despertar; la chispa flotando entre sus caras",,6,39:08
+ACTO 3,SEC 24 — Duelo de hermanas,77,Primer plano,Fijo,silencio,Ese latido aterra a Selka; no tiene dónde poner lo que siente,,4,39:12
+ACTO 3,SEC 24 — Duelo de hermanas,78,Plano detalle,Whip-pan,accion,Selka agarra la mano de Stella con furia; ataca lo que la confunde,,2,39:14
+ACTO 3,SEC 24 — Duelo de hermanas,79,Primerísimo primer plano,Fijo,accion,"La palma de Stella: el Orbe sale con un fogonazo cegador, arrancado de su carne",,2,39:16
+ACTO 3,SEC 24 — Duelo de hermanas,80,Plano entero,Cámara en mano,accion,Stella se desploma; los ojos en blanco; cae en coma,,3,39:19
+ACTO 3,SEC 24 — Duelo de hermanas,81,Plano detalle,Fijo,contemplativo,"Una chispa sale del brazalete y se hunde en el pecho de Stella: Gix, abrazándole el corazón por dentro",,4,39:23
+ACTO 3,SEC 24 — Duelo de hermanas,82,Primer plano,Fijo,silencio,"Selka de pie, el Orbe en la mano, respirando agitada, sin saber qué acaba de hacer",,5,39:28
+ACTO 3,SEC 24 — Duelo de hermanas,83,Plano medio,Fijo,dialogo,"Selka a los guardias, la voz no del todo firme",Cuéntenlo. La traidora cayó.,4,39:32
+ACTO 3,SEC 24 — Duelo de hermanas,84,Plano detalle,Fijo,contemplativo,El cuerpo inmóvil de Stella en el suelo; la respiración apenas moviéndole el pecho,,6,39:38
+ACTO 3,SEC 25 — La nave despierta,85,Plano entero,Steadicam,silencio,"Selka camina hacia la consola del trono, el Orbe en la mano; por fin va a devolver la luz",,5,39:43
+ACTO 3,SEC 25 — La nave despierta,86,Plano detalle,Dolly in,accion,Selka coloca el Orbe en su hueco en la consola; encaja con un latido,,4,39:47
+ACTO 3,SEC 25 — La nave despierta,87,Primer plano,Fijo,silencio,Selka espera que la luz vuelva; sostiene el aliento,,5,39:52
+ACTO 3,SEC 25 — La nave despierta,88,Gran plano general,Fijo,contemplativo,"La luz no vuelve; la sala del trono permanece muerta, fría",,5,39:57
+ACTO 3,SEC 25 — La nave despierta,89,Plano detalle,Cámara en mano,accion,Todo tiembla; las paredes del palacio empiezan a plegarse como placas,,2,39:59
+ACTO 3,SEC 25 — La nave despierta,90,Plano general,Cámara en mano,accion,El piso se vuelve cubierta; el trono se abre como un puente de mando; motores antiquísimos despiertan,,3,40:02
+ACTO 3,SEC 25 — La nave despierta,91,Gran plano general,Grúa,contemplativo,Lo que todos creímos palacio —lo que el pueblo creyó un meteorito— se enciende entero: siempre fue una nave,,7,40:09
+ACTO 3,SEC 25 — La nave despierta,92,Plano medio,Cámara en mano,silencio,"Selka retrocede, por primera vez en su vida con miedo",,4,40:13
+ACTO 3,SEC 25 — La nave despierta,93,Primer plano,Fijo,dialogo,"Selka, hacia la sombra del trono, la voz temblando",Majestad… el Orbe debería traer la luz. ¿Qué es esto? ¿Qué está pasando?,5,40:18
+ACTO 3,SEC 25 — La nave despierta,94,Plano general,Dolly in,silencio,"Desde el trono en sombra, una risa hecha de mil voces a la vez",,4,40:22
+ACTO 3,SEC 25 — La nave despierta,95,Primerísimo primer plano,Fijo,dialogo,La sombra del Rey; la voz múltiple,"La luz nunca fue para ellos, pequeña. Y nunca fue tuya.",6,40:28
+ACTO 3,SEC 26 — 'Fui yo',96,Plano entero,Fijo,silencio,Vorthan se levanta del trono en la penumbra; su silueta empieza a deformarse,,5,40:33
+ACTO 3,SEC 26 — 'Fui yo',97,Plano detalle,Fijo,accion,La carne del Rey se pliega y se recompone; toma la forma de Vera,,4,40:37
+ACTO 3,SEC 26 — 'Fui yo',98,Plano medio,Steadicam,contemplativo,"Con el rostro de la madre, la cosa camina despacio hacia Stella agonizante en el piso",,6,40:43
+ACTO 3,SEC 26 — 'Fui yo',99,Plano entero,Fijo,silencio,"«Vera» se arrodilla junto a Stella; le acaricia el pelo teñido, dulce y monstruosa",,6,40:49
+ACTO 3,SEC 26 — 'Fui yo',100,Primerísimo primer plano,Fijo,silencio,Stella entreabre los ojos por última vez; no ve al monstruo,,6,40:55
+ACTO 3,SEC 26 — 'Fui yo',101,POV,Fijo,contemplativo,"POV de Stella, borroso: el rostro de su madre inclinado sobre ella, bañado en luz suave",,5,41:00
+ACTO 3,SEC 26 — 'Fui yo',102,Primerísimo primer plano,Fijo,dialogo,"Stella, un hilo de voz, una sonrisa que rompe el corazón",Mamá… viniste.,5,41:05
+ACTO 3,SEC 26 — 'Fui yo',103,Primer plano,Fijo,dialogo,«Vera» con la voz exacta de la madre; ternura envenenada,"Aquí estoy, mi amor. Descansa.",5,41:10
+ACTO 3,SEC 26 — 'Fui yo',104,Primerísimo primer plano,Dolly in,silencio,"Los ojos de Stella se cierran despacio; se va en paz, creyendo que su madre vino por ella",,8,41:18
+ACTO 3,SEC 26 — 'Fui yo',105,Plano detalle,Fijo,contemplativo,La mano de Stella se afloja del todo sobre el suelo frío; queda quieta,,7,41:25
+ACTO 3,SEC 26 — 'Fui yo',106,Plano medio,Fijo,accion,La cosa se incorpora sobre el cuerpo; el rostro de Vera se disuelve y muda al de Marek,,5,41:30
+ACTO 3,SEC 26 — 'Fui yo',107,Primer plano,Fijo,silencio,"Selka mira, sin entender, cómo el héroe del pueblo sale de su Rey",,5,41:35
+ACTO 3,SEC 26 — 'Fui yo',108,Primer plano,Fijo,dialogo,«Marek» sonríe con la cara del líder bueno,¿No te preguntaste nunca cómo el Rey sabía siempre dónde golpear a la resistencia?,5,41:40
+ACTO 3,SEC 26 — 'Fui yo',109,Plano medio,Dolly in,dialogo,"«Marek», la revelación cayendo como una losa",No había resistencia. Solo yo. Llevándolos a todos de la mano hacia el matadero.,6,41:46
+ACTO 3,SEC 26 — 'Fui yo',110,Primer plano,Fijo,silencio,Selka encaja el golpe en silencio; el suelo moral desapareciendo bajo sus pies,,5,41:51
+ACTO 3,SEC 26 — 'Fui yo',111,Plano detalle,Fijo,accion,"La forma se encoge, se hace pequeña; muda por última vez",,4,41:55
+ACTO 3,SEC 26 — 'Fui yo',112,Plano entero,Fijo,contemplativo,La cosa es ahora una niña pequeña de pelo blanco: Selka de niña,,5,42:00
+ACTO 3,SEC 26 — 'Fui yo',113,Primer plano,Dolly in,dialogo,"La niña ladea la cabeza hacia la General, con la voz más tierna del mundo",Fuiste tú quien la mató. Al menos… eso creyó ella.,6,42:06
+ACTO 3,SEC 26 — 'Fui yo',114,Primerísimo primer plano,Fijo,silencio,Selka recibe la frase; la cara empezando a agrietarse,,5,42:11
+ACTO 3,SEC 26 — 'Fui yo',115,Primer plano,Fijo,dialogo,"«Selka niña», cruel y dulce",Tu madre vino a salvarte. Y murió mirando esta cara. Odiándote con toda el alma.,6,42:17
+ACTO 3,SEC 26 — 'Fui yo',116,Primer plano,Fijo,silencio,"Selka, la respiración rota, negando apenas con la cabeza, sin poder hablar",,5,42:22
+ACTO 3,SEC 26 — 'Fui yo',117,Primerísimo primer plano,Dolly in,dialogo,"La niña, el golpe final","Porque la maté yo, pequeña. Vistiendo tu rostro. Te puse el cuchillo en la mano sin que lo supieras.",7,42:29
+ACTO 3,SEC 26 — 'Fui yo',118,Plano medio,Fijo,accion,La niña ríe con una risita infantil que hiela la sangre,,4,42:33
+ACTO 3,SEC 26 — 'Fui yo',119,Primer plano,Fijo,silencio,"Selka retrocede, la cabeza negando sola; veinte años de certezas cayéndose de golpe",,6,42:39
+ACTO 3,SEC 26 — 'Fui yo',120,Primerísimo primer plano,Fijo,silencio,"La verdad aterriza entera: nunca mató a su madre, y su madre murió creyendo que sí",,8,42:47
+ACTO 3,SEC 26 — 'Fui yo',121,Plano detalle,Fijo,silencio,"Los labios de Selka empiezan a tararear, sin querer, la nana; el hilo de melodía en el silencio",,6,42:53
+ACTO 3,SEC 26 — 'Fui yo',122,Primer plano,Dolly in,silencio,"Por fin lo entiende: es la canción de su madre, la que Vera le cantaba de bebé",,6,42:59
+ACTO 3,SEC 26 — 'Fui yo',123,Plano entero,Fijo,accion,Selka se quiebra entera y cae de rodillas sobre la cubierta,,5,43:04
+ACTO 3,SEC 26 — 'Fui yo',124,Primer plano,Fijo,dialogo,"Selka, la nana rota saliéndole sola",…esa canción. Era de ella.,5,43:09
+ACTO 3,SEC 26 — 'Fui yo',125,Primerísimo primer plano,Fijo,dialogo,Un grito que sale de lo más hondo,…ERA MI MADRE.,5,43:14
+ACTO 3,SEC 26 — 'Fui yo',126,Plano medio,Fijo,dialogo,"Selka mira a Stella, muerta-en-coma en el piso; el grito partido",ERA NUESTRA MADRE.,6,43:20
+ACTO 3,SEC 26 — 'Fui yo',127,Plano general,Grúa,contemplativo,"Selka de rodillas junto al cuerpo de su hermana, sola en la cubierta inmensa; sostener el vacío",,9,43:29
+ACTO 3,SEC 27 — El Parásito,128,Plano entero,Fijo,accion,La cosa abandona todos los disfraces; la carne de la niña se deshace,,3,43:32
+ACTO 3,SEC 27 — El Parásito,129,Gran plano general,Grúa,contemplativo,"Toma su forma real: el Parásito, criatura colosal hecha de la luz robada de mil mundos; llena la sala",,6,43:38
+ACTO 3,SEC 27 — El Parásito,130,Contrapicado,Tilt,contemplativo,La mole del monstruo se alza hasta el techo; lo que dejó hueco el corazón de Erdia,,5,43:43
+ACTO 3,SEC 27 — El Parásito,131,Primer plano,Fijo,silencio,"Selka —recién rota, recién humana— con una sola certeza nueva: su hermana cruzó un universo por ella",,5,43:48
+ACTO 3,SEC 27 — El Parásito,132,Plano detalle,Fijo,accion,La mano de Selka recoge su hoja de luz del suelo; el filo se reenciende,,2,43:50
+ACTO 3,SEC 27 — El Parásito,133,Plano entero,Cámara en mano,accion,Selka se lanza contra el monstruo para cubrir el rescate de Stella,,2,43:52
+ACTO 3,SEC 27 — El Parásito,134,Plano general,Cámara en mano,accion,"No le da la talla, ni cerca; la hoja de luz apenas raya la mole",,2,43:54
+ACTO 3,SEC 27 — El Parásito,135,Plano detalle,Whip-pan,accion,"El Parásito, casi sin notarlo, le secciona el brazo de un golpe de luz",,1,43:55
+ACTO 3,SEC 27 — El Parásito,136,Plano entero,Cámara en mano,accion,"Selka cae, manca, pero viva; rueda por la cubierta",,2,43:57
+ACTO 3,SEC 27 — El Parásito,137,Primer plano,Fijo,silencio,"Selka en el suelo, el muñón humeante de luz, la cara de puro shock, la respiración quebrada",,4,44:01
+ACTO 3,SEC 27 — El Parásito,138,Plano general,Cámara en mano,accion,Una explosión revienta el mamparo; el metal se dobla hacia dentro,,2,44:03
+ACTO 3,SEC 27 — El Parásito,139,Plano entero,Fijo,contemplativo,"Entra Theron entre el humo, inmenso, quieto",,4,44:07
+ACTO 3,SEC 27 — El Parásito,140,Primer plano,Dolly in,silencio,Theron mira al monstruo; por primera vez en veinte mil años lo ve con sus propios ojos; cada rastro perdido por fin tiene cara,,6,44:13
+ACTO 3,SEC 27 — El Parásito,141,Primerísimo primer plano,Fijo,dialogo,"Theron, bajo, casi un rezo",Ahí estás.,5,44:18
+ACTO 3,SEC 27 — El Parásito,142,Plano general,Cámara en mano,accion,Brog y Nima entran por la brecha mientras Theron le hace frente al Parásito,,2,44:20
+ACTO 3,SEC 27 — El Parásito,143,Plano medio,Steadicam,accion,Brog levanta a Stella en coma como a una pluma; Nima carga a Selka manca,,3,44:23
+ACTO 3,SEC 27 — El Parásito,144,Plano medio,Cámara en mano,accion,"Vosk cubre la puerta con su hoja en alto; llegó, después de todo",,2,44:25
+ACTO 3,SEC 27 — El Parásito,145,Plano medio,Cámara en mano,dialogo,Nima grita a Theron por encima del estruendo,¡Las tengo! ¡VÁMONOS!,3,44:28
+ACTO 3,SEC 27 — El Parásito,146,Plano entero,Dolly out,silencio,"Theron retrocede de espaldas, sin quitarle los ojos al Parásito, hacia la brecha",,5,44:33
+ACTO 3,SEC 27 — El Parásito,147,Gran plano general,Fijo,contemplativo,"El Parásito llenando la sala, indiferente a la huida; sostener su inmensidad",,6,44:39
+ACTO 3,SEC 28 — El portal,148,Gran plano general,Grúa,accion,"La nave-palacio termina de arrancarse de la ciudad, escupiendo escombros, el Orbe latiendo en su núcleo",,6,44:45
+ACTO 3,SEC 28 — El portal,149,Gran plano general,Tilt,contemplativo,"La mole se eleva sobre Erdia, tapando el cielo gris",,6,44:51
+ACTO 3,SEC 28 — El portal,150,Plano general,Fijo,contemplativo,En el cielo se abre un portal: un tajo de luz hacia el próximo mundo que va a vaciar,,6,44:57
+ACTO 3,SEC 28 — El portal,151,Gran plano general,Fijo,accion,"La nave-palacio entra en el portal y desaparece; no persigue a nadie, tiene lo que vino a buscar",,6,45:03
+ACTO 3,SEC 28 — El portal,152,Gran plano general,Fijo,contemplativo,El cielo se cierra sobre la ciudad; el tajo de luz se sutura; silencio,,8,45:11
+ACTO 3,SEC 28 — El portal,153,Plano general,Fijo,contemplativo,Ceniza y escombros cayendo lentos sobre las ruinas vacías; el aire quieto,,7,45:18
+ACTO 3,SEC 28 — El portal,154,Gran plano general,Travelling,contemplativo,"La nave de Theron se aleja en la dirección contraria, pequeña contra Erdia rota",,7,45:25
+ACTO 3,SEC 28 — El portal,155,Primer plano,Fijo,silencio,"En el puente, Theron mira el punto donde estuvo el portal; por primera vez no está perdido",,6,45:31
+ACTO 3,SEC 28 — El portal,156,Primer plano,Fijo,dialogo,"Theron, la voz baja",Veinte mil años buscándolo.,5,45:36
+ACTO 3,SEC 28 — El portal,157,Primerísimo primer plano,Dolly in,dialogo,"Theron, la certeza asentándose en sus ojos que no parpadean",Por fin sé adónde va a llevarlo.,6,45:42
+ACTO 3,SEC 28 — El portal,158,Gran plano general,Fijo,contemplativo,"El vacío del espacio; Erdia enferma girando lenta, sola, en el negro",,8,45:50
+ACTO 3,SEC 29 — Enfermería,159,Plano general,Fijo,contemplativo,Enfermería en quietud; el zumbido bajo de la nave; luz azulada y estanca,,7,45:57
+ACTO 3,SEC 29 — Enfermería,160,Plano medio,Dolly in,contemplativo,"Stella flota en un tanque de soporte vital, dormida, intacta, ausente; el pelo suspendido en el agua",,8,46:05
+ACTO 3,SEC 29 — Enfermería,161,Plano medio,Fijo,silencio,"Junto al tanque, Naio le sostiene la mirada a su hija dormida sin poder tocarla",,7,46:12
+ACTO 3,SEC 29 — Enfermería,162,Plano detalle,Dolly in,contemplativo,"Sobre el pecho de Stella, dentro del agua, late un resplandor tenue: Gix, como una brasa a punto de apagarse",,8,46:20
+ACTO 3,SEC 29 — Enfermería,163,Primer plano,Fijo,dialogo,"Theron mira la brasa, en voz baja",Eso es lo único que la sostiene.,5,46:25
+ACTO 3,SEC 29 — Enfermería,164,Plano detalle,Fijo,dialogo,"La brasa titila, débil, dentro del agua; sostener la fragilidad",Y se está apagando.,6,46:31
+ACTO 3,SEC 29 — Enfermería,165,Plano entero,Steadicam,silencio,"Selka entra; el brazo le falta, vendado; la cara de quien perdió todo en una noche",,6,46:37
+ACTO 3,SEC 29 — Enfermería,166,Plano medio,Fijo,silencio,"Selka se acerca a Naio, su padre; lo mira; le toma la mano con la única que le queda",,6,46:43
+ACTO 3,SEC 29 — Enfermería,167,Primer plano,Fijo,dialogo,"Selka, sin casi voz",Perdóname.,5,46:48
+ACTO 3,SEC 29 — Enfermería,168,Primerísimo primer plano,Fijo,silencio,Selka deja aterrizar la palabra; la culpa desbordándole en silencio,,4,46:52
+ACTO 3,SEC 29 — Enfermería,169,Primer plano,Fijo,dialogo,"Selka, quebrada",No sabía. Nada. Me lo robaron todo y ni cuenta me di.,6,46:58
+ACTO 3,SEC 29 — Enfermería,170,Primer plano,Dolly in,dialogo,"Selka traga, junta la voluntad, jura",Voy a volver. Voy a salvar lo que quede de Erdia. Te lo juro por ella.,6,47:04
+ACTO 3,SEC 29 — Enfermería,171,Plano detalle,Fijo,silencio,"La mano de Naio, sin palabras, aprieta la de Selka; la perdona con eso",,6,47:10
+ACTO 3,SEC 29 — Enfermería,172,Plano medio,Steadicam,silencio,"Selka se vuelve hacia el tanque, hacia su hermana dormida",,5,47:15
+ACTO 3,SEC 29 — Enfermería,173,Plano detalle,Dolly in,contemplativo,"La palma única de Selka se apoya en el cristal frío, justo sobre la cara de Stella",,6,47:21
+ACTO 3,SEC 29 — Enfermería,174,Primer plano,Fijo,dialogo,"Selka, la frente contra el cristal",No sabía que eras tú.,5,47:26
+ACTO 3,SEC 29 — Enfermería,175,Primerísimo primer plano,Fijo,silencio,Selka sostiene la mirada en la cara dormida de su hermana; el silencio pesa,,5,47:31
+ACTO 3,SEC 29 — Enfermería,176,Primer plano,Fijo,dialogo,"Selka, un ruego",Despierta. Y déjame decírtelo a la cara.,6,47:37
+ACTO 3,SEC 29 — Enfermería,177,Primerísimo primer plano,Dolly in,contemplativo,La cara de Stella dormida en el agua; quietud absoluta; sostener,,7,47:44
+ACTO 3,SEC 29 — Enfermería,178,Plano detalle,Fijo,dialogo,"Desde el fondo del coma, con la voz de su madre dentro, los labios de Stella apenas se mueven",…un río que vuelve.,6,47:50
+ACTO 3,SEC 29 — Enfermería,179,Plano detalle,Dolly in,contemplativo,"La brasa de Gix late una vez más dentro del tanque: débil, pequeña; pero late",,8,47:58
+ACTO 3,SEC 29 — Enfermería,180,Primer plano,Fijo,silencio,"Selka con la frente en el cristal, oyendo el susurro, los ojos cerrándose; una brizna de esperanza",,6,48:04
+ACTO 3,SEC 29 — Enfermería,181,Plano general,Dolly out,contemplativo,"El tanque iluminado en la enfermería a oscuras, tres figuras veladas alrededor; la brasa latiendo lejana",,9,48:13
+ACTO 3,SEC 29 — Enfermería,182,Plano detalle,Fijo,contemplativo,"La brasa de Gix, un último latido tenue en el agua, sostenido hasta que la imagen se apaga",,8,48:21
+ACTO 3,SEC 29 — Enfermería,183,Transicion,Fijo,transicion,"Corte a negro. Sobre el negro, el título: EL NODO DE ERDIA",,6,48:27
