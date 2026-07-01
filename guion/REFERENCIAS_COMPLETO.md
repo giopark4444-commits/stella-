@@ -13,19 +13,21 @@
 
 ---
 
+> **🎨 Canon de ojos:** ojos **ÁMBAR → Stella (todas sus versiones) y su padre Naio**. Ojos **GRIS-AZUL → la madre Vera y Selka** (bebé, cadete, General, niña). El **pelo blanco** es el voto naieli común a toda la familia; el **color de ojos distingue las dos ramas** (la de Naio ámbar, la de Vera gris-azul). No mezclar.
+
 ## 👤 PERSONAJES (29)
 | @tag | Quién | Actos | Estado |
 |---|---|---|---|
 | `@StellaRopa` | Stella 14, ropa civil + trenza, ámbar | A1 | ✅ `stella_14_nina` |
 | `@StellaArmadura` | Stella (14), armadura "04" blanca+naranja, **trenza** blanca, ojos ámbar | A1 | ✅ lámina turnaround 04 recibida |
 | `@StellaPeloCorto` | Stella, armadura "04" + **pelo corto** (tras el corte), ojos ámbar | A1·A2 | ✅ lámina turnaround 04 pelo corto recibida |
-| `@StellaTeñida` | Stella ~19, pelo teñido oscuro, traje nuevo | A3 | ✅ `stella_adulta_pelo_tenido` |
+| `@StellaTeñida` | Stella ~19, pelo teñido oscuro, traje nuevo, **ojos ámbar** | A3 | ✅ `stella_adulta_pelo_tenido` |
 | `@VeraRopa` | madre en túnicas (pasea con Stella), gris-azul | A1 | ✅ `vera_madre` |
 | `@VeraArmadura` | madre en armadura (escapa con Stella), gris-azul | A1 | 🟡 derivar de `vera_madre` (no hay lámina en armadura) |
 | `@VeraEncapuchada` | Vera resistencia, encapuchada, gris-azul | A2·A3 | ✅ `vera_mayor_lider` |
-| `@Naio` | padre científico; bata blanca/costuras doradas, gafas redondas, pelo+barba blancos, guante holográfico; **creador de @Gix** | A1 | ✅ `naio_cientifico` (lámina recibida) |
-| `@NaioEsclavo` | Naio anciano, esclavo de minas | A2 | ✅ `naio_esclavo` |
-| `@NaioRescatado` | Naio anciano, liberado | A3 | 🟡 derivar de `naio_esclavo` |
+| `@Naio` | padre científico; bata blanca/costuras doradas, gafas redondas, pelo+barba blancos, **ojos ámbar**, guante holográfico; **creador de @Gix** | A1 | ✅ `naio_cientifico` (lámina recibida) |
+| `@NaioEsclavo` | Naio anciano, esclavo de minas, **ojos ámbar** | A2 | ✅ `naio_esclavo` |
+| `@NaioRescatado` | Naio anciano, liberado, **ojos ámbar** | A3 | 🟡 derivar de `naio_esclavo` |
 | `@SelkaBebe` | bebé, mechón blanco, gris-azul | A1 | ✅ `selka_4_bebe` |
 | `@SelkaGeneral` | la General (21), armadura blanca/dorada, gris-azul, cicatriz ojo izq.; luego manca | A2·A3 | ✅ `selka_general` + `selka_manca` · ⚠️ añadir cicatriz a la lámina |
 | `@SelkaNiña` 🔒 | Selka de niña (forma del "Fui yo"), gris-azul | A3 | 🟡 derivar de `selka_4_bebe` |

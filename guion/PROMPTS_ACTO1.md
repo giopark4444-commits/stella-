@@ -18,7 +18,7 @@
 - `@StellaPeloCorto` — Stella in the **recon suit / armor** with **short, freshly-cut hair** (after the braid is cut); amber eyes; freckles. *(Clips 57-88.)*
 - `@VeraRopa` — ~40, the mother; long white hair partly bound; warm strong face; flowing naiel **robes** in soft gold/white. **Grey-blue eyes.** *(When she strolls with Stella — the park, clips ≤16.)*
 - `@VeraArmadura` — the mother in **combat armor/gear**; long white hair; **grey-blue eyes**. *(While escaping with Stella — lab, corridors, Orb chamber, clips 17-65.)*
-- `@Naio` — ~45, father/scientist; **white/grey hair + short beard, round glasses**; tired kind eyes; **white lab coat with gold seams**, holographic gauntlet; warm, wise. **He created @Gix** (often holds the little light-axolotl). Tech for the common good.
+- `@Naio` — ~45, father/scientist; **white/grey hair + short beard, round glasses**; tired kind **amber eyes**; **white lab coat with gold seams**, holographic gauntlet; warm, wise. **He created @Gix** (often holds the little light-axolotl). Tech for the common good.
 - `@SelkaBebe` — 1-year-old baby; wisp of white hair; **grey-blue eyes**; wrapped in pale cloth.
 - `@Gix` — small translucent **axolotl spirit of water and light** (sweet smiling face, big dark eyes, luminous golden frond-gills, pale luzagua-blue skin dusted with golden star-points, finned tail trailing light, warm gold glow in its chest); luzagua-blue + warm gold, **never cold steel-grey** (that's the Empire). Playful, empathetic.
 - `@Vorthan` — the King; tall, ageless, regal; calm friendly smile that never reaches the eyes; ornate dark-and-gold imperial robes.
@@ -29,6 +29,8 @@
 - `@Piloto3` — a third allied pilot, distinct look, **NOT white hair**; flight gear. *(Squad/sacrifice + caged: clips 71, 75, 85.)*
 
 > **Nota de canon (pelo):** el pelo blanco es el **voto naieli de la familia** (Stella, Vera, Naio, Selka). La **resistencia y los pilotos NO** son todos de pelo blanco — usa sus refs propias.
+>
+> **Nota de canon (ojos):** ojos **ÁMBAR → Stella y su padre Naio**. Ojos **GRIS-AZUL → la madre Vera y Selka** (bebé, cadete y General). El pelo blanco es común a toda la familia; el **color de ojos distingue las dos ramas** (la de Naio ámbar, la de Vera gris-azul). No mezclar.
 
 **Atlas de locaciones (descripción exquisita canónica)**
 - `@Erdia` — a luminous living world wrapped in soft golden cloud; continents veined with rivers of light, oceans catching the dawn like molten glass; serene, impossibly alive.

@@ -21,6 +21,8 @@
 > **Estilo:** `Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch, fluid motion, film-grade lighting, soft grain. 21:9, 15s.`
 > **Negativo:** `no blood, no gore, no guns, no firearms, no on-screen text, no watermark.`
 > **MODO ACCIÓN `Motion:`** `very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.`
+>
+> **Nota de canon (ojos):** ojos **ÁMBAR → Stella (@StellaTeñida) y su padre Naio (@NaioRescatado)**. Ojos **GRIS-AZUL → la madre Vera y Selka** (@SelkaGeneral, @SelkaNiña). El pelo blanco es común a la familia; el **color de ojos distingue las dos ramas**. No mezclar.
 
 ---
 
