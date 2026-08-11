@@ -3,7 +3,7 @@
 > Mientras el MCP de Higgsfield no se pueda autorizar desde el entorno remoto, generas
 > tú directo en la app. **Motor: GPT Image 2 · Aspect ratio: 16:9 (widescreen) · sin
 > personajes (solo entorno).** Copia el PROMPT, adjunta la REFERENCIA indicada (de tu
-> shelf) y genera. El estilo painterly watercolor ya va incrustado en cada prompt (no hace falta el token).
+> shelf) y genera. El estilo Ghibli ya va incrustado en cada prompt (no hace falta el token).
 
 ---
 
@@ -17,7 +17,7 @@ wildflower meadows reclaiming colossal ancient ruins, slender pale-white spires 
 horizon, huge old structures (rings, domes) overgrown with grass and vines, thin rivers of
 glowing light-water floating in the air with no cables, a tiny airship drifting far off,
 enormous soft cumulus clouds in a deep blue sky. Traditional hand-painted 2D anime
-background art in the style of classic Studio painterly watercolor films (Nausicaä, Castle in the Sky),
+background art in the style of classic Studio Ghibli films (Nausicaä, Castle in the Sky),
 gouache-and-watercolor texture, visible painterly brushwork, soft cel-shaded forms, lush
 hand-drawn organic detail, gentle naturalistic light, fine traditional-cel grain, no 3D
 render, no CGI, no photoreal, cinematic widescreen. NO characters, NO people.
@@ -32,7 +32,7 @@ warm sandstone arches in soft organic curves, a vertical beam of luminous core-l
 falling from circular halos in the ceiling down the center of the hall, faint glowing
 vertical inscriptions (rows of numerals and glyphs) on the columns, calm functional
 emptiness, light receding into depth. Traditional hand-painted 2D anime background art in
-the style of classic Studio painterly watercolor films, gouache-and-watercolor texture, soft cel-shaded
+the style of classic Studio Ghibli films, gouache-and-watercolor texture, soft cel-shaded
 forms, gentle luminous light, fine traditional-cel grain, no 3D render, no CGI, no
 photoreal, cinematic widescreen. NO characters, NO people.
 ```
@@ -45,7 +45,7 @@ A tall sanctuary chamber of the deep core in teal-green stone and warm sandstone
 living instruments that breathe light, floating holographic projections; at the far end,
 behind a translucent containment field, a head-sized sphere of glowing light-water (the
 core) tints every surface teal and gold, with a vertical shaft of core-light from above.
-Traditional hand-painted 2D anime background art in the style of classic Studio painterly watercolor
+Traditional hand-painted 2D anime background art in the style of classic Studio Ghibli
 films, gouache-and-watercolor texture, soft cel-shaded forms, sacred luminous atmosphere,
 fine traditional-cel grain, no 3D render, no CGI, no photoreal, cinematic widescreen.
 NO characters, NO people.
@@ -59,7 +59,7 @@ The dead interior of a planet: an immense underground cavern of long-dead biomec
 roots, black metallic veined crust drained of all life, drained stagnant channels; in the
 exact center, catching one pale shaft of light, a single trembling green sprout pushing
 through the dead crust. Traditional hand-painted 2D anime background art in the style of
-classic Studio painterly watercolor films, gouache-and-watercolor texture, soft cel-shaded forms, somber
+classic Studio Ghibli films, gouache-and-watercolor texture, soft cel-shaded forms, somber
 desaturated palette with one warm point of life, fine traditional-cel grain, no 3D render,
 no CGI, no photoreal, cinematic widescreen. NO characters, NO people.
 ```

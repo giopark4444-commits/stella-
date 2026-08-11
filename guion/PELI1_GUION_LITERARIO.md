@@ -6,9 +6,9 @@
 
 
 > Guion literario: prosa narrativa, acción y diálogo, sin acotaciones técnicas de
-> cámara. Versión desarrollada (no el máster comprimido): la utopía respira, @Vera vive
+> cámara. Versión desarrollada (no el máster comprimido): la utopía respira, Vera vive
 > más, hay más subtexto. Los Actos Segundo y Tercero continúan en entregas siguientes.
-> Reparto: @Stella · @Selka · @Vera · @Naio · @Gix · el Cazador, @Brog, @Nima · pueblo naiel.
+> Reparto: Stella · Selka · Vera · Naio · Gix · el Cazador, Brog, Nima · pueblo naiel.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -73,88 +73,88 @@ Es una utopía. Y, por una vez, lo es de verdad.
 3. INT. PALACIO IMPERIAL — PASILLOS DE MÁRMOL — CONTINUO
 
 Por un corredor de mármol blanco entra corriendo una tromba de catorce
-años: @STELLA. El pelo, del blanco purísimo de los naieli, le va volando
+años: STELLA. El pelo, del blanco purísimo de los naieli, le va volando
 detrás como una bandera. Ríe sin motivo, con esa risa que solo existe
 cuando nunca te ha pasado nada malo.
 
 Sin dejar de correr, se toca el brazalete de la muñeca. De él brota un
-chorro de luz-agua que, en el aire, cobra forma: @GIX. Un ajolote
+chorro de luz-agua que, en el aire, cobra forma: GIX. Un ajolote
 bioluminiscente del tamaño de un gato, todo branquias de luz y cola
 ondulante, que nada en el aire junto a ella soltando burbujas cálidas. La
 persigue como un perro que es también una linterna.
 
-                    @STELLA
-              (sin aliento, a @Gix)
+                    STELLA
+              (sin aliento, a Gix)
           ¡No me dejes ganar a propósito! ¡Lo
           odio cuando haces eso!
 
-@Gix da una voltereta perezosa y se le adelanta sin esfuerzo, presumiendo.
-@Stella suelta una carcajada, dobla una esquina a toda velocidad —
+Gix da una voltereta perezosa y se le adelanta sin esfuerzo, presumiendo.
+Stella suelta una carcajada, dobla una esquina a toda velocidad —
 
 — y frena en seco, patinando sobre el mármol, a un palmo de chocar con su
 madre.
 
-@VERA. Cuarenta y tantos. Una de esas bellezas que el cansancio no apaga
+VERA. Cuarenta y tantos. Una de esas bellezas que el cansancio no apaga
 sino que vuelve más cierta. Pelo blanco impecable: el voto intacto. En
 brazos lleva a una niña dormida, de cuatro años, mejilla aplastada contra
-su hombro: @SELKA.
+su hombro: SELKA.
 
-                    @VERA
+                    VERA
               (un susurro, sin alarma)
           La vas a despertar.
 
-@Stella se queda muy quieta, de golpe. @Gix también: flota en el sitio y,
+Stella se queda muy quieta, de golpe. Gix también: flota en el sitio y,
 para no hacer ruido, suelta sus burbujas en silencio, conteniéndose como
 un perro al que mandan callar.
 
-@Stella se acerca de puntillas. Mira a su hermana dormida. Con un dedo, le
+Stella se acerca de puntillas. Mira a su hermana dormida. Con un dedo, le
 aparta de la cara un mechón de pelo blanco, y por un segundo toda su prisa
 de adolescente se disuelve en una ternura que parece sorprenderla a ella
 misma.
 
-                    @STELLA
+                    STELLA
               (muy bajo)
           ¿Cuándo va a ser grande para jugar
-          conmigo de verdad, @Selka?
+          conmigo de verdad, Selka?
 
-                    @VERA
+                    VERA
           Demasiado pronto. Siempre demasiado
           pronto.
-              (mira a @Stella, no a la pequeña)
+              (mira a Stella, no a la pequeña)
           Disfrútala así. Pequeña. Esto no
           vuelve.
 
-@Stella pone los ojos en blanco —es su madre siendo su madre— pero no se
-aparta. @Vera, con la mano libre, le acomoda a @Stella un mechón propio
-detrás de la oreja, el mismo gesto que acaba de hacer @Stella con @Selka. Un
+Stella pone los ojos en blanco —es su madre siendo su madre— pero no se
+aparta. Vera, con la mano libre, le acomoda a Stella un mechón propio
+detrás de la oreja, el mismo gesto que acaba de hacer Stella con Selka. Un
 gesto que viaja hacia abajo por la familia sin que nadie lo decida.
 
-                    @VERA (CONT'D)
+                    VERA (CONT'D)
           Anda. Tu padre te buscaba. Otra vez.
               (media sonrisa)
           Lleva toda la mañana "casualmente"
           cerca de la sala de la Fuente,
           esperando que pases.
 
-                    @STELLA
+                    STELLA
               (ya girándose para irse)
           Siempre dice que no me buscaba.
 
-                    @VERA
+                    VERA
           Siempre miente.
 
-@Stella se ríe y echa a andar. @Vera la mira irse. Y aquí —solo aquí, solo
+Stella se ríe y echa a andar. Vera la mira irse. Y aquí —solo aquí, solo
 nosotros— su sonrisa se queda un instante de más, y por debajo de ella
 asoma algo que ella no sabría nombrar: la sombra de quien presiente, sin
 ninguna razón, que conviene mirar bien esta espalda que se aleja.
 
-                    @VERA (CONT'D)
+                    VERA (CONT'D)
               (alzando un poco la voz)
           Que pases limpio, mi estela.
 
-@Stella, ya de espaldas, levanta una mano sin volverse.
+Stella, ya de espaldas, levanta una mano sin volverse.
 
-                    @STELLA
+                    STELLA
           Y tú, mamá.
 
 No vuelve la cabeza. ¿Por qué iba a volverla? Mañana habrá otro pasillo,
@@ -163,15 +163,15 @@ el tiempo del mundo.
 
 No volverá a ver a su madre.
 
-@Vera abraza un poco más fuerte a la pequeña @Selka dormida, y sigue su
+Vera abraza un poco más fuerte a la pequeña Selka dormida, y sigue su
 camino en la dirección contraria.
 
 
-4. INT. PALACIO IMPERIAL — TALLER DE @NAIO — CONTINUO
+4. INT. PALACIO IMPERIAL — TALLER DE NAIO — CONTINUO
 
 Una sala alta y luminosa, llena de instrumentos que parecen medio vivos:
 cosas que respiran luz, que se inclinan cuando uno pasa. De espaldas a la
-puerta, @NAIO —el Científico Jefe, Guardián del Cauce, cincuenta y tantos,
+puerta, NAIO —el Científico Jefe, Guardián del Cauce, cincuenta y tantos,
 con el aire distraído del hombre brillante que olvida comer— ajusta una
 proyección que flota en el aire.
 
@@ -181,46 +181,46 @@ MADRE. El Orbe. Una esfera de luz-agua del tamaño de una cabeza, latiendo
 despacio, sin prisa, como un corazón que duerme sabiendo que nadie lo va
 a despertar.
 
-@Stella entra deslizándose en calcetines por el mármol. @Gix se recoge en
+Stella entra deslizándose en calcetines por el mármol. Gix se recoge en
 el brazalete con un último burbujeo, como un suspiro.
 
-                    @STELLA
+                    STELLA
           Mamá dice que me buscabas.
 
-                    @NAIO
+                    NAIO
               (sin volverse, una sonrisa en la voz)
           Mentí. Quería verte sin que supieras
           que quería verte. Ahora ya lo sabes
           y lo has arruinado.
 
-Se vuelve. Le tiende la mano. @Stella se acerca y, juntos, miran la Fuente.
+Se vuelve. Le tiende la mano. Stella se acerca y, juntos, miran la Fuente.
 Es evidente que han hecho esto mil veces. Es evidente, también, que para
 él nunca deja de ser sagrado, y para ella ya es un poco aburrido.
 
-                    @NAIO (CONT'D)
+                    NAIO (CONT'D)
           A ver. La pregunta de siempre. ¿Qué
           es lo único que toda la gente entiende
           mal de esto?
 
-                    @STELLA
+                    STELLA
               (recitando, monótona)
           Que no es nuestro.
 
-                    @NAIO
+                    NAIO
           Que no se *posee*. —Acerca la palma al
           campo. Dentro, el Orbe se inclina hacia
           su mano, igual que el brote del principio
           se inclinaba hacia la luz.— La luz no se
-          tiene, @Stella. Se canaliza. Pasa a través
+          tiene, Stella. Se canaliza. Pasa a través
           de ti, hacia otra parte. Tú no eres su
           dueña. Eres por dónde pasa.
 
-                    @STELLA
+                    STELLA
               (mirando su propio reflejo deformado
                en la curva del Orbe)
           Ajá.
 
-                    @NAIO
+                    NAIO
           Y lo único, lo único que de verdad
           eliges en toda tu vida...
               (espera a que ella lo mire; no lo
@@ -228,30 +228,30 @@ Es evidente que han hecho esto mil veces. Es evidente, también, que para
           ...es qué decides nutrir con esa luz.
           O qué decides devorar.
 
-@Stella sigue mirando su reflejo. No ha oído una palabra. @Naio la observa,
+Stella sigue mirando su reflejo. No ha oído una palabra. Naio la observa,
 y en su cara hay esa tristeza pequeña y paciente del que sabe que las
 lecciones importantes no entran cuando uno quiere, sino tarde, y a la
 fuerza.
 
-                    @NAIO (CONT'D)
+                    NAIO (CONT'D)
           Algún día esto va a significar algo
           para ti. Y voy a estar insoportable de
           lo orgulloso.
 
-                    @STELLA
+                    STELLA
               (ya yéndose, de espaldas, ligera)
           Hoy no, papá.
 
-                    @NAIO
+                    NAIO
           Hoy no. —Sonríe.— Hoy no.
 
-Sale. @Naio se queda solo con la Fuente. Su sonrisa se mantiene un momento
+Sale. Naio se queda solo con la Fuente. Su sonrisa se mantiene un momento
 y luego, sin que él lo decida, baja un grado. Algo en la proyección
 flotante le ha llamado la atención: un número, pequeño, en una esquina,
 donde no debería haber ningún número. Se acerca, frunciendo el ceño,
 profesional.
 
-                    @NAIO (CONT'D)
+                    NAIO (CONT'D)
               (para sí, casi nada)
           ...¿Y tú de dónde sales?
 
@@ -262,7 +262,7 @@ corazón que ha dado, por primera vez en mil años, un latido de más.
 5. INT. PALACIO IMPERIAL — LABORATORIO DE ENERGÍA — MÁS TARDE
 
 El zumbido grave del núcleo principal llena una sala del tamaño de una
-catedral. @Naio ya no sonríe. Repite una medición en el aire. La repite
+catedral. Naio ya no sonríe. Repite una medición en el aire. La repite
 otra vez. La repite una tercera, más despacio, como si la lentitud
 pudiera cambiar el resultado.
 
@@ -281,7 +281,7 @@ su pueblo— no está repartiéndola.
 
 Se la está bebiendo. Desde los cimientos.
 
-                    @NAIO
+                    NAIO
               (un susurro que no se cree a sí mismo)
           El Cauce Mayor... es agua estancada.
 
@@ -293,40 +293,40 @@ Y entonces el mundo, como si lo hubieran oído, responde:
 
 ALARMAS SÍSMICAS. Un temblor profundo nace del suelo y trepa por las
 columnas. Los instrumentos vibran. Una grieta finísima cruza el techo de
-mármol de un extremo a otro. @Naio se agarra a la consola, mira hacia la
+mármol de un extremo a otro. Naio se agarra a la consola, mira hacia la
 puerta, mira hacia el indicador de profundidad del Orbe que cae y cae.
 
 Y toma, con las manos temblándole, la decisión que le va a romper la voz.
 
-                    @NAIO (CONT'D)
+                    NAIO (CONT'D)
               (al comunicador de su muñeca, bajo,
                urgentísimo)
-          @Stella. @Stella, escúchame. Y por una
+          Stella. Stella, escúchame. Y por una
           vez en tu vida no preguntes.
 
 
 6. INT. PALACIO IMPERIAL — PASILLO — INTERCALADO
 
-@Stella se para en seco en mitad de un pasillo. La risa todavía no se le ha
+Stella se para en seco en mitad de un pasillo. La risa todavía no se le ha
 ido del todo de la cara cuando ya se le está cayendo. Nunca ha oído a su
 padre usar esa voz.
 
-                    @STELLA
+                    STELLA
           ¿Papá? ¿Qué es ese ruido, qué está—
 
-                    @NAIO (V.O.)
+                    NAIO (V.O.)
           Ve a la cámara de la Fuente. Toma el
           Orbe con las dos manos. En el hangar
           oeste hay una cápsula. Siempre estuvo
           cargada. Siempre estuvo cargada para
           esto. Tómalo y vete del planeta.
 
-                    @STELLA
+                    STELLA
               (una risa de incredulidad)
           ¿Que me vaya? Papá, ¿irme a dónde? No
           entiendo nada de lo que—
 
-                    @NAIO (V.O.)
+                    NAIO (V.O.)
               (y aquí se le quiebra)
           Lejos. Tan lejos como puedas. Y no
           vuelvas hasta que—
@@ -334,42 +334,42 @@ padre usar esa voz.
 La transmisión chisporrotea. Otro temblor, más fuerte. Las luces del
 pasillo parpadean todas a la vez, como un pestañeo.
 
-@Stella mira a un lado del corredor: hacia la cámara de la Fuente. Mira al
-otro: hacia el ala de las habitaciones. Hacia su madre. Hacia @Selka.
+Stella mira a un lado del corredor: hacia la cámara de la Fuente. Mira al
+otro: hacia el ala de las habitaciones. Hacia su madre. Hacia Selka.
 
 Y elige. Por instinto, por amor, por la peor de las razones buenas: echa
 a correr en la dirección equivocada.
 
-                    @STELLA
+                    STELLA
           No me voy sin ellas.
 
-                    @NAIO (V.O.)
+                    NAIO (V.O.)
               (lejos ya, perdiéndose entre las
                alarmas)
-          ¡@Stella! ¡El Orbe primero! ¡@Stella,
+          ¡Stella! ¡El Orbe primero! ¡Stella,
           escúchame, el Orbe pri—!
 
 Ella se arranca el comunicador de la muñeca sin pensarlo y corre.
 
-Recuérdalo: esto es quién es @Stella. Cuando todo se rompe, corre hacia la
+Recuérdalo: esto es quién es Stella. Cuando todo se rompe, corre hacia la
 gente que ama y decide ella sola lo que eso significa. Hoy le costará a su
 hermana. Un día le costará mucho más.
 
 
 7. INT. PALACIO IMPERIAL — ALA RESIDENCIAL — CONTINUO
 
-@Stella entra como una exhalación en las habitaciones de la familia.
+Stella entra como una exhalación en las habitaciones de la familia.
 
 Vacías.
 
 Las cortinas se hinchan hacia adentro por una ventana abierta. Una silla
-volcada. Un juguete de @Selka en el suelo. Señales de una salida a la
+volcada. Un juguete de Selka en el suelo. Señales de una salida a la
 fuerza, o de una huida a la carrera, o de las dos cosas. Pero ni un alma.
 
-                    @STELLA
+                    STELLA
               (girando sobre sí misma, la voz
                subiendo)
-          ¿Mamá? ¡@Selka!
+          ¿Mamá? ¡Selka!
               (nada; solo las alarmas)
           ¡MAMÁ!
 
@@ -393,11 +393,11 @@ naiel ama desde que nace. Bello. Sereno. Gélido.
 
 A sus pies, la GUARDIA IMPERIAL —máquinas de guerra de cristal negro—
 sostiene en alto a una niña de cuatro años por el cuello. Los piececitos
-de @Selka patean el aire, sin alcanzar el suelo.
+de Selka patean el aire, sin alcanzar el suelo.
 
-@Stella entra corriendo y se convierte en piedra.
+Stella entra corriendo y se convierte en piedra.
 
-                    @STELLA
+                    STELLA
               (sin aire)
           Suéltala.
 
@@ -414,7 +414,7 @@ Abre una mano hacia ella. Una invitación. Una orden.
           sabes abrirla; llevas la sangre del
           Cauce en las venas. Bájalo y tráemelo.
 
-                    @STELLA
+                    STELLA
               (sin apartar los ojos de su hermana)
           Suéltala primero.
 
@@ -422,21 +422,21 @@ Abre una mano hacia ella. Una invitación. Una orden.
           No.
               (la sonrisa más pequeña del universo,
                sin un grado de calor)
-          El Orbe, @Stella. O tu hermana.
+          El Orbe, Stella. O tu hermana.
 
-La pequeña @Selka, aterrada, estira una manita temblorosa hacia @Stella. No
+La pequeña Selka, aterrada, estira una manita temblorosa hacia Stella. No
 entiende qué pasa. No entiende de reyes ni de orbes ni de traiciones. Solo
 sabe una cosa, con toda la certeza de sus cuatro años: que su hermana está
 ahí, y que su hermana lo arregla todo.
 
-Y algo en @Stella —catorce años, ni un solo día de dolor real en el
+Y algo en Stella —catorce años, ni un solo día de dolor real en el
 cuerpo— decide por ella antes de que la cabeza alcance a opinar.
 
-                    @STELLA
+                    STELLA
               (un grito que le sale del centro)
           ¡SUÉLTALA—!
 
-Se golpea el brazalete con la palma. @Gix estalla en el aire, ya no
+Se golpea el brazalete con la palma. Gix estalla en el aire, ya no
 juguetón sino enorme, una bestia de luz-agua furiosa, y se lanza contra la
 guardia.
 
@@ -446,18 +446,18 @@ una niña y un animal hecho de luz le ganen a un imperio entero.
 Por un instante.
 
 Y luego empieza la paliza, y no tiene nada de hermosa. Es real, fea,
-desigual. La guardia golpea a @Stella como se golpea a un objeto que
+desigual. La guardia golpea a Stella como se golpea a un objeto que
 estorba. Se oye la armadura abollándose. Se oye —y es el peor sonido— algo
-cediendo dentro de ella, seco. @Gix se interpone una y otra vez, recibe los
+cediendo dentro de ella, seco. Gix se interpone una y otra vez, recibe los
 golpes que puede, y con cada uno parpadea más débil, se apaga un poco más.
 
-@Stella escupe sangre sobre el mármol blanquísimo del suelo. La sangre es
+Stella escupe sangre sobre el mármol blanquísimo del suelo. La sangre es
 de un rojo obscenamente brillante contra tanto blanco.
 
-Pero la guardia, para terminar con ella, ha soltado a @Selka un segundo. Un
+Pero la guardia, para terminar con ella, ha soltado a Selka un segundo. Un
 solo segundo. El único hueco que va a existir en toda esta noche.
 
-Y @Stella no corre hacia su hermana.
+Y Stella no corre hacia su hermana.
 
 Medio ciega de dolor, con un ojo cerrándose, ve la boca abierta de la
 bóveda inferior y la luz azul latiendo dentro. Y entiende, en ese segundo,
@@ -469,7 +469,7 @@ Se arrastra hacia el Orbe.
 
 9. INT. BÓVEDA INFERIOR DE LA FUENTE — CONTINUO
 
-@Stella cae dentro más que entra. El Orbe flota ante ella, sin contención,
+Stella cae dentro más que entra. El Orbe flota ante ella, sin contención,
 desnudo, latiendo. De cerca es hermoso y es terrible, las dos cosas, y no
 se puede separar la una de la otra.
 
@@ -480,7 +480,7 @@ dolor blanco, eléctrico, que huele a carne. El Orbe no la reconoce como su
 cauce. La reconoce como lo que es —carne joven, asustada— y la rechaza.
 Chisporrotea, se le escurre entre los dedos quemados, vuelve a quemarla.
 
-                    @STELLA
+                    STELLA
               (entre dientes, llorando de dolor)
           Pásame limpio... pásame limpio...
           obedéceme, por favor, obed—
@@ -499,8 +499,8 @@ luz no es de nadie, y menos de quien la agarra con miedo.
           hermana. Tienes mi palabra. Mi palabra
           de Cauce Mayor.
 
-@Stella, abrazada a un Orbe que la quema y que no la quiere, levanta la
-vista. Mira hacia la cámara: hacia @Selka, otra vez colgando del puño de la
+Stella, abrazada a un Orbe que la quema y que no la quiere, levanta la
+vista. Mira hacia la cámara: hacia Selka, otra vez colgando del puño de la
 guardia. Mira la grieta que ya parte la pared en dos. Siente, bajo las
 rodillas, el suelo del palacio hundiéndose hacia ese punto profundo y
 hambriento.
@@ -514,8 +514,8 @@ dondequiera que esté. Y todos.
 La decisión la parte por la mitad, limpiamente, como un tajo. Y la mitad
 que sobrevive es la que ella va a odiar el resto de su vida.
 
-                    @STELLA
-              (a @Selka, un susurro que jamás le va
+                    STELLA
+              (a Selka, un susurro que jamás le va
                a llegar)
           Perdóname.
 
@@ -524,10 +524,10 @@ Y activa la mochila propulsora.
 
 10. INT. CÁMARA CENTRAL DE LA FUENTE — CONTINUO
 
-Con un estruendo que ahoga las alarmas, @Stella sale disparada hacia el
+Con un estruendo que ahoga las alarmas, Stella sale disparada hacia el
 techo, el Orbe abrasándole el pecho contra el que lo aprieta.
 
-Abajo, cada vez más pequeña, encogida en el puño de una máquina, @SELKA
+Abajo, cada vez más pequeña, encogida en el puño de una máquina, SELKA
 grita.
 
 No oímos el grito. El rugido de los propulsores se lo traga entero. Solo
@@ -535,21 +535,21 @@ vemos los labios de una niña de cuatro años formar un nombre, una vez, y
 otra, y otra, hacia el techo que se está tragando a la única persona del
 mundo que la arregla todo.
 
-                    @SELKA
+                    SELKA
               (sin un solo sonido)
-          ¡@Stella! ¡@Stella!
+          ¡Stella! ¡Stella!
 
 Es el reverso exacto del "perdóname". Dos nombres lanzados al aire al mismo
 tiempo, y ninguna de las dos oye el de la otra. Aquí, en este segundo
 exacto, empiezan veinte años.
 
-@Stella se mete por la boca de un conducto de ventilación. Detrás, los
+Stella se mete por la boca de un conducto de ventilación. Detrás, los
 robots de la guardia intentan seguirla y se atascan en el tubo estrecho:
 un crujido de metal forzado, una chispa, y una explosión en cadena recorre
 los conductos como un trueno bajo la piel del palacio. El muro estalla
 hacia afuera. La noche de la ciudad entra de golpe, fría y real.
 
-Y @Stella es escupida al cielo de Erdia.
+Y Stella es escupida al cielo de Erdia.
 
 
 11. EXT. CIELO DE ERDIA — NOCHE — CONTINUO
@@ -577,21 +577,21 @@ La cacería empieza.
 13. EXT. CIELO DE ERDIA — NOCHE — CONTINUO
 
 Cazas imperiales brotan de las torres como avispas. El fuego antiaéreo
-florece alrededor de la nave de @Stella en ramos de luz mortal. Un arpón
+florece alrededor de la nave de Stella en ramos de luz mortal. Un arpón
 magnético se clava en el fuselaje con un golpe sordo. Luego otro. La
 frenan. Le destrozan los motores.
 
 
 14. INT. NAVE DE ASALTO — CONTINUO
 
-Las consolas chillan en rojo. @Stella —una mano apretando el Orbe contra el
+Las consolas chillan en rojo. Stella —una mano apretando el Orbe contra el
 pecho, la otra peleando con unos controles que ya no responden— entiende,
 con una calma extraña, que no va a escapar volando.
 
 Mira la cápsula de eyección. Mira el indicador del núcleo de la nave. Y
 ata las dos cosas en su cabeza.
 
-                    @STELLA
+                    STELLA
               (a la nave, a su familia, a todo lo
                que está dejando atrás)
           Lo siento. Lo siento.
@@ -623,7 +623,7 @@ mira con atención ve, entre las nubes, las venas rojas extendiéndose.
 
 17. INT. CÁPSULA DE EYECCIÓN — CONTINUO
 
-@Stella, sola. El Orbe flota a su lado, ahora en calma, sereno, inocente,
+Stella, sola. El Orbe flota a su lado, ahora en calma, sereno, inocente,
 como si no acabara de costarle absolutamente todo. Ella tiene las palmas
 en carne viva, la cara cubierta de sangre seca, la respiración rota en
 pedacitos.
@@ -632,15 +632,15 @@ No mira por la ventanilla. No mira el planeta. Mira sus propias manos.
 Vacías. Las manos que tuvieron, durante un segundo, la posibilidad de
 sostener a su hermana, y eligieron sostener una luz.
 
-En su muñeca, el brazalete emite un brillo débil, intermitente. @Gix no
+En su muñeca, el brazalete emite un brillo débil, intermitente. Gix no
 sale. Solo late ahí dentro, tenue, como si él también estuviera demasiado
 herido para volver a tomar forma.
 
-@Stella abre el puño. Dentro sigue el juguete de @Selka, que recogió del
+Stella abre el puño. Dentro sigue el juguete de Selka, que recogió del
 suelo del cuarto vacío y que no ha soltado en toda la huida.
 
-                    @STELLA
-              (un hilo de voz, al juguete, a @Gix,
+                    STELLA
+              (un hilo de voz, al juguete, a Gix,
                a una hermana que no la oye, a nadie)
           Que pasen limpio.
 
@@ -653,7 +653,7 @@ es el llanto de una niña. Es el llanto del primer día de alguien a quien
 le acaban de arrancar la niñez de cuajo.
 
 La cápsula se aleja, despacio, hacia la oscuridad absoluta. Se lleva a
-@Stella. Y se lleva el corazón robado de un mundo entero.
+Stella. Y se lleva el corazón robado de un mundo entero.
 
 FUNDIDO A NEGRO.
 

@@ -1,6 +1,6 @@
 # @Gix — Ficha de referencia (LÁMINA YA CREADA ✅)
 > Diseño final recibido (character sheet "AHOROTL · 光のアホロートル · espíritu del agua y la luz").
-> Súbelo a Higgsfield → Elementos con el nombre exacto **@Gix**. Esta ficha describe la lámina real
+> Súbelo a Higgsfield → Elementos con el nombre exacto **Gix**. Esta ficha describe la lámina real
 > para que todos los prompts lo rendericen igual.
 
 ## Diseño FINAL (de la lámina)
@@ -9,11 +9,11 @@
 - **Cara:** SÍ tiene cara — **ojos grandes oscuros** muy expresivos y **sonrisa suave**. Tierno, empático.
 - **Branquias:** las branquias externas como **frondas de luz DORADA** que irradian de la cabeza
   (*branquias luminosas*).
-- **Piel:** translúcida, **sembrada de estrellitas/puntos de luz dorada** (piel estrellada → liga con *@Stella*).
+- **Piel:** translúcida, **sembrada de estrellitas/puntos de luz dorada** (piel estrellada → liga con *Stella*).
 - **Cola:** larga, con aletas, que **deja estelas/corrientes de luz** al moverse.
 - **Alrededor:** flotan **partículas de luz viva** (pequeños orbes dorados).
 - **Núcleo:** un **resplandor cálido dorado reunido en el pecho translúcido** (es lo que "sostiene el
-  corazón" de @Stella; se apaga hasta quedar **brasa** en el final).
+  corazón" de Stella; se apaga hasta quedar **brasa** en el final).
 - **Paleta:** azules navy/teal de la luzagua + **un dorado cálido** (branquias, puntos, partículas, brillo
   de los ojos). El cuerpo es azul-AGUA-vivo, **nunca gris-acero frío** (ese es el Imperio).
 - **Rasgos:** luminoso · curioso · empático.
@@ -24,10 +24,10 @@
   determinado/triste en el clímax, dormido = brasa en el final.)
 
 ## Canon (función en la película)
-- Nació del **ADN de @Stella** (invento de @Naio) → por eso "le sostiene el corazón"; puente de revivificación.
+- Nació del **ADN de Stella** (invento de Naio) → por eso "le sostiene el corazón"; puente de revivificación.
 - Se invoca desde el `@Brazalete` con un repique suave; flota, juega, baila en la palma.
 - Es la **luz cálida** que contrasta con el frío del mundo a medida que Erdia se pudre.
-- Su **brasa apagándose = el reloj de vida de @Stella** en coma (último plano de la peli).
+- Su **brasa apagándose = el reloj de vida de Stella** en coma (último plano de la peli).
 
 ---
 
@@ -41,7 +41,7 @@ light**; small **living golden light-particles** drifting around it; a **warm go
 its translucent chest**. Palette: navy-teal luzagua blues + warm gold accents — **water-light, never cold
 steel-grey** (that belongs to the Empire).
 
-Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting,
+Style: Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch,
 fluid motion, film-grade lighting, soft grain. 21:9. Setting per scene (`@ParqueLuzagua`, `@Laboratorio`,
-`@SalaTrono`, `@TanqueSoporte`…). Negative: gentle stylized action, no on-screen text, no watermark;
+`@SalaTrono`, `@TanqueSoporte`…). Negative: no blood, no gore, no guns, no on-screen text, no watermark;
 not scary, not a fleshy real salamander, no cold steel-blue.

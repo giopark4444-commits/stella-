@@ -22,12 +22,12 @@ GENERAL
 (sin mirar arriba)
 Tarde.
 
-El cristal estalla. @STELLA (19) cae nueve metros y revienta el
+El cristal estalla. STELLA (19) cae nueve metros y revienta el
 suelo de mármol con las rodillas. Polvo. Se incorpora despacio.
 Las dos hermanas se miran por primera vez en veinte años. Una no
 lo sabe.
 
-@STELLA
+STELLA
 Te he buscado mucho tiempo.
 
 GENERAL
@@ -41,10 +41,10 @@ GENERAL (CONT'D)
 Tú buscas morir en buena compañía.
 
 [Choque. Coreografía: ella es precisión quirúrgica, economía total
-de movimiento. @Stella es fuerza, instinto, espacio abierto. La
-General no falla un golpe; @Stella no devuelve ninguno con filo.]
+de movimiento. Stella es fuerza, instinto, espacio abierto. La
+General no falla un golpe; Stella no devuelve ninguno con filo.]
 
-@Stella bloquea, rueda, se levanta. No ataca el cuerpo. Golpea el
+Stella bloquea, rueda, se levanta. No ataca el cuerpo. Golpea el
 arma, la desvía, busca las muñecas. Intenta *desarmarla*, no
 herirla.
 
@@ -52,16 +52,16 @@ GENERAL (CONT'D)
 (notándolo, irritada)
 ¿Por qué no peleas?
 
-@STELLA
+STELLA
 Porque sé quién eres.
 
 Eso la detiene medio segundo. Solo medio. Vuelve a cargar.
 
-Un tajo abre la armadura de @Stella en el costado. Ella cae sobre
+Un tajo abre la armadura de Stella en el costado. Ella cae sobre
 una rodilla, jadeando. Levanta una mano —no para atacar. Para
 pedir.
 
-@STELLA (CONT'D)
+STELLA (CONT'D)
 Mamá.
 (la General se queda quieta)
 Quiero que me digas por qué mataste a mamá.
@@ -72,19 +72,19 @@ GENERAL
 (plana, sin emoción — y eso es lo terrible)
 He ejecutado a trescientas cuarenta personas en veinte años.
 
-Da un paso hacia @Stella.
+Da un paso hacia Stella.
 
 GENERAL (CONT'D)
 No recuerdo a ninguna como "mamá".
 (más bajo, casi para sí)
 Las impostoras siempre dicen que te quieren. Es la primera mentira.
 
-@STELLA
+STELLA
 (rota)
 No era una impostora. Era nuestra—
 
 La General no la deja terminar. Un golpe brutal con el pomo del
-sable. @Stella se estrella contra el pie del trono. El mundo le da
+sable. Stella se estrella contra el pie del trono. El mundo le da
 vueltas.
 
 La General se inclina sobre ella. Mecánica. Sin odio, que sería más
@@ -99,11 +99,11 @@ Por la luz que nos robaste.
 
 ARRANCA el Orbe.
 
-[El grito de @Stella no sale: es un colapso. Los ojos en blanco. La
+[El grito de Stella no sale: es un colapso. Los ojos en blanco. La
 luz de su piel se apaga de golpe, como una ciudad quedándose sin
 energía, calle por calle.]
 
-@Stella se desploma. Inmóvil. Un cascarón.
+Stella se desploma. Inmóvil. Un cascarón.
 
 La General se yergue, el Orbe latiendo en su puño. No lo mira con
 codicia. Lo mira como quien por fin termina un turno larguísimo.
@@ -112,10 +112,10 @@ GENERAL (CONT'D)
 (a los rebeldes, sin volverse)
 Ya pueden contarlo. La traidora cayó.
 
-Nadie aplaude. Los rebeldes miran a @Stella. Uno de ellos llora en
+Nadie aplaude. Los rebeldes miran a Stella. Uno de ellos llora en
 silencio.
 
-La General nota algo: el brazalete en la muñeca de @Stella parpadea
+La General nota algo: el brazalete en la muñeca de Stella parpadea
 una vez. Débil. Como un latido que se niega a ser el último.
 
 Ella aparta la vista. No tiene tiempo para luces.
@@ -132,7 +132,7 @@ CORTE A:
 - **Subtexto.** La General no dice "estoy vacía". Dice "no recuerdo a ninguna
   como mamá" y "las impostoras siempre dicen que te quieren". El hueco emocional
   se *muestra*, no se anuncia.
-- **El gesto de @Stella (la mano que pide, no que ataca)** comunica su tesis sin
+- **El gesto de Stella (la mano que pide, no que ataca)** comunica su tesis sin
   un discurso.
 - **"Por la luz que nos robaste" como rezo aprendido** planta que su odio es
   *doctrina inyectada*, no convicción propia — prepara el quiebre del acto

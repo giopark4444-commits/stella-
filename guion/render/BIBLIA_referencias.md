@@ -17,7 +17,7 @@
 
 **`@STYLE`** (look maestro — fijado por las láminas de referencia de Gio):
 ```
-traditional hand-painted 2D anime background art in the style of classic Studio painterly watercolor
+traditional hand-painted 2D anime background art in the style of classic Studio Ghibli
 feature films (Nausicaä, Princess Mononoke, Castle in the Sky), gouache-and-watercolor
 texture with visible painterly brushwork, soft cel-shaded forms, lush hand-drawn organic
 detail, painterly volumetric cumulus clouds, gentle naturalistic light with luminous
@@ -48,7 +48,7 @@ no un rasgo de raza). Toda la luz es **luz-agua** (nai): fluye, no se posee. Nad
 
 > `[PILOTO]` = aparece en el Arranque (primeros 8 clips). Esos los generamos primero.
 
-### `@stella_14` · @Stella (14 años) `[PILOTO]`
+### `@stella_14` · Stella (14 años) `[PILOTO]`
 - **ref_id:** `91f736eb` ✅ (16:9)
 - **Quién:** protagonista. Adolescente despreocupada; nunca le ha pasado nada malo.
 - **Prompt de referencia:**
@@ -59,9 +59,9 @@ catch light, light woven tunic of soft organic fabric in cream and pale gold, a 
 light-water bracelet on her wrist, joyful carefree expression, neutral background. @STYLE
 ```
 
-### `@gix` · @Gix (ajolote de luz) `[PILOTO]`
+### `@gix` · Gix (ajolote de luz) `[PILOTO]`
 - **ref_id:** `6df90230` ✅ (16:9 limpia)
-- **Quién:** mascota bioluminiscente del brazalete; regalo del padre. Protege a @Stella. Es nai puro.
+- **Quién:** mascota bioluminiscente del brazalete; regalo del padre. Protege a Stella. Es nai puro.
 - **Prompt de referencia:**
 ```
 Creature reference, a bioluminescent axolotl made of living light-water, the size of a
@@ -70,9 +70,9 @@ undulating tail, releases small warm glowing bubbles, swims through the air, sof
 and warm gold glow, neutral dark background. @STYLE
 ```
 
-### `@vera` · @Vera (madre, 40s) `[PILOTO]`
+### `@vera` · Vera (madre, 40s) `[PILOTO]`
 - **ref_id:** `277e86db` ✅ (16:9 limpia)
-- **Quién:** madre de @Stella y @Selka. Belleza cansada y verdadera. Luego, líder de la resistencia.
+- **Quién:** madre de Stella y Selka. Belleza cansada y verdadera. Luego, líder de la resistencia.
 - **Prompt de referencia:**
 ```
 Character reference, a beautiful alien woman in her forties, impeccable pure white hair
@@ -80,9 +80,9 @@ worn up, weary but warm and dignified face, fine lines that read as truth not ag
 flowing robe in deep teal and silver, calm protective presence, neutral background. @STYLE
 ```
 
-### `@selka_4` · @Selka (hermanita, 4 años, dormida) `[PILOTO]`
+### `@selka_4` · Selka (hermanita, 4 años, dormida) `[PILOTO]`
 - **ref_id:** `ed9c4bf8` ✅ (16:9)
-- **Quién:** la hermana pequeña. En el Arranque está dormida en brazos de @Vera.
+- **Quién:** la hermana pequeña. En el Arranque está dormida en brazos de Vera.
 - **Prompt de referencia:**
 ```
 Character reference, a sleeping 4-year-old alien girl, soft pure white hair, round
@@ -90,7 +90,7 @@ peaceful face, cheek pressed against a shoulder, tiny pale tunic, serene, neutra
 background. @STYLE
 ```
 
-### `@naio` · @Naio (padre, 50s) `[PILOTO]`
+### `@naio` · Naio (padre, 50s) `[PILOTO]`
 - **ref_id:** `cb71672a` ✅ (16:9 limpia)
 - **Quién:** Científico Jefe, Guardián de la Fuente. Brillante y distraído; ternura grave.
 - **Prompt de referencia:**
@@ -101,17 +101,17 @@ warm grey and amber with luminous instrument-thread details, gentle authority, n
 background. @STYLE
 ```
 
-### `@selka_general` · @Selka (la General, adulta) `[futuro]`
+### `@selka_general` · Selka (la General, adulta) `[futuro]`
 - **ref_id:** `7bcc38fc` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
 Character reference, an adult alien woman, perfect impossibly white hair (artificially
 maintained), cold flawless beautiful face, scarred discipline in her eyes, dark armored
-uniform of the Hollow Guard with pale light accents, a thin light-cutter at her side,
+uniform of the Hollow Guard with pale light accents, a thin light-blade at her side,
 imperial and hollow, neutral background. @STYLE
 ```
 
-### `@stella_adulta` · @Stella adulta (pelo teñido) `[futuro]`
+### `@stella_adulta` · Stella adulta (pelo teñido) `[futuro]`
 - **ref_id:** `13741e20` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
@@ -121,7 +121,7 @@ gear of a hunter's crew, the glowing light-water bracelet still on her wrist, ne
 background. @STYLE
 ```
 
-### `@theron` · @Theron (el Cazador) `[futuro]`
+### `@theron` · Theron (el Cazador) `[futuro]`
 - **ref_id:** `b8b2b3fa` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
@@ -130,7 +130,7 @@ weathered face, utilitarian dark coat and tracking gear, an eye/sensor device th
 him locate anyone, cold professional presence, neutral background. @STYLE
 ```
 
-### `@brog` · @Brog (tripulación, leal) `[futuro]`
+### `@brog` · Brog (tripulación, leal) `[futuro]`
 - **ref_id:** `67ddd9dc` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
@@ -138,7 +138,7 @@ Character reference, a big burly good-hearted alien crew member, rough features,
 loyal eyes, practical worn flight gear, gentle giant energy, neutral background. @STYLE
 ```
 
-### `@nima` · @Nima (tripulación) `[futuro]`
+### `@nima` · Nima (tripulación) `[futuro]`
 - **ref_id:** `d5e105d9` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
@@ -146,7 +146,7 @@ Character reference, a quick agile alien crew member, sharp clever eyes, light p
 flight gear with tools, wry expression, neutral background. @STYLE
 ```
 
-### `@noah` · @Noah (guerrero humano de la Tierra) `[futuro]`
+### `@noah` · Noah (guerrero humano de la Tierra) `[futuro]`
 - **ref_id:** `a48d6010` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
@@ -155,9 +155,9 @@ dark hair, ordinary human features, scavenged warrior's armor, grounded and out 
 among aliens, brave tired eyes, neutral background. @STYLE
 ```
 
-### `@marek` · @Marek (2º líder de la resistencia = el Rey infiltrado) `[futuro]`
+### `@marek` · Marek (2º líder de la resistencia = el Rey infiltrado) `[futuro]`
 - **ref_id:** `6108f350` ✅ (16:9 limpia)
-- **Quién:** se ve como camarada noble y de fiar; ES el Rey/@Vorthan disfrazado (el topo). Diseño cálido y confiable.
+- **Quién:** se ve como camarada noble y de fiar; ES el Rey/Vorthan disfrazado (el topo). Diseño cálido y confiable.
 - **Prompt de referencia:**
 ```
 Character reference, a warm trustworthy alien man, white hair, open honest comrade's
@@ -166,7 +166,7 @@ faintest uncanny stillness behind the eyes (he is the disguised King), neutral
 background. @STYLE
 ```
 
-### `@vosk` · @Vosk (el matón de la nave nodriza) `[futuro]`
+### `@vosk` · Vosk (el matón de la nave nodriza) `[futuro]`
 - **ref_id:** `48370937` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
@@ -174,7 +174,7 @@ Character reference, a hard aggressive alien crew bully, harsh angular features,
 expression, heavy worn gear, intimidating build, neutral background. @STYLE
 ```
 
-### `@vorthan_real` · @Vorthan / el Parásito (forma real) `[futuro]`
+### `@vorthan_real` · Vorthan / el Parásito (forma real) `[futuro]`
 - **ref_id:** `90f40f08` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```
@@ -220,9 +220,9 @@ calm functional emptiness, light receding into depth, no people. @STYLE
 ```
 > Ref directa de Gio: lámina 4 "PASILLOS – SANTUARIO DEL NÚCLEO PROFUNDO". Esto SUSTITUYE
 > el viejo "mármol blanco dorado": el palacio es teal + núcleo, no mármol. Las inscripciones
-> numéricas conectan con la siembra de @Naio ("...¿y tú de dónde sales?").
+> numéricas conectan con la siembra de Naio ("...¿y tú de dónde sales?").
 
-### `@taller_naio` · Palacio — Taller de @Naio `[PILOTO]`
+### `@taller_naio` · Palacio — Taller de Naio `[PILOTO]`
 - **ref_id:** `53c4e86f` ✅
 ```
 Environment reference, a tall sanctuary chamber of the deep core in the same teal-green
@@ -270,7 +270,7 @@ pulsing like a sleeping heart, held behind a translucent containment field, cast
 rippling blue light on everything around it, sacred and alive. @STYLE
 ```
 
-### `@brazalete` · El brazalete de @Stella `[PILOTO]`
+### `@brazalete` · El brazalete de Stella `[PILOTO]`
 - **ref_id:** `b65e3b42` ✅ (16:9)
 ```
 Prop reference, an elegant wrist bracelet of woven light, emitting a thread of
@@ -292,10 +292,10 @@ Prop reference, a small public fountain of liquid light, an old caretaker dips a
 lifts it full of glowing liquid light, children gather to listen to it. @STYLE
 ```
 
-### `@sable_selka` · El sable de luz de @Selka `[futuro]`
+### `@sable_selka` · El sable de luz de Selka `[futuro]`
 - **ref_id:** `800951ae` ✅ (16:9 · Nano Banana)
 ```
-Prop reference, a thin elegant light-cutter of the Hollow Guard's General, cold pale
+Prop reference, a thin elegant light-blade of the Hollow Guard's General, cold pale
 cutting light. @STYLE
 ```
 

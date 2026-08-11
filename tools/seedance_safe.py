@@ -90,6 +90,18 @@ FRASES = [
     # -- cautiverio / mina (clase de alto riesgo)
     (r"kneel a used-up prisoner for execution", "kneel a spent captive before the crowd"),
     (r"\bfor execution\b", "before the crowd"),
+    # OJO al articulo: "an execution" -> "an sentencing" seria agramatical.
+    # La forma con articulo va PRIMERO y cambia "an" por "a".
+    (r"\ban execution platform\b", "a sentencing platform"),
+    (r"\bAn execution platform\b", "A sentencing platform"),
+    (r"\bexecution platform\b", "sentencing platform"),
+    (r"\ban execution\b", "a sentencing"),
+    (r"\bAn execution\b", "A sentencing"),
+    (r"they mean to execute a used-up prisoner", "they mean to make an example of a spent captive"),
+    (r"\bexecutioner's\b", "guard's"),
+    (r"\bexecutioners\b", "guards"),
+    (r"\bexecutioner\b", "guard"),
+    (r"\bexecute\b", "condemn"),
     (r"columns of shackled slaves", "columns of bound workers"),
     (r"\bshackled slaves\b", "bound workers"),
     (r"aged, chained, a slave in a fog-mine", "aged and bound, held in a fog-mine"),
@@ -158,6 +170,10 @@ FRASES = [
     (r"\bscreaming near-misses\b", "shrieking near-misses"),
     (r"\bscream\b", "cry"),
     # -- explosiones (se conservan, pero "clean burst of light" ya era el canon)
+    # las formas con articulo van ANTES que la generica \bexplosion\b, o esta
+    # se adelanta y deja "an burst of light".
+    (r"\ban explosion\b", "a burst of light"),
+    (r"\bAn explosion\b", "A burst of light"),
     (r"a clean explosion", "a clean burst of light"),
     (r"\bexplosion\b", "burst of light"),
     (r"a wall explodes", "a wall blows inward"),
@@ -179,7 +195,9 @@ PALABRAS = [
     (r"\bmurdered\b", "taken"),
     (r"\bmurder\b", "taking"),
     (r"\bexecuted\b", "ended"),
-    (r"\bexecution\b", "sentence"),
+    (r"\ban explosion\b", "a burst of light"),
+    (r"\bAn explosion\b", "A burst of light"),
+    (r"\bexecution\b", "sentencing"),
     (r"\bcorpse\b", "still figure"),
     # OJO: "blood" nunca se traduce a "light". Si un "no blood" se colara hasta
     # aqui, el respaldo escribiria "no light" — una instruccion destructiva para
@@ -296,12 +314,16 @@ def main():
     if not (args.apply or args.check):
         ap.error("usa --check o --apply")
 
-    # Todo el guion y todo lo que alimenta prompts. Se excluye el archivo de la
-    # v1 (canon retirado) para no ensuciar el historico.
-    patrones = ["guion/*.md", "guion/*.html", "guion/*.csv", "guion/*.txt",
-                "guion/render/*.md", "guion/render/**/*.md"]
+    # Lo que se manda a Seedance (prompts) + el guion, que es de donde salen.
+    # Se escriben COPIAS con sufijo _SEEDANCE: los originales de Gio no se tocan.
+    patrones = ["guion/PROMPTS_*.md", "guion/PROMPTS_*.txt", "guion/PROMPTS_*.html",
+                "guion/GUION_P1_v2.md", "guion/GUION_WEB.html",
+                "guion/SCRIPT_P1_v2_EN.md", "guion/SCRIPT_P1_v2_EN.html",
+                "guion/GUION_P1_v2_DIALOGOS_EN.md", "guion/GUION_P1_v2_DIALOGOS_EN.html",
+                "guion/GUION_TECNICO.html", "guion/STORYBOARD.html",
+                "guion/PRODUCCION_clips_*.md", "guion/PRODUCCION_setup_visual.md"]
     archivos = sorted({f for p in patrones for f in glob.glob(p, recursive=True)
-                       if "_archivo_guion_v1" not in f})
+                       if "_archivo_guion_v1" not in f and "_SEEDANCE" not in f})
 
     cambiados, total_bytes = 0, 0
     resumen = collections.Counter()
@@ -314,10 +336,18 @@ def main():
         if nuevo != original:
             cambiados += 1
             total_bytes += abs(len(nuevo) - len(original))
-            resumen[path.split("/")[-1]] = sum(
+            # el destino es una COPIA: NOMBRE_SEEDANCE.ext, nunca el original
+            base, punto, ext = path.rpartition(".")
+            destino = f"{base}_SEEDANCE.{ext}"
+            if destino.endswith(".html"):
+                # que el titulo delate la variante en la pestana del navegador
+                nuevo = re.sub(r"(<title>)(.*?)(</title>)",
+                               lambda m: m.group(1) + m.group(2) + " · Seedance" + m.group(3),
+                               nuevo, count=1)
+            resumen[destino.split("/")[-1]] = sum(
                 1 for a, b in zip(original.split("\n"), nuevo.split("\n")) if a != b)
             if args.apply:
-                open(path, "w", encoding="utf-8").write(nuevo)
+                open(destino, "w", encoding="utf-8").write(nuevo)
 
     print(f"Archivos analizados : {len(archivos)}")
     print(f"Archivos modificados: {cambiados}")

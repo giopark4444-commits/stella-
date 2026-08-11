@@ -118,6 +118,23 @@ check("data-txt conserva mayusculas", _txt, debe_contener=["Style:", "Negative:"
 # los identificadores estructurales NO se tocan: el JS los compara literalmente
 check("data-c/data-k intactos", o3, debe_contener=['data-c="a1"', 'data-k="stella"'])
 
+# --- 9d. CONCORDANCIA DEL ARTICULO -----------------------------------------
+# Cambiar una palabra que empieza por vocal por otra que empieza por consonante
+# rompe el "an". Este bug llego a produccion como "An sentence platform".
+for antes, prohibido in [
+    ("Pan up to an execution platform above the pit.", "an sentencing"),
+    ("An execution platform over the pit.", "An sentencing"),
+    ("SFX only — an explosion, rushing wind.", "an burst"),
+]:
+    r = transformar(antes)
+    check(f"articulo en {antes[:28]!r}", r, no_debe_contener=[prohibido, " an s", " an b"])
+
+# formas de "execut*" que la frontera de palabra dejaba vivas
+for antes in ["they mean to execute a used-up prisoner",
+              "deflects the executioner's light-strike",
+              "Characters: @Vosk, executioners."]:
+    check(f"execut en {antes[:24]!r}", transformar(antes), no_debe_contener=["execut"])
+
 # --- 10. no se rompe el marcado de las etiquetas ---------------------------
 html2 = '<div class="f"><span class="fl">Style:</span> Satoshi Kon–style anime</div>'
 out2 = transformar_html(html2)
