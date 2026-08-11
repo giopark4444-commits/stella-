@@ -1,14 +1,14 @@
 # PELÍCULA 1 — SECUENCIA FINAL: "FUI YO"
 
 > El clímax que vende toda la saga. Arranca justo donde termina la escena del trono
-> (doc A): Stella en el suelo, sin el Orbe, en coma. La General de pie con el Orbe en
+> (doc A): @Stella en el suelo, sin el Orbe, en coma. La General de pie con el Orbe en
 > el puño. Formato de guion. [Corchetes] = notas de dirección.
 
 ---
 
 SECUENCIA 18 — INT. SALA DEL TRONO, PALACIO IMPERIAL — NOCHE
 
-El Orbe late en el puño de la GENERAL. A sus pies, STELLA: inmóvil,
+El Orbe late en el puño de la GENERAL. A sus pies, @STELLA: inmóvil,
 la piel apagada. Los REBELDES encadenados, en silencio.
 
 El REY entra. Túnica impecable. Rostro perfecto. Tiende la mano.
@@ -68,13 +68,13 @@ dolorosamente gentil.
 
 [Dos reacciones simultáneas. CORTAR entre ellas.]
 
-ÁNGULO — STELLA, en el suelo.
+ÁNGULO — @STELLA, en el suelo.
 El pulso apagándose. La visión borrosa. Ve a la mujer acercarse.
 No ve el monstruo. Ve a su MADRE.
 
 Una lágrima le resbala. Sonríe. Paz.
 
-STELLA
+@STELLA
 (apenas audible)
 Mamá... viniste.
 
@@ -143,7 +143,7 @@ Un solo movimiento, a una velocidad imposible de seguir.
 El brazo de la General cae al mármol.
 
 Ella ni siquiera grita. Cae de rodillas, mirando el muñón, mirando a
-Stella muerta a tres metros, mirando todo lo que le quitaron en una
+@Stella muerta a tres metros, mirando todo lo que le quitaron en una
 sola noche.
 
 El Parásito IGNORA a la General. Empieza a destrozar el palacio para
@@ -151,15 +151,15 @@ desenterrar algo enorme y latente bajo los cimientos: su NAVE NODRIZA.
 
 EXPLOSIÓN — el muro vuela en pedazos.
 
-BROG (mole de roca) y NIMA (cuatro brazos) irrumpen bajo fuego pesado.
+@BROG (mole de roca) y @NIMA (cuatro brazos) irrumpen bajo fuego pesado.
 
-NIMA
+@NIMA
 (gritando sobre el caos)
 ¡La niña! ¿Dónde está la—
-(ve a Stella)
+(ve a @Stella)
 No. No, no, no—
 
-Nima CARGA el cuerpo inerte de Stella. Brog agarra a la General por el
+@Nima CARGA el cuerpo inerte de @Stella. @Brog agarra a la General por el
 muñón cauterizado y la arrastra. Ella no se resiste. No le queda nada
 para resistir.
 
@@ -167,7 +167,7 @@ GENERAL
 (murmurando, ida)
 La maté. Sin tocarla, la maté.
 
-BROG
+@BROG
 (media lengua, una sola palabra grave)
 ...Vienes.
 
@@ -182,10 +182,10 @@ Erdia se resquebraja. Líneas de fuego cruzan el planeta entero.
 
 INT. NAVE DEL CAZADOR — BAHÍA — CONTINUO
 
-Nima deposita a Stella en una cápsula de soporte vital. Las máquinas
+@Nima deposita a @Stella en una cápsula de soporte vital. Las máquinas
 chillan: **sin pulso.**
 
-Brog suelta a la General contra un mamparo. Ella se queda ahí,
+@Brog suelta a la General contra un mamparo. Ella se queda ahí,
 sentada, un solo brazo, mirando el cristal donde flota el cuerpo de su
 hermana.
 
@@ -201,7 +201,7 @@ Veinte mil años persiguiéndolo. Por fin tiene lo que vino a buscar.
 (beat)
 Y por fin sé dónde va a llevarlo.
 
-La General apoya su única mano contra el cristal del tanque de Stella.
+La General apoya su única mano contra el cristal del tanque de @Stella.
 
 GENERAL
 (susurro, a la hermana muerta que no la oye)
@@ -209,7 +209,7 @@ No sabía que eras tú.
 (la voz se rompe)
 Despierta. Despierta y déjame decírtelo a la cara.
 
-PUSH IN lento sobre el rostro inmóvil de Stella tras el cristal.
+PUSH IN lento sobre el rostro inmóvil de @Stella tras el cristal.
 
 CORTE A NEGRO.
 
@@ -220,18 +220,18 @@ FIN DE LA PELÍCULA 1
 ---
 
 ## Por qué este final vende la saga
-- **Doble lectura de la misma imagen:** la madre como consuelo (Stella muere en paz) y
+- **Doble lectura de la misma imagen:** la madre como consuelo (@Stella muere en paz) y
   como tortura (la General oye la verdad). Tu mejor idea, puesta en el lugar de máximo
   impacto.
 - **La nana** convierte un dato ("le borraron el recuerdo") en una herida física y
   audible. Es el detalle que rompe a la General — no la frase del monstruo, sino darse
   cuenta de qué le robaron.
-- **Derrota + verdad + juramento:** Stella muere, el villano gana y escapa, PERO la
+- **Derrota + verdad + juramento:** @Stella muere, el villano gana y escapa, PERO la
   General despierta del engaño y el Cazador sabe adónde ir. Hay suelo para la Peli 2.
-- **Brog y Nima** entran en acción al final con peso emocional, no como relleno —
+- **@Brog y @Nima** entran en acción al final con peso emocional, no como relleno —
   preparan que la Peli 2 sea la película de la tripulación + la General.
 
 ## Nota de continuidad para la Peli 2
 La General cierra diciendo "despierta y déjame decírtelo a la cara". Eso es,
 literalmente, el deseo que mueve toda la Peli 2: recuperar el Orbe para revivir a
-Stella y poder, por fin, mirarla a los ojos.
+@Stella y poder, por fin, mirarla a los ojos.

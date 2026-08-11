@@ -20,9 +20,9 @@
 | `@Stella` (~19, pelo teñido) | la misma, pero **pelo teñido oscuro**, mayor, traje nuevo (Acto 3) | ⬜ (si no hay, teñir digitalmente la ref de @Stella) | ⬜ |
 | `@SelkaBebe` (bebé) | bebé, mechón blanco, **grey-blue eyes**, envuelta en tela pálida | ⬜ (no la ubiqué) | ⬜ |
 | `@Selka` (la General, adulta) | mujer joven, **pelo blanco largo suelto**, armadura **MK-II blanca/dorada imperial**, **hoja de luz**, **grey-blue eyes**, fría | carpeta **Stella_Familly** — "SOLDADO DEL IMPERIO", guerrera de élite | ✅ |
-| `@SelkaNiña` (forma del "Fui yo") | Selka de **niña pequeña**, pelo blanco, grey-blue eyes (misma cara que la General pero infantil) | ⬜ (derivar de @Selka) | ⬜ |
+| `@SelkaNiña` (forma del "Fui yo") | @Selka de **niña pequeña**, pelo blanco, grey-blue eyes (misma cara que la General pero infantil) | ⬜ (derivar de @Selka) | ⬜ |
 | `@Vera` (madre) | ~40, **pelo blanco largo** semi-recogido, rostro cálido y fuerte, túnicas naiel oro/blanco, **grey-blue eyes** | ⬜ (no la ubiqué) | ⬜ |
-| `@FiguraEncapuchada` (=Vera, resistencia) | figura encapuchada, manos de mujer, **mechón blanco** asomando (no se ve la cara) | ⬜ (variante encapuchada de @Vera) | ⬜ |
+| `@FiguraEncapuchada` (=@Vera, resistencia) | figura encapuchada, manos de mujer, **mechón blanco** asomando (no se ve la cara) | ⬜ (variante encapuchada de @Vera) | ⬜ |
 | `@Naio` (padre, científico) | ~45, pelo blanco, ojos cansados y amables, bata sobre túnica naiel | ⬜ | ⬜ |
 | `@Naio` (anciano esclavo) | el mismo, viejo, encorvado, medio ciego, andrajos de mina | ⬜ | ⬜ |
 | `@Gix` (ser de luz) | pequeño ser de **luz cálida**, brillo tipo luciérnaga, núcleo geométrico tenue | ⬜ | ⬜ |
@@ -36,8 +36,8 @@
 | `@Noah` (humano) | joven, **pelo oscuro alborotado**, pañuelo, espadachín, pecas/tierra | carpeta **Character_Drafts** — "SKILLS SHEET" espadas/armas | ✅ |
 | `@Vosk` (matón → leal) | grande, cicatrices, rudo | ⬜ | ⬜ |
 | `@PilotoAliada` | mujer naiel adulta, pelo blanco, rostro resuelto, traje de vuelo | ⬜ | ⬜ |
-| `@Korin` / `@Lessa` (leales de Vera) | naieli mayores, resistencia | ⬜ | ⬜ |
-| `@Marek` (líder resistencia) 🔒 | hombre de voz cálida y firme, carismático (en realidad Vorthan) | ⬜ | ⬜ |
+| `@Korin` / `@Lessa` (leales de @Vera) | naieli mayores, resistencia | ⬜ | ⬜ |
+| `@Marek` (líder resistencia) 🔒 | hombre de voz cálida y firme, carismático (en realidad @Vorthan) | ⬜ | ⬜ |
 | **Unidad de reconocimiento** (a confirmar) | pelo blanco a la barbilla, armadura de recon, "04" | carpeta **Stella_Sister** — *¿es @Stella o @Selka recon?* | 🟡 confirmar |
 
 ## 🌍 LOCACIONES
@@ -60,19 +60,19 @@
 |---|---|---|---|
 | `@Orbe` | esfera de luzagua pura, late como corazón, se reduce a la palma | ⬜ | ⬜ |
 | `@Brazalete` | brazalete de muñeca que invoca a @Gix | ⬜ | ⬜ |
-| `@LlaveDeLuz` | sigilo-llave de luz bajo la piel de la palma de Stella | ⬜ | ⬜ |
+| `@LlaveDeLuz` | sigilo-llave de luz bajo la piel de la palma de @Stella | ⬜ | ⬜ |
 | `@MonitorMAX` | monitor de muñeca, barra que se llena y marca "MAX" | ⬜ | ⬜ |
 | `@CuchilloLaser` | hoja de luz pequeña (herramienta, no arma de fuego) | ⬜ | ⬜ |
 | `@MechaFlores` | mecha de guerra colosal, arrodillado, cubierto de flores | ⬜ | ⬜ |
-| `@NaveStella` | nave pequeña de huida de Vera | ⬜ | ⬜ |
+| `@NaveStella` | nave pequeña de huida de @Vera | ⬜ | ⬜ |
 
 ---
 
 ## RESUMEN DE ESTADO
 - ✅ **Confirmados (5):** @Stella (trenza), @Stella (niña), @Selka (General), @S1G1, @Noah.
-- 🟡 **Por confirmar (3):** @RobotImperial, la unidad de recon (¿Stella o Selka?).
+- 🟡 **Por confirmar (3):** @RobotImperial, la unidad de recon (¿@Stella o @Selka?).
 - ⬜ **Por ubicar:** @Vera, @Naio, @Gix, @Vorthan, @Theron, @Brog, @Nima, @Vosk, @PilotoAliada, @Marek, @Korin/@Lessa, @Parasito + todas las locaciones y props.
 
 > **Siguiente paso sugerido:** dime y **voy a tu Drive a ver las imágenes** de los personajes que faltan
-> (Vera, Naio, Gix, Vorthan, Theron, Brog, Nima, Vosk) para confirmar cuál es cuál y completar la tabla con
+> (@Vera, @Naio, @Gix, @Vorthan, @Theron, @Brog, @Nima, @Vosk) para confirmar cuál es cuál y completar la tabla con
 > seguridad. Para locaciones/props, lo más eficiente es generar primero los establishings y reusarlos.

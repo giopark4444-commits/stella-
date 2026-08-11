@@ -6,7 +6,7 @@
 > **✓** = ya tiene ficha de referencia · **⛔** = asset por crear/subir.
 >
 > Convención de variantes de personaje (looks distintos = asset distinto para consistencia):
-> Stella tiene 4 looks · Selka 3 · Naio 2 · Vera 2. Ver §C (continuidad de vestuario).
+> @Stella tiene 4 looks · @Selka 3 · @Naio 2 · @Vera 2. Ver §C (continuidad de vestuario).
 
 ---
 
@@ -29,10 +29,10 @@
 ### ESC 3 — INT. PALACIO · PASILLOS DE MÁRMOL
 - **LOC:** ✓ `@palacio_pasillo`
 - **CAST:** ✓ `@stella_14` · ✓ `@gix` · ✓ `@vera` · ✓ `@selka_4`
-- **PROPS:** ✓ `@brazalete` · ⛔ `@prop_maceta` (maceta que se tambalea — siembra de Gix)
-- **VFX:** Gix naciendo del brazalete, filamento de luz
+- **PROPS:** ✓ `@brazalete` · ⛔ `@prop_maceta` (maceta que se tambalea — siembra de @Gix)
+- **VFX:** @Gix naciendo del brazalete, filamento de luz
 
-### ESC 4 — INT. PALACIO · TALLER DE NAIO
+### ESC 4 — INT. PALACIO · TALLER DE @NAIO
 - **LOC:** ✓ `@taller_naio`
 - **CAST:** ✓ `@stella_14` · ✓ `@gix` · ✓ `@naio`
 - **PROPS:** ✓ `@orbe` · ✓ `@brazalete` · ⛔ `@set_campo_contencion` · ⛔ `@set_proyeccion` (proyección holográfica flotante)
@@ -46,7 +46,7 @@
 - **LOC:** ✓ `@taller_naio` (zona de la Fuente)
 - **CAST:** ✓ `@naio` · ✓ `@vera` · ✓ `@selka_4` · ✓ `@stella_14` · ⛔ `@rey_humano` (forma humana regia del Rey) · ⛔ `@g44` (robots de guerra)
 - **PROPS:** ✓ `@orbe` · ✓ `@brazalete` · `@set_campo_contencion`
-- **VFX:** luz-agua succionada al revés, Orbe anclándose a la sangre de Stella, alarmas orgánicas
+- **VFX:** luz-agua succionada al revés, Orbe anclándose a la sangre de @Stella, alarmas orgánicas
 
 ### ESC 6 — INT. PALACIO · CONDUCTOS / HANGAR
 - **LOC:** ⛔ `@conductos_hangar`
@@ -59,14 +59,14 @@
 - **CAST:** ✓ `@stella_14` · ✓ `@gix`
 - **PROPS:** ✓ `@orbe`
 - **NAVES:** ⛔ `@capsula_huida` · ⛔ `@naves_rey` (cazas perseguidores)
-- **VFX:** ⛔ `@fx_hipervelocidad` · ⛔ `@fx_cascara_gix` (Gix blindando a Stella) · ⛔ `@fx_estrella_fugaz` (la cápsula estallando = estrella fugaz vista desde Erdia — paga el título)
+- **VFX:** ⛔ `@fx_hipervelocidad` · ⛔ `@fx_cascara_gix` (@Gix blindando a @Stella) · ⛔ `@fx_estrella_fugaz` (la cápsula estallando = estrella fugaz vista desde Erdia — paga el título)
 
 ### ESC 8 — INT. NAVE NODRIZA (Cazador) · CELDA / BAHÍA
 - **LOC:** ✓ `@nave_nodriza` (sub: celda/bahía de carga)
 - **CAST:** ✓ `@stella_14` · ✓ `@gix` (débil) · ✓ `@vosk` · ✓ `@brog` · ✓ `@nima` · ⛔ `@tripulacion_nodriza` (figurantes alienígenas)
 - **PROPS:** ✓ `@orbe` (sellado en campo) · ✓ `@brazalete`
 
-### ESC 9 — INT. NAVE NODRIZA · PUENTE DE THERON
+### ESC 9 — INT. NAVE NODRIZA · PUENTE DE @THERON
 - **LOC:** ✓ `@nave_nodriza` (sub: puente — conviene ficha propia ⛔ `@nodriza_puente`)
 - **CAST:** ✓ `@stella_14` · ✓ `@theron`
 - **PROPS:** ✓ `@orbe` · ✓ `@brazalete` · ⛔ `@set_mapa_estelar`
@@ -94,16 +94,16 @@
 - **CAST:** ⛔ `@stella_22` · ✓ `@noah` · cuadrilla
 - **VFX:** ⛔ `@fx_cometas` (lluvia de cometas / estrellas fugaces)
 
-### ESC 14 — INT. NAVE NODRIZA · PUENTE DE THERON
+### ESC 14 — INT. NAVE NODRIZA · PUENTE DE @THERON
 - **LOC:** `@nodriza_puente`
 - **CAST:** ⛔ `@stella_22` · ✓ `@theron`
 - **PROPS:** ⛔ `@foto_familia` (foto doblada de la familia — prop clave) · `@set_mapa_estelar`
-- **VFX:** Theron leyendo el rastro de luz sobre la foto
+- **VFX:** @Theron leyendo el rastro de luz sobre la foto
 
-### ESC 15 — MONTAJE · "LO QUE THERON VE"
-- **LOC:** ⛔ `@palacio_podrido` (Naio esclavo) · ⛔ `@sala_entrenamiento` (Selka) · ⛔ `@refugio` (Vera)
+### ESC 15 — MONTAJE · "LO QUE @THERON VE"
+- **LOC:** ⛔ `@palacio_podrido` (@Naio esclavo) · ⛔ `@sala_entrenamiento` (@Selka) · ⛔ `@refugio` (@Vera)
 - **CAST:** ⛔ `@naio_esclavo` (gris, encadenado) · ✓ `@selka_general` · ⛔ `@guardia_vacia` (soldados sin rostro) · ⛔ `@vera_mayor` (líder resistencia) · `@refugiados`
-- **PROPS:** ⛔ `@prop_carro_luz` (carro de luz robada que arrastra Naio)
+- **PROPS:** ⛔ `@prop_carro_luz` (carro de luz robada que arrastra @Naio)
 - **VFX:** estética de "rastro de luz" (flashes)
 
 ### ESC 16 — INT. NAVE NODRIZA · BODEGA (festejo)
@@ -127,12 +127,12 @@
 ### ESC 19 — INT. PALACIO PODRIDO · SALA DE ENTRENAMIENTO DE LA GENERAL
 - **LOC:** ⛔ `@sala_entrenamiento`
 - **CAST:** ⛔ `@vera_mayor` · ✓ `@selka_general` · ✓ `@marek`
-- **PROPS:** ✓ `@sable_selka` · ⛔ `@prop_arma_marek` (el arma con que apuñala a Vera)
+- **PROPS:** ✓ `@sable_selka` · ⛔ `@prop_arma_marek` (el arma con que apuñala a @Vera)
 - **VFX:** sable de luz
 
-*(SALTO: 5 años para Stella)*
+*(SALTO: 5 años para @Stella)*
 
-### ESC 20 — INT. NAVE NODRIZA · PUENTE DE THERON
+### ESC 20 — INT. NAVE NODRIZA · PUENTE DE @THERON
 - **LOC:** `@nodriza_puente`
 - **CAST:** ⛔ `@stella_22` · ✓ `@theron`
 - **PROPS:** `@set_mapa_estelar`
@@ -155,7 +155,7 @@
 ### ESC 24 — EXT. ERDIA · CAMPOS DEL PALACIO (la guerra)
 - **LOC:** ✓ `@erdia_podrida` (sub: campos del palacio, amanecer)
 - **CAST:** ✓ `@stella_adulta` · ✓ `@noah` · ✓ `@brog` · ✓ `@nima` · ⛔ `@korin` · ⛔ `@lessa` · ✓ `@g44` · ⛔ `@guardia_vacia` · `@resistencia_figurantes`
-- **PROPS:** ✓ `@orbe` (de Stella) · armas varias
+- **PROPS:** ✓ `@orbe` (de @Stella) · armas varias
 - **VFX:** batalla a gran escala, Orbe canalizado
 
 ### ESC 25 — INT. PALACIO · SALA DEL TRONO (encuentro)
@@ -167,7 +167,7 @@
 - **LOC:** ✓ `@sala_trono`
 - **CAST:** ✓ `@stella_adulta` · ✓ `@selka_general`
 - **PROPS:** ✓ `@orbe` · ✓ `@sable_selka`
-- **VFX:** Orbe arrancado del pecho, Stella en coma, Gix apagándose
+- **VFX:** Orbe arrancado del pecho, @Stella en coma, @Gix apagándose
 
 ### ESC 27 — INT. SALA DEL TRONO · LA ENTREGA
 - **LOC:** ✓ `@sala_trono`
@@ -178,17 +178,17 @@
 ### ESC 28 — INT. SALA DEL TRONO · "FUI YO"
 - **LOC:** ✓ `@sala_trono`
 - **CAST:** ⛔ `@rey_humano` (en metamorfosis) · ✓ `@selka_general` · ✓ `@stella_adulta` (coma) · ⛔ `@korin` · ⛔ `@lessa`
-- **VFX:** ⛔ `@fx_metamorfosis_vorthan` (rostro fluyendo: Selka niña → Vera → Marek) — **VFX clave de la peli**
+- **VFX:** ⛔ `@fx_metamorfosis_vorthan` (rostro fluyendo: @Selka niña → @Vera → @Marek) — **VFX clave de la peli**
 
 ### ESC 29 — INT. SALA DEL TRONO · FORMA REAL
 - **LOC:** ✓ `@sala_trono`
 - **CAST:** ✓ `@selka_general` · ⛔ `@vorthan_real` (✓ ficha existe en biblia; falta el `ref_id`)
 - **PROPS:** ✓ `@sable_selka`
-- **VFX:** Marek abriéndose → Vorthan colosal; brazo de Selka seccionado
+- **VFX:** @Marek abriéndose → @Vorthan colosal; brazo de @Selka seccionado
 
 ### ESC 30 — INT. SALA DEL TRONO · RENUNCIA + RESCATE
 - **LOC:** ✓ `@sala_trono`
-- **CAST:** ⛔ `@selka_manca` (Selka herida, sin brazo) · ✓ `@stella_adulta` (coma) · ✓ `@brog` · ✓ `@nima` · ✓ `@noah` · ⛔ `@korin` · ⛔ `@lessa` · `@vorthan_real`
+- **CAST:** ⛔ `@selka_manca` (@Selka herida, sin brazo) · ✓ `@stella_adulta` (coma) · ✓ `@brog` · ✓ `@nima` · ✓ `@noah` · ⛔ `@korin` · ⛔ `@lessa` · `@vorthan_real`
 - **PROPS:** ✓ `@sable_selka` (en el suelo)
 
 ---
@@ -199,14 +199,14 @@
 - **LOC:** ✓ `@erdia_podrida` (cielo) · ⛔ `@espacio_orbita`
 - **CAST:** ✓ `@theron` (breve, en su puente)
 - **NAVES:** ⛔ `@nave_pequena` (exterior) · ⛔ `@nave_vorthan` (nave nodriza colosal del Parásito — distinta de la del Cazador)
-- **PROPS:** ✓ `@orbe` (dentro de la nave de Vorthan)
+- **PROPS:** ✓ `@orbe` (dentro de la nave de @Vorthan)
 - **VFX:** palacio desmoronándose, despegue de la nave nodriza
 
 ### ESC 32 — INT. NAVE PEQUEÑA · BAHÍA MÉDICA
 - **LOC:** ⛔ `@nave_pequena_medica`
 - **CAST:** ✓ `@stella_adulta` (en coma, en tanque) · ✓ `@brog` · ✓ `@nima` · ✓ `@noah` · ⛔ `@korin` · ⛔ `@lessa` · ⛔ `@selka_manca` (esposada)
 - **PROPS:** ⛔ `@tanque_soporte` (tanque de soporte vital) · ✓ `@brazalete` (oscuro → late)
-- **VFX:** ⛔ `@fx_latido_brazalete` (el latido final de Gix)
+- **VFX:** ⛔ `@fx_latido_brazalete` (el latido final de @Gix)
 
 ### ESC 33 — EXT. ERDIA · INTERIOR MUERTO
 - **LOC:** ✓ `@tierra_muerta`
@@ -220,20 +220,20 @@
 ## B.1 · PERSONAJES PRINCIPALES (con variantes = looks)
 | Asset | Quién | Escenas | Ref |
 |---|---|---|---|
-| `@stella_14` | Stella niña, pelo blanco, palacio | 3–9 | ✓ |
-| `@stella_22` | Stella adulta, pelo blanco con ceniza, guerrera | 11–20 | ⛔ |
-| `@stella_adulta` | Stella, pelo teñido oscuro (el regreso) | 21–32 | ✓ |
-| `@selka_4` | Selka bebé dormida | 3, 5, 28(rostro) | ✓ |
-| `@selka_general` | Selka adulta, la General, blanco perfecto | 15,19,25–28 | ✓ |
-| `@selka_manca` | Selka herida, sin brazo | 30, 32 | ⛔ |
-| `@vera` | Vera 40s, palacio | 3, 5 | ✓ |
-| `@vera_mayor` | Vera mayor, líder resistencia | 15,17,18,19 | ⛔ |
-| `@naio` | Naio científico, palacio | 4, 5 | ✓ |
-| `@naio_esclavo` | Naio esclavo, gris, encadenado | 15, 18 | ⛔ |
+| `@stella_14` | @Stella niña, pelo blanco, palacio | 3–9 | ✓ |
+| `@stella_22` | @Stella adulta, pelo blanco con ceniza, guerrera | 11–20 | ⛔ |
+| `@stella_adulta` | @Stella, pelo teñido oscuro (el regreso) | 21–32 | ✓ |
+| `@selka_4` | @Selka bebé dormida | 3, 5, 28(rostro) | ✓ |
+| `@selka_general` | @Selka adulta, la General, blanco perfecto | 15,19,25–28 | ✓ |
+| `@selka_manca` | @Selka herida, sin brazo | 30, 32 | ⛔ |
+| `@vera` | @Vera 40s, palacio | 3, 5 | ✓ |
+| `@vera_mayor` | @Vera mayor, líder resistencia | 15,17,18,19 | ⛔ |
+| `@naio` | @Naio científico, palacio | 4, 5 | ✓ |
+| `@naio_esclavo` | @Naio esclavo, gris, encadenado | 15, 18 | ⛔ |
 | `@gix` | Ajolote de luz (+ estado apagado) | 3–9, 26, 32 | ✓ |
 | `@theron` | El Cazador | 9,14,20,31 | ✓ |
 | `@brog` | Tripulación, leal | 8,12,16,21,22,24,30,32 | ✓ |
-| `@nima` | Tripulación, rápida | idem Brog | ✓ |
+| `@nima` | Tripulación, rápida | idem @Brog | ✓ |
 | `@noah` | Guerrero humano de la Tierra | 11–16, 21–24, 30, 32 | ✓ |
 | `@marek` | 2º líder resistencia (= Rey infiltrado) | 10,17,18,19,27,28 | ✓ |
 | `@vosk` | El matón de la nodriza | 8, 12 | ✓ |
@@ -247,15 +247,15 @@
 | `@tripulacion_nodriza` (alienígenas variados) | 8,11,12 | ⛔ |
 | `@guerrera_misteriosa` (cara cubierta) | 10 | ⛔ |
 | `@prisioneros` | 11 | ⛔ |
-| `@korin` (leal de Vera; joven y mayor) | 17,18,22–24,27,30,32 | ⛔ |
-| `@lessa` (leal de Vera; joven y mayor) | idem Korin | ⛔ |
+| `@korin` (leal de @Vera; joven y mayor) | 17,18,22–24,27,30,32 | ⛔ |
+| `@lessa` (leal de @Vera; joven y mayor) | idem @Korin | ⛔ |
 | `@refugiados` (niños, heridos, viejos) | 15, 17 | ⛔ |
 | `@rebelde_hostil` | 22 | ⛔ |
 | `@multitud_erdiana` | 22, 23 | ⛔ |
 | `@pueblos_oprimidos` | 23 | ⛔ |
 | `@faccion_colaboracionista` | 23, 24 | ⛔ |
 | `@g44` (robots de guerra) | 5,10,24 | ⛔ |
-| `@guardia_vacia` (soldados sin rostro de Selka) | 15, 24 | ⛔ |
+| `@guardia_vacia` (soldados sin rostro de @Selka) | 15, 24 | ⛔ |
 
 ## B.3 · LOCACIONES (19 maestras)
 **✓ con ref (7):** `@erdia_dorada` · `@tierra_muerta` · `@erdia_podrida` · `@palacio_pasillo` · `@taller_naio` · `@sala_trono` · `@nave_nodriza`
@@ -269,7 +269,7 @@
 ## B.5 · NAVES / VEHÍCULOS (todas ⛔)
 | Asset | Qué es | Escenas |
 |---|---|---|
-| `@capsula_huida` | Cápsula de escape de Stella niña | 6, 7 |
+| `@capsula_huida` | Cápsula de escape de @Stella niña | 6, 7 |
 | `@naves_rey` | Cazas perseguidores del Rey | 7 |
 | `@nave_nodriza_ext` | Exterior de la nodriza del Cazador | (estab.) |
 | `@nave_pequena` | Nave del regreso (int + ext) | 21, 31, 32 |
@@ -284,25 +284,25 @@
 | `@fx_brote` | El brote verde (apertura y cierre) | 1, 33 |
 | `@fx_gota` | La gota / latido | 1 |
 | `@luzagua` | La sustancia luz-agua (base del mundo) | transversal |
-| `@fx_cascara_gix` | Gix blindando a Stella | 7 |
+| `@fx_cascara_gix` | @Gix blindando a @Stella | 7 |
 | `@fx_estrella_fugaz` | La cápsula estallando (paga el título) | 7 |
 | `@fx_hipervelocidad` | Salto + destrozo de casco | 7 |
 | `@fx_cometas` | Lluvia de estrellas fugaces | 13 |
 | `@fx_neblina` | Neblina tóxica (Erdia/palacio podrido) | 18, 22–24 |
 | `@fx_inversion_luz` | Luz succionada al insertar el Orbe | 5, 27 |
-| `@fx_metamorfosis_vorthan` | Rostro fluyendo (Selka→Vera→Marek) | 28 |
-| `@fx_latido_brazalete` | El latido final de Gix | 32 |
+| `@fx_metamorfosis_vorthan` | Rostro fluyendo (@Selka→@Vera→@Marek) | 28 |
+| `@fx_latido_brazalete` | El latido final de @Gix | 32 |
 
 ---
 
 # C · CONTINUIDAD DE VESTUARIO / VARIANTES (lo que más rompe consistencia)
 
-- **STELLA — 4 looks:** (1) niña pelo blanco / túnica clara · (2) adulta pelo blanco con ceniza / equipo de cuadrilla · (3) adulta pelo **teñido oscuro** (raíces blancas) / chaqueta de regreso · (4) en coma / bata médica. El brazalete está SIEMPRE en su muñeca en los 4.
-- **SELKA — 3 looks:** bebé · General de blanco imposible (impecable, *blanqueado*) · manca (mismo uniforme, brazo seccionado, sangre).
-- **NAIO — 2 looks:** científico (blanco con plata, túnica de estudio) · esclavo (gris sucio, harapos, cadenas).
-- **VERA — 2 looks:** madre del palacio (blanco impecable, túnica teal) · líder mayor (marcada, ropa de resistencia).
+- **@STELLA — 4 looks:** (1) niña pelo blanco / túnica clara · (2) adulta pelo blanco con ceniza / equipo de cuadrilla · (3) adulta pelo **teñido oscuro** (raíces blancas) / chaqueta de regreso · (4) en coma / bata médica. El brazalete está SIEMPRE en su muñeca en los 4.
+- **@SELKA — 3 looks:** bebé · General de blanco imposible (impecable, *blanqueado*) · manca (mismo uniforme, brazo seccionado, sangre).
+- **@NAIO — 2 looks:** científico (blanco con plata, túnica de estudio) · esclavo (gris sucio, harapos, cadenas).
+- **@VERA — 2 looks:** madre del palacio (blanco impecable, túnica teal) · líder mayor (marcada, ropa de resistencia).
 - **PUEBLO NAIEL:** dorado = pelo **blanco puro** (el voto) · podrido = pelo **manchado de gris/hollín** (el voto profanado). Es un cambio de paleta de TODO el casting de fondo entre Ki y Ten.
-- **VORTHAN — 3 caras:** `@rey_humano` (regio, sereno) · `@marek` (camarada cálido) · `@vorthan_real` (colmena colosal). Las tres son el MISMO ser: conviene un rasgo mínimo compartido (la quietud antinatural de los ojos) para que el público, en re-visionado, lo ate.
+- **@VORTHAN — 3 caras:** `@rey_humano` (regio, sereno) · `@marek` (camarada cálido) · `@vorthan_real` (colmena colosal). Las tres son el MISMO ser: conviene un rasgo mínimo compartido (la quietud antinatural de los ojos) para que el público, en re-visionado, lo ate.
 
 ---
 

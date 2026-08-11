@@ -1,6 +1,6 @@
 # STELLA FUGAZ · "El Nodo de Erdia" (Película 1) — ASSETS VISUALES
 
-Carpeta de referencia visual de la peli. Todo generado con **GPT Image 2** (Studio Ghibli
+Carpeta de referencia visual de la peli. Todo generado con **GPT Image 2** (Studio painterly watercolor
 style, 16:9, 2K), salvo 3 marcados *(nano)* hechos con **Nano Banana**.
 
 ## 📥 Cómo descargar las imágenes
@@ -38,7 +38,7 @@ Convención de nombre: `tag_descripcion_ESCxx.png` → sabes qué es y a qué es
 | 1 | Tierra muerta / el brote | ✅ tierra_muerta | — | ✅ CLIP01 |
 | 2 | Ciudad de Erdia + descenso | ✅ erdia_dorada | ✅ rio_luzagua, fuente_plaza | ✅ CLIP02-03 |
 | 3 | Palacio · pasillos | ✅ palacio_pasillo | ✅ stella_14, gix, vera, selka_4, brazalete | ✅ CLIP05-06 |
-| 4 | Taller de Naio | ✅ taller_naio | ✅ naio, orbe | ✅ CLIP07 |
+| 4 | Taller de @Naio | ✅ taller_naio | ✅ naio, orbe | ✅ CLIP07 |
 
 ### 承 SHŌ — Huida, nodriza, salto temporal
 | ESC | Título | Locación | Personajes/Props | Key frame |
@@ -47,13 +47,13 @@ Convención de nombre: `tag_descripcion_ESCxx.png` → sabes qué es y a qué es
 | 6 | Conductos / Hangar | ✅ conductos_hangar / ✅ SUB hangar | ✅ stella_14, gix, ✅ capsula_huida | ✅ CLIP08→ESC06 |
 | 7 | Espacio · órbita de Erdia | ✅ espacio_orbita | ✅ capsula_huida, ✅ naves_rey | ✅ ESC06-07 |
 | 8 | Celda de la nodriza | ✅ nave_nodriza | ✅ stella_14, ✅ gix_apagado, vosk, brog, nima | ✅ ESC08 |
-| 9 | Puente de Theron | ✅ nodriza_puente | ✅ stella_14, theron | ✅ ESC09 |
+| 9 | Puente de @Theron | ✅ nodriza_puente | ✅ stella_14, theron | ✅ ESC09 |
 | 10 | Planeta árido · combate | ✅ planeta_arido | ✅ marek, ✅ guerrera_misteriosa, ✅ g44 | ✅ ESC10 |
 | 11 | Campo de batalla | ✅ planeta_batalla | ✅ stella_22, noah, orbe | ✅ ESC11 |
 | 12 | Bodega / nido (cuadrilla) | ✅ nodriza_bodega | ✅ stella_22, brog, nima, noah, vosk | 🟡 (usa ESC16/bodega) |
 | 13 | Planeta-bosque · cometas | ✅ planeta_bosque | ✅ stella_22, noah | ✅ ESC13 |
-| 14 | Theron y la foto | ✅ nodriza_puente | ✅ theron, ✅ foto_familia | ✅ ESC14 |
-| 15 | Montaje "lo que Theron ve" | ✅ palacio_podrido, sala_entrenamiento, refugio | ✅ naio_esclavo, selka_general, ✅ vera_mayor | 🟡 (usa ESC18/19) |
+| 14 | @Theron y la foto | ✅ nodriza_puente | ✅ theron, ✅ foto_familia | ✅ ESC14 |
+| 15 | Montaje "lo que @Theron ve" | ✅ palacio_podrido, sala_entrenamiento, refugio | ✅ naio_esclavo, selka_general, ✅ vera_mayor | 🟡 (usa ESC18/19) |
 | 16 | Bodega (festejo) | ✅ nodriza_bodega | ✅ stella_22, brog, nima, noah | 🟡 |
 
 ### 転 TEN — Resistencia y regreso
@@ -62,7 +62,7 @@ Convención de nombre: `tag_descripcion_ESCxx.png` → sabes qué es y a qué es
 | 17 | Refugio subterráneo | ✅ refugio | ✅ vera_mayor, marek, ✅ korin, ✅ lessa | ✅ ESC17 |
 | 18 | Palacio podrido · corredores | ✅ palacio_podrido | ✅ vera_mayor, marek, naio_esclavo | ✅ ESC18 |
 | 19 | Sala de entrenamiento (la traición) | ✅ sala_entrenamiento | ✅ selka_general, marek, ✅ sable_selka | ✅ ESC19 |
-| 20 | Puente de Theron | ✅ nodriza_puente | ✅ stella_22, theron | 🟡 (usa ESC09/14) |
+| 20 | Puente de @Theron | ✅ nodriza_puente | ✅ stella_22, theron | 🟡 (usa ESC09/14) |
 | 21 | Nave pequeña · cabina (se tiñe) | ✅ nave_pequena_cabina | ✅ stella_adulta, noah, brog, nima, ✅ nave_pequena | ✅ ESC21 |
 | 22 | Erdia podrida · poblado | ✅ erdia_podrida / ✅ SUB poblado | ✅ stella_adulta, noah, brog, nima | 🟡 |
 | 23 | Preparativos (montaje) | ✅ erdia_podrida | ✅ stella_adulta, korin, lessa | 🟡 |
@@ -103,5 +103,5 @@ Convención de nombre: `tag_descripcion_ESCxx.png` → sabes qué es y a qué es
 
 ## 📝 Notas de generación
 - Quitar el token **"Miyazaki"** del prompt reduce rebotes del filtro.
-- Formato que funciona: `Studio Ghibli style character sheet / background painting, 16:9`.
+- Formato que funciona: `painterly watercolor anime style character sheet / background painting, 16:9`.
 - **Nano Banana** como respaldo tras 2 fallos en GPT Image 2 (orbe, sable_selka, selka_manca).

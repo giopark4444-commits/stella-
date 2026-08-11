@@ -64,7 +64,7 @@ tender golden light. @fuente_plaza @erdia_dorada @STYLE
 ```
 - **Continuidad:** "nada se posee, todo pasa" — la luz vuelve a la fuente. Tono de utopía verdadera.
 
-## CLIP 05 — "Stella corre · Gix" · 1:00–1:15
+## CLIP 05 — "@Stella corre · @Gix" · 1:00–1:15
 - **Tags:** `@stella_14` · `@gix` · `@palacio_pasillo` · `@brazalete`
 - **Prompt:**
 ```
@@ -75,9 +75,9 @@ light-water leaps out and takes shape — a bioluminescent axolotl of living lig
 through the air beside her, trailing warm bubbles. Dynamic tracking shot moving with her,
 energetic, joyful. @stella_14 @gix @palacio_pasillo @brazalete @STYLE
 ```
-- **Continuidad:** primer plano de Stella; Gix nace del brazalete (sembrar que protege: roza una maceta que se tambalea y la sostiene un instante).
+- **Continuidad:** primer plano de @Stella; @Gix nace del brazalete (sembrar que protege: roza una maceta que se tambalea y la sostiene un instante).
 
-## CLIP 06 — "Casi choca con Vera · Selka dormida" · 1:15–1:30
+## CLIP 06 — "Casi choca con @Vera · @Selka dormida" · 1:15–1:30
 - **Tags:** `@stella_14` · `@vera` · `@selka_4` · `@gix` · `@palacio_pasillo`
 - **Prompt:**
 ```
@@ -89,8 +89,8 @@ white hair from her little sister's sleeping face, her teenage hurry dissolving 
 tenderness. Slow intimate push-in, soft golden light. @stella_14 @vera @selka_4 @gix
 @palacio_pasillo @STYLE
 ```
-- **Continuidad:** que se OIGA el nombre "Selka" en boca de Vera (plantar la bomba). Gesto de apartar el mechón = se hereda.
-- **Diálogo (clave):** VERA: "La vas a despertar." / VERA: "Que pases limpio, mi estela."
+- **Continuidad:** que se OIGA el nombre "@Selka" en boca de @Vera (plantar la bomba). Gesto de apartar el mechón = se hereda.
+- **Diálogo (clave):** @VERA: "La vas a despertar." / @VERA: "Que pases limpio, mi estela."
 
 ## CLIP 07 — "La lección del Orbe" · 1:30–1:45
 - **Tags:** `@stella_14` · `@naio` · `@orbe` · `@taller_naio`
@@ -104,14 +104,14 @@ blue. He brings his palm near the field and the orb leans toward him like a plan
 the sun. Reverent two-shot, rippling blue light over their faces. @stella_14 @naio @orbe
 @taller_naio @STYLE
 ```
-- **Continuidad:** Gix se recoge en el brazalete. Sembrar la regla del Orbe.
-- **Diálogo (clave):** NAIO: "No se posee. La luz no se tiene, se canaliza. Y nadie se la lleva por la fuerza."
+- **Continuidad:** @Gix se recoge en el brazalete. Sembrar la regla del Orbe.
+- **Diálogo (clave):** @NAIO: "No se posee. La luz no se tiene, se canaliza. Y nadie se la lleva por la fuerza."
 
 ## CLIP 08 — "La anomalía" · 1:45–2:00
 - **Tags:** `@naio` · `@orbe` · `@taller_naio`
 - **Prompt:**
 ```
-Stella gone, the scientist stands alone with the Source. His warm smile slips one degree.
+@Stella gone, the scientist stands alone with the Source. His warm smile slips one degree.
 Something in the floating projection catches his eye — a small number in a corner where
 there should be none. He leans in, frowning, professional. The blue light of the whole
 room pulses once, off-rhythm, like a heart that has skipped after a thousand years; and
@@ -119,7 +119,7 @@ far below, the palace floor seems to breathe. Slow creeping push-in, the warmth 
 into dread. @naio @orbe @taller_naio @STYLE
 ```
 - **Continuidad:** cierre del KI en presagio. Corta a negro → Parte 2 (Shō).
-- **Diálogo (casi inaudible):** NAIO: "...¿Y tú de dónde sales?"
+- **Diálogo (casi inaudible):** @NAIO: "...¿Y tú de dónde sales?"
 
 ---
 

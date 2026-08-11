@@ -16,7 +16,7 @@ INGLÉS (o bilingüe)**, y dos frentes de audiencia en el pre-lanzamiento.
 
 | Frente | Idioma | Para qué | Dónde |
 |---|---|---|---|
-| **Principal (el dinero)** | 🇬🇧 Inglés | captar backers USA/UK — adoran el estilo Ghibli/anime | TikTok EN, IG EN, Reddit, YouTube |
+| **Principal (el dinero)** | 🇬🇧 Inglés | captar backers USA/UK — adoran el estilo painterly watercolor/anime | TikTok EN, IG EN, Reddit, YouTube |
 | **Base natural (lealtad)** | 🇪🇸 Español | tu núcleo duro, comparten mucho | TikTok ES, IG ES, Discords ES |
 
 - **El arte no necesita traducción** — sirve igual en ambos. Solo adaptas los **textos**.
@@ -42,13 +42,13 @@ este plan existe: para que el Día 1 ya tengas gente esperando.
 
 **Setup (Días 1-3)**
 - [ ] Abrir cuentas: **Instagram, TikTok, YouTube** (+ X opcional). Nombre coherente
-      (ej. @stellafugaz.film). Bio clara: "Película animada en desarrollo · Estilo Ghibli".
+      (ej. @stellafugaz.film). Bio clara: "Película animada en desarrollo · Estilo painterly watercolor".
 - [ ] Crear **landing page** con captura de correo (gratis: Mailchimp / Beehiiv / un Linktree
       con formulario). Mensaje: *"Sé el primero en saber cuándo lanzamos. Apóyala desde el día 1."*
-- [ ] Foto de perfil = un asset fuerte (Stella adulta o el logo). Banner = erdia_dorada.
+- [ ] Foto de perfil = un asset fuerte (@Stella adulta o el logo). Banner = erdia_dorada.
 
 **Contenido (3-4 posts/semana)** — alimenta con los assets que YA tenemos:
-- Semana 1: presentación. "Una película que estamos creando." → erdia_dorada, Stella, el ajolote/brazalete.
+- Semana 1: presentación. "Una película que estamos creando." → erdia_dorada, @Stella, el ajolote/brazalete.
 - Semana 2: **personajes**. Un personaje por post (character sheets). Mini-bio + 1 frase de su discurso.
 - Semana 3: **mundo**. Locaciones (erdia_dorada → erdia_podrida = el "antes y después" engancha mucho).
 - Semana 4: **proceso**. Behind-the-scenes, bocetos, "cómo nace un personaje".
@@ -70,12 +70,12 @@ este plan existe: para que el Día 1 ya tengas gente esperando.
 - [ ] **Cuenta la historia por goteo** (sin spoilers del "Fui yo"): el brote, la huida, la
       familia del Cazador, el regreso a Erdia podrida. La gente se engancha a la TRAGEDIA.
 - [ ] **"Retratos hablados":** cada personaje con su frase de 13 s encima del character sheet.
-      (Stella, Brog, Nima, la General, Theron.) → estas piezas también sirven para el pitch.
+      (@Stella, @Brog, @Nima, la General, @Theron.) → estas piezas también sirven para el pitch.
 - [ ] Empezar a **mostrar movimiento**: 2-3 clips cortos animados (teaser por partes) para
       generar expectativa sin enseñar todo.
 
 **Producción del teaser (en paralelo, todo el mes)**
-- [ ] Definir el guion del teaser (60-120 s). Sugerido: brote → Erdia dorada → Stella feliz →
+- [ ] Definir el guion del teaser (60-120 s). Sugerido: brote → Erdia dorada → @Stella feliz →
       la grieta → huida → "una historia que merece existir" → logo.
 - [ ] Generar/animar los planos (pipeline Higgsfield: imagen → video).
 - [ ] Música (licenciada o compositor indie) + 1 voz en off + sonido.
