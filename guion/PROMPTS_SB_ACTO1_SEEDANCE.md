@@ -1,5 +1,5 @@
 # PROMPTS STORYBOARD · ACTO 1 — Stella Fugaz «El Nodo de Erdia»
-## 76 clips · Seedance 2.0 · 15s · 21:9 · (un prompt por clip, cubriendo todos sus planos en orden)
+## 76 clips · Seedance 2.5 · 20s · 21:9 · (un prompt por clip, cubriendo todos sus planos en orden)
 
 > Style + Negative constantes en cada clip. **SFX only / no music.** Diálogo y directivas **en inglés**.
 > Sistema de **@menciones** según la biblia de PROMPTS_ACTO1.md. Variantes de @Stella: `@StellaRopa` (parque/lab de llegada), `@StellaArmadura` (traje + trenza), `@StellaPeloCorto` (tras cortarse la trenza, desde SEC 5).
@@ -8,8 +8,8 @@
 
 ## SECUENCIA 1 — ESCENA: Descenso al corazón muerto · *(clips 1x1–1x8)*
 
-### CLIP 1x1 — The line of dawn · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 1x1 — The line of dawn · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Erdia — match its architecture, materials, colors; a luminous living world wrapped in soft golden cloud, continents veined with rivers of light, oceans catching the dawn like molten glass, breathing quietly against the black of space; here first only the void, then the planet's incandescent edge.
 - **Shot/lens:** two chained wide space shots — pure black void, then a vast establishing of the planet's curved rim of light against the dark.
 - **Camera:** open on a held, motionless black frame; then a slow reverent tilt as a blazing line of dawn cracks the darkness and reveals the planet's curve.
@@ -19,8 +19,8 @@
 - **Audio:** SFX only — deep space hum, a faint high shimmering tone like a held chord. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 1x2 — Fall through the clouds · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 1x2 — Fall through the clouds · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Erdia — match its architecture, materials, colors; golden cloudbanks lit from within, then living mountain ranges below, snow-crests set alight by dawn, a world exhaling mist.
 - **Shot/lens:** two chained wide aerials — a plunge through towering golden clouds, then a low sweep over living mountain ridges.
 - **Camera:** a descending crane that tips over the edge and drops through cathedral clouds, easing into a fast aerial glide over the peaks.
@@ -30,8 +30,8 @@
 - **Audio:** SFX only — rising wind, the deep rush of atmosphere. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 1x3 — The dry fissure · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 1x3 — The dry fissure · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** @Erdia's lush GREEN living surface — healthy green forests and meadows below, canopies rolling like green surf with mist rising between the trees, everything vivid and alive — marked by ONE small dark crack in the green ground that does not belong (surface is green and healthy, NOT rocky).
 - **Shot/lens:** two chained wides — an aerial over breathing forests, then a dolly-in that finds and locks onto the dark fissure.
 - **Camera:** a fast aerial glide over the living canopy that eases into a slow dolly-in toward the crack.
@@ -41,8 +41,8 @@
 - **Audio:** SFX only — wind, distant water and birds, a low ominous tone swelling as the crack appears. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 1x4 — Down the crack · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 1x4 — Down the crack · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Erdia — match its architecture, materials, colors; the interior of the fissure, sheer rock walls sliding from gold to grey, dead mineral veins, the daylight above shrinking to a thread.
 - **Shot/lens:** a wide travelling descent between the rock walls, then a detail insert of the sliding stone texture.
 - **Camera:** a slow steady downward travelling into darkness, then tightening to a close travelling on the rock face.
@@ -52,8 +52,8 @@
 - **Audio:** SFX only — echoing drips, deep groaning rock, the wind from above fading to silence. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 1x5 — Deeper · 8s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 1x5 — Deeper · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Erdia — match its architecture, materials, colors; deep inside the fissure, cold rock walls swallowed by advancing darkness, no daylight left.
 - **Shot/lens:** a single wide travelling shot descending endlessly between the walls.
 - **Camera:** a continuous slow downward travelling, the darkness eating the frame.
@@ -63,8 +63,8 @@
 - **Audio:** SFX only — deep groaning rock, faint distant drips, silence closing in. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 1x6 — The hollow heart · 10s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 1x6 — The hollow heart · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Erdia — match its architecture, materials, colors; the planet's core, a vast bottomless black cavern where a world's heart should beat — a cathedral of emptiness, dead and silent.
 - **Shot/lens:** a wide dolly-out revealing the scale of the empty dead core.
 - **Camera:** a slow dolly-out opening the frame into the impossible void.
@@ -74,8 +74,8 @@
 - **Audio:** SFX only — a vast dead room tone, a low subsonic emptiness. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 1x7 — Held void · 9s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 1x7 — Held void · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Erdia — match its architecture, materials, colors; the dead hollow core, near-total black, nothing beating within.
 - **Shot/lens:** a single locked wide on the black void.
 - **Camera:** fixed, motionless, held.
@@ -85,8 +85,8 @@
 - **Audio:** SFX only — one deep heartbeat that does NOT repeat, swallowed by silence. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 1x8 — Title: STELLA FUGAZ · 8s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 1x8 — Title: STELLA FUGAZ · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Erdia — match its architecture, materials, colors; pure black, the void of the dead core, on which the title rises.
 - **Shot/lens:** a locked wide on total black.
 - **Camera:** fixed; the title fades up, holds alone, then fades away.
@@ -100,8 +100,8 @@
 
 ## SECUENCIA 2 — ESCENA: Parque de la Luzagua · *(clips 2x1–2x9)*
 
-### CLIP 2x1 — Cut to blue: @Stella runs · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 2x1 — Cut to blue: @Stella runs · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; a vast emerald park under a blazing open blue sky, a glowing luzagua river winding through the grass, wildflowers, ancient trees, drifting pollen like sparks.
 - **Characters:** @StellaRopa — match her design, long white braid, freckles, civilian clothes exactly.
 - **Shot/lens:** hard-cut wide of open blue sky, then a travelling wide following @StellaRopa running, then a detail pan along the luzagua river.
@@ -112,8 +112,8 @@
 - **Audio:** SFX only — bright laughter, running footsteps on grass, breeze, soft flowing light-water. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 2x2 — @Gix ignites, @Vera behind · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 2x2 — @Gix ignites, @Vera behind · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; sun-dappled grass beneath ancient trees, pollen hanging in warm shafts, a sunlit path where the river glints beyond.
 - **Characters:** @StellaRopa; @Gix (luzagua-blue + warm gold light-axolotl); @VeraRopa (grey-blue eyes) — match her flowing gold-white naiel robes, long white hair partly bound. **Props:** @Brazalete.
 - **Shot/lens:** close-up on @StellaRopa's wrist and bright face, a whip-pan as @Gix ignites and flees, a full-body Steadicam of her chase, easing to a medium travelling on @VeraRopa.
@@ -124,8 +124,8 @@
 - **Audio:** SFX only — a soft bright chime as @Gix ignites, @Stella's delighted laugh, rustling leaves, park ambience. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 2x3 — "I'm the best" / the shadow falls · 11s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 2x3 — "I'm the best" / the shadow falls · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; open sunlit lawn, wildflowers, the river glinting behind, ancient trees; a vast shadow beginning to fall.
 - **Characters:** @VeraRopa (grey-blue eyes), @StellaRopa.
 - **Shot/lens:** medium Steadicam on @VeraRopa watching, an American shot (handheld) on @StellaRopa half-turned mid-run, then a wide full-body as she stops dead in a growing shadow.
@@ -139,8 +139,8 @@
 - **Audio:** SFX only — footsteps, breeze, a faint @Gix chime, then a low swell as the shadow lands. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 2x4 — The flower-mecha · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 2x4 — The flower-mecha · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; a clearing where the colossal @MechaFlores kneels forever, half-swallowed by blossoming vines, a war-machine turned garden, petals and dust in golden shafts.
 - **Characters:** @StellaRopa. **Props:** @MechaFlores.
 - **Shot/lens:** a low-angle tilt (contrapicado) up the towering @MechaFlores, then a detail pan across flowers climbing its rusted metal.
@@ -151,8 +151,8 @@
 - **Audio:** SFX only — wind moaning through hollow metal, rustling vines, birds nesting in the giant. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 2x5 — "Why did we stop?" · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 2x5 — "Why did we stop?" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; beneath the flower-choked @MechaFlores, its vast form filling the sky, warm golden-hour light, blossoms suspended in the air.
 - **Characters:** @StellaRopa, @VeraRopa (grey-blue eyes). **Props:** @MechaFlores.
 - **Shot/lens:** a wide with @StellaRopa tiny at the giant's foot, a medium on her looking up as she asks, a medium on @VeraRopa arriving and crouching.
@@ -165,8 +165,8 @@
 - **Audio:** SFX only — soft breeze, distant luzagua, petals rustling. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 2x6 — "A person is a river" · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 2x6 — "A person is a river" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; at the child's height in the mecha's warm shadow, then at the edge of the glowing luzagua river, light-water curling past open hands.
 - **Characters:** @VeraRopa (grey-blue eyes), @StellaRopa.
 - **Shot/lens:** a close-up on @VeraRopa choosing her words, a detail of her hand showing the luzagua running free through fingers, a close-up holding her gaze on @Stella.
@@ -181,8 +181,8 @@
 - **Audio:** SFX only — flowing luzagua, soft wind, a held breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 2x7 — She half-listens / @Gix calls · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 2x7 — She half-listens / @Gix calls · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; the warm sunlit park, an ancient tree with @Gix blinking on a branch, mother and daughter close.
 - **Characters:** @StellaRopa, @Gix, @VeraRopa (grey-blue eyes).
 - **Shot/lens:** a close-up on @StellaRopa nodding but distracted, a detail pan to @Gix on a branch, a close-up on @VeraRopa noticing.
@@ -193,8 +193,8 @@
 - **Audio:** SFX only — breeze, a faint @Gix chime, rustling leaves. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 2x8 — "Tell @Selka I beat @Gix" · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 2x8 — "Tell @Selka I beat @Gix" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; the sunlit park path, @StellaRopa already a bright running shape against the green, the river glinting beyond.
 - **Characters:** @VeraRopa (grey-blue eyes), @StellaRopa, @Gix.
 - **Shot/lens:** a medium on @VeraRopa still crouched speaking softly, a full-body Steadicam of @StellaRopa running off and shouting over her shoulder, a wide of her shrinking into the green.
@@ -208,8 +208,8 @@
 - **Audio:** SFX only — fading laughter, breeze, distant @Gix chime. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 2x9 — The last good day · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 2x9 — The last good day · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ParqueLuzagua — match its architecture, materials, colors; the sunlit path, @VeraRopa held alone, the luzagua river flowing indifferent beside her in the gold.
 - **Characters:** @VeraRopa (grey-blue eyes).
 - **Shot/lens:** a slow dolly-in close-up on @VeraRopa watching her daughter go, then a detail hold on the luzagua river flowing on.
@@ -224,8 +224,8 @@
 
 ## SECUENCIA 3 — ESCENA: Laboratorio de @Naio · *(clips 3x1–3x15)*
 
-### CLIP 3x1 — @Stella enters laughing, laughter dies · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x1 — @Stella enters laughing, laughter dies · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; @Naio's lab, cool, clean, hushed, pale curved organic-tech surfaces, floating holographic data, clinical blue-white light, the warm world sealed outside.
 - **Characters:** @StellaRopa, @Gix.
 - **Shot/lens:** a wide of the door opening, a medium Steadicam following @StellaRopa in, a close-up as her smile drains.
@@ -238,8 +238,8 @@
 - **Audio:** SFX only — door hiss, a fading laugh, a @Gix chime, low lab hum. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x2 — Grim parents / "Everything okay?" · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x2 — Grim parents / "Everything okay?" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab, a rotating data projection glowing behind the parents, a floating cradle to the side.
 - **Characters:** @StellaRopa (POV); @VeraArmadura (grey-blue eyes) and @Naio, grave, underlit by the projection; @SelkaBebe (grey-blue eyes) asleep.
 - **Shot/lens:** a wide POV of the grim parents before the projection, a detail of @SelkaBebe sleeping in the floating cradle, a close-up on @StellaRopa's small voice.
@@ -252,8 +252,8 @@
 - **Audio:** SFX only — low hum, holographic blips, a single soft warning tone. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x3 — "Put it on. Quickly." · 12s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x3 — "Put it on. Quickly." · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab, a folded recon suit passing between father and daughter.
 - **Characters:** @Naio, @StellaRopa transitioning into @StellaArmadura as she dons the suit.
 - **Shot/lens:** a medium as @Naio silently holds out the folded suit, a close-up on his tense jaw, a full-body handheld of her pulling it on.
@@ -266,8 +266,8 @@
 - **Audio:** SFX only — suit fasteners clicking, low hum. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x4 — "The King isn't protecting us" · 10s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x4 — "The King isn't protecting us" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; close in the cold lab, shadows pooling, the hum of secrets.
 - **Characters:** @Naio, @StellaArmadura.
 - **Shot/lens:** a medium dolly-in on @Naio leaning close, a close-up on his half-shadowed face as he lands the truth.
@@ -281,8 +281,8 @@
 - **Audio:** SFX only — quiet hum, his low voice, the faint dead heartbeat beneath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x5 — The projection / "That's not possible" · 12s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x5 — The projection / "That's not possible" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab, a holographic projection replaying the descent into @Erdia's dead hollow core.
 - **Characters:** @Naio (implied), @StellaArmadura.
 - **Shot/lens:** a wide dolly-in into the hologram of the dead core, a close-up on @StellaArmadura unable to believe it.
@@ -295,8 +295,8 @@
 - **Audio:** SFX only — holographic tones, a faint dead heartbeat beneath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x6 — "That's why he wants it" / the key burns in · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x6 — "That's why he wants it" / the key burns in · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab, a delicate naiel device unfolding over @StellaArmadura's open palm.
 - **Characters:** @Naio, @StellaArmadura. **Props:** @LlaveDeLuz forming in her palm.
 - **Shot/lens:** a close-up on @Naio, a detail of the device over her open hand, an insert of the sigil searing under the skin, a close-up as she grits her teeth.
@@ -309,8 +309,8 @@
 - **Audio:** SFX only — a rising tone, a soft searing sizzle, her sharp inhale. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x7 — "Only you could ever use it" · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x7 — "Only you could ever use it" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab, the sigil's warm glow held between their hands, the world narrowed to a father's face and a daughter's eyes.
 - **Characters:** @Naio, @StellaArmadura. **Props:** @LlaveDeLuz.
 - **Shot/lens:** a medium of @Naio holding her marked hand, a detail as he closes her fingers over the sigil, a close-up dolly-in on his eyes as the weight lands.
@@ -325,8 +325,8 @@
 - **Audio:** SFX only — quiet hum, his low voice, a held breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x8 — The baby cries / big-sister instinct · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x8 — The baby cries / big-sister instinct · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab, a floating cradle a small pocket of softness amid the instruments.
 - **Characters:** @StellaArmadura, @SelkaBebe (grey-blue eyes).
 - **Shot/lens:** a close-up on @StellaArmadura unable to process it, a detail of @SelkaBebe waking and crying, a full-body Steadicam as @Stella crosses to her, a medium handheld as she leans over the cradle.
@@ -337,8 +337,8 @@
 - **Audio:** SFX only — baby crying, soft hurried footsteps, low hum. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x9 — THE LIGHT GAME (the seed) · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x9 — THE LIGHT GAME (the seed) · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; over the cradle, the one warm light in the cold lab coming from a spark of @Gix.
 - **Characters:** @StellaArmadura, @SelkaBebe (grey-blue eyes), @Gix.
 - **Shot/lens:** an insert of a @Gix spark dancing in her cupped palm, a close-up two-shot of the sisters forehead to forehead, a detail of the baby's hand gripping @Stella's finger.
@@ -349,8 +349,8 @@
 - **Audio:** SFX only — a soft warm chime, the baby quieting, a small shared breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x10 — Footsteps / "They're here" · 11s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x10 — Footsteps / "They're here" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab, dust trembling on the surfaces as many footsteps approach down the corridor.
 - **Characters:** @Naio, @VeraArmadura (grey-blue eyes).
 - **Shot/lens:** a detail of the floor vibrating with approaching steps, a medium of the parents exchanging a wordless look, a medium handheld of @Naio already moving.
@@ -363,8 +363,8 @@
 - **Audio:** SFX only — approaching boots, the hum darkening, a low pulse. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x11 — "Never let him have it" · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x11 — "Never let him have it" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab, a father gripping his daughter's face against the coming danger.
 - **Characters:** @Naio, @StellaArmadura.
 - **Shot/lens:** a close-up as @Naio takes her face in both hands, a close-up on his firm voice over fear, a close-up handheld on @StellaArmadura brimming with tears.
@@ -379,8 +379,8 @@
 - **Audio:** SFX only — urgent whispers, footsteps closing, a ragged breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x12 — "I love you. All three." / the embrace · 12s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x12 — "I love you. All three." / the embrace · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab, a tight family knot, cold light flooding the far doorway.
 - **Characters:** @Naio, @StellaArmadura, @VeraArmadura (grey-blue eyes), @SelkaBebe (grey-blue eyes).
 - **Shot/lens:** a close-up on @Naio not letting her finish, a full-body of a three-way embrace as @VeraArmadura lifts the baby, a wide of the main door opening to cold light.
@@ -393,8 +393,8 @@
 - **Audio:** SFX only — urgent whispers, a door mechanism, baby's small sounds. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x13 — @Vorthan enters · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x13 — @Vorthan enters · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the lab doorway filled by a tall silhouette, robot soldiers banked behind him like a wall of shadow.
 - **Characters:** @Vorthan (warm friendly smile that never reaches the eyes); @RobotImperial soldiers crowding the doorway.
 - **Shot/lens:** a low-angle (contrapicado) dolly-in on @Vorthan in the doorway with the robots massed behind, a medium on his almost affectionate smile, a close-up pan of his eyes reading the room.
@@ -408,8 +408,8 @@
 - **Audio:** SFX only — door, heavy robot footfalls settling, his soft warm voice. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x14 — "Don't let them escape" / @Naio's shield · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x14 — "Don't let them escape" / @Naio's shield · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab, a rear exit, a crackling force-field flaring blue-white.
 - **Characters:** @VeraArmadura (grey-blue eyes), @StellaArmadura, @Vorthan, @Naio.
 - **Shot/lens:** a full-body Steadicam of mother and daughter easing toward the rear exit, an extreme close-up on @Vorthan's unblinking eyes, a full-body handheld as @Naio raises a force-field, a medium on the King's almost-pitying look.
@@ -422,8 +422,8 @@
 - **Audio:** SFX only — force-field hum, robot servos, his cold soft voice. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 3x15 — @Naio driven to the floor / "DAD!" · 8s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 3x15 — @Naio driven to the floor / "DAD!" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; the cold lab erupting into motion, a force-field flaring and shattering.
 - **Characters:** @Vorthan, @Naio, @StellaArmadura, @VeraArmadura (grey-blue eyes).
 - **Shot/lens:** a full-body whip-pan as @Vorthan strikes @Naio down, a close-up handheld on @StellaArmadura's cry and reaching hand, a medium handheld as @VeraArmadura hauls her away.
@@ -441,8 +441,8 @@
 
 ## SECUENCIA 4 — ESCENA: Pasillos del palacio · *(clips 4x1–4x4)*
 
-### CLIP 4x1 — Flight down the corridor · 12s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 4x1 — Flight down the corridor · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; tall ornate corridors of gold and pale stone, banners hanging still, everything strobed by pulsing red alert light and long thrown shadows — beauty turned to a trap.
 - **Characters:** @VeraArmadura (grey-blue eyes) carrying @SelkaBebe (grey-blue eyes), @StellaArmadura.
 - **Shot/lens:** a full-body Steadicam of the two sprinting, a detail travelling of cold robot lights sweeping the walls behind, a medium handheld on @VeraArmadura speaking mid-run.
@@ -456,8 +456,8 @@
 - **Audio:** SFX only — pounding footsteps, alarm, distant robot hum. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 4x2 — "Not me. Not your sister." · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 4x2 — "Not me. Not your sister." · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; the red-strobed corridor blurring past as they run.
 - **Characters:** @VeraArmadura (grey-blue eyes), @StellaArmadura, @SelkaBebe (grey-blue eyes).
 - **Shot/lens:** a close-up handheld on @VeraArmadura mid-run, a close-up handheld on @StellaArmadura swallowing her tears, a close-up Steadicam on @Vera's impossible smile.
@@ -471,8 +471,8 @@
 - **Audio:** SFX only — breathless running, alarm, a ragged breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 4x3 — "Get to the ship" / robots breach · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 4x3 — "Get to the ship" / robots breach · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; a branching of the grand corridor, red light and dust, a wall bursting open.
 - **Characters:** @VeraArmadura (grey-blue eyes) with @SelkaBebe (grey-blue eyes), @StellaArmadura, @RobotImperial units. **Props:** her light-strikes.
 - **Shot/lens:** a medium handheld on @VeraArmadura, a wide whip-pan as a wall blows inward and robots pour in, a detail of dust and debris hanging, a full-body handheld of @Vera striking a robot down one-armed shielding the baby, an American whip-pan of @StellaArmadura deflecting and dodging, a detail of a robot cleaved by light.
@@ -486,8 +486,8 @@
 - **Audio:** SFX only — wall bursting, robot servos, light-strikes, alarm, footsteps. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 4x4 — Back to back / the Orb doors · 8s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 4x4 — Back to back / the Orb doors · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PasillosPalacio — match its architecture, materials, colors; the smoke-filled corridor opening at its far end onto the immense doors of @SalaDelOrbe, pulsing with light.
 - **Characters:** @VeraArmadura (grey-blue eyes) with @SelkaBebe (grey-blue eyes), @StellaArmadura.
 - **Shot/lens:** a full-body Steadicam of mother and daughter fighting back to back through smoke, a wide dolly-in revealing the huge glowing doors of the Orb hall at the corridor's end.
@@ -504,8 +504,8 @@
 ## SECUENCIA 5 — ESCENA: Muerte de @Vera · *(clips 5x1–5x12)*
 > **Cambio de variante:** hasta 5x9 → `@StellaArmadura` (con trenza). Desde el corte de la trenza en 5x10 → `@StellaPeloCorto`.
 
-### CLIP 5x1 — The Orb · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x1 — The Orb · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; a cathedral-scale chamber of pale luminous stone, its ceiling dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold floor mirroring the sphere, thin waterfalls of light down the columns, luminous pollen in god-rays.
 - **Characters:** — . **Props:** @Orbe.
 - **Shot/lens:** a wide crane revealing the vast chamber with the @Orbe suspended at its center, then a detail hold on the sphere pulsing.
@@ -516,8 +516,8 @@
 - **Audio:** SFX only — a deep slow luminous pulse, a faint choral shimmer of tone, water-light. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x2 — Two doors / "Go NOW" · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x2 — Two doors / "Go NOW" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the vast luminous hall, entrances on opposite sides, the @Orbe glowing between.
 - **Characters:** @VeraArmadura (grey-blue eyes) with @SelkaBebe (grey-blue eyes), @StellaArmadura, @Vorthan. **Props:** @Orbe.
 - **Shot/lens:** a wide as @Vera & @Stella enter one side and @Vorthan the other, a medium of them locking eyes across the hall, a close-up handheld on @VeraArmadura's shout, a full-body Steadicam as @StellaArmadura bolts for the sphere.
@@ -530,8 +530,8 @@
 - **Audio:** SFX only — the Orb pulse, a sharp echoing shout, sprinting footsteps. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x3 — @S1G1 arrives · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x3 — @S1G1 arrives · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall, robots closing on @Vera, a darker faster shape entering.
 - **Characters:** @VeraArmadura (grey-blue eyes) with @SelkaBebe (grey-blue eyes), @RobotImperial units, @S1G1 (sleek matte black-grey assassin, single glowing optic).
 - **Shot/lens:** a wide whip-pan as robots close on @VeraArmadura fighting to protect @Selka, a full-body of @S1G1 entering silent and sleek, a close-up dolly-in as @Vera understands.
@@ -542,8 +542,8 @@
 - **Audio:** SFX only — robot servos, a sudden silence around @S1G1, a low ominous tone. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x4 — @Vera vs @S1G1 · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x4 — @Vera vs @S1G1 · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall, a recessed panel where the baby can be hidden, the duel unfolding.
 - **Characters:** @VeraArmadura (grey-blue eyes), @SelkaBebe (grey-blue eyes), @S1G1.
 - **Shot/lens:** a medium handheld as @VeraArmadura tucks the baby safe with trembling hands, a full-body as she plants herself before @S1G1, a medium handheld of her all-out attack, a detail whip-pan of @S1G1 dodging effortlessly, a full-body handheld as it drops her with one blow.
@@ -555,8 +555,8 @@
 - **Audio:** SFX only — light-strikes, servos, a hard concussive impact. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x5 — "@STELLA, RUN!" / she doesn't obey · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x5 — "@STELLA, RUN!" / she doesn't obey · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall, @VeraArmadura fallen shielding the baby, @StellaArmadura three steps from the Orb.
 - **Characters:** @VeraArmadura (grey-blue eyes), @SelkaBebe (grey-blue eyes), @StellaArmadura. **Props:** @Orbe.
 - **Shot/lens:** a detail as fallen @VeraArmadura covers @SelkaBebe with her body, a close-up handheld on her screaming, a detail dolly-in on @StellaArmadura's fingers about to touch the @Orbe, a close-up as @Stella decides against it.
@@ -569,8 +569,8 @@
 - **Audio:** SFX only — a raw cry, the Orb hum, a held breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x6 — Caught by the braid · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x6 — Caught by the braid · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall, @Stella turning back toward her mother, the King intercepting.
 - **Characters:** @StellaArmadura, @VeraArmadura (grey-blue eyes), @Vorthan.
 - **Shot/lens:** a full-body whip-pan as @StellaArmadura runs back toward her mother, a close-up handheld on @VeraArmadura's horrified shout, a full-body whip-pan as @Vorthan catches @Stella by the braid and lifts her, a medium of her hanging, a close-up on her raging tears.
@@ -584,8 +584,8 @@
 - **Audio:** SFX only — running, a horrified cry, a snap of tension, kicking. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x7 — "That's why they always lose" · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x7 — "That's why they always lose" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall, the King holding the girl by her hair, the fallen mother gathering her last strength.
 - **Characters:** @Vorthan, @StellaArmadura, @VeraArmadura (grey-blue eyes).
 - **Shot/lens:** a close-up on @Vorthan laughing softly as he holds her by the hair, an extreme close-up on his verdict, a medium of @VeraArmadura raising both hands toward her daughter.
@@ -599,8 +599,8 @@
 - **Audio:** SFX only — a soft low laugh, a held breath, a faint rising tone. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x8 — The shield / the spear / "MOM!" · 10s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x8 — The shield / the spear / "MOM!" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall, a shield of light forming around @Stella, @S1G1 behind @Vera.
 - **Characters:** @VeraArmadura (grey-blue eyes), @StellaArmadura, @S1G1.
 - **Shot/lens:** a full-body dolly-in as a light-shield weaves around @StellaArmadura from @Vera's hands, a medium as @S1G1 runs a light-spear through @Vera's heart, an extreme close-up on @StellaArmadura's shattering cry.
@@ -614,8 +614,8 @@
 - **Audio:** SFX only — a shield chime forming, a sharp light-impact, a cry tearing. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x9 — "Run." · 11s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x9 — "Run." · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall, the dying mother holding the shield with the life leaving her.
 - **Characters:** @VeraArmadura (grey-blue eyes), @StellaArmadura (in shield).
 - **Shot/lens:** a close-up on @VeraArmadura holding the shield as her life escapes, an extreme close-up dolly-in on her lips shaping a last word.
@@ -628,8 +628,8 @@
 - **Audio:** SFX only — a fading shield hum, a shallow breath, near silence. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x10 — She cuts the braid · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x10 — She cuts the braid · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall, grief turning to survival, the light-cutter flaring.
 - **Characters:** @StellaArmadura (with braid) becoming @StellaPeloCorto (freshly-cut short hair), @VeraArmadura (grey-blue eyes, dying). **Props:** @CuchilloLaser.
 - **Shot/lens:** a close-up on @StellaArmadura hanging, watching her mother die a meter away, a detail handheld as she draws the @CuchilloLaser and it ignites thin and blue, a detail whip-pan as she cuts the braid at the nape, a full-body handheld as she drops free and rolls up with short hair.
@@ -641,8 +641,8 @@
 - **Audio:** SFX only — held silence, a light-cutter snap, the braid parting, a soft fall. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x11 — The useless trophy / the shield dies · 10s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x11 — The useless trophy / the shield dies · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall, the severed braid in the King's hand, the mother's light going out.
 - **Characters:** @Vorthan (hand), @VeraArmadura (grey-blue eyes).
 - **Shot/lens:** a detail of the cut braid dangling from @Vorthan's hand, a medium dolly-out as @VeraArmadura's shield fades with her and the body stills.
@@ -653,8 +653,8 @@
 - **Audio:** SFX only — a faint fading hum, silence settling. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 5x12 — Two hands, not touching · 6s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 5x12 — Two hands, not touching · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall floor, the cut hair and the mother's open hand close but not touching.
 - **Characters:** @StellaPeloCorto (cut hair on floor), @VeraArmadura (grey-blue eyes, open hand).
 - **Shot/lens:** a fixed detail of @StellaPeloCorto's cut hair and @VeraArmadura's open hand on the floor, very close, not touching.
@@ -669,8 +669,8 @@
 
 ## SECUENCIA 6 — ESCENA: Toma el Orbe / huida · *(clips 6x1–6x6)*
 
-### CLIP 6x1 — Take the Orb / launch to the duct · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 6x1 — Take the Orb / launch to the duct · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the luminous hall, the @Orbe glowing at its pedestal, a narrow duct high in the ceiling haze.
 - **Characters:** @StellaPeloCorto, @RobotImperial units. **Props:** @Orbe, @LlaveDeLuz, @MonitorMAX.
 - **Shot/lens:** a full-body handheld of @StellaPeloCorto rising and running, a medium whip-pan dodging robots and vaulting a fallen casing, a detail dolly-in as her fingers close on the @Orbe, an insert as the palm-key ignites and the sphere shrinks into her hand, a detail of the @MonitorMAX reading MAX, a full-body tilt as thrusters fire and she launches to the duct.
@@ -682,8 +682,8 @@
 - **Audio:** SFX only — running, servos, a bright ringing chime, a rising surge, thruster ignition. No music.
 - **Negative:** gentle stylized action, no on-screen text. (Only the device readout "MAX" is allowed.)
 
-### CLIP 6x2 — The last look / pursued into the duct · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 6x2 — The last look / pursued into the duct · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; high near the ceiling duct, looking down over the hall, then into the narrow tunnel.
 - **Characters:** @StellaPeloCorto, @VeraArmadura (grey-blue eyes, fallen), @SelkaBebe (grey-blue eyes), @S1G1.
 - **Shot/lens:** a close-up as @StellaPeloCorto pauses to look down, a high-angle wide POV of her fallen mother and the crying baby below, a close-up as she grits her teeth and enters the duct, a detail travelling as @S1G1 fires its thrusters after her, inches from her boots.
@@ -694,8 +694,8 @@
 - **Audio:** SFX only — a held breath, a baby crying far below, thruster roar, rushing air. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 6x3 — @S1G1 jams and bursts into light · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 6x3 — @S1G1 jams and bursts into light · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the narrow duct mouth and, below, the emptied hall with the fallen mother.
 - **Characters:** @StellaPeloCorto, @S1G1, @VeraArmadura (grey-blue eyes, fallen), @SelkaBebe (grey-blue eyes). **Props:** @Orbe (in her hand).
 - **Shot/lens:** a medium handheld as @S1G1 jams in the duct, a wide whip-pan as it bursts into light and hurls @StellaPeloCorto out into open sky, a detail of settling smoking debris, a wide crane down into the hall on @VeraArmadura fallen and the crying baby.
@@ -707,8 +707,8 @@
 - **Audio:** SFX only — servos jamming, a concussive blast, debris settling, a distant baby cry. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 6x4 — @Vorthan lifts the baby · 12s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 6x4 — @Vorthan lifts the baby · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the emptied hall, the fallen mother, the King crossing to the baby.
 - **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @VeraArmadura (grey-blue eyes, fallen), @RobotImperial units.
 - **Shot/lens:** a medium Steadicam as @Vorthan crosses unhurried and lifts @SelkaBebe, who quiets and stares at him, a full-body as two robots stoop for the body and he stops them with a curt gesture, a close-up on his cold line without looking at her.
@@ -721,8 +721,8 @@
 - **Audio:** SFX only — soft footsteps, a baby quieting, servos halting. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 6x5 — "Find @Stella." · 7s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 6x5 — "Find @Stella." · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the emptied hall, the King turning his back on the body.
 - **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @RobotImperial units, @VeraArmadura (grey-blue eyes, fallen).
 - **Shot/lens:** a medium as @Vorthan turns away with the baby, his back to the body, a full-body as the robots drop the body — it hits the floor — and leave.
@@ -735,8 +735,8 @@
 - **Audio:** SFX only — a body settling, heavy robot footfalls departing. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 6x6 — The abandonment · 9s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 6x6 — The abandonment · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; the immense hall, empty around the fallen mother left on the floor of her own home.
 - **Characters:** @Vorthan (leaving with baby), @VeraArmadura (grey-blue eyes, fallen).
 - **Shot/lens:** a wide crane as @Vorthan leaves with @SelkaBebe in his arms, @VeraArmadura left alone on the floor, the vast empty hall around the body.
@@ -751,8 +751,8 @@
 
 ## SECUENCIA 7 — ESCENA: Cielo / naves aliadas · *(clips 7x1–7x6)*
 
-### CLIP 7x1 — To the ship / the fleet appears · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 7x1 — To the ship / the fleet appears · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; the golden metropolis of honey-stone terraces and luzagua canals seen from above, palace towers, a still-blue sky, an imperial fleet rising on the golden horizon.
 - **Characters:** @StellaPeloCorto. **Naves:** @NaveStella, @NaveImperial (fleet).
 - **Shot/lens:** a wide crane as @StellaPeloCorto is flung from the palace onto the hidden @NaveStella, a detail handheld of trembling hands firing the controls, a wide of the @NaveImperial fleet on the horizon, a full-body Steadicam as she weaves between the towers.
@@ -764,8 +764,8 @@
 - **Audio:** SFX only — an impact landing, controls, engines waking, distant fleet drone, rushing air. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 7x2 — Chase / allied ships appear · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 7x2 — Chase / allied ships appear · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; the golden towers and bridges of the metropolis, bursts of light between them, the open sky beyond.
 - **Characters:** @StellaPeloCorto. **Naves:** @NaveImperial (pursuers), @NaveAliada (rescuers).
 - **Shot/lens:** a wide whip-pan as she slams two pursuers into buildings, a close-up handheld of her piloting brilliant and desperate, a detail as an @NaveImperial locks its sights on her, a wide whip-pan as that ship bursts from a side-hit not hers, a wide crane as @NaveAliada ships appear and open a corridor in the sky.
@@ -777,8 +777,8 @@
 - **Audio:** SFX only — engines, impacts, light-bursts, an allied volley. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 7x3 — "Your mother told us" · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 7x3 — "Your mother told us" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; the cockpit of @NaveStella over the golden city, an allied ship sacrificing itself in the background.
 - **Characters:** @StellaPeloCorto; @Piloto1 (voice on radio — resolute, flight gear, NOT white hair). **Naves:** @NaveAliada, @NaveImperial.
 - **Shot/lens:** a close-up on @StellaPeloCorto listening to the radio without understanding, a detail of the crackling radio speaker as a woman's calm voice speaks, a wide whip-pan as an @NaveAliada rams an @NaveImperial fighter in the background.
@@ -792,8 +792,8 @@
 - **Audio:** SFX only — radio static and a calm voice, engines, a distant impact. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 7x4 — "Who are you?" / "Go far" · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 7x4 — "Who are you?" / "Go far" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; the cockpit over the city edge, allied ships carving a path toward the black of space.
 - **Characters:** @StellaPeloCorto; @Piloto1 (radio voice). **Naves:** @NaveAliada.
 - **Shot/lens:** a close-up handheld on @StellaPeloCorto shouting into the radio near tears, a detail of the radio as the firm voice answers over static, a wide travelling of @NaveAliada ships opening a path toward the black of space.
@@ -808,8 +808,8 @@
 - **Audio:** SFX only — a shouted plea, radio static, a firm reply, engines. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 7x5 — "We'll be waiting" / they sacrifice themselves · 12s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 7x5 — "We'll be waiting" / they sacrifice themselves · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @CiudadDorada — match its architecture, materials, colors; the high sky at the city's edge, allied ships blooming into light, three forced down intact.
 - **Characters:** @StellaPeloCorto; @Piloto1 (radio); @Piloto2 and @Piloto3 (among the captured, distinct looks, NOT white hair). **Naves:** @NaveAliada, @NaveImperial.
 - **Shot/lens:** a close-up on @StellaPeloCorto listening, tears falling, unable to answer, a wide whip-pan as @NaveAliada ships interpose and burst into flowers of light, a detail as three allied ships are forced down intact and their pilots taken alive.
@@ -823,8 +823,8 @@
 - **Audio:** SFX only — a quiet radio line, bursts of light, engines straining. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 7x6 — Out into the void, alone · 12s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 7x6 — Out into the void, alone · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; the edge of atmosphere giving to the silent void of space, the golden sick planet falling behind.
 - **Characters:** @StellaPeloCorto; @Piloto2, @Piloto3 (captured, glimpsed).
 - **Shot/lens:** a close-up on @StellaPeloCorto watching it all in the rear mirror — the dying and the three taken prisoner — her face storing it, a wide dolly-out as she flies out into the void, alone, @Erdia shrinking behind.
@@ -839,8 +839,8 @@
 
 ## SECUENCIA 8 — ESCENA: Clímax silencioso / híper-salto · *(clips 8x1–8x9)*
 
-### CLIP 8x1 — The silence of space · 8s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 8x1 — The silence of space · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; the silent void, absolute black scattered with cold stars, nothing moving.
 - **Shot/lens:** a single locked wide of the empty starfield.
 - **Camera:** fixed, motionless, held.
@@ -850,8 +850,8 @@
 - **Audio:** SFX only — deep space hum, near silence. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 8x2 — Erdia shrinks / a soft alarm · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 8x2 — Erdia shrinks / a soft alarm · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; the void behind the ship, golden sick @Erdia dwindling, and the dim cockpit.
 - **Characters:** @StellaPeloCorto (implied in cockpit). **Naves:** @NaveStella.
 - **Shot/lens:** a wide dolly-out as golden, sick @Erdia slowly shrinks behind @NaveStella, a detail of a cockpit panel where a soft amber alarm begins to blink.
@@ -862,8 +862,8 @@
 - **Audio:** SFX only — deep space hum, a soft repeating alarm blip. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 8x3 — Oxygen critical · 11s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 8x3 — Oxygen critical · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; the dim cockpit of @NaveStella, a warning panel lighting red.
 - **Characters:** @StellaPeloCorto. **Naves:** @NaveStella.
 - **Shot/lens:** an insert of a warning sign lighting up (the readout "OXYGEN: CRITICAL", red glyphs pulsing), a close-up on @StellaPeloCorto breathing ever more slowly.
@@ -874,8 +874,8 @@
 - **Audio:** SFX only — a low warning tone, shallow breathing. No music.
 - **Negative:** gentle stylized action, no on-screen text. (Only the device readout "OXYGEN: CRITICAL" is allowed.)
 
-### CLIP 8x4 — Her face, crying without sound · 10s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 8x4 — Her face, crying without sound · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; the dim cockpit, her face the only subject.
 - **Characters:** @StellaPeloCorto.
 - **Shot/lens:** an extreme close-up dolly-in on @StellaPeloCorto's face, crying silently.
@@ -886,8 +886,8 @@
 - **Audio:** SFX only — very shallow breathing, a faint alarm, near silence. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 8x5 — The floating tear / looks at her hand · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 8x5 — The floating tear / looks at her hand · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; the dim cockpit in zero gravity, a single tear adrift.
 - **Characters:** @StellaPeloCorto.
 - **Shot/lens:** a detail as a tear lifts from her cheek and floats in zero-g, a detail as the floating tear catches starlight and turns slowly, a close-up tilt as @StellaPeloCorto lowers her gaze to her hand.
@@ -898,8 +898,8 @@
 - **Audio:** SFX only — near silence, a faint shimmering tone, soft breathing. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 8x6 — The Orb in her palm / a thought · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 8x6 — The Orb in her palm / a thought · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; the dim cockpit, the palm-key glowing, the tablet console before her.
 - **Characters:** @StellaPeloCorto. **Props:** @LlaveDeLuz, @Orbe (integrated).
 - **Shot/lens:** a detail dolly-in on the @LlaveDeLuz in her palm with the @Orbe pulsing inside, warm and alive, an extreme close-up on her glassy eyes as a thought is born, a detail handheld as she lays her open palm on the console.
@@ -910,8 +910,8 @@
 - **Audio:** SFX only — a soft warm pulse from the Orb, a shallow breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 8x7 — Panels wake one by one · 13s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 8x7 — Panels wake one by one · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; the dim cockpit waking with light flowing from her hand.
 - **Characters:** @StellaPeloCorto. **Props:** @Orbe (energy).
 - **Shot/lens:** an insert as the Orb's energy begins to flow into the ship, a thread of light from her hand to the metal, a detail tilt as one panel lights, then another, then another in the gloom, a medium on @StellaPeloCorto watching, face lit by the waking panels.
@@ -922,8 +922,8 @@
 - **Audio:** SFX only — a soft rising surge, panels powering on one by one. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 8x8 — Overload / HYPER-JUMP · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 8x8 — Overload / HYPER-JUMP · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; the cockpit overloading, then the void as the ship stretches into a line of light and vanishes.
 - **Characters:** @StellaPeloCorto. **Naves:** @NaveStella. **Props:** @Orbe.
 - **Shot/lens:** an insert handheld of a charge meter climbing into the red, a wide handheld as the whole system trembles and overloads, a close-up handheld as @StellaPeloCorto grips the seat wide-eyed, a wide whip-pan as @NaveStella hyper-jumps into a line of light, a wide as a burst of white swallows the frame.
@@ -935,8 +935,8 @@
 - **Audio:** SFX only — a rising overload whine, rattling cockpit, a thunderous jump, a white silence. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 8x9 — Total white · 7s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 8x9 — Total white · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @EspacioErdia — match its architecture, materials, colors; pure white, nothing else, the mirror of the film's opening black.
 - **Shot/lens:** a locked wide of total white.
 - **Camera:** fixed, held.
@@ -950,8 +950,8 @@
 
 ## SECUENCIA 9 — ESCENA: Balcón real / discurso · *(clips 9x1–9x7)*
 
-### CLIP 9x1 — The plaza / "We have been robbed" · 11s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 9x1 — The plaza / "We have been robbed" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony — grand, public, about to curdle.
 - **Characters:** @Vorthan. **Naves:** — .
 - **Shot/lens:** a wide crane over the packed plaza with @Vorthan tiny on the royal balcony above the crowd, a medium dolly-in on @Vorthan speaking with perfect measured mourning.
@@ -964,8 +964,8 @@
 - **Audio:** SFX only — a vast crowd murmur, a single amplified voice, banners in the wind. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 9x2 — "our planet will be lost" · 15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 9x2 — "our planet will be lost" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; the royal balcony and the sea of faces, horror rippling through the crowd.
 - **Characters:** @Vorthan; the crowd.
 - **Shot/lens:** a close-up on @Vorthan letting the word fall, savoring the plaza's silence, a wide pan of horror rippling across the crowd — broken faces, hands over mouths, a medium on @Vorthan as the condemnation grows.
@@ -979,8 +979,8 @@
 - **Audio:** SFX only — a hushed then rippling crowd, an amplified mourning voice. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 9x3 — The pilots in holding pens · 11s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 9x3 — The pilots in holding pens · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; behind the balcony, three holding pens displayed above the crowd.
 - **Characters:** @Piloto1, @Piloto2, @Piloto3 (the three allies who saved @Stella — distinct looks, NOT white hair, flight gear, defeated, heads bowed).
 - **Shot/lens:** a wide tilt revealing the three confined @Piloto1, @Piloto2, @Piloto3 behind the King, imprisoned and beaten, a close-up on one pilot lifting his gaze to the sky where @Stella went.
@@ -991,8 +991,8 @@
 - **Audio:** SFX only — a distant crowd, wind, the creak of a holding pen. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 9x4 — "One of our own" · 11s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 9x4 — "One of our own" · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; the balcony, the King turning the knife, the crowd hanging on every word.
 - **Characters:** @Vorthan; the crowd.
 - **Shot/lens:** a close-up dolly-in on @Vorthan turning the knife, a close-up on @Vorthan, a beat, poisoning the memory.
@@ -1006,8 +1006,8 @@
 - **Audio:** SFX only — an amplified voice, a stirring crowd. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 9x5 — "@Stella. Thief. Traitor." · 10s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 9x5 — "@Stella. Thief. Traitor." · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; the balcony over a crowd turning to fury, a sea of raised fists.
 - **Characters:** @Vorthan; the crowd.
 - **Shot/lens:** an extreme close-up on @Vorthan delivering the final words like a sentence, a wide handheld of the crowd that would have loved her that morning now screaming her name in hatred, fists raised.
@@ -1021,8 +1021,8 @@
 - **Audio:** SFX only — a hard measured voice, a roaring crowd, chanting turning to rage. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 9x6 — @Vorthan holds the baby · 14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 9x6 — @Vorthan holds the baby · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; the balcony before the enraged crowd, the King holding the baby aloft.
 - **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes); the crowd.
 - **Shot/lens:** a medium on @Vorthan holding @SelkaBebe before the crowd as she stares uncomprehending, a close-up dolly-in as the King, almost imperceptibly, strokes the baby's head like a father.
@@ -1033,8 +1033,8 @@
 - **Audio:** SFX only — a distant roaring crowd, a baby's small sound, wind. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 9x7 — The intolerable image / cut to black · 10s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### CLIP 9x7 — The intolerable image / cut to black · 20s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; the balcony, the baby's hand closing on the King's finger, then a cut to black.
 - **Characters:** @Vorthan (hand), @SelkaBebe (grey-blue eyes); the crowd.
 - **Shot/lens:** a detail of @SelkaBebe's little hand closing trustingly on @Vorthan's finger, a wide as the blue sky and the roaring plaza cut abruptly to black — end of Act 1.

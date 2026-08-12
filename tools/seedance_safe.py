@@ -37,7 +37,43 @@ ESTILO = [
     (r"Ghibli/Kon", "painterly 2D anime"),
     (r"Ghibli\s*\+\s*Satoshi Kon", "painterly hand-painted 2D anime"),
     (r"\bGhibli\b", "painterly watercolor"),
-    (r"\bSatoshi Kon\b", "classic 2D anime"),
+    # el "(?! mood)" protege el "Satoshi Kon mood" que se inyecta mas abajo:
+    # sin el, una segunda pasada lo convertiria en "classic 2D anime mood".
+    (r"\bSatoshi Kon\b(?! mood)", "classic 2D anime"),
+]
+
+# ---------------------------------------------------------------------------
+# 1b. INTERRUPTOR: nombres de autor en el prompt (peticion de Gio).
+#
+# ⚠️ ESTO ES EL DISPARADOR QUE SE HABIA QUITADO. Nombrar a un artista vivo
+# (Miyazaki) o a un autor con obra registrada (Kon) es exactamente la clase de
+# token que activa el filtro de propiedad intelectual de los modelos de video.
+# Si vuelven los rechazos, pon NOMBRES_DE_AUTOR = False y regenera: es lo
+# PRIMERO que hay que apagar, y la descripcion del look sigue intacta debajo.
+# ---------------------------------------------------------------------------
+NOMBRES_DE_AUTOR = True
+PREFIJO_AUTOR = "Hayao Miyazaki style, Satoshi Kon mood, "
+
+# ---------------------------------------------------------------------------
+# 1c. DURACION — todos los clips a 20s (antes 15s).
+#     OJO: en SBPAGES los "~63s" son TOTALES de escena (9 tomas), no duracion
+#     de clip. Se recalculan a tomas×20 para que el documento no se contradiga.
+# ---------------------------------------------------------------------------
+SEGUNDOS = 20
+
+def _total_pagina(m):
+    return f"{m.group(1)} shots · ~{int(m.group(1)) * SEGUNDOS}s"
+
+DURACION = [
+    (r"21:9, 15s", f"21:9, {SEGUNDOS}s"),
+    (r"≤\s*15s", f"≤{SEGUNDOS}s"),
+    (r"<=\s*15s", f"<={SEGUNDOS}s"),
+    (r"\bSeedance 2\.0\b", "Seedance 2.5"),
+    # duracion al final de un encabezado de clip: "### CLIP 1x1 — Titulo · 13s"
+    (r"(?m)^(###\s+CLIP\s+[^\n]*·\s*)\d{1,2}s\s*$", r"\g<1>" + f"{SEGUNDOS}s"),
+    # total de pagina recalculado: "9 shots · ~63s" -> "9 shots · ~180s"
+    (r"(\d+) shots · ~\d+s", _total_pagina),
+    (r"\b15s\b", f"{SEGUNDOS}s"),
 ]
 
 # ---------------------------------------------------------------------------
@@ -261,8 +297,12 @@ def transformar(txt, con_arrobas=True):
     # IGNORECASE en todo: el atributo de busqueda data-s de los HTML guarda el
     # prompt EN MINUSCULAS ("style: satoshi kon..."), asi que un patron sensible
     # a mayusculas dejaba intactos 619+233+86 prompts dentro del indice.
-    for patron, rep in ESTILO + NOTAS_SEGURIDAD + FRASES + PALABRAS:
+    for patron, rep in ESTILO + NOTAS_SEGURIDAD + FRASES + PALABRAS + DURACION:
         txt = re.sub(patron, rep, txt, flags=re.IGNORECASE)
+    if NOMBRES_DE_AUTOR:
+        # el lookbehind lo hace idempotente: una segunda pasada no lo duplica
+        txt = re.sub(r"(?<!Kon mood, )\bhand-painted 2D anime\b",
+                     PREFIJO_AUTOR + "hand-painted 2D anime", txt)
     # limpieza: "Negative:" pudo quedar con espacios o comas sueltas
     txt = re.sub(r"(\*\*Negative:\*\*|Negative:)\s*,\s*", r"\1 ", txt)
     txt = re.sub(r"(\*\*Negative:\*\*|Negative:)\s*(no on-screen text)", r"\1 gentle stylized action, \2", txt)
@@ -306,7 +346,13 @@ def transformar_html(html, con_arrobas=True):
                 parte = DATA_S.sub(_attr, parte)
                 salida.append(parte)
             else:
-                salida.append(transformar(parte, con_arrobas))
+                # badge de duracion: el nodo de texto es exactamente "13s".
+                # Se trata aparte porque en markdown un "13s" suelto puede ser
+                # el total de una escena y no se debe tocar.
+                if re.fullmatch(r"\s*\d{1,2}s\s*", parte):
+                    salida.append(parte.replace(parte.strip(), f"{SEGUNDOS}s"))
+                else:
+                    salida.append(transformar(parte, con_arrobas))
     return "".join(salida)
 
 def main():

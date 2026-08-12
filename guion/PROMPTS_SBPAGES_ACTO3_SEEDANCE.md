@@ -1,12 +1,12 @@
 # STORYBOARD PROMPT PAGES · ACTO 3 — Stella Fugaz «El Nodo de Erdia»
-> 25 páginas · 9 secuencias (SEC 21–29) · Seedance 2.0 · 21:9 · 15s · un prompt por PÁGINA de escena (todas las tomas en orden)
+> 25 páginas · 9 secuencias (SEC 21–29) · Seedance 2.5 · 21:9 · 20s · un prompt por PÁGINA de escena (todas las tomas en orden)
 
 ---
 
 ## SECUENCIA 21 — ESCENA: Puerto en ruinas
 
-### PAGE 21p1 — Return to the ruined harbor · 9 shots · ~50s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 21p1 — Return to the ruined harbor · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the once-golden city of Erdia twenty years on, now grey and fractured, split in two by fog, ash drifting in still air, towering imperial murals of the King looming over rubble where luzagua gardens used to run; a scrap-strewn harbor of dead machinery, cracked walls, hostile grey market streets.
 - **Characters:** @StellaTeñida (~19, dark-dyed hair, amber eyes, hooded), @Brog, @Nima, @Noah.
 - **Shot/lens:** wide crane establishing over the broken golden city; insert detail on a peeling King-mural with a single crossed-out name @STELLA beneath it; wide of a thin dull luzagua thread among the scrap; wide tracking as a small ship descends and lands; full shot as the hatch opens and the team steps out; close-up of @Stella's face under the hood; medium steadicam through the crowd; insert detail of an old man's spit in the dust; medium of @Noah leaning close.
@@ -18,8 +18,8 @@
 - **Audio:** SFX only — wind, distant patrols, a sick low hum, landing thrusters, settling dust, hostile murmurs, a spit. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 21p2 — @Korin recognizes her · 9 shots · ~40s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 21p2 — @Korin recognizes her · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; a shadowed alley off the grey market of the fractured city, rubble and cracked walls, fog seeping between broken columns.
 - **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @Korin (older, weary), @Brog, @Nima, @Noah.
 - **Shot/lens:** close-up of @Stella holding her gaze on the ruins; close-up as she answers low; wide as the resistance surrounds them, light-light-emitters raised, @Korin at the front; shot-reverse as @Korin aims and she lowers her hood; dolly-in close-up on @Korin's uncertain face; extreme close-up on @Stella's amber eyes under the dark hair; close-up as something breaks in @Korin's face; medium as he lowers the weapon; close-up of @Stella holding his gaze.
@@ -31,8 +31,8 @@
 - **Audio:** SFX only — tense quiet, a weapon's hum, weapons priming, @Korin's breaking voice, lowered weapons. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 21p3 — In orbit: @Vosk begs to go down · 7 shots · ~34s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 21p3 — In orbit: @Vosk begs to go down · 7 shots · ~140s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; the cold bridge of the nodriza mother-ship, a wide viewport with sick golden Erdia turning slow in the black; then a great establishing of Erdia from orbit.
 - **Characters:** @Vosk, @Theron.
 - **Shot/lens:** great establishing of Erdia from orbit, golden and sick, turning in the black; medium of @Vosk at the viewport clenching his fists; shot-reverse as @Vosk turns to @Theron; close-up of @Theron unmoving; close-up of @Vosk holding the silence; close-up of @Vosk answering low and firm; medium of @Theron watching him long.
@@ -48,8 +48,8 @@
 
 ## SECUENCIA 22 — ESCENA: Refugio / @Naio
 
-### PAGE 22p1 — The blind old bound worker is her father · 9 shots · ~46s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 22p1 — The blind old bound worker is her father · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; a resistance refuge dug into the rubble, dim and dripping, hung cloth partitions, cold light filtering between scaffolds, a single lamp.
 - **Characters:** @Korin, @StellaTeñida (dark-dyed hair, amber eyes), @NaioRescatado (bent, half-blind, unrecognizable). **Props:** @LlaveDeLuz, @Orbe.
 - **Shot/lens:** wide of the dim dripping refuge; medium steadicam as @Korin leads @Stella to a bent old man; dolly-in close-up on the half-blind ruined face — @Naio; close-up on @Stella losing her breath in recognition; full shot as she kneels slowly; extreme close-up as she whispers; close-up of @Naio lifting his head, searching an unfound face; insert detail of @Naio's hands finding hers and feeling the @LlaveDeLuz glow beneath her skin; extreme close-up as his good eye floods.
@@ -61,8 +61,8 @@
 - **Audio:** SFX only — dripping, low refuge sounds, her soft voice, his breath, a soft pulse. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 22p2 — River girl / the hidden grief · 7 shots · ~39s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 22p2 — River girl / the hidden grief · 7 shots · ~140s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the same dim resistance refuge in the rubble, single lamp, dripping quiet.
 - **Characters:** @NaioRescatado (amber eyes, wept), @StellaTeñida (dark-dyed hair, amber eyes).
 - **Shot/lens:** close-up of @Naio, his voice cracked with wonder; insert detail of his trembling hand touching her dark-dyed hair; close-up of @Stella letting the words land, holding her tears; close-up of @Stella firm through tears; extreme close-up of @Naio listening as the grief about @Vera crosses his face; insert of his hand gripping hers, letting her go with her hope intact; wide dolly-out — father and daughter, two small silhouettes in the gloom.
@@ -78,8 +78,8 @@
 
 ## SECUENCIA 23 — ESCENA: El asalto · **SET-PIECE A6**
 
-### PAGE 23p1 — The assault erupts, @Stella climbs · 9 shots · ~27s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 23p1 — The assault erupts, @Stella climbs · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; the fog-streets of the fractured city erupting into war, the colossal dome-palace looming above; energy-light lacing the grey, no fire.
 - **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @Brog, @Nima, @Noah, @NaioRescatado, resistance, @RobotImperial.
 - **Shot/lens:** wide crane of the dome-palace over the fog-city, the resistance advancing like a grey tide; wide handheld as war erupts, light against light; medium handheld of @Brog punching a breach through a wall; whip-pan insert of @Nima's four arms gutting a robot; medium steadicam of @Noah deflecting a bolt to cover @Stella's flank; wide handheld as a commando pulls bound workers from a holding pen, @Naio among them; close-up of @Stella looking up at the highest dome, deciding; low-angle crane as she scales the palace alone through light-flashes; insert detail of her fingers gripping a cold metal ledge, the tiny city far below.
@@ -91,8 +91,8 @@
 - **Audio:** SFX only — energy fire, shouts, collapsing stone, heavy impacts, servos, wind, her grunts. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 23p2 — Shatters the dome, drops in · 4 shots · ~14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 23p2 — Shatters the dome, drops in · 4 shots · ~80s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; a vast cold imperial throne hall seen from above through its glass dome ceiling; one white figure standing still at its center far below.
 - **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (below, distant, grey-blue eyes, scar over left eye). **Props:** @Orbe.
 - **Shot/lens:** wide as @Stella reaches the glass dome, a white figure waiting motionless at the center below; dolly-in close-up as she looks down through the glass, breathes, charges the @Orbe in her palm; insert detail of her fist coming down on the glass, the Orb's light bursting on the surface; low-angle handheld as the glass shatters and she falls toward the throne amid a rain of bright shards.
@@ -108,8 +108,8 @@
 
 ## SECUENCIA 24 — ESCENA: Duelo de hermanas · **SET-PIECE A7**
 
-### PAGE 24p1 — Two sisters face to face · 9 shots · ~35s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 24p1 — Two sisters face to face · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; a vast cold imperial throne hall, polished floor, high columns, glass raining from the broken dome above.
 - **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (21, white, grey-blue eyes, scar over her left eye). **Props:** @HojaSelka.
 - **Shot/lens:** full shot as @Stella lands among broken glass, rolls, and rises; insert detail of shards settling on the polished floor, the echo dying; medium of @Selka before her — the General, white, scarred, expressionless; symmetrical shot-reverse of the two sisters facing off; close-up of @Selka, glacial; insert as @Selka ignites her @HojaSelka with a hiss; medium of @Stella opening her hands, refusing the fight; close-up of @Selka, believing nothing; full shot whip-pan as @Selka lunges, the light-cutter arcing.
@@ -122,8 +122,8 @@
 - **Audio:** SFX only — a heavy landing, tinkling glass, a low hall hum, distant war, a blade igniting, a blade swing. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 24p2 — She disarms but won't end · 9 shots · ~27s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 24p2 — She disarms but won't end · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the cold throne hall, blade-light streaking across polished floor and high columns.
 - **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (grey-blue eyes, scar over left eye). **Props:** @HojaSelka, @Gix.
 - **Shot/lens:** medium handheld as @Stella blocks, deflects, dodges — faster; whip-pan insert as she disarms @Selka with a spin, the blade skittering away; close-up of @Stella holding the end and not taking it; medium handheld as @Stella retreats, seeking @Selka's eyes; extreme close-up of @Selka, unblinking, recovering her blade; close-up of @Stella as the line lands harder than any blow; full shot handheld as @Selka sweeps her legs and drops her to the floor, blade rising; POV from the floor: the light-cutter suspended over @Stella's face, blinding; insert detail of @Stella's palm cupping by reflex, a spark of @Gix drifting down to dance in her hand.
@@ -136,8 +136,8 @@
 - **Audio:** SFX only — blade clashes, fast footwork, a disarm, a leg-sweep, a heavy takedown, her gasp, a soft warm chime cutting the violence. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 24p3 — The light game / the Orb is torn out · 9 shots · ~34s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 24p3 — The light game / the Orb is torn out · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the cold throne hall, warm spark hovering between two faces amid the cold marble.
 - **Characters:** @StellaTeñida (dark-dyed hair, amber eyes), @SelkaGeneral (grey-blue eyes, scar over left eye). **Props:** @Gix, @Orbe, @LlaveDeLuz, @Brazalete.
 - **Shot/lens:** medium as @Stella lifts the spark-cupped hand toward @Selka's forehead — the lab gesture, the light game; close-up as @Selka freezes, blade trembling, body remembering before mind; dolly-in extreme close-up as a lost child surfaces under the General; symmetrical shot-reverse, the two still, the spark floating between their faces; close-up as that heartbeat terrifies @Selka; whip-pan insert as @Selka grabs @Stella's hand in fury, attacking what confuses her; extreme close-up of @Stella's palm as the @Orbe tears out in a blinding flare; full shot handheld as @Stella collapses, eyes rolling white, falling into coma; insert detail as a spark from the @Brazalete sinks into @Stella's chest — @Gix embracing her heart from within.
@@ -150,8 +150,8 @@
 - **Audio:** SFX only — a soft warm chime, a trembling breath, the spark's hum, a tearing surge, a white-out crack, a body dropping, a soft ember pulse. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 24p4 — Hollow victory · 3 shots · ~15s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 24p4 — Hollow victory · 3 shots · ~60s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the cold throne hall, @Stella's still body on the polished floor.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over left eye), @StellaTeñida (down, in coma). **Props:** @Orbe.
 - **Shot/lens:** close-up of @Selka standing, the @Orbe in her hand, breathing hard, not knowing what she just did; medium as @Selka gives the order to the guards, her voice not quite steady; insert detail of @Stella's motionless body, breath barely moving her chest.
@@ -167,8 +167,8 @@
 
 ## SECUENCIA 25 — ESCENA: La nave despierta
 
-### PAGE 25p1 — The palace wakes as a ship · 9 shots · ~40s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 25p1 — The palace wakes as a ship · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono then @NavePalacio — match architecture, materials, colors; the throne console at the hall's heart; then the palace revealed as a colossal ship, walls folding into bulkheads, floor becoming deck, the throne opening into a command bridge, ancient engines waking.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over left eye), @Vorthan (O.S., shadowed throne). **Props:** @Orbe, @NavePalacio.
 - **Shot/lens:** full steadicam as @Selka walks to the throne console, the @Orbe in hand, finally to return the light; dolly-in insert as she seats the Orb into its socket, clicking home with a pulse; close-up of @Selka holding her breath, waiting for the light; great wide as the light does not return, the hall staying dead and cold; insert handheld as everything trembles, walls folding like plates; wide handheld as the floor becomes deck and the throne opens like a command bridge, ancient engines waking; great crane reveal — what all believed a palace, what the people believed a meteorite, ignites whole: it was always a ship; medium handheld as @Selka backs away, afraid for the first time in her life; close-up as she speaks toward the throne's shadow, voice trembling.
@@ -181,8 +181,8 @@
 - **Audio:** SFX only — the Orb seating, a rising hum, a dying hum, silence, groaning structure, waking machinery, a titanic wakening roar, her small gasp. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 25p2 — A laugh of a thousand voices · 2 shots · ~10s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 25p2 — A laugh of a thousand voices · 2 shots · ~40s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the shadowed throne, deeper darkness swallowing it, cold ship-light spreading around.
 - **Characters:** @Vorthan (shadowed throne).
 - **Shot/lens:** wide dolly-in toward the shadowed throne as a laugh of a thousand voices at once rises from it; extreme close-up on the King's shadow, the multiple voice.
@@ -198,8 +198,8 @@
 
 ## SECUENCIA 26 — ESCENA: "Fui yo" (la revelación) 🔒
 
-### PAGE 26p1 — Wearing the mother's face · 9 shots · ~50s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 26p1 — Wearing the mother's face · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the cold ship-hall, @Stella dying on the deck, a false soft warmth on the intruder's borrowed face.
 - **Characters:** @Vorthan → false @Vera (grey-blue eyes) (=@Vorthan), @StellaTeñida (dying, amber eyes).
 - **Shot/lens:** full shot as @Vorthan rises from the throne in shadow, his silhouette beginning to deform; insert detail as the King's flesh folds and reforms into @Vera's shape; medium steadicam as, wearing the mother's face, it walks slowly toward @Stella dying on the floor; full shot as false @Vera kneels beside @Stella, stroking her dark-dyed hair, sweet and monstrous; extreme close-up as @Stella half-opens her eyes one last time and does not see the monster; blurred POV of @Stella: her mother's face bent over her, bathed in soft light; extreme close-up of @Stella, a thread of voice, a heartbreaking smile; close-up of false @Vera in the mother's exact voice, poisoned tenderness; dolly-in extreme close-up as @Stella's eyes close slowly, going in peace.
@@ -211,8 +211,8 @@
 - **Audio:** SFX only — a wet shifting sound, a thousand-voice hush, a gentle false voice, @Stella's failing breath, a last breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 26p2 — It was me / the child's face · 9 shots · ~48s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 26p2 — It was me / the child's face · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the cold ship-hall, @Stella still on the deck, the shifting thing beside her.
 - **Characters:** @StellaTeñida (still, amber eyes), false @Vera → false @Marek → @SelkaNiña (grey-blue eyes) (=@Vorthan), @SelkaGeneral (grey-blue eyes, scar over left eye).
 - **Shot/lens:** insert detail as @Stella's hand goes fully slack on the cold floor and stills; medium as the thing rises over the body, @Vera's face dissolving and shifting into @Marek's; close-up of @Selka watching, uncomprehending, the people's hero stepping out of her King; close-up of false @Marek smiling with the good leader's face; dolly-in medium as false @Marek delivers the revelation like a dropped slab; close-up of @Selka taking the blow in silence, moral ground vanishing; insert detail as the form shrinks and shifts a last time; full shot as it becomes a small white-haired child, @SelkaNiña; dolly-in close-up as the child tilts her head toward the General in the tenderest voice in the world.
@@ -224,8 +224,8 @@
 - **Audio:** SFX only — a wet shifting sound, false warm voices, a child's soft breath, @Selka's horrified breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 26p3 — The lullaby / she understands · 9 shots · ~53s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 26p3 — The lullaby / she understands · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the cold ship-hall, the child-thing before the shattering General.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over left eye), @SelkaNiña (grey-blue eyes) (=@Vorthan).
 - **Shot/lens:** extreme close-up of @Selka taking the line, her face beginning to crack; close-up of the child, cruel and sweet; close-up of @Selka, breath broken, barely shaking her head, unable to speak; dolly-in extreme close-up of the child delivering the final blow; medium of the child laughing a trace-freezing infant giggle; close-up of @Selka backing off, head shaking on its own, twenty years of certainty collapsing; extreme close-up as the whole truth lands: she never lost her mother, and her mother died believing she did; insert detail of @Selka's lips beginning to hum the lullaby, a thread of melody in the silence; dolly-in close-up as she finally understands — her mother's song, the one @Vera sang her as a baby.
@@ -237,8 +237,8 @@
 - **Audio:** SFX only — a child's voice, a low freezing laugh, a broken hummed lullaby beginning. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 26p4 — It was our mother · 5 shots · ~30s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 26p4 — It was our mother · 5 shots · ~100s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the immense cold deck of the ship, @Selka alone beside her sister's body.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over left eye), @StellaTeñida (dead-in-coma, amber eyes).
 - **Shot/lens:** full shot as @Selka breaks entirely and drops to her knees on the deck; close-up as the broken lullaby comes out of her on its own; extreme close-up of a cry from the deepest place; medium as @Selka looks at @Stella dead-in-coma on the floor, the cry split open; wide crane — @Selka on her knees beside her sister's body, alone on the immense deck.
@@ -254,8 +254,8 @@
 
 ## SECUENCIA 27 — ESCENA: El Parásito · **SET-PIECE A8**
 
-### PAGE 27p1 — True form / @Selka loses her arm · 9 shots · ~28s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 27p1 — True form / @Selka loses her arm · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the vast ship-hall filled and dwarfed by the colossal @Parasito, a ~300m pitch-black colossal mass of countless screaming devoured human faces surfacing and sinking, a porous black membrane that drinks all light, no fixed form.
 - **Characters:** @Parasito (=@Vorthan), @SelkaGeneral (grey-blue eyes, scar over left eye, about to lose an arm). **Props:** @HojaSelka.
 - **Shot/lens:** full shot as the thing sheds all disguise, the child's flesh unmaking; great wide crane as it takes its true form — the @Parasito, a colossal ancient creature of stolen light and screaming faces, filling the hall; extreme low-angle tilt up the mass to the ceiling; close-up of @Selka — freshly broken, freshly human — with one new certainty: her sister crossed a universe for her; insert detail as her hand takes up her @HojaSelka from the floor, the blade re-igniting; full shot handheld as she throws herself at the monster to cover @Stella's rescue; wide handheld as she is not remotely a match, the light-cutter barely scoring the mass; whip-pan insert as the @Parasito, barely noticing, shears off her arm with a stroke of light; full shot handheld as @Selka falls, one-armed but alive, rolling across the deck.
@@ -267,8 +267,8 @@
 - **Audio:** SFX only — a titanic roar, a chorus of screaming faces, groaning structure, a blade re-igniting, a light-shear, a body rolling. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 27p2 — @Theron arrives / the extraction · 9 shots · ~31s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 27p2 — @Theron arrives / the extraction · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the ship-hall, a blown bulkhead, smoke, the @Parasito towering as the team breaches for the rescue.
 - **Characters:** @SelkaGeneral (one-armed, grey-blue eyes, scar over left eye), @Theron, @Brog, @Nima, @Vosk, @StellaTeñida (in coma, amber eyes), @Parasito. **Props:** @HojaSelka.
 - **Shot/lens:** close-up of @Selka on the floor, the light-cauterized stump, face in pure shock, breath broken; wide handheld as a burst of light bursts the bulkhead, metal folding inward; full shot as @Theron enters through the smoke, immense, still; dolly-in close-up as @Theron sees the monster with his own eyes for the first time in twenty thousand years, every lost trail finally given a face; extreme close-up of @Theron, low, almost a prayer; wide handheld as @Brog and @Nima breach while @Theron faces the @Parasito; medium steadicam as @Brog lifts @Stella in coma like a feather, @Nima carries one-armed @Selka; medium handheld as @Vosk covers the door, blade high — he made it after all; medium handheld as @Nima shouts to @Theron over the din.
@@ -281,8 +281,8 @@
 - **Audio:** SFX only — his ragged breath, a burst of light, groaning metal, a titanic presence, his low prayer, running, shouts. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 27p3 — Retreat before the immensity · 2 shots · ~11s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 27p3 — Retreat before the immensity · 2 shots · ~40s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the ship-hall filled by the @Parasito, indifferent to the fleeing team, the breach behind.
 - **Characters:** @Theron, @Parasito.
 - **Shot/lens:** full shot dolly-out as @Theron backs away, never taking his eyes off the @Parasito, toward the breach; great wide as the @Parasito fills the hall, indifferent to the escape.
@@ -297,8 +297,8 @@
 
 ## SECUENCIA 28 — ESCENA: El portal
 
-### PAGE 28p1 — The ship-palace takes the portal · 9 shots · ~57s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 28p1 — The ship-palace takes the portal · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NavePalacio and @ErdiaRuinas and @NodrizaInterior — the palace-ship tearing free of the city, the grey sky over ruined Erdia, a slit of light opening as a portal; then @Theron's ship bridge.
 - **Characters:** @Theron. **Props:** @NavePalacio, @Orbe.
 - **Shot/lens:** great wide crane as the palace-ship finishes tearing from the city, spewing debris, the @Orbe pulsing in its core; great wide tilt as the mass rises over Erdia, blotting the grey sky; wide as a portal opens in the sky, a slit of light toward the next world it will drain; great wide as the palace-ship enters the portal and vanishes, chasing no one — it has what it came for; great wide as the sky closes over the city, the slit of light suturing shut, silence; wide of ash and rubble falling slow over the empty ruins, air still; great wide travelling as @Theron's ship recedes the opposite way, small against broken Erdia; close-up on the bridge of @Theron watching the point where the portal was, for the first time not lost; close-up of @Theron, low voice.
@@ -310,8 +310,8 @@
 - **Audio:** SFX only — tearing structure, spilling debris, a portal opening, a suturing hush, slow falling ash, quiet ship hum. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 28p2 — Now I know where · 2 shots · ~14s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 28p2 — Now I know where · 2 shots · ~40s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior then the void of space — @Theron's bridge; then sick Erdia turning slow and alone in the black.
 - **Characters:** @Theron.
 - **Shot/lens:** extreme close-up dolly-in on @Theron, certainty settling into his unblinking eyes; great wide of the void of space, diseased Erdia turning slow, alone, in the black.
@@ -327,8 +327,8 @@
 
 ## SECUENCIA 29 — ESCENA: Enfermería
 
-### PAGE 29p1 — The tank / the fading ember · 9 shots · ~58s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 29p1 — The tank / the fading ember · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; a still infirmary, low ship-hum, stagnant bluish light; @StellaTeñida asleep in a @TanqueSoporte life-support tank, hair suspended in the water.
 - **Characters:** @StellaTeñida (asleep, amber eyes), @NaioRescatado (amber eyes), @Theron, @SelkaGeneral (one arm gone, bandaged, grey-blue eyes, scar over left eye). **Props:** @TanqueSoporte, @Gix.
 - **Shot/lens:** wide of the still infirmary, bluish stagnant light; medium dolly-in on @Stella floating in the @TanqueSoporte, asleep, intact, absent, hair drifting; medium of @Naio holding his sleeping daughter's gaze, unable to touch her; insert dolly-in on @Stella's chest inside the water, a faint glow beating — @Gix, an ember about to go out; close-up of @Theron, low voice; insert detail of the ember flickering weak in the water; full shot steadicam as @Selka enters, arm gone and bandaged, the face of one who lost everything in a night; medium as @Selka approaches @Naio, her father, and takes his hand with her only hand; close-up of @Selka, almost no voice.
@@ -340,8 +340,8 @@
 - **Audio:** SFX only — low ship hum, the tank's soft bubbling, a faint ember pulse, her almost-voiceless words. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 29p2 — Forgiveness / the vow · 9 shots · ~49s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 29p2 — Forgiveness / the vow · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; the still infirmary, bluish light, the @TanqueSoporte glowing beside the sleeping sister.
 - **Characters:** @SelkaGeneral (one arm, grey-blue eyes, scar over left eye), @NaioRescatado (amber eyes), @StellaTeñida (asleep in tank, amber eyes). **Props:** @TanqueSoporte.
 - **Shot/lens:** extreme close-up as @Selka lets the word land, guilt overflowing in silence; close-up of @Selka, broken; dolly-in close-up as she gathers her will and swears; insert detail of @Naio's hand, wordless, pressing @Selka's — forgiving her with that; medium steadicam as @Selka turns toward the tank, toward her sleeping sister; insert dolly-in as her one palm rests on the cold glass, right over @Stella's face; close-up of @Selka, forehead against the glass; extreme close-up as @Selka holds her gaze on her sleeping sister's face, the silence heavy; close-up of @Selka, a plea.
@@ -353,8 +353,8 @@
 - **Audio:** SFX only — low ship hum, the tank's soft bubbling, her broken voice, her forehead on the glass. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 29p3 — A river that returns / to black · 7 shots · ~50s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 29p3 — A river that returns / to black · 7 shots · ~140s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; the darkened infirmary, the @TanqueSoporte lit, three veiled figures around it, the @Gix ember beating far and faint; ending on a cut to black with the title.
 - **Characters:** @StellaTeñida (asleep in tank, amber eyes), @SelkaGeneral (one arm, grey-blue eyes, scar over left eye). **Props:** @TanqueSoporte, @Gix.
 - **Shot/lens:** extreme close-up dolly-in on @Stella's sleeping face in the water, absolute stillness; insert detail as, from the depths of the coma with her mother's voice inside her, @Stella's lips barely move; insert dolly-in as the @Gix ember beats once more in the tank — weak, small, but beating; close-up of @Selka, forehead on the glass, hearing the whisper, eyes closing, a wisp of hope; wide dolly-out of the lit tank in the dark infirmary, three veiled figures around it, the ember beating far; insert detail of the @Gix ember, a last faint pulse in the water, held until the image dims; transition — cut to black, over the black the title EL NODO DE ERDIA.

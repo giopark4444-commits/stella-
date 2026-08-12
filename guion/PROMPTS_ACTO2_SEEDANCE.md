@@ -1,10 +1,10 @@
 # PROMPTS · ACTO 2 — Stella Fugaz "El Nodo de Erdia" (P1)
-## 86 clips (89-154 + sub-clips de cobertura/acción) · Seedance 2.0 · 15s · 21:9
+## 86 clips (89-154 + sub-clips de cobertura/acción) · Seedance 2.5 · 20s · 21:9
 
 > Mismo sistema que el Acto 1 (`PROMPTS_ACTO1.md`): directivas + diálogo en **English**, @menciones,
 > Setting con descripción exquisita, Action al detalle, **grey-blue eyes** en @Vera/@Selka, **MODO ACCIÓN**
 > en peleas (`Motion:`), y **acción ×2** (sub-clips 99A, 119A…). Marcado por SECUENCIA / ESCENA.
-> Constantes: painterly hand-painted 2D anime, 21:9, 15s, SFX only/no music/.
+> Constantes: painterly Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, 21:9, 20s, SFX only/no music/.
 
 ---
 
@@ -32,7 +32,7 @@
 - `@PlanetaChatarra` · `@FosaApuestas` · `@PlanetaCometas` · `@MinasNiebla` · `@RefugioResistencia` · `@AposentosGeneral`.
 - `@TrajeNuevo` (traje que construye @Nima) · `@CollarControl` (collar supresor) · `@Proyector` (la foto) · `@Orbe`.
 
-> **Constante de estilo:** `hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.`
+> **Constante de estilo:** `Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.`
 > **Constante negativa:** `no on-screen text, no watermark.`
 > **MODO ACCIÓN `Motion:`** `very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.`
 >
@@ -45,7 +45,7 @@
 ## SECUENCIA 10 — ESCENA: La nave nodriza / "te recogí" · *(89-95)*
 
 ### CLIP 89 — establishing de la nodriza
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background. A vast dark cargo bay of an ancient mothership; cold metal ribs, dim amber work-lights, @NaveStella's wrecked hull clamped in mechanical arms like caught prey.
 - **Shot/lens:** wide establishing of the cavernous bay.
 - **Camera:** slow drift through the gloom toward the wreck.
@@ -56,7 +56,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 90 — @Stella despierta
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background. The cold bay floor.
 - **Characters:** @StellaPeloCorto. **Props:** @Orbe, @LlaveDeLuz.
 - **Shot/lens:** close on @StellaPeloCorto waking, disoriented.
@@ -68,7 +68,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 90A — el duelo al despertar
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto.
 - **Shot/lens:** primerísimo plano on her face.
@@ -80,7 +80,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 91 — aparece @Theron
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background. The shadowed bay.
 - **Characters:** @Theron, @StellaPeloCorto.
 - **Shot/lens:** a huge shadow resolves into @Theron.
@@ -92,7 +92,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 92 — "I picked you up"
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Theron, @StellaPeloCorto.
 - **Shot/lens:** shot-reverse between them.
@@ -105,7 +105,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 93 — "what shines can be followed"
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Theron, @StellaPeloCorto. **Props:** @Orbe.
 - **Shot/lens:** close on @Theron eyeing the glow in her hand.
@@ -118,7 +118,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 94 — esconde la mano (es un rastro)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto.
 - **Shot/lens:** primerísimo plano of her face and fist.
@@ -134,7 +134,7 @@
 ## SECUENCIA 11 — ESCENA: Maltrato / @Vosk / @Brog y @Nima / la dilatación · *(96-106)*
 
 ### CLIP 95 — establishing pasillos/bodega
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. Cramped, grimy ship corridors and a cluttered hold; a motley crew of strange species eyeing the newcomer.
 - **Characters:** @StellaPeloCorto, crew (varied aliens).
 - **Shot/lens:** wide of the hold, crew turning to look.
@@ -146,7 +146,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 96 — la desprecian
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, crew.
 - **Shot/lens:** medium; a plate knocked to the floor.
@@ -158,7 +158,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 96A — se encoge en un rincón
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, crew.
 - **Shot/lens:** wide, small in the corner of the hold.
@@ -170,7 +170,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 97 — @Vosk la encara
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Vosk, @StellaPeloCorto.
 - **Shot/lens:** low on @Vosk blocking her path, huge.
@@ -183,7 +183,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 98 — el primer golpe
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Vosk, @StellaPeloCorto.
 - **Shot/lens:** medium; she slaps his hand away, he grins and swings.
@@ -196,7 +196,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 99 — la pelea
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Vosk, @StellaPeloCorto.
 - **Shot/lens:** dirty brawl, dynamic.
@@ -209,7 +209,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 99A — @Stella aguanta (acción ×2)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Vosk.
 - **Shot/lens:** tight, her ducking and countering.
@@ -222,7 +222,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 99B — @Vosk la estrella
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Vosk.
 - **Shot/lens:** tight, he hurls her into the lockers.
@@ -235,7 +235,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 100 — @Brog los separa
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Brog, @Vosk, @StellaPeloCorto.
 - **Shot/lens:** a giant stone hand enters frame and lifts @Vosk away.
@@ -247,7 +247,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 101 — @Nima ("dos formas de romperse")
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. A cluttered workbench corner.
 - **Characters:** @Nima, @StellaPeloCorto, @Brog.
 - **Shot/lens:** medium on @Nima, four hands working without looking up.
@@ -260,7 +260,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 102 — beat silencioso con @Brog
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Brog, @StellaPeloCorto.
 - **Shot/lens:** two-shot, the small girl beside the rock giant.
@@ -272,7 +272,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 103 — la dilatación 1:4
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Theron, @StellaPeloCorto.
 - **Shot/lens:** close two-shot, the cruel truth landing.
@@ -289,7 +289,7 @@
 ## SECUENCIA 12 — ESCENA: [AÑO 8] La resistencia / @Marek / la encapuchada · *(104-108)*
 
 ### CLIP 104 — establishing Erdia se pudre
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; lush, detailed, painterly background. RÓTULO **ERDIA · AÑO 8**. The once-golden city greyed by fog and scaffolds, the luzagua canals running thin and dull, mining smoke smudging the sky.
 - **Shot/lens:** wide establishing of the decaying city.
 - **Camera:** slow mournful drift over the rot.
@@ -300,7 +300,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 104A — la luzagua se apaga
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Shot/lens:** detail of a thin grey light-water canal; a ragged child crouched.
 - **Camera:** slow drift to the dimming water.
@@ -311,7 +311,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 105 — el refugio / @Marek
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @RefugioResistencia — match its architecture, materials, colors; lush, detailed, painterly background. A hidden refuge of gaunt naieli gathered by lamplight.
 - **Characters:** @Marek, resistance (varied, not all white-haired).
 - **Shot/lens:** warm medium on @Marek among his people.
@@ -323,7 +323,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 105A — las caras de la resistencia
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @RefugioResistencia — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** resistance (varied, not all white-haired).
 - **Shot/lens:** montage of gaunt hopeful faces.
@@ -335,7 +335,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 106 — @Marek: ¿una niña vació un planeta?
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @RefugioResistencia — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Marek, resistance.
 - **Shot/lens:** medium, intercut with nodding faces.
@@ -348,7 +348,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 107 — la figura encapuchada
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @RefugioResistencia — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @VeraEncapuchada (face hidden), @Marek.
 - **Shot/lens:** medium on the hooded figure beside @Marek.
@@ -360,7 +360,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 108 — la encapuchada baja la cabeza
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @RefugioResistencia — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @VeraEncapuchada (face hidden).
 - **Shot/lens:** close on the hood and hidden jaw.
@@ -376,7 +376,7 @@
 ## SECUENCIA 13 — ESCENA: La misión / la traición de @Vosk / la captura · *(109-114)*
 
 ### CLIP 109 — establishing planeta chatarra
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background. A junk planet — endless dunes of dead ships and twisted metal under a bruised sky.
 - **Characters:** @StellaPeloCorto (older, harder), crew.
 - **Shot/lens:** wide establishing over the scrap dunes.
@@ -388,7 +388,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 109A — la tripulación entre los restos
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, crew.
 - **Shot/lens:** crew clambering through towering dead hulls.
@@ -400,7 +400,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 110 — la emboscada
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @CazadorRecompensas, crew.
 - **Shot/lens:** sudden wide as bounty hunters spring the trap.
@@ -413,7 +413,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 111 — @Stella escondida / cruce de miradas
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background. A narrow crevice between wrecks.
 - **Characters:** @StellaPeloCorto, @Vosk.
 - **Shot/lens:** she hides; cut to @Vosk seeing her across the field.
@@ -425,7 +425,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 112 — la piedra (la traición)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Vosk, @StellaPeloCorto.
 - **Shot/lens:** insert of @Vosk's hand taking a stone; he throws it.
@@ -437,7 +437,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 113 — @Vosk la delata
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Vosk, @StellaPeloCorto, @CazadorRecompensas.
 - **Shot/lens:** @Vosk shouting, hunters converging.
@@ -451,7 +451,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 114 — el collar / @Vosk también cae
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @CazadorRecompensas, @Vosk. **Props:** @CollarControl.
 - **Shot/lens:** they clamp a collar on her; her suit dies; a net takes @Vosk too.
@@ -467,7 +467,7 @@
 ## SECUENCIA 14 — ESCENA: La fosa / @Noah / la negativa · *(115-120)*
 
 ### CLIP 115 — establishing la fosa
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background. A grimy betting-station: bound worker auctions above, a sunken combat pit ringed by roaring, gambling crowds below.
 - **Shot/lens:** wide establishing of the pit and the mob.
 - **Camera:** crane down into the arena.
@@ -478,7 +478,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 115A — la multitud y las apuestas
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** crowd, bookies.
 - **Shot/lens:** bookies taking frantic bets, the mob baying.
@@ -490,7 +490,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 116 — anuncian a la ladrona
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto (collar on), crowd. **Props:** @CollarControl.
 - **Shot/lens:** @StellaPeloCorto alone in the pit, scanning for an exit.
@@ -502,7 +502,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 117 — empujan a @Noah
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Noah, @StellaPeloCorto.
 - **Shot/lens:** the far gate opens; @Noah shoved in.
@@ -514,7 +514,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 118 — @Stella se queda helada
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Noah.
 - **Shot/lens:** close on her face, recognition.
@@ -526,7 +526,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 119 — "I won't end you for them"
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Noah, @StellaPeloCorto.
 - **Shot/lens:** @Noah raises his blade; she does not.
@@ -540,7 +540,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 119A — el choque de tanteo (acción ×2)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Noah, @StellaPeloCorto.
 - **Shot/lens:** fast exchange — his blade vs her evasions.
@@ -553,7 +553,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 120 — la oferta / se giran contra los guardias
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Noah.
 - **Shot/lens:** quick two-shot, then a whip to the guards.
@@ -571,7 +571,7 @@
 ## SECUENCIA 15 — ESCENA: La fuga / salva a @Vosk / el respeto de @Theron · *(121-126)*
 
 ### CLIP 121 — caos / arranca el collar
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Noah. **Props:** @CollarControl, @Orbe.
 - **Shot/lens:** she tears free of the collar; the Orb reignites; back-to-back with @Noah.
@@ -584,7 +584,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 121A — el Orbe se desata (acción ×2)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto. **Props:** @Orbe.
 - **Shot/lens:** wide as a burst of light throws back a wave of guards.
@@ -597,7 +597,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 122 — @Brog y @Nima rompen la pared
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Brog, @Nima, @StellaPeloCorto.
 - **Shot/lens:** the outer wall bursts inward; @Brog leads.
@@ -610,7 +610,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 122A — @Brog y @Nima arrasan
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Brog, @Nima.
 - **Shot/lens:** @Brog wading through guards, @Nima's gadgets.
@@ -623,7 +623,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 123 — la ejecución de @Vosk
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background. a sentencing platform over the pit.
 - **Characters:** @Vosk, guards.
 - **Shot/lens:** @Vosk on his knees, an energy device at his neck.
@@ -635,7 +635,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 124 — @Stella va por él
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Noah, @Vosk.
 - **Shot/lens:** she changes direction toward the platform; @Noah yells to go.
@@ -648,7 +648,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 124A — @Stella salta hacia la plataforma
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto.
 - **Shot/lens:** she vaults off a guard and flips over the melee.
@@ -661,7 +661,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 125 — la salva / "porque no soy tú"
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Vosk.
 - **Shot/lens:** she breaks the platform, deflects the device, hauls him up.
@@ -675,7 +675,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 125A — @Vosk quebrado (acción ×2 / reacción)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Vosk.
 - **Shot/lens:** primerísimo plano of @Vosk's face mid-escape.
@@ -687,7 +687,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 126 — escapan / @Theron la observa
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background. The station burning behind them.
 - **Characters:** @StellaPeloCorto, @Noah, @Brog, @Nima, @Vosk, @Theron.
 - **Shot/lens:** the group escapes; later, @Theron watching from afar.
@@ -703,7 +703,7 @@
 ## SECUENCIA 16 — ESCENA: Montaje · vínculos / idioma / traje / domar el Orbe · *(127-132)*
 
 ### CLIP 127 — establishing planeta de cometas
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background. A strange beautiful world under a sky streaked with slow comets; soft grass, drifting light, the found family at rest.
 - **Characters:** @StellaPeloCorto, @Brog, @Nima, @Noah.
 - **Shot/lens:** wide lyrical establishing under the comet sky.
@@ -715,7 +715,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 127A — montaje de la familia
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Brog, @Nima, @Noah.
 - **Shot/lens:** quick warm montage beats.
@@ -727,7 +727,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 128 — @Brog le enseña su idioma
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background. By a comet-lit fire.
 - **Characters:** @Brog, @StellaPeloCorto.
 - **Shot/lens:** intimate two-shot at the fire.
@@ -739,7 +739,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 129 — @Nima le construye el traje
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background. @Nima's open-air workbench.
 - **Characters:** @Nima, @StellaPeloCorto. **Props:** @TrajeNuevo.
 - **Shot/lens:** @Nima's four hands working the new suit.
@@ -752,7 +752,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 129A — se prueba el traje nuevo
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Nima. **Props:** @TrajeNuevo.
 - **Shot/lens:** she seals the new suit and stands.
@@ -764,7 +764,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 130 — entrena el Orbe (inestable)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto. **Props:** @Orbe, @LlaveDeLuz.
 - **Shot/lens:** the Orb's light bucking out of control.
@@ -777,7 +777,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 131 — lo canaliza (el río)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto. **Props:** @Orbe.
 - **Shot/lens:** controlled light streaming from her open palm.
@@ -789,7 +789,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 131A — la luz controlada (asombro)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Brog, @Nima. **Props:** @Orbe.
 - **Shot/lens:** wider shot, the ribbon of light arcing into the night.
@@ -801,7 +801,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 132 — un arma que eligió su causa
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto. **Props:** @TrajeNuevo.
 - **Shot/lens:** primer plano of her face, the comet sky behind.
@@ -817,7 +817,7 @@
 ## SECUENCIA 17 — ESCENA: @Theron pide la mano y el Orbe / la sospecha · *(133-136)*
 
 ### CLIP 132A — INTERCUT — Erdia se pudre más
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Shot/lens:** a brief wordless cut to a greyer, sicker Erdia.
 - **Camera:** slow mournful drift.
@@ -828,7 +828,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 133 — "muéstrame la mano y el Orbe"
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. The dim bridge of the nodriza, night.
 - **Characters:** @Theron, @StellaPeloCorto. **Props:** @Orbe, @LlaveDeLuz.
 - **Shot/lens:** close as she opens her palm, the Orb exposed.
@@ -841,7 +841,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 134 — casi lo arranca / "más útil respirando"
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Theron, @StellaPeloCorto. **Props:** @Orbe.
 - **Shot/lens:** his hand drifts toward the Orb; she holds her breath; he stops.
@@ -854,7 +854,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 135 — describe al Rey inmortal
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Theron.
 - **Shot/lens:** close on @Theron going very still.
@@ -867,7 +867,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 136 — "los reyes dicen que son eternos"
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @Theron.
 - **Shot/lens:** @Theron alone, staring into the dark after she leaves.
@@ -884,7 +884,7 @@
 ## SECUENCIA 18 — ESCENA: La foto / la familia viva / @Vera revelada · *(137-141)*
 
 ### CLIP 137 — el proyector
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. @Stella's small bunk, night.
 - **Characters:** @Theron, @StellaPeloCorto. **Props:** @Proyector.
 - **Shot/lens:** @Theron sets a projector down; a cold image blooms.
@@ -897,7 +897,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 138 — @Naio esclavo
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. Inside the projection.
 - **Characters:** @NaioEsclavo.
 - **Shot/lens:** the projected image of @Naio, old and chained.
@@ -909,7 +909,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 139 — @Selka soldado (gris-azul)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. Inside the projection.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the projected image of @Selka training, cold.
@@ -921,7 +921,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 139A — primer plano: la General fría
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the projection pushes in on @Selka's cold face.
@@ -933,7 +933,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 140 — @Vera viva (la capucha cae)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. Inside the projection.
 - **Characters:** @VeraEncapuchada (grey-blue eyes) → face revealed.
 - **Shot/lens:** the hooded leader's hood slips — @Vera's face.
@@ -945,7 +945,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 141 — "está viva. Mamá está viva."
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @StellaPeloCorto, @Theron.
 - **Shot/lens:** primerísimo plano sostenido of her face.
@@ -962,7 +962,7 @@
 ## SECUENCIA 19 — ESCENA: [AÑO 14] Las minas / @Naio / @Vera se decide · *(142-145)*
 
 ### CLIP 142 — establishing minas de niebla
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background. RÓTULO **ERDIA · AÑO 14**. Fog-drowned mines, columns of bound workers, dim lamps in the murk.
 - **Characters:** @VeraEncapuchada.
 - **Shot/lens:** wide of the misty mines, the hooded figure slipping through.
@@ -974,7 +974,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 143 — encuentra a @Naio
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @VeraEncapuchada (grey-blue eyes), @NaioEsclavo.
 - **Shot/lens:** she lowers her hood to an old broken man.
@@ -987,7 +987,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 144 — "no vayas, es una trampa"
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @VeraEncapuchada (grey-blue eyes), @NaioEsclavo.
 - **Shot/lens:** close two-shot, his plea.
@@ -1000,7 +1000,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 145 — "vuelvo por ti" / va al palacio
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @VeraEncapuchada (grey-blue eyes), @NaioEsclavo.
 - **Shot/lens:** she takes his face, then leaves into the fog.
@@ -1017,7 +1017,7 @@
 ## SECUENCIA 20 — ESCENA: Aposentos de la General / la muerte de @Vera (el engaño) · *(146-154)*
 
 ### CLIP 146 — establishing aposentos / @Marek en la puerta
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background. The General's cold, perfect quarters — a child raised into a weapon.
 - **Characters:** @VeraEncapuchada (grey-blue eyes), @Marek, @Korin, @Lessa.
 - **Shot/lens:** @Vera enters; @Korin/@Lessa cover; @Marek at the door.
@@ -1030,7 +1030,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 147 — @Selka de espaldas
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada.
 - **Shot/lens:** @Selka's back, @Vera in the doorway.
@@ -1043,7 +1043,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 148 — @Vera baja la capucha / "traidora"
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @VeraEncapuchada (grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** @Vera lowers her hood; @Selka turns, a microsecond tremor.
@@ -1056,7 +1056,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 149 — @Selka ataca / @Vera no la hiere
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes).
 - **Shot/lens:** @Selka attacks; @Vera only blocks and retreats.
@@ -1070,7 +1070,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 149A — la no-pelea (detalle)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @VeraEncapuchada (grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** detail of @Vera absorbing blows on her forearms.
@@ -1083,7 +1083,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 150 — @Selka se desarma
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes).
 - **Shot/lens:** @Selka's arm shaking, the blade lowering.
@@ -1095,7 +1095,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 151 — el abrazo
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @VeraEncapuchada (grey-blue eyes), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** @Vera folds her into an embrace.
@@ -1108,7 +1108,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 151A — la cara de @Selka en el abrazo
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes).
 - **Shot/lens:** CU of @Selka's face over @Vera's shoulder.
@@ -1120,7 +1120,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 152 — la hoja en el abrazo
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes).
 - **Shot/lens:** in the embrace, a light-cutter drives in; @Vera's glow dims.
@@ -1133,7 +1133,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 153 — el susurro (que no oímos)
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes).
 - **Shot/lens:** primerísimo plano of @Selka at @Vera's ear.
@@ -1145,7 +1145,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### CLIP 154 — la creen asesina / la nana
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes), @Korin, @Lessa, @Marek.
 - **Shot/lens:** from the door, @Korin/@Lessa see only the moment; @Vera's light goes out, reflected on @Selka's face.

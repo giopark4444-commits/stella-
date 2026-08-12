@@ -1,10 +1,10 @@
 # PRODUCCIÓN · SETUP VISUAL (canon para todos los prompts)
 ## Stella Fugaz · "El Nodo de Erdia" — P1
 
-> Base que **se repite en cada prompt** de clip (Seedance 2.0). Definida por el autor.
+> Base que **se repite en cada prompt** de clip (Seedance 2.5). Definida por el autor.
 
 ## ESTILO DE CASA (string base)
-`hand-painted 2D anime, cinematic composition, 2D hand-painted painterly painterly watercolor touch, 21:9, 15s.`
+`Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, cinematic composition, 2D hand-painted painterly painterly watercolor touch, 21:9, 20s.`
 
 - **Look:** anime estilo classic 2D anime (realismo emocional, montaje, luz dramática) + textura pintada a mano cálida tipo painterly watercolor.
 - **Formato:** **21:9** (cinemascope). Clips de **15 s**.

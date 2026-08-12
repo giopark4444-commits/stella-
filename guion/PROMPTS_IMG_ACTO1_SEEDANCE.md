@@ -6,7 +6,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 ## SECUENCIA 1 — DESCENSO AL CORAZÓN MUERTO
 
 ### FRAME 1 — SEC 1 — Total black
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Negro total. Nada. El vacío antes del mundo. Sostener la oscuridad.
@@ -15,7 +15,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Negro total. Nada. El vacío antes del mundo. Sostener la oscuridad.
 
 ### FRAME 2 — SEC 1 — A line of dawn
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Una línea de luz raja la oscuridad: el borde de un planeta amaneciendo, curva incandescente contra el negro.
@@ -24,7 +24,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Una línea de luz raja la oscuridad: el borde de un planeta amaneciendo, curva incandescente contra el negro.
 
 ### FRAME 3 — SEC 1 — Falling through golden clouds
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — La cámara cae hacia el planeta, atraviesa nubes doradas que se abren como cortinas de polvo de luz.
@@ -33,7 +33,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La cámara cae hacia el planeta, atraviesa nubes doradas que se abren como cortinas de polvo de luz.
 
 ### FRAME 4 — SEC 1 — Living mountains
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location — @Erdia (living surface from the air).
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Sobrevuelo de cordilleras vivas, crestas nevadas encendidas por el amanecer. El mundo respira.
@@ -42,7 +42,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Sobrevuelo de cordilleras vivas, crestas nevadas encendidas por el amanecer. El mundo respira.
 
 ### FRAME 5 — SEC 1 — Breathing forests
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location — @ErdiaSuperficieViva (lush green living surface).
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — Bosques que respiran: copas ondulando como oleaje verde, bruma subiendo entre los árboles.
@@ -51,7 +51,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Bosques que respiran: copas ondulando como oleaje verde, bruma subiendo entre los árboles.
 
 ### FRAME 6 — SEC 1 — The dry fissure
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location — @ErdiaSuperficieViva (green living surface + one small crack).
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — La superficie sigue VERDE y viva; la camara encuentra UNA grieta pequena y oscura en el suelo verde: una fisura diminuta que no deberia estar, la unica nota mala en un mundo sano.
@@ -60,7 +60,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La superficie sigue VERDE y viva; una grieta PEQUENA y oscura en el suelo verde, no una corteza rocosa.
 
 ### FRAME 7 — SEC 1 — Descending the crack
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location — @CorazonMuerto (dead interior, on the way down).
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — Bajamos por la grieta. Paredes de roca que pasan de doradas a grises. La luz se queda atrás.
@@ -69,7 +69,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Bajamos por la grieta. Paredes de roca que pasan de doradas a grises. La luz se queda atrás.
 
 ### FRAME 8 — SEC 1 — Dead stone texture
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location — @CorazonMuerto (dead rock interior).
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — Textura de roca deslizándose: vetas grises, luego negras. Un hilo de polvo cae en la penumbra.
@@ -78,7 +78,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Textura de roca deslizándose: vetas grises, luego negras. Un hilo de polvo cae en la penumbra.
 
 ### FRAME 9 — SEC 1 — Deeper and deeper
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location — @CorazonMuerto (dead interior, deeper).
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Más hondo. Más hondo. La oscuridad se traga las paredes. El descenso no termina.
@@ -87,7 +87,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Más hondo. Más hondo. La oscuridad se traga las paredes. El descenso no termina.
 
 ### FRAME 10 — SEC 1 — The hollow core
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location — @CorazonMuerto (immense hollow dead core).
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Llegamos al centro del mundo: una caverna negra y sin fondo donde debería latir un corazón. Está hueca. Muerta.
@@ -96,7 +96,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Llegamos al centro del mundo: una caverna negra y sin fondo donde debería latir un corazón. Está hueca. Muerta.
 
 ### FRAME 11 — SEC 1 — Held on the void
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location — @CorazonMuerto (the dead void).
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — El vacío negro sostenido. No late nada. Silencio total. Sostener hasta que duela.
@@ -105,7 +105,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** El vacío negro sostenido. No late nada. Silencio total. Sostener hasta que duela.
 
 ### FRAME 12 — SEC 1 — Title card
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Erdia (planet from orbit)".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Sobre el negro, aparece el título: STELLA FUGAZ. Se sostiene, solo. Luego se desvanece.
@@ -117,7 +117,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 ## SECUENCIA 2 — PARQUE DE LA LUZAGUA
 
 ### FRAME 13 — SEC 2 — Cut to blue sky
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Luzagua Park establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — CORTE BRUSCO: un cielo azul, abierto, deslumbrante. Una carcajada rompe el silencio como un vaso.
@@ -126,7 +126,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** CORTE BRUSCO: un cielo azul, abierto, deslumbrante. Una carcajada rompe el silencio como un vaso.
 
 ### FRAME 14 — SEC 2 — @Stella runs barefoot
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "Luzagua Park establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella (14) corre descalza por la hierba de un parque, pelo blanco al viento, imparable.
@@ -135,7 +135,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella (14) corre descalza por la hierba de un parque, pelo blanco al viento, imparable.
 
 ### FRAME 15 — SEC 2 — The luzagua river
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "Luzagua Park establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: Junto a ella corre un río de luzagua: agua y luz a la vez, que la gente deja pasar entre las manos.
@@ -144,7 +144,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Junto a ella corre un río de luzagua: agua y luz a la vez, que la gente deja pasar entre las manos.
 
 ### FRAME 16 — SEC 2 — Touching the bracelet
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "Luzagua Park establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella se toca el brazalete en la muñeca. Sus dedos rozan el metal cálido.
@@ -153,7 +153,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella se toca el brazalete en la muñeca. Sus dedos rozan el metal cálido.
 
 ### FRAME 17 — SEC 2 — @Gix ignites
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Gix light-axolotl reference"; Image 2 = "Luzagua Park establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Gix, a small translucent axolotl spirit of water and light: sweet smiling face, big dark eyes, luminous golden frond-gills, pale luzagua-blue skin dusted with golden star-points, warm gold glow in its chest — warm gold and luzagua-blue, never cold steel-grey. Pose and expression frozen for this beat: Del aire se enciende @Gix, criatura de luz mitad chispa mitad travesura, que escapa volando.
@@ -162,7 +162,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Del aire se enciende @Gix, criatura de luz mitad chispa mitad travesura, que escapa volando.
 
 ### FRAME 18 — SEC 2 — Chasing @Gix
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "@Gix light-axolotl reference"; Image 3 = "Luzagua Park establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes.; @Gix, a small translucent axolotl spirit of water and light: sweet smiling face, big dark eyes, luminous golden frond-gills, pale luzagua-blue skin dusted with golden star-points, warm gold glow in its chest — warm gold and luzagua-blue, never cold steel-grey. Pose and expression frozen for this beat: @Stella va tras @Gix, riendo, esquivando a la gente que pasea entre la luz.
@@ -171,7 +171,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella va tras @Gix, riendo, esquivando a la gente que pasea entre la luz.
 
 ### FRAME 19 — SEC 2 — @Vera walks behind
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera robes turnaround"; Image 2 = "Luzagua Park establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair partly bound, warm strong face, GREY-BLUE eyes, flowing naiel robes in soft gold and white. Pose and expression frozen for this beat: Detrás, sin apuro, camina @Vera (~40, pelo blanco recogido, ojos gris-azul). Serena.
@@ -180,7 +180,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Detrás, sin apuro, camina @Vera (~40, pelo blanco recogido, ojos gris-azul). Serena.
 
 ### FRAME 20 — SEC 2 — Slow down
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera robes turnaround"; Image 2 = "Luzagua Park establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair partly bound, warm strong face, GREY-BLUE eyes, flowing naiel robes in soft gold and white. Pose and expression frozen for this beat: @Vera observa a su hija correr.
@@ -189,7 +189,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera observa a su hija correr. (Line delivered — convey the emotion, do NOT render the words as text: "Despacio. Te vas a partir la cabeza el día antes de tu última prueba.")
 
 ### FRAME 21 — SEC 2 — I'm the best
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "Luzagua Park establishing".
 - **Framing:** medium-full (American) shot, subject framed from mid-thigh up, translated from "Plano americano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella, de espaldas, sin frenar, la voz llena de sol.
@@ -198,7 +198,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella, de espaldas, sin frenar, la voz llena de sol. (Line delivered — convey the emotion, do NOT render the words as text: "Mamá, soy la mejor de mi nivel. Te voy a hacer sentir orgullosa.")
 
 ### FRAME 22 — SEC 2 — A shadow swallows her
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "Luzagua Park establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella se detiene de golpe. Algo enorme le tapa el sol. Su sombra se hunde en otra sombra mayor.
@@ -207,7 +207,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella se detiene de golpe. Algo enorme le tapa el sol. Su sombra se hunde en otra sombra mayor.
 
 ### FRAME 23 — SEC 2 — The flower mecha
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Luzagua Park establishing".
 - **Framing:** low-angle wide shot looking up, subject towering overhead, translated from "Contrapicado".
 - **Subject:** No character in frame — MechaFlores — colossal flower-and-vine-covered kneeling war-mecha
@@ -216,7 +216,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Un MECHA colosal, máquina de guerra antigua, arrodillada para siempre, cubierta de flores y enredaderas. Un gigante dormido.
 
 ### FRAME 24 — SEC 2 — Flowers on old metal
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Luzagua Park establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — MechaFlores metal and climbing flowers
@@ -225,7 +225,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Flores trepando por el metal oxidado del mecha, una enredadera meciéndose apenas en la brisa.
 
 ### FRAME 25 — SEC 2 — Small beneath the giant
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "Luzagua Park establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella pequeñita al pie del gigante, mirándolo hacia arriba. La escala de un mundo que fue.
@@ -234,7 +234,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella pequeñita al pie del gigante, mirándolo hacia arriba. La escala de un mundo que fue.
 
 ### FRAME 26 — SEC 2 — Why did we stop
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "Luzagua Park establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella, sin dejar de mirar arriba, pregunta.
@@ -243,7 +243,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella, sin dejar de mirar arriba, pregunta. (Line delivered — convey the emotion, do NOT render the words as text: "¿Por qué dejamos de hacerlo? Conquistar planetas. Éramos los más fuertes del cielo.")
 
 ### FRAME 27 — SEC 2 — @Vera kneels
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera robes turnaround"; Image 2 = "@Stella civilian turnaround (long braid)"; Image 3 = "Luzagua Park establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair partly bound, warm strong face, GREY-BLUE eyes, flowing naiel robes in soft gold and white.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Vera la alcanza. La sonrisa se le pone seria. Esto sí lo dice en serio. Se agacha a su altura.
@@ -252,7 +252,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera la alcanza. La sonrisa se le pone seria. Esto sí lo dice en serio. Se agacha a su altura.
 
 ### FRAME 28 — SEC 2 — We wanted it all
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera robes turnaround"; Image 2 = "Luzagua Park establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair partly bound, warm strong face, GREY-BLUE eyes, flowing naiel robes in soft gold and white. Pose and expression frozen for this beat: @Vera, a la altura de su hija, eligiendo las palabras.
@@ -261,7 +261,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera, a la altura de su hija, eligiendo las palabras. (Line delivered — convey the emotion, do NOT render the words as text: "Eso no es tan romántico como suena. Lo quisimos todo… y por poco nos quedamos sin nada.")
 
 ### FRAME 29 — SEC 2 — A person is a river
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera robes turnaround"; Image 2 = "Luzagua Park establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Vera, the mother (~40), long white hair partly bound, warm strong face, GREY-BLUE eyes, flowing naiel robes in soft gold and white. Pose and expression frozen for this beat: La mano de @Vera muestra el río de luzagua corriendo entre los dedos de la gente, sin ser retenido.
@@ -270,7 +270,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La mano de @Vera muestra el río de luzagua corriendo entre los dedos de la gente, sin ser retenido. (Line delivered — convey the emotion, do NOT render the words as text: "Una persona es como un río, @Stella. Si lo represas para ti, se pudre.")
 
 ### FRAME 30 — SEC 2 — Poisons everyone downstream
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera robes turnaround"; Image 2 = "Luzagua Park establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair partly bound, warm strong face, GREY-BLUE eyes, flowing naiel robes in soft gold and white. Pose and expression frozen for this beat: @Vera sostiene la mirada de su hija. Beat. La verdad que aún no cabe en una niña.
@@ -279,7 +279,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera sostiene la mirada de su hija. Beat. La verdad que aún no cabe en una niña. (Line delivered — convey the emotion, do NOT render the words as text: "Y envenena a todos los que están aguas abajo.")
 
 ### FRAME 31 — SEC 2 — She half-understands
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "Luzagua Park establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella asiente muy seria… pero los ojos ya se le escapan hacia otra parte. Tiene catorce años. No lo entiende todavía.
@@ -288,7 +288,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella asiente muy seria… pero los ojos ya se le escapan hacia otra parte. Tiene catorce años. No lo entiende todavía.
 
 ### FRAME 32 — SEC 2 — @Gix calls from a branch
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Gix light-axolotl reference"; Image 2 = "Luzagua Park establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Gix, a small translucent axolotl spirit of water and light: sweet smiling face, big dark eyes, luminous golden frond-gills, pale luzagua-blue skin dusted with golden star-points, warm gold glow in its chest — warm gold and luzagua-blue, never cold steel-grey. Pose and expression frozen for this beat: @Gix la llama desde la rama de un árbol, parpadeando, travieso.
@@ -297,7 +297,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Gix la llama desde la rama de un árbol, parpadeando, travieso.
 
 ### FRAME 33 — SEC 2 — @Vera lets her go
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera robes turnaround"; Image 2 = "Luzagua Park establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair partly bound, warm strong face, GREY-BLUE eyes, flowing naiel robes in soft gold and white. Pose and expression frozen for this beat: @Vera lo nota. Sonríe con un poco de tristeza. La deja ir.
@@ -306,7 +306,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera lo nota. Sonríe con un poco de tristeza. La deja ir.
 
 ### FRAME 34 — SEC 2 — Home for dinner
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera robes turnaround"; Image 2 = "Luzagua Park establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair partly bound, warm strong face, GREY-BLUE eyes, flowing naiel robes in soft gold and white. Pose and expression frozen for this beat: @Vera, todavía agachada, en voz suave.
@@ -315,7 +315,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera, todavía agachada, en voz suave. (Line delivered — convey the emotion, do NOT render the words as text: "Voy por tu hermana. Nos vemos en casa para la cena.")
 
 ### FRAME 35 — SEC 2 — I beat @Gix
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "Luzagua Park establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella ya corriendo, girando el cuello para gritar por encima del hombro.
@@ -324,7 +324,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella ya corriendo, girando el cuello para gritar por encima del hombro. (Line delivered — convey the emotion, do NOT render the words as text: "¡Dile a @Selka que esta vez le gané a @Gix!")
 
 ### FRAME 36 — SEC 2 — Running away small
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "Luzagua Park establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella se aleja riendo, blanca contra el verde, cada vez más pequeña.
@@ -333,7 +333,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella se aleja riendo, blanca contra el verde, cada vez más pequeña.
 
 ### FRAME 37 — SEC 2 — The last good day
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera robes turnaround"; Image 2 = "Luzagua Park establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair partly bound, warm strong face, GREY-BLUE eyes, flowing naiel robes in soft gold and white. Pose and expression frozen for this beat: La cámara se queda en @Vera mirándola. Una madre observando a su hija en el último día bueno de toda su vida. Y solo nosotros lo sabemos.
@@ -342,7 +342,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La cámara se queda en @Vera mirándola. Una madre observando a su hija en el último día bueno de toda su vida. Y solo nosotros lo sabemos.
 
 ### FRAME 38 — SEC 2 — The river flows on
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Luzagua Park establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — the luzagua river flowing
@@ -354,7 +354,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 ## SECUENCIA 3 — LABORATORIO DE @NAIO
 
 ### FRAME 39 — SEC 3 — @Stella enters laughing
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "@Gix light-axolotl reference"; Image 3 = "@Naio's lab establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes.; @Gix, a small translucent axolotl spirit of water and light: sweet smiling face, big dark eyes, luminous golden frond-gills, pale luzagua-blue skin dusted with golden star-points, warm gold glow in its chest — warm gold and luzagua-blue, never cold steel-grey. Pose and expression frozen for this beat: La puerta del laboratorio se abre. Entra @Stella todavía riendo, con @Gix dándole vueltas alrededor.
@@ -363,7 +363,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La puerta del laboratorio se abre. Entra @Stella todavía riendo, con @Gix dándole vueltas alrededor.
 
 ### FRAME 40 — SEC 3 — Why so important
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "@Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella entra ligera, la risa aún en la boca.
@@ -372,7 +372,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella entra ligera, la risa aún en la boca. (Line delivered — convey the emotion, do NOT render the words as text: "Me mandaron llamar, ¿qué es tan importante que no puede esp—")
 
 ### FRAME 41 — SEC 3 — The laughter dies
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: La risa se le apaga sola. La sonrisa cae. Algo en el aire está mal.
@@ -381,7 +381,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La risa se le apaga sola. La sonrisa cae. Algo en el aire está mal.
 
 ### FRAME 42 — SEC 3 — The grim parents
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@Naio turnaround"; Image 3 = "@Naio's lab establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet. Pose and expression frozen for this beat: POV de @Stella: @Vera y @Naio (~45) de pie frente a una proyección de datos. Ninguno se ríe. La cara de quien vio algo que no se puede des-ver.
@@ -390,7 +390,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** POV de @Stella: @Vera y @Naio (~45) de pie frente a una proyección de datos. Ninguno se ríe. La cara de quien vio algo que no se puede des-ver.
 
 ### FRAME 43 — SEC 3 — Baby @Selka sleeps
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "baby @Selka reference"; Image 2 = "@Naio's lab establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: En un moisés flotante duerme la bebé @Selka (1 año, ojos cerrados). Respira apenas.
@@ -399,7 +399,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** En un moisés flotante duerme la bebé @Selka (1 año, ojos cerrados). Respira apenas.
 
 ### FRAME 44 — SEC 3 — Is everything okay
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes. Pose and expression frozen for this beat: @Stella, la sonrisa completamente ida, la voz pequeña.
@@ -408,7 +408,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella, la sonrisa completamente ida, la voz pequeña. (Line delivered — convey the emotion, do NOT render the words as text: "…¿Todo está bien?")
 
 ### FRAME 45 — SEC 3 — The folded suit
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella civilian turnaround (long braid)"; Image 2 = "@Naio turnaround"; Image 3 = "@Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, civilian park clothes.; @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet. Pose and expression frozen for this beat: Nadie le contesta. El silencio pesa. @Naio le tiende un traje plegado sin una palabra.
@@ -417,7 +417,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Nadie le contesta. El silencio pesa. @Naio le tiende un traje plegado sin una palabra.
 
 ### FRAME 46 — SEC 3 — Put it on quickly
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet. Pose and expression frozen for this beat: @Naio, la mandíbula tensa.
@@ -426,7 +426,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio, la mandíbula tensa. (Line delivered — convey the emotion, do NOT render the words as text: "Póntelo. Rápido.")
 
 ### FRAME 47 — SEC 3 — Dressing, uncertain
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Naio's lab establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella obedece sin entender. Empieza a vestirse, torpe, mirando a sus padres.
@@ -435,7 +435,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella obedece sin entender. Empieza a vestirse, torpe, mirando a sus padres.
 
 ### FRAME 48 — SEC 3 — The King isn't protecting us
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "@Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Naio se acerca, baja la voz, como quien confiesa algo prohibido dentro de su propia casa.
@@ -444,7 +444,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio se acerca, baja la voz, como quien confiesa algo prohibido dentro de su propia casa. (Line delivered — convey the emotion, do NOT render the words as text: "Escúchame bien. El Rey no nos está protegiendo.")
 
 ### FRAME 49 — SEC 3 — It's dying
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Naio, un beat, y luego lo imposible.
@@ -453,7 +453,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio, un beat, y luego lo imposible. (Line delivered — convey the emotion, do NOT render the words as text: "Se está comiendo el planeta desde adentro. Y está muriendo.")
 
 ### FRAME 50 — SEC 3 — The dead-core projection
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "@Naio's lab establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — holographic projection replaying the descent into Erdia's dead hollow core
@@ -462,7 +462,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La proyección lo confirma: el mismo descenso de la SEC 1, hasta el corazón negro y hueco. Erdia vaciándose por dentro.
 
 ### FRAME 51 — SEC 3 — That's not possible
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella mira la proyección, incapaz de creerlo.
@@ -471,7 +471,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella mira la proyección, incapaz de creerlo. (Line delivered — convey the emotion, do NOT render the words as text: "…Eso no es posible. El Orbe le da vida a todo. Tú me lo enseñaste.")
 
 ### FRAME 52 — SEC 3 — That's why he wants it
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Naio, sin rodeos.
@@ -480,7 +480,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio, sin rodeos. (Line delivered — convey the emotion, do NOT render the words as text: "Por eso lo quiere.")
 
 ### FRAME 53 — SEC 3 — The machine over her hand
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Naio turnaround"; Image 3 = "@Naio's lab establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet. Pose and expression frozen for this beat: @Naio activa una máquina sobre la mano abierta de @Stella. Ella espera una joya, un objeto.
@@ -489,7 +489,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio activa una máquina sobre la mano abierta de @Stella. Ella espera una joya, un objeto.
 
 ### FRAME 54 — SEC 3 — The key sears in
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Naio's lab establishing".
 - **Framing:** tight insert close-up on a single object or gesture, translated from "Inserto".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: No le pone nada. La prepara. Una llave de luz se graba bajo la piel de la palma, un dolor breve y limpio.
@@ -498,7 +498,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** No le pone nada. La prepara. Una llave de luz se graba bajo la piel de la palma, un dolor breve y limpio.
 
 ### FRAME 55 — SEC 3 — Gritting teeth
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella aprieta los dientes, aguantando el dolor.
@@ -507,7 +507,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella aprieta los dientes, aguantando el dolor.
 
 ### FRAME 56 — SEC 3 — Our trace
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "@Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Naio, sosteniéndole la mano recién marcada.
@@ -516,7 +516,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio, sosteniéndole la mano recién marcada. (Line delivered — convey the emotion, do NOT render the words as text: "El Orbe es nuestra sangre, @Stella. Solo nuestra familia puede tocarlo.")
 
 ### FRAME 57 — SEC 3 — Only our family
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "@Naio's lab establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Naio le cierra la mano de @Stella sobre la llave, con cuidado.
@@ -525,7 +525,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio le cierra la mano de @Stella sobre la llave, con cuidado. (Line delivered — convey the emotion, do NOT render the words as text: "Lo que acabo de hacerte te permite integrarlo. Meterlo dentro de ti. Y una vez dentro…")
 
 ### FRAME 58 — SEC 3 — Only you could use it
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Naio la mira a los ojos, la carga de todo lo que viene.
@@ -534,7 +534,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio la mira a los ojos, la carga de todo lo que viene. (Line delivered — convey the emotion, do NOT render the words as text: "…solamente tú podrías usarlo. Nadie más.")
 
 ### FRAME 59 — SEC 3 — She can't process it
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella no alcanza a procesarlo. Su cara buscando un asidero que no llega.
@@ -543,7 +543,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella no alcanza a procesarlo. Su cara buscando un asidero que no llega.
 
 ### FRAME 60 — SEC 3 — @Selka wakes crying
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "baby @Selka reference"; Image 2 = "@Naio's lab establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: En el moisés, la bebé @Selka abre los ojos y empieza a llorar.
@@ -552,7 +552,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** En el moisés, la bebé @Selka abre los ojos y empieza a llorar.
 
 ### FRAME 61 — SEC 3 — To the baby
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "baby @Selka reference"; Image 3 = "@Naio's lab establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: @Stella, por puro instinto de hermana mayor, deja todo y va hacia la bebé.
@@ -561,7 +561,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella, por puro instinto de hermana mayor, deja todo y va hacia la bebé.
 
 ### FRAME 62 — SEC 3 — Cupping her hand
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "baby @Selka reference"; Image 3 = "@Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: @Stella se inclina sobre el moisés. Ahueca la mano sobre la bebé.
@@ -570,7 +570,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella se inclina sobre el moisés. Ahueca la mano sobre la bebé.
 
 ### FRAME 63 — SEC 3 — A spark of @Gix
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Gix light-axolotl reference"; Image 3 = "@Naio's lab establishing".
 - **Framing:** tight insert close-up on a single object or gesture, translated from "Inserto".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Gix, a small translucent axolotl spirit of water and light: sweet smiling face, big dark eyes, luminous golden frond-gills, pale luzagua-blue skin dusted with golden star-points, warm gold glow in its chest — warm gold and luzagua-blue, never cold steel-grey. Pose and expression frozen for this beat: Una chispa de @Gix baja y baila en la palma de @Stella, como una luciérnaga.
@@ -579,7 +579,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Una chispa de @Gix baja y baila en la palma de @Stella, como una luciérnaga.
 
 ### FRAME 64 — SEC 3 — Forehead to forehead
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "baby @Selka reference"; Image 3 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: @Stella junta la frente a la de la bebé. Las dos sonríen. Un momento minúsculo, tibio, de hermanas.
@@ -588,7 +588,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella junta la frente a la de la bebé. Las dos sonríen. Un momento minúsculo, tibio, de hermanas.
 
 ### FRAME 65 — SEC 3 — The tiny hand
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "baby @Selka reference"; Image 3 = "@Naio's lab establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: @Selka se calma al instante, la manita agarrando el dedo de @Stella. Guardarlo.
@@ -597,7 +597,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Selka se calma al instante, la manita agarrando el dedo de @Stella. Guardarlo.
 
 ### FRAME 66 — SEC 3 — Footsteps approaching
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "@Naio's lab establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — dust trembling on the floor from approaching footsteps
@@ -606,7 +606,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Un suelo que vibra: pasos. Muchos. Acercándose por el corredor. El polvo tiembla.
 
 ### FRAME 67 — SEC 3 — Time is up
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Vera combat-armor turnaround"; Image 3 = "@Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: @Naio y @Vera se cruzan una mirada. Se acabó el tiempo. Sin palabras.
@@ -615,7 +615,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio y @Vera se cruzan una mirada. Se acabó el tiempo. Sin palabras.
 
 ### FRAME 68 — SEC 3 — Take @Selka, go
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet. Pose and expression frozen for this beat: @Naio, rápido, firme, ya en marcha.
@@ -624,7 +624,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio, rápido, firme, ya en marcha. (Line delivered — convey the emotion, do NOT render the words as text: "Llegaron. Tomen a @Selka. Vayan por el Orbe.")
 
 ### FRAME 69 — SEC 3 — Never let him have it
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Naio agarra la cara de @Stella con las dos manos, cara a cara.
@@ -633,7 +633,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio agarra la cara de @Stella con las dos manos, cara a cara. (Line delivered — convey the emotion, do NOT render the words as text: "Cuando lo tengas, ponlo en tu mano. Y pase lo que pase… nunca, nunca dejes que él lo tenga. ¿Me oyes?")
 
 ### FRAME 70 — SEC 3 — I'll hold them
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet. Pose and expression frozen for this beat: @Naio, un beat, la voz firme sobre el miedo.
@@ -642,7 +642,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio, un beat, la voz firme sobre el miedo. (Line delivered — convey the emotion, do NOT render the words as text: "Yo los retengo.")
 
 ### FRAME 71 — SEC 3 — Dad, no
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella, los ojos llenándose, negando.
@@ -651,7 +651,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella, los ojos llenándose, negando. (Line delivered — convey the emotion, do NOT render the words as text: "Papá, no—")
 
 ### FRAME 72 — SEC 3 — I love you, all three
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet. Pose and expression frozen for this beat: @Naio, sin dejarla terminar, todo el amor en tres frases.
@@ -660,7 +660,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio, sin dejarla terminar, todo el amor en tres frases. (Line delivered — convey the emotion, do NOT render the words as text: "Te quiero. Las tres. Ya.")
 
 ### FRAME 73 — SEC 3 — The last embrace
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "@Vera combat-armor turnaround"; Image 4 = "baby @Selka reference"; Image 5 = "@Naio's lab establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: Un abrazo de los tres, demasiado corto. @Vera levanta a la bebé del moisés.
@@ -669,7 +669,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Un abrazo de los tres, demasiado corto. @Vera levanta a la bebé del moisés.
 
 ### FRAME 74 — SEC 3 — The door opens
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "@Naio's lab establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — the main door opening, cold light flooding the threshold
@@ -678,7 +678,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La puerta principal se abre. Luz fría inunda el umbral.
 
 ### FRAME 75 — SEC 3 — @Vorthan enters
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Imperial soldier-robot reference"; Image 3 = "@Naio's lab establishing".
 - **Framing:** low-angle wide shot looking up, subject towering overhead, translated from "Contrapicado".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Entra @VORTHAN, el Rey. Alto, sereno, con una sonrisa de viejo amigo de la familia. Soldados-robot detrás, llenando el umbral como una sombra.
@@ -687,7 +687,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Entra @VORTHAN, el Rey. Alto, sereno, con una sonrisa de viejo amigo de la familia. Soldados-robot detrás, llenando el umbral como una sombra.
 
 ### FRAME 76 — SEC 3 — @Naio, old friend
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "@Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan, casi con cariño, saboreando el momento.
@@ -696,7 +696,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan, casi con cariño, saboreando el momento. (Line delivered — convey the emotion, do NOT render the words as text: "@Naio. Viejo amigo.")
 
 ### FRAME 77 — SEC 3 — He reads the room
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Los ojos de @Vorthan recorren la escena: el traje, el moisés vacío. Lo entiende todo.
@@ -705,7 +705,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Los ojos de @Vorthan recorren la escena: el traje, el moisés vacío. Lo entiende todo. (Line delivered — convey the emotion, do NOT render the words as text: "Sabías que este día llegaría.")
 
 ### FRAME 78 — SEC 3 — Slipping to the exit
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "@Naio's lab establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Vera y @Stella se deslizan hacia la salida trasera, despacio, sin correr todavía.
@@ -714,7 +714,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera y @Stella se deslizan hacia la salida trasera, despacio, sin correr todavía.
 
 ### FRAME 79 — SEC 3 — Don't let them escape
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "@Naio's lab establishing".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Los ojos del Rey lo ven todo. No parpadean.
@@ -723,7 +723,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Los ojos del Rey lo ven todo. No parpadean. (Line delivered — convey the emotion, do NOT render the words as text: "No las dejen escapar.")
 
 ### FRAME 80 — SEC 3 — The force-field
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "@Naio's lab establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet. Pose and expression frozen for this beat: @Naio se interpone. Activa un campo de fuerza entre el Rey y su familia. Les compra tres segundos.
@@ -732,7 +732,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Naio se interpone. Activa un campo de fuerza entre el Rey y su familia. Les compra tres segundos.
 
 ### FRAME 81 — SEC 3 — Almost pity
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "@Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: El Rey mira a @Naio casi con pena.
@@ -741,7 +741,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** El Rey mira a @Naio casi con pena.
 
 ### FRAME 82 — SEC 3 — @Naio driven to the floor
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Naio turnaround"; Image 2 = "King @Vorthan turnaround"; Image 3 = "@Naio's lab establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan lo derriba de un solo golpe de luz, como quien aparta una rama. @Naio vuela contra la consola.
@@ -750,7 +750,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan lo derriba de un solo golpe de luz, como quien aparta una rama. @Naio vuela contra la consola.
 
 ### FRAME 83 — SEC 3 — DAD!
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella, grito ahogado, la mano estirada hacia su padre caído.
@@ -759,7 +759,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella, grito ahogado, la mano estirada hacia su padre caído. (Line delivered — convey the emotion, do NOT render the words as text: "¡PAPÁ!")
 
 ### FRAME 84 — SEC 3 — Torn away, they run
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "@Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Vera la arranca de ahí de un tirón. Corren. La escena se rompe en movimiento.
@@ -771,7 +771,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 ## SECUENCIA 4 — PASILLOS DEL PALACIO
 
 ### FRAME 85 — SEC 4 — Fleeing the corridor
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "baby @Selka reference"; Image 4 = "Palace corridors establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: @Vera y @Stella corren a toda velocidad por el pasillo. @Vera lleva a la bebé @Selka apretada contra el pecho.
@@ -780,7 +780,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera y @Stella corren a toda velocidad por el pasillo. @Vera lleva a la bebé @Selka apretada contra el pecho.
 
 ### FRAME 86 — SEC 4 — The robots close in
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "Imperial soldier-robot reference"; Image 2 = "Palace corridors establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Detrás, lejos pero acercándose, el zumbido de los robots imperiales. Luces frías barriendo las paredes.
@@ -789,7 +789,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Detrás, lejos pero acercándose, el zumbido de los robots imperiales. Luces frías barriendo las paredes.
 
 ### FRAME 87 — SEC 4 — Nothing matters more
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "baby @Selka reference"; Image 4 = "Palace corridors establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: @Vera habla entrecortado, sin dejar de correr. Lo que dice es brutal de tan claro.
@@ -798,7 +798,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera habla entrecortado, sin dejar de correr. Lo que dice es brutal de tan claro. (Line delivered — convey the emotion, do NOT render the words as text: "Recuérdalo, @Stella: nada es más importante que ese Orbe. Nada.")
 
 ### FRAME 88 — SEC 4 — Not me, not your sister
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "Palace corridors establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Vera la mira un segundo mientras corren, la verdad más dura de su vida.
@@ -807,7 +807,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera la mira un segundo mientras corren, la verdad más dura de su vida. (Line delivered — convey the emotion, do NOT render the words as text: "Ni yo. Ni tu hermana. Sin él, el planeta entero muere. Todos. ¿Entiendes?")
 
 ### FRAME 89 — SEC 4 — Take care of @Selka
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "Palace corridors establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella corriendo, los ojos llenos, tragándose todo.
@@ -816,7 +816,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella corriendo, los ojos llenos, tragándose todo. (Line delivered — convey the emotion, do NOT render the words as text: "Entiendo. Tú solo cuida de @Selka.")
 
 ### FRAME 90 — SEC 4 — The impossible smile
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "Palace corridors establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: @Vera la mira de reojo. Y, en plena huida, le sonríe. Una sonrisa de madre imposible en ese momento, y por eso más fuerte.
@@ -825,7 +825,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera la mira de reojo. Y, en plena huida, le sonríe. Una sonrisa de madre imposible en ese momento, y por eso más fuerte.
 
 ### FRAME 91 — SEC 4 — Get to the ship
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "Palace corridors establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: @Vera, firme entre jadeos.
@@ -834,7 +834,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera, firme entre jadeos. (Line delivered — convey the emotion, do NOT render the words as text: "Pase lo que pase, llega a la nave. La dejé afuera, en la salida que da al parque.")
 
 ### FRAME 92 — SEC 4 — The wall bursts into light
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "Imperial soldier-robot reference"; Image 2 = "Palace corridors establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Una pared estalla en polvo y esquirlas. Entran los primeros robots por el boquete.
@@ -843,7 +843,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Una pared estalla en polvo y esquirlas. Entran los primeros robots por el boquete.
 
 ### FRAME 93 — SEC 4 — Dust in the light
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Palace corridors establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — dust and debris suspended, pierced by a robot's light
@@ -852,7 +852,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Polvo y escombros suspendidos un instante en el aire, atravesados por la luz de un robot.
 
 ### FRAME 94 — SEC 4 — @Vera fights one-armed
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Imperial soldier-robot reference"; Image 4 = "Palace corridors establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth.; Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: @Vera pelea con un brazo cubriendo a la bebé, derribando un robot con un golpe de luz.
@@ -861,7 +861,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera pelea con un brazo cubriendo a la bebé, derribando un robot con un golpe de luz.
 
 ### FRAME 95 — SEC 4 — @Stella's agility
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "Imperial soldier-robot reference"; Image 3 = "Palace corridors establishing".
 - **Framing:** medium-full (American) shot, subject framed from mid-thigh up, translated from "Plano americano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: @Stella se mueve con la agilidad de quien entrenó toda su vida para una prueba que no era esta. Desvía, esquiva, avanza.
@@ -870,7 +870,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella se mueve con la agilidad de quien entrenó toda su vida para una prueba que no era esta. Desvía, esquiva, avanza.
 
 ### FRAME 96 — SEC 4 — A robot split by light
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Palace corridors establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — a robot split by light, sparks flying, casing smoking ()
@@ -879,7 +879,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Un robot cae partido por la luz, chispas saltando, la carcasa humeando.
 
 ### FRAME 97 — SEC 4 — Back to back
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "Palace corridors establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Madre e hija se abren paso, espalda con espalda, avanzando entre el humo.
@@ -888,7 +888,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Madre e hija se abren paso, espalda con espalda, avanzando entre el humo.
 
 ### FRAME 98 — SEC 4 — The Orb chamber doors
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Palace corridors establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — the immense doors of the Orb chamber pulsing with warm light at the corridor's end
@@ -900,7 +900,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 ## SECUENCIA 5 — SALA DEL ORBE / MUERTE DE @VERA
 
 ### FRAME 99 — SEC 5 — The Orb revealed
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Orb chamber establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Orbe — a suspended sphere of pure luzagua light, pulsing like a second heart
@@ -909,7 +909,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Una cámara inmensa. En el centro, suspendido, el ORBE: una esfera de luzagua pura, latiendo como un corazón segundo del mundo.
 
 ### FRAME 100 — SEC 5 — The Orb's slow pulse
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — Orbe pulsing slowly, waves of light over its liquid surface
@@ -918,7 +918,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** El Orbe late despacio. Ondas de luz recorriendo su superficie líquida. Sostener el latido.
 
 ### FRAME 101 — SEC 5 — Two doors, one Orb
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "King @Vorthan turnaround"; Image 4 = "Orb chamber establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vera y @Stella entran por un lado. Por el otro, al mismo tiempo, entra @VORTHAN. La sala inmensa entre ellos.
@@ -927,7 +927,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera y @Stella entran por un lado. Por el otro, al mismo tiempo, entra @VORTHAN. La sala inmensa entre ellos.
 
 ### FRAME 102 — SEC 5 — The standoff
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "King @Vorthan turnaround"; Image 4 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Se miran a través de la sala. Una carrera de un solo latido. El aire suspendido.
@@ -936,7 +936,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Se miran a través de la sala. Una carrera de un solo latido. El aire suspendido.
 
 ### FRAME 103 — SEC 5 — Go for the Orb, now
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: @Vera, todo o nada.
@@ -945,7 +945,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera, todo o nada. (Line delivered — convey the emotion, do NOT render the words as text: "¡Ve por el Orbe! ¡AHORA!")
 
 ### FRAME 104 — SEC 5 — @Stella sprints
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella arranca hacia la esfera a toda velocidad.
@@ -954,7 +954,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella arranca hacia la esfera a toda velocidad.
 
 ### FRAME 105 — SEC 5 — Robots on @Vera
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Imperial soldier-robot reference"; Image 4 = "Orb chamber establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth.; Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Los robots se cierran sobre @Vera, que pelea protegiendo a @Selka, sin poder seguir a su hija.
@@ -963,7 +963,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Los robots se cierran sobre @Vera, que pelea protegiendo a @Selka, sin poder seguir a su hija.
 
 ### FRAME 106 — SEC 5 — @S1G1 arrives
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@S1G1 assassin-robot reference"; Image 2 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: Y entonces entra otro. @S1G1: un robot distinto, oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un asesino.
@@ -972,7 +972,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Y entonces entra otro. @S1G1: un robot distinto, oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un asesino.
 
 ### FRAME 107 — SEC 5 — a sentencing
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: @Vera lo ve. Y entiende que esto ya no es una pelea. Es una ejecución. El rostro se le vacía de esperanza.
@@ -981,7 +981,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera lo ve. Y entiende que esto ya no es una pelea. Es una ejecución. El rostro se le vacía de esperanza.
 
 ### FRAME 108 — SEC 5 — Hiding the baby
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: @Vera acomoda a la bebé en el hueco de un panel, lejos, a salvo, con manos que tiemblan un instante.
@@ -990,7 +990,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera acomoda a la bebé en el hueco de un panel, lejos, a salvo, con manos que tiemblan un instante.
 
 ### FRAME 109 — SEC 5 — The last stand
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@S1G1 assassin-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: @Vera se planta frente a @S1G1. Se afirma. La última decisión de una madre.
@@ -999,7 +999,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera se planta frente a @S1G1. Se afirma. La última decisión de una madre.
 
 ### FRAME 110 — SEC 5 — @Vera vs @S1G1
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@S1G1 assassin-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: Pelea de verdad. @Vera da todo lo que tiene: golpes de luz, fintas, fuerza.
@@ -1008,7 +1008,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Pelea de verdad. @Vera da todo lo que tiene: golpes de luz, fintas, fuerza.
 
 ### FRAME 111 — SEC 5 — He dodges, cold
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@S1G1 assassin-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: @S1G1 esquiva sin esfuerzo, frío, calculado. No alcanza. Un choque de luz contra la nada.
@@ -1017,7 +1017,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @S1G1 esquiva sin esfuerzo, frío, calculado. No alcanza. Un choque de luz contra la nada.
 
 ### FRAME 112 — SEC 5 — driven to the floor
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@S1G1 assassin-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: @S1G1 la neutraliza de un golpe seco. @Vera cae.
@@ -1026,7 +1026,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @S1G1 la neutraliza de un golpe seco. @Vera cae.
 
 ### FRAME 113 — SEC 5 — Shielding @Selka falling
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: Aun cayendo, su último movimiento es cubrir a la bebé @Selka con el cuerpo. El instinto por encima de todo.
@@ -1035,7 +1035,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Aun cayendo, su último movimiento es cubrir a la bebé @Selka con el cuerpo. El instinto por encima de todo.
 
 ### FRAME 114 — SEC 5 — Run, don't look back
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: @Vera en el suelo, girando la cabeza, gritando con la vida entera.
@@ -1044,7 +1044,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera en el suelo, girando la cabeza, gritando con la vida entera. (Line delivered — convey the emotion, do NOT render the words as text: "¡@STELLA, CORRE! ¡NO MIRES ATRÁS!")
 
 ### FRAME 115 — SEC 5 — Fingers at the Orb
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella a tres pasos del Orbe. La mano extendida, los dedos a punto de tocarlo.
@@ -1053,7 +1053,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella a tres pasos del Orbe. La mano extendida, los dedos a punto de tocarlo.
 
 ### FRAME 116 — SEC 5 — She disobeys
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Y no obedece. La cara de @Stella decidiendo, el amor rompiendo la regla.
@@ -1062,7 +1062,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Y no obedece. La cara de @Stella decidiendo, el amor rompiendo la regla.
 
 ### FRAME 117 — SEC 5 — Running to her mother
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Se da media vuelta y corre hacia su madre con toda su fuerza. Rompe la única regla. Por amor.
@@ -1071,7 +1071,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Se da media vuelta y corre hacia su madre con toda su fuerza. Rompe la única regla. Por amor.
 
 ### FRAME 118 — SEC 5 — No, stay back
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: @Vera, con horror, gritando.
@@ -1080,7 +1080,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera, con horror, gritando. (Line delivered — convey the emotion, do NOT render the words as text: "¡NO! ¡NO TE ACERQUES!")
 
 ### FRAME 119 — SEC 5 — Caught by the braid
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Demasiado tarde. @VORTHAN la intercepta. La atrapa por la trenza y la levanta del piso.
@@ -1089,7 +1089,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Demasiado tarde. @VORTHAN la intercepta. La atrapa por la trenza y la levanta del piso.
 
 ### FRAME 120 — SEC 5 — Hanging by her hair
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "King @Vorthan turnaround"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Stella cuelga inmóvil, pataleando en el aire, sostenida solo por el pelo.
@@ -1098,7 +1098,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella cuelga inmóvil, pataleando en el aire, sostenida solo por el pelo.
 
 ### FRAME 121 — SEC 5 — Rage and helplessness
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella llora de rabia y de impotencia, retorciéndose.
@@ -1107,7 +1107,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella llora de rabia y de impotencia, retorciéndose.
 
 ### FRAME 122 — SEC 5 — So like your mother
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "@Stella recon-suit turnaround (long braid)"; Image 3 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: El Rey, sosteniéndola del pelo, ríe por lo bajo, suave, casi paternal.
@@ -1116,7 +1116,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** El Rey, sosteniéndola del pelo, ríe por lo bajo, suave, casi paternal. (Line delivered — convey the emotion, do NOT render the words as text: "Tan parecida a tu madre. Corriendo hacia lo que ama.")
 
 ### FRAME 123 — SEC 5 — That's why they lose
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan, un beat, la sentencia.
@@ -1125,7 +1125,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan, un beat, la sentencia. (Line delivered — convey the emotion, do NOT render the words as text: "Por eso siempre pierden.")
 
 ### FRAME 124 — SEC 5 — @Vera's last strength
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: En el suelo, @Vera junta lo último que le queda. Levanta las dos manos hacia su hija.
@@ -1134,7 +1134,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** En el suelo, @Vera junta lo último que le queda. Levanta las dos manos hacia su hija.
 
 ### FRAME 125 — SEC 5 — A shield of love
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Vera combat-armor turnaround"; Image 3 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: Un escudo de luz se forma alrededor de @Stella, tejido por las manos de @Vera. Su amor hecho barrera.
@@ -1143,7 +1143,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Un escudo de luz se forma alrededor de @Stella, tejido por las manos de @Vera. Su amor hecho barrera.
 
 ### FRAME 126 — SEC 5 — The spear of light
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@S1G1 assassin-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: Justo en ese instante, detrás de @Vera, @S1G1 le perfora el corazón con una lanza de luz. Sin sangre: la luz la atraviesa.
@@ -1152,7 +1152,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Justo en ese instante, detrás de @Vera, @S1G1 le perfora el corazón con una lanza de luz. Sin sangre: la luz la atraviesa.
 
 ### FRAME 127 — SEC 5 — MOM!
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "Orb chamber establishing".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella, un grito que se rompe en dos.
@@ -1161,7 +1161,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella, un grito que se rompe en dos. (Line delivered — convey the emotion, do NOT render the words as text: "¡MAMÁ!")
 
 ### FRAME 128 — SEC 5 — Holding the shield
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: @Vera la mira. Sostiene el escudo con la vida que se le escapa. Todo su ser volcado en no soltarlo.
@@ -1170,7 +1170,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vera la mira. Sostiene el escudo con la vida que se le escapa. Todo su ser volcado en no soltarlo.
 
 ### FRAME 129 — SEC 5 — Run
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: Los labios de @Vera se mueven una última vez, casi sin voz.
@@ -1179,7 +1179,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Los labios de @Vera se mueven una última vez, casi sin voz. (Line delivered — convey the emotion, do NOT render the words as text: "Huye.")
 
 ### FRAME 130 — SEC 5 — A child breaking forever
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "@Vera combat-armor turnaround"; Image 3 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: @Stella, colgada del pelo, atrapada, ve morir a su madre a un metro de distancia. La cara de una niña rompiéndose para siempre.
@@ -1188,7 +1188,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella, colgada del pelo, atrapada, ve morir a su madre a un metro de distancia. La cara de una niña rompiéndose para siempre.
 
 ### FRAME 131 — SEC 5 — The laser knife
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella saca de su traje un cuchillo láser. La hoja se enciende, fina y azul.
@@ -1197,7 +1197,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella saca de su traje un cuchillo láser. La hoja se enciende, fina y azul.
 
 ### FRAME 132 — SEC 5 — Cutting the braid
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (long braid)"; Image 2 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Se lo lleva a la nuca. Y se corta la trenza de un tajo limpio.
@@ -1206,7 +1206,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Se lo lleva a la nuca. Y se corta la trenza de un tajo limpio.
 
 ### FRAME 133 — SEC 5 — Falling free, short hair
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Cae libre al piso, rodando, el pelo corto ahora.
@@ -1215,7 +1215,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Cae libre al piso, rodando, el pelo corto ahora.
 
 ### FRAME 134 — SEC 5 — A useless trophy
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: La trenza cortada queda colgando de la mano de @Vorthan, un trofeo inútil.
@@ -1224,7 +1224,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La trenza cortada queda colgando de la mano de @Vorthan, un trofeo inútil.
 
 ### FRAME 135 — SEC 5 — The shield dissolves
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear. Pose and expression frozen for this beat: El escudo de @Vera se apaga con ella. La luz se disuelve. El cuerpo queda quieto.
@@ -1233,7 +1233,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** El escudo de @Vera se apaga con ella. La luz se disuelve. El cuerpo queda quieto.
 
 ### FRAME 136 — SEC 5 — So close, not touching
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — @Stella's cut hair and @Vera's open hand on the floor, close but not touching
@@ -1245,7 +1245,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 ## SECUENCIA 6 — TOMA DEL ORBE / HUIDA
 
 ### FRAME 137 — SEC 6 — Rising, running to the Orb
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella rueda, se levanta. Rota por dentro, los ojos inundados, pero corriendo hacia el Orbe.
@@ -1254,7 +1254,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella rueda, se levanta. Rota por dentro, los ojos inundados, pero corriendo hacia el Orbe.
 
 ### FRAME 138 — SEC 6 — Dodging robots
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Imperial soldier-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Esquiva a un robot. A otro. Salta por encima de una carcasa caída.
@@ -1263,7 +1263,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Esquiva a un robot. A otro. Salta por encima de una carcasa caída.
 
 ### FRAME 139 — SEC 6 — Taking the Orb
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Y toma el Orbe. Sus dedos se cierran sobre la esfera de luz.
@@ -1272,7 +1272,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Y toma el Orbe. Sus dedos se cierran sobre la esfera de luz.
 
 ### FRAME 140 — SEC 6 — It integrates
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Orb chamber establishing".
 - **Framing:** tight insert close-up on a single object or gesture, translated from "Inserto".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: En el segundo exacto del contacto, la llave de la palma se enciende. La esfera se integra, se hace pequeña, late en su mano.
@@ -1281,7 +1281,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** En el segundo exacto del contacto, la llave de la palma se enciende. La esfera se integra, se hace pequeña, late en su mano.
 
 ### FRAME 141 — SEC 6 — MAX
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: La muñequera del traje marca: MAX. Los caracteres encendiéndose.
@@ -1290,7 +1290,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La muñequera del traje marca: MAX. Los caracteres encendiéndose.
 
 ### FRAME 142 — SEC 6 — Thrusters fire
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Los propulsores del traje rugen. @Stella despega hacia un ducto estrecho en lo alto del techo, la única salida.
@@ -1299,7 +1299,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Los propulsores del traje rugen. @Stella despega hacia un ducto estrecho en lo alto del techo, la única salida.
 
 ### FRAME 143 — SEC 6 — One last look down
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Antes de entrar, una fracción de segundo, @Stella mira hacia abajo.
@@ -1308,7 +1308,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Antes de entrar, una fracción de segundo, @Stella mira hacia abajo.
 
 ### FRAME 144 — SEC 6 — Seeing them a last time
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: POV de @Stella: su madre tirada, quieta. La bebé @Selka llorando junto al cuerpo. Las ve por última vez.
@@ -1317,7 +1317,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** POV de @Stella: su madre tirada, quieta. La bebé @Selka llorando junto al cuerpo. Las ve por última vez.
 
 ### FRAME 145 — SEC 6 — Into the duct
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella aprieta los dientes, se traga el grito. Entra al ducto.
@@ -1326,7 +1326,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella aprieta los dientes, se traga el grito. Entra al ducto.
 
 ### FRAME 146 — SEC 6 — @S1G1 in pursuit
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@S1G1 assassin-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: @S1G1 dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas.
@@ -1335,7 +1335,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @S1G1 dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas.
 
 ### FRAME 147 — SEC 6 — Jammed in the duct
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@S1G1 assassin-robot reference"; Image 2 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: @S1G1 se atasca en el orificio del ducto. Forcejea. Chispas saltando por todas partes.
@@ -1344,7 +1344,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @S1G1 se atasca en el orificio del ducto. Forcejea. Chispas saltando por todas partes.
 
 ### FRAME 148 — SEC 6 — @S1G1 bursts into light
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@S1G1 assassin-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: @S1G1 EXPLOTA. La onda escupe a @Stella por el otro lado, al cielo abierto.
@@ -1353,7 +1353,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @S1G1 EXPLOTA. La onda escupe a @Stella por el otro lado, al cielo abierto.
 
 ### FRAME 149 — SEC 6 — Debris settling
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — metal debris settling in the smoking duct, a dying spark
@@ -1362,7 +1362,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Escombros metálicos asentándose en el ducto humeante. Una chispa muriendo. La resaca del impacto.
 
 ### FRAME 150 — SEC 6 — @Vera dead below
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: ABAJO, en la sala: @Vera muerta en el piso. La bebé llorando a su lado. El vacío enorme alrededor.
@@ -1371,7 +1371,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** ABAJO, en la sala: @Vera muerta en el piso. La bebé llorando a su lado. El vacío enorme alrededor.
 
 ### FRAME 151 — SEC 6 — @Vorthan lifts @Selka
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: @VORTHAN se acerca, sin prisa, y levanta a @Selka en sus brazos. La bebé se calla, mirándolo.
@@ -1380,7 +1380,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @VORTHAN se acerca, sin prisa, y levanta a @Selka en sus brazos. La bebé se calla, mirándolo.
 
 ### FRAME 152 — SEC 6 — He stops the robots
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Imperial soldier-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Dos robots se inclinan a recoger el cuerpo de @Vera. El Rey los detiene con un gesto seco de la mano.
@@ -1389,7 +1389,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Dos robots se inclinan a recoger el cuerpo de @Vera. El Rey los detiene con un gesto seco de la mano.
 
 ### FRAME 153 — SEC 6 — She's already dead
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan, frío, sin siquiera mirarla.
@@ -1398,7 +1398,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan, frío, sin siquiera mirarla. (Line delivered — convey the emotion, do NOT render the words as text: "¿Qué hacen? Ya está muerta.")
 
 ### FRAME 154 — SEC 6 — Find @Stella
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: El Rey se da la vuelta con la bebé, dando la espalda al cuerpo.
@@ -1407,7 +1407,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** El Rey se da la vuelta con la bebé, dando la espalda al cuerpo. (Line delivered — convey the emotion, do NOT render the words as text: "Salgan a buscar a @Stella. Necesitamos ese Orbe.")
 
 ### FRAME 155 — SEC 6 — They drop the body
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "Imperial soldier-robot reference"; Image 2 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Los robots sueltan el cuerpo, que golpea el suelo, y salen.
@@ -1416,7 +1416,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Los robots sueltan el cuerpo, que golpea el suelo, y salen.
 
 ### FRAME 156 — SEC 6 — Abandoned in her own house
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: El Rey se va con la bebé en brazos, dejando a @Vera tirada en el suelo de su propia casa. La sala inmensa, vacía, alrededor del cuerpo. Sostener el abandono.
@@ -1428,7 +1428,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 ## SECUENCIA 7 — CIELO / NAVES ALIADAS
 
 ### FRAME 157 — SEC 7 — Onto the hidden ship
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Golden City establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella sale disparada del palacio y cae sobre la nave que @Vera escondió entre las torres.
@@ -1437,7 +1437,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella sale disparada del palacio y cae sobre la nave que @Vera escondió entre las torres.
 
 ### FRAME 158 — SEC 7 — Trembling hands, ignition
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Manos temblando sobre los controles. Arranca. La cabina cobra vida.
@@ -1446,7 +1446,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Manos temblando sobre los controles. Arranca. La cabina cobra vida.
 
 ### FRAME 159 — SEC 7 — The imperial fleet
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Golden City establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — NaveImperial fleet — dozens of angular warships on the golden horizon
@@ -1455,7 +1455,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Apenas despega, en el horizonte dorado, aparece una FLOTA IMPERIAL. Decenas de naves, silueta amenazante contra el sol.
 
 ### FRAME 160 — SEC 7 — Threading the towers
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Golden City establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Empieza la persecución. @Stella se mete entre las torres, vuela como nadie, raspando los puentes.
@@ -1464,7 +1464,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Empieza la persecución. @Stella se mete entre las torres, vuela como nadie, raspando los puentes.
 
 ### FRAME 161 — SEC 7 — Crashing pursuers
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Golden City establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — two imperial pursuers crashing into buildings, bursts of light
@@ -1473,7 +1473,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Hace chocar a dos perseguidores contra los edificios. Estallidos de luz entre las torres doradas.
 
 ### FRAME 162 — SEC 7 — Brilliant and desperate
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella pilotando, brillante y desesperada a la vez. Pero son demasiados.
@@ -1482,7 +1482,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella pilotando, brillante y desesperada a la vez. Pero son demasiados.
 
 ### FRAME 163 — SEC 7 — In their sights
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Golden City establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — an imperial ship framing @Stella's ship in its targeting ring
@@ -1491,7 +1491,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Una nave imperial la encuadra en su punto de mira. El disparo va a salir.
 
 ### FRAME 164 — SEC 7 — Saved by a stranger
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Golden City establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — an imperial ship exploding from a side shot
@@ -1500,7 +1500,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La nave imperial estalla, reventada desde un costado por un disparo que no era de @Stella.
 
 ### FRAME 165 — SEC 7 — Allied ships cut in
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Golden City establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — NaveAliada — scrappy allied ships cutting in, opening a lane in the sky
@@ -1509,7 +1509,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Aparecen OTRAS NAVES. Aliados. Gente que sabía. Se interponen, abren fuego, le hacen un pasillo en el cielo.
 
 ### FRAME 166 — SEC 7 — The radio crackles
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella escucha la radio, sin entender.
@@ -1518,7 +1518,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella escucha la radio, sin entender.
 
 ### FRAME 167 — SEC 7 — A resolute voice
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "Allied Pilot 1 reference"; Image 2 = "Golden City establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** an allied pilot (NOT white hair), resolute, wearing flight gear. Pose and expression frozen for this beat: El altavoz de la radio crepita. Una voz de mujer, con la calma de quien ya decidió morir.
@@ -1527,7 +1527,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** El altavoz de la radio crepita. Una voz de mujer, con la calma de quien ya decidió morir. (Line delivered — convey the emotion, do NOT render the words as text: "@Stella. Tu madre nos contó lo que pasaba.")
 
 ### FRAME 168 — SEC 7 — An allied sacrifice
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Golden City establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — an allied ship sacrificing itself against an imperial fighter
@@ -1536,7 +1536,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Otra nave aliada se sacrifica al fondo, reventando contra un caza imperial. (Line delivered — convey the emotion, do NOT render the words as text: "Estamos aquí para protegerte. No dejes que nuestro sacrificio sea en vano.")
 
 ### FRAME 169 — SEC 7 — Who are you
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella, al borde del llanto, gritando a la radio.
@@ -1545,7 +1545,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella, al borde del llanto, gritando a la radio. (Line delivered — convey the emotion, do NOT render the words as text: "¿Quiénes son ustedes? ¡No los conozco! ¡No—!")
 
 ### FRAME 170 — SEC 7 — Let no one have the Orb
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "Allied Pilot 1 reference"; Image 2 = "Golden City establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** an allied pilot (NOT white hair), resolute, wearing flight gear. Pose and expression frozen for this beat: La radio, la voz firme sobre la estática.
@@ -1554,7 +1554,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La radio, la voz firme sobre la estática. (Line delivered — convey the emotion, do NOT render the words as text: "No dejes que nadie consiga ese Orbe. Nadie.")
 
 ### FRAME 171 — SEC 7 — A path to the black
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Erdia in space".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — NaveAliada ships opening a path toward the black of space
@@ -1563,7 +1563,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Naves aliadas abriéndole camino, una tras otra, hacia el negro del espacio. (Line delivered — convey the emotion, do NOT render the words as text: "Ve lejos. Hazte fuerte. Y vuelve algún día a salvarnos.")
 
 ### FRAME 172 — SEC 7 — Tears, no reply
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella escuchando, las lágrimas cayendo, sin poder responder.
@@ -1572,7 +1572,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella escuchando, las lágrimas cayendo, sin poder responder. (Line delivered — convey the emotion, do NOT render the words as text: "Te vamos a estar esperando.")
 
 ### FRAME 173 — SEC 7 — Flowers of light
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Golden City establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — allied ships bursting into flowers of light, most dying for her
@@ -1581,7 +1581,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Una a una, las naves aliadas se interponen y revientan, flores de luz abriéndose en el cielo. La mayoría muere por ella.
 
 ### FRAME 174 — SEC 7 — Three taken alive
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "Allied Pilot 1 reference"; Image 2 = "Allied Pilot 2 reference"; Image 3 = "Allied Pilot 3 reference"; Image 4 = "Golden City establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** an allied pilot (NOT white hair), resolute, wearing flight gear.; a second allied pilot (NOT white hair), distinct look, wearing flight gear.; a third allied pilot (NOT white hair), wearing flight gear. Pose and expression frozen for this beat: Tres naves aliadas caen sin estallar: forzadas, no destruidas. La flota imperial captura vivos a sus tres pilotos.
@@ -1590,7 +1590,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Tres naves aliadas caen sin estallar: forzadas, no destruidas. La flota imperial captura vivos a sus tres pilotos.
 
 ### FRAME 175 — SEC 7 — In the rear-view
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella lo ve todo en el retrovisor: a los que mueren, y a los tres que se llevan presos. Su cara guardándolo.
@@ -1599,7 +1599,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella lo ve todo en el retrovisor: a los que mueren, y a los tres que se llevan presos. Su cara guardándolo.
 
 ### FRAME 176 — SEC 7 — Out into the void
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "Erdia in space".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Y sale. Al vacío. Sola. Erdia dorada quedando atrás, pequeña.
@@ -1611,7 +1611,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 ## SECUENCIA 8 — CLÍMAX SILENCIOSO / HÍPER-SALTO
 
 ### FRAME 177 — SEC 8 — The silence of space
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Erdia in space".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — the absolute black of space dusted with stars
@@ -1620,7 +1620,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** El silencio del espacio. El negro absoluto salpicado de estrellas. Nada se mueve. Sostener el vacío.
 
 ### FRAME 178 — SEC 8 — Erdia shrinking
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Erdia in space".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — Erdia, golden and sick, shrinking behind the ship
@@ -1629,7 +1629,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Erdia, dorada y enferma, se encoge lentamente detrás de la nave. Cada vez más chica.
 
 ### FRAME 179 — SEC 8 — A soft alarm
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Un panel de la cabina. Una alarma suave se enciende. Luz ámbar parpadeando en el silencio.
@@ -1638,7 +1638,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Un panel de la cabina. Una alarma suave se enciende. Luz ámbar parpadeando en el silencio.
 
 ### FRAME 180 — SEC 8 — OXYGEN CRITICAL
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "@Stella's escape ship cockpit".
 - **Framing:** tight insert close-up on a single object or gesture, translated from "Inserto".
 - **Subject:** No character in frame — a warning sign lit: OXYGEN CRITICAL, red letters pulsing
@@ -1647,7 +1647,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Luego otra alarma. Un cartel se ilumina: OXÍGENO: CRÍTICO. Las letras rojas latiendo. The diegetic panel readout OXYGEN CRITICAL is allowed as rendered text (it is a screen).
 
 ### FRAME 181 — SEC 8 — Breathing slower
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella respira cada vez más despacio. El pecho subiendo apenas. Sostener.
@@ -1656,7 +1656,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella respira cada vez más despacio. El pecho subiendo apenas. Sostener.
 
 ### FRAME 182 — SEC 8 — Crying without sound
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Su cara. Llora sin ruido. Tiene catorce años, acaba de ver morir a su madre y a un montón de desconocidos, y se queda sin aire en mitad de la nada.
@@ -1665,7 +1665,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Su cara. Llora sin ruido. Tiene catorce años, acaba de ver morir a su madre y a un montón de desconocidos, y se queda sin aire en mitad de la nada.
 
 ### FRAME 183 — SEC 8 — A tear floats free
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Una lágrima se desprende de su mejilla y flota, suspendida, en la gravedad cero. Una perla de agua a la deriva.
@@ -1674,7 +1674,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Una lágrima se desprende de su mejilla y flota, suspendida, en la gravedad cero. Una perla de agua a la deriva.
 
 ### FRAME 184 — SEC 8 — The tear catches starlight
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "@Stella's escape ship cockpit".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — the floating tear catching starlight, turning slowly
@@ -1683,7 +1683,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La lágrima flotante atrapa la luz de las estrellas, girando despacio. Sostener el 間.
 
 ### FRAME 185 — SEC 8 — She looks at her hand
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella baja la mirada. Mira su mano.
@@ -1692,7 +1692,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella baja la mirada. Mira su mano.
 
 ### FRAME 186 — SEC 8 — The Orb in her palm
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: La llave de luz en su palma. El Orbe latiendo dentro, cálido, vivo, ajeno a la muerte de alrededor.
@@ -1701,7 +1701,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La llave de luz en su palma. El Orbe latiendo dentro, cálido, vivo, ajeno a la muerte de alrededor.
 
 ### FRAME 187 — SEC 8 — A thought is born
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Los ojos de @Stella, vidriosos, mirando el Orbe. Un pensamiento naciendo desde la desesperación.
@@ -1710,7 +1710,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Los ojos de @Stella, vidriosos, mirando el Orbe. Un pensamiento naciendo desde la desesperación.
 
 ### FRAME 188 — SEC 8 — Palm on the console
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: En un acto de pura desesperación, sin saber lo que hace, @Stella pone la palma abierta sobre el tablero.
@@ -1719,7 +1719,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** En un acto de pura desesperación, sin saber lo que hace, @Stella pone la palma abierta sobre el tablero.
 
 ### FRAME 189 — SEC 8 — Orb-light flows in
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "@Stella's escape ship cockpit".
 - **Framing:** tight insert close-up on a single object or gesture, translated from "Inserto".
 - **Subject:** No character in frame — a thread of Orb-light running from her hand into the ship's metal
@@ -1728,7 +1728,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La energía del Orbe empieza a fluir hacia la nave. Un hilo de luz corriendo desde su mano al metal.
 
 ### FRAME 190 — SEC 8 — Panels wake one by one
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "@Stella's escape ship cockpit".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** No character in frame — panels lighting up one by one in the gloom
@@ -1737,7 +1737,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Un panel se enciende. Luego otro. Y otro. Cada uno cobrando vida uno a uno en la penumbra.
 
 ### FRAME 191 — SEC 8 — Not understanding
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella observa, la cara iluminada por los paneles que despiertan, sin entender qué está haciendo.
@@ -1746,7 +1746,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella observa, la cara iluminada por los paneles que despiertan, sin entender qué está haciendo.
 
 ### FRAME 192 — SEC 8 — The charge climbs
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "@Stella's escape ship cockpit".
 - **Framing:** tight insert close-up on a single object or gesture, translated from "Inserto".
 - **Subject:** No character in frame — a charge gauge climbing into the red, light intensifying
@@ -1755,7 +1755,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La carga sube. Sube. Un medidor trepando hacia el rojo. La luz se intensifica.
 
 ### FRAME 193 — SEC 8 — The system overloads
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Todo el sistema empieza a temblar, a sobrecargarse, a colapsar. La cabina vibra, las luces destellan.
@@ -1764,7 +1764,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Todo el sistema empieza a temblar, a sobrecargarse, a colapsar. La cabina vibra, las luces destellan.
 
 ### FRAME 194 — SEC 8 — Bracing, wide-eyed
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Stella se aferra al asiento, los ojos muy abiertos, el rugido creciendo.
@@ -1773,7 +1773,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Stella se aferra al asiento, los ojos muy abiertos, el rugido creciendo.
 
 ### FRAME 195 — SEC 8 — The hyper-jump
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Erdia in space".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — NaveStella stretching into a line of light — a hyperspace jump
@@ -1782,7 +1782,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La nave da un HÍPER SALTO. Se estira en una línea de luz y desaparece del espacio conocido.
 
 ### FRAME 196 — SEC 8 — White light swallows all
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Erdia in space".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — a burst of white light swallowing the frame
@@ -1791,7 +1791,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Un estallido de luz blanca se traga la pantalla. La nave es arrancada de su universo.
 
 ### FRAME 197 — SEC 8 — Total white
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Erdia in space".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — total white void
@@ -1803,7 +1803,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 ## SECUENCIA 9 — BALCÓN REAL / DISCURSO
 
 ### FRAME 198 — SEC 9 — The plaza, the balcony
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Bajo un cielo todavía azul, una plaza inmensa repleta de gente. @VORTHAN de pie en el balcón real, minúsculo sobre la multitud.
@@ -1812,7 +1812,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Bajo un cielo todavía azul, una plaza inmensa repleta de gente. @VORTHAN de pie en el balcón real, minúsculo sobre la multitud.
 
 ### FRAME 199 — SEC 9 — Today we were robbed
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan habla con voz de luto, perfecta, medida.
@@ -1821,7 +1821,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan habla con voz de luto, perfecta, medida. (Line delivered — convey the emotion, do NOT render the words as text: "Hoy nos han robado.")
 
 ### FRAME 200 — SEC 9 — Torn from our world
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan deja caer la palabra, saboreando el silencio de la plaza.
@@ -1830,7 +1830,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan deja caer la palabra, saboreando el silencio de la plaza. (Line delivered — convey the emotion, do NOT render the words as text: "El Orbe —el corazón de Erdia, la fuente de todo lo que somos— ha sido arrancado de nuestro mundo.")
 
 ### FRAME 201 — SEC 9 — Horror through the crowd
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Palace plaza establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** No character in frame — a wave of horror through the crowd, faces breaking, hands to mouths
@@ -1839,7 +1839,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Murmullo de horror recorriendo la plaza. Rostros descompuestos, manos en la boca.
 
 ### FRAME 202 — SEC 9 — The planet will die
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan, la condena creciendo.
@@ -1848,7 +1848,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan, la condena creciendo. (Line delivered — convey the emotion, do NOT render the words as text: "Sin él, la luz se irá. El agua se irá. Y nuestro planeta… empezará a morir.")
 
 ### FRAME 203 — SEC 9 — The confined pilots
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "Allied Pilot 1 reference"; Image 2 = "Allied Pilot 2 reference"; Image 3 = "Allied Pilot 3 reference"; Image 4 = "Palace plaza establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
 - **Subject:** an allied pilot (NOT white hair), resolute, wearing flight gear.; a second allied pilot (NOT white hair), distinct look, wearing flight gear.; a third allied pilot (NOT white hair), wearing flight gear. Pose and expression frozen for this beat: Detrás de él, exhibidos en jaulas, los TRES PILOTOS que salvaron a @Stella. Presos, vencidos, la cabeza baja.
@@ -1857,7 +1857,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Detrás de él, exhibidos en jaulas, los TRES PILOTOS que salvaron a @Stella. Presos, vencidos, la cabeza baja.
 
 ### FRAME 204 — SEC 9 — A pilot looks to the sky
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "Allied Pilot 1 reference"; Image 2 = "Palace plaza establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** an allied pilot (NOT white hair), resolute, wearing flight gear. Pose and expression frozen for this beat: Uno de los pilotos alza apenas la mirada hacia el cielo, hacia donde se fue @Stella. Silencio.
@@ -1866,7 +1866,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Uno de los pilotos alza apenas la mirada hacia el cielo, hacia donde se fue @Stella. Silencio.
 
 ### FRAME 205 — SEC 9 — One of our own
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan, girando el cuchillo.
@@ -1875,7 +1875,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan, girando el cuchillo. (Line delivered — convey the emotion, do NOT render the words as text: "¿Y quién nos ha condenado a esto? Una de los nuestros.")
 
 ### FRAME 206 — SEC 9 — Poisoning the memory
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan, un beat, envenenando el recuerdo.
@@ -1884,7 +1884,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan, un beat, envenenando el recuerdo. (Line delivered — convey the emotion, do NOT render the words as text: "Una niña a la que le dimos todo. Que prefirió quedarse con la luz de todos antes que dejarla correr.")
 
 ### FRAME 207 — SEC 9 — Thief, traitor
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan, la palabra final como una sentencia.
@@ -1893,7 +1893,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan, la palabra final como una sentencia. (Line delivered — convey the emotion, do NOT render the words as text: "@Stella. Ladrona. Traidora.")
 
 ### FRAME 208 — SEC 9 — The crowd turns to hate
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Palace plaza establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — the crowd, a sea of raised fists, turning to hate
@@ -1902,7 +1902,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio. Un mar de puños alzados.
 
 ### FRAME 209 — SEC 9 — @Selka before the crowd
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Palace plaza establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: @Vorthan sostiene a la bebé @Selka en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
@@ -1911,7 +1911,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** @Vorthan sostiene a la bebé @Selka en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
 
 ### FRAME 210 — SEC 9 — A father's caress
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Palace plaza establishing".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: Muy despacio, casi sin que se note, el Rey le acaricia la cabeza a la bebé. Como un padre. El horror disfrazado de ternura.
@@ -1920,7 +1920,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Muy despacio, casi sin que se note, el Rey le acaricia la cabeza a la bebé. Como un padre. El horror disfrazado de ternura.
 
 ### FRAME 211 — SEC 9 — The trusting little hand
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "King @Vorthan turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Palace plaza establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: La manita de @Selka se cierra sobre el dedo de @Vorthan, confiada. Sostener la imagen intolerable.
@@ -1929,7 +1929,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** La manita de @Selka se cierra sobre el dedo de @Vorthan, confiada. Sostener la imagen intolerable.
 
 ### FRAME 212 — SEC 9 — Cut to black
-- **Style:** hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** location only — Image 1 = "Palace plaza establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
 - **Subject:** No character in frame — CUT TO BLACK — the blue sky and roaring plaza snapping to darkness

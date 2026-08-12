@@ -42,12 +42,18 @@ h3.sec{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:var(--mu
 <div class="why">
   <h2>Por qué rebotaban</h2>
   <p>Los prompts <b>se autodenunciaban</b>. Cada uno cerraba con <code>Negative: no blood, no gore, no guns</code>, y el moderador lee texto crudo, no lógica: no entiende el «no», solo ve las palabras prohibidas dentro del prompt. Esa línea estaba en el <b>100%</b> de los clips.</p>
-  <p>Lo mismo con <code>Satoshi Kon</code> y <code>Ghibli</code>, también en el 100%: nombrar un estudio dispara el filtro de propiedad intelectual. Aquí van descritos por su aspecto — <i>hand-painted 2D anime, painterly watercolor backgrounds</i> — que además guía mejor al modelo.</p>
-  <p>Con esa carga base, cada envío partía al borde del umbral y los <b>118 clips con acción real</b> lo cruzaban. Por eso rebotaban muchos y no todos.</p>
+  <p>Con esa carga base, cada envío partía al borde del umbral y los <b>118 clips con acción real</b> lo cruzaban. Por eso rebotaban muchos y no todos. Toda esa clase de vocabulario está fuera: <b>0 residuales</b> en 11 clases de disparador.</p>
+</div>
+
+<div class="why" style="border-left-color:#e0a76f;background:#1a1510;border-color:#33291e">
+  <h2 style="color:#e0a76f">⚠️ Lo único que sigue siendo un riesgo</h2>
+  <p>Cada prompt abre con <code>Hayao Miyazaki style, Satoshi Kon mood</code> — <b>por petición expresa</b>. Nombrar a un artista vivo es exactamente la clase de token que activa el filtro de propiedad intelectual, y es el mismo que se había quitado.</p>
+  <p><b>Si vuelven los rechazos, esto es lo primero que hay que apagar:</b> pon <code>NOMBRES_DE_AUTOR = False</code> en <code>tools/seedance_safe.py</code> y regenera. La descripción del look — <i>hand-painted 2D anime, painterly watercolor backgrounds</i> — sigue debajo y sostiene el estilo sola.</p>
 </div>
 
 <div class="meta">
-  <span class="chip">0 residuales en 11 clases de disparador</span>
+  <span class="chip">Todos los clips a 20s</span>
+  <span class="chip">0 residuales en 11 clases</span>
   <span class="chip">@ en los 16 personajes</span>
   <span class="chip">Originales intactos</span>
 </div>
@@ -61,7 +67,7 @@ h3.sec{font-size:13px;letter-spacing:3px;text-transform:uppercase;color:var(--mu
   </a>
   <a class="card" href="PROMPTS_SB_WEB_SEEDANCE.html">
     <h4>🎥 Prompts del Storyboard</h4>
-    <p>Un prompt por página del storyboard: 233 clips de ≤15s.</p>
+    <p>Un prompt por página del storyboard: 233 clips de 20s.</p>
     <div class="go">Abrir →</div>
   </a>
   <a class="card" href="PROMPTS_SBPAGES_WEB_SEEDANCE.html">

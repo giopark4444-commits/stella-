@@ -34,9 +34,11 @@ check("SelkaBebe intacto", poner_arrobas("@SelkaBebe pressed between them"),
 # --- 3. el bloque de estilo pierde las marcas -------------------------------
 est = transformar("- **Style:** Satoshi Kon–style anime, cinematic composition, "
                   "cinematic mood, 2D hand-painted Ghibli touch, fluid motion.")
+# La forma ORIGINAL (que disparaba el filtro) debe morir. El "Satoshi Kon mood"
+# y el "Hayao Miyazaki style" son una peticion explicita de Gio y SI van.
 check("estilo sin IP", est,
       debe_contener=["hand-painted 2D anime", "painterly watercolor"],
-      no_debe_contener=["Ghibli", "Satoshi Kon"])
+      no_debe_contener=["Ghibli", "Satoshi Kon-style", "Satoshi Kon–style"])
 
 # --- 4. la linea Negative pierde los tokens prohibidos ----------------------
 neg = transformar("- **Negative:** no blood, no gore, no guns, no on-screen text, no watermark.")
@@ -113,7 +115,7 @@ h3 = ('<div class="clip" data-txt="Style: Satoshi Kon-style anime. '
 o3 = transformar_html(h3)
 _txt = _re.search(r'data-txt="([^"]*)"', o3).group(1)
 check("data-txt limpio", _txt,
-      no_debe_contener=["Satoshi", "blood", "gore", "guns"])
+      no_debe_contener=["Satoshi Kon-style", "blood", "gore", "guns"])
 check("data-txt conserva mayusculas", _txt, debe_contener=["Style:", "Negative:"])
 # los identificadores estructurales NO se tocan: el JS los compara literalmente
 check("data-c/data-k intactos", o3, debe_contener=['data-c="a1"', 'data-k="stella"'])
@@ -135,12 +137,32 @@ for antes in ["they mean to execute a used-up prisoner",
               "Characters: @Vosk, executioners."]:
     check(f"execut en {antes[:24]!r}", transformar(antes), no_debe_contener=["execut"])
 
+# --- 9e. DURACION a 20s y nombres de autor ---------------------------------
+est20 = transformar("- **Style:** Satoshi Kon–style anime, cinematic composition, "
+                    "cinematic mood, 2D hand-painted Ghibli touch, fluid motion. 21:9, 15s.")
+check("duracion 20s", est20, debe_contener=["21:9, 20s"], no_debe_contener=["15s"])
+check("nombres de autor", est20,
+      debe_contener=["Hayao Miyazaki style", "Satoshi Kon mood", "hand-painted 2D anime"])
+# idempotencia: pasarlo dos veces no duplica el prefijo ni rompe "Kon mood"
+dos = transformar(est20)
+check("autor idempotente", dos, no_debe_contener=["Kon mood, Hayao", "classic 2D anime mood"])
+if dos != est20:
+    fallos.append(f"autor idempotente: la 2a pasada cambio el texto\n      {dos!r}")
+
+check("encabezado de clip", transformar("### CLIP 1x1 — The line of dawn · 13s"),
+      debe_contener=["· 20s"], no_debe_contener=["13s"])
+# los totales de escena se RECALCULAN, no se dejan mintiendo
+check("total de pagina", transformar("### PAGE 1p1 — Descent · 9 shots · ~63s"),
+      debe_contener=["9 shots · ~180s"], no_debe_contener=["63s"])
+check("badge html", transformar_html('<span class="cdur">13s</span>'),
+      debe_contener=["<span class=\"cdur\">20s</span>"])
+
 # --- 10. no se rompe el marcado de las etiquetas ---------------------------
 html2 = '<div class="f"><span class="fl">Style:</span> Satoshi Kon–style anime</div>'
 out2 = transformar_html(html2)
 check("html tags intactos", out2,
       debe_contener=['<span class="fl">Style:</span>', "hand-painted 2D anime"],
-      no_debe_contener=["Satoshi Kon"])
+      no_debe_contener=["Satoshi Kon-style", "Satoshi Kon–style"])
 
 if fallos:
     print(f"❌ {len(fallos)} FALLOS\n")

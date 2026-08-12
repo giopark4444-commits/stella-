@@ -1,13 +1,13 @@
 # STORYBOARD PROMPT PAGES · ACTO 2 — Stella Fugaz «El Nodo de Erdia»
-> **32 páginas** (una escena por página, o una parte de ≤9 tomas si la escena tiene más) · Seedance 2.0 · 21:9 · continuous scene-page prompts · directivas y diálogo **EN INGLÉS** · SFX only / no music · death by light / / /.
+> **32 páginas** (una escena por página, o una parte de ≤9 tomas si la escena tiene más) · Seedance 2.5 · 21:9 · continuous scene-page prompts · directivas y diálogo **EN INGLÉS** · SFX only / no music · death by light / / /.
 > Canon de ojos: **amber → @StellaPeloCorto & @NaioEsclavo** · **grey-blue → @VeraEncapuchada & @SelkaGeneral** (@Selka: scar over her left eye). White hair común a la familia; el color de ojos distingue las ramas.
 
 ---
 
 ## SECUENCIA 10 — ESCENA: La nave nodriza / "te recogí"
 
-### PAGE 10p1 — Waking in the Hunter's Bay · 9 shots · ~47s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 10p1 — Waking in the Hunter's Bay · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background. A vast, dark cargo bay of an ancient mothership; cold metal ribs arch overhead like the skeleton of a dead whale, mechanical arms hang in the gloom, dim amber work-lights pool on wet steel, steam curling in the still air, scrap strewn across the deck.
 - **Characters:** @StellaPeloCorto — white short hair, recon suit, **amber eyes**.
 - **Shot/lens:** wide establishing of the cavernous bay; detail on a dripping conduit; wide of the wrecked hull in the claws; close on her sleeping face; medium as she jolts up; insert of her glowing palm; extreme close on her eyes; wide of the colossal moving shadow; full shot of her backing up.
@@ -19,8 +19,8 @@
 - **Audio:** SFX only — deep hull groans, a single dripping metal echo, a low hum, her gasp and sharp breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 10p2 — "I picked you up" · 9 shots · ~43s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 10p2 — "I picked you up" · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background. The shadowed bay floor, amber pools and deep gloom, the wreck looming behind.
 - **Characters:** @StellaPeloCorto — white short hair, **amber eyes**; @Theron — the Threa Hunter, tall, of another species, eyes that never blink, centuries worn into his face, ancient hunter's coat/armor.
 - **Shot/lens:** medium on @Stella; low-angle as @Theron emerges; medium on @Theron; close on his unblinking eyes; medium dolly of him advancing; insert POV over her palm; close on @Theron studying the glow; shot-reverse to his eyes rising; extreme close on her closing fist.
@@ -33,7 +33,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### PAGE 10p3 — She Is a Trail · 1 shot · ~5s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NaveNodriza — match its architecture, materials, colors; lush, detailed, painterly background. Amber gloom close on her body.
 - **Characters:** @StellaPeloCorto — **amber eyes**. **Props:** @Orbe, @LlaveDeLuz.
 - **Shot/lens:** detail on her closed fist.
@@ -48,8 +48,8 @@
 
 ## SECUENCIA 11 — ESCENA: Maltrato / @Vosk / @Brog y @Nima / la dilatación
 
-### PAGE 11p1 — @Vosk Blocks the Way · 9 shots · ~31s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 11p1 — @Vosk Blocks the Way · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. Cramped, grimy industrial ship corridors, cold light, exposed pipes and cabling, a cluttered hold; a hard motley crew of strange species crossing through.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Vosk — big, scarred brute; varied alien crew.
 - **Shot/lens:** wide tracking of the corridor; medium as she's shoved; insert of the falling plate; close on her face; full shot of @Vosk blocking her; detail of his finger prodding her; close on her deciding; insert of her slap; medium of @Vosk grinning and loading a punch.
@@ -61,8 +61,8 @@
 - **Audio:** SFX only — machinery, low alien murmurs, a clatter, jeers, his low voice. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 11p2 — The Brawl & @Brog / @Nima's First Warmth · 9 shots · ~32s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 11p2 — The Brawl & @Brog / @Nima's First Warmth · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. The grimy hold, then a cluttered workbench corner littered with parts, welding sparks drifting in the still air.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Vosk; @Brog — silent rock giant, cracked stone surface with faint inner light, the last of his kind; @Nima — four-armed mechanic in a work jumpsuit, practical and warm.
 - **Shot/lens:** full shot of the clash; detail of @Vosk's fist hitting the wall; medium as he pins her; detail of a stone hand landing on @Vosk; low-angle tilt up to @Brog; medium of @Vosk retreating; wide of the workbench; medium on @Nima's four hands; close as @Nima looks up.
@@ -75,8 +75,8 @@
 - **Audio:** SFX only — body blows, grunts, metal clangs, a heavy stone footfall, then tools and a soft mechanical hum. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 11p3 — Sitting with @Brog / The 1:4 Dilation · 9 shots · ~48s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 11p3 — Sitting with @Brog / The 1:4 Dilation · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. The cluttered workshop corner, warm work-glow, the vast cold ship beyond.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Nima; @Brog; @Theron — **eyes that never blink**.
 - **Shot/lens:** detail of @Nima's four hands; wide crane of @Stella sinking to the floor; medium of @Brog sitting beside her; detail of her wounded hand by his stone hand; wide of @Theron in the doorway; medium as @Stella stands urgent; shot-reverse on @Theron; close on @Theron; extreme close dolly on @Stella understanding.
@@ -88,8 +88,8 @@
 - **Audio:** SFX only — tools, a soft mechanical hum, distant ship hum, a slow breath, a held breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 11p4 — "Don't lose them" · 3 shots · ~16s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 11p4 — "Don't lose them" · 3 shots · ~60s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. Warm work-glow, cold corridor beyond.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Theron. **Props:** @Orbe.
 - **Shot/lens:** close on @Stella; medium of @Theron turning away; insert of her open palm.
@@ -105,8 +105,8 @@
 
 ## SECUENCIA 12 — ESCENA: [AÑO 8] La resistencia / @Marek / la encapuchada
 
-### PAGE 12p1 — Erdia Rots / @Marek's Doubt · 9 shots · ~52s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 12p1 — Erdia Rots / @Marek's Doubt · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; lush, detailed, painterly background. RÓTULO **ERDIA · AÑO 8**. The once-golden city greyed by fog and scaffolds, luzagua canals running thin and dull, mine chimneys smudging a dead sky where gardens used to be; then a hidden resistance refuge lit by a single lamp, gaunt naieli gathered close.
 - **Characters:** @Marek — warm, charismatic resistance leader; resistance (varied, not all white-haired).
 - **Shot/lens:** title over black; wide pan over the decaying city; tilt up the smoke; detail on a dying canal; wide of the refuge interior; medium on @Marek; close dolly across faces; medium on @Marek; pan over nodding faces.
@@ -118,8 +118,8 @@
 - **Audio:** SFX only — distant machinery, wind, a thin sick hum, trickling water, low voices, a crackling lamp. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 12p2 — The Hooded Figure · 3 shots · ~19s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 12p2 — The Hooded Figure · 3 shots · ~60s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @RefugioResistencia — match its architecture, materials, colors; lush, detailed, painterly background. Lamplit shadow at the edge of the gathering.
 - **Characters:** @VeraEncapuchada — hooded, face hidden, strong woman's hands, a strand of white hair escaping the hood, **grey-blue eyes** (unseen).
 - **Shot/lens:** full shot of the still hooded figure; detail of white hair escaping the hood; close as she lowers her head.
@@ -134,8 +134,8 @@
 
 ## SECUENCIA 13 — ESCENA: [AÑO 2] La misión / la traición de @Vosk / la captura
 
-### PAGE 13p1 — Junk Planet Ambush / @Vosk Spots Her · 9 shots · ~41s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 13p1 — Junk Planet Ambush / @Vosk Spots Her · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background. RÓTULO **@STELLA · ~AÑO 2**. Endless dunes of dead ships and twisted metal under a bruised, sick sky, dust suspended in oblique light, towering wrecked hulls.
 - **Characters:** @StellaPeloCorto — older, harder, **amber eyes**; @Vosk; @Brog; @CazadorRecompensas — local bounty hunters; crew.
 - **Shot/lens:** faint title, match on scrap; wide crane over the scrap dunes; detail of dust in a light-shaft; full steadicam of the crew moving; wide whip-pan as the ambush hits; medium as she dives into a crevice; close on her hidden face; shot-reverse @Vosk seeing her; close on @Vosk deciding.
@@ -147,8 +147,8 @@
 - **Audio:** SFX only — wind over metal, creaking wrecks, shouts, energy fire, scrambling, her held breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 13p2 — The Betrayal / The Collar · 9 shots · ~24s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 13p2 — The Betrayal / The Collar · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background. The narrow crevice among wrecks, dust and glare.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Vosk; @CazadorRecompensas. **Props:** @CollarControl.
 - **Shot/lens:** insert of @Vosk's hand taking a stone; detail whip-pan of the clang beside her; medium of @Vosk shouting; extreme close on her betrayed eyes; wide of hunters swarming her; detail of the collar snapping shut; POV of her being dragged; medium whip-pan of a net dropping on @Vosk; full shot of @Vosk struggling.
@@ -162,7 +162,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### PAGE 13p3 — Swallowed by the Scrap · 1 shot · ~6s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background. The scrap dunes and the dark @NaveEsclavista.
 - **Characters:** @StellaPeloCorto, @Vosk (small in frame).
 - **Shot/lens:** grand wide crane over the scrap.
@@ -177,8 +177,8 @@
 
 ## SECUENCIA 14 — ESCENA: La fosa / @Noah / la negativa
 
-### PAGE 14p1 — The Betting Pit / @Noah Enters · 9 shots · ~41s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 14p1 — The Betting Pit / @Noah Enters · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background. A grimy market-station at the galaxy's edge — bound worker auctions, dirty lights, a heaving crowd, and below it a sunken combat pit of dusty sand ringed by roaring, gambling stands.
 - **Characters:** @StellaPeloCorto — collar on, **amber eyes**; @Noah — young human survivor, dark tousled hair, **brown eyes** (not white hair), weathered dirty face, ragged blue scarf, a single armored pauldron, fingerless gloves, worn gear, a light-cutter / old sword swordsman; crowd, a barker. **Props:** @CollarControl.
 - **Shot/lens:** grand crane into the pit and mob; tilt over the roaring stands; medium of the barker announcing; full crane of @Stella scanning the pit; detail of the collar's red light; wide of the far gate opening; full shot of @Noah shoved in; extreme close dolly on her recognition; pan over the baying crowd.
@@ -189,8 +189,8 @@
 - **Audio:** SFX only — a roaring crowd, chains, a barker's call, a gate, a shove, her breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 14p2 — The Refusal / An Offer · 9 shots · ~31s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 14p2 — The Refusal / An Offer · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background. The dusty pit under harsh spotlight, the crowd a blur above.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Noah — **brown eyes**, blue scarf, single pauldron, light-cutter. **Props:** @CollarControl, @Orbe.
 - **Shot/lens:** medium as @Noah raises his sword and she lowers her hands; close on @Stella firm; shot-reverse on wary @Noah; close on @Stella calm; extreme close on @Noah deciding; medium as he lowers the blade; full shot as they pivot together; detail whip-pan of her ripping the collar; insert of the Orb reigniting.
@@ -204,7 +204,7 @@
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ### PAGE 14p3 — The Pit Becomes a Breakout · 1 shot · ~3s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background. The dusty pit, guards closing in.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Noah — **brown eyes**.
 - **Shot/lens:** wide of the two charging the guards.
@@ -220,8 +220,8 @@
 
 ## SECUENCIA 15 — ESCENA: La fuga / salva a @Vosk / el respeto de @Theron
 
-### PAGE 15p1 — Breakout / @Brog Breaks In / @Vosk's sentencing · 9 shots · ~27s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 15p1 — Breakout / @Brog Breaks In / @Vosk's sentencing · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background. The dusty pit, an outer wall bursting to daylight, a sentencing platform raised above the chaos.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Noah — **brown eyes**; @Brog; @Nima; @Vosk; guards.
 - **Shot/lens:** medium of @Stella and @Noah back-to-back; detail whip-pan of blade and light-push; wide as the wall bursts and @Brog enters; low-angle tilt of @Brog with a torn grate shield; pan up to the sentencing platform; medium of @Vosk kneeling; close on @Stella halting; shot-reverse of @Noah yelling; extreme close on @Stella choosing.
@@ -234,8 +234,8 @@
 - **Audio:** SFX only — a brawl, wall shattering, @Nima shouting, a charging device, jeers, @Noah's shout. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 15p2 — "Because I'm not you" / Escape · 9 shots · ~34s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 15p2 — "Because I'm not you" / Escape · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @FosaApuestas — match its architecture, materials, colors; lush, detailed, painterly background. The sentencing platform and burning station, then the quiet interior of the ship, smoke settling outside the ports.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Vosk; @Noah; @Brog; @Nima.
 - **Shot/lens:** full steadicam of @Stella running against the flow; detail whip-pan of her palm blasting the platform base and deflecting the device; medium as she hauls @Vosk clear; close on @Vosk uncomprehending; extreme close on @Stella; medium as she shoves him toward the exit; close on @Vosk changed; grand crane of everyone escaping the burning station; wide of the quiet ship interior after.
@@ -248,8 +248,8 @@
 - **Audio:** SFX only — a crashing platform, deflected blast, his stunned breath, fire, running, then quiet. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 15p3 — Earned Respect, Unspoken · 3 shots · ~18s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 15p3 — Earned Respect, Unspoken · 3 shots · ~60s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. The quiet ship interior, ports looking out toward where Erdia lies.
 - **Characters:** @Theron — **eyes that never blink**; @Noah — **brown eyes**; @StellaPeloCorto — **amber eyes**.
 - **Shot/lens:** medium of @Theron watching from afar; medium of @Noah bandaging, eyes on @Stella; close dolly on @Stella at the port.
@@ -264,8 +264,8 @@
 
 ## SECUENCIA 16 — ESCENA: [AÑO 3] Montaje · vínculos / idioma / traje / domar el Orbe
 
-### PAGE 16p1 — Comets / @Brog's Dead Language · 9 shots · ~47s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 16p1 — Comets / @Brog's Dead Language · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background. RÓTULO **@STELLA · ~AÑO 3**. A strange beautiful world, the whole sky crossed with slow comet-trails of light, soft grass, drifting glow, cosmic silence; then a match cut to @Nima's welding sparks.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Brog.
 - **Shot/lens:** faint title, dissolve to comet sky; grand pan across the comet sky; tilt detail of a comet fading; wide of @Brog and @Stella from behind facing the sky; medium of @Brog speaking; close on @Stella repeating; close on @Brog nodding; detail of both hands drawing the same sign; match cut to welding sparks.
@@ -277,8 +277,8 @@
 - **Audio:** SFX only — soft wind, a crackling fire, distant comet hiss, low guttural words. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 16p2 — The New Suit / Taming the Orb · 9 shots · ~40s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 16p2 — The New Suit / Taming the Orb · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background. @Nima's cluttered open-air workbench, a new suit hanging light and custom; then a training room where the Orb bucks.
 - **Characters:** @Nima — four arms; @StellaPeloCorto — **amber eyes**. **Props:** @TrajeNuevo, @Orbe.
 - **Shot/lens:** wide crane of the hanging suit and @Nima's four hands; detail insert of a new wrist-monitor blinking; medium of @Nima fitting a shoulder plate; close as @Nima meets her eyes; close on @Stella at the word "palace"; match cut from the wrist to her palm charging the Orb; full shot as a discharge throws her down; detail of sparks and a blown panel; close on @Stella rising.
@@ -291,8 +291,8 @@
 - **Audio:** SFX only — rivets, tools, a soft hum, surges, a blast, her fall. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 16p3 — The Light Obeys · 4 shots · ~25s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 16p3 — The Light Obeys · 4 shots · ~80s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlanetaCometas — match its architecture, materials, colors; lush, detailed, painterly background. The training space, then the comet sky as a closing pillow.
 - **Characters:** @StellaPeloCorto — **amber eyes**. **Props:** @Orbe.
 - **Shot/lens:** medium dolly on controlled light from her palm; detail of the steady clean ribbon; wide crane of her standing in her own light; grand pan of the comet sky, more trails than before.
@@ -307,8 +307,8 @@
 
 ## SECUENCIA 17 — ESCENA: @Theron pide la mano y el Orbe / la sospecha
 
-### PAGE 17p1 — The Orb Cannot Be Torn Out · 9 shots · ~44s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 17p1 — The Orb Cannot Be Torn Out · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. The dim bridge of the nodriza at night, fixed stars beyond a great window, @Theron and @Stella alone.
 - **Characters:** @Theron — **eyes that never blink**; @StellaPeloCorto — **amber eyes**. **Props:** @Orbe, @LlaveDeLuz.
 - **Shot/lens:** wide of the night bridge; medium of @Theron gesturing; close on @Stella hesitating; insert of her open palm and the Orb; detail dolly of his hand nearing hers; extreme close on her held breath; detail of his hand stopping; medium of @Theron pulling back; close on @Theron.
@@ -320,8 +320,8 @@
 - **Audio:** SFX only — a low hum, quiet, a held breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 17p2 — The Immortal King / A Twenty-Thousand-Year Suspicion · 7 shots · ~42s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 17p2 — The Immortal King / A Twenty-Thousand-Year Suspicion · 7 shots · ~140s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. The dim bridge at night, the starlit void beyond the great window.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Theron — **eyes that never blink**.
 - **Shot/lens:** medium of @Stella pocketing her hand; close dolly as she lowers her voice; close on @Stella baiting the suspicion; extreme close dolly on @Theron going still; medium of @Theron closing the subject; wide of @Stella leaving, @Theron alone; grand wide of the starlit void.
@@ -337,8 +337,8 @@
 
 ## SECUENCIA 18 — ESCENA: La foto / la familia viva / @Vera revelada
 
-### PAGE 18p1 — The Projector / The Family Alive · 9 shots · ~46s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 18p1 — The Projector / The Family Alive · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. @Stella's small bunk cabin at night, dim, dust in the air; a projector beam blooming pale in the dark.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Theron; @NaioEsclavo — @Naio, aged, stooped, chained, mine rags, **amber eyes**; @SelkaGeneral — young soldier, white/gold imperial armor, cold, **grey-blue eyes**, **scar over her left eye**; @VeraEncapuchada — hooded, then revealed, **grey-blue eyes**. **Props:** @Proyector.
 - **Shot/lens:** wide of the dim cabin, @Stella awake on her bunk; medium of @Theron setting the projector down; medium of @Theron in the doorway; insert as the projector beam rises; medium of @Naio chained in the image; close dolly of @Selka training in the image; medium of the hooded leader with @Marek; detail as the hood falls — @Vera; extreme close dolly on @Stella's hand to her mouth.
@@ -350,8 +350,8 @@
 - **Audio:** SFX only — projector hum, a faint mine drone, a caught breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 18p2 — "Mom's alive" · 4 shots · ~27s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 18p2 — "Mom's alive" · 4 shots · ~80s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. The small bunk cabin, the projector's image of @Vera trembling in the dark.
 - **Characters:** @StellaPeloCorto — **amber eyes**; @Theron — **eyes that never blink**. **Props:** @Proyector.
 - **Shot/lens:** close on @Stella, a shattered whisper; medium of @Theron in the doorway; wide dolly-out as @Theron leaves and she shrinks alone with the image; close on @Stella lit by @Vera's image all night.
@@ -367,8 +367,8 @@
 
 ## SECUENCIA 19 — ESCENA: [AÑO 14] Las minas / @Naio / @Vera se decide
 
-### PAGE 19p1 — The Fog-Mines / @Vera Finds @Naio · 9 shots · ~49s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 19p1 — The Fog-Mines / @Vera Finds @Naio · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background. RÓTULO **ERDIA · AÑO 14**. Fog-drowned mines, columns of bound workers stooped in grey vapor, chains, coughing, dim lamps in the murk, mud underfoot.
 - **Characters:** @VeraEncapuchada — hooded, **grey-blue eyes**; @NaioEsclavo — old, broken, nearly unrecognizable, **amber eyes**.
 - **Shot/lens:** title over black; grand pan across the misty mines; detail of fog curling over mud and a dripping chain; medium steadicam of hooded @Vera slipping through; close as she finds a face; detail as she lowers her hood a little; extreme close dolly on @Naio recognizing her; close on @Vera, urgent; close on @Vera's voice breaking.
@@ -380,8 +380,8 @@
 - **Audio:** SFX only — chains, drips, a low mine drone, his shaking breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 19p2 — "First I go for my daughter" · 5 shots · ~31s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 19p2 — "First I go for my daughter" · 5 shots · ~100s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background. The fog-mines, cold vapor swallowing the space, a single lamp.
 - **Characters:** @NaioEsclavo — **amber eyes**; @VeraEncapuchada — **grey-blue eyes**.
 - **Shot/lens:** close on @Naio, terrified for her; medium as @Vera cups his face, decided; medium of a stolen tight embrace; wide dolly-out as she recedes and he reaches; detail of his trembling open hand swallowed by fog.
@@ -397,8 +397,8 @@
 
 ## SECUENCIA 20 — ESCENA: Aposentos de la General / la muerte de @Vera (el engaño)
 
-### PAGE 20p1 — Into the General's Quarters · 9 shots · ~46s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 20p1 — Into the General's Quarters · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background. RÓTULO **ERDIA · AÑO 14 — APOSENTOS DE LA GENERAL. NOCHE.** Cold, perfect palace quarters in bluish penumbra — a child raised into a weapon — a single candle of light, silence.
 - **Characters:** @VeraEncapuchada — **grey-blue eyes**; @Marek; @Korin; @Lessa; @SelkaGeneral — **grey-blue eyes**, **scar over her left eye**, white/gold imperial armor.
 - **Shot/lens:** title over black; wide of the cold quarters; medium of @Korin & @Lessa covering, @Marek at the threshold; close on @Marek gripping her shoulder; close on @Marek, a loaded beat; medium as @Vera crosses the threshold alone; detail of the door clicking shut; full shot of @Selka's back at the window; medium of @Selka, cold, not turning.
@@ -410,8 +410,8 @@
 - **Audio:** SFX only — soft steps, a distant patrol, a latch click, a low room tone. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 20p2 — "Traitor" / The Non-Fight · 9 shots · ~38s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 20p2 — "Traitor" / The Non-Fight · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background. The cold quarters, single candle of light, blade-light streaks.
 - **Characters:** @VeraEncapuchada — **grey-blue eyes**; @SelkaGeneral — **grey-blue eyes**, **scar over her left eye**.
 - **Shot/lens:** close on @Vera lowering her hood; medium as @Selka begins to turn; extreme close dolly on @Selka seeing @Vera's face; extreme close as the training crushes it; full shot as @Selka attacks; medium as @Vera dodges and won't counter; detail whip-pan of the blade grazing past; close on @Vera pleading; extreme close on @Selka faltering, disarming.
@@ -424,8 +424,8 @@
 - **Audio:** SFX only — a breath, a blade unsheathing, blade clashes, ragged breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 20p3 — The Embrace / The Hidden Blade · 9 shots · ~47s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 20p3 — The Embrace / The Hidden Blade · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background. The cold quarters, faces close, a fragile false warmth. **This is the emotional peak — intimate and sustained.**
 - **Characters:** @VeraEncapuchada — **grey-blue eyes**; @SelkaGeneral — **grey-blue eyes**, **scar over her left eye**.
 - **Shot/lens:** detail of @Selka's weapon lowering; medium dolly as @Vera enfolds her in an embrace; close on @Vera at her ear, crying; extreme close on @Selka's eyes closing in stolen peace; detail as a hidden blade slides toward @Vera's side; detail as it drives in — a minimal flash of light; extreme close on @Vera's eyes flying wide; detail of @Vera's hand rising to @Selka's face; extreme close dolly on @Vera, betrayed.
@@ -437,8 +437,8 @@
 - **Audio:** SFX only — a soft breath, a held moment, a soft light-strike, a caught breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 20p4 — The Whisper / Witnessed / She Dies Believing It · 9 shots · ~51s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 20p4 — The Whisper / Witnessed / She Dies Believing It · 9 shots · ~180s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background. The cold quarters, the door ajar, a body's warmth fading. **The emotional peak sustained — intimate, held.**
 - **Characters:** @SelkaGeneral — **grey-blue eyes**, **scar over her left eye**; @VeraEncapuchada — **grey-blue eyes**; @Korin; @Lessa; @Marek.
 - **Shot/lens:** close on @Selka's cracking void of a face; medium as @Selka whispers at @Vera's ear (unheard); medium of @Korin & @Lessa seeing it all from the ajar door; close on @Marek arriving too late; medium of @Korin whispering, backing away; full shot tilt as @Vera slides to the floor; extreme close on @Vera holding @Selka's face to the last; detail of @Vera's hand falling open and still; full shot of @Selka standing over the body, trembling.
@@ -450,8 +450,8 @@
 - **Audio:** SFX only — a gasp at the door, a whisper too low to parse, a fading breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### PAGE 20p5 — The Lullaby · 3 shots · ~24s
-- **Style:** hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
+### PAGE 20p5 — The Lullaby · 3 shots · ~60s
+- **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background. The immense cold hall, the single candle of light guttering. **The peak's aftermath — held silence, then cut to black.**
 - **Characters:** @SelkaGeneral — **grey-blue eyes**, **scar over her left eye**; @VeraEncapuchada — **grey-blue eyes** (fallen).
 - **Shot/lens:** close dolly on @Selka humming without meaning to; grand overhead crane of the tiny General over her mother's body; detail of the single candle-light trembling to near-dark.
