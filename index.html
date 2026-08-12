@@ -23,6 +23,14 @@ h1{font-family:Georgia,'Times New Roman',serif;font-size:clamp(40px,9vw,82px);li
 .card p{margin:0;color:var(--mut);font-size:14px;line-height:1.55}
 .card .go{margin-top:16px;color:var(--gold);font-size:13px;font-weight:600;letter-spacing:.5px}
 .c1 .ic{color:var(--rose)}.c2 .ic{color:var(--gold)}.c3 .ic{color:var(--blue)}.c4 .ic{color:#7fe0a3}.c5 .ic{color:#e0776f}.c6 .ic{color:#7fb6e0}
+/* lo ultimo hecho, resaltado en verde para encontrarlo de un vistazo */
+.card.hl{background:linear-gradient(180deg,#16281f 0%,#12201a 100%);border-color:#3f7f5d}
+.card.hl:hover{border-color:#7fe0a3;box-shadow:0 14px 40px -18px #000}
+.card.hl .go{color:#7fe0a3}
+.card.hl .ic{color:#7fe0a3}
+.nuevo{position:absolute;top:14px;right:14px;background:#7fe0a3;color:#08210f;font-size:10px;font-weight:800;letter-spacing:1.2px;border-radius:20px;padding:3px 9px}
+.seccion{grid-column:1/-1;font-size:12px;letter-spacing:3px;text-transform:uppercase;color:#7fe0a3;margin:6px 0 -6px}
+.seccion.g{color:var(--mut);margin-top:26px}
 .foot{text-align:center;color:#5d6573;font-size:12px;margin-top:60px}
 </style></head>
 <body><div class="stars"></div><div class="wrap">
@@ -33,15 +41,32 @@ h1{font-family:Georgia,'Times New Roman',serif;font-size:clamp(40px,9vw,82px);li
   <div class="sub">El Nodo de Erdia</div>
   <p class="logline">Una niña huye de su mundo moribundo con la fuente de vida de un planeta latiendo en la palma de su mano — y la promesa de volver, hacerse fuerte y salvar a la hermana que el enemigo le robó.</p>
   <div class="meta">
-    <span class="chip">277 prompts · 21:9 · 15s</span>
+    <span class="chip">277 prompts · 21:9 · 20s</span>
     <span class="chip">619 planos · 48:27</span>
     <span class="chip">172 bloques de 20s</span>
     <span class="chip">63 referencias</span>
-    <span class="chip">Satoshi Kon + Ghibli</span>
+    <span class="chip">Miyazaki + Satoshi Kon</span>
   </div>
 </div>
 
 <div class="grid">
+  <div class="seccion">Lo último · listo para generar</div>
+  <a class="card hl" href="guion/GUION_P1_v2_DIALOGOS_EN_SEEDANCE.html">
+    <div class="nuevo">NUEVO</div>
+    <div class="ic">🗣️</div>
+    <h2>Guion · última versión</h2>
+    <p>El híbrido —acción en español, diálogos en inglés— con <b>@ delante de cada personaje</b> y el lenguaje ajustado para que no lo reboten. Es la versión con la que hay que trabajar.</p>
+    <div class="go">Abrir el guion →</div>
+  </a>
+  <a class="card hl" href="guion/SEEDANCE_INDEX.html">
+    <div class="nuevo">NUEVO</div>
+    <div class="ic">✅</div>
+    <h2>Prompts · versión Seedance</h2>
+    <p>Los 277 prompts y todo el material de generación: <b>clips de 20s</b>, estilo Miyazaki + mood Satoshi Kon, y fuera el vocabulario que cancelaba el envío. Los originales siguen intactos.</p>
+    <div class="go">Abrir los prompts →</div>
+  </a>
+
+  <div class="seccion g">Todo el material</div>
   <a class="card c1" href="guion/HISTORIA_COMPLETA.html">
     <div class="ic">📖</div>
     <h2>La Historia</h2>
@@ -137,12 +162,6 @@ h1{font-family:Georgia,'Times New Roman',serif;font-size:clamp(40px,9vw,82px);li
     <h2>Todos los referentes</h2>
     <p><b>Las 69 hojas de referencia juntas</b> (21 locaciones · 31 personajes · 6 naves · 11 props) en una sola vista, con botón <b>copiar TODOS</b>. Ideal para generar de corrido.</p>
     <div class="go">Ver los 69 referentes →</div>
-  </a>
-  <a class="card c4" href="guion/SEEDANCE_INDEX.html">
-    <div class="ic">✅</div>
-    <h2>Versión Seedance · sin rebotes</h2>
-    <p>Todo el material reescrito para que <b>el filtro de Seedance no cancele el envío</b>: fuera las palabras que lo disparaban, <b>@ delante de cada personaje</b>, y la película intacta — cambia cómo se describe, no lo que pasa. Los originales siguen donde estaban.</p>
-    <div class="go">Abrir la versión Seedance →</div>
   </a>
   <a class="card c5" href="guion/GUION_TECNICO.html">
     <div class="ic">🎬</div>
