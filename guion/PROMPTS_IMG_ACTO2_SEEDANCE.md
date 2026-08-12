@@ -725,14 +725,14 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** dusty overcast light over dead metal; held on the emotional beat.
 - **Note:** Decisive instant: @Vosk forcejea en la red, gritando. Convey the emotion of the line (do not render any text): "¡No, no, esperen, yo se las entregué! ¡YO—!"
 
-### FRAME 80 — SEC 13 — Planeta chatarra — Se los llevan a los dos hacia la nave esclavista
+### FRAME 80 — SEC 13 — Planeta chatarra — Se los llevan a los dos hacia la nave de prisioneros
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @PlanetaChatarra location establishing plate (location only).
 - **Framing:** Extreme wide / establishing shot, eye level.
-- **Subject:** No character in frame - Se los llevan a los dos hacia la nave esclavista. El planeta-chatarra los traga en el polvo.
+- **Subject:** No character in frame - Se los llevan a los dos hacia la nave de prisioneros. El planeta-chatarra los traga en el polvo.
 - **Staging / background:** Composed for 21:9. a junk planet, endless dunes of dead ships and twisted metal under a bruised sick sky, suspended dust.
 - **Light & mood:** dusty overcast light over dead metal; still, quiet, held.
-- **Note:** Decisive instant: Se los llevan a los dos hacia la nave esclavista. El planeta-chatarra los traga en el polvo.
+- **Note:** Decisive instant: Se los llevan a los dos hacia la nave de prisioneros. El planeta-chatarra los traga en el polvo.
 
 
 ## SECUENCIA 14 — La fosa / @Noah / la negativa
@@ -809,14 +809,14 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** harsh pit spot-glare, smoke, firelight; still, quiet, held.
 - **Note:** Decisive instant: @Stella se queda helada: ese chico se parece a ella. A su gente.
 
-### FRAME 89 — SEC 14 — La Fosa — La multitud exige sangre
+### FRAME 89 — SEC 14 — La Fosa — La multitud exige pelea
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @Nima character sheet; Image 2 = @FosaApuestas location establishing plate.
 - **Framing:** Wide shot.
-- **Subject:** @Nima, a warm practical FOUR-ARMED mechanic in a work jumpsuit, tools in her many hands.  Pose/expression frozen: La multitud exige sangre, puños en alto, un rugido animal alrededor del pozo.
+- **Subject:** @Nima, a warm practical FOUR-ARMED mechanic in a work jumpsuit, tools in her many hands.  Pose/expression frozen: La multitud exige pelea, puños en alto, un rugido animal alrededor del pozo.
 - **Staging / background:** Composed for 21:9. a grimy betting-station, bound worker auctions and holding pens above, a sunken combat pit ringed by roaring gambling crowds below.
 - **Light & mood:** harsh pit spot-glare, smoke, firelight; frozen at the peak instant of action.
-- **Note:** Decisive instant: La multitud exige sangre, puños en alto, un rugido animal alrededor del pozo.
+- **Note:** Decisive instant: La multitud exige pelea, puños en alto, un rugido animal alrededor del pozo.
 
 ### FRAME 90 — SEC 14 — La Fosa — @Noah levanta la espada
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -834,7 +834,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Subject:** @Stella (teen ~15-18), short white hair, AMBER eyes, lithe and hardened; wears a fitted recon/combat suit; the light-key glyph glows faintly in her palm.  Pose/expression frozen: @Stella, firme, contra el rugido.
 - **Staging / background:** Composed for 21:9. a grimy betting-station, bound worker auctions and holding pens above, a sunken combat pit ringed by roaring gambling crowds below.
 - **Light & mood:** harsh pit spot-glare, smoke, firelight; held on the emotional beat.
-- **Note:** Decisive instant: @Stella, firme, contra el rugido. Convey the emotion of the line (do not render any text): "No voy a matarte para que ellos aplaudan."
+- **Note:** Decisive instant: @Stella, firme, contra el rugido. Convey the emotion of the line (do not render any text): "No voy a acabar contigo para que ellos aplaudan."
 
 ### FRAME 92 — SEC 14 — La Fosa — @Noah la mide
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1374,7 +1374,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Subject:** @Theron the Hunter, a tall Threa of another species, weathered ageless face, eyes that never blink, ancient hunter's coat and worn armor.  Pose/expression frozen: @Theron retira la mano, hablando casi para sí.
 - **Staging / background:** Composed for 21:9. the dim night bridge of the mothership, fixed stars beyond the great window.
 - **Light & mood:** cold starlight through the bridge window; held on the emotional beat.
-- **Note:** Decisive instant: @Theron retira la mano, hablando casi para sí. Convey the emotion of the line (do not render any text): "No. Sacarlo a la fuerza te mataría a ti… y quizá a quien lo intente."
+- **Note:** Decisive instant: @Theron retira la mano, hablando casi para sí. Convey the emotion of the line (do not render any text): "No. Sacarlo a la fuerza te destruiría a ti… y quizá a quien lo intente."
 
 ### FRAME 151 — SEC 17 — Puente — @Theron la mira
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1489,12 +1489,12 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 163 — SEC 18 — Camarote — En la imagen
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @NaioEsclavo character sheet; Image 2 = @NodrizaInterior location establishing plate.
+- **References to attach:** Image 1 = @NaioCautivo character sheet; Image 2 = @NodrizaInterior location establishing plate.
 - **Framing:** Medium shot, chest up.
-- **Subject:** @Naio, an aged stooped chained man in mine rags, AMBER eyes, broken and nearly unrecognizable.  Pose/expression frozen: En la imagen: @NAIO, viejo, encadenado, esclavo en una mina de niebla.
+- **Subject:** @Naio, an aged stooped chained man in mine rags, AMBER eyes, broken and nearly unrecognizable.  Pose/expression frozen: En la imagen: @NAIO, viejo, apresado, cautivo en una mina de niebla.
 - **Staging / background:** Composed for 21:9. @Stella's small dim bunk cabin at night.
 - **Light & mood:** the projector's pale cold glow in the dark; still, quiet, held.
-- **Note:** Decisive instant: En la imagen: @NAIO, viejo, encadenado, esclavo en una mina de niebla.
+- **Note:** Decisive instant: En la imagen: @NAIO, viejo, apresado, cautivo en una mina de niebla.
 
 ### FRAME 164 — SEC 18 — Camarote — En la imagen
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1584,10 +1584,10 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @MinasNiebla location establishing plate (location only).
 - **Framing:** Extreme wide / establishing shot, eye level.
-- **Subject:** No character in frame - Minas de niebla: siluetas de esclavos encorvados entre vapores grises. Cadenas, tos, penumbra.
+- **Subject:** No character in frame - Minas de niebla: siluetas de cautivo encorvados entre vapores grises. Cadenas, tos, penumbra.
 - **Staging / background:** Composed for 21:9. fog-drowned mines, columns of bound workers, dim lamps in the grey murk.
 - **Light & mood:** cold foggy lamp-glow in the murk; still, quiet, held.
-- **Note:** Decisive instant: Minas de niebla: siluetas de esclavos encorvados entre vapores grises. Cadenas, tos, penumbra.
+- **Note:** Decisive instant: Minas de niebla: siluetas de cautivo encorvados entre vapores grises. Cadenas, tos, penumbra.
 
 ### FRAME 174 — SEC 19 — Minas de niebla — La niebla se enrosca sobre el barro
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1598,18 +1598,18 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold foggy lamp-glow in the murk; still, quiet, held.
 - **Note:** Decisive instant: La niebla se enrosca sobre el barro. Una cadena cuelga inmóvil, goteando.
 
-### FRAME 175 — SEC 19 — Minas de niebla — La figura encapuchada —@VERA— se desliza entre los esclavos
+### FRAME 175 — SEC 19 — Minas de niebla — La figura encapuchada —@VERA— se desliza entre los cautivo
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @VeraEncapuchada character sheet; Image 2 = @MinasNiebla location establishing plate.
 - **Framing:** Medium shot, chest up.
-- **Subject:** @Vera, hooded resistance leader; beneath the hood white hair and GREY-BLUE eyes, strong woman's hands.  Pose/expression frozen: La figura encapuchada —@VERA— se desliza entre los esclavos, buscando entre las caras.
+- **Subject:** @Vera, hooded resistance leader; beneath the hood white hair and GREY-BLUE eyes, strong woman's hands.  Pose/expression frozen: La figura encapuchada —@VERA— se desliza entre los cautivo, buscando entre las caras.
 - **Staging / background:** Composed for 21:9. fog-drowned mines, columns of bound workers, dim lamps in the grey murk.
 - **Light & mood:** cold foggy lamp-glow in the murk; still, quiet, held.
-- **Note:** Decisive instant: La figura encapuchada —@VERA— se desliza entre los esclavos, buscando entre las caras.
+- **Note:** Decisive instant: La figura encapuchada —@VERA— se desliza entre los cautivo, buscando entre las caras.
 
 ### FRAME 176 — SEC 19 — Minas de niebla — Encuentra una cara
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @NaioEsclavo character sheet; Image 2 = @MinasNiebla location establishing plate.
+- **References to attach:** Image 1 = @NaioCautivo character sheet; Image 2 = @MinasNiebla location establishing plate.
 - **Framing:** Close-up.
 - **Subject:** @Naio, an aged stooped chained man in mine rags, AMBER eyes, broken and nearly unrecognizable.  Pose/expression frozen: Encuentra una cara. Se detiene. @NAIO: anciano, roto, casi irreconocible.
 - **Staging / background:** Composed for 21:9. fog-drowned mines, columns of bound workers, dim lamps in the grey murk.
@@ -1627,7 +1627,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 178 — SEC 19 — Minas de niebla — @Naio la reconoce y no puede creerlo
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @NaioEsclavo (+ @VeraEncapuchada) character sheet; Image 2 = @MinasNiebla location establishing plate.
+- **References to attach:** Image 1 = @NaioCautivo (+ @VeraEncapuchada) character sheet; Image 2 = @MinasNiebla location establishing plate.
 - **Framing:** Extreme close-up.
 - **Subject:** @Naio, an aged stooped chained man in mine rags, AMBER eyes, broken and nearly unrecognizable; @Vera, white hair and GREY-BLUE eyes, face uncovered, worn and resolute.  Pose/expression frozen: @Naio la reconoce y no puede creerlo, sin aire.
 - **Staging / background:** Composed for 21:9. fog-drowned mines, columns of bound workers, dim lamps in the grey murk.
@@ -1636,7 +1636,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 179 — SEC 19 — Minas de niebla — @Vera
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @NaioEsclavo (+ @SelkaGeneral, @VeraEncapuchada) character sheet; Image 2 = @MinasNiebla location establishing plate.
+- **References to attach:** Image 1 = @NaioCautivo (+ @SelkaGeneral, @VeraEncapuchada) character sheet; Image 2 = @MinasNiebla location establishing plate.
 - **Framing:** Close-up.
 - **Subject:** @Naio, an aged stooped chained man in mine rags, AMBER eyes, broken and nearly unrecognizable; @Selka the General (~21), white hair, GREY-BLUE eyes, a SCAR over her left eye; cold and empty; imperial white-and-gold armor, a light-cutter; @Vera, hooded resistance leader; beneath the hood white hair and GREY-BLUE eyes, strong woman's hands.  Pose/expression frozen: @Vera, urgente, la voz baja.
 - **Staging / background:** Composed for 21:9. fog-drowned mines, columns of bound workers, dim lamps in the grey murk.
@@ -1654,7 +1654,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 181 — SEC 19 — Minas de niebla — @Naio
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @NaioEsclavo character sheet; Image 2 = @MinasNiebla location establishing plate.
+- **References to attach:** Image 1 = @NaioCautivo character sheet; Image 2 = @MinasNiebla location establishing plate.
 - **Framing:** Close-up.
 - **Subject:** @Naio, an aged stooped chained man in mine rags, AMBER eyes, broken and nearly unrecognizable.  Pose/expression frozen: @Naio, aterrado por ella, la sujeta con la mirada.
 - **Staging / background:** Composed for 21:9. fog-drowned mines, columns of bound workers, dim lamps in the grey murk.
@@ -1681,7 +1681,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 184 — SEC 19 — Minas de niebla — @Vera se aleja hacia el palacio
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @NaioEsclavo (+ @VeraEncapuchada) character sheet; Image 2 = @MinasNiebla location establishing plate.
+- **References to attach:** Image 1 = @NaioCautivo (+ @VeraEncapuchada) character sheet; Image 2 = @MinasNiebla location establishing plate.
 - **Framing:** Wide shot.
 - **Subject:** @Naio, an aged stooped chained man in mine rags, AMBER eyes, broken and nearly unrecognizable; @Vera, hooded resistance leader; beneath the hood white hair and GREY-BLUE eyes, strong woman's hands.  Pose/expression frozen: @Vera se aleja hacia el palacio. @Naio estira la mano hacia ella en la niebla, sin alcanzarla.
 - **Staging / background:** Composed for 21:9. fog-drowned mines, columns of bound workers, dim lamps in the grey murk.
@@ -1690,7 +1690,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 185 — SEC 19 — Minas de niebla — La mano temblorosa de @Naio abierta en el vapor
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @NaioEsclavo character sheet; Image 2 = @MinasNiebla location establishing plate.
+- **References to attach:** Image 1 = @NaioCautivo character sheet; Image 2 = @MinasNiebla location establishing plate.
 - **Framing:** Insert / extreme detail shot.
 - **Subject:** @Naio, an aged stooped chained man in mine rags, AMBER eyes, broken and nearly unrecognizable.  Pose/expression frozen: La mano temblorosa de @Naio abierta en el vapor, tragada por la niebla. Ella ya no está.
 - **Staging / background:** Composed for 21:9. fog-drowned mines, columns of bound workers, dim lamps in the grey murk.
@@ -1698,9 +1698,9 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Decisive instant: La mano temblorosa de @Naio abierta en el vapor, tragada por la niebla. Ella ya no está.
 
 
-## SECUENCIA 20 — Aposentos de la General / la muerte de @Vera (el engaño)
+## SECUENCIA 20 — Aposentos de la General / la caída de @Vera (el engaño)
 
-### FRAME 186 — SEC 20 — Muerte de @Vera — RÓTULO
+### FRAME 186 — SEC 20 — caída de @Vera — RÓTULO
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Title-card / transition frame.
@@ -1709,7 +1709,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** deep near-black, a faint glow behind the lettering; still, quiet, held.
 - **Note:** Explicit year/transition rotulo card; the title text is intended here.
 
-### FRAME 187 — SEC 20 — Muerte de @Vera — Aposentos fríos
+### FRAME 187 — SEC 20 — caída de @Vera — Aposentos fríos
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @AposentosGeneral location establishing plate (location only).
 - **Framing:** Wide shot.
@@ -1718,7 +1718,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: Aposentos fríos, palaciegos, en penumbra azulada. Una sola vela de luz. Silencio.
 
-### FRAME 188 — SEC 20 — Muerte de @Vera — En la puerta
+### FRAME 188 — SEC 20 — caída de @Vera — En la puerta
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @Marek (+ @Korin, @Lessa, @VeraEncapuchada) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Medium shot, chest up.
@@ -1727,7 +1727,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: En la puerta: @KORIN y @LESSA cubriendo afuera. @MAREK acompaña a @Vera hasta el umbral.
 
-### FRAME 189 — SEC 20 — Muerte de @Vera — @Marek
+### FRAME 189 — SEC 20 — caída de @Vera — @Marek
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @Marek character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Close-up.
@@ -1736,7 +1736,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; held on the emotional beat.
 - **Note:** Decisive instant: @Marek, grave, le aprieta el hombro. Convey the emotion of the line (do not render any text): "Yo vigilo aquí. Si algo sale mal, corre. No mires atrás."
 
-### FRAME 190 — SEC 20 — Muerte de @Vera — @Marek
+### FRAME 190 — SEC 20 — caída de @Vera — @Marek
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @Marek character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Close-up.
@@ -1745,7 +1745,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; held on the emotional beat.
 - **Note:** Decisive instant: @Marek, un beat cargado. Convey the emotion of the line (do not render any text): "Tráela de vuelta."
 
-### FRAME 191 — SEC 20 — Muerte de @Vera — @Vera asiente
+### FRAME 191 — SEC 20 — caída de @Vera — @Vera asiente
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @VeraEncapuchada character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Medium shot, chest up.
@@ -1754,7 +1754,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Vera asiente. Respira hondo. Cruza el umbral, sola.
 
-### FRAME 192 — SEC 20 — Muerte de @Vera — La puerta se cierra despacio tras ella
+### FRAME 192 — SEC 20 — caída de @Vera — La puerta se cierra despacio tras ella
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @AposentosGeneral location establishing plate (location only).
 - **Framing:** Insert / extreme detail shot.
@@ -1763,7 +1763,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: La puerta se cierra despacio tras ella. El clic del pestillo en el silencio.
 
-### FRAME 193 — SEC 20 — Muerte de @Vera — Adentro
+### FRAME 193 — SEC 20 — caída de @Vera — Adentro
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Full shot (head to toe).
@@ -1772,16 +1772,16 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: Adentro, de espaldas, @SELKA la General. Joven, blanca, impecable, inmóvil ante la ventana.
 
-### FRAME 194 — SEC 20 — Muerte de @Vera — @Selka
+### FRAME 194 — SEC 20 — caída de @Vera — @Selka
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Medium shot, chest up.
 - **Subject:** @Selka the General (~21), white hair, GREY-BLUE eyes, a SCAR over her left eye; cold and empty; imperial white-and-gold armor, a light-cutter.  Pose/expression frozen: @Selka, sin voltearse, fría.
 - **Staging / background:** Composed for 21:9. the General's cold austere palatial quarters in bluish gloom, a single light-candle.
 - **Light & mood:** cold bluish palace gloom, a single light-candle; held on the emotional beat.
-- **Note:** Decisive instant: @Selka, sin voltearse, fría. Convey the emotion of the line (do not render any text): "Sé lo que eres. Una rata de la resistencia. ¿Vienes a matarme mientras duermo?"
+- **Note:** Decisive instant: @Selka, sin voltearse, fría. Convey the emotion of the line (do not render any text): "Sé lo que eres. Una rata de la resistencia. ¿Vienes a acabar conmigo mientras duermo?"
 
-### FRAME 195 — SEC 20 — Muerte de @Vera — @Vera se baja la capucha
+### FRAME 195 — SEC 20 — caída de @Vera — @Vera se baja la capucha
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @VeraEncapuchada character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Close-up.
@@ -1790,7 +1790,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; held on the emotional beat.
 - **Note:** Decisive instant: @Vera se baja la capucha. El rostro descubierto, temblando de contención. Convey the emotion of the line (do not render any text): "Vengo por ti."
 
-### FRAME 196 — SEC 20 — Muerte de @Vera — @Selka empieza a girarse hacia la voz
+### FRAME 196 — SEC 20 — caída de @Vera — @Selka empieza a girarse hacia la voz
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Medium shot, chest up.
@@ -1799,7 +1799,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Selka empieza a girarse hacia la voz. Lentitud.
 
-### FRAME 197 — SEC 20 — Muerte de @Vera — @Selka ve la cara de @Vera
+### FRAME 197 — SEC 20 — caída de @Vera — @Selka ve la cara de @Vera
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral (+ @VeraEncapuchada) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Extreme close-up.
@@ -1808,7 +1808,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Selka ve la cara de @Vera. Algo muy adentro tiembla un microsegundo.
 
-### FRAME 198 — SEC 20 — Muerte de @Vera — El adiestramiento aplasta ese temblor
+### FRAME 198 — SEC 20 — caída de @Vera — El adiestramiento aplasta ese temblor
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @AposentosGeneral location establishing plate (location only).
 - **Framing:** Extreme close-up.
@@ -1817,7 +1817,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; held on the emotional beat.
 - **Note:** Decisive instant: El adiestramiento aplasta ese temblor. La cara vuelve a cerrarse como una puerta. Convey the emotion of the line (do not render any text): "Traidora."
 
-### FRAME 199 — SEC 20 — Muerte de @Vera — @Selka se lanza al ataque
+### FRAME 199 — SEC 20 — caída de @Vera — @Selka se lanza al ataque
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Full shot (head to toe).
@@ -1826,7 +1826,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; frozen at the peak instant of action.
 - **Note:** Decisive instant: @Selka se lanza al ataque. Golpe rápido, quirúrgico.
 
-### FRAME 200 — SEC 20 — Muerte de @Vera — @Vera esquiva
+### FRAME 200 — SEC 20 — caída de @Vera — @Vera esquiva
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @VeraEncapuchada character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Medium shot, chest up.
@@ -1835,7 +1835,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; frozen at the peak instant of action.
 - **Note:** Decisive instant: @Vera esquiva, bloquea, retrocede. No contraataca. No puede herir a su hija.
 
-### FRAME 201 — SEC 20 — Muerte de @Vera — La hoja de @Selka pasa a un pelo de la cara de @Vera; @Vera s
+### FRAME 201 — SEC 20 — caída de @Vera — La hoja de @Selka pasa a un pelo de la cara de @Vera; @Vera s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral (+ @VeraEncapuchada) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Insert / extreme detail shot.
@@ -1844,7 +1844,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; frozen at the peak instant of action.
 - **Note:** Decisive instant: La hoja de @Selka pasa a un pelo de la cara de @Vera; @Vera solo desvía el brazo.
 
-### FRAME 202 — SEC 20 — Muerte de @Vera — @Vera
+### FRAME 202 — SEC 20 — caída de @Vera — @Vera
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @VeraEncapuchada character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Close-up.
@@ -1853,7 +1853,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; held on the emotional beat.
 - **Note:** Decisive instant: @Vera, entre golpes, suplicando con la voz. Convey the emotion of the line (do not render any text): "No voy a lastimarte. No puedo. Mírame. Mírame."
 
-### FRAME 203 — SEC 20 — Muerte de @Vera — @Selka ante una enemiga que se niega a herirla
+### FRAME 203 — SEC 20 — caída de @Vera — @Selka ante una enemiga que se niega a herirla
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Extreme close-up.
@@ -1862,7 +1862,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Selka ante una enemiga que se niega a herirla. El brazo le tiembla. Se desarma.
 
-### FRAME 204 — SEC 20 — Muerte de @Vera — El arma de @Selka baja lentamente
+### FRAME 204 — SEC 20 — caída de @Vera — El arma de @Selka baja lentamente
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Insert / extreme detail shot.
@@ -1871,7 +1871,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: El arma de @Selka baja lentamente. Algo en ella se rinde sin entender por qué.
 
-### FRAME 205 — SEC 20 — Muerte de @Vera — @Vera avanza y la envuelve en un abrazo
+### FRAME 205 — SEC 20 — caída de @Vera — @Vera avanza y la envuelve en un abrazo
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @VeraEncapuchada character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Medium shot, chest up.
@@ -1880,7 +1880,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Vera avanza y la envuelve en un abrazo. La aprieta como aprietan las madres.
 
-### FRAME 206 — SEC 20 — Muerte de @Vera — @Vera al oído de @Selka
+### FRAME 206 — SEC 20 — caída de @Vera — @Vera al oído de @Selka
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral (+ @VeraEncapuchada) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Close-up.
@@ -1889,7 +1889,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; held on the emotional beat.
 - **Note:** Decisive instant: @Vera al oído de @Selka, llorando. Convey the emotion of the line (do not render any text): "Vámonos a casa. Tú, yo y tu padre. Empecemos de nuevo. Olvidemos todo esto."
 
-### FRAME 207 — SEC 20 — Muerte de @Vera — @Selka
+### FRAME 207 — SEC 20 — caída de @Vera — @Selka
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Extreme close-up.
@@ -1898,7 +1898,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Selka, en el abrazo, cierra los ojos. Un instante de paz robada.
 
-### FRAME 208 — SEC 20 — Muerte de @Vera — Bajo el abrazo
+### FRAME 208 — SEC 20 — caída de @Vera — Bajo el abrazo
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral (+ @VeraEncapuchada) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Insert / extreme detail shot.
@@ -1907,16 +1907,16 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; frozen at the peak instant of action.
 - **Note:** Decisive instant: Bajo el abrazo, la mano de @Selka desliza un arma oculta hacia el costado de @Vera.
 
-### FRAME 209 — SEC 20 — Muerte de @Vera — El arma se clava en el costado de @Vera
+### FRAME 209 — SEC 20 — caída de @Vera — El arma se clava en el costado de @Vera
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @VeraEncapuchada character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Insert / extreme detail shot.
-- **Subject:** @Vera, hooded resistance leader; beneath the hood white hair and GREY-BLUE eyes, strong woman's hands.  Pose/expression frozen: El arma se clava en el costado de @Vera. Un fogonazo mínimo de luz. Sin sangre: la luz la traspasa.
+- **Subject:** @Vera, hooded resistance leader; beneath the hood white hair and GREY-BLUE eyes, strong woman's hands.  Pose/expression frozen: El arma se clava en el costado de @Vera. Un fogonazo mínimo de luz. Sin estirpe: la luz la traspasa.
 - **Staging / background:** Composed for 21:9. the General's cold austere palatial quarters in bluish gloom, a single light-candle.
 - **Light & mood:** cold bluish palace gloom, a single light-candle; frozen at the peak instant of action.
-- **Note:** Decisive instant: El arma se clava en el costado de @Vera. Un fogonazo mínimo de luz. Sin sangre: la luz la traspasa.
+- **Note:** Decisive instant: El arma se clava en el costado de @Vera. Un fogonazo mínimo de luz. Sin estirpe: la luz la traspasa.
 
-### FRAME 210 — SEC 20 — Muerte de @Vera — @Vera ahoga un grito
+### FRAME 210 — SEC 20 — caída de @Vera — @Vera ahoga un grito
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @VeraEncapuchada character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Extreme close-up.
@@ -1925,7 +1925,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Vera ahoga un grito. Los ojos se le abren enormes.
 
-### FRAME 211 — SEC 20 — Muerte de @Vera — La mano de @Vera sube temblando hasta la cara de @Selka —esa
+### FRAME 211 — SEC 20 — caída de @Vera — La mano de @Vera sube temblando hasta la cara de @Selka —esa
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral (+ @VeraEncapuchada) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Insert / extreme detail shot.
@@ -1934,7 +1934,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: La mano de @Vera sube temblando hasta la cara de @Selka —esa cara— buscándola.
 
-### FRAME 212 — SEC 20 — Muerte de @Vera — @Vera
+### FRAME 212 — SEC 20 — caída de @Vera — @Vera
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral (+ @VeraEncapuchada) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Extreme close-up.
@@ -1943,7 +1943,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; held on the emotional beat.
 - **Note:** Decisive instant: @Vera, un hilo de voz, rota, traicionada. Deja aterrizar cada palabra. Convey the emotion of the line (do not render any text): "…@Selka. ¿Por qué."
 
-### FRAME 213 — SEC 20 — Muerte de @Vera — @Selka no responde
+### FRAME 213 — SEC 20 — caída de @Vera — @Selka no responde
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Close-up.
@@ -1952,7 +1952,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Selka no responde. Su cara, un vacío que empieza a agrietarse. Silencio devastador.
 
-### FRAME 214 — SEC 20 — Muerte de @Vera — @Selka sostiene a @Vera contra sí; el abrazo se vuelve otra
+### FRAME 214 — SEC 20 — caída de @Vera — @Selka sostiene a @Vera contra sí; el abrazo se vuelve otra
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral (+ @VeraEncapuchada) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Medium shot, chest up.
@@ -1961,7 +1961,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Selka sostiene a @Vera contra sí; el abrazo se vuelve otra cosa. Le susurra al oído algo que no oímos.
 
-### FRAME 215 — SEC 20 — Muerte de @Vera — Desde la puerta entreabierta
+### FRAME 215 — SEC 20 — caída de @Vera — Desde la puerta entreabierta
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral (+ @Korin, @Lessa) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Medium shot, chest up.
@@ -1970,7 +1970,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: Desde la puerta entreabierta, @KORIN y @LESSA lo ven todo: la General abrazando a su madre, y el cuchillo.
 
-### FRAME 216 — SEC 20 — Muerte de @Vera — @Marek llega un segundo tarde
+### FRAME 216 — SEC 20 — caída de @Vera — @Marek llega un segundo tarde
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @Marek character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Close-up.
@@ -1979,7 +1979,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Marek llega un segundo tarde, la cara desencajada de horror.
 
-### FRAME 217 — SEC 20 — Muerte de @Vera — @Korin
+### FRAME 217 — SEC 20 — caída de @Vera — @Korin
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @Korin character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Medium shot, chest up.
@@ -1988,7 +1988,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; held on the emotional beat.
 - **Note:** Decisive instant: @Korin, susurro, retrocediendo. Convey the emotion of the line (do not render any text): "…La mató. Su propia hija la mató."
 
-### FRAME 218 — SEC 20 — Muerte de @Vera — @Vera resbala al piso
+### FRAME 218 — SEC 20 — caída de @Vera — @Vera resbala al piso
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral (+ @VeraEncapuchada) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Full shot (head to toe).
@@ -1997,7 +1997,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Vera resbala al piso, muy despacio, sostenida un instante por @Selka y luego soltada.
 
-### FRAME 219 — SEC 20 — Muerte de @Vera — En el suelo
+### FRAME 219 — SEC 20 — caída de @Vera — En el suelo
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral (+ @VeraEncapuchada) character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Extreme close-up.
@@ -2006,7 +2006,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: En el suelo, @Vera mira la cara de @Selka hasta el último segundo. Y muere creyéndolo.
 
-### FRAME 220 — SEC 20 — Muerte de @Vera — La mano de @Vera cae abierta contra el piso frío
+### FRAME 220 — SEC 20 — caída de @Vera — La mano de @Vera cae abierta contra el piso frío
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @VeraEncapuchada character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Insert / extreme detail shot.
@@ -2015,7 +2015,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: La mano de @Vera cae abierta contra el piso frío. Se queda quieta. Hold.
 
-### FRAME 221 — SEC 20 — Muerte de @Vera — @Selka de pie sobre el cuerpo de su madre
+### FRAME 221 — SEC 20 — caída de @Vera — @Selka de pie sobre el cuerpo de su madre
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Full shot (head to toe).
@@ -2024,7 +2024,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Selka de pie sobre el cuerpo de su madre, el arma goteando luz, todo el cuerpo temblándole.
 
-### FRAME 222 — SEC 20 — Muerte de @Vera — @Selka
+### FRAME 222 — SEC 20 — caída de @Vera — @Selka
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Close-up.
@@ -2033,7 +2033,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: @Selka, sin querer, sin entender, empieza a tararear una nana que no recuerda haber aprendido. Convey the emotion of the line (do not render any text): "(tarareando, quebrado) mmm… mm-mmm…"
 
-### FRAME 223 — SEC 20 — Muerte de @Vera — Vista cenital
+### FRAME 223 — SEC 20 — caída de @Vera — Vista cenital
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @SelkaGeneral character sheet; Image 2 = @AposentosGeneral location establishing plate.
 - **Framing:** Extreme wide / establishing shot, eye level.
@@ -2042,7 +2042,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cold bluish palace gloom, a single light-candle; still, quiet, held.
 - **Note:** Decisive instant: Vista cenital: la General diminuta de pie sobre el cuerpo de su madre en la sala inmensa y fría. La nana flota.
 
-### FRAME 224 — SEC 20 — Muerte de @Vera — La única vela de luz de la sala tiembla y casi se apaga
+### FRAME 224 — SEC 20 — caída de @Vera — La única vela de luz de la sala tiembla y casi se apaga
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = @AposentosGeneral location establishing plate (location only).
 - **Framing:** Insert / extreme detail shot.

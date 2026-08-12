@@ -140,7 +140,7 @@
 | **82** | "we have been robbed" — @Vorthan stands at the balcony's edge and lets a long, practiced silence hang before he speaks, his face a mask of shared grief, every gesture calcula… |
 | **83** | "torn from our world" — @Vorthan names the loss with grave tenderness; |
 | **84** | "our planet will be lost" — @Vorthan spreads his hands and foretells the planet's slow fading, each phrase weighted to spread fear, the crowd below going silent and stricken benea… |
-| **85** | los aliados en jaulas — the camera drifts across rows of holding pens flanking the balcony where the allies who saved @StellaPeloCorto stand captured and defeated, displayed to the … |
+| **85** | los aliados en celda — the camera drifts across rows of holding pens flanking the balcony where the allies who saved @StellaPeloCorto stand captured and defeated, displayed to the … |
 | **86** | el amor se vuelve odio — the camera moves through the crowd catching faces mid-transformation — grief tightening into anger, tears drying into snarls, fists clenching — a peop… |
 | **87** | "@Stella. Thief. Traitor." — @Vorthan lets the silence build, then hands the crowd their enemy — the name landing like a verdict, his sorrow never slipping even as the plaza erupt… |
 | **88** | @Vorthan acaricia a la bebé (cierre) — above the roaring crowd, @Vorthan lifts @SelkaBebe so all can see her, and — almost too small to notice — gently strokes her white hair like a doting … |

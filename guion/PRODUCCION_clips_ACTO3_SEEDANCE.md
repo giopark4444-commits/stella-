@@ -21,7 +21,7 @@
 ## 22 — ESCENA: @Stella visita a @Naio · *(165-170)*
 | # | Clip |
 |---|---|
-| **165** | ante el anciano esclavo — @Korin leads @StellaTeñida to a bent, half-blind old bound worker — @NaioRescatado, her father, unrecognizable under twenty years. |
+| **165** | ante el anciano cautivo — @Korin leads @StellaTeñida to a bent, half-blind old bound worker — @NaioRescatado, her father, unrecognizable under twenty years. |
 | **166** | "papá" — @StellaTeñida sinks to her knees before him and says it; |
 | **167** | siente la llave en la palma — @NaioRescatado takes her hand — and feels the @LlaveDeLuz pulsing beneath her skin, the @Orbe still safe; |
 | **168** | "mi niña del río" — @NaioRescatado's good eye floods; |
@@ -96,7 +96,7 @@
 | **208A** | el Parásito en pleno (acción ×2) — the @Parasito lashes out, columns of light and debris exploding across the hall; |
 | **209** | @Selka embiste — newly broken and human again, @SelkaGeneral takes up her @HojaSelka and hurls herself at the @Parasito to cover @Stella's rescue — fury and grief fused… |
 | **209A** | @Selka esquiva los embates — @SelkaGeneral charges the @Parasito, ducking and rolling under colossal sweeps of light that crater the floor around her, closing the distance with re… |
-| **210** | le secciona el brazo (sin sangre) — the @Parasito, almost without noticing, severs @SelkaGeneral's arm with a sweep of light (cauterized); |
+| **210** | le secciona el brazo (sin estirpe) — the @Parasito, almost without noticing, severs @SelkaGeneral's arm with a sweep of light (cauterized); |
 | **210A** | @Selka cae manca (detalle) — @SelkaGeneral crashes to the floor, the stump of her arm cauterized to a glowing seal (); |
 | **211** | entra @Theron / "ahí estás" — a bulkhead blows inward and @Theron strides in — and sees the creature with his own eyes; |
 | **212** | @Theron aguanta la línea (acción ×2) — @Theron throws himself at the @Parasito, weaving its colossal strikes, holding the line to buy the others time — a single hunter against a mountain of… |

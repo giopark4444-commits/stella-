@@ -348,7 +348,7 @@
 - **Shot/lens:** gran plano general (crane) as both are hauled away.
 - **Camera:** slow crane pulling wide. Let it breathe.
 - **Light:** dusty, dim.
-- **Action:** both @StellaPeloCorto and @Vosk are hauled toward the @NaveEsclavista; the junk planet swallows them in dust (contemplative hold).
+- **Action:** both @StellaPeloCorto and @Vosk are hauled toward the @NaveDePrisioneros; the junk planet swallows them in dust (contemplative hold).
 - **Mood:** desolate, sinking.
 - **Audio:** SFX only — dragging chains, wind over metal. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
@@ -481,7 +481,7 @@
 
 ### CLIP 15x5 — Escape / after the fire · 20s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
-- **Setting:** the location shown in @FosaApuestas → @NaveEsclavista/ship interior — match materials and colors; the station burning behind, then the quiet of a ship, smoke settling past the viewports.
+- **Setting:** the location shown in @FosaApuestas → @NaveDePrisioneros/ship interior — match materials and colors; the station burning behind, then the quiet of a ship, smoke settling past the viewports.
 - **Shot/lens:** gran plano general (crane) of the group escaping → plano general (static) inside the ship, later.
 - **Camera:** crane with the escape, then a still held wide. From action to quiet.
 - **Light:** firelight, then cool ship interior; smoke settling in the windows.
@@ -699,10 +699,10 @@
 ### CLIP 18x2 — @Naio, then @Selka · 20s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; the dim bunk cabin, pale projector light in dusty air. **Props:** @Proyector.
-- **Shot/lens:** inserto of the projector beam rising → plano medio of @NaioEsclavo in the image → primer plano (dolly-in) of @SelkaGeneral training.
+- **Shot/lens:** inserto of the projector beam rising → plano medio of @NaioCautivo in the image → primer plano (dolly-in) of @SelkaGeneral training.
 - **Camera:** held insert, static on @Naio, slow dolly-in on @Selka. Grief, chilling.
 - **Light:** pale projector glow.
-- **Action:** the @Proyector lights — a beam rises through the dusty air (contemplative). In the image: @NaioEsclavo, old, chained, held in a fog-mine (held silence). Then @SelkaGeneral — a young soldier training with surgical cold, grey-blue eyes and a scar over her left eye, perfect and empty.
+- **Action:** the @Proyector lights — a beam rises through the dusty air (contemplative). In the image: @NaioCautivo, old, chained, held in a fog-mine (held silence). Then @SelkaGeneral — a young soldier training with surgical cold, grey-blue eyes and a scar over her left eye, perfect and empty.
 - **Mood:** grief, uncanny.
 - **Audio:** SFX only — projector hum, a faint mine drone. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
@@ -781,11 +781,11 @@
 ### CLIP 19x3 — She finds @Naio · 20s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; the misty mines, a single lamp between them.
-- **Shot/lens:** primer plano as she stops on a face — @NaioEsclavo → plano detalle as she lowers her hood just enough → primerísimo primer plano (dolly-in) of @Naio recognizing her.
+- **Shot/lens:** primer plano as she stops on a face — @NaioCautivo → plano detalle as she lowers her hood just enough → primerísimo primer plano (dolly-in) of @Naio recognizing her.
 - **Camera:** static, held detail, slow dolly-in. Intimate, trembling.
 - **Light:** a single lamp between them.
-- **Action:** @VeraEncapuchada finds a face and stops: @NaioEsclavo — old, broken, almost unrecognizable (held silence). She lowers her hood just enough for him to see her. @NaioEsclavo recognizes her and can't believe it, breathless.
-- **Dialogue:** @NaioEsclavo: "…@Vera? No. No, you died. I saw—"
+- **Action:** @VeraEncapuchada finds a face and stops: @NaioCautivo — old, broken, almost unrecognizable (held silence). She lowers her hood just enough for him to see her. @NaioCautivo recognizes her and can't believe it, breathless.
+- **Dialogue:** @NaioCautivo: "…@Vera? No. No, you died. I saw—"
 - **Mood:** disbelief, reunion.
 - **Audio:** SFX only — chains, his shaking breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
@@ -808,8 +808,8 @@
 - **Shot/lens:** primer plano of @Naio's plea → plano medio as @Vera takes his face, decided.
 - **Camera:** static, intimate. Steady.
 - **Light:** lamp-glow.
-- **Action:** @NaioEsclavo, terrified for her, holds her with his eyes and begs. @VeraEncapuchada takes his face in both hands, decided.
-- **Dialogue:** @NaioEsclavo: "Don't go. If she's with him, it's a trap. I beg you." — @VeraEncapuchada: "I'll come back for you. I swear. But first I go for my daughter."
+- **Action:** @NaioCautivo, terrified for her, holds her with his eyes and begs. @VeraEncapuchada takes his face in both hands, decided.
+- **Dialogue:** @NaioCautivo: "Don't go. If she's with him, it's a trap. I beg you." — @VeraEncapuchada: "I'll come back for you. I swear. But first I go for my daughter."
 - **Mood:** dread, resolve, love.
 - **Audio:** SFX only — low voices, chains. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
@@ -820,7 +820,7 @@
 - **Shot/lens:** plano medio of a fierce embrace → plano general (dolly-out) as @Vera recedes toward the palace, @Naio reaching after.
 - **Camera:** static on the embrace, then a slow dolly-out. Held, aching.
 - **Light:** cold fog swallowing her silhouette.
-- **Action:** @VeraEncapuchada holds @NaioEsclavo tight, a stolen instant (held silence). She turns and moves off toward the palace; @NaioEsclavo reaches after her into the fog, unable to reach her.
+- **Action:** @VeraEncapuchada holds @NaioCautivo tight, a stolen instant (held silence). She turns and moves off toward the palace; @NaioCautivo reaches after her into the fog, unable to reach her.
 - **Mood:** fatal resolve.
 - **Audio:** SFX only — a breath, fading footsteps, fog drone. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
@@ -831,15 +831,15 @@
 - **Shot/lens:** plano detalle of @Naio's trembling open hand in the vapor.
 - **Camera:** static, held. 間/ma.
 - **Light:** cold fog swallowing everything.
-- **Action:** @NaioEsclavo's trembling open hand reaches into the vapor, swallowed by fog — she is already gone (held silence). Hold.
+- **Action:** @NaioCautivo's trembling open hand reaches into the vapor, swallowed by fog — she is already gone (held silence). Hold.
 - **Mood:** loss, dread.
 - **Audio:** SFX only — a low fog drone, a distant drip. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ---
 
-## SECUENCIA 20 — ESCENA: Aposentos de la General / la muerte de @Vera (el engaño) · *(clips 20x1–20x17)*
-> Pico emocional del acto: prompts íntimos y sostenidos. Muerte por luz, sin sangre.
+## SECUENCIA 20 — ESCENA: Aposentos de la General / la caída de @Vera (el engaño) · *(clips 20x1–20x17)*
+> Pico emocional del acto: prompts íntimos y sostenidos. Muerte por luz, sin estirpe.
 
 ### CLIP 20x1 — The General's quarters · 20s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
@@ -1043,4 +1043,4 @@
 ## RESUMEN
 - **86 clips** cubiertos · SECUENCIAS 10–20 (11 secuencias).
 - @StellaPeloCorto (amber eyes) · @Theron · @Brog · @Nima · @Noah (dark hair, brown eyes, blue scarf, single pauldron, light-cutter) · @Vosk · @Marek · @VeraEncapuchada / @SelkaGeneral con **grey-blue eyes** y **scar over @Selka's left eye** · pilotos/resistencia variados.
-- Constantes respetadas: painterly Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, 21:9/20s, English, @menciones, SFX only/no music, violencia por luz (no fuego, no armas de fuego), sin sangre. Pico emocional en SEC 20 (muerte de @Vera): íntimo y sostenido.
+- Constantes respetadas: painterly Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, 21:9/20s, English, @menciones, SFX only/no music, violencia por luz (no fuego, no armas de fuego), sin estirpe. Pico emocional en SEC 20 (caída de @Vera): íntimo y sostenido.

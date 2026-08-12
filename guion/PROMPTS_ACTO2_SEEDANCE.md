@@ -13,7 +13,7 @@
 **Personajes**
 - `@StellaPeloCorto` — @Stella (crece de ~15 a ~18); pelo blanco corto; recon suit; luego el **@TrajeNuevo** de @Nima. Amber eyes.
 - `@VeraEncapuchada` — @Vera, líder de la resistencia, **encapuchada**; bajo la capucha, su cara: pelo blanco, **grey-blue eyes**.
-- `@NaioEsclavo` — @Naio anciano, encorvado, encadenado, andrajos de mina.
+- `@NaioCautivo` — @Naio anciano, encorvado, apresado, andrajos de mina.
 - `@SelkaGeneral` — la General (joven soldado → 21); armadura blanca/dorada imperial; fría; **grey-blue eyes**; **scar over her left eye**; hoja de luz.
 - `@Gix` — ser de luz cálido (igual que A1).
 - `@Theron` — el Cazador, especie Threa; alto, de otra especie; ojos que no parpadean; armadura/abrigo de cazador milenario.
@@ -27,7 +27,7 @@
 
 **Naves / locaciones / props nuevos**
 - `@NaveNodriza` — nave nodriza de @Theron (enorme, oscura, antigua).
-- `@NaveEsclavista` — nave de cazarrecompensas (sucia, jaulas).
+- `@NaveDePrisioneros` — nave de cazarrecompensas (sucia, celda).
 - `@NodrizaInterior` — bahía/pasillos de la nodriza (metal frío, antiguo).
 - `@PlanetaChatarra` · `@FosaApuestas` · `@PlanetaCometas` · `@MinasNiebla` · `@RefugioResistencia` · `@AposentosGeneral`.
 - `@TrajeNuevo` (traje que construye @Nima) · `@CollarControl` (collar supresor) · `@Proyector` (la foto) · `@Orbe`.
@@ -36,7 +36,7 @@
 > **Constante negativa:** `no on-screen text, no watermark.`
 > **MODO ACCIÓN `Motion:`** `very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.`
 >
-> **Nota de canon (ojos):** ojos **ÁMBAR → @Stella y su padre @Naio** (@NaioEsclavo). Ojos **GRIS-AZUL → la madre @Vera y @Selka** (@SelkaCadete/@SelkaGeneral). El pelo blanco es común a la familia; el **color de ojos distingue las dos ramas**. No mezclar.
+> **Nota de canon (ojos):** ojos **ÁMBAR → @Stella y su padre @Naio** (@NaioCautivo). Ojos **GRIS-AZUL → la madre @Vera y @Selka** (@SelkaCadete/@SelkaGeneral). El pelo blanco es común a la familia; el **color de ojos distingue las dos ramas**. No mezclar.
 
 ---
 
@@ -896,14 +896,14 @@
 - **Audio:** SFX only — projector hum. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 138 — @Naio esclavo
+### CLIP 138 — @Naio cautivo
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. Inside the projection.
-- **Characters:** @NaioEsclavo.
+- **Characters:** @NaioCautivo.
 - **Shot/lens:** the projected image of @Naio, old and chained.
 - **Camera:** slow push into the hologram.
 - **Light:** pale projector glow.
-- **Action:** the projection shows @NaioEsclavo — @Stella's father, aged and bound, held in a fog-mine.
+- **Action:** the projection shows @NaioCautivo — @Stella's father, aged and bound, held in a fog-mine.
 - **Mood:** grief.
 - **Audio:** SFX only — projector hum, a faint mine drone. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
@@ -976,12 +976,12 @@
 ### CLIP 143 — encuentra a @Naio
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @VeraEncapuchada (grey-blue eyes), @NaioEsclavo.
+- **Characters:** @VeraEncapuchada (grey-blue eyes), @NaioCautivo.
 - **Shot/lens:** she lowers her hood to an old broken man.
 - **Camera:** intimate, trembling.
 - **Light:** a single lamp between them.
-- **Action:** @VeraEncapuchada lowers her hood just enough; @NaioEsclavo stares, unable to believe it.
-- **Dialogue (@NaioEsclavo):** "@Vera? You died. I saw—"
+- **Action:** @VeraEncapuchada lowers her hood just enough; @NaioCautivo stares, unable to believe it.
+- **Dialogue (@NaioCautivo):** "@Vera? You died. I saw—"
 - **Mood:** disbelief, reunion.
 - **Audio:** SFX only — chains, his shaking breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
@@ -989,12 +989,12 @@
 ### CLIP 144 — "no vayas, es una trampa"
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @VeraEncapuchada (grey-blue eyes), @NaioEsclavo.
+- **Characters:** @VeraEncapuchada (grey-blue eyes), @NaioCautivo.
 - **Shot/lens:** close two-shot, his plea.
 - **Camera:** steady, intimate.
 - **Light:** lamp-glow.
-- **Action:** @VeraEncapuchada tells him @Selka is alive but changed; @NaioEsclavo grips her, begging her not to go.
-- **Dialogue (@VeraEncapuchada):** "@Selka's alive. But she's not… not her anymore." — **(@NaioEsclavo):** "Don't go. It's a trap. I beg you."
+- **Action:** @VeraEncapuchada tells him @Selka is alive but changed; @NaioCautivo grips her, begging her not to go.
+- **Dialogue (@VeraEncapuchada):** "@Selka's alive. But she's not… not her anymore." — **(@NaioCautivo):** "Don't go. It's a trap. I beg you."
 - **Mood:** dread, love.
 - **Audio:** SFX only — low voices, chains. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
@@ -1002,11 +1002,11 @@
 ### CLIP 145 — "vuelvo por ti" / va al palacio
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @VeraEncapuchada (grey-blue eyes), @NaioEsclavo.
+- **Characters:** @VeraEncapuchada (grey-blue eyes), @NaioCautivo.
 - **Shot/lens:** she takes his face, then leaves into the fog.
 - **Camera:** push to her resolve, then she recedes; he reaches after.
 - **Light:** cold fog swallowing her.
-- **Action:** @VeraEncapuchada cups @NaioEsclavo's face, decided, then turns and vanishes into the fog toward the palace as he reaches uselessly after her.
+- **Action:** @VeraEncapuchada cups @NaioCautivo's face, decided, then turns and vanishes into the fog toward the palace as he reaches uselessly after her.
 - **Dialogue (@VeraEncapuchada):** "I'll come back for you. But first I go for my daughter."
 - **Mood:** fatal resolve.
 - **Audio:** SFX only — fading footsteps, fog drone. No music.
@@ -1014,7 +1014,7 @@
 
 ---
 
-## SECUENCIA 20 — ESCENA: Aposentos de la General / la muerte de @Vera (el engaño) · *(146-154)*
+## SECUENCIA 20 — ESCENA: Aposentos de la General / la caída de @Vera (el engaño) · *(146-154)*
 
 ### CLIP 146 — establishing aposentos / @Marek en la puerta
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
@@ -1144,7 +1144,7 @@
 - **Audio:** SFX only — a whisper too low to parse, a fading breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 154 — la creen asesina / la nana
+### CLIP 154 — la creen cazador / la nana
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @AposentosGeneral — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @VeraEncapuchada (grey-blue eyes), @Korin, @Lessa, @Marek.

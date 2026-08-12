@@ -221,7 +221,7 @@ Un prompt por página de escena (≤9 tomas por página). 29 páginas.
 
 ---
 
-## SECUENCIA 5 — ESCENA: Muerte de @Vera
+## SECUENCIA 5 — ESCENA: caída de @Vera
 
 ### PAGE 5p1 — The Orb chamber + the assassin · 9 shots · ~180s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.

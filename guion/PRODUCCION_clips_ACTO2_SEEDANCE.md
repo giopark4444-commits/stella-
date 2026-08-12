@@ -105,7 +105,7 @@
 | # | Clip |
 |---|---|
 | **137** | el proyector — @Theron sets a @Proyector on her table and tells her to look; |
-| **138** | @Naio esclavo — the projection shows @NaioEsclavo — @Stella's father, aged and bound, held in a fog-mine. |
+| **138** | @Naio cautivo — the projection shows @NaioCautivo — @Stella's father, aged and bound, held in a fog-mine. |
 | **139** | @Selka soldado (gris-azul) — the projection shows @SelkaGeneral — no longer a baby, a young soldier training with surgical cold, perfect and empty, the same grey-blue eyes as her … |
 | **139A** | primer plano: la General fría — the projection pushes in on @SelkaGeneral's cold, perfect face — a stranger now wearing the baby's features, grey-blue eyes empty. |
 | **140** | @Vera viva (la capucha cae) — in the projection a hooded leader directs the resistance; |
@@ -117,9 +117,9 @@
 | **142** | establishing minas de niebla — in the fog-mines of Year 14, @VeraEncapuchada slips between columns of bound workers, searching face after face. |
 | **143** | encuentra a @Naio — @VeraEncapuchada lowers her hood just enough; |
 | **144** | "no vayas, es una trampa" — @VeraEncapuchada tells him @Selka is alive but changed; |
-| **145** | "vuelvo por ti" / va al palacio — @VeraEncapuchada cups @NaioEsclavo's face, decided, then turns and vanishes into the fog toward the palace as he reaches uselessly after her. |
+| **145** | "vuelvo por ti" / va al palacio — @VeraEncapuchada cups @NaioCautivo's face, decided, then turns and vanishes into the fog toward the palace as he reaches uselessly after her. |
 
-## 20 — ESCENA: Aposentos de la General / la muerte de @Vera (el engaño) · *(146-154)*
+## 20 — ESCENA: Aposentos de la General / la caída de @Vera (el engaño) · *(146-154)*
 | # | Clip |
 |---|---|
 | **146** | establishing aposentos / @Marek en la puerta — @VeraEncapuchada slips in while @Korin and @Lessa cover the hall; |
@@ -132,7 +132,7 @@
 | **151A** | la cara de @Selka en el abrazo — CU of @SelkaGeneral's face over @VeraEncapuchada's shoulder in the embrace — confusion, a flicker of longing — then a cold blankness slides down like … |
 | **152** | la hoja en el abrazo — inside the embrace @SelkaGeneral drives a light-cutter into @VeraEncapuchada's side; |
 | **153** | el susurro (que no oímos) — @SelkaGeneral holds her mother close and whispers something at her ear we do not hear; |
-| **154** | la creen asesina / la nana — from the doorway @Korin and @Lessa see only the General standing over her mother; |
+| **154** | la creen cazador / la nana — from the doorway @Korin and @Lessa see only the General standing over her mother; |
 
 ## RESUMEN
 - **Total Acto 2: 86 clips** (66 base + 20 sub-clips de acción/cobertura).

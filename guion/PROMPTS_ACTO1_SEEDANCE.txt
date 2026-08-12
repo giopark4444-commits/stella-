@@ -1469,7 +1469,7 @@ Negative: gentle stylized action, no on-screen text, no watermark.
 
 ----------------------------------------------------------------------
 
-CLIP 85 — los aliados en jaulas
+CLIP 85 — los aliados en celda
 Style: Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 Setting: the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Beside and below the balcony, captured allies displayed in holding pens as a grim spectacle.
 Characters: @Vorthan, captured allies (resistance pilots like @Piloto1, @Piloto2, @Piloto3).

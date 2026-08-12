@@ -3,7 +3,7 @@
 
 > Guion en formato cine, escrito desde el canon de `PELI1_v2_material_base.md` y `TRATAMIENTO_narrado_P1.md`.
 > 🔒 **Regla de oro:** el cambio de forma de @Vorthan es secreto hasta el clímax. En este guion, @Vorthan se
-> escribe como un rey tirano, @S1G1 como un robot, @Marek como un aliado leal y @Selka como la asesina de @Vera.
+> escribe como un rey tirano, @S1G1 como un robot, @Marek como un aliado leal y @Selka como la responsable de la caída de @Vera.
 > Se escribe **como lo vive el público**, no como sabemos que es.
 >
 > Convenciones: encabezados `INT./EXT. LUGAR — MOMENTO`. Acción en presente. **PERSONAJE** + diálogo.
@@ -16,7 +16,7 @@
 > • **Pelo blanco:** es el **voto naieli de la familia** (@Stella, @Vera, @Naio, @Selka). La **resistencia y los
 >   pilotos NO** son todos de pelo blanco. Los **aliados que salvan a @Stella son 3 pilotos** de aspecto variado.
 > • **Armas:** solo de **energía / cuerpo a cuerpo** — **nunca de fuego** (). La violencia se muestra
->   por luz, no por sangre.
+>   por luz, no por linaje.
 > • **Vestuario de @Stella:** ropa civil (parque) → armadura "04" con trenza (lab/huida) → armadura con **pelo
 >   corto** tras cortarse la trenza.
 
@@ -140,7 +140,7 @@ Por eso lo quiere.
 @Stella aprieta los dientes.
 
 **@NAIO (CONT.)**
-El Orbe es nuestra sangre, @Stella. Solo nuestra familia puede tocarlo.
+El Orbe es nuestra estirpe, @Stella. Solo nuestra familia puede tocarlo.
 *(le cierra la mano)*
 Lo que acabo de hacerte te permite integrarlo. Meterlo dentro de ti. Y una vez dentro…
 *(la mira a los ojos)*
@@ -247,7 +247,7 @@ Se miran a través de la sala. Una carrera de un solo latido.
 
 Y entonces entra **otro.**
 
-**@S1G1.** Un robot **distinto** —oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un asesino.
+**@S1G1.** Un robot **distinto** —oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un cazador.
 
 @Vera lo ve. Y entiende que esto ya no es una pelea. Es una ejecución.
 
@@ -328,13 +328,13 @@ Aprieta los dientes. Entra al ducto.
 
 La onda escupe a @Stella por el otro lado, al cielo abierto.
 
-ABAJO, en la sala: @Vera muerta en el piso. La bebé llorando a su lado. **@VORTHAN** se acerca, sin prisa, y **levanta a @Selka** en sus brazos. La bebé se calla, mirándolo.
+ABAJO, en la sala: @Vera inmóvil en el piso. La bebé llorando a su lado. **@VORTHAN** se acerca, sin prisa, y **levanta a @Selka** en sus brazos. La bebé se calla, mirándolo.
 
 Dos robots se inclinan a recoger el cuerpo de @Vera. El Rey los detiene con un gesto.
 
 **@VORTHAN**
 *(frío, sin mirarla)*
-¿Qué hacen? Ya está muerta.
+¿Qué hacen? Ya se apagó.
 *(se da la vuelta con la bebé)*
 Salgan a buscar a @Stella. Necesitamos ese Orbe.
 
@@ -417,7 +417,7 @@ Murmullo de horror en la plaza.
 **@VORTHAN (CONT.)**
 Sin él, la luz se irá. El agua se irá. Y nuestro planeta… empezará a morir.
 
-Detrás de él, exhibidos en jaulas, los **TRES PILOTOS** que salvaron a @Stella —presos, vencidos. (Los demás aliados murieron abriéndole el cielo.)
+Detrás de él, exhibidos en celdas, los **TRES PILOTOS** que salvaron a @Stella —presos, vencidos. (Los demás aliados cayeron abriéndole el cielo.)
 
 **@VORTHAN (CONT.)**
 ¿Y quién nos ha condenado a esto? Una de los nuestros.
@@ -573,7 +573,7 @@ Y ve a **@VOSK** mirándola desde lejos. Sus ojos se cruzan.
 
 Los cazarrecompensas caen sobre @Stella. Ella pelea, pero son muchos. La reducen. La marcan con un collar de contención que le apaga el traje.
 
-Lo último que ve antes de que la suban a una nave esclavista es a @Vosk —que sonríe, contando ya su recompensa.
+Lo último que ve antes de que la suban a una nave de prisioneros es a @Vosk —que sonríe, contando ya su recompensa.
 
 Lo que @Vosk no calcula es que los cazadores no hacen distinciones. Una red cae también sobre él.
 
@@ -587,7 +587,7 @@ Se lo llevan a él también.
 
 ## SEC. 14 — INT. ESTACIÓN DE APUESTAS — LA FOSA — DÍA
 
-Una estación-mercado en el confín de la galaxia. Subastas de esclavos. Y abajo, el corazón del negocio: **LA FOSA** —un pozo de combate rodeado de gradas donde se apuesta a muerte.
+Una estación-mercado en el confín de la galaxia. Subastas de cautivos. Y abajo, el corazón del negocio: **LA FOSA** —un pozo de combate rodeado de gradas donde se apuesta al último en pie.
 
 Un presentador anuncia a la "ladrona del Orbe, la criminal más buscada del sector." Las gradas rugen. @Stella, en el centro, todavía con el collar puesto, busca una salida que no existe.
 
@@ -597,10 +597,10 @@ Es un **humano.** **@NOAH** —joven, magullado, una vieja espada y un arma de l
 
 @Stella se queda helada. Porque ese chico **se parece a ella.** A su gente. *(Lo entenderá después: su planeta desterraba a los condenados a un mundo lejano para morir. No murieron. Se volvieron la humanidad. Son los hijos de sus exiliados.)*
 
-La multitud exige sangre. @Noah levanta la espada, en guardia. @Stella no.
+La multitud exige pelea. @Noah levanta la espada, en guardia. @Stella no.
 
 **@STELLA**
-No voy a matarte para que ellos aplaudan.
+No voy a acabar contigo para que ellos aplaudan.
 
 **@NOAH**
 *(midiéndola, sin bajar el arma)*
@@ -677,11 +677,11 @@ Muéstrame la mano. Y el Orbe.
 
 @Theron se inclina. Lo estudia con una atención de cazador —y por un instante, la mano de él se acerca como quien va a **arrancarlo.** @Stella contiene el aliento.
 
-Pero @Theron se detiene. Lee algo en cómo el Orbe está enredado en la sangre de ella, en cada vena. Retira la mano.
+Pero @Theron se detiene. Lee algo en cómo el Orbe está enredado en la luz de ella, en cada vena. Retira la mano.
 
 **@THERON**
 *(para sí, casi)*
-No. Sacarlo a la fuerza te mataría a ti… y quizá a quien lo intente.
+No. Sacarlo a la fuerza te destruiría a ti… y quizá a quien lo intente.
 *(la mira)*
 Sigues siendo más útil respirando.
 
@@ -714,7 +714,7 @@ Mira tú también.
 
 Lo enciende. Y aparecen, vivos, los suyos:
 
-**@NAIO** —viejo, encadenado, esclavo en una mina de niebla.
+**@NAIO** —viejo, apresado, cautivo en una mina de niebla.
 
 **@SELKA** —ya no una bebé, una **joven soldado** entrenando con frialdad quirúrgica, perfecta, vacía, los mismos ojos gris-azul de su madre, y una cicatriz sobre el ojo izquierdo.
 
@@ -738,7 +738,7 @@ Se va. @Stella se queda toda la noche frente a la imagen de su madre, mirando el
 
 RÓTULO: **ERDIA · AÑO 14.**
 
-La **figura encapuchada** —**@VERA**— se desliza entre los esclavos de una mina. Busca. Encuentra.
+La **figura encapuchada** —**@VERA**— se desliza entre los cautivos de una mina. Busca. Encuentra.
 
 **@NAIO.** Anciano, roto, irreconocible. @Vera le baja la capucha lo justo para que él la vea.
 
@@ -777,7 +777,7 @@ Adentro, de espaldas, está **@SELKA** —la General. Joven, blanca, impecable, 
 
 **@SELKA**
 *(sin voltear)*
-Sé lo que eres. Una rata de la resistencia. ¿Vienes a matarme mientras duermo?
+Sé lo que eres. Una rata de la resistencia. ¿Vienes a acabar conmigo mientras duermo?
 
 **@VERA**
 *(se baja la capucha)*
@@ -882,7 +882,7 @@ Se volvió mía el día que me sacó de esa fosa.
 
 ## SEC. 22 — INT. ERDIA — REFUGIO DE LA RESISTENCIA — DÍA
 
-@Korin lleva a @Stella ante un anciano esclavo recién liberado por la resistencia. Encorvado, ciego de un ojo, irreconocible.
+@Korin lleva a @Stella ante un anciano cautivo recién liberado por la resistencia. Encorvado, ciego de un ojo, irreconocible.
 
 **@NAIO.**
 
@@ -912,7 +912,7 @@ Mamá está viva, papá. La vi. Voy a sacarlos a los dos de aquí. A @Selka tamb
 
 La resistencia ataca. Estalla la guerra por las calles de niebla. @Brog abre brechas a puñetazos; @Nima inutiliza robots; @Noah cubre a @Stella.
 
-En el caos, un comando rescata a un grupo de esclavos clave —**@Naio entre ellos**, puesto a salvo.
+En el caos, un comando rescata a un grupo de cautivos clave —**@Naio entre ellos**, puesto a salvo.
 
 @Stella tenía una misión de reconocimiento. La rompe. Sube. Escala el palacio entre disparos, sola, hacia la cúpula más alta —la **Sala del Trono.**
 
@@ -950,7 +950,7 @@ Todos dicen eso antes de morir.
 
 **@SELKA**
 *(sin un parpadeo)*
-He ejecutado a cientos. No recuerdo a ninguna que se llamara "madre".
+He acabado con cientos. No recuerdo a ninguna que se llamara "madre".
 
 Eso le duele a @Stella más que cualquier golpe. Por un segundo baja la guardia. @Selka la tira al piso, la hoja en alto.
 
@@ -970,7 +970,7 @@ Las dos quietas. A un latido de despertar.
 
 Y es ese latido lo que **aterra** a @Selka. No tiene dónde poner lo que siente. Así que hace lo único que le enseñaron: ataca lo que la confunde.
 
-Le agarra la mano a @Stella —y le **arranca el Orbe.** Puede: comparte su sangre.
+Le agarra la mano a @Stella —y le **arranca el Orbe.** Puede: comparte su estirpe.
 
 El Orbe sale de la palma de @Stella con un fogonazo. @Stella **se desploma.** No muere —cae en **coma**, los ojos en blanco.
 
@@ -1072,7 +1072,7 @@ Se quiebra entera. Cae de rodillas.
 …esa canción. Era de ella.
 *(un grito que sale de lo más hondo)*
 …ERA MI MADRE.
-*(mira a @Stella, muerta-en-coma en el piso)*
+*(mira a @Stella, dormida-en-coma en el piso)*
 ERA NUESTRA MADRE.
 
 ---
@@ -1095,7 +1095,7 @@ En ese instante, una explosión revienta el mamparo.
 
 Entra **@THERON.**
 
-Mira al monstruo. Por primera vez en veinte mil años lo ve con sus propios ojos. Y todo —cada planeta muerto, cada rastro perdido— por fin tiene cara.
+Mira al monstruo. Por primera vez en veinte mil años lo ve con sus propios ojos. Y todo —cada planeta apagado, cada rastro perdido— por fin tiene cara.
 
 **@THERON**
 *(bajo, casi un rezo)*
@@ -1164,7 +1164,7 @@ Voy a volver. Voy a salvar lo que quede de Erdia. Te lo juro por ella.
 
 @Naio, sin palabras, le aprieta la mano. La perdona con eso.
 
-@Selka se vuelve hacia el tanque. Apoya la **palma** —la única— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que rompió el cristal del trono para llegar a ella, que se negó a matarla, que cruzó un universo para volver.
+@Selka se vuelve hacia el tanque. Apoya la **palma** —la única— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que rompió el cristal del trono para llegar a ella, que se negó a acabar con, que cruzó un universo para volver.
 
 **@SELKA (CONT.)**
 *(la frente contra el cristal)*

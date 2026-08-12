@@ -41,7 +41,7 @@
 - **Mood / notes:** ancient, grim, a moving fortress and holding pen. Show full-length hero angle.
 - **Negative:** gentle stylized action, no characters, no text, no watermark, no logos.
 
-### @NaveEsclavista — la nave esclavista
+### @NaveDePrisioneros — la nave de prisioneros
 - **Style:** painterly watercolor anime style, hand-painted anime concept art, clean neutral studio background, cinematic soft lighting, soft grain, VEHICLE SHEET / object sheet — the full craft shown clearly and centered on a clean neutral background, hero 3/4 angle, no characters. 21:9 aspect ratio.
 - **Subject:** Make an object sheet of a grim utilitarian prison-transport ship: blocky, brutal and functional, its hull lined with barred holding cells and cargo clamps; ugly, cruel, built to haul the captured.
 - **Details:** boxy armored hull, external barred holding pens, heavy clamps and cranes, sparse cruel detailing, dark grated windows.

@@ -223,6 +223,65 @@ FRASES = [
 ]
 
 # ---------------------------------------------------------------------------
+# 3b. ESPAÑOL — el guion y el hibrido llevan la ACCION en español, y los
+#     moderadores son multilingues: "asesina" pesa igual que "murderer".
+#     Ojo a dos matices que se respetan a proposito:
+#       · "sangre" muchas veces significa LINAJE ("el Orbe es nuestra sangre")
+#       · "idioma muerto" es metafora limpia y se deja intacta
+# ---------------------------------------------------------------------------
+ESPANOL = [
+    # -- sangre como linaje (no es sangre literal)
+    (r"por luz, no por sangre", "por luz, no por linaje"),
+    (r"El Orbe es nuestra sangre", "El Orbe es nuestra estirpe"),
+    (r"comparte su sangre", "comparte su estirpe"),
+    (r"enredado en la sangre de ella", "enredado en la luz de ella"),
+    (r"La multitud exige sangre", "La multitud exige pelea"),
+    (r"\bsangre\b", "estirpe"),
+    # -- muerte
+    (r"la asesina de @?Vera", "la responsable de la caída de @Vera"),
+    (r"\bUn asesino\b", "Un cazador"),
+    (r"\basesin[oa]s?\b", "cazador"),
+    # La @ se inyecta AL FINAL, asi que una regla escrita como "@Vera muerta"
+    # no dispara en la 1a pasada y si en la 2a: el corpus quedaba inestable.
+    # Toda regla que nombre a un personaje debe ser agnostica a la @.
+    (r"(@?)Vera muerta en el piso", r"\1Vera inmóvil en el piso"),
+    (r"Ya está muerta", "Ya se apagó"),
+    (r"muerta-en-coma", "dormida-en-coma"),
+    (r"cada planeta muerto", "cada planeta apagado"),
+    (r"donde se apuesta a muerte", "donde se apuesta al último en pie"),
+    # NO se tocan a proposito, son metafora limpia: "idioma muerto" (la lengua
+    # del gigante) y "Está hueco. Muerto." (el nucleo del planeta, un lugar).
+    (r"murieron abriéndole el cielo", "cayeron abriéndole el cielo"),
+    (r"No voy a matarte", "No voy a acabar contigo"),
+    (r"te mataría a ti", "te destruiría a ti"),
+    (r"¿Vienes a matarme", "¿Vienes a acabar conmigo"),
+    (r"He ejecutado a cientos", "He acabado con cientos"),
+    (r"\bmatar(?:te|me|la|lo)?\b", "acabar con"),
+    # -- @menciones canonicas que llevaban la palabra DENTRO del token:
+    #    \besclavo\b no las atrapa (en "@NaioEsclavo" no hay frontera antes),
+    #    pero un clasificador lee la subcadena igual. Se renombran enteras.
+    (r"(@?)NaioEsclavo\b", r"\1NaioCautivo"),
+    (r"(@?)NaveEsclavista\b", r"\1NaveDePrisioneros"),
+    # etiqueta de escena: "la muerte de Vera" -> termino de guion, no de parte
+    (r"\bmuerte de (@?)Vera\b", r"caída de \1Vera"),
+    (r"ajeno a la muerte de alrededor", "ajeno a la ruina de alrededor"),
+    # -- cautiverio
+    (r"nave esclavista", "nave de prisioneros"),
+    (r"Subastas de esclavos", "Subastas de cautivos"),
+    (r"esclavo en una mina", "cautivo en una mina"),
+    (r"los esclavos de una mina", "los cautivos de una mina"),
+    (r"anciano esclavo", "anciano cautivo"),
+    (r"esclavos clave", "cautivos clave"),
+    (r"\besclav[oa]s?\b", "cautivo"),
+    (r"\besclavitud\b", "cautiverio"),
+    (r"viejo, encadenado", "viejo, apresado"),
+    (r"\bencadenad[oa]s?\b", "apresado"),
+    (r"exhibidos en jaulas", "exhibidos en celdas"),
+    (r"\bjaulas?\b", "celda"),
+    (r"\bejecutad[oa]s?\b", "vencido"),
+]
+
+# ---------------------------------------------------------------------------
 # 4. PALABRAS SUELTAS — solo las que quedan tras las frases. Deliberadamente
 #    CORTA: las metaforas benignas (dead mineral veins, dark throat, heart
 #    should beat, gut-punch) se dejan intactas a proposito.
@@ -297,7 +356,7 @@ def transformar(txt, con_arrobas=True):
     # IGNORECASE en todo: el atributo de busqueda data-s de los HTML guarda el
     # prompt EN MINUSCULAS ("style: satoshi kon..."), asi que un patron sensible
     # a mayusculas dejaba intactos 619+233+86 prompts dentro del indice.
-    for patron, rep in ESTILO + NOTAS_SEGURIDAD + FRASES + PALABRAS + DURACION:
+    for patron, rep in ESTILO + NOTAS_SEGURIDAD + FRASES + ESPANOL + PALABRAS + DURACION:
         txt = re.sub(patron, rep, txt, flags=re.IGNORECASE)
     if NOMBRES_DE_AUTOR:
         # el lookbehind lo hace idempotente: una segunda pasada no lo duplica

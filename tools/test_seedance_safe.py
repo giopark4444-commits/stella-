@@ -164,9 +164,46 @@ check("html tags intactos", out2,
       debe_contener=['<span class="fl">Style:</span>', "hand-painted 2D anime"],
       no_debe_contener=["Satoshi Kon-style", "Satoshi Kon–style"])
 
+# --- 11. ESPAÑOL: la accion del guion e hibrido va en español ---------------
+check("asesina", transformar("@Selka como la asesina de @Vera."),
+      no_debe_contener=["asesin"])
+check("esclavos", transformar("Subastas de esclavos. Un anciano esclavo liberado."),
+      no_debe_contener=["esclav"])
+check("matar", transformar("No voy a matarte para que ellos aplaudan."),
+      no_debe_contener=["matar"])
+check("jaulas", transformar("exhibidos en jaulas, los TRES PILOTOS"),
+      no_debe_contener=["jaula"])
+check("muerta", transformar("@Vera muerta en el piso. Ya está muerta."),
+      no_debe_contener=["muerta"])
+# sangre como LINAJE se reescribe, pero la frase debe seguir teniendo sentido
+check("sangre=linaje", transformar("El Orbe es nuestra sangre, @Stella."),
+      debe_contener=["nuestra estirpe"], no_debe_contener=["sangre"])
+# metafora limpia: NO se toca
+check("idioma muerto intacto", transformar("El gigante le enseña su **idioma muerto**"),
+      debe_contener=["idioma muerto"])
+
+
+# --- 12. las reglas que nombran personajes deben ser agnosticas a la @ ------
+# La @ se inyecta al final; una regla escrita "@Vera muerta" no dispara en la
+# 1a pasada y si en la 2a -> corpus inestable. Se prueba en ambas formas.
+for entrada in ["ABAJO: Vera muerta en el piso.", "ABAJO: @Vera muerta en el piso."]:
+    r = transformar(entrada)
+    check(f"agnostico a @ en {entrada[:22]!r}", r,
+          debe_contener=["inmóvil"], no_debe_contener=["muerta"])
+    if transformar(r) != r:
+        fallos.append(f"inestable: 2a pasada cambia {r!r}")
+
+
+# --- 13. @menciones con la palabra DENTRO del token ------------------------
+# \besclavo\b no atrapa "@NaioEsclavo" (no hay frontera antes de "Esclavo"),
+# pero un clasificador lee la subcadena igual. Se renombra el token completo.
+for e in ["@NaioEsclavo entra en la mina", "NaioEsclavo, viejo", "@NaveEsclavista despega"]:
+    check(f"token {e[:18]!r}", transformar(e), no_debe_contener=["sclav"])
+check("etiqueta de escena", transformar("SEC 20 (muerte de @Vera): íntimo"),
+      debe_contener=["caída de @Vera"], no_debe_contener=["muerte de"])
+
 if fallos:
     print(f"❌ {len(fallos)} FALLOS\n")
-    for f in fallos:
-        print("  " + f)
+    for f in fallos: print("  " + f)
     sys.exit(1)
-print("✅ todas las pruebas pasan")
+print("✅ pruebas OK")

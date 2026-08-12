@@ -501,7 +501,7 @@
 
 ---
 
-## SECUENCIA 5 — ESCENA: Muerte de @Vera · *(clips 5x1–5x12)*
+## SECUENCIA 5 — ESCENA: caída de @Vera · *(clips 5x1–5x12)*
 > **Cambio de variante:** hasta 5x9 → `@StellaArmadura` (con trenza). Desde el corte de la trenza en 5x10 → `@StellaPeloCorto`.
 
 ### CLIP 5x1 — The Orb · 20s

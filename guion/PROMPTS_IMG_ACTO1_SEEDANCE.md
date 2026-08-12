@@ -513,7 +513,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Subject:** @Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; @Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: @Naio, sosteniéndole la mano recién marcada.
 - **Staging / background:** @Naio's lab: cool, clean, hushed, pale curved organic-tech surfaces and floating holographic data, clinical blue-white light, the warm world shut outside. Key element: the freshly-marked palm-sigil glowing.
 - **Light & mood:** cool clinical blue-white light, holograms glowing cold. Charged, emotional.
-- **Note:** @Naio, sosteniéndole la mano recién marcada. (Line delivered — convey the emotion, do NOT render the words as text: "El Orbe es nuestra sangre, @Stella. Solo nuestra familia puede tocarlo.")
+- **Note:** @Naio, sosteniéndole la mano recién marcada. (Line delivered — convey the emotion, do NOT render the words as text: "El Orbe es nuestra estirpe, @Stella. Solo nuestra familia puede tocarlo.")
 
 ### FRAME 57 — SEC 3 — Only our family
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -897,7 +897,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Note:** Al fondo del corredor: las puertas inmensas de la SALA DEL ORBE, latiendo con luz.
 
 
-## SECUENCIA 5 — SALA DEL ORBE / MUERTE DE @VERA
+## SECUENCIA 5 — SALA DEL ORBE / caída de @Vera
 
 ### FRAME 99 — SEC 5 — The Orb revealed
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -966,10 +966,10 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@S1G1 assassin-robot reference"; Image 2 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
-- **Subject:** @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: Y entonces entra otro. @S1G1: un robot distinto, oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un asesino.
+- **Subject:** @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: Y entonces entra otro. @S1G1: un robot distinto, oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un cazador.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Contemplative, reverent, awed. Still, quiet, held.
-- **Note:** Y entonces entra otro. @S1G1: un robot distinto, oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un asesino.
+- **Note:** Y entonces entra otro. @S1G1: un robot distinto, oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un cazador.
 
 ### FRAME 107 — SEC 5 — a sentencing
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1146,10 +1146,10 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "@S1G1 assassin-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
-- **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: Justo en ese instante, detrás de @Vera, @S1G1 le perfora el corazón con una lanza de luz. Sin sangre: la luz la atraviesa.
+- **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @S1G1, a sleek dark assassin robot: matte black-grey plating, a single glowing cold optic, fast and silent. Pose and expression frozen for this beat: Justo en ese instante, detrás de @Vera, @S1G1 le perfora el corazón con una lanza de luz. Sin estirpe: la luz la atraviesa.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: a spear of light passing through @Vera (light pierces her, shown purely as light shown).
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Tense, kinetic. Frozen at the peak instant of the action.
-- **Note:** Justo en ese instante, detrás de @Vera, @S1G1 le perfora el corazón con una lanza de luz. Sin sangre: la luz la atraviesa.
+- **Note:** Justo en ese instante, detrás de @Vera, @S1G1 le perfora el corazón con una lanza de luz. Sin estirpe: la luz la atraviesa.
 
 ### FRAME 127 — SEC 5 — MOM!
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1365,10 +1365,10 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Vera combat-armor turnaround"; Image 2 = "baby @Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
-- **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: ABAJO, en la sala: @Vera muerta en el piso. La bebé llorando a su lado. El vacío enorme alrededor.
+- **Subject:** @Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; @Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: ABAJO, en la sala: @Vera inmóvil en el piso. La bebé llorando a su lado. El vacío enorme alrededor.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: @Vera dead on the floor, the baby crying at her side.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Contemplative, reverent, awed. Still, quiet, held.
-- **Note:** ABAJO, en la sala: @Vera muerta en el piso. La bebé llorando a su lado. El vacío enorme alrededor.
+- **Note:** ABAJO, en la sala: @Vera inmóvil en el piso. La bebé llorando a su lado. El vacío enorme alrededor.
 
 ### FRAME 151 — SEC 6 — @Vorthan lifts @Selka
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1395,7 +1395,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Subject:** @Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: @Vorthan, frío, sin siquiera mirarla.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: @Vera's body.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Charged, emotional.
-- **Note:** @Vorthan, frío, sin siquiera mirarla. (Line delivered — convey the emotion, do NOT render the words as text: "¿Qué hacen? Ya está muerta.")
+- **Note:** @Vorthan, frío, sin siquiera mirarla. (Line delivered — convey the emotion, do NOT render the words as text: "¿Qué hacen? Ya se apagó.")
 
 ### FRAME 154 — SEC 6 — Find @Stella
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1695,10 +1695,10 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "@Stella recon-suit turnaround (short hair)"; Image 2 = "@Stella's escape ship cockpit".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
-- **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: La llave de luz en su palma. El Orbe latiendo dentro, cálido, vivo, ajeno a la muerte de alrededor.
+- **Subject:** @Stella, a 14-year-old naiel girl, SHORT freshly-cut white hair (braid gone), freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: La llave de luz en su palma. El Orbe latiendo dentro, cálido, vivo, ajeno a la ruina de alrededor.
 - **Staging / background:** @Vera's small hidden escape ship, sleek and civilian; a tight lit cockpit of dim glowing panels. Key element: LlaveDeLuz in her palm, the Orbe pulsing warm inside.
 - **Light & mood:** dim cockpit lit by panel glow, warm and cold instrument light on the face. Contemplative, reverent, awed. Still, quiet, held.
-- **Note:** La llave de luz en su palma. El Orbe latiendo dentro, cálido, vivo, ajeno a la muerte de alrededor.
+- **Note:** La llave de luz en su palma. El Orbe latiendo dentro, cálido, vivo, ajeno a la ruina de alrededor.
 
 ### FRAME 187 — SEC 8 — A thought is born
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1851,10 +1851,10 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
 - **References to attach:** Image 1 = "Allied Pilot 1 reference"; Image 2 = "Allied Pilot 2 reference"; Image 3 = "Allied Pilot 3 reference"; Image 4 = "Palace plaza establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
-- **Subject:** an allied pilot (NOT white hair), resolute, wearing flight gear.; a second allied pilot (NOT white hair), distinct look, wearing flight gear.; a third allied pilot (NOT white hair), wearing flight gear. Pose and expression frozen for this beat: Detrás de él, exhibidos en jaulas, los TRES PILOTOS que salvaron a @Stella. Presos, vencidos, la cabeza baja.
+- **Subject:** an allied pilot (NOT white hair), resolute, wearing flight gear.; a second allied pilot (NOT white hair), distinct look, wearing flight gear.; a third allied pilot (NOT white hair), wearing flight gear. Pose and expression frozen for this beat: Detrás de él, exhibidos en celdas, los TRES PILOTOS que salvaron a @Stella. Presos, vencidos, la cabeza baja.
 - **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony. Key element: the three captured pilots displayed in holding pens, heads bowed.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Contemplative, reverent, awed. Still, quiet, held.
-- **Note:** Detrás de él, exhibidos en jaulas, los TRES PILOTOS que salvaron a @Stella. Presos, vencidos, la cabeza baja.
+- **Note:** Detrás de él, exhibidos en celdas, los TRES PILOTOS que salvaron a @Stella. Presos, vencidos, la cabeza baja.
 
 ### FRAME 204 — SEC 9 — A pilot looks to the sky
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime storyboard frame, cinematic composition, 2D hand-painted Studio painterly watercolor aesthetic, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.

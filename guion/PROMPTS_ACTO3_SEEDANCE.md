@@ -155,7 +155,7 @@
 
 ## SECUENCIA 22 — ESCENA: @Stella visita a @Naio · *(165-170)*
 
-### CLIP 165 — ante el anciano esclavo
+### CLIP 165 — ante el anciano cautivo
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @ErdiaRuinas — match its architecture, materials, colors; lush, detailed, painterly background. A resistance refuge in the rubble.
 - **Characters:** @Korin, @StellaTeñida, @NaioRescatado.
@@ -871,7 +871,7 @@
 - **Audio:** SFX only — colossal impacts, her sprint, a war-cry. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
-### CLIP 210 — le secciona el brazo (sin sangre)
+### CLIP 210 — le secciona el brazo (sin estirpe)
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
 - **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @Parasito.

@@ -79,7 +79,7 @@
 - **Notes:** Act 1, the lab. He created @Gix (tech for the common good).
 - **Negative:** gentle stylized action, no text, no watermark, no logos, only one character, no extra characters.
 
-### @NaioEsclavo — @Naio anciano, esclavo de las minas
+### @NaioCautivo — @Naio anciano, cautivo de las minas
 - **Style:** painterly watercolor anime style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Make a character sheet of @Naio, now aged and broken, a mine bound worker under the Empire.
 - **Appearance:** thin white/grey hair and unkempt white beard; tired amber eyes, one half-blind and clouded; deeply lined, gaunt, aged face; bent, stooped, frail build; grimy fair skin; chained wrists, mine-bound worker rags, worn and dirt-caked; broken but not extinguished presence.
@@ -94,7 +94,7 @@
 - **Appearance:** thin white/grey hair and beard, a little cleaner and combed; amber eyes, one half-blind and clouded, brimming with emotion; gaunt lined aged face, softened by relief; still stooped and frail but no longer chained; fair skin; simple clean resistance-refuge clothing in muted warm tones, a blanket or shawl over the shoulders.
 - **Key features:** amber eyes (one clouded); gaunt aged bearded face; stooped frail build; freed, unchained, in simple clean clothes.
 - **Palette:** muted warm neutrals, white hair, amber eyes, pale skin.
-- **Notes:** Act 3, freed and reunited. Derive from @NaioEsclavo; gentler, unchained. Keep the amber eyes.
+- **Notes:** Act 3, freed and reunited. Derive from @NaioCautivo; gentler, unchained. Keep the amber eyes.
 - **Negative:** gentle stylized action, no text, no watermark, no logos, only one character, no extra characters.
 
 ### @SelkaBebe — @Selka, bebé de 1 año
@@ -259,7 +259,7 @@
 - **Notes:** Acto 1, squad/sacrifice and confined (clips 71, 75, 85); not white-haired.
 - **Negative:** gentle stylized action, no text, no watermark, no logos, only one character, no extra characters.
 
-### @S1G1 — robot asesino esbelto
+### @S1G1 — robot cazador esbelto
 - **Style:** painterly watercolor anime style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Make a character sheet of @S1G1, a sleek dark assassin robot sent by the Empire; fast, silent, lethal — a sentencing machine, not a soldier.
 - **Appearance:** tall, slim, humanoid killer robot with a lithe predatory build; matte black-grey plating that seems to drink the light around it, smooth segmented armor over cable-like joints; NO face — a single glowing cold optic (a lone burning eye) set in a narrow head; sharp, minimal silhouette built for speed and quiet; bladed, precise limbs; unnervingly still until it strikes.

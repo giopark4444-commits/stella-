@@ -18,7 +18,7 @@ Make an object sheet of a worn scrappy allied ship — a mismatched patched civi
 ### @NaveNodriza — la nave nodriza de @Theron
 Make an object sheet of @Theron's colossal ancient mothership, a vast old industrial hunter's vessel shaped like a metal whale carcass, hung with mechanical arms, chains and salvage. painterly watercolor anime style.
 
-### @NaveEsclavista — la nave esclavista
+### @NaveDePrisioneros — la nave de prisioneros
 Make an object sheet of a grim utilitarian prison-transport ship, blocky brutal and functional, hull lined with barred holding cells and cargo clamps — ugly, cruel, built to haul captives. painterly watercolor anime style.
 
 ### @NavePalacio — el palacio que es en verdad una nave
@@ -87,7 +87,7 @@ Make a character sheet of @Vera, older, hidden resistance leader, face shadowed 
 ### @Naio — @Naio, ~45, padre/científico
 Make a character sheet of @Naio, ~45, @Stella's father and scientist, white-grey hair and short beard, round glasses, tired kind amber eyes, slender scholarly build, white coat. painterly watercolor anime style.
 
-### @NaioEsclavo — @Naio anciano, esclavo de las minas
+### @NaioCautivo — @Naio anciano, cautivo de las minas
 Make a character sheet of @Naio, aged and broken mine bound worker, thin white hair and unkempt beard, tired amber eyes (one half-blind), gaunt lined face, bent frail body. painterly watercolor anime style.
 
 ### @NaioRescatado — @Naio anciano, liberado
@@ -147,7 +147,7 @@ Make a character sheet of Piloto2, a second allied pilot with a distinct silhoue
 ### @Piloto3 — tercer piloto aliado
 Make a character sheet of Piloto3, a third allied pilot clearly distinct, common-folk look, dark shaved sides with a topknot or braids (NOT white), weathered alien face, flight suit. painterly watercolor anime style.
 
-### @S1G1 — robot asesino esbelto
+### @S1G1 — robot cazador esbelto
 Make a character sheet of @S1G1, a sleek dark assassin robot, tall slim lithe predatory build, matte black-grey plating that drinks the light, smooth segmented armor — a sentencing machine. painterly watercolor anime style.
 
 ### @RobotImperial — soldado robot imperial

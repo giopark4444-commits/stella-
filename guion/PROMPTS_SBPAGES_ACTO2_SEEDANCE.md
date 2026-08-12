@@ -1,6 +1,6 @@
 # STORYBOARD PROMPT PAGES · ACTO 2 — Stella Fugaz «El Nodo de Erdia»
 > **32 páginas** (una escena por página, o una parte de ≤9 tomas si la escena tiene más) · Seedance 2.5 · 21:9 · continuous scene-page prompts · directivas y diálogo **EN INGLÉS** · SFX only / no music · death by light / / /.
-> Canon de ojos: **amber → @StellaPeloCorto & @NaioEsclavo** · **grey-blue → @VeraEncapuchada & @SelkaGeneral** (@Selka: scar over her left eye). White hair común a la familia; el color de ojos distingue las ramas.
+> Canon de ojos: **amber → @StellaPeloCorto & @NaioCautivo** · **grey-blue → @VeraEncapuchada & @SelkaGeneral** (@Selka: scar over her left eye). White hair común a la familia; el color de ojos distingue las ramas.
 
 ---
 
@@ -163,12 +163,12 @@
 
 ### PAGE 13p3 — Swallowed by the Scrap · 1 shot · ~6s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
-- **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background. The scrap dunes and the dark @NaveEsclavista.
+- **Setting:** the location shown in @PlanetaChatarra — match its architecture, materials, colors; lush, detailed, painterly background. The scrap dunes and the dark @NaveDePrisioneros.
 - **Characters:** @StellaPeloCorto, @Vosk (small in frame).
 - **Shot/lens:** grand wide crane over the scrap.
 - **Camera:** slow crane, let it breathe — 間/ma.
 - **Light:** dusty, overcast, the light dying into haze.
-- **Action:** both of them are hauled off toward the @NaveEsclavista; the junk planet swallows them into the dust — hold.
+- **Action:** both of them are hauled off toward the @NaveDePrisioneros; the junk planet swallows them into the dust — hold.
 - **Mood:** desolate, defeated.
 - **Audio:** SFX only — wind over metal, distant chains, fading footsteps. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
@@ -340,11 +340,11 @@
 ### PAGE 18p1 — The Projector / The Family Alive · 9 shots · ~180s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @NodrizaInterior — match its architecture, materials, colors; lush, detailed, painterly background. @Stella's small bunk cabin at night, dim, dust in the air; a projector beam blooming pale in the dark.
-- **Characters:** @StellaPeloCorto — **amber eyes**; @Theron; @NaioEsclavo — @Naio, aged, stooped, chained, mine rags, **amber eyes**; @SelkaGeneral — young soldier, white/gold imperial armor, cold, **grey-blue eyes**, **scar over her left eye**; @VeraEncapuchada — hooded, then revealed, **grey-blue eyes**. **Props:** @Proyector.
+- **Characters:** @StellaPeloCorto — **amber eyes**; @Theron; @NaioCautivo — @Naio, aged, stooped, chained, mine rags, **amber eyes**; @SelkaGeneral — young soldier, white/gold imperial armor, cold, **grey-blue eyes**, **scar over her left eye**; @VeraEncapuchada — hooded, then revealed, **grey-blue eyes**. **Props:** @Proyector.
 - **Shot/lens:** wide of the dim cabin, @Stella awake on her bunk; medium of @Theron setting the projector down; medium of @Theron in the doorway; insert as the projector beam rises; medium of @Naio chained in the image; close dolly of @Selka training in the image; medium of the hooded leader with @Marek; detail as the hood falls — @Vera; extreme close dolly on @Stella's hand to her mouth.
 - **Camera:** static wide; static medium; static medium; static insert of the rising beam; static medium inside the projection; slow dolly into @Selka's cold face; static medium; static detail on the falling hood; slow dolly in on @Stella not breathing — the world stops.
 - **Light:** blue-grey cabin dark, the pale projector glow, cold light on the holographic figures.
-- **Action:** @Stella's cabin, penumbra — she wakes, sitting on her cot, sleepless; @Theron enters and sets a @Proyector on the table; @Theron speaks from the door; the projector lights, a beam rising in the dusty air; in the image: @NaioEsclavo — @Stella's father, old, chained, held in a fog-mine, amber eyes; in the image: @SelkaGeneral — no longer a baby, a young soldier training with surgical cold, grey-blue eyes and a scar over her left eye; in the image: a hooded figure leading the resistance beside @Marek; the hood falls for a second — it is @VeraEncapuchada, @Vera, alive, grey-blue eyes; @StellaPeloCorto's hand flies to her mouth — she doesn't breathe, the world stops.
+- **Action:** @Stella's cabin, penumbra — she wakes, sitting on her cot, sleepless; @Theron enters and sets a @Proyector on the table; @Theron speaks from the door; the projector lights, a beam rising in the dusty air; in the image: @NaioCautivo — @Stella's father, old, chained, held in a fog-mine, amber eyes; in the image: @SelkaGeneral — no longer a baby, a young soldier training with surgical cold, grey-blue eyes and a scar over her left eye; in the image: a hooded figure leading the resistance beside @Marek; the hood falls for a second — it is @VeraEncapuchada, @Vera, alive, grey-blue eyes; @StellaPeloCorto's hand flies to her mouth — she doesn't breathe, the world stops.
 - **Dialogue:** @Theron: “I have no interest in your planet. But a good hunter always looks before he discards.” — @Theron: “You look too.”
 - **Mood:** ominous gift, grief, uncanny sorrow, thunderstruck.
 - **Audio:** SFX only — projector hum, a faint mine drone, a caught breath. No music.
@@ -370,12 +370,12 @@
 ### PAGE 19p1 — The Fog-Mines / @Vera Finds @Naio · 9 shots · ~180s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background. RÓTULO **ERDIA · AÑO 14**. Fog-drowned mines, columns of bound workers stooped in grey vapor, chains, coughing, dim lamps in the murk, mud underfoot.
-- **Characters:** @VeraEncapuchada — hooded, **grey-blue eyes**; @NaioEsclavo — old, broken, nearly unrecognizable, **amber eyes**.
+- **Characters:** @VeraEncapuchada — hooded, **grey-blue eyes**; @NaioCautivo — old, broken, nearly unrecognizable, **amber eyes**.
 - **Shot/lens:** title over black; grand pan across the misty mines; detail of fog curling over mud and a dripping chain; medium steadicam of hooded @Vera slipping through; close as she finds a face; detail as she lowers her hood a little; extreme close dolly on @Naio recognizing her; close on @Vera, urgent; close on @Vera's voice breaking.
 - **Camera:** static title; slow pan through the fog, let it breathe; static detail on the still dripping chain; steadicam gliding between bound workers; static close, she stops; static detail; slow dolly in on @Naio, breathless; static close; static close.
 - **Light:** cold, foggy, lamp-glow, a single lamp between them.
-- **Action:** title over black — hold; the camera pans the fog-mines, hunched bound worker silhouettes in grey vapor, chains and coughing; fog curls over mud, a chain hangs still, dripping; the hooded figure — @VeraEncapuchada — slips between bound workers, searching face after face; she finds a face and stops: @NaioEsclavo, old, broken, almost unrecognizable; she lowers her hood just enough for him to see; @NaioEsclavo recognizes her and can't believe it, breathless; @VeraEncapuchada, urgent, low-voiced; her voice breaks.
-- **Dialogue:** @NaioEsclavo: “…@Vera? No. No, you died. I saw—” — @VeraEncapuchada: “She's alive, @Naio. @Selka's alive.” — @VeraEncapuchada: “But she's not… not her anymore. They put something else inside her.”
+- **Action:** title over black — hold; the camera pans the fog-mines, hunched bound worker silhouettes in grey vapor, chains and coughing; fog curls over mud, a chain hangs still, dripping; the hooded figure — @VeraEncapuchada — slips between bound workers, searching face after face; she finds a face and stops: @NaioCautivo, old, broken, almost unrecognizable; she lowers her hood just enough for him to see; @NaioCautivo recognizes her and can't believe it, breathless; @VeraEncapuchada, urgent, low-voiced; her voice breaks.
+- **Dialogue:** @NaioCautivo: “…@Vera? No. No, you died. I saw—” — @VeraEncapuchada: “She's alive, @Naio. @Selka's alive.” — @VeraEncapuchada: “But she's not… not her anymore. They put something else inside her.”
 - **Mood:** grim and searching, disbelief, reunion.
 - **Audio:** SFX only — chains, drips, a low mine drone, his shaking breath. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
@@ -383,19 +383,19 @@
 ### PAGE 19p2 — "First I go for my daughter" · 5 shots · ~100s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @MinasNiebla — match its architecture, materials, colors; lush, detailed, painterly background. The fog-mines, cold vapor swallowing the space, a single lamp.
-- **Characters:** @NaioEsclavo — **amber eyes**; @VeraEncapuchada — **grey-blue eyes**.
+- **Characters:** @NaioCautivo — **amber eyes**; @VeraEncapuchada — **grey-blue eyes**.
 - **Shot/lens:** close on @Naio, terrified for her; medium as @Vera cups his face, decided; medium of a stolen tight embrace; wide dolly-out as she recedes and he reaches; detail of his trembling open hand swallowed by fog.
 - **Camera:** static close; static medium; static medium; slow dolly out as she leaves toward the palace; static detail — held, 間/ma.
 - **Light:** cold fog, lamp-glow, vapor swallowing her.
-- **Action:** @NaioEsclavo, terrified for her, holds her with his gaze, begging; @VeraEncapuchada takes his face in both hands, decided; she pulls him into a hard, stolen embrace, one robbed moment; @VeraEncapuchada recedes toward the palace, @NaioEsclavo reaching after her into the fog, not reaching; hold on his trembling open hand in the vapor, swallowed by fog — she is gone.
-- **Dialogue:** @NaioEsclavo: “Don't go. If she's with him, it's a trap. I beg you.” — @VeraEncapuchada: “I'll come back for you. I swear. But first I go for my daughter.”
+- **Action:** @NaioCautivo, terrified for her, holds her with his gaze, begging; @VeraEncapuchada takes his face in both hands, decided; she pulls him into a hard, stolen embrace, one robbed moment; @VeraEncapuchada recedes toward the palace, @NaioCautivo reaching after her into the fog, not reaching; hold on his trembling open hand in the vapor, swallowed by fog — she is gone.
+- **Dialogue:** @NaioCautivo: “Don't go. If she's with him, it's a trap. I beg you.” — @VeraEncapuchada: “I'll come back for you. I swear. But first I go for my daughter.”
 - **Mood:** dread, love, fatal resolve.
 - **Audio:** SFX only — low voices, chains, fading footsteps, a fog drone. No music.
 - **Negative:** gentle stylized action, no on-screen text, no watermark.
 
 ---
 
-## SECUENCIA 20 — ESCENA: Aposentos de la General / la muerte de @Vera (el engaño)
+## SECUENCIA 20 — ESCENA: Aposentos de la General / la caída de @Vera (el engaño)
 
 ### PAGE 20p1 — Into the General's Quarters · 9 shots · ~180s
 - **Style:** Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
