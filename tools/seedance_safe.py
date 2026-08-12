@@ -11,7 +11,11 @@ wound") metian las palabras prohibidas dentro del prompt.
 
 Uso:
     python3 tools/seedance_safe.py --check     # informe, no escribe
-    python3 tools/seedance_safe.py --apply     # reescribe en disco
+    python3 tools/seedance_safe.py --apply     # escribe las copias *_SEEDANCE.*
+
+OJO al regenerar: `rm guion/*_SEEDANCE.html` NO es seguro a secas — la portada
+guion/SEEDANCE_INDEX.html esta escrita a mano y no la genera este script. Se
+llama asi (y no PROMPTS_SEEDANCE.html) justo para que ese glob no se la coma.
 """
 import re
 import sys
