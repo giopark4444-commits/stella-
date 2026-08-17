@@ -123,9 +123,11 @@ cobra vida y despega — SIEMPRE fue la NAVE de Vorthan** (el "meteorito"). *(Ve
 ("Mamá… viniste"); con la cara de **Marek** confiesa entero: *no había resistencia* — **él desenterró a
 Vera** ("seis meses de cama, catorce años de causa"), la usó de bandera, y **cuando Selka estuvo
 terminada, ella dejó de hacer falta** — pudo borrarla en un minuto, pero **quiso verla irse despacio,
-creyendo que su hija la mataba**; y con la cara de **Selka niña**: *"La maté yo, vistiendo tu rostro.
-Te puse el cuchillo en la mano sin que lo supieras."* Selka entiende la nana — demasiado tarde.
-**"ERA NUESTRA MADRE."**
+creyendo que su hija la mataba**; y remata con **la resistencia entera como cebo**: no podía cruzar el
+cielo a buscar el Orbe, así que **le sostuvo la guerrita veinticuatro años para dejarle a Stella un
+muelle donde atracar** *(y por eso Selka la esperaba de pie "como si supiera que iba a venir")*. Y con la
+cara de **Selka niña**: *"La maté yo, vistiendo tu rostro. Te puse el cuchillo en la mano sin que lo
+supieras."* Selka entiende la nana — demasiado tarde. **"ERA NUESTRA MADRE."**
 
 **22. La brasa y la hoja.** Saboreando su obra, Vorthan ve **la brasa de Gix** latiendo en el pecho de
 Stella: **no está muerta** — la agonía que disfrutó no ocurrió. *"…Eso no estaba ahí."* Y Selka **deja de

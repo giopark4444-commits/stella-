@@ -36,7 +36,9 @@
 >   en la SEC 18) y el descubrimiento de que **el palacio no tiene cimientos** (SEC 19; se lo confía a Naio,
 >   y es el arma de la Película 2).
 > • **Marek rescató a Vera** de la sala del Orbe (sembrado en SEC 19, detonado en SEC 26): la resistencia
->   entera es una red de Vorthan.
+>   entera es una red de Vorthan — y además su **muelle**. No podía cruzar el cielo a buscar el Orbe, así
+>   que sostuvo la guerrita 24 años para que Stella tuviera dónde atracar al volver. Por eso Selka la
+>   espera de pie en la SEC 23 «como si supiera que iba a venir».
 
 ---
 
@@ -1366,6 +1368,17 @@ Pero llevaba catorce años cargándola. Me había ganado algo mejor.
 Quise verla irse despacio. Sabiendo que su hija la mataba. Quise que se fuera con eso puesto.
 *(beat)*
 Y se fue. Mirándote a los ojos. Odiándote con toda el alma.
+
+Se detiene. Como si acabara de acordarse de algo divertido.
+
+**"MAREK" (CONT.)**
+¿Y para qué crees que le sostuve la guerrita veinticuatro años?
+*(abre las manos, casi con ternura)*
+Yo no podía cruzar el cielo a buscarla. Ella tenía el Orbe metido en la sangre y estaba a un universo de distancia.
+*(beat)*
+Solo podía dejar la puerta abierta.
+*(sonríe con la cara de Marek)*
+Tu hermana iba a volver por amor —eso lo supe el primer día. Alguien tenía que dejarle un muelle donde atracar.
 
 Y entonces toma la **última** forma. Se encoge. Se vuelve una **niña pequeña** —una bebé crecida apenas, de pelo blanco.
 
