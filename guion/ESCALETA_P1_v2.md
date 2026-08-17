@@ -1,8 +1,12 @@
-# ESCALETA — STELLA FUGAZ · PELÍCULA 1 "EL NODO DE ERDIA" (v2)
+# ESCALETA — STELLA FUGAZ · PELÍCULA 1 "EL NODO DE ERDIA" (v2.2)
 
-> Secuencia por secuencia, en orden de pantalla. Síntesis del `PELI1_v2_material_base.md`.
+> Secuencia por secuencia, en orden de pantalla. Síntesis del `GUION_P1_v2.md` (revisión v2.2, 2026-08-17).
 > Estructura 起承転結. 🔒 El cambio de forma de Vorthan es SECRETO hasta el clímax.
-> Marcadores **[ERDIA · AÑO X]** = saltos rotulados. (1 año de Stella = 4 de Erdia.)
+> Marcadores **[ERDIA · AÑO X]** = saltos rotulados. (1 año de Stella = 4 de Erdia; **Erdia avanza 24 años**.)
+> Cambios v2.2: **Naio prisionero del palacio** (nunca en las minas) · la noche del año 14 entera dentro
+> del palacio · la SEC 20 partida en dos (el arma aparece en la mano de la Selka real) · acto 3 abre con
+> **el tinte y el permiso** · los **dos legados de Vera** (la señal + "el palacio no tiene cimientos") ·
+> **Marek rescató a Vera** (la resistencia es una red de Vorthan).
 
 ---
 
@@ -22,13 +26,16 @@ activar un campo de fuerza. Último abrazo; las tres huyen.
 **4. La sala del Orbe — la caída de Vera.** Acorraladas, **Vera cae protegiendo a Selka (S1G1)**. Stella,
 en vez de ir por el Orbe, corre a salvarla; Vorthan la atrapa por la trenza; Vera levanta un escudo;
 Stella **se corta la trenza**, se libera, **toma el Orbe** (traje a **"MAX"**) y escapa por el ducto.
-Vorthan **se lleva a Selka** y abandona a Vera.
+Vorthan **se lleva a Selka**, impide que los robots toquen el cuerpo de Vera ("Ya está muerta") y la
+abandona en el suelo. *(Relectura tardía: la estaba reservando.)*
 
 **5. Huida y persecución.** Stella esquiva las naves del imperio; **aliados se sacrifican** por ella;
 sin oxígeno, su nave da un **híper salto**. La **nave nodriza de Theron** la rescata.
 
 **6. [ERDIA] El discurso de Vorthan.** En público culpa a Stella ("ladrona y traidora"); de fondo,
-**los aliados presos** y exhibidos. El planeta empieza a morir.
+**los aliados presos** y exhibidos. El planeta empieza a morir. **Naio va a las celdas del nivel de
+servicio del palacio** — Vorthan lo conserva: él encriptó el Orbe y es el único que podría saber cómo
+extraerlo. *(Una llave se guarda cerca.)*
 
 ---
 
@@ -38,8 +45,10 @@ sin oxígeno, su nave da un **híper salto**. La **nave nodriza de Theron** la r
 (Theron)** la rescató por el rastro del Orbe: **pacto** (cebo a cambio de entrenamiento). La dilatación:
 1 año aquí = 4 en Erdia.
 
-**8. [ERDIA · AÑO 8] La resistencia.** Presentamos al líder **Marek** y a una **figura encapuchada** —
-*es Vera* (el público no lo sabe).
+**8. [ERDIA · AÑO 8] La resistencia / la señal.** Presentamos al líder **Marek** y a una **figura
+encapuchada** — *es Vera* (el público no lo sabe). Esa noche, a solas, Vera graba y **lanza una señal
+al vacío**: "Tu padre está vivo. Lo tienen en las celdas del palacio. Hazte fuerte. Y vuelve." Es lo
+único que no le ha contado a nadie. Ni siquiera a Marek.
 
 **9. El pozo (el encuentro con los humanos).** Cazarrecompensas **capturan a Stella** (la ladrona más
 buscada) y la venden a una **estación con subasta + casas de apuestas**. **Fuerzan a Stella y a Noah a
@@ -54,65 +63,97 @@ su **traje nuevo**). Paisajes de cometas. Stella **domina el Orbe** poco a poco 
 Orbe**; ella **describe al Rey**: *inmortal, nunca envejeció, llegó hace cientos de años* → **chispa de
 sospecha** en Theron (suena a su presa) — pero solo un rumor.
 
-**12. La foto / los flashbacks.** Theron, con una **foto**, los ve vivos: **Naio esclavo**, **Selka**
-entrenando, y **Vera viva** liderando la resistencia. Stella queda seria, mirando al infinito.
+**12. La señal llega.** Theron le entrega el **proyector**: una señal que llevaba años en su archivo,
+"anoche entendí para quién era". Es **Vera, viva, hablándole a cámara**: tu padre está vivo, en las
+celdas del palacio; tu hermana está viva; hazte fuerte y vuelve. Stella pasa la noche reproduciendo
+la voz de su madre.
 
-**13. [ERDIA · AÑO 14] Vera se decide.** Va a rescatar a Naio y a Selka. La acompañan sus leales y
-**Marek**.
+**13. [ERDIA · AÑO 14] Vera baja al palacio.** **Marek le abre** una reja de servicio ("Yo vigilo aquí").
+En las **celdas**, Vera encuentra a **Naio**: le cuenta cómo sobrevivió (*Marek la desenterró de la sala
+del Orbe y la cuidó seis meses*) y le confía su descubrimiento — **"el palacio no tiene cimientos: está
+posado"**, el "meteorito" cayó el año que llegó el Rey, y un dios no necesita esconderse. "Tú vives
+adentro de la respuesta. Guárdalo." Promete volver por él. Y sube por su hija.
 
-**14. [ERDIA] La muerte de Vera (el engaño).** Vera encuentra a **Naio** (le dice dónde está Selka).
-Va por Selka; **Marek se queda "afuera"** (coartada de Vorthan). Vera abraza a "Selka"… que **le clava
-el arma** y le susurra algo **al oído (oculto)**. Los compañeros creen que **Selka mató a su madre**.
-
-**15. Stella se gana el viaje.** Con su heroísmo, **gana el respeto de Theron**, que accede solo a una
-**misión de reconocimiento** a Erdia.
+**14. [ERDIA] La muerte de Vera (el engaño) — en dos tiempos.**
+(a) En los aposentos, "**Selka**" pelea sin ser tocada, se deja abrazar… y **le clava el arma**, susurrando
+algo **al oído (oculto)**. Korin y Lessa lo ven desde la puerta. Vera muere creyéndolo. "Selka" **sonríe**.
+(b) MÁS TARDE: la **Selka real** entra a su cuarto. Una muerta que no conoce en el piso. **El arma en su
+propia mano.** Sin memoria de nada. Se arrodilla y, sin querer, **tararea una nana** que no recuerda haber
+aprendido. Abajo, Naio espera unos pasos que nunca se detienen. FIN DEL ACTO 2.
 
 ---
 
 ## 転 TEN — EL REGRESO Y EL TRONO (Acto 3)
 
-**16. [ERDIA · AÑO 20] El regreso.** Stella vuelve **camuflada (pelo teñido)** con Brog, Nima, Noah.
-**La odian** (la hereje "que estancó la luz"); los **leales de Vera la reconocen por los ojos**. Erdia
+**15. El tinte y el permiso (SEC 20B).** Theron concede la misión: "Bajas. Miras. Subes. No tocas nada."
+**Nima le tiñe el pelo** — el pelo blanco es el rasgo de la línea de Vera; teñírselo es borrarse a su
+madre para poder volver a casa. En el metal pulido, la que devuelve la mirada ya es una adulta.
+
+**16. [ERDIA · AÑO 24] El regreso.** Stella (~20, **pelo teñido**) baja con Brog, Nima, Noah.
+**La odian** (la hereje "que estancó la luz"); **Korin la reconoce por la cara** bajo el tinte. Erdia
 **dividida**; huele a guerra. **Vosk ruega a Theron** poder entrar a ayudarla.
 
-**17. Stella visita a Naio.** Reencuentro padre-hija tras 20 años (él, anciano esclavo).
+**17. El refugio — el plan y la verdad.** Korin: **"Tu padre está vivo. En las celdas del palacio.
+Veinticuatro años."** Nunca lo sacaron — *Marek siempre los convenció de que era suicidio*. Y la verdad
+que Naio no habría podido decirle: **"Tu madre murió hace diez años. En los brazos de tu hermana. Yo
+estaba en la puerta."** Stella, con una calma que da miedo: "Ustedes hagan todo el ruido del mundo.
+**Yo entro por abajo. Por mi padre.**"
 
-**18. La guerra.** Estalla el asalto. En el caos, **rescatan a Naio**. Stella **escala el recon a
-infiltración** y cae por la cúpula a la **Sala del Trono**.
+**18. El asalto / el rescate / la subida.** La guerra estalla: es la distracción. Stella y Noah bajan a
+las **celdas** — el mismo camino de Vera. Reencuentro: Naio la reconoce **por la llave de luz** en su
+palma ("Mi niña del río"). "¿Por qué te dejó vivo?" — *"Porque yo lo encripté en ti. Cree que sé cómo
+deshacerlo."* Ella le corta los grilletes con el Orbe y, cuando él va a gritar su nombre, **le tapa la
+boca**: "No digas quién soy" (el planeta aún la cree la ladrona). Naio se traga el nombre… y también
+la verdad sobre Vera que ella ya sabe. Entrega a Naio a Noah y Brog — y **rompe su promesa**: escala
+sola hasta la cúpula y **cae por el cristal** a la Sala del Trono.
 
-**19. El trono — el combate emocional.** Ante **Selka (la General, 21)**, Stella **podría vencer** pero
-**no ataca a matar**: pide. **Agrieta a Selka** (la General duda, asoma la hermana). Al casi despertarla,
-**Selka —aterrada de su duda, empujada por Vorthan— le arranca el Orbe.** Stella cae en **coma** (no
-muere: **Gix entra en su cuerpo y le abraza el corazón**).
+**19. El trono — el combate emocional.** Ante **Selka (la General, 25)**, Stella **podría vencer** pero
+**no ataca a matar**: pide. **Agrieta a Selka** (el gesto de la chispa en la frente: su cuerpo recuerda
+antes que su mente). Al casi despertarla, **Selka —aterrada de su duda— le arranca el Orbe** (puede:
+comparte su sangre). Stella cae en **coma** (no muere: **Gix entra en su cuerpo y le abraza el corazón**).
 
 ---
 
 ## 結 KETSU — "FUI YO" Y EL FINAL
 
 **20. El secreto del palacio.** Selka pone el Orbe en la consola → **no vuelve la luz**: el **palacio
-cobra vida y despega — SIEMPRE fue la NAVE de Vorthan** (el "meteorito").
+cobra vida y despega — SIEMPRE fue la NAVE de Vorthan** (el "meteorito"). *(Vera tenía razón.)*
 
-**21. "Fui yo".** Vorthan **se transforma**: Selka niña → **Vera** → **Marek**. Doble lectura: **Stella**
-ve a su madre y **muere-en-paz**; **Selka oye la verdad** —*"Fui yo, vistiendo tu rostro"* (la voz de
-Vorthan; **ella nunca mató a Vera**). La **nana** la rompe del todo.
+**21. "Fui yo".** Vorthan **se transforma**: con la cara de **Vera** le regala a Stella una muerte en paz
+("Mamá… viniste"); con la cara de **Marek** confiesa entero: *no había resistencia* — **él desenterró a
+Vera** ("seis meses de cama, catorce años de causa"), la usó de bandera, y **cuando Selka estuvo
+terminada, ella dejó de hacer falta** — pudo borrarla en un minuto, pero **quiso verla irse despacio,
+creyendo que su hija la mataba**; y con la cara de **Selka niña**: *"La maté yo, vistiendo tu rostro.
+Te puse el cuchillo en la mano sin que lo supieras."* Selka entiende la nana — demasiado tarde.
+**"ERA NUESTRA MADRE."**
 
-**22. El sacrificio de Selka.** Vorthan toma su **forma de Parásito colosal**. Selka **se le enfrenta para
-cubrir el rescate** — no le da la talla: le **secciona el brazo**. **Theron entra** (al ver al monstruo,
-**confirma a su presa milenaria**). Brog y Nima **sacan a Stella (coma) y a Selka (manca)**.
+**22. La brasa y la hoja.** Saboreando su obra, Vorthan ve **la brasa de Gix** latiendo en el pecho de
+Stella: **no está muerta** — la agonía que disfrutó no ocurrió. *"…Eso no estaba ahí."* Y Selka **deja de
+temblar**: se levanta fría, recoge la hoja — *"Ya sé de memoria cómo se obedece. Esta vez elijo yo a
+quién."* Dos cosas fuera de control en un minuto: Vorthan abandona los disfraces **como una rabieta** →
+**forma real: el PARÁSITO.** A Selka **le secciona el brazo**. **Theron entra** — por primera vez en
+veinte mil años **ve a su presa** (ahora tiene la referencia: puede rastrearla). Brog y Nima **sacan a
+Stella (coma) y a Selka (manca)**; Vosk cubre la puerta.
 
 **23. La huida del monstruo.** El **palacio-nave despega** con el Orbe y abre un **portal**: se va a
 seguir devorando. Vorthan **no persigue** (su prioridad es partir). **Theron:** *"Por fin sé adónde va a
 llevarlo."*
 
-**24. Cierre.** En la nave de Theron: **Stella en coma + Selka manca + Naio rescatado**. **Selka, ya
-buena, le pide perdón a Naio** y **promete volver a salvar Erdia** (hereda la misión de Stella). Su mano
-en el cristal del tanque: *"No sabía que eras tú. Despierta y déjame decírtelo a la cara."* Dentro,
-**Gix sigue sosteniendo el corazón** de Stella. Corte a negro. → **EL NODO DE ERDIA.**
+**24. Cierre.** Enfermería: **Stella en coma + Selka manca + Naio rescatado**. Naio a Theron: *"Seguirlo
+no basta. ¿Sabes qué es? Mi mujer lo entendió hace diez años… **Yo sé por dónde se abre.**"* (el legado
+de Vera = el arma de la P2). Selka pide perdón; Naio la perdona con la mano. Y por fin **dice el nombre
+en voz alta**: *"Se llama Stella. Es mi hija. Ya puedo decirlo."* La mano de Selka en el cristal:
+*"No sabía que eras tú. Despierta y déjame decírtelo a la cara."* Adentro, **Gix sigue sosteniendo el
+corazón**. *"…un río que vuelve."* Corte a negro. → **EL NODO DE ERDIA.**
 
 ---
 
 ## NOTAS DE RITMO
 - **Acto 2 va INTERCALADO** (Stella ↔ Erdia, con rótulos de año). Mostrar que **ella crece poco mientras
   su mundo se derrumba mucho**.
+- **La noche del año 14 es una sola pieza:** celdas → aposentos → el arma en la mano. Un edificio, una
+  noche, sin cortes de traslado.
 - **Primer plano:** las dos hermanas + la mentira de la madre. Lo demás, al fondo (ver `TRIAJE_prioridad_P1.md`).
 - **Equilibrio tonal:** la calidez (Nima, Brog, los paisajes) balancea lo oscuro.
+- **Regla del truco:** Marek y Vorthan **nunca comparten plano**. Y el rescate de Vera se cuenta como el
+  momento más limpio de la película — todo el daño lo hace hacia atrás, en la SEC 26.

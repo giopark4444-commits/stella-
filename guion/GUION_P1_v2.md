@@ -18,7 +18,22 @@
 > • **Armas:** solo de **energía / cuerpo a cuerpo** — **nunca de fuego** (no guns). La violencia se muestra
 >   por luz, no por sangre.
 > • **Vestuario de Stella:** ropa civil (parque) → armadura "04" con trenza (lab/huida) → armadura con **pelo
->   corto** tras cortarse la trenza.
+>   corto** tras cortarse la trenza → **pelo teñido de oscuro + traje de Nima** (acto 3, SEC 20B).
+>
+> **Revisión v2.2 (2026-08-17):**
+> • **Naio es prisionero del palacio** (nunca estuvo en las minas): Vorthan lo conserva porque él encriptó
+>   el Orbe y es el único que podría saber cómo extraerlo. Se guarda una llave cerca.
+> • **La noche del año 14 ocurre entera dentro del palacio** (celdas del nivel de servicio → aposentos).
+> • **La SEC 20 se parte en dos:** el público ve "a Selka" matar a Vera (es Vorthan con su cara); en la
+>   SEC 20A la Selka real descubre el arma en su propia mano, sin memoria de nada.
+> • **El acto 3 abre con el tinte y el permiso** (SEC 20B): Theron concede la misión de reconocimiento y
+>   Nima le tiñe el pelo. El pelo blanco es el rasgo de la línea de Vera: teñírselo es borrarse a su madre.
+> • **Erdia avanza 24 años** (antes 20): Stella vuelve de ~20, Selka tiene 25. Rótulos y diálogos al día.
+> • **Los dos legados de Vera:** la **señal lanzada al vacío** (SEC 12; es lo que Theron le entrega a Stella
+>   en la SEC 18) y el descubrimiento de que **el palacio no tiene cimientos** (SEC 19; se lo confía a Naio,
+>   y es el arma de la Película 2).
+> • **Marek rescató a Vera** de la sala del Orbe (sembrado en SEC 19, detonado en SEC 26): la resistencia
+>   entera es una red de Vorthan.
 
 ---
 
@@ -284,7 +299,7 @@ En el suelo, Vera junta lo último que le queda. Levanta las dos manos hacia su 
 
 —y forma un **escudo de luz** alrededor de Stella.
 
-Justo en el instante en que S1G1, detrás de ella, **le perfora el corazón.**
+Justo en el instante en que S1G1, detrás de ella, **la atraviesa por la espalda.**
 
 **STELLA**
 *(un grito que se rompe)*
@@ -555,6 +570,29 @@ La figura observa a Marek y a la gente. Y baja la cabeza.
 
 No sabemos quién es. Todavía.
 
+MÁS TARDE — la misma noche. Un rincón apartado del refugio, detrás de una tela colgada.
+
+La figura encapuchada, sola, frente a un pequeño **transmisor** armado con piezas robadas. Verifica que no viene nadie. Y se baja la capucha.
+
+**VERA.** Más vieja. Más dura. Viva.
+
+Mira el aparato un momento largo, como quien se asoma a un pozo. Y graba.
+
+**VERA**
+*(a la cámara, bajito)*
+No sé si estás viva. No sé si esto puede cruzar hasta donde estés.
+*(se le quiebra la voz; se rehace)*
+Tu padre está vivo. Lo tienen en las celdas del palacio. Tu hermana está viva —la tiene él.
+Y yo sigo aquí.
+*(casi sonríe)*
+Hazte fuerte. Y vuelve.
+
+Aprieta un comando. El transmisor lanza la señal al cielo: un pulso diminuto hacia el vacío. Sin destino. Sin nombre.
+
+Vera se queda mirando el punto del cielo donde se perdió.
+
+Es lo único, en ocho años de resistencia, que no le ha contado a nadie. Ni siquiera a Marek.
+
 ---
 
 ## SEC. 13 — EXT. PLANETA CHATARRA — OPERACIÓN DE LA FLOTA — [STELLA: ~AÑO 2]
@@ -708,21 +746,29 @@ Stella se va. Theron se queda mirando el vacío, masticando una sospecha de vein
 Stella no duerme. Theron entra y deja algo sobre la mesa: un **proyector de imagen.**
 
 **THERON**
-No me interesa tu planeta. Pero un buen cazador siempre mira antes de descartar.
+Esto lleva años dando vueltas en mi archivo. Una señal lanzada al vacío —sin rumbo, sin destino, en un idioma que nadie a bordo sabe leer.
 *(beat)*
-Mira tú también.
+La guardé porque yo lo guardo todo.
+*(la mira)*
+Anoche entendí para quién era.
 
-Lo enciende. Y aparecen, vivos, los suyos:
+Lo enciende.
 
-**NAIO** —viejo, encadenado, esclavo en una mina de niebla.
+La imagen tiembla. Una mujer encapuchada, en un cuarto de paredes recicladas. Verifica que no viene nadie. Y se baja la capucha.
 
-**SELKA** —ya no una bebé, una **joven soldado** entrenando con frialdad quirúrgica, perfecta, vacía, los mismos ojos gris-azul de su madre, y una cicatriz sobre el ojo izquierdo.
+**VERA.**
 
-Y una **figura encapuchada** liderando a la resistencia junto a Marek. La capucha cae un segundo. Es **VERA.**
+Viva. Más vieja. Mirando a la cámara —mirándola a ella.
 
-Viva.
+**VERA (EN LA IMAGEN)**
+No sé si estás viva. No sé si esto puede cruzar hasta donde estés.
+*(un temblor; se rehace)*
+Tu padre está vivo. Lo tienen en las celdas del palacio. Tu hermana está viva —la tiene él.
+Y yo sigo aquí.
+*(casi sonríe)*
+Hazte fuerte. Y vuelve.
 
-Stella se lleva la mano a la boca. No respira.
+La imagen se corta. El camarote queda a oscuras, con Stella a solas con el eco.
 
 **STELLA**
 *(un susurro destrozado)*
@@ -730,46 +776,98 @@ Stella se lleva la mano a la boca. No respira.
 
 Theron la observa desde la puerta. Por primera vez no la mira como a un cebo. La mira como a alguien que va a hacer algo imposible.
 
-Se va. Stella se queda toda la noche frente a la imagen de su madre, mirando el infinito.
+Se va. Stella se queda toda la noche reproduciendo la señal. La voz de su madre, una y otra vez, llenando el cuarto.
 
 ---
 
-## SEC. 19 — INT. ERDIA — MINAS DE NIEBLA — [ERDIA · AÑO 14] — DÍA
+## SEC. 19 — INT. PALACIO IMPERIAL — CELDAS DEL NIVEL DE SERVICIO — [ERDIA · AÑO 14] — NOCHE
 
 RÓTULO: **ERDIA · AÑO 14.**
 
-La **figura encapuchada** —**VERA**— se desliza entre los esclavos de una mina. Busca. Encuentra.
+Un pasillo estrecho debajo del palacio. Arriba, piedra clara y oro. Aquí abajo, humedad y rejas. Celdas a los dos lados; en algunas hay gente que ya no levanta la cabeza cuando suenan pasos.
 
-**NAIO.** Anciano, roto, irreconocible. Vera le baja la capucha lo justo para que él la vea.
+**MAREK** abre una reja de servicio con una llave que no debería tener. **KORIN** y **LESSA** cubren la boca del pasillo.
+
+**MAREK**
+Tienes hasta que cambien la guardia.
+*(le aprieta el hombro)*
+Yo vigilo aquí. Tráela de vuelta.
+
+**VERA** entra sola. Camina entre las celdas. Busca. Encuentra.
+
+**NAIO.** Anciano, roto, irreconocible. Se arrastra hasta los barrotes cuando ella se baja la capucha lo justo para que él la vea.
 
 **NAIO**
 *(sin aire)*
-…¿Vera? No. No, tú moriste. Yo te vi—
+…¿Vera? No. No, tú moriste. Yo te vi caer—
 
 **VERA**
-Está viva, Naio. Selka está viva.
+Me dejaron tirada en la sala del Orbe. Tres días.
+*(beat)*
+Marek entró por mí. Me sacó cargada entre los escombros. Me tuvo seis meses sin poder caminar.
+
+**NAIO**
+¿Quién es Marek?
+
+**VERA**
+El único que volvió a buscarme.
+
+Naio le agarra las manos entre los barrotes. Ella se arrodilla, para quedar a su altura.
+
+**VERA (CONT.)**
+Está viva, Naio. Selka está viva. Está aquí, arriba.
 *(la voz se le quiebra)*
 Pero ya no es… ya no es ella. Le metieron otra cosa adentro.
 
 **NAIO**
-No vayas. Si está con él, es una trampa. Te lo ruego.
+No subas. Si está con él, es una trampa. Te lo ruego.
+
+**VERA**
+*(baja la voz)*
+Escúchame primero. Puede que no vuelva a bajar, y esto no se lo he dicho a nadie.
+*(beat)*
+Todos crecimos creyendo que él es un dios. No envejece. No cambia. La gente lo mira y reza —yo también recé, Naio.
+Pero ponte a pensar: ¿y si no es un dios? ¿Y si solo es algo más viejo que nosotros? Algo que ya hizo esto antes, tantas veces, que aprendió a parecer eterno.
+
+**NAIO**
+…¿Qué estás diciendo?
+
+**VERA**
+Que un dios no necesita esconderse.
+*(lo mira fijo)*
+Llevo catorce años mirando su casa desde afuera. El palacio no tiene cimientos. No está construido sobre la ciudad: está **posado** encima. Alrededor no crece nada. Y el "meteorito" cayó el mismo año que él llegó.
+
+Silencio. Y en el ojo apagado de Naio, por primera vez en catorce años, se enciende el científico.
+
+**NAIO**
+*(muy despacio)*
+…Eso no es un palacio.
+
+**VERA**
+No sé qué es. Yo no puedo hacer nada con eso.
+*(le aprieta las manos)*
+Tú sí. Guárdalo. Piénsalo. Tú vives adentro de la respuesta.
+
+**NAIO**
+*(con miedo de verdad, aferrándola)*
+Vera. No subas.
 
 **VERA**
 *(le toma la cara, decidida)*
 Vuelvo por ti. Te lo juro. Pero primero voy por mi hija.
 
-Lo abraza. Y se va hacia el palacio. Naio estira la mano hacia ella en la niebla, sin alcanzarla.
+Lo besa en la frente, a través de los barrotes. Y se va por el pasillo, hacia arriba.
+
+Naio deja la mano estirada entre las rejas. La deja estirada mucho después de que ella desaparece.
 
 ---
 
 ## SEC. 20 — INT. PALACIO IMPERIAL — APOSENTOS DE LA GENERAL — [ERDIA · AÑO 14] — NOCHE
 
-Vera entra, encapuchada, con sus leales **KORIN** y **LESSA** cubriendo afuera. **MAREK** la acompaña hasta la puerta.
+Suben desde las celdas por escaleras de servicio. **KORIN** y **LESSA** se quedan cubriendo el pasillo. **MAREK** la acompaña hasta la puerta de los aposentos.
 
 **MAREK**
-Yo vigilo aquí. Si algo sale mal, corre. No mires atrás.
-*(le aprieta el hombro)*
-Tráela de vuelta.
+Si algo sale mal, corre. No mires atrás.
 
 Vera entra sola.
 
@@ -783,7 +881,7 @@ Sé lo que eres. Una rata de la resistencia. ¿Vienes a matarme mientras duermo?
 *(se baja la capucha)*
 Vengo por ti.
 
-Selka se gira. Ve la cara de Vera. Y algo, muy adentro, tiembla un microsegundo —antes de que el adiestramiento lo aplaste.
+Selka se gira. Mira la cara de Vera. Un segundo largo, ilegible.
 
 **SELKA**
 Traidora.
@@ -794,7 +892,7 @@ Se lanza al ataque. Pelean —pero Vera **no contraataca.** Esquiva, bloquea, re
 *(entre golpes)*
 No voy a lastimarte. No puedo. Mírame. **Mírame.**
 
-Y Selka, ante una enemiga que se niega a herirla, se desarma. El brazo le tiembla. Baja el arma. Algo en ella se rinde, sin entender por qué.
+Y Selka, ante una enemiga que se niega a herirla, se detiene. Baja el arma. El brazo le tiembla.
 
 Vera la envuelve en un abrazo. La aprieta como aprietan las madres.
 
@@ -822,7 +920,37 @@ Desde la puerta entreabierta, **KORIN** y **LESSA** lo ven todo: la General abra
 
 Vera resbala al piso. Mira la cara de Selka —esa cara— hasta el último segundo. Y muere creyéndolo.
 
-Selka se queda de pie sobre el cuerpo de su madre, el arma goteando, sin entender por qué le tiembla todo y por qué, de pronto, sin querer, está **tarareando una nana** que no recuerda haber aprendido.
+Selka se queda de pie sobre el cuerpo. El arma goteando.
+
+Y **sonríe.** Una sonrisa pequeña, satisfecha, que no le hemos visto nunca a la General.
+
+CORTE.
+
+---
+
+## SEC. 20A — INT. PALACIO IMPERIAL — APOSENTOS DE LA GENERAL — MÁS TARDE
+
+La puerta se abre. Entra **SELKA.**
+
+Se detiene.
+
+En el suelo de su cuarto perfecto hay una mujer muerta que no ha visto nunca. Boca arriba. Pelo blanco, como el suyo.
+
+Selka mira el cuerpo sin entender qué hace ahí. Y entonces se mira la mano.
+
+El arma. En su propia mano. Goteando.
+
+No recuerda haber entrado. No recuerda haber salido. No recuerda nada.
+
+Se le mueve algo en el pecho —algo sin nombre y sin causa— y le empieza a temblar todo el cuerpo. Se arrodilla junto a la desconocida sin saber por qué lo hace.
+
+Y sin querer, muy bajito, empieza a **tararear una nana** que no recuerda haber aprendido.
+
+Afuera, lejos, el eco de unos pasos que se alejan corriendo.
+
+Y EN LAS CELDAS, ABAJO: **NAIO**, agarrado a los barrotes, oyendo pasos que van y vienen toda la noche.
+
+Ninguno se detiene delante de él.
 
 CORTE A NEGRO.
 
@@ -834,13 +962,62 @@ CORTE A NEGRO.
 
 ---
 
-## SEC. 21 — EXT. ERDIA — PUERTO EN RUINAS — [ERDIA · AÑO 20] — DÍA
+## SEC. 20B — INT. NAVE NODRIZA — TALLER DE NIMA — NOCHE
 
-RÓTULO: **ERDIA · AÑO 20.**
+Primera imagen del acto: **agua oscura en un lavabo de metal.** Dentro, mechones de pelo blanco perdiendo el color.
+
+**NIMA** se lo tiñe con las cuatro manos. **STELLA**, sentada, con la cabeza inclinada, mirando el agua ponerse negra.
+
+**THERON**, en la puerta, de brazos cruzados.
+
+**THERON**
+Bajas. Miras. Subes. No tocas nada.
+
+**STELLA**
+Entendido.
+
+**THERON**
+*(beat)*
+No, no lo entiendes. Pero baja igual.
+
+Se va. Las dos se quedan solas con el ruido del agua.
+
+**NIMA**
+Va a tardar en salir. Meses.
+
+**STELLA**
+Bien.
+
+**NIMA**
+*(beat)*
+Tu madre tenía este pelo.
+
+**STELLA**
+*(sin levantar la cara)*
+Por eso.
+
+Nima no dice nada más. Le pasa una mano por la nuca —dos de las cuatro— y sigue trabajando.
+
+MÁS TARDE. Stella de pie frente a una plancha de metal pulido. Se mira. El pelo oscuro, la cara más dura, el **traje que le hizo Nima**. La que devuelve la mirada ya no se parece a nadie de su familia.
+
+**NOAH** entra por detrás y se frena medio segundo antes de reconocerla.
+
+**NOAH**
+…Perdón. Por un momento no eras tú.
+
+**STELLA**
+*(se pone la capucha)*
+De eso se trata.
+
+---
+
+## SEC. 21 — EXT. ERDIA — PUERTO EN RUINAS — [ERDIA · AÑO 24] — DÍA
+
+RÓTULO: **ERDIA · AÑO 24.**
 
 Lo que fue una ciudad dorada es hoy gris y partido en dos. Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca, un solo nombre tachado: **STELLA.**
 
-Una nave pequeña aterriza entre la chatarra. Bajan **BROG**, **NIMA**, **NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **STELLA**, ~19. Camuflada en su propio mundo.
+Una nave pequeña aterriza entre la chatarra. Bajan **BROG**, **NIMA**, **NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **STELLA**, ~20. Camuflada en su propio mundo.
 
 Pasa entre la gente. Y la gente, sin reconocerla, la mira con el odio que el Rey les enseñó. Un viejo escupe al oír su nombre en otra conversación.
 
@@ -856,7 +1033,7 @@ Un grupo de la resistencia los intercepta, armas en alto. Al frente, más viejo,
 
 Apunta a Stella. Ella se baja la capucha despacio. Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden de disparar.
 
-Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinte años, siempre pegada a su madre.
+Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinticuatro años, siempre pegada a su madre.
 
 **KORIN**
 *(la voz se le rompe)*
@@ -882,43 +1059,168 @@ Theron lo mira. No dice que sí. Tampoco se lo impide.
 
 ## SEC. 22 — INT. ERDIA — REFUGIO DE LA RESISTENCIA — DÍA
 
-Korin lleva a Stella ante un anciano esclavo recién liberado por la resistencia. Encorvado, ciego de un ojo, irreconocible.
+El refugio de siempre, más viejo, más lleno. Mapas sobre una mesa de chatarra. La resistencia se prepara: revisan armas de energía, reparten cargas.
 
-**NAIO.**
+**KORIN** extiende un plano dibujado a mano: el palacio.
 
-Stella se queda sin aire. Se acerca. Se arrodilla frente a él.
-
-**STELLA**
-*(apenas)*
-Papá.
-
-Naio levanta la cabeza. Busca su cara y no la encuentra —hasta que le toma la mano. Y siente, bajo la piel, la **llave de luz.** El Orbe. Latiendo.
-
-Se le llena el ojo bueno de lágrimas.
-
-**NAIO**
-Volviste. Veinte años. Te dije que no dejaras que él lo tuviera, y… mírate. Lo cuidaste. Toda tu vida.
-*(le toca el pelo teñido)*
-Mi niña del río.
+**KORIN**
+Atacamos al amanecer. Todo lo que tenemos.
+*(a Stella)*
+Hay algo que debes saber antes. Tu padre está vivo.
 
 **STELLA**
-Mamá está viva, papá. La vi. Voy a sacarlos a los dos de aquí. A Selka también. Te lo prometo.
+*(se le corta el aire)*
+¿Dónde.
 
-Naio le aprieta la mano. No tiene corazón para decirle lo que la resistencia cree que pasó con Vera. La deja ir con su esperanza intacta.
+**KORIN**
+Adentro. En las celdas del nivel de servicio. Veinticuatro años.
+*(beat)*
+Lo intentamos sacar dos veces. Las dos veces Marek nos convenció de que era suicidio.
+Y las dos veces tuvo razón… supongo.
+
+Stella mira el plano. Los sótanos. Un camino marcado.
+
+**STELLA**
+Mi madre está viva. La vi —mandó una señal al cielo, y me llegó a mí. ¿Dónde está? ¿Por qué no está aquí?
+
+Silencio. Korin y los veteranos cruzan miradas. A **LESSA** se le cae la vista al piso.
+
+**KORIN**
+*(despacio, como quien carga algo muy pesado)*
+Stella. Tu madre entró al palacio hace diez años. Por tu hermana.
+*(beat)*
+Yo estaba en la puerta. Lo vi.
+*(la mira a los ojos)*
+La General la abrazó. Y la mató. Tu madre murió en los brazos de tu hermana.
+
+Quietud. Stella no llora. No grita. Se queda muy quieta, como quien recibe un disparo y todavía no lo siente.
+
+**STELLA**
+*(un hilo)*
+…¿Hace diez años.
+
+**KORIN**
+Para ti menos, ya lo sé. Para nosotros, diez inviernos.
+
+Stella cierra la mano —la de la llave— hasta que los nudillos se le ponen blancos.
+
+**STELLA**
+*(a Korin, con una calma que da miedo)*
+Ustedes ataquen al amanecer. Hagan todo el ruido del mundo.
+*(marca los sótanos en el plano)*
+Yo entro por abajo. Por mi padre.
+
+**NOAH**
+*(desde atrás)*
+Entramos.
+
+Stella lo mira. No discute.
 
 ---
 
 ## SEC. 23 — EXT./INT. PALACIO IMPERIAL — EL ASALTO — DÍA
 
-La resistencia ataca. Estalla la guerra por las calles de niebla. Brog abre brechas a puñetazos; Nima inutiliza robots; Noah cubre a Stella.
+Amanece. La resistencia ataca. Estalla la guerra por las calles de niebla. Brog abre brechas a puñetazos; Nima inutiliza robots; los rebeldes de Korin empujan hacia la plaza. Todo el ruido del mundo.
 
-En el caos, un comando rescata a un grupo de esclavos clave —**Naio entre ellos**, puesto a salvo.
+ABAJO — una reja de servicio cede. Entran **STELLA** y **NOAH.**
 
-Stella tenía una misión de reconocimiento. La rompe. Sube. Escala el palacio entre disparos, sola, hacia la cúpula más alta —la **Sala del Trono.**
+Los pasillos estrechos. La humedad. Las rejas. El camino que Korin le marcó —el mismo por el que bajó su madre.
 
-Llega al techo de **cristal.** Abajo, en el centro de la sala, una figura blanca espera de pie, inmóvil, como si supiera que iba a venir.
+Celda por celda. Caras que no son. Hasta que una figura encorvada se arrastra hasta los barrotes.
 
-Stella rompe el cristal de un golpe del Orbe. Y **cae** al trono.
+**NAIO.** Ciego de un ojo. Irreconocible.
+
+Stella se arrodilla al otro lado de los barrotes.
+
+**STELLA**
+*(apenas)*
+Papá.
+
+Naio levanta la cabeza. Busca su cara y no la encuentra: el pelo no es el de ella, y el ojo bueno ya casi no sirve.
+
+Entonces mete la mano entre los barrotes. Y ella se la toma.
+
+Y él siente, bajo la piel de esa palma, la **llave de luz.** El Orbe. Latiendo.
+
+Se le llena el ojo bueno.
+
+**NAIO**
+Volviste. Veinticuatro años.
+*(le busca el pelo con los dedos)*
+Te dije que no dejaras que él lo tuviera, y… mírate. Lo cuidaste. Toda tu vida.
+*(beat)*
+Mi niña del río.
+
+**STELLA**
+*(mirando la celda, la cerradura, los años)*
+¿Por qué te dejó vivo?
+
+**NAIO**
+*(una sonrisa amarga)*
+Porque yo lo encripté en ti. Cree que yo sé cómo deshacerlo.
+*(beat)*
+Veinticuatro años sin sacarlo de la duda. Es lo único que he hecho bien aquí adentro.
+
+Stella ahueca la otra mano. La luz le sale de la palma, controlada —y corta los grilletes, uno por uno. La primera vez en toda la película que el Orbe sirve para algo pequeño y bueno.
+
+La reja cede. Naio sale al pasillo, tambaleándose. La abraza como se abraza lo que se creyó perdido.
+
+Y toma aire para decir su nombre —para gritárselo a todas las celdas—
+
+Y Stella le **tapa la boca.**
+
+**STELLA**
+*(bajito, urgente)*
+No. No digas quién soy.
+
+Naio la mira sin entender, con la mano de ella todavía en la boca.
+
+**STELLA (CONT.)**
+Para todos los de aquí yo soy la que vació el mundo. La ladrona.
+*(mira las otras celdas, las caras que escuchan en la penumbra)*
+Si saben que eres mi padre, no te sueltan: te usan para sacarme. O algo peor, delante de mí, para que yo salga.
+*(beat)*
+Vas a tener que ser un viejo cualquiera un rato más. ¿Puedes?
+
+Naio cierra los ojos. Y asiente, con la boca todavía tapada.
+
+Ella le quita la mano despacio. Y él —que llevaba veinticuatro años esperando decir ese nombre— se lo traga.
+
+**NAIO**
+*(un susurro, para nadie)*
+…Puedo.
+*(beat; le aprieta la mano)*
+Tu madre estuvo aquí. La última noche. De pie donde estás tú.
+Me juró que volvía por mí.
+
+**STELLA**
+*(la voz firme, rota por dentro)*
+Lo sé, papá. Ya lo sé todo.
+*(le besa la frente, donde Vera lo besó)*
+La cumplo yo.
+
+EXT. PALACIO — LA BRECHA — CONTINUO
+
+Salen a la luz por un boquete. La guerra ruge en la plaza. **BROG** llega abriendo una pared; **NIMA** detrás.
+
+Stella le entrega Naio a Brog, que lo alza con un cuidado imposible para esas manos.
+
+**NOAH**
+Ven con nosotros.
+
+**STELLA**
+*(mirando hacia arriba)*
+Todavía no.
+
+Naio, en brazos de Brog, gira la cabeza. Y lo último que ve de su hija es una mujer encapuchada escalando el palacio entre disparos, sola, hacia la cúpula más alta —la **Sala del Trono.**
+
+No sabe que va a caer.
+
+EN LO ALTO — Stella llega al techo de **cristal.** Abajo, en el centro de la sala, una figura blanca espera de pie, inmóvil, como si supiera que iba a venir.
+
+Stella tenía una promesa con Theron: mirar y volver. La rompe.
+
+Rompe el cristal de un golpe del Orbe. Y **cae** al trono.
 
 ---
 
@@ -926,9 +1228,9 @@ Stella rompe el cristal de un golpe del Orbe. Y **cae** al trono.
 
 Stella aterriza entre vidrios. Se levanta.
 
-Frente a ella, **SELKA** —la General, 21, blanca, perfecta, ojos gris-azul, cicatriz sobre el ojo izquierdo, sin un gesto.
+Frente a ella, **SELKA** —la General, 25, blanca, perfecta, ojos gris-azul, cicatriz sobre el ojo izquierdo, sin un gesto.
 
-Las dos hermanas, frente a frente, por primera vez en veinte años. Ninguna de las dos lo sabe del todo.
+Las dos hermanas, frente a frente, por primera vez en veinticuatro años. Solo una de las dos lo sabe.
 
 **SELKA**
 La ladrona. Volviste a la escena del crimen.
@@ -960,7 +1262,7 @@ Ahueca la palma. Una **chispa de Gix** baila en su mano. Y la levanta hacia la c
 
 El mismo gesto del laboratorio. El juego de la luz.
 
-Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinte años se remueve. Bajo la General, por un instante, asoma una niña.
+Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinticuatro años se remueve. Bajo la General, por un instante, asoma una niña.
 
 **SELKA**
 *(un susurro, perdida)*
@@ -1044,6 +1346,22 @@ Selka mira, sin entender, cómo el héroe del pueblo sale de su Rey.
 *(sonríe con la cara de Marek)*
 No había resistencia. Solo yo. Llevándolos a todos de la mano hacia el matadero.
 
+Camina despacio alrededor de Selka, con las manos a la espalda, como un maestro paciente.
+
+**"MAREK" (CONT.)**
+¿Y tu madre? Tu madre, sí. La dejé morir en el suelo de aquella sala. Y después volví por ella. La desenterré yo mismo. Seis meses de cama, catorce años de causa.
+*(beat)*
+Me servía. Una bandera con cara de mártir. Todo el que odiaba al Rey venía solo, se sentaba junto a mi fuego… y me contaba sus planes.
+*(se detiene; mira a Selka)*
+Y entonces creciste tú. El día que estuviste terminada, ella dejó de hacer falta.
+*(beat)*
+Pude borrarla en la calle. Un disparo, un derrumbe, cualquier cosa de un minuto.
+*(la sonrisa se le afila)*
+Pero llevaba catorce años cargándola. Me había ganado algo mejor.
+Quise verla irse despacio. Sabiendo que su hija la mataba. Quise que se fuera con eso puesto.
+*(beat)*
+Y se fue. Mirándote a los ojos. Odiándote con toda el alma.
+
 Y entonces toma la **última** forma. Se encoge. Se vuelve una **niña pequeña** —una bebé crecida apenas, de pelo blanco.
 
 **Selka. De niña.**
@@ -1053,13 +1371,13 @@ Con esa carita, la cosa se gira hacia la General. Y le habla con la voz más tie
 **"SELKA NIÑA"**
 Fuiste tú quien la mató. Al menos… eso creyó ella.
 *(ladea la cabeza)*
-Tu madre vino a salvarte. Y murió mirando esta cara. Odiándote con toda el alma.
-*(beat)*
 Porque la maté yo, pequeña. Vistiendo tu rostro. Te puse el cuchillo en la mano sin que lo supieras.
+*(abre la manita, como quien suelta algo)*
+Tú solo llegaste después. A recogerlo.
 
 Y ríe. Con la risita de una niña.
 
-Selka retrocede, la cabeza negando sola. Veinte años de certezas cayéndose de golpe.
+Selka retrocede, la cabeza negando sola. Veinticuatro años de certezas cayéndose de golpe.
 
 Ella **nunca mató a su madre.** Y su madre murió creyendo que sí.
 
@@ -1079,15 +1397,47 @@ ERA NUESTRA MADRE.
 
 ## SEC. 27 — INT. NAVE-PALACIO — CUBIERTA DEL TRONO — CONTINUO
 
-La cosa abandona todos los disfraces. Y toma su **forma real.**
+La cosa saborea el momento. Dos hermanas rotas en el mismo piso: su obra maestra.
+
+Y entonces mira el cuerpo de Stella. Y ve, bajo la piel del pecho, un **resplandor tenue.** Latiendo.
+
+No está muerta.
+
+Por primera vez en toda la película, esa cosa se queda absolutamente quieta.
+
+**VORTHAN**
+*(muy bajo, para sí)*
+…Eso no estaba ahí.
+
+La muerte que se dio el gusto de mirar, la agonía con la que jugó —no ocurrió. Algo diminuto, dentro de la niña, le arruinó el placer. Y no sabe qué es.
+
+Y al otro lado de la sala, Selka **deja de temblar.**
+
+No llora. No grita. Se le va todo de la cara, como cuando se apaga una pantalla. Se levanta. Recoge su hoja de luz del suelo.
+
+**SELKA**
+¿Cuántos años llevas usándome.
+
+**VORTHAN**
+*(divertido, recomponiéndose)*
+Veinticuatro.
+
+**SELKA**
+Entonces ya sé de memoria cómo se obedece.
+*(enciende la hoja)*
+Voy a hacerlo una vez más. Esta vez elijo yo a quién.
+
+Y ataca —no por rabia: para **cubrir el rescate de su hermana.**
+
+A Vorthan se le borra la sonrisa. Dos cosas fuera de control en un mismo minuto: la niña que no murió, y el arma que eligió bando.
+
+Y la cosa abandona todos los disfraces. No como un truco: como una **rabieta.** Toma su **forma real.**
 
 El **PARÁSITO.** Una criatura colosal, antigua, hecha de la luz robada de mil mundos. Lo que devora planetas. Lo que dejó hueco el corazón de Erdia.
 
 Llena la sala entera.
 
-Y **SELKA** —recién rota, recién humana otra vez, con una sola certeza nueva: que su hermana cruzó un universo por ella— se levanta. Toma su hoja de luz. Y se lanza contra el monstruo para **cubrir el rescate de Stella.**
-
-No le da la talla. Ni cerca.
+Selka no le da la talla. Ni cerca.
 
 El Parásito, casi sin notarlo, le **secciona el brazo** de un golpe. Selka cae, manca, pero viva.
 
@@ -1150,6 +1500,23 @@ Eso es lo único que la sostiene.
 *(beat)*
 Y se está apagando.
 
+**NAIO**
+*(sin apartar el ojo bueno del tanque)*
+Cazador. Dicen que ahora puedes seguirlo.
+
+**THERON**
+Adonde vaya.
+
+**NAIO**
+Seguirlo no basta. Cuando lo alcances… ¿sabes qué es? ¿Sabes cómo se le entra?
+*(beat)*
+Mi mujer lo entendió hace diez años. Me lo dejó guardado la noche que murió, porque sabía que yo era el único que podía pensarlo.
+Esa nave no tiene cimientos porque nunca los necesitó. Yo viví veinticuatro años en sus tripas, oyéndola respirar.
+*(ahora sí mira a Theron)*
+Yo sé por dónde se abre.
+
+Theron lo mira largo. Un cazador de veinte mil años, midiendo al viejo que acaba de convertirse en su mapa.
+
 **SELKA** entra. El brazo le falta; lo lleva vendado. La cara, la de alguien que perdió todo en una sola noche y todavía no sabe cómo se respira con eso.
 
 Se acerca a **Naio.** Su padre. Lo mira. Le toma la mano con la única que le queda.
@@ -1163,6 +1530,21 @@ No sabía. Nada. Me lo robaron todo y ni cuenta me di.
 Voy a volver. Voy a salvar lo que quede de Erdia. Te lo juro por ella.
 
 Naio, sin palabras, le aprieta la mano. La perdona con eso.
+
+Después se levanta, despacio, apoyándose en ella. Camina hasta el cristal del tanque.
+
+**NAIO**
+*(al cristal, bajito)*
+Se llama Stella.
+*(beat)*
+Es mi hija.
+
+La frase se queda en el aire, enorme. Nadie la corrige. Nadie la apura.
+
+**NAIO (CONT.)**
+Allá abajo me hizo prometerle que no dijera quién era.
+*(le tiembla la voz)*
+Ya lo dije. Ya puedo decirlo.
 
 Selka se vuelve hacia el tanque. Apoya la **palma** —la única— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que rompió el cristal del trono para llegar a ella, que se negó a matarla, que cruzó un universo para volver.
 
@@ -1192,6 +1574,12 @@ CORTE A NEGRO.
 ## NOTAS PARA LA PELÍCULA 2 (semillas plantadas)
 - **La brasa de Gix** apagándose = el reloj de Stella. ¿Cuánto le queda antes de que el corazón se detenga?
 - **Selka jura volver** y hereda la misión de su hermana: ella es la protagonista activa de la P2 mientras Stella duerme.
-- **Theron sabe adónde fue el Parásito** = el mapa de la cacería de la P2.
+- **Theron sabe adónde fue el Parásito** = el mapa de la cacería de la P2. Y algo más: su poder exige una
+  **referencia física**, y en la SEC 27 **por fin lo vio con sus propios ojos** — ahora sí puede rastrearlo.
+- **Theron entró DESPUÉS de la transformación:** vio solo la forma de Parásito. **Sigue sin saber que es un
+  cambiaformas.** Selka y Naio sí lo saben — contárselo (o callárselo) es una escena de la P2.
+- **Naio sabe qué es la nave-palacio y por dónde se abre** (el legado de Vera, SEC 19/29): el arma de la P2.
+- **Vorthan sabe que Stella no murió** (vio la brasa, SEC 27). La niña que se le escapó dos veces.
+- **La señal de Vera existe** (SEC 12/18): la voz de la madre, grabada. Una reliquia para las dos hermanas.
 - **Gix nació del ADN de Stella** (invento de Naio): puente para una posible revivificación.
 - Naio vivo; Vosk redimido; Noah enamorado; Brog y Nima, la familia que queda en pie.
