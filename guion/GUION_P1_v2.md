@@ -29,6 +29,9 @@
 > • **El acto 3 abre con el tinte y el permiso** (SEC 20B): Theron concede la misión de reconocimiento y
 >   Nima le tiñe el pelo. El pelo blanco es el rasgo de la línea de Vera: teñírselo es borrarse a su madre.
 > • **Erdia avanza 24 años** (antes 20): Stella vuelve de ~20, Selka tiene 25. Rótulos y diálogos al día.
+> • **Selka NO es General en el año 14:** tiene 15 y sigue siendo **cadete**, pero con aposentos dentro
+>   del palacio y el apoyo exclusivo del Rey, que la está criando él mismo. El título de General llega
+>   después. (Por eso Vera puede encontrarla ahí esa noche.)
 > • **Los dos legados de Vera:** la **señal lanzada al vacío** (SEC 12; es lo que Theron le entrega a Stella
 >   en la SEC 18) y el descubrimiento de que **el palacio no tiene cimientos** (SEC 19; se lo confía a Naio,
 >   y es el arma de la Película 2).
@@ -817,7 +820,9 @@ Naio le agarra las manos entre los barrotes. Ella se arrodilla, para quedar a su
 **VERA (CONT.)**
 Está viva, Naio. Selka está viva. Está aquí, arriba.
 *(la voz se le quiebra)*
-Pero ya no es… ya no es ella. Le metieron otra cosa adentro.
+Tiene quince años y todavía la llaman cadete, pero duerme en el palacio y el Rey no la suelta ni un día. La está criando él.
+*(beat)*
+Ya no es… ya no es ella. Le metieron otra cosa adentro.
 
 **NAIO**
 No subas. Si está con él, es una trampa. Te lo ruego.
@@ -871,7 +876,7 @@ Si algo sale mal, corre. No mires atrás.
 
 Vera entra sola.
 
-Adentro, de espaldas, está **SELKA** —la General. Joven, blanca, impecable, fría, de ojos gris-azul, con una cicatriz sobre el ojo izquierdo.
+Adentro, de espaldas, está **SELKA** —quince años, todavía cadete, pero con aposentos propios dentro del palacio: la protegida personal del Rey, y todo el mundo lo sabe. Blanca, impecable, fría, de ojos gris-azul, con una cicatriz reciente sobre el ojo izquierdo.
 
 **SELKA**
 *(sin voltear)*
@@ -912,7 +917,7 @@ Vera ahoga un grito. Su mano sube hasta la cara de Selka —esa cara— buscánd
 
 Selka la sostiene contra sí —el abrazo se vuelve otra cosa— y le **susurra algo al oído** que nosotros NO alcanzamos a oír.
 
-Desde la puerta entreabierta, **KORIN** y **LESSA** lo ven todo: la General abrazando a su madre, y el cuchillo. Marek llega un segundo tarde, la cara desencajada de horror.
+Desde la puerta entreabierta, **KORIN** y **LESSA** lo ven todo: la niña del Rey abrazando a su madre, y el cuchillo. Marek llega un segundo tarde, la cara desencajada de horror.
 
 **KORIN**
 *(susurro, retrocediendo)*
@@ -922,7 +927,7 @@ Vera resbala al piso. Mira la cara de Selka —esa cara— hasta el último segu
 
 Selka se queda de pie sobre el cuerpo. El arma goteando.
 
-Y **sonríe.** Una sonrisa pequeña, satisfecha, que no le hemos visto nunca a la General.
+Y **sonríe.** Una sonrisa pequeña, satisfecha, que no le hemos visto nunca a esa cara.
 
 CORTE.
 

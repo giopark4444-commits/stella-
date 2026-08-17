@@ -75,7 +75,7 @@ posado"**, el "meteorito" cayó el año que llegó el Rey, y un dios no necesita
 adentro de la respuesta. Guárdalo." Promete volver por él. Y sube por su hija.
 
 **14. [ERDIA] La muerte de Vera (el engaño) — en dos tiempos.**
-(a) En los aposentos, "**Selka**" pelea sin ser tocada, se deja abrazar… y **le clava el arma**, susurrando
+(a) En los aposentos de la **cadete de 15 años** —todavía no es General, pero el Rey la cría él mismo y le ha dado cuarto propio en el palacio— "**Selka**" pelea sin ser tocada, se deja abrazar… y **le clava el arma**, susurrando
 algo **al oído (oculto)**. Korin y Lessa lo ven desde la puerta. Vera muere creyéndolo. "Selka" **sonríe**.
 (b) MÁS TARDE: la **Selka real** entra a su cuarto. Una muerta que no conoce en el piso. **El arma en su
 propia mano.** Sin memoria de nada. Se arrodilla y, sin querer, **tararea una nana** que no recuerda haber

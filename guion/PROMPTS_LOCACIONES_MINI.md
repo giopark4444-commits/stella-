@@ -74,7 +74,7 @@ How would the forgotten cells beneath an alien palace look, where the empire kee
 ### @RefugioResistencia — el refugio de la resistencia
 How would the hidden shelter of a rebellion look, dug into the rubble of a dying city? Show me 4 examples. Ghibly style and water color painting.
 
-### @AposentosGeneral — los aposentos de la General
+### @AposentosGeneral — los aposentos de la cadete del Rey
 How would the bedroom of a child raised into a weapon look? Show me 4 examples. Not human architecture. Ghibly style and water color painting.
 
 ### @MinasNiebla — las minas de niebla *(solo ambiente)*
