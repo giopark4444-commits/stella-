@@ -1,100 +1,99 @@
-# PROMPTS DE LOCACIONES · VERSIÓN MINI — Stella Fugaz «El Nodo de Erdia»
+# PROMPTS DE LOCACIONES · VERSIÓN CONCEPTO — Stella Fugaz «El Nodo de Erdia»
 
-> **La fórmula que funciona** (probada por Gio, 2026-08-17):
+> **La regla: describir la IDEA, no el dibujo.** Nada de listas de rasgos, nada de paletas,
+> nada de formato. Solo qué es el sitio y qué significa en la historia — y un desvío corto
+> cuando hace falta apartarlo de lo genérico.
 >
-> 1. **Preguntar, no especificar.** «How would X look?» en vez de una ficha técnica.
-> 2. **Pedir 4 ejemplos.** Da variedad para elegir en vez de una sola apuesta.
-> 3. **Máximo 3-4 características.** Más que eso y el modelo las pelea entre sí.
-> 4. **Un solo desvío fuerte.** «Not built by humans / not Earth architecture» es lo que
->    evita que salga un decorado genérico de ciencia ficción.
-> 5. **Cola de estilo corta.** Sin nombres de estudio ni de autor: OpenAI los bloquea.
+> **La consistencia NO se consigue describiendo.** Se consigue generando la placa una vez y
+> **adjuntándola como referencia** en los planos siguientes. Por eso aquí no hace falta repetir
+> colores ni detalles: eso lo fija la imagen, no el texto.
 >
-> Cuando ya elegiste una imagen, quita el «Show me 4 examples» y repite el resto.
-> 24 locaciones. Formato 21:9.
+> Cuando ya elegiste una de las cuatro, quita el «Show me 4 examples» y repite el resto.
+> Sin nombres de estudio ni de autor: OpenAI los bloquea.
 
 ---
 
 # 起 ACTO 1 · Erdia viva y su caída
 
 ### @ErdiaSuperficieViva — la superficie viva con la grieta
-How would the living surface of a healthy alien planet look? Show me 4 examples. Green hills, forests and bright meadows under a blue sky, and one small dark crack in the ground. An alien world, not Earth. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would a living alien world look, healthy and green, with one small dark wound in the ground? Show me 4 examples. Hand-painted anime.
 
 ### @CorazonMuerto — el corazón muerto del planeta
-How would the dead hollow core of a planet look? Show me 4 examples. A colossal empty black cavern, lightless and silent, the size of a buried city. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the hollow dead centre of a planet look, where its heart should be beating and nothing is? Show me 4 examples. Hand-painted anime.
 
 ### @Erdia — el mundo desde la órbita
-How would a living planet look from orbit? Show me 4 examples. Wrapped in golden cloud, continents veined with glowing rivers of light. An alien world, not Earth. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would a living planet look from space, one that glows from the inside? Show me 4 examples. Hand-painted anime.
 
 ### @CiudadDorada — la metrópoli de miel y luzagua
-How would the golden city of an alien people look? Show me 4 examples. Warm honey-stone terraces, canals of glowing water, arched bridges. Not human architecture — not European, not medieval. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the golden capital of an alien people look, built around water that glows? Show me 4 examples. Not human architecture. Hand-painted anime.
 
 ### @ParqueLuzagua — el parque del río de luz
-How would a vast park on an alien world look? Show me 4 examples. A glowing river winding through wildflower meadows, and a giant flower-covered war machine kneeling in the distance. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would a park on an alien world look, where an old war machine was left to be swallowed by flowers? Show me 4 examples. Hand-painted anime.
 
 ### @Laboratorio — el laboratorio de @Naio
-How would the laboratory of an alien scientist look? Show me 4 examples. Pale curved organic-tech walls, floating holographic displays, clinical blue-white light. Not human technology. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the private laboratory of an alien scientist look, hidden inside his king's palace? Show me 4 examples. Not human technology. Hand-painted anime.
 
 ### @PasillosPalacio — los pasillos en alarma
-How would the corridors of an alien palace look under alarm? Show me 4 examples. Tall vaulted halls of gold and pale stone, long banners, pulsing red alert light. Not human architecture. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the corridors of an alien palace look on the night they become a trap? Show me 4 examples. Not human architecture. Hand-painted anime.
 
 ### @SalaDelOrbe — la cámara del Orbe
-How would a sacred chamber holding a world's heart look? Show me 4 examples. Cathedral scale, concentric glowing arches, a mirror floor, a sphere of light suspended at the centre. Not human architecture. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the sacred chamber where a world keeps its own heart look? Show me 4 examples. Not human architecture. Hand-painted anime.
 
 ### @PlazaPalacio — la gran plaza
-How would the great plaza of an alien palace look? Show me 4 examples. A vast paved square, tiered terraces, long banners, a high royal balcony. Not human architecture. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the great public square of an alien palace look, built to hold a whole city? Show me 4 examples. Not human architecture. Hand-painted anime.
 
 ### @EspacioErdia — el vacío sobre Erdia
-How would deep space above a small distant golden planet look? Show me 4 examples. Black star-field, absolute emptiness, the planet tiny and far. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would deep space look from very far out, with one small golden planet left behind? Show me 4 examples. Hand-painted anime.
 
 ### @CabinaStella — la cabina de la navecita
-How would the cockpit of a small alien escape ship look? Show me 4 examples. A curved glass canopy, a compact glowing dashboard, one worn seat. Not human technology. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the inside of a small alien escape ship look, meant for one person? Show me 4 examples. Not human technology. Hand-painted anime.
 
 ### @CieloCiudadDorada — el cielo de la persecución
-How would the sky above a golden alien city look during a chase? Show me 4 examples. Honey-stone towers below, warm haze, a dark fleet massing on the horizon. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the sky above a golden alien city look on the day an empire's fleet arrives? Show me 4 examples. Hand-painted anime.
 
 ---
 
 # 承 ACTO 2 · el exilio y Erdia pudriéndose
 
 ### @NodrizaInterior — dentro de la nave nodriza
-How would the inside of an ancient alien mothership look? Show me 4 examples. Cramped rusted corridors, a vast dim cargo hold, huge mechanical arms hanging overhead. Not built by humans. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the inside of an ancient alien mothership look, a home and a holding pen at the same time? Show me 4 examples. Not built by humans. Hand-painted anime.
 
 ### @PlanetaChatarra — el planeta chatarra
-How would a planet made of scrap look? Show me 4 examples. Endless dunes of dead ships and twisted metal, colossal rusted hulls like mountains, a sickly green-grey sky. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would a planet made entirely of dead ships look? Show me 4 examples. Hand-painted anime.
 
 ### @FosaApuestas — la Fosa de apuestas
-How would a lawless alien betting station look? Show me 4 examples. Market stalls above, a sunken dirt fighting pit below ringed by steep crowded stands, dirty neon. Not human. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would a lawless station at the edge of the galaxy look, where people are sold and made to fight for an audience? Show me 4 examples. Not human. Hand-painted anime.
 
 ### @PlanetaCometas — el planeta de los cometas
-How would a calm alien meadow under comets look? Show me 4 examples. Long slow comets streaking a deep violet sky, soft teal grass, floating motes of light. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would a quiet alien world look under a sky crossed by slow comets — a place to heal? Show me 4 examples. Hand-painted anime.
 
-### @CeldasPalacio — las celdas del nivel de servicio 🆕
-How would the cells beneath an alien palace look? Show me 4 examples. A narrow damp corridor, pale stone above and rust below, barred cells on both sides, a stair with gold light at the far end. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+### @CeldasPalacio — las celdas del nivel de servicio
+How would the forgotten cells beneath an alien palace look, where the empire keeps what it does not want seen? Show me 4 examples. Hand-painted anime.
 
 ### @RefugioResistencia — el refugio de la resistencia
-How would a hidden rebel shelter dug into rubble look? Show me 4 examples. Low ceiling, walls of salvaged scrap and hanging cloth, a small central fire. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the hidden shelter of a rebellion look, dug into the rubble of a dying city? Show me 4 examples. Hand-painted anime.
 
 ### @AposentosGeneral — los aposentos de la General
-How would the bedroom of a soldier raised as a weapon look? Show me 4 examples. Austere white-and-gold walls, nothing personal, one tall window with cold night light. Not human architecture. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the bedroom of a child raised into a weapon look? Show me 4 examples. Not human architecture. Hand-painted anime.
 
 ### @MinasNiebla — las minas de niebla *(solo ambiente)*
-How would fog-drowned mines on a dying world look? Show me 4 examples. Rusted scaffolds rising out of thick grey vapour, dim lamps in the murk, mud below. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the mines of a dying world look, drowned in fog? Show me 4 examples. Hand-painted anime.
 
 ---
 
 # 転結 ACTO 3 · el regreso
 
-### @ErdiaRuinas — la ciudad dorada en ruinas (Año 24)
-How would a once-golden alien city look a generation after its fall? Show me 4 examples. Grey and cracked, split by drifting fog, huge peeling murals of a king over rubble. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+### @ErdiaRuinas — la ciudad dorada en ruinas
+How would a golden city look a generation after it was hollowed out, with murals of its king standing over the rubble? Show me 4 examples. Hand-painted anime.
 
 ### @SalaTrono — la sala del trono
-How would a vast cold alien throne hall look? Show me 4 examples. An immense glass ceiling, one high throne on a raised dais, a mirror-polished floor. Not human architecture. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+How would the throne hall of an alien empire look, cold and far too large for one person? Show me 4 examples. Not human architecture. Hand-painted anime.
 
-### @SalaTronoAbierta — la sala transformándose en nave 🔒
-How would a palace hall look as it turns into the command deck of a starship? Show me 4 examples. Ornamented walls folding open into mechanical panels, ancient engine-light glowing up through the seams. Not built by humans. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+### @SalaTronoAbierta — la sala convirtiéndose en nave 🔒
+How would a palace hall look at the moment it stops being a room and becomes the bridge of a starship? Show me 4 examples. Not built by humans. Hand-painted anime.
 
-### @CieloAño24 — el cielo roto y el portal 🆕
-How would a sky torn open by a portal look? Show me 4 examples. A ruined grey city far below, smoke rising through ash clouds, a vast horizontal tear of cold light. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+### @CieloAño24 — el cielo roto y el portal
+How would a sky look with a portal torn open across it, above a city that is already dead? Show me 4 examples. Hand-painted anime.
 
-### @EnfermeriaNodriza — la enfermería de la nodriza 🆕
-How would the infirmary of an ancient alien ship look? Show me 4 examples. Riveted metal walls, one tall glass life-support tank glowing pale blue-green at the centre, empty. Not built by humans. Hand-painted 2D anime background, flat cel shading, wide 21:9.
+### @EnfermeriaNodriza — la enfermería de la nodriza
+How would the infirmary of an ancient alien ship look, the quietest room after a catastrophe? Show me 4 examples. Not built by humans. Hand-painted anime.
