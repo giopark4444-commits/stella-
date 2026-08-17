@@ -1,7 +1,7 @@
 # KEY FRAMES — ACTOS 2-4 (Shō · Ten · Ketsu) + NAVES
 
 > Fotograma clave de las escenas 5-33 (el Arranque/ESC 1-4 está en `KEYFRAMES_arranque.md`).
-> Generados con GPT Image 2 (16:9, Studio Ghibli hand-painted film still).
+> Generados con GPT Image 2 (16:9, hand-painted cel animation hand-painted film still).
 > base CDN: `https://d8j0ntlcm91z4.cloudfront.net/user_2xiUPlmEHgvD2pPzmlBd2jKDHRL/`
 > Son storyboard + start frames para video. Personajes descritos inline (pelo blanco = naieli).
 

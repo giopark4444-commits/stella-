@@ -18,7 +18,7 @@
 - **Set-pieces de acción:** 8 (A1-A8), coreografiados en `SECUENCIAS_ACCION.md`.
 - **Regla:** las escenas de acción duran **al menos el doble** — se desglosan en sub-clips (40A, 50B…).
 - **Acto 1:** 17 sub-clips de acción añadidos (la acción pasó de ~17 a ~34 planos).
-- **Formato:** 21:9 · 15s · SFX only · no blood / no guns · estilo Satoshi Kon + Ghibli.
+- **Formato:** 21:9 · 15s · SFX only · no blood / no guns · estilo cel animation, observational mood.
 
 ---
 

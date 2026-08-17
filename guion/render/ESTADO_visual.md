@@ -74,5 +74,5 @@
   *(la mayoría ya aparece integrada en los key frames)*
 
 > **Nota de producción:** GPT Image 2 estuvo soltando trabajos y rebotando descripciones
-> con menores/heridas o el token "Miyazaki". Solución: prompt corto `Studio Ghibli style
-> character sheet`, sin "Miyazaki", y respaldo en Nano Banana tras 2 fallos.
+> con menores/heridas o el token "warm hand-painted". Solución: prompt corto `hand-painted 2D anime style
+> character sheet`, sin "warm hand-painted", y respaldo en Nano Banana tras 2 fallos.

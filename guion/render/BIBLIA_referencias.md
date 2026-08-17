@@ -17,7 +17,7 @@
 
 **`@STYLE`** (look maestro — fijado por las láminas de referencia de Gio):
 ```
-traditional hand-painted 2D anime background art in the style of classic Studio Ghibli
+traditional hand-painted 2D anime background art in the style of classic hand-painted cel animation
 feature films (Nausicaä, Princess Mononoke, Castle in the Sky), gouache-and-watercolor
 texture with visible painterly brushwork, soft cel-shaded forms, lush hand-drawn organic
 detail, painterly volumetric cumulus clouds, gentle naturalistic light with luminous

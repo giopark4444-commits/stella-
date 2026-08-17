@@ -1,157 +1,170 @@
 # PROMPTS DE DISEÑOS · VERSIÓN MINI (GPT Image 2) — Stella Fugaz
 
-> Versión mínima: **solo el diseño**, descripción de **≤25 palabras**, y al final **painterly watercolor anime style**.
+> Versión mínima: **solo el diseño**, descripción de **≤25 palabras**, y al final **Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime style**.
 > Sin campos de estilo ni negativos. 48 elementos (6 naves · 11 props · 31 personajes).
 
 
 # 🚀 NAVES
 
 ### @NaveStella — la nave de huida de @Vera
-Make an object sheet of a small sleek single-seat naiel escape ship, smooth honey-white hull with gold seams and luzagua-blue running lights, curved glass canopy, compact and fast. painterly watercolor anime style.
+Make an object sheet of a small sleek single-seat naiel escape ship, smooth honey-white hull with gold seams and luzagua-blue running lights, curved glass canopy, compact and fast. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @NaveImperial — los cazas de la flota imperial
-Make an object sheet of a cold hard-edged imperial warship, angular dark steel-grey hull with gold trim, sharp menacing faceless silhouette — built to intimidate, one of many identical. painterly watercolor anime style.
+Make an object sheet of a cold hard-edged imperial warship, angular dark steel-grey hull with gold trim, sharp menacing faceless silhouette — built to intimidate, one of many identical. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @NaveAliada — las naves aliadas / de la resistencia
-Make an object sheet of a worn scrappy allied ship — a mismatched patched civilian craft repurposed for battle, dented plating, hand-painted markings, exposed repairs and welded panels. painterly watercolor anime style.
+Make an object sheet of a worn scrappy allied ship — a mismatched patched civilian craft repurposed for battle, dented plating, hand-painted markings, exposed repairs and welded panels. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
-### @NaveNodriza — la nave nodriza de @Theron
-Make an object sheet of @Theron's colossal ancient mothership, a vast old industrial hunter's vessel shaped like a metal whale carcass, hung with mechanical arms, chains and salvage. painterly watercolor anime style.
+### @NaveNodriza — la nave nodriza de @Theron · **CUATRO VARIANTES A PROBAR**
+> Es la nave que más sale en la película y la que peor se define en una sola frase. Estas cuatro
+> atacan **siluetas distintas**: genera las cuatro, elige una, y esa se vuelve canon.
+
+**A · La ballena** *(la del canon actual)*
+Object sheet of a colossal ancient mothership shaped like a whale's metal carcass: long ribbed hull, hanging claw-arms and chains, rows of dim portholes. Hand-painted 2D anime style, flat cel shading, simplified shapes.
+
+**B · El arrecife** *(acumulación de siglos)*
+Object sheet of a colossal mothership built from centuries of welded salvage: dozens of dead ships fused into one drifting reef of metal, uneven and asymmetric. Hand-painted 2D anime style, flat cel shading, simplified shapes.
+
+**C · La catedral industrial** *(vertical y solemne)*
+Object sheet of a colossal ancient mothership like a floating industrial cathedral: tall ribbed towers, long hanging chains, a cavernous open maw at its base. Hand-painted 2D anime style, flat cel shading, simplified shapes.
+
+**D · El cazador** *(la más agresiva)*
+Object sheet of a colossal ancient hunter's mothership: a long lean hull with a heavy harpoon-like prow, folded mechanical arms along its flanks, very few lights. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @NaveDePrisioneros — la nave de prisioneros
-Make an object sheet of a grim utilitarian prison-transport ship, blocky brutal and functional, hull lined with barred holding cells and cargo clamps — ugly, cruel, built to haul captives. painterly watercolor anime style.
+Make an object sheet of a grim utilitarian prison-transport ship, blocky brutal and functional, hull lined with barred holding cells and cargo clamps — ugly, cruel, built to haul captives. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @NavePalacio — el palacio que es en verdad una nave
-Make an object sheet of the imperial palace revealed as a colossal ancient starship — a cathedral of honey-stone and gold whose ornamental shell unfolds to expose alien machinery. painterly watercolor anime style.
+Make an object sheet of the imperial palace revealed as a colossal ancient starship — a cathedral of honey-stone and gold whose ornamental shell unfolds to expose alien machinery. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 
 # 🧩 PROPS
 
 ### @Orbe — el Orbe (corazón de luzagua)
-Make an object sheet of the Orb — a sphere of pure luzagua, water and light at once, pulsing slowly like a living heart, aqua-gold liquid swirling inside translucent surface. painterly watercolor anime style.
+Make an object sheet of the Orb — a sphere of pure luzagua, water and light at once, pulsing slowly like a living heart, aqua-gold liquid swirling inside translucent surface. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @MechaFlores — el mecha de guerra cubierto de flores
-Make an object sheet of a colossal ancient war-mecha kneeling for good, half-swallowed by nature, its armor overgrown with vines, moss and wildflowers, one knee to the ground. painterly watercolor anime style.
+Make an object sheet of a colossal ancient war-mecha kneeling for good, half-swallowed by nature, its armor overgrown with vines, moss and wildflowers, one knee to the ground. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Brazalete — el brazalete de @Stella (invoca a @Gix)
-Make an object sheet of @Stella's delicate naiel wrist band that summons @Gix — a slender elegant gold bracelet with a small luzagua-blue light-gem at its center that glows softly. painterly watercolor anime style.
+Make an object sheet of @Stella's delicate naiel wrist band that summons @Gix — a slender elegant gold bracelet with a small luzagua-blue light-gem at its center that glows softly. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @HojaSelka — el sable de luz de la General
-Make an object sheet of the General's elegant light-cutter sword — an ornate imperial white-and-gold hilt projecting a clean blade of hard light; refined, deadly, aristocratic. painterly watercolor anime style.
+Make an object sheet of the General's elegant light-cutter sword — an ornate imperial white-and-gold hilt projecting a clean blade of hard light; refined, deadly, aristocratic. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @CuchilloLaser — el cuchillo láser (herramienta)
-Make an object sheet of a small compact folding laser cutter-tool (not a weapon) — a palm-sized naiel gadget that projects a thin, short blue cutting light. painterly watercolor anime style.
+Make an object sheet of a small compact folding laser cutter-tool (not a weapon) — a palm-sized naiel gadget that projects a thin, short blue cutting light. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @CollarControl — el collar supresor
-Make an object sheet of a grim metal restraint collar that suppresses power — a heavy dark locking collar with a single hard red indicator light; crude and cruel. painterly watercolor anime style.
+Make an object sheet of a grim metal restraint collar that suppresses power — a heavy dark locking collar with a single hard red indicator light; crude and cruel. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @TrajeNuevo — el traje nuevo de @Stella (de @Nima)
-Make an object sheet of @Stella's new lightweight recon suit built by @Nima — a sleek flexible flight suit, matte panels with warm accent lines and a wrist monitor; capable. painterly watercolor anime style.
+Make an object sheet of @Stella's new lightweight recon suit built by @Nima — a sleek flexible flight suit, matte panels with warm accent lines and a wrist monitor; capable. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @LlaveDeLuz — la llave de luz (sigilo en la palma)
-Make an object sheet of a glowing key-sigil etched beneath the skin of an open palm — an intricate rune of soft warm light glowing just under the skin, pulsing gently. painterly watercolor anime style.
+Make an object sheet of a glowing key-sigil etched beneath the skin of an open palm — an intricate rune of soft warm light glowing just under the skin, pulsing gently. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @MonitorMAX — el monitor de muñeca (MAX)
-Make an object sheet of a small wrist charge-monitor — a compact naiel display showing a charge bar filled to maximum, glowing bright; a simple readable readout on a cuff. painterly watercolor anime style.
+Make an object sheet of a small wrist charge-monitor — a compact naiel display showing a charge bar filled to maximum, glowing bright; a simple readable readout on a cuff. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Proyector — el proyector de imagen (la foto)
-Make an object sheet of a small holographic image projector — a compact naiel device that throws a soft trembling holographic still into the air above it. painterly watercolor anime style.
+Make an object sheet of a small holographic image projector — a compact naiel device that throws a soft trembling holographic still into the air above it. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @TanqueSoporte — el tanque de soporte vital
-Make an object sheet of a tall vertical life-support tank — a cylindrical medical capsule filled with faintly glowing suspension fluid, ringed by soft tech lights and tubes. painterly watercolor anime style.
+Make an object sheet of a tall vertical life-support tank — a cylindrical medical capsule filled with faintly glowing suspension fluid, ringed by soft tech lights and tubes. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 
 # 👤 PERSONAJES
 
 ### @StellaRopa — @Stella, 14, ropa civil
-Make a character sheet of @Stella, a 14-year-old naiel girl, white hair in a long braid, warm amber eyes, freckles, slim athletic build, in simple earthy civilian clothes. painterly watercolor anime style.
+Make a character sheet of @Stella, a 14-year-old naiel girl, white hair in a long braid, warm amber eyes, freckles, slim athletic build, in simple earthy civilian clothes. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @StellaArmadura — @Stella, 14, traje de reconocimiento 04
-Make a character sheet of @Stella, 14, white hair in a long braid, amber eyes, freckles, in a grey-white recon suit / light armor marked with the number 04. painterly watercolor anime style.
+Make a character sheet of @Stella, 14, white hair in a long braid, amber eyes, freckles, in a grey-white recon suit / light armor marked with the number 04. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @StellaPeloCorto — @Stella, 15-18, traje 04, pelo corto
-Make a character sheet of @Stella, 15-18, short choppy freshly-cut white hair (braid gone), amber eyes, freckles, harder scarred athletic build, in the grey recon suit 04. painterly watercolor anime style.
+Make a character sheet of @Stella, 15-18, short choppy freshly-cut white hair (braid gone), amber eyes, freckles, harder scarred athletic build, in the grey recon suit 04. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @StellaTeñida — @Stella, ~19, pelo teñido oscuro
-Make a character sheet of @Stella, ~19, a hardened adult, short dark-dyed hair hiding white roots, amber eyes, faint freckles, lean battle-worn build, in a new dark suit. painterly watercolor anime style.
+Make a character sheet of @Stella, ~19, a hardened adult, short dark-dyed hair hiding white roots, amber eyes, faint freckles, lean battle-worn build, in a new dark suit. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @VeraRopa — @Vera, ~40, la madre en túnicas
-Make a character sheet of @Vera, ~40, @Stella's mother, long white hair partly bound, grey-blue eyes, warm kind maternal face, graceful build, in flowing naiel robes. painterly watercolor anime style.
+Make a character sheet of @Vera, ~40, @Stella's mother, long white hair partly bound, grey-blue eyes, warm kind maternal face, graceful build, in flowing naiel robes. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @VeraArmadura — @Vera en armadura de combate
-Make a character sheet of @Vera, ~40, the mother, long white hair, grey-blue eyes, warm face set fierce, powerful build, in pale metallic naiel combat armor. painterly watercolor anime style.
+Make a character sheet of @Vera, ~40, the mother, long white hair, grey-blue eyes, warm face set fierce, powerful build, in pale metallic naiel combat armor. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @VeraEncapuchada — @Vera, líder de la resistencia
-Make a character sheet of @Vera, older, hidden resistance leader, face shadowed under a worn hood, white hair strand escaping, grey-blue eyes, grief-carved weathered face. painterly watercolor anime style.
+Make a character sheet of @Vera, older, hidden resistance leader, face shadowed under a worn hood, white hair strand escaping, grey-blue eyes, grief-carved weathered face. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Naio — @Naio, ~45, padre/científico
-Make a character sheet of @Naio, ~45, @Stella's father and scientist, white-grey hair and short beard, round glasses, tired kind amber eyes, slender scholarly build, white coat. painterly watercolor anime style.
+Make a character sheet of @Naio, ~45, @Stella's father and scientist, white-grey hair and short beard, round glasses, tired kind amber eyes, slender scholarly build, white coat. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @NaioCautivo — @Naio anciano, cautivo de las minas
-Make a character sheet of @Naio, aged and broken mine bound worker, thin white hair and unkempt beard, tired amber eyes (one half-blind), gaunt lined face, bent frail body. painterly watercolor anime style.
+Make a character sheet of @Naio, aged and broken mine bound worker, thin white hair and unkempt beard, tired amber eyes (one half-blind), gaunt lined face, bent frail body. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @NaioRescatado — @Naio anciano, liberado
-Make a character sheet of @Naio, the aged father freed from captivity, thin white hair and beard, amber eyes (one clouded) brimming with emotion, gaunt face softened by relief. painterly watercolor anime style.
+Make a character sheet of @Naio, the aged father freed from captivity, thin white hair and beard, amber eyes (one clouded) brimming with emotion, gaunt face softened by relief. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @SelkaBebe — @Selka, bebé de 1 año
-Make a character sheet of @Selka, a 1-year-old baby, @Stella's little sister, a wisp of white hair, big grey-blue eyes, round chubby face, wrapped in cream-and-gold swaddle. painterly watercolor anime style.
+Make a character sheet of @Selka, a 1-year-old baby, @Stella's little sister, a wisp of white hair, big grey-blue eyes, round chubby face, wrapped in cream-and-gold swaddle. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @SelkaCadete — @Selka adolescente, cadete imperial
-Make a character sheet of @Selka, a teenage imperial cadet raised by the Empire, white hair in a neat bun, grey-blue eyes, cold disciplined face, faint left-eye scar. painterly watercolor anime style.
+Make a character sheet of @Selka, a teenage imperial cadet raised by the Empire, white hair in a neat bun, grey-blue eyes, cold disciplined face, faint left-eye scar. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @SelkaGeneral — @Selka, 21, la General imperial
-Make a character sheet of @Selka, 21, the cold imperial General, sleek severe white hair, grey-blue eyes, beautiful cold face with a distinct scar over the left eye. painterly watercolor anime style.
+Make a character sheet of @Selka, 21, the cold imperial General, sleek severe white hair, grey-blue eyes, beautiful cold face with a distinct scar over the left eye. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @SelkaNiña — @Selka de niña pequeña
-Make a character sheet of @Selka as a small child (apparition form), soft short white hair, big grey-blue eyes, sweet innocent little face, small delicate build, pale clothes. painterly watercolor anime style.
+Make a character sheet of @Selka as a small child (apparition form), soft short white hair, big grey-blue eyes, sweet innocent little face, small delicate build, pale clothes. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Gix — axolote de luz (NO humano)
-Make a character sheet of @Gix — NOT human: a small translucent axolotl-spirit of water and light, luzagua-blue body dusted with tiny golden star-points, sweet smiling face, big dark eyes. painterly watercolor anime style.
+Make a character sheet of @Gix — NOT human: a small translucent axolotl-spirit of water and light, luzagua-blue body dusted with tiny golden star-points, sweet smiling face, big dark eyes. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Vorthan — el Rey
-Make a character sheet of @Vorthan, the King and antagonist — tall, ageless, regal, a calm friendly smile that never reaches the eyes, commanding posture, ornate dark-and-gold robes. painterly watercolor anime style.
+Make a character sheet of @Vorthan, the King and antagonist — tall, ageless, regal, a calm friendly smile that never reaches the eyes, commanding posture, ornate dark-and-gold robes. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Marek — líder cálido de la resistencia
-Make a character sheet of @Marek, the warm charismatic resistance leader, an open trustworthy face with kind eyes and an easy inspiring smile, sturdy build, weathered naiel features. painterly watercolor anime style.
+Make a character sheet of @Marek, the warm charismatic resistance leader, an open trustworthy face with kind eyes and an easy inspiring smile, sturdy build, weathered naiel features. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Parasito — forma real de @Vorthan
-Make a character sheet of the Parasite, @Vorthan's true form — NOT humanoid: a colossal ~300m pitch-black mass of countless human faces that surface, cry and sink as it transforms. painterly watercolor anime style.
+Make a character sheet of the Parasite, @Vorthan's true form — NOT humanoid: a colossal ~300m pitch-black mass of countless human faces that surface, cry and sink as it transforms. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Theron — el Cazador (especie Threa)
-Make a character sheet of @Theron, the Hunter — a tall lean alien male of the Threa species, centuries-old bounty hunter, leathery skin, gaunt angular face, cold predatory eyes. painterly watercolor anime style.
+Make a character sheet of @Theron, the Hunter — a tall lean alien male of the Threa species, centuries-old bounty hunter, leathery skin, gaunt angular face, cold predatory eyes. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Brog — gigante de roca
-Make a character sheet of @Brog, a colossal silent rock giant, last of his kind — a living mountain of cracked grey stone, boulder shoulders, slab hands; gentle, immensely strong. painterly watercolor anime style.
+Make a character sheet of @Brog, a colossal silent rock giant, last of his kind — a living mountain of cracked grey stone, boulder shoulders, slab hands; gentle, immensely strong. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Nima — mecánica de cuatro brazos
-Make a character sheet of @Nima, a warm ingenious mechanic of an alien species with four functional arms, wiry adult female, clever kind weathered face, grease-smudged, the crew's engineer. painterly watercolor anime style.
+Make a character sheet of @Nima, a warm ingenious mechanic of an alien species with four functional arms, wiry adult female, clever kind weathered face, grease-smudged, the crew's engineer. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Noah — humano joven espadachín
-Make a character sheet of @Noah, a young human swordsman, late teens, lean and wiry, dirt-smudged face, messy DARK hair (not white), warm BROWN eyes, a raggedy blue scarf. painterly watercolor anime style.
+Make a character sheet of @Noah, a young human swordsman, late teens, lean and wiry, dirt-smudged face, messy DARK hair (not white), warm BROWN eyes, a raggedy blue scarf. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Vosk — matón enorme y cicatrizado
-Make a character sheet of @Vosk, a huge scarred alien brute, wall-like heavy-muscled build, thick neck, big fists, tough hide marked with many old scars; later a loyal ally. painterly watercolor anime style.
+Make a character sheet of @Vosk, a huge scarred alien brute, wall-like heavy-muscled build, thick neck, big fists, tough hide marked with many old scars; later a loyal ally. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Korin — veterano de la resistencia
-Make a character sheet of @Korin, an older weary naieli resistance fighter, weathered lined face, tired resolute eyes, greying dark hair (NOT white), gaunt from twenty years of struggle. painterly watercolor anime style.
+Make a character sheet of @Korin, an older weary naieli resistance fighter, weathered lined face, tired resolute eyes, greying dark hair (NOT white), gaunt from twenty years of struggle. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Lessa — leal de la resistencia
-Make a character sheet of @Lessa, a hardened naieli resistance fighter, an adult woman lean and gaunt, determined careworn face with a small old scar, dark auburn hair (NOT white). painterly watercolor anime style.
+Make a character sheet of @Lessa, a hardened naieli resistance fighter, an adult woman lean and gaunt, determined careworn face with a small old scar, dark auburn hair (NOT white). Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Piloto1 — piloto aliado (voz de radio)
-Make a character sheet of Piloto1, an allied fighter pilot (the radio voice), common-folk look, short dark hair (NOT white), determined face, in a fitted flight suit with harness. painterly watercolor anime style.
+Make a character sheet of Piloto1, an allied fighter pilot (the radio voice), common-folk look, short dark hair (NOT white), determined face, in a fitted flight suit with harness. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Piloto2 — segundo piloto aliado
-Make a character sheet of Piloto2, a second allied pilot with a distinct silhouette, common-folk look, cropped light-brown or ginger hair (NOT white), freckled weathered face, heavy flight suit. painterly watercolor anime style.
+Make a character sheet of Piloto2, a second allied pilot with a distinct silhouette, common-folk look, cropped light-brown or ginger hair (NOT white), freckled weathered face, heavy flight suit. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @Piloto3 — tercer piloto aliado
-Make a character sheet of Piloto3, a third allied pilot clearly distinct, common-folk look, dark shaved sides with a topknot or braids (NOT white), weathered alien face, flight suit. painterly watercolor anime style.
+Make a character sheet of Piloto3, a third allied pilot clearly distinct, common-folk look, dark shaved sides with a topknot or braids (NOT white), weathered alien face, flight suit. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @S1G1 — robot cazador esbelto
-Make a character sheet of @S1G1, a sleek dark assassin robot, tall slim lithe predatory build, matte black-grey plating that drinks the light, smooth segmented armor — a sentencing machine. painterly watercolor anime style.
+Make a character sheet of @S1G1, a sleek dark assassin robot, tall slim lithe predatory build, matte black-grey plating that drinks the light, smooth segmented armor — a sentencing machine. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @RobotImperial — soldado robot imperial
-Make a character sheet of RobotImperial, a standard imperial soldier robot, heavy humanoid in clean white-and-grey plating with gold trim, bulky armored torso, broad shoulders, NO face. painterly watercolor anime style.
+Make a character sheet of RobotImperial, a standard imperial soldier robot, heavy humanoid in clean white-and-grey plating with gold trim, bulky armored torso, broad shoulders, NO face. Hand-painted 2D anime style, flat cel shading, simplified shapes.
 
 ### @CazadorRecompensas — cazarrecompensas del planeta chatarra
-Make a character sheet of a rough local bounty hunter from the junk planet, grizzled alien-humanoid, hardened look, scrappy improvised outfit of salvaged scrap — mismatched armor plates. painterly watercolor anime style.
+Make a character sheet of a rough local bounty hunter from the junk planet, grizzled alien-humanoid, hardened look, scrappy improvised outfit of salvaged scrap — mismatched armor plates. Hand-painted 2D anime style, flat cel shading, simplified shapes.

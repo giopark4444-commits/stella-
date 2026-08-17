@@ -68,7 +68,7 @@ La trilogía es el desahogo de la densidad:
 ## ⚖️ EQUILIBRIO TONAL (recordatorio)
 El material es **muy oscuro** (mundos devorados, una niña que cree haber matado a su madre, los humanos
 como plaga, derrota total). Necesita la **calidez** (el humor de Nima, la ternura de Brog, la belleza de
-los paisajes) para no ser implacable. **El lado Ghibli equilibra al Kon.**
+los paisajes) para no ser implacable. **El lado hand-painted equilibra al Kon.**
 
 ---
 

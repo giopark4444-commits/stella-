@@ -40,7 +40,7 @@ hermana que por fin puede elegir quién ser. El brazalete late, negándose a apa
 
 ## Por qué esta lente le sienta mejor a Erdia
 - El Ten es REVELACIÓN, no clímax de acción — y "Fui yo" es de primer nivel.
-- El Ketsu RESTAURA un equilibrio (aquí doloroso), no "el héroe gana": tono Ghibli.
+- El Ketsu RESTAURA un equilibrio (aquí doloroso), no "el héroe gana": tono hand-painted.
 - Permite que el Shō RESPIRE (silencios "Ma") sin sentir que la trama no avanza.
 
 ## Proporción aproximada (de los ~89-100 min)

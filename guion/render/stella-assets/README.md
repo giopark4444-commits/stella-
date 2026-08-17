@@ -1,6 +1,6 @@
 # STELLA FUGAZ · "El Nodo de Erdia" (Película 1) — ASSETS VISUALES
 
-Carpeta de referencia visual de la peli. Todo generado con **GPT Image 2** (Studio Ghibli
+Carpeta de referencia visual de la peli. Todo generado con **GPT Image 2** (hand-painted cel animation
 style, 16:9, 2K), salvo 3 marcados *(nano)* hechos con **Nano Banana**.
 
 ## 📥 Cómo descargar las imágenes
@@ -102,6 +102,6 @@ Convención de nombre: `tag_descripcion_ESCxx.png` → sabes qué es y a qué es
 - VFX como ficha aislada (la mayoría ya viven dentro de los key frames)
 
 ## 📝 Notas de generación
-- Quitar el token **"Miyazaki"** del prompt reduce rebotes del filtro.
-- Formato que funciona: `Studio Ghibli style character sheet / background painting, 16:9`.
+- Quitar el token **"warm hand-painted"** del prompt reduce rebotes del filtro.
+- Formato que funciona: `hand-painted 2D anime style character sheet / background painting, 16:9`.
 - **Nano Banana** como respaldo tras 2 fallos en GPT Image 2 (orbe, sable_selka, selka_manca).

@@ -41,7 +41,7 @@ light**; small **living golden light-particles** drifting around it; a **warm go
 its translucent chest**. Palette: navy-teal luzagua blues + warm gold accents — **water-light, never cold
 steel-grey** (that belongs to the Empire).
 
-Style: Satoshi Kon–style anime, cinematic composition, cinematic mood, 2D hand-painted Ghibli touch,
+Style: cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look,
 fluid motion, film-grade lighting, soft grain. 21:9. Setting per scene (`@ParqueLuzagua`, `@Laboratorio`,
-`@SalaTrono`, `@TanqueSoporte`…). Negative: no blood, no gore, no guns, no on-screen text, no watermark;
+`@SalaTrono`, `@TanqueSoporte`…). Negative: no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no blood, no gore, no guns, no on-screen text, no watermark;
 not scary, not a fleshy real salamander, no cold steel-blue.

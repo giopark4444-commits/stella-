@@ -16,7 +16,7 @@ INGLÉS (o bilingüe)**, y dos frentes de audiencia en el pre-lanzamiento.
 
 | Frente | Idioma | Para qué | Dónde |
 |---|---|---|---|
-| **Principal (el dinero)** | 🇬🇧 Inglés | captar backers USA/UK — adoran el estilo Ghibli/anime | TikTok EN, IG EN, Reddit, YouTube |
+| **Principal (el dinero)** | 🇬🇧 Inglés | captar backers USA/UK — adoran el estilo hand-painted/anime | TikTok EN, IG EN, Reddit, YouTube |
 | **Base natural (lealtad)** | 🇪🇸 Español | tu núcleo duro, comparten mucho | TikTok ES, IG ES, Discords ES |
 
 - **El arte no necesita traducción** — sirve igual en ambos. Solo adaptas los **textos**.
@@ -42,7 +42,7 @@ este plan existe: para que el Día 1 ya tengas gente esperando.
 
 **Setup (Días 1-3)**
 - [ ] Abrir cuentas: **Instagram, TikTok, YouTube** (+ X opcional). Nombre coherente
-      (ej. @stellafugaz.film). Bio clara: "Película animada en desarrollo · Estilo Ghibli".
+      (ej. @stellafugaz.film). Bio clara: "Película animada en desarrollo · Estilo hand-painted".
 - [ ] Crear **landing page** con captura de correo (gratis: Mailchimp / Beehiiv / un Linktree
       con formulario). Mensaje: *"Sé el primero en saber cuándo lanzamos. Apóyala desde el día 1."*
 - [ ] Foto de perfil = un asset fuerte (Stella adulta o el logo). Banner = erdia_dorada.

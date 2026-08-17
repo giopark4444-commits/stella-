@@ -7,7 +7,7 @@
 > - `vN` = variante (v1, v2, …)
 > - Ejemplo: `LOC_01_erdia_dorada_v1`
 >
-> **Ajustes fijos:** Motor `gpt_image_2` (GPT Image 2 · OpenAI) · 16:9 · calidad high · 2k · estilo Studio Ghibli · location/character sheet.
+> **Ajustes fijos:** Motor `gpt_image_2` (GPT Image 2 · OpenAI) · 16:9 · calidad high · 2k · estilo hand-painted cel animation · location/character sheet.
 > Estados: ⬜ pendiente · ⏳ enviada (generando) · 🟢 generada (sin aprobar) · ✅ aprobada (con `ref_id`)
 
 ---
@@ -15,7 +15,7 @@
 ## 🌍 LOCACIONES
 
 ### Arranque `[PILOTO]` — prioridad
-> **Versión final:** rehechas con prompt corto `Studio Ghibli anime background painting, cinematic widescreen establishing shot, no characters. [1 frase]`. Estos job_ids son los buenos (se descartaron las versiones de prompt largo y las de Nano Banana).
+> **Versión final:** rehechas con prompt corto `hand-painted cel animation anime background painting, cinematic widescreen establishing shot, no characters. [1 frase]`. Estos job_ids son los buenos (se descartaron las versiones de prompt largo y las de Nano Banana).
 
 | # | Archivo | Tag | Locación | Escenas | job_id (final) |
 |---|---------|-----|----------|---------|----------------|
@@ -51,7 +51,7 @@
 
 ## 👤 PERSONAJES (character sheets)
 
-### Arranque `[PILOTO]` — todas en 16:9, Ghibli acentuado
+### Arranque `[PILOTO]` — todas en 16:9, hand-painted acentuado
 | # | Archivo | Tag | Personaje | Estado | ref_id (16:9) |
 |---|---------|-----|-----------|--------|---------------|
 | 01 | `CHAR_01_stella_14` | `@stella_14` | Stella (14 años) | 🟢 generada | `91f736eb` (prev) |
@@ -60,7 +60,7 @@
 | 04 | `CHAR_04_selka_4` | `@selka_4` | Selka (4 años, dormida) | 🟢 generada | `ed9c4bf8` (prev) |
 | 05 | `CHAR_05_naio` | `@naio` | Naio (padre) | 🟢 generada | `cb71672a` |
 
-### Más adelante `[futuro]` — todas en 16:9, Ghibli acentuado
+### Más adelante `[futuro]` — todas en 16:9, hand-painted acentuado
 | # | Archivo | Tag | Personaje | Estado | ref_id (16:9) |
 |---|---------|-----|-----------|--------|---------------|
 | 06 | `CHAR_06_selka_general` | `@selka_general` | Selka (la General) | 🟢 generada | `7bcc38fc` |
@@ -94,7 +94,7 @@
 
 ## 📊 Resumen
 - **Locaciones:** 19/19 ✅ (todas en GPT Image 2, 16:9; `erdia_podrida` y `palacio_podrido` en versión árido-gris; `sala_entrenamiento` árido-gris a juego)
-- **Personajes:** 14/14 ✅ (16:9, Ghibli acentuado; 12 en formato "single figure", stella_14 y selka_4 en versión previa por el filtro)
+- **Personajes:** 14/14 ✅ (16:9, hand-painted acentuado; 12 en formato "single figure", stella_14 y selka_4 en versión previa por el filtro)
 - **Props:** 5/5 ✅ (3 en GPT Image 2, orbe/sable en Nano Banana)
 - **TOTAL stills:** 38/38 ✅
 

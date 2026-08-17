@@ -4,9 +4,9 @@
 > Base que **se repite en cada prompt** de clip (Seedance 2.5). Definida por el autor.
 
 ## ESTILO DE CASA (string base)
-`Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime, cinematic composition, 2D hand-painted painterly painterly watercolor touch, 21:9, 20s.`
+`cel-animation anime, cinematic composition, 2D hand-painted painterly hand-painted touch, 21:9, 20s.`
 
-- **Look:** anime estilo classic 2D anime (realismo emocional, montaje, luz dramática) + textura pintada a mano cálida tipo painterly watercolor.
+- **Look:** anime estilo quiet observational (realismo emocional, montaje, luz dramática) + textura pintada a mano cálida tipo hand-painted.
 - **Formato:** **21:9** (cinemascope). Clips de **15 s**.
 - **Audio:** **sin música — solo efectos de sonido (SFX).** La música se agrega en edición.
 

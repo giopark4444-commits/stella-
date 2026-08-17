@@ -1,7 +1,7 @@
 # KEY FRAMES DEL ARRANQUE (Parte 1 · KI)
 
 > Fotograma clave (plano estrella) de cada uno de los 8 clips de `ARRANQUE_planos.md`.
-> Generados con GPT Image 2 (16:9, estilo Studio Ghibli, hand-painted film still).
+> Generados con GPT Image 2 (16:9, estilo hand-painted cel animation, hand-painted film still).
 > Sirven de **storyboard** y, al retomar video, de **start frame** de cada clip.
 > base CDN: `https://d8j0ntlcm91z4.cloudfront.net/user_2xiUPlmEHgvD2pPzmlBd2jKDHRL/`
 

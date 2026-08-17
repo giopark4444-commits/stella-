@@ -4,9 +4,9 @@
 > Base que **se repite en cada prompt** de clip (Seedance 2.0). Definida por el autor.
 
 ## ESTILO DE CASA (string base)
-`Satoshi Kon–style anime, cinematic composition, 2D hand-painted painterly Ghibli touch, 21:9, 15s.`
+`cel-animation anime, cinematic composition, 2D hand-painted painterly hand-painted touch, 21:9, 15s.`
 
-- **Look:** anime estilo Satoshi Kon (realismo emocional, montaje, luz dramática) + textura pintada a mano cálida tipo Ghibli.
+- **Look:** anime estilo quiet observational (realismo emocional, montaje, luz dramática) + textura pintada a mano cálida tipo hand-painted.
 - **Formato:** **21:9** (cinemascope). Clips de **15 s**.
 - **Audio:** **sin música — solo efectos de sonido (SFX).** La música se agrega en edición.
 
