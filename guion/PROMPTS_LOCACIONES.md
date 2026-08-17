@@ -1,6 +1,7 @@
 # PROMPTS DE LOCACIONES (GPT Image 2) — Stella Fugaz «El Nodo de Erdia»
 
-> **21 placas de locación (establishing), por acto.** Cada prompt describe UNA locación
+> **24 placas de locación (establishing), por acto.** 🆕 v2.2 añade `@CeldasPalacio`, `@CieloAño24` y
+> `@EnfermeriaNodriza`; `@MinasNiebla` baja a placa de ambiente (Naio nunca estuvo ahí). Cada prompt describe UNA locación
 > para generarla como fondo/ambiente en GPT Image 2. Son **sin personajes** (plates limpias):
 > genera la locación una vez y reúsala como referencia (@location) en los cuadros del storyboard.
 > **Todas empiezan con `Studio Ghibli style`.** Formato 21:9. Sin texto en la imagen.
@@ -121,6 +122,17 @@
 
 # 承 ACTO 2 · el exilio y Erdia pudriéndose
 
+### @CeldasPalacio — las celdas del nivel de servicio (bajo el palacio) 🆕 v2.2
+- **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
+- **Location:** Make a location sheet of the service-level holding cells buried beneath the imperial palace: a narrow, low corridor of pale honey-stone gone damp and grimy, lined on both sides with iron-barred cells; the ornament of a palace overhead, water stains and rust below; at the far end, a service stair climbing toward a single shaft of warm gold light.
+- **Key elements:** a long narrow vaulted corridor, rows of iron-barred cells on both sides, pale carved stone above meeting grime and rust below, dim hanging lamps, puddles on the floor, a stone service stair at the far end with gold light spilling down it.
+- **Light & atmosphere:** weak amber lamplight, deep shadow pooling between the cells, one distant shaft of warm gold from the stair; damp, close, silent.
+- **Palette:** pale honey-stone, damp grey-green, rust, weak amber lamplight, one warm gold accent.
+- **Mood:** the underside of a beautiful world — where the palace keeps what it does not want seen. The same corridor Vera walks in the SEC 19 and Stella ten years later.
+- **Negative:** no characters, no people, no text, no watermark, no logos.
+
+
+
 ### @NodrizaInterior — la nave nodriza de Theron
 - **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
 - **Location:** Make a location sheet of the interior of Theron's ancient mothership: cramped, grimy corridors and a cluttered cargo hold of cold old metal; huge mechanical arms hang from the ceiling like the ribs of a dead whale; condensation drips in the gloom.
@@ -164,6 +176,7 @@
 - **Light & atmosphere:** dim grey fog swallowing everything, cold weak lamplight, damp and heavy.
 - **Palette:** grey vapor, oxidized rust, weak amber lamplight.
 - **Mood:** oppressive, hopeless, a poisoned world.
+- **Notes (v2.2):** ⚠️ ya NO es escenario de escena — Naio nunca estuvo aquí. Se conserva como **placa de ambiente** de Erdia pudriéndose (el humo de las chimeneas que se ve en el acto 2).
 - **Negative:** no characters, no people, no text, no watermark, no logos.
 
 ### @RefugioResistencia — el refugio de la resistencia
@@ -205,3 +218,21 @@
 - **Palette:** cold marble white-grey, imperial dark gold, pale skylight.
 - **Mood:** intimidating power, cold emptiness, a throne that is really a helm.
 - **Negative:** no characters, no people, no text, no watermark, no logos.
+
+### @CieloAño24 — el cielo roto y el portal (Año 24) 🆕 v2.2
+- **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
+- **Location:** Make a location sheet of the sky above the ruined grey city at the end of the story: ash and smoke drifting over broken honey-stone towers far below, heavy clouds — and torn straight across them, a vast horizontal slash of cold light: a portal opened onto somewhere else entirely.
+- **Key elements:** the broken grey city small and far below, columns of smoke rising, ash-laden clouds, a huge horizontal tear of cold pale light splitting the sky, debris and dust drifting upward, deep aerial perspective.
+- **Light & atmosphere:** cold portal-light bleeding sideways over a grey smoke-filtered day; the wrong light in the wrong sky.
+- **Palette:** ashen grey, smoke brown, cold white-blue portal light, faded gold ruins below.
+- **Mood:** awe and dread — the wound in the sky where the monster leaves. NOT the golden chase sky of the Act 1 (`@CieloCiudadDorada`): this one is grey, broken and torn open.
+- **Negative:** no characters, no people, no spaceships, no text, no watermark, no logos.
+
+### @EnfermeriaNodriza — la enfermería de la nave de Theron 🆕 v2.2
+- **Style:** Studio Ghibli style — a wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), hand-painted anime background/environment art, painterly detail, soft cinematic lighting, soft grain, no characters. 21:9 aspect ratio, wide-angle lens.
+- **Location:** Make a location sheet of the infirmary aboard Theron's ancient mothership: a small, quiet chamber of old riveted industrial metal, softened by medical light; a tall vertical life-support tank stands at the centre filled with faintly glowing fluid (shown empty), ringed by tubes, cables and soft indicator lights; a worn bench and salvaged equipment along the walls, and a small viewport onto the stars.
+- **Key elements:** a central tall glass life-support tank (empty), riveted metal walls and low ceiling, hanging cables and tubes, a base console with soft indicator lights, a worn bench, a small round viewport with starfield.
+- **Light & atmosphere:** the tank's quiet blue-green glow doing most of the work, dim warm work-lights at the edges, gentle bubbles; hushed, still, the low hum of a ship.
+- **Palette:** cold steel grey-blue, rust, pale blue-green glowing fluid, dim amber accents.
+- **Mood:** stillness after catastrophe; fragile life held in suspension. This is the **last image of the film** — it has to feel like a held breath.
+- **Negative:** no characters, no people, no body in the tank, no text, no watermark, no logos.

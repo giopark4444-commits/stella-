@@ -34,9 +34,9 @@
 - **Notes:** Act 1-2, clips 57-88 onward; the years aboard @Theron's ship harden her.
 - **Negative:** gentle stylized action, no text, no watermark, no logos, only one character, no extra characters.
 
-### @StellaTeñida — @Stella, ~19, pelo teñido oscuro (camuflada)
+### @StellaTeñida — @Stella, ~20, pelo teñido oscuro (camuflada)
 - **Style:** painterly watercolor anime style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
-- **Character:** Make a character sheet of @Stella, ~19, older and hardened, hair dyed dark to move unseen on ruined Erdia, wearing the new suit @Nima built her.
+- **Character:** Make a character sheet of @Stella, ~20, older and hardened, hair dyed dark to move unseen on ruined Erdia, wearing the new suit @Nima built her.
 - **Appearance:** short-to-medium dark-dyed hair (white roots hidden); amber eyes; faint freckles; lean, strong, battle-worn adult build; fair skin, a little weathered; the @TrajeNuevo — a sleeker, self-built recon/combat suit in muted greys and warm accents, hood available; steady, resolute, guarded expression.
 - **Key features:** dark-dyed hair; amber eyes (unchanged); freckles; the new fitted combat suit; hardened, determined face.
 - **Palette:** dark hair, amber eyes, muted grey suit with warm accents, weathered golden skin.
@@ -79,18 +79,18 @@
 - **Notes:** Act 1, the lab. He created @Gix (tech for the common good).
 - **Negative:** gentle stylized action, no text, no watermark, no logos, only one character, no extra characters.
 
-### @NaioCautivo — @Naio anciano, cautivo de las minas
+### @NaioCautivo — @Naio anciano, cautivo del palacio
 - **Style:** painterly watercolor anime style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
-- **Character:** Make a character sheet of @Naio, now aged and broken, a mine bound worker under the Empire.
-- **Appearance:** thin white/grey hair and unkempt white beard; tired amber eyes, one half-blind and clouded; deeply lined, gaunt, aged face; bent, stooped, frail build; grimy fair skin; chained wrists, mine-bound worker rags, worn and dirt-caked; broken but not extinguished presence.
-- **Key features:** amber eyes (one clouded); gaunt aged bearded face; stooped chained posture; ragged mine-bound worker clothing.
+- **Character:** Make a character sheet of @Naio, now aged and worn down, an old man held for decades in a cell beneath the imperial palace.
+- **Appearance:** thin white/grey hair and unkempt white beard; tired amber eyes, one half-blind and clouded; deeply lined, gaunt, aged face; bent, stooped, frail build; pale skin that has not seen sun in decades, grimy; bound wrists, threadbare prisoner's rags; broken but not extinguished presence.
+- **Key features:** amber eyes (one clouded); gaunt aged bearded face; stooped posture with bound wrists; threadbare prisoner's rags; indoor pallor (no sun-weathering).
 - **Palette:** dull greys and browns of rags, white hair, amber eyes, grimy pale skin.
-- **Notes:** Act 2, the mines. Same man as @Naio, twenty years of suffering later. Keep the amber eyes.
+- **Notes:** Acto 2–3 (SEC 18, 19, 23). Cautivo del palacio, **NO de las minas** (canon v2.2). Mismo hombre que @Naio, veinticuatro años después. Ojos ámbar SIEMPRE. Etiqueta renombrada desde @NaioCautivo: la palabra disparaba al moderador.
 - **Negative:** gentle stylized action, no text, no watermark, no logos, only one character, no extra characters.
 
 ### @NaioRescatado — @Naio anciano, liberado
 - **Style:** painterly watercolor anime style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
-- **Character:** Make a character sheet of @Naio, the aged father freed from captivity, reunited with @Stella.
+- **Character:** Make a character sheet of @Naio, the aged father set free at last after decades in a cell, reunited with his daughter.
 - **Appearance:** thin white/grey hair and beard, a little cleaner and combed; amber eyes, one half-blind and clouded, brimming with emotion; gaunt lined aged face, softened by relief; still stooped and frail but no longer chained; fair skin; simple clean resistance-refuge clothing in muted warm tones, a blanket or shawl over the shoulders.
 - **Key features:** amber eyes (one clouded); gaunt aged bearded face; stooped frail build; freed, unchained, in simple clean clothes.
 - **Palette:** muted warm neutrals, white hair, amber eyes, pale skin.
@@ -115,13 +115,13 @@
 - **Notes:** Flashback / bridge between @SelkaBebe and @SelkaGeneral; military upbringing. Grey-blue eyes (@Vera's branch).
 - **Negative:** gentle stylized action, no text, no watermark, no logos, only one character, no extra characters.
 
-### @SelkaGeneral — @Selka, 21, la General imperial
+### @SelkaGeneral — @Selka, 25, la General imperial
 - **Style:** painterly watercolor anime style CHARACTER SHEET (model sheet / turnaround) — the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; hand-painted anime, soft cinematic lighting, soft grain. 21:9 aspect ratio.
-- **Character:** Make a character sheet of @Selka, 21, the cold imperial General, @Stella's grown sister who does not know it.
+- **Character:** Make a character sheet of @Selka, 25, the cold imperial General, @Stella's grown sister who does not know it.
 - **Appearance:** white hair, sleek and severe; grey-blue eyes; perfect, cold, beautiful face marked by a distinct scar over the left eye; tall, disciplined, powerful build; fair skin; ornate white-and-gold imperial General's armor, regal and immaculate; carries a light-cutter (@HojaSelka); icy, commanding, unreadable expression. (Later in Act 3 she becomes one-armed — missing an arm — after the throne-room events; her one-armed version can be shown as an alt.)
 - **Key features:** white hair; grey-blue eyes; scar over the left eye; white-and-gold imperial armor; light-cutter; cold perfect bearing. (Later: missing one arm / one-armed.)
 - **Palette:** white and gold armor, white hair, grey-blue eyes, fair skin.
-- **Notes:** Act 2-3. Grey-blue eyes (@Vera's branch). Scar over the left eye is obligatory; note the later one-armed (manca) state.
+- **Notes:** Acto 2–3. Ojos gris-azul (línea de @Vera). La cicatriz sobre el ojo izquierdo es obligatoria. **Edad 25** (canon v2.2: Erdia avanza 24 años; es CUATRO años mayor que @Stella, que vuelve de ~20). En el año 14 (SEC 20) tiene 15. Desde SEC 27 va **manca** — generar hoja alterna con: `shown with her left arm missing, the stump bandaged; her armor scorched and broken; the cold perfection gone from her face`.
 - **Negative:** gentle stylized action, no text, no watermark, no logos, only one character, no extra characters.
 
 ### @SelkaNiña — @Selka de niña pequeña 🔒

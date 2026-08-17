@@ -141,6 +141,30 @@
 - **Mood / notes:** the device that changes everything — proof her family lives. Show device with a faint empty holo glow.
 - **Negative:** no characters, no readable text, no watermark, no logos.
 
+### @PuñalSelka — el puñal imperial (el arma del año 14) 🆕 v2.2
+- **Style:** Studio Ghibli style, hand-painted anime concept art, clean dark neutral background, cinematic soft lighting, soft grain, OBJECT SHEET — the object shown clearly and centered on a clean neutral background, hero angle, no characters. 21:9 aspect ratio.
+- **Subject:** Make an object sheet of a short imperial dagger, small enough to hide in a sleeve: a slim white-and-gold ceremonial hilt and a plain narrow blade — elegant, discreet, made for close work. This is NOT the light-blade sword (@HojaSelka); it is the small hidden thing.
+- **Details:** slender sculpted white-gold grip with imperial motifs, a short plain blade, a discreet silhouette that disappears in a closed hand, a fitted sheath shown beside it.
+- **Finish & palette:** white and imperial gold hilt, pale steel blade, cold tones.
+- **Mood / notes:** beautiful and intimate, the wrong kind of small. Used in SEC 20 and found in the hand in SEC 20A. Show clean — the violence stays off the object.
+- **Negative:** no characters, no blood, no text, no watermark, no logos, no firearms.
+
+### @TransmisorVera — el transmisor de la resistencia 🆕 v2.2
+- **Style:** Studio Ghibli style, hand-painted anime concept art, clean neutral background, cinematic soft lighting, soft grain, OBJECT SHEET — the object shown clearly and centered on a clean neutral background, hero angle, no characters. 21:9 aspect ratio.
+- **Subject:** Make an object sheet of a small improvised signal transmitter built from stolen parts: a battered handmade device the size of a lunchbox, its casing salvaged and mismatched, a stubby folding antenna, one tiny recording lens and a single warm indicator light — a thing put together in secret, at night, by someone who is not an engineer.
+- **Details:** mismatched salvaged panels held with visible screws and tape, exposed wiring bundled at one side, a short folding antenna, a small lens, one warm amber indicator, a worn hand-turned dial.
+- **Finish & palette:** scavenged grey and rust metal, taped seams, warm amber indicator glow.
+- **Mood / notes:** humble, secret, made by hand. The object that carries a mother's voice across a universe (SEC 12 → SEC 18).
+- **Negative:** no characters, no text, no readable writing, no watermark, no logos.
+
+### @NaveStellaRota — la nave de Vera, destrozada 🆕 v2.2
+- **Style:** Studio Ghibli style, hand-painted anime concept art, clean neutral studio background, cinematic soft lighting, soft grain, VEHICLE SHEET / object sheet — the full craft shown clearly and centered on a clean neutral background, hero 3/4 angle, no characters. 21:9 aspect ratio.
+- **Subject:** Make an object sheet of the small honey-white escape ship after the crash and the hyper-jump: the same graceful civilian craft as @NaveStella, now scorched, buckled and cracked open; the canopy starred and broken, hull panels torn away, one fin gone, the warm gold seams gone dark and dead.
+- **Details:** blackened scorch marks across the pearlescent hull, a starred and shattered canopy, torn panels exposing structure, a missing fin, dead running lights, heavy clamp scars where mechanical arms gripped it.
+- **Finish & palette:** dirtied honey-white, soot black, dulled gold, no glow at all.
+- **Mood / notes:** the mother's lifeboat, spent. Derive directly from @NaveStella so the wreck reads as the same ship (SEC 10, hanging in the cargo bay like a caught fish).
+- **Negative:** no characters, no text, no watermark, no logos.
+
 ### @TanqueSoporte — el tanque de soporte vital
 - **Style:** Studio Ghibli style, hand-painted anime concept art, clean neutral background, cinematic soft lighting, soft grain, OBJECT SHEET — the object shown clearly and centered on a clean neutral background, hero angle, no characters. 21:9 aspect ratio.
 - **Subject:** Make an object sheet of a tall vertical life-support tank: a cylindrical medical capsule filled with faintly glowing suspension fluid, ringed by soft tech lights and tubes — the tank where Stella floats in a coma. Shown empty (no body inside).
