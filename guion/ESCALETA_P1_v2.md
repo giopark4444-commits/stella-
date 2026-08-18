@@ -1,8 +1,12 @@
-# ESCALETA — STELLA FUGAZ · PELÍCULA 1 "EL NODO DE ERDIA" (v2.2)
+# ESCALETA — STELLA FUGAZ · PELÍCULA 1 "EL NODO DE ERDIA" (v2.3)
 
-> Secuencia por secuencia, en orden de pantalla. Síntesis del `GUION_P1_v2.md` (revisión v2.2, 2026-08-17).
+> Secuencia por secuencia, en orden de pantalla. Síntesis del `GUION_P1_v2.md` (revisión v2.3, 2026-08-18).
 > Estructura 起承転結. 🔒 El cambio de forma de Vorthan es SECRETO hasta el clímax.
 > Marcadores **[ERDIA · AÑO X]** = saltos rotulados. (1 año de Stella = 4 de Erdia; **Erdia avanza 24 años**.)
+> **Cambios v2.3:** SEC 12A nueva (Selka a los 9 · el origen de la cicatriz · el segundo en que se
+> fabrica a la General) · **fuera la nana** · Selka es **cadete** en el año 14, no General · **el muelle**
+> en la confesión de Vorthan.
+>
 > Cambios v2.2: **Naio prisionero del palacio** (nunca en las minas) · la noche del año 14 entera dentro
 > del palacio · la SEC 20 partida en dos (el arma aparece en la mano de la Selka real) · acto 3 abre con
 > **el tinte y el permiso** · los **dos legados de Vera** (la señal + "el palacio no tiene cimientos") ·

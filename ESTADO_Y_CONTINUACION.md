@@ -2,7 +2,7 @@
 
 > **Documento de traspaso.** Si me abres desde otra sesión/dispositivo, lee esto primero:
 > resume el proyecto, el canon, qué está hecho, dónde vive cada cosa y qué falta.
-> Última actualización: **2026-08-17** · Revisión de guion **v2.2**.
+> Última actualización: **2026-08-18** · Revisión de guion **v2.3**.
 
 ---
 
@@ -12,8 +12,22 @@
 - La saga se dividió en 3 partes por decisión **narrativa** (sola / sola / dúo), NO porque P1 fuera larga. P1 es lean.
 - Logline: una niña huye de su mundo moribundo con la fuente de vida del planeta en la mano, con la promesa de volver, hacerse fuerte y salvar a la hermana que el enemigo le robó.
 
-## 📖 CANON DEL GUION — v2.2 (2026-08-17) ⚠️ LEER ANTES DE USAR LOS PROMPTS
-La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincronizada). Cambios v2.2:
+## 📖 CANON DEL GUION — v2.3 (2026-08-18) ⚠️ LEER ANTES DE USAR LOS PROMPTS
+La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincronizada). **32 secuencias.**
+
+**Cambios v2.3:**
+- **SEC 12A NUEVA — Selka a los 9.** Pelea contra un autómata de combate entero y pierde porque
+  **titubea**. Vorthan, avergonzado, le cruza el ojo izquierdo (única vez que se le rompe la cara).
+  Ella se levanta y **destroza al autómata sin titubear**, y sigue golpeando chatarra mucho después
+  de que dejó de moverse. **Es el segundo exacto en que se fabrica a la General.**
+- **La cicatriz tiene origen** y se cobra en la SEC 26.
+- **Fuera la nana** de todo el guion: en SEC 20A el remate es el pelo blanco de la muerta; en SEC 26,
+  encajar quién era («la del piso, la de mi cuarto»).
+- **Selka es CADETE en el año 14**, no General (15 años, aposentos en el palacio, criada por el Rey).
+- **El muelle (SEC 26):** Vorthan sostuvo la resistencia 24 años para dejarle a Stella dónde atracar.
+- Hojas nuevas: `@Selka9`, `@Selka9Herida`, `@SalaInstruccion`, `@AutomataInstruccion`.
+
+**Cambios v2.2:**
 - **Naio es PRISIONERO DEL PALACIO** (celdas del nivel de servicio) los 24 años — **nunca estuvo en las minas**.
   Vorthan lo conserva porque él encriptó el Orbe y es el único que podría saber cómo extraerlo.
 - **La noche del año 14 ocurre entera dentro del palacio:** Marek le abre a Vera una reja de servicio;

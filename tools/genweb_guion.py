@@ -22,7 +22,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 MD = RAIZ / "guion" / "GUION_P1_v2.md"
 WEB = RAIZ / "guion" / "GUION_WEB.html"
 APP = RAIZ / "STELLA_FUGAZ.html"
-VERSION = "v2.2"
+VERSION = "v2.3"
 
 CUE_RE = re.compile(r"^\*\*(.+)\*\*$")
 
@@ -139,10 +139,10 @@ def main() -> None:
     print(f"STELLA_FUGAZ.html   {len(app_actual):>9,} → {len(nueva_app):>9,} bytes")
 
     # sanidad mínima: las escenas nuevas deben estar en el HTML
-    for marca in ("SEC. 20A", "SEC. 20B", "AÑO 24", "CELDAS DEL NIVEL DE SERVICIO"):
+    for marca in ("SEC. 12A", "SEC. 20A", "SEC. 20B", "AÑO 24", "CELDAS DEL NIVEL DE SERVICIO", "SALA DE INSTRUCCIÓN"):
         if marca not in nuevo_web:
             raise SystemExit(f"✗ sanidad: falta «{marca}» en el HTML generado")
-    print("✓ sanidad OK (20A, 20B, AÑO 24, celdas presentes)")
+    print("✓ sanidad OK (12A, 20A, 20B, AÑO 24, celdas, sala de instrucción)")
 
     if args.apply:
         WEB.write_text(nuevo_web, encoding="utf-8")

@@ -21,6 +21,22 @@
 > • **Vestuario de Stella:** ropa civil (parque) → armadura "04" con trenza (lab/huida) → armadura con **pelo
 >   corto** tras cortarse la trenza → **pelo teñido de oscuro + traje de Nima** (acto 3, SEC 20B).
 >
+> **Revisión v2.3 (2026-08-18):**
+> • **SEC 12A NUEVA — Selka a los 9 y el origen de la cicatriz.** Pelea contra un autómata de combate
+>   entero y pierde porque **titubea**. Vorthan, avergonzado, le cruza el ojo izquierdo — la única vez en
+>   toda la película que se le rompe la cara. Ella se levanta y **destroza al autómata sin titubear**,
+>   y sigue golpeando chatarra mucho después de que dejó de moverse. Él consigue en cuatro segundos lo
+>   que no consiguió en ocho años. **Es el segundo exacto en que se fabrica a la General.**
+> • **La cicatriz tiene origen** (antes aparecía en las hojas sin explicación) y **se cobra en la SEC 26**:
+>   antes de quebrarse, Selka se lleva la mano al ojo — al día en que la fabricó.
+> • **Fuera la nana.** Lo que rompe a Selka ya no es una canción: en la SEC 20A se queda mirando el
+>   **pelo blanco** de la muerta (igual que el suyo), y en la SEC 26 encaja quién era *(«la del piso, la
+>   de mi cuarto»)*.
+> • **Selka NO es General en el año 14:** tiene 15 y sigue siendo **cadete**, pero con aposentos dentro
+>   del palacio y el apoyo exclusivo del Rey, que la cría él mismo. Por eso Vera puede encontrarla ahí.
+> • **El muelle (SEC 26):** Vorthan sostuvo la resistencia 24 años para dejarle a Stella un sitio donde
+>   atracar al volver. No podía cruzar el cielo a buscar el Orbe; solo podía dejar la puerta abierta.
+>
 > **Revisión v2.2 (2026-08-17):**
 > • **Naio es prisionero del palacio** (nunca estuvo en las minas): Vorthan lo conserva porque él encriptó
 >   el Orbe y es el único que podría saber cómo extraerlo. Se guarda una llave cerca.
@@ -30,16 +46,11 @@
 > • **El acto 3 abre con el tinte y el permiso** (SEC 20B): Theron concede la misión de reconocimiento y
 >   Nima le tiñe el pelo. El pelo blanco es el rasgo de la línea de Vera: teñírselo es borrarse a su madre.
 > • **Erdia avanza 24 años** (antes 20): Stella vuelve de ~20, Selka tiene 25. Rótulos y diálogos al día.
-> • **Selka NO es General en el año 14:** tiene 15 y sigue siendo **cadete**, pero con aposentos dentro
->   del palacio y el apoyo exclusivo del Rey, que la está criando él mismo. El título de General llega
->   después. (Por eso Vera puede encontrarla ahí esa noche.)
 > • **Los dos legados de Vera:** la **señal lanzada al vacío** (SEC 12; es lo que Theron le entrega a Stella
 >   en la SEC 18) y el descubrimiento de que **el palacio no tiene cimientos** (SEC 19; se lo confía a Naio,
 >   y es el arma de la Película 2).
 > • **Marek rescató a Vera** de la sala del Orbe (sembrado en SEC 19, detonado en SEC 26): la resistencia
->   entera es una red de Vorthan — y además su **muelle**. No podía cruzar el cielo a buscar el Orbe, así
->   que sostuvo la guerrita 24 años para que Stella tuviera dónde atracar al volver. Por eso Selka la
->   espera de pie en la SEC 23 «como si supiera que iba a venir».
+>   entera es una red de Vorthan.
 
 ---
 
