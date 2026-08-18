@@ -6,7 +6,8 @@
 > Cambios v2.2: **Naio prisionero del palacio** (nunca en las minas) · la noche del año 14 entera dentro
 > del palacio · la SEC 20 partida en dos (el arma aparece en la mano de la Selka real) · acto 3 abre con
 > **el tinte y el permiso** · los **dos legados de Vera** (la señal + "el palacio no tiene cimientos") ·
-> **Marek rescató a Vera** (la resistencia es una red de Vorthan).
+> **Marek rescató a Vera** (la resistencia es una red de Vorthan) · **SEC 12A nueva**: Selka a los 9 y
+> el origen de la cicatriz.
 
 ---
 
@@ -49,6 +50,14 @@ extraerlo. *(Una llave se guarda cerca.)*
 encapuchada** — *es Vera* (el público no lo sabe). Esa noche, a solas, Vera graba y **lanza una señal
 al vacío**: "Tu padre está vivo. Lo tienen en las celdas del palacio. Hazte fuerte. Y vuelve." Es lo
 único que no le ha contado a nadie. Ni siquiera a Marek.
+
+**8A. [ERDIA · AÑO 8] Cómo se hace un arma.** Corte directo del refugio al palacio: **Selka, 9 años**,
+entrenando sola en una sala blanca enorme. Se niega a rematar a un autómata *(«me está mirando»)* y
+Vorthan lo hace por ella, explicándole que la lástima es por donde te abren. Entonces la niña pregunta
+si alguna vez tuvo a alguien **antes de él** — y por primera y única vez en la película **al Rey se le
+rompe la cara**: le cruza el ojo izquierdo de un golpe. **Ahí nace la cicatriz.** Después se arrodilla,
+dulcísimo, y le explica que se lo hizo ella por preguntar: *«No había nadie. Nunca hubo nadie. Solo yo.»*
+Y ordena que se la curen **pero que se vea**. La niña no llora.
 
 **9. El pozo (el encuentro con los humanos).** Cazarrecompensas **capturan a Stella** (la ladrona más
 buscada) y la venden a una **estación con subasta + casas de apuestas**. **Fuerzan a Stella y a Noah a

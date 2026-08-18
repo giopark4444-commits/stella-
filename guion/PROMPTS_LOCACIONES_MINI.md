@@ -56,6 +56,9 @@ How would the sky above a golden alien city look on the day an empire's fleet ar
 
 # 承 ACTO 2 · el exilio y Erdia pudriéndose
 
+### @SalaInstruccion — la sala de instrucción 🆕
+How would a training hall inside an alien palace look, built to take something out of a child? Show me 4 examples. Tall, white and almost empty. Ghibly style and water color painting.
+
 ### @NodrizaInterior — dentro de la nave nodriza
 How would the inside of an ancient alien mothership look, a home and a cage at the same time? Show me 4 examples. Not built by humans. Ghibly style and water color painting.
 

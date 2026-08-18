@@ -60,6 +60,12 @@ How would a woman look who everyone believes is dead, leading a rebellion with h
 ### @NaioCautivo — Naio, cautivo del palacio
 How would a man look after decades in a cell beneath a palace, kept alive only because he knows something? Show me 4 examples. Ghibly style and water color painting.
 
+### @Selka9 — Selka, 9 años 🆕
+How would a nine-year-old girl look who is being raised as a weapon inside an alien palace? Show me 4 examples. No scar yet. Ghibly style and water color painting.
+
+### @Selka9Herida — Selka, 9 años, recién marcada 🆕
+How would that same nine-year-old girl look right after being struck across the face, her hand over her left eye, refusing to cry? Show me 4 examples. Ghibly style and water color painting.
+
 ### @SelkaCadete — Selka, cadete imperial
 How would a teenage cadet look, raised by the empire that stole her? Show me 4 examples. Ghibly style and water color painting.
 

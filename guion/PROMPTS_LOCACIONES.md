@@ -1,6 +1,6 @@
 # PROMPTS DE LOCACIONES (GPT Image 2) — Stella Fugaz «El Nodo de Erdia»
 
-> **24 placas de locación (establishing), por acto.** 🆕 v2.2 añade `@CeldasPalacio`, `@CieloAño24` y
+> **25 placas de locación (establishing), por acto.** 🆕 v2.2 añade `@CeldasPalacio`, `@CieloAño24` y
 > `@EnfermeriaNodriza`; `@MinasNiebla` baja a placa de ambiente (Naio nunca estuvo ahí). Cada prompt describe UNA locación
 > para generarla como fondo/ambiente en GPT Image 2. Son **sin personajes** (plates limpias):
 > genera la locación una vez y reúsala como referencia (@location) en los cuadros del storyboard.
@@ -132,6 +132,15 @@
 - **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no characters, no people, no text, no watermark, no logos.
 
 
+
+### @SalaInstruccion — la sala de instrucción de la cadete 🆕 v2.2
+- **Style:** 2D hand-painted anime film background, cel-animation matte painting — broad simplified shapes and flat painted masses rather than fine detail, restrained texture, clean readable silhouettes, soft brushwork with visible painted edges; strong atmospheric perspective with the distance fading pale; warm cinematic light, soft grain. A wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), no characters. 21:9 aspect ratio, wide-angle lens.
+- **Location:** Make a location sheet of a training hall inside an imperial palace: a tall, white, echoing room, almost empty, with a polished floor and one high window letting in cold night light; padded posts and a rack of practice blades along one wall; a few broken training automatons pushed into a corner.
+- **Key elements:** enormous white empty hall, very high ceiling, mirror-polished floor, one tall window with cold night light, padded training posts, a rack of blades, dismantled practice automatons in a corner, nothing decorative.
+- **Light & atmosphere:** cold white light from above and blue night from the window; clinical, echoing, far too big for one child.
+- **Palette:** white, pale grey, cold blue night, thin gold trim.
+- **Mood:** a beautiful room built to take something out of a person. Empty in a way that feels deliberate.
+- **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no characters, no people, no text, no watermark, no logos.
 
 ### @NodrizaInterior — la nave nodriza de Theron
 - **Style:** 2D hand-painted anime film background, cel-animation matte painting — broad simplified shapes and flat painted masses rather than fine detail, restrained texture, clean readable silhouettes, soft brushwork with visible painted edges; strong atmospheric perspective with the distance fading pale; warm cinematic light, soft grain. A wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), no characters. 21:9 aspect ratio, wide-angle lens.

@@ -97,6 +97,15 @@
 - **Notes:** Act 3, freed and reunited. Derive from @NaioCautivo; gentler, unchained. Keep the amber eyes.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no text, no watermark, no logos, only one character, no extra characters.
 
+### @Selka9 — @Selka, 9 años, en instrucción 🆕 v2.2
+- **Style:** 2D hand-painted anime CHARACTER SHEET (model sheet / turnaround), cel-animation style — clean line work, flat cel shading with simple shadow shapes, restrained detail; the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; soft cinematic lighting, soft grain. 21:9 aspect ratio.
+- **Character:** Make a character sheet of @Selka at nine years old, a child being trained as a weapon inside an imperial palace.
+- **Appearance:** white hair pulled back with discipline; grey-blue eyes; a small, serious, tired face with no childishness left in it; slight, wiry nine-year-old build, all knees and elbows; fair skin; a plain white-and-grey training uniform, well made and worn thin at the elbows; a short light-cutter held with both hands because one is not enough yet.
+- **Key features:** white hair tied back; grey-blue eyes; **NO scar yet** — she gets it in this very scene; nine years old, small and wiry; plain training uniform; too serious for her age.
+- **Palette:** white and pale grey uniform, white hair, grey-blue eyes, fair skin.
+- **Notes:** Acto 2, SEC 12A. Es el único puente entre @SelkaBebe (1 año) y @SelkaCadete (15). **Sin cicatriz** — @Vorthan se la hace al final de la escena. Genera también una variante con la herida recién hecha sobre el ojo izquierdo, la mano en la cara, luz escapándose entre los dedos (nunca estirpe).
+- **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no scar, no text, no watermark, no logos, only one character, no extra characters.
+
 ### @SelkaBebe — @Selka, bebé de 1 año
 - **Style:** 2D hand-painted anime CHARACTER SHEET (model sheet / turnaround), cel-animation style — clean line work, flat cel shading with simple shadow shapes, restrained detail; the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Make a character sheet of @Selka, a 1-year-old baby, @Stella's little sister.

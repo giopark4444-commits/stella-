@@ -11,7 +11,8 @@
 >
 > **Ajustes de canon (v2.1):**
 > • **Ojos:** **@Vera** y **@Selka** tienen **ojos gris-azul** (consistencia visual).
-> • **Cicatriz:** **@Selka** tiene una **cicatriz sobre el ojo izquierdo** desde joven soldado/cadete en adelante (no de bebé ni de niña).
+> • **Cicatriz:** **@Selka** tiene una **cicatriz sobre el ojo izquierdo** desde los **9 años** — se la hace
+>   **@Vorthan** de un golpe en la SEC 12A. Antes de eso (bebé) NO la tiene; de ahí en adelante SIEMPRE.
 > • **Geografía:** el **laboratorio de @Naio está DENTRO del palacio imperial** (@Naio es el científico del Rey). Por eso la huida **lab → pasillos → Sala del Orbe** es continua, en un mismo edificio.
 > • **Pelo blanco:** es el **voto naieli de la familia** (@Stella, @Vera, @Naio, @Selka). La **resistencia y los
 >   pilotos NO** son todos de pelo blanco. Los **aliados que salvan a @Stella son 3 pilotos** de aspecto variado.
@@ -600,6 +601,95 @@ Es lo único, en ocho años de resistencia, que no le ha contado a nadie. Ni siq
 
 ---
 
+## SEC. 12A — INT. PALACIO IMPERIAL — SALA DE INSTRUCCIÓN — [ERDIA · AÑO 8] — NOCHE
+
+CORTE DIRECTO desde el refugio: de un cuarto oscuro lleno de gente que se quiere, a una sala blanca, altísima y vacía.
+
+**@SELKA.** Nueve años. Pelo blanco recogido con disciplina, ojos gris-azul. **Sin cicatriz.** Lleva horas aquí.
+
+Frente a ella, de rodillas, un **autómata de instrucción** medio desarmado. Le falta un brazo. Su óptica parpadea, apagándose.
+
+@Selka tiene una hoja de luz corta en la mano. Le tiembla el brazo de cansancio.
+
+Desde la penumbra, sentado, **@VORTHAN.** La mira crecer como quien mira una planta.
+
+**@VORTHAN**
+Termina.
+
+@Selka levanta la hoja. Y se detiene.
+
+**@SELKA (9)**
+*(bajito)*
+Me está mirando.
+
+**@VORTHAN**
+Es una máquina.
+
+**@SELKA**
+*(sin bajar la hoja, sin clavarla)*
+Ya sé. Pero me está mirando.
+
+@Vorthan se levanta. Cruza la sala sin prisa. Le quita la hoja de la mano con dos dedos, casi con cariño.
+
+Y termina él con el autómata. Sin mirarlo.
+
+**@VORTHAN**
+*(devolviéndole la hoja)*
+El día que te dé lástima algo, alguien lo va a usar para abrirte por ahí.
+*(le acomoda un mechón)*
+Y yo no puedo permitir eso. Tú vales demasiado.
+
+@Selka asiente. Ha aprendido a asentir. Pero se queda mirando el autómata apagado.
+
+Y pregunta.
+
+**@SELKA**
+¿Y a mí alguien me tuvo lástima alguna vez?
+
+@Vorthan se detiene. Apenas.
+
+**@SELKA (CONT.)**
+*(sin malicia, con la curiosidad exacta de una niña de nueve años)*
+Antes de usted. ¿Yo tenía a alguien?
+
+Silencio.
+
+Y entonces, por primera y única vez en toda la película, **al Rey se le rompe la cara.**
+
+No hay discurso. No hay aviso. Un solo movimiento —rápido, feo, impropio de él— y la hoja le cruza la cara a la niña.
+
+@Selka cae. La sala queda en silencio.
+
+En el suelo, se lleva la mano al ojo izquierdo. Entre los dedos se le escapa **luz**, no estirpe.
+
+**Y no llora.** A los nueve años ya ha aprendido que eso no se hace.
+
+@Vorthan se queda de pie sobre ella, respirando. Se le acomoda la cara otra vez, pieza por pieza, hasta que vuelve a ser el hombre de siempre.
+
+Se arrodilla a su altura. Le retira la mano del ojo con una suavidad insoportable. Mira la herida como quien mira un desperfecto en un mueble caro.
+
+**@VORTHAN**
+*(dulce)*
+Mírame. Esto lo hiciste tú.
+*(beat)*
+Preguntaste algo que no existe. No había nadie. Nunca hubo nadie.
+*(le limpia la mejilla con el pulgar)*
+Solo yo. Desde siempre.
+
+@Selka lo mira con el ojo que le queda abierto. Y asiente.
+
+**@VORTHAN (CONT.)**
+*(se incorpora, ya sereno, saliendo)*
+Que te la curen. Pero que se vea.
+*(en la puerta, sin voltear)*
+Así te acuerdas de no preguntar.
+
+La niña sola en la sala blanca, con la mano en la cara.
+
+CORTE.
+
+---
+
 ## SEC. 13 — EXT. PLANETA CHATARRA — OPERACIÓN DE LA FLOTA — [@STELLA: ~AÑO 2]
 
 Una misión de la flota de @Theron. @Stella, ya un poco mayor, más dura, se mueve entre escombros con un grupo. @Brog cubre. @Vosk va al frente.
@@ -878,7 +968,7 @@ Si algo sale mal, corre. No mires atrás.
 
 @Vera entra sola.
 
-Adentro, de espaldas, está **@SELKA** —quince años, todavía cadete, pero con aposentos propios dentro del palacio: la protegida personal del Rey, y todo el mundo lo sabe. Blanca, impecable, fría, de ojos gris-azul, con una cicatriz reciente sobre el ojo izquierdo.
+Adentro, de espaldas, está **@SELKA** —quince años, todavía cadete, pero con aposentos propios dentro del palacio: la protegida personal del Rey, y todo el mundo lo sabe. Blanca, impecable, fría, de ojos gris-azul, con la cicatriz sobre el ojo izquierdo que lleva desde los nueve años.
 
 **@SELKA**
 *(sin voltear)*
@@ -1403,6 +1493,10 @@ Ella **nunca mató a su madre.** Y su madre murió creyendo que sí.
 
 Y de golpe encaja lo otro: la mujer del pelo blanco tirada en su cuarto. La que nunca supo quién era. La que lleva diez años sin poder quitarse de la cabeza.
 
+Y sin darse cuenta se lleva la mano al ojo izquierdo. A la cicatriz.
+
+A lo que le pasó el día que preguntó si alguna vez tuvo a alguien.
+
 Se quiebra entera. Cae de rodillas.
 
 **@SELKA**
@@ -1600,6 +1694,8 @@ CORTE A NEGRO.
   cambiaformas.** @Selka y @Naio sí lo saben — contárselo (o callárselo) es una escena de la P2.
 - **@Naio sabe qué es la nave-palacio y por dónde se abre** (el legado de @Vera, SEC 19/29): el arma de la P2.
 - **@Vorthan sabe que @Stella no murió** (vio la brasa, SEC 27). La niña que se le escapó dos veces.
+- **La cicatriz de @Selka** es la única prueba física de que la máscara del Rey se rompe. Se la hizo él a
+  los 9 años, por una pregunta. Ella la lleva en cada plano de la película sin saber lo que significa.
 - **La señal de @Vera existe** (SEC 12/18): la voz de la madre, grabada. Una reliquia para las dos hermanas.
 - **@Gix nació del ADN de @Stella** (invento de @Naio): puente para una posible revivificación.
 - @Naio vivo; @Vosk redimido; @Noah enamorado; @Brog y @Nima, la familia que queda en pie.
