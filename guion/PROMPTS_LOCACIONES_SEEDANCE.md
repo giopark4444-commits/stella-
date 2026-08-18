@@ -188,7 +188,7 @@
 - **Mood:** fragile hope, secrecy, shelter.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no characters, no people, no text, no watermark, no logos.
 
-### @AposentosGeneral — los aposentos de la General
+### @AposentosGeneral — los aposentos de la cadete del Rey (año 14)
 - **Style:** 2D hand-painted anime film background, cel-animation matte painting — broad simplified shapes and flat painted masses rather than fine detail, restrained texture, clean readable silhouettes, soft brushwork with visible painted edges; strong atmospheric perspective with the distance fading pale; warm cinematic light, soft grain. A wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), no characters. 21:9 aspect ratio, wide-angle lens.
 - **Location:** Make a location sheet of the General's cold, perfect quarters inside the imperial palace: austere white-and-gold walls, immaculate and minimal, everything in its place; a single tall window letting in cold blue night light — the room of a child raised into a weapon.
 - **Key elements:** austere white-and-gold walls, minimal impeccable furnishings, a precise made bed, a rack of imperial armor, one tall arched window with cold night light, no clutter, no warmth.
@@ -201,13 +201,13 @@
 
 # 転結 ACTO 3 · el regreso
 
-### @ErdiaRuinas — la ciudad dorada en ruinas (Año 20)
+### @ErdiaRuinas — la ciudad dorada en ruinas (Año 24)
 - **Style:** 2D hand-painted anime film background, cel-animation matte painting — broad simplified shapes and flat painted masses rather than fine detail, restrained texture, clean readable silhouettes, soft brushwork with visible painted edges; strong atmospheric perspective with the distance fading pale; warm cinematic light, soft grain. A wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** Make a location sheet of the once-golden city twenty years on: grey and cracked, broken in two by drifting fog; towering imperial murals of the King loom over rubble where gardens used to be; the luzagua canals run dull and nearly dry; ash hangs in the still air.
+- **Location:** Make a location sheet of the once-golden city a generation later: grey and cracked, broken in two by drifting fog; towering imperial murals of the King loom over rubble where gardens used to be; the luzagua canals run dull and nearly dry; ash hangs in the still air.
 - **Key elements:** broken honey-stone buildings gone grey, huge peeling imperial murals over the ruins, dead dull luzagua channels, drifting fog and ash, scaffolds and rubble, faded banners.
 - **Light & atmosphere:** cold grey smoke-filtered daylight, the old gold long dead; still and mournful.
 - **Palette:** ashen grey, faded gold, cold fog-blue, muted rust.
-- **Mood:** ruin, loss, twenty years of decay.
+- **Mood:** ruin, loss, a generation of decay.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no characters, no people, no text, no watermark, no logos.
 
 ### @SalaTrono — la sala del trono
