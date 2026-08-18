@@ -7,8 +7,9 @@
 ---
 
 ## 🎬 El proyecto
-- **Película 1** de una saga (2-3 films). Tragedia animada, estilo **Studio Ghibli + Satoshi Kon**, **21:9**.
-- **Duración objetivo:** ~48 min · **619 planos** (découpage Ghibli/Kon con planos contemplativos, silencios, ritmo 間/ma).
+- **Película 1** de una saga (2-3 films). Tragedia animada, **21:9**. ⚠️ En los prompts el estilo se
+  **describe, nunca se cita** (OpenAI bloquea nombres de estudio y de autor — ver `tools/estilo_canon.py`).
+- **Duración objetivo:** ~48 min · **619 planos** (planos contemplativos, silencios, ritmo 間/ma).
 - La saga se dividió en 3 partes por decisión **narrativa** (sola / sola / dúo), NO porque P1 fuera larga. P1 es lean.
 - Logline: una niña huye de su mundo moribundo con la fuente de vida del planeta en la mano, con la promesa de volver, hacerse fuerte y salvar a la hermana que el enemigo le robó.
 
@@ -34,7 +35,7 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
   Vera ve a Naio en las celdas y sube por Selka.
 - **La SEC 20 va en dos tiempos:** el público ve "a Selka" matar a Vera (es Vorthan con su cara; cierra
   con una sonrisa que solo se entiende en el segundo visionado); en la **SEC 20A** la Selka real descubre
-  el arma en su propia mano, sin memoria, y tararea la nana.
+  el arma en su propia mano, sin memoria. *(La nana se eliminó en v2.3.)*
 - **El acto 3 abre con la SEC 20B (el tinte y el permiso):** Theron concede la misión ("Bajas. Miras.
   Subes."), Nima le tiñe el pelo. Transición en pantalla de @StellaPeloCorto → @StellaTeñida.
 - **Erdia avanza 24 años** (antes 20): Stella vuelve de **~20**, **Selka tiene 25**. Rótulo `AÑO 24`.
@@ -62,21 +63,27 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
   Korin, Lessa y pilotos NO son de pelo blanco (el pelo blanco es de la línea familiar).
 - **Gix:** NO humano — axolote de luz (luzagua-azul con puntos dorados).
 - **Naiel/naieli** = la especie/pueblo. **Luzagua** = agua-y-luz que brilla.
-- **Selka:** cicatriz sobre el ojo izquierdo desde cadete; desde la SEC 27, **manca** (falta hoja).
+- **Selka:** cicatriz sobre el ojo izquierdo **desde los 9 años** (se la hace Vorthan, SEC 12A);
+  desde la SEC 27, **manca**.
 
 ## 📁 Dónde vive cada cosa (`guion/*.md`)
-| Contenido | Archivo(s) | ¿Al día con v2.2? |
+| Contenido | Archivo(s) | ¿Al día con v2.3? |
 |---|---|---|
-| **Guion canónico** | `GUION_P1_v2.md` | ✅ |
+| **Guion canónico** | `GUION_P1_v2.md` (32 secuencias) | ✅ |
 | **Escaleta** | `ESCALETA_P1_v2.md` | ✅ |
+| **PDF** | `guion/render/GUION_P1_v2.pdf` (47 pág.) | ✅ `tools/guion_pdf.py` |
+| Personajes (32) | `PROMPTS_PERSONAJES(_MINI).md` | ✅ |
+| Locaciones (25) | `PROMPTS_LOCACIONES(_MINI).md` | ✅ |
+| Naves y props | `PROMPTS_DISENOS(_MINI).md` | ✅ |
 | Guion inglés / híbrido | `SCRIPT_P1_v2_EN.md`, `GUION_P1_v2_DIALOGOS_EN.md` | ❌ v2.0 — retraducir |
-| Locaciones (21) | `PROMPTS_LOCACIONES(_MINI).md` | ❌ faltan @CeldasPalacio, enfermería, cielo año 24 |
-| Personajes (31) | `PROMPTS_PERSONAJES.md` | ❌ edades (Selka 21→25), @NaioEsclavo→celdas |
-| Naves+Props | `PROMPTS_DISENOS(_MINI).md` | ❌ faltan puñal de Selka, transmisor de Vera, nave rota |
-| Storyboard frames (619) | `PROMPTS_IMG_ACTO1/2/3.md` | ❌ SEC 12/18/19/20/22/23/26/27/29 cambiaron |
+| Storyboard frames (619) | `PROMPTS_IMG_ACTO1/2/3.md` | ❌ largos y con canon viejo |
 | Clips Seedance (233) | `PROMPTS_SB_ACTO1/2/3.md`, `PROMPTS_ACTO1/2/3.md` | ❌ ídem |
-| Variante SEEDANCE (42 archivos) | `*_SEEDANCE.*` | ⚙️ se regeneran con `tools/seedance_safe.py --apply` |
+| Variante SEEDANCE (44) | `*_SEEDANCE.*` | ⚙️ `tools/seedance_safe.py --apply` |
 | Material base histórico | `PELI1_v2_material_base.md` | 📜 histórico — el guion manda |
+
+**Formato de los prompts (v2.3):** las versiones MINI son de **puro concepto** — una pregunta, cuatro
+ejemplos, cero características, sin aspect ratio. Cola de estilo común, cambiable de golpe en los 81
+con `tools/cola_estilo.py --set "..."`.
 
 ## 🌐 La web (todo navegable con botón copiar)
 - **Portada:** `index.html` · **App única:** `STELLA_FUGAZ.html` (~7.4 MB, todo embebido).
@@ -89,13 +96,17 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
   versionar** — recrearlos si hay que regenerar esas otras pestañas.
 
 ## ⏭️ Pendientes
-1. **Gio:** generar las 69 hojas + 619 frames en la app de Higgsfield (nano banana; los prompts de las
-   escenas cambiadas en v2.2 hay que regenerarlos ANTES de gastar créditos en esos planos).
-2. **Regenerar el corpus de prompts** de las secuencias tocadas por v2.2 (lista arriba).
-3. **Retraducir** el guion inglés y el híbrido desde v2.2.
-4. Hojas nuevas: `@CeldasPalacio`, enfermería de la nodriza, cielo del año 24, puñal de Selka,
-   transmisor de Vera, `@NaveStella` rota, Selka manca.
+1. **Gio:** generar las hojas en la app de Higgsfield con los prompts MINI (nano banana). Las de
+   personaje, locación y props **ya están al día**; los prompts de los *planos* no.
+2. **Regenerar el corpus de planos** (frames y clips) de las secuencias tocadas por v2.2/v2.3 —
+   y pasarlos al formato concepto. Es el grueso que queda.
+3. **Retraducir** el guion inglés y el híbrido desde v2.3.
+4. Hojas nuevas por generar: `@Selka9`, `@Selka9Herida`, `@SalaInstruccion`, `@AutomataInstruccion`,
+   `@SelkaGeneralManca`, `@SalaTronoAbierta`, `@CieloAño24`, `@EnfermeriaNodriza`, `@CeldasPalacio`,
+   `@PuñalSelka`, `@TransmisorVera`, `@NaveStellaRota`, `@CadenasEsclavo`.
+5. **Decisión abierta:** vestuario de Selka en SEC 20 y 20A (propuesta: de gala la falsa, descalza
+   la real — ver conversación).
 
 ---
-*Para retomar: lee esto, luego `guion/GUION_P1_v2.md` (v2.2) y la escaleta. El guion manda sobre
+*Para retomar: lee esto, luego `guion/GUION_P1_v2.md` (v2.3) y la escaleta. El guion manda sobre
 cualquier prompt viejo.*
