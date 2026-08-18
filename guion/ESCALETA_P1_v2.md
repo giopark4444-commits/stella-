@@ -78,8 +78,7 @@ adentro de la respuesta. Guárdalo." Promete volver por él. Y sube por su hija.
 (a) En los aposentos de la **cadete de 15 años** —todavía no es General, pero el Rey la cría él mismo y le ha dado cuarto propio en el palacio— "**Selka**" pelea sin ser tocada, se deja abrazar… y **le clava el arma**, susurrando
 algo **al oído (oculto)**. Korin y Lessa lo ven desde la puerta. Vera muere creyéndolo. "Selka" **sonríe**.
 (b) MÁS TARDE: la **Selka real** entra a su cuarto. Una muerta que no conoce en el piso. **El arma en su
-propia mano.** Sin memoria de nada. Se arrodilla y, sin querer, **tararea una nana** que no recuerda haber
-aprendido. Abajo, Naio espera unos pasos que nunca se detienen. FIN DEL ACTO 2.
+propia mano.** Sin memoria de nada. Se arrodilla y se queda mirando el **pelo blanco** de la muerta: igual que el suyo. Abajo, Naio espera unos pasos que nunca se detienen. FIN DEL ACTO 2.
 
 ---
 
@@ -127,7 +126,7 @@ creyendo que su hija la mataba**; y remata con **la resistencia entera como cebo
 cielo a buscar el Orbe, así que **le sostuvo la guerrita veinticuatro años para dejarle a Stella un
 muelle donde atracar** *(y por eso Selka la esperaba de pie "como si supiera que iba a venir")*. Y con la
 cara de **Selka niña**: *"La maté yo, vistiendo tu rostro. Te puse el cuchillo en la mano sin que lo
-supieras."* Selka entiende la nana — demasiado tarde. **"ERA NUESTRA MADRE."**
+supieras."* Selka encaja por fin quién era la mujer de su cuarto — demasiado tarde. **"ERA NUESTRA MADRE."**
 
 **22. La brasa y la hoja.** Saboreando su obra, Vorthan ve **la brasa de Gix** latiendo en el pecho de
 Stella: **no está muerta** — la agonía que disfrutó no ocurrió. *"…Eso no estaba ahí."* Y Selka **deja de

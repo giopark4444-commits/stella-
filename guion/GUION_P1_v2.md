@@ -951,7 +951,9 @@ No recuerda haber entrado. No recuerda haber salido. No recuerda nada.
 
 Se le mueve algo en el pecho —algo sin nombre y sin causa— y le empieza a temblar todo el cuerpo. Se arrodilla junto a la desconocida sin saber por qué lo hace.
 
-Y sin querer, muy bajito, empieza a **tararear una nana** que no recuerda haber aprendido.
+Y se queda mirándole el pelo. **Blanco. Como el suyo.**
+
+Le acerca la mano a la cara, sin llegar a tocarla. La retira.
 
 Afuera, lejos, el eco de unos pasos que se alejan corriendo.
 
@@ -1399,13 +1401,13 @@ Selka retrocede, la cabeza negando sola. Veinticuatro años de certezas cayéndo
 
 Ella **nunca mató a su madre.** Y su madre murió creyendo que sí.
 
-Sin darse cuenta, empieza a **tararear la nana.** Esa que canta sin saber de quién es. Y por fin —demasiado tarde— la **entiende:** es la canción de su madre. La que Vera le cantaba de bebé.
+Y de golpe encaja lo otro: la mujer del pelo blanco tirada en su cuarto. La que nunca supo quién era. La que lleva diez años sin poder quitarse de la cabeza.
 
 Se quiebra entera. Cae de rodillas.
 
 **SELKA**
-*(la nana rota saliéndole sola)*
-…esa canción. Era de ella.
+*(sin voz)*
+La del piso. La de mi cuarto.
 *(un grito que sale de lo más hondo)*
 …ERA MI MADRE.
 *(mira a Stella, muerta-en-coma en el piso)*
