@@ -65,6 +65,9 @@ How would a small wrist display on an alien suit look, reading full power? Show 
 ### @HojaSelka — el sable de la General
 How would the sword of an alien empire's general look, made of hard light? Show me 4 examples. Ghibly style and water color painting.
 
+### @AutomataInstruccion — el autómata de combate 🆕
+How would a sparring machine for training child soldiers look, patient and tireless? Show me 4 examples. As if from another planet — not built by humans. Ghibly style and water color painting.
+
 ### @PuñalSelka — el puñal escondido
 How would a short imperial dagger look, small enough to hide in a sleeve? Show me 4 examples. Ghibly style and water color painting.
 

@@ -605,86 +605,74 @@ Es lo único, en ocho años de resistencia, que no le ha contado a nadie. Ni siq
 
 CORTE DIRECTO desde el refugio: de un cuarto oscuro lleno de gente que se quiere, a una sala blanca, altísima y vacía.
 
-**SELKA.** Nueve años. Pelo blanco recogido con disciplina, ojos gris-azul. **Sin cicatriz.** Lleva horas aquí.
+**SELKA.** Nueve años. Pelo blanco recogido con disciplina, ojos gris-azul. **Sin cicatriz.**
 
-Frente a ella, de rodillas, un **autómata de instrucción** medio desarmado. Le falta un brazo. Su óptica parpadea, apagándose.
+Y enfrente, un **AUTÓMATA DE COMBATE**. Entero. Funcionando. Le saca dos cabezas y no se cansa.
 
-Selka tiene una hoja de luz corta en la mano. Le tiembla el brazo de cansancio.
+Pelean de verdad. La niña es rápida y está bien entrenada —se le nota quién la enseñó— pero es una niña de nueve años contra una máquina.
 
-Desde la penumbra, sentado, **VORTHAN.** La mira crecer como quien mira una planta.
+La tira al suelo. Se levanta. La vuelve a tirar. Se vuelve a levantar.
 
-**VORTHAN**
-Termina.
+Desde la penumbra, sentado, **VORTHAN** mira.
 
-Selka levanta la hoja. Y se detiene.
+Y aquí está el problema: Selka **titubea**. Cada vez que tiene el golpe hecho, se frena una fracción de segundo. Como si le costara. Y en esa fracción, el autómata la castiga.
 
-**SELKA (9)**
-*(bajito)*
-Me está mirando.
+La tira otra vez. Y otra.
 
-**VORTHAN**
-Es una máquina.
-
-**SELKA**
-*(sin bajar la hoja, sin clavarla)*
-Ya sé. Pero me está mirando.
-
-Vorthan se levanta. Cruza la sala sin prisa. Le quita la hoja de la mano con dos dedos, casi con cariño.
-
-Y termina él con el autómata. Sin mirarlo.
+Vorthan **se pone de pie.** No puede seguir sentado.
 
 **VORTHAN**
-*(devolviéndole la hoja)*
-El día que te dé lástima algo, alguien lo va a usar para abrirte por ahí.
-*(le acomoda un mechón)*
-Y yo no puedo permitir eso. Tú vales demasiado.
+Otra vez.
 
-Selka asiente. Ha aprendido a asentir. Pero se queda mirando el autómata apagado.
+Selka se levanta. Ataca. Vuelve a frenarse a mitad del golpe. El autómata la manda contra la pared.
 
-Y pregunta.
+Silencio. Solo la respiración de la niña en el suelo.
 
-**SELKA**
-¿Y a mí alguien me tuvo lástima alguna vez?
+Y a Vorthan se le sube algo a la cara que no es rabia: es **vergüenza**. Ocho años. Ocho años puestos en esto.
 
-Vorthan se detiene. Apenas.
+Cruza la sala. Selka se está incorporando —confusa, esperando una corrección— cuando lo ve venir.
 
-**SELKA (CONT.)**
-*(sin malicia, con la curiosidad exacta de una niña de nueve años)*
-Antes de usted. ¿Yo tenía a alguien?
+Y él, sin decir una palabra, **le cruza la cara.**
 
-Silencio.
+Un solo movimiento. Rápido, feo, impropio de él. Por primera y única vez en toda la película, **al Rey se le rompe la cara.**
 
-Y entonces, por primera y única vez en toda la película, **al Rey se le rompe la cara.**
-
-No hay discurso. No hay aviso. Un solo movimiento —rápido, feo, impropio de él— y la hoja le cruza la cara a la niña.
-
-Selka cae. La sala queda en silencio.
-
-En el suelo, se lleva la mano al ojo izquierdo. Entre los dedos se le escapa **luz**, no sangre.
+Selka cae. En el suelo se lleva la mano al ojo izquierdo. Entre los dedos se le escapa **luz**, no sangre.
 
 **Y no llora.** A los nueve años ya ha aprendido que eso no se hace.
 
-Vorthan se queda de pie sobre ella, respirando. Se le acomoda la cara otra vez, pieza por pieza, hasta que vuelve a ser el hombre de siempre.
+El autómata sigue ahí. De pie. Esperando. Indiferente.
 
-Se arrodilla a su altura. Le retira la mano del ojo con una suavidad insoportable. Mira la herida como quien mira un desperfecto en un mueble caro.
+Selka mira el suelo con el ojo que le queda. Respira.
+
+Y **se levanta.**
+
+Recoge la hoja.
+
+Y va contra la máquina —y esta vez **no titubea.** Ni un latido. La abre, la desarma, la tumba. El autómata cae y ella sigue. Le arranca el brazo. Sigue. Le revienta la óptica. **Sigue.**
+
+Mucho después de que la cosa dejó de moverse, la niña sigue golpeando chatarra.
+
+Hasta que no queda nada que golpear.
+
+Se queda de pie sobre los restos, medio ciega, temblando de agotamiento, con la hoja colgando de la mano.
+
+Y Vorthan —que hace un minuto estaba avergonzado— la mira ahora **con algo parecido al orgullo.** Acaba de conseguir en cuatro segundos lo que no consiguió en ocho años.
+
+Se acerca. Se arrodilla a su altura. Le retira la mano del ojo con una suavidad insoportable y mira la herida como quien mira un desperfecto en un mueble caro.
 
 **VORTHAN**
 *(dulce)*
-Mírame. Esto lo hiciste tú.
-*(beat)*
-Preguntaste algo que no existe. No había nadie. Nunca hubo nadie.
-*(le limpia la mejilla con el pulgar)*
-Solo yo. Desde siempre.
+Ahí estabas.
 
-Selka lo mira con el ojo que le queda abierto. Y asiente.
+Le limpia la mejilla con el pulgar.
 
 **VORTHAN (CONT.)**
 *(se incorpora, ya sereno, saliendo)*
 Que te la curen. Pero que se vea.
 *(en la puerta, sin voltear)*
-Así te acuerdas de no preguntar.
+Para que te acuerdes de cómo se hace.
 
-La niña sola en la sala blanca, con la mano en la cara.
+La niña sola en la sala blanca, de pie sobre un montón de metal roto, con la mano en la cara.
 
 CORTE.
 
@@ -1495,7 +1483,7 @@ Y de golpe encaja lo otro: la mujer del pelo blanco tirada en su cuarto. La que 
 
 Y sin darse cuenta se lleva la mano al ojo izquierdo. A la cicatriz.
 
-A lo que le pasó el día que preguntó si alguna vez tuvo a alguien.
+Al día en que él se la puso para enseñarle a no dudar. Al día en que la fabricó.
 
 Se quiebra entera. Cae de rodillas.
 

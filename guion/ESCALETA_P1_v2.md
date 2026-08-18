@@ -51,13 +51,16 @@ encapuchada** — *es Vera* (el público no lo sabe). Esa noche, a solas, Vera g
 al vacío**: "Tu padre está vivo. Lo tienen en las celdas del palacio. Hazte fuerte. Y vuelve." Es lo
 único que no le ha contado a nadie. Ni siquiera a Marek.
 
-**8A. [ERDIA · AÑO 8] Cómo se hace un arma.** Corte directo del refugio al palacio: **Selka, 9 años**,
-entrenando sola en una sala blanca enorme. Se niega a rematar a un autómata *(«me está mirando»)* y
-Vorthan lo hace por ella, explicándole que la lástima es por donde te abren. Entonces la niña pregunta
-si alguna vez tuvo a alguien **antes de él** — y por primera y única vez en la película **al Rey se le
-rompe la cara**: le cruza el ojo izquierdo de un golpe. **Ahí nace la cicatriz.** Después se arrodilla,
-dulcísimo, y le explica que se lo hizo ella por preguntar: *«No había nadie. Nunca hubo nadie. Solo yo.»*
-Y ordena que se la curen **pero que se vea**. La niña no llora.
+**8A. [ERDIA · AÑO 8] Cómo se fabrica un arma.** Corte directo del refugio al palacio: **Selka, 9 años**,
+peleando de verdad contra un **autómata de combate entero** que le saca dos cabezas. Pierde una y otra vez
+—y pierde porque **titubea**: cada vez que tiene el golpe hecho se frena una fracción de segundo. Vorthan,
+mirando desde la penumbra, **se pone de pie**: lo que se le sube a la cara no es rabia, es **vergüenza**
+(ocho años puestos en esto). Cruza la sala y **le cruza el ojo izquierdo de un golpe** — la única vez en
+toda la película que al Rey se le rompe la cara. **Ahí nace la cicatriz.** La niña no llora: se levanta,
+recoge la hoja y **destroza al autómata sin titubear ni un latido**, y sigue golpeando chatarra mucho
+después de que dejó de moverse. Vorthan la mira con algo parecido al orgullo: consiguió en cuatro
+segundos lo que no consiguió en ocho años. *"Ahí estabas."* Y ordena que se la curen **pero que se vea**,
+*"para que te acuerdes de cómo se hace"*.
 
 **9. El pozo (el encuentro con los humanos).** Cazarrecompensas **capturan a Stella** (la ladrona más
 buscada) y la venden a una **estación con subasta + casas de apuestas**. **Fuerzan a Stella y a Noah a

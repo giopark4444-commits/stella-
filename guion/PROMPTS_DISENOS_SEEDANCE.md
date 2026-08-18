@@ -141,6 +141,14 @@
 - **Mood / notes:** the device that changes everything — proof her family lives. Show device with a faint empty holo glow.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no characters, no readable text, no watermark, no logos.
 
+### @AutomataInstruccion — el autómata de combate de la sala 🆕 v2.2
+- **Style:** 2D hand-painted anime design sheet, cel-animation style — clean line work, flat cel shading with simple shadow shapes, restrained detail, soft painted edges, soft cinematic lighting, soft grain, clean neutral studio background, OBJECT SHEET — shown clearly and centered on a clean neutral background, hero 3/4 angle, no characters. 21:9 aspect ratio.
+- **Subject:** Make an object sheet of a full-size sparring automaton used to train imperial cadets: a tall humanoid practice machine, two heads taller than a child, padded plating over an exposed articulated frame, built to hit back and not tire.
+- **Details:** tall humanoid frame, padded white-grey plating over visible joints, a blank sensor band instead of a face, weighted feet, scuffs and dents from years of use, a short practice blade in one hand.
+- **Finish & palette:** worn white and pale grey padding, exposed steel joints, one dim indicator light.
+- **Mood / notes:** patient, tireless, indifferent — the worst kind of opponent for a nine-year-old. Genera también una **variante destrozada**: desarmado, un brazo arrancado, la óptica reventada, hecho chatarra en el suelo.
+- **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no characters, no text, no watermark, no logos.
+
 ### @PuñalSelka — el puñal imperial (el arma del año 14) 🆕 v2.2
 - **Style:** 2D hand-painted anime design sheet, cel-animation style — clean line work, flat cel shading with simple shadow shapes, restrained detail, soft painted edges, soft cinematic lighting, soft grain, clean dark neutral background, OBJECT SHEET — the object shown clearly and centered on a clean neutral background, hero angle, no characters. 21:9 aspect ratio.
 - **Subject:** Make an object sheet of a short imperial dagger, small enough to hide in a sleeve: a slim white-and-gold ceremonial hilt and a plain narrow blade — elegant, discreet, made for close work. This is NOT the light-cutter sword (@HojaSelka); it is the small hidden thing.

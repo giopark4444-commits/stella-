@@ -103,7 +103,7 @@
 - **Appearance:** white hair pulled back with discipline; grey-blue eyes; a small, serious, tired face with no childishness left in it; slight, wiry nine-year-old build, all knees and elbows; fair skin; a plain white-and-grey training uniform, well made and worn thin at the elbows; a short light-blade held with both hands because one is not enough yet.
 - **Key features:** white hair tied back; grey-blue eyes; **NO scar yet** — she gets it in this very scene; nine years old, small and wiry; plain training uniform; too serious for her age.
 - **Palette:** white and pale grey uniform, white hair, grey-blue eyes, fair skin.
-- **Notes:** Acto 2, SEC 12A. Es el único puente entre @SelkaBebe (1 año) y @SelkaCadete (15). **Sin cicatriz** — Vorthan se la hace al final de la escena. Genera también una variante con la herida recién hecha sobre el ojo izquierdo, la mano en la cara, luz escapándose entre los dedos (nunca sangre).
+- **Notes:** Acto 2, SEC 12A. Es el único puente entre @SelkaBebe (1 año) y @SelkaCadete (15). **Sin cicatriz** — Vorthan se la hace a mitad de escena, avergonzado de verla perder contra un autómata. Genera también una variante con la herida recién hecha sobre el ojo izquierdo, la mano en la cara, luz escapándose entre los dedos (nunca sangre).
 - **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no scar, no text, no watermark, no logos, only one character, no extra characters.
 
 ### @SelkaBebe — Selka, bebé de 1 año
