@@ -93,8 +93,21 @@ How would a hardened woman rebel look, worn down by a long occupation? Show me 4
 ### @Marek — el líder de la resistencia 🔒
 How would the leader everyone trusts look, the one who gives a beaten people their hope back? Show me 4 examples. Ghibly style and water color painting.
 
-### @CazadorRecompensas — el cazarrecompensas
-How would a bounty hunter from a planet made of scrap look? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+### @CazadorRecompensas — la banda 🆕 *(cuatro tipos, no clones)*
+> Salen cuatro líneas y hacen tres cosas decisivas. Genera los cuatro para que la banda se vea
+> como gente y no como uniformes.
+
+**La banda entera**
+How would the bounty hunters of a planet made of scrap look, who live by catching people and selling them? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+**@CazadorJefe · el que decide**
+How would the leader of a scrap-planet hunting crew look, the one who decides who gets caged and who doesn't? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+**@CazadorRed · el que tira la red**
+How would the biggest one in a gang of scrap-planet hunters look, the one who carries the nets? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+**@CazadorJoven · el hambriento**
+How would the youngest hunter in a scrap-planet gang look, too eager and not good at it yet? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 
 ---
 
