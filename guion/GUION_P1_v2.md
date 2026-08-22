@@ -21,6 +21,12 @@
 > • **Vestuario de Stella:** ropa civil (parque) → armadura "04" con trenza (lab/huida) → armadura con **pelo
 >   corto** tras cortarse la trenza → **pelo teñido de oscuro + traje de Nima** (acto 3, SEC 20B).
 >
+> • **La tripulación de Theron tiene nombres (2026-08-22).** Diez secundarios, cinco y cinco:
+>   **Sarn** (médica) · **Ilka** (piloto) · **Ozu** (intendente, la amiga de Nima) · **Dova** (cataloga
+>   los mundos devorados) · **Fen** (la más joven) · **Kade** (segundo de a bordo) · **Turo** (artillero) ·
+>   **Jorn** (explorador) · **Ummo** (el más viejo) · **Pash** (el amigo de Vosk). Salen de fondo en
+>   SEC 11, 13, 15 y en el asalto. Sarn tapa un hueco real: **nadie sabía manejar el tanque de la SEC 29.**
+>
 > **Revisión v2.3 (2026-08-18):**
 > • **SEC 12A NUEVA — Selka a los 9 y el origen de la cicatriz.** Pelea contra un autómata de combate
 >   entero y pierde porque **titubea**. Vorthan, avergonzado, le cruza el ojo izquierdo — la única vez en

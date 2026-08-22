@@ -139,3 +139,43 @@ How would the mass-produced soldier robot of an alien empire look? Show me 4 exa
 
 ### @Parasito — la forma real de @Vorthan 🔒
 How would a creature that devours whole worlds look, made out of the light it has stolen from them? Show me 4 examples. Not humanoid. Ghibly style and water color painting.
+
+---
+
+# 🚢 LA TRIPULACIÓN DE @THERON · secundarios 🆕
+
+> Diez parias de mundos distintos. El material base los define como *«gente que perdió su mundo a los
+> parásitos o a los imperios»* — **no son héroes a sueldo**. Cada uno cubre una función que la nave
+> necesita y que hasta ahora no tenía nadie.
+>
+> Salen de fondo en SEC 11, 13, 15 y en el asalto del acto 3. **Ninguno es humano salvo donde se diga.**
+
+### @Sarn — la médica
+How would the doctor of a scavenger starship look, the one who keeps people alive out of pure stubbornness? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @Ilka — la piloto
+How would the pilot of an ancient scavenger mothership look, who has flown the same wreck for decades? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @Ozu — la intendente
+How would the quartermaster of a scavenger ship look, the one who decides what gets eaten and what gets sold? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @Dova — la que cataloga los mundos muertos
+How would the archivist of a hunting crew look, who keeps the record of every world they found already devoured? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @Fen — la más joven
+How would the newest and youngest member of a hard scavenger crew look, still not hardened? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @Kade — el segundo de a bordo
+How would the second-in-command of an ancient hunter's ship look, the one who turns orders into action? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @Turo — el artillero
+How would the gunner of a scavenger starship look, calm and slow to anger? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @Jorn — el explorador
+How would the scout of a hunting crew look, the one who always walks in first? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @Ummo — el más viejo
+How would the oldest member of a hunter's crew look, who has served the same captain longer than anyone? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @Pash — el amigo del matón
+How would the follower of a cruel crew bully look, the one who laughs at his jokes? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
