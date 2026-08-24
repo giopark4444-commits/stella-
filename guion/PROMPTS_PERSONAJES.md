@@ -187,23 +187,23 @@
 - **Notes:** Acto 2–3, captain of the mothership crew; ancient hunter who "picked up" Stella.
 - **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no text, no watermark, no logos, only one character, no extra characters.
 
-### @Brog — gigante de roca, el último de su especie
+### @Brogu — gigante con aspecto de gorila, el último de su especie
 - **Style:** 2D hand-painted anime CHARACTER SHEET (model sheet / turnaround), cel-animation style — clean line work, flat cel shading with simple shadow shapes, restrained detail; the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; soft cinematic lighting, soft grain. 21:9 aspect ratio.
-- **Character:** Make a character sheet of Brog, a colossal, slow, silent rock giant — a living mountain of stone, the last of his kind; gentle, immensely powerful, protective.
-- **Appearance:** enormous mountain-shaped humanoid built entirely of cracked grey stone; massive boulder shoulders, huge slab-like hands, thick craggy limbs; a rugged pitted surface of rock and mineral, deep fissures running across his body glowing with a faint warm inner light; heavy, dense, monolithic silhouette; small calm eyes set in a broad craggy face; no clothing, his body is his armor.
-- **Key features:** body made of cracked grey stone with faint warm glowing cracks; gigantic monolithic mountain-like silhouette; huge slab hands; silent, calm expression; the last of his species.
-- **Palette:** slate grey, stone browns, granite tones, faint warm amber-orange glow in the fissures.
-- **Notes:** Acto 2–3, crew muscle and Stella's quiet protector; breaches walls in the pit rescue and the war.
-- **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no text, no watermark, no logos, only one character, no extra characters.
+- **Character:** Make a character sheet of Brogu, a colossal, slow, silent ape-like giant — the last of his kind; gentle, immensely powerful, protective.
+- **Appearance:** enormous gorilla-like humanoid, far taller and broader than a person; huge sloping shoulders, very long powerful arms, a low heavy brow; dense dark fur with grey at the muzzle and knuckles, old scars showing through it; small calm eyes set deep in a broad face; walks with the knuckles when he hurries; simple worn straps and a hide wrap, nothing that could be called armour — his body is his armour.
+- **Key features:** ape-like giant, NOT made of stone; dense dark fur greying at muzzle and knuckles; enormous sloping shoulders and very long arms; small calm eyes; gentle despite the size; the last of his species.
+- **Palette:** dark charcoal-brown fur, grey muzzle, worn leather straps, warm amber eyes.
+- **Notes:** Acto 2–3, la fuerza de la tripulación y el protector callado de Stella; abre paredes en la fuga de la Fosa y en la guerra. Le enseña a Stella su **idioma muerto**. ⚠️ v2.4: antes era un gigante de piedra (`@Brog`) — **ya no**. Nada de roca, grietas ni luz interior.
+- **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no stone body, no rock skin, no text, no watermark, no logos, only one character, no extra characters.
 
-### @Nima — mecánica de cuatro brazos
+### @Nima — elfa azulada de baja estatura, la científica de la nave
 - **Style:** 2D hand-painted anime CHARACTER SHEET (model sheet / turnaround), cel-animation style — clean line work, flat cel shading with simple shadow shapes, restrained detail; the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; soft cinematic lighting, soft grain. 21:9 aspect ratio.
-- **Character:** Make a character sheet of Nima, a practical, warm, ingenious mechanic of an alien species with four arms; the crew's engineer and mother-figure.
-- **Appearance:** wiry adult female alien with four fully functional arms working in coordinated pairs, quick and dexterous; smart, weathered, kind face with clever eyes; smudges of grease on skin and cheeks; wears a well-worn mechanic's jumpsuit/coveralls with rolled sleeves, a tool-belt and harness of gadgets, straps and pouches crossing her torso, tools slotted everywhere, fingerless work-gloves on several hands.
-- **Key features:** FOUR arms (two pairs) always busy; grease-smudged mechanic's coveralls; tool-belt and gadget harness; warm, clever, no-nonsense expression; practical improviser.
-- **Palette:** oil-stained tan and olive coveralls, worn leather straps, brass and steel tools, warm skin tones.
-- **Notes:** Acto 2–3, builds Stella's @TrajeNuevo; fights with improvised gadgets in the pit breakout and the war.
-- **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no text, no watermark, no logos, only one character, no extra characters.
+- **Character:** Make a character sheet of Nima, the ship's scientist: a short blue-skinned elf, practical, warm and brilliant; the crew's engineer-mind and mother-figure.
+- **Appearance:** small adult elf woman, noticeably shorter than everyone around her — barely up to a human's chest; soft blue skin, long pointed ears, a clever weathered face with quick eyes; hair tied back out of the way; wears a well-worn work coat over practical clothes, sleeves rolled, a tool-belt and a harness of small devices and pouches across her torso, fingerless gloves; smudges of grease and something chemical on her hands.
+- **Key features:** SHORT — the smallest adult in any room; blue skin; long pointed elf ears; work coat and tool harness; warm, clever, no-nonsense expression. **Two arms only.**
+- **Palette:** soft blue skin, oil-stained tan and olive coat, worn leather straps, brass and steel tools.
+- **Notes:** Acto 2–3, construye el `@TrajeNuevo` de Stella y le tiñe el pelo en la SEC 20B; pelea con artefactos, no a golpes. ⚠️ v2.4: antes era una mecánica de **cuatro brazos** — **ya no**. Dos brazos, y su función es de **científica**, no de mecánica.
+- **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no four arms, no extra limbs, no tall figure, no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Noah — humano joven espadachín (pelo oscuro, ojos marrones)
 - **Style:** 2D hand-painted anime CHARACTER SHEET (model sheet / turnaround), cel-animation style — clean line work, flat cel shading with simple shadow shapes, restrained detail; the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; soft cinematic lighting, soft grain. 21:9 aspect ratio.

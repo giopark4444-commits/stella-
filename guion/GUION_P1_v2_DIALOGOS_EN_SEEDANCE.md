@@ -1,5 +1,5 @@
 # STELLA FUGAZ · "EL NODO DE ERDIA"
-## Guion — Película 1 (v2.3) · Acción en español · Diálogos en inglés
+## Guion — Película 1 (v2.4) · Acción en español · Diálogos en inglés
 
 > **Versión híbrida.** Todo en español —encabezados, acción, acotaciones y nombres de personaje—
 > y **solo lo que los personajes dicen en voz alta, en inglés**.
@@ -476,13 +476,13 @@ You know what happens to bait once the fish bites?
 
 Pelean. @Stella es rápida, entrenada, pero pequeña; @Vosk es un muro. La tiene contra la pared cuando—
 
-Una **mano de piedra** del tamaño de un yunque cae sobre el hombro de @Vosk y lo aparta sin esfuerzo.
+Una **mano enorme y peluda** del tamaño de un yunque cae sobre el hombro de @Vosk y lo aparta sin esfuerzo.
 
-**@BROG.** Un gigante de roca, lento, callado, el último de su especie. No dice nada. Solo se queda ahí, entre @Vosk y la niña.
+**BROGU.** Un gigante con aspecto de gorila —hombros de armario, brazos larguísimos, pelaje oscuro y unos ojos pequeños y calmos. Lento, callado, el último de su especie. No dice nada. Solo se queda ahí, entre @Vosk y la niña.
 
 @Vosk escupe y se va.
 
-Desde un banco de trabajo lleno de piezas, sin levantar la vista, habla **@NIMA** —mecánica de **cuatro brazos**, las cuatro ocupadas a la vez.
+Desde un banco de trabajo lleno de piezas, sin levantar la vista, habla **@NIMA** —una elfa de piel azulada, apenas más alta que @Stella, con las manos metidas hasta las muñecas en algo que no debería estar abierto. La científica de la nave, y la única que entiende cómo sigue volando.
 
 **@NIMA**
 Don't mind @Vosk. He barks so he doesn't have to think.
@@ -491,7 +491,7 @@ There are two ways to break, kid. The kind that cries… and the kind that fixes
 *(vuelve a su trabajo)*
 Guess which one I am.
 
-@Stella se sienta en el piso, agotada, sosteniéndose la mano herida. @Brog se sienta a su lado, enorme, en silencio. No la consuela. Solo se queda.
+@Stella se sienta en el piso, agotada, sosteniéndose la mano herida. Brogu se sienta a su lado, enorme, en silencio. No la consuela. Solo se queda.
 
 Entra **@THERON.**
 
@@ -643,7 +643,7 @@ CORTE.
 
 ## SEC. 13 — EXT. PLANETA CHATARRA — OPERACIÓN DE LA FLOTA — [@STELLA: ~AÑO 2]
 
-Una misión de la flota de @Theron. @Stella, ya un poco mayor, más dura, se mueve entre escombros con un grupo. @Brog cubre. @Vosk va al frente.
+Una misión de la flota de @Theron. @Stella, ya un poco mayor, más dura, se mueve entre escombros con un grupo. Brogu cubre. @Vosk va al frente.
 
 Algo sale mal. Cazarrecompensas locales los emboscan. En el caos, @Stella se esconde en una grieta, fuera de la vista de los enemigos. A salvo.
 
@@ -703,7 +703,7 @@ Y en vez de pelear entre ellos, los dos se giran hacia los guardias. @Stella arr
 
 ## SEC. 15 — INT. ESTACIÓN DE APUESTAS — LA FOSA / PASARELAS — CONTINUO
 
-Caos. @Stella y @Noah pelean espalda con espalda. @Brog y @Nima entran rompiendo la pared exterior —@Theron mandó por ella.
+Caos. @Stella y @Noah pelean espalda con espalda. Brogu entra rompiendo la pared exterior de un hombro; @Nima detrás, con algo en la mano que hace saltar las rejas —@Theron mandó por ella.
 
 En medio del tumulto, en una plataforma de ejecución sobre la fosa, los dueños del lugar están por **ajusticiar a un prisionero** que ya no les sirve.
 
@@ -724,7 +724,7 @@ Because I'm not you.
 
 Lo suelta de un empujón hacia la salida. Y por primera vez, el matón la mira distinto. Algo en él se rompe y se recompone.
 
-Escapan todos juntos —@Stella, @Noah, @Brog, @Nima, @Vosk— mientras la estación arde detrás.
+Escapan todos juntos —@Stella, @Noah, Brogu, @Nima, @Vosk— mientras la estación arde detrás.
 
 Más tarde, en la nave, **@THERON** observa a @Stella desde lejos. No dice nada. Pero algo cambió: la mocosa que recogió acaba de salvar a quien la traicionó. Eso, para un cazador de veinte mil años, vale más que el brillo de su mano.
 
@@ -736,9 +736,9 @@ Más tarde, en la nave, **@THERON** observa a @Stella desde lejos. No dice nada.
 
 Montaje. La familia rara que la fue curando.
 
-**@BROG** y @Stella, sentados frente a un cielo cruzado de cometas. El gigante le enseña su **idioma muerto** —palabras guturales, antiguas, que ya no le quedan a nadie más en el universo. @Stella las repite. @Brog asiente, despacio. Es lo más parecido a una sonrisa que tiene una montaña.
+**BROGU** y @Stella, sentados frente a un cielo cruzado de cometas. El gigante le enseña su **idioma muerto** —palabras guturales, antiguas, que ya no le quedan a nadie más en el universo. @Stella las repite. Brogu asiente, despacio, y se le arruga la cara. Es lo más parecido a una sonrisa que tiene una montaña.
 
-**@NIMA**, en el taller, le construye un **traje nuevo** —ligero, hecho a su medida, con un **monitor en la muñeca** idéntico al que marcó "MAX" aquel día. Cuatro manos trabajando a la vez.
+**@NIMA**, en el laboratorio, le construye un **traje nuevo** —ligero, hecho a su medida, con un **monitor en la muñeca** idéntico al que marcó "MAX" aquel día. Trabaja de pie sobre un cajón para alcanzar la mesa, y no lo menciona nunca.
 
 **@NIMA**
 *(ajustando)*
@@ -1012,11 +1012,11 @@ CORTE A NEGRO.
 
 ---
 
-## SEC. 20B — INT. NAVE NODRIZA — TALLER DE @NIMA — NOCHE
+## SEC. 20B — INT. NAVE NODRIZA — LABORATORIO DE @NIMA — NOCHE
 
 Primera imagen del acto: **agua oscura en un lavabo de metal.** Dentro, mechones de pelo blanco perdiendo el color.
 
-**@NIMA** se lo tiñe con las cuatro manos. **@STELLA**, sentada, con la cabeza inclinada, mirando el agua ponerse negra.
+**@NIMA** se lo tiñe con un cuidado de laboratorio, midiendo la mezcla como si fuera un reactivo. **@STELLA**, sentada, con la cabeza inclinada, mirando el agua ponerse negra.
 
 **@THERON**, en la puerta, de brazos cruzados.
 
@@ -1046,7 +1046,7 @@ Your mother had this hair.
 *(sin levantar la cara)*
 That's why.
 
-@Nima no dice nada más. Le pasa una mano por la nuca —dos de las cuatro— y sigue trabajando.
+@Nima no dice nada más. Le pasa una mano por la nuca —una mano pequeña y azul— y sigue trabajando.
 
 MÁS TARDE. @Stella de pie frente a una plancha de metal pulido. Se mira. El pelo oscuro, la cara más dura, el **traje que le hizo @Nima**. La que devuelve la mirada ya no se parece a nadie de su familia.
 
@@ -1067,7 +1067,7 @@ RÓTULO: **ERDIA · AÑO 24.**
 
 Lo que fue una ciudad dorada es hoy gris y partido en dos. Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca, un solo nombre tachado: **@STELLA.**
 
-Una nave pequeña aterriza entre la chatarra. Bajan **@BROG**, **@NIMA**, **@NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **@STELLA**, ~20. Camuflada en su propio mundo.
+Una nave pequeña aterriza entre la chatarra. Bajan **BROGU**, **@NIMA**, **@NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **@STELLA**, ~20. Camuflada en su propio mundo.
 
 Pasa entre la gente. Y la gente, sin reconocerla, la mira con el odio que el Rey les enseñó. Un viejo escupe al oír su nombre en otra conversación.
 
@@ -1170,7 +1170,7 @@ We're going in.
 
 ## SEC. 23 — EXT./INT. PALACIO IMPERIAL — EL ASALTO — DÍA
 
-Amanece. La resistencia ataca. Estalla la guerra por las calles de niebla. @Brog abre brechas a puñetazos; @Nima inutiliza robots; los rebeldes de @Korin empujan hacia la plaza. Todo el ruido del mundo.
+Amanece. La resistencia ataca. Estalla la guerra por las calles de niebla. Brogu abre brechas a puñetazos; @Nima apaga robots con artefactos que se saca del cinturón; los rebeldes de @Korin empujan hacia la plaza. Todo el ruido del mundo.
 
 ABAJO — una reja de servicio cede. Entran **@STELLA** y **@NOAH.**
 
@@ -1251,9 +1251,9 @@ I'll keep it for her.
 
 EXT. PALACIO — LA BRECHA — CONTINUO
 
-Salen a la luz por un boquete. La guerra ruge en la plaza. **@BROG** llega abriendo una pared; **@NIMA** detrás.
+Salen a la luz por un boquete. La guerra ruge en la plaza. **BROGU** llega abriendo una pared; **@NIMA** detrás.
 
-@Stella le entrega @Naio a @Brog, que lo alza con un cuidado imposible para esas manos.
+@Stella le entrega @Naio a Brogu, que lo alza con un cuidado imposible para esas manos.
 
 **@NOAH**
 Come with us.
@@ -1262,7 +1262,7 @@ Come with us.
 *(mirando hacia arriba)*
 Not yet.
 
-@Naio, en brazos de @Brog, gira la cabeza. Y lo último que ve de su hija es una mujer encapuchada escalando el palacio entre disparos, sola, hacia la cúpula más alta —la **Sala del Trono.**
+@Naio, en brazos de Brogu, gira la cabeza. Y lo último que ve de su hija es una mujer encapuchada escalando el palacio entre disparos, sola, hacia la cúpula más alta —la **Sala del Trono.**
 
 No sabe que va a caer.
 
@@ -1516,7 +1516,7 @@ Mira al monstruo. Por primera vez en veinte mil años lo ve con sus propios ojos
 *(bajo, casi un rezo)*
 There you are.
 
-Aprovechando que @Theron le hace frente, **@BROG** y **@NIMA** entran por la brecha. @Brog levanta a **@Stella** (en coma) como a una pluma. @Nima carga a **@Selka** (manca). **@VOSK** los cubre desde la puerta —llegó, después de todo.
+Aprovechando que @Theron le hace frente, **BROGU** y **@NIMA** entran por la brecha. Brogu levanta a **@Stella** (en coma) como a una pluma y se la echa a un hombro. A **@Selka** (manca) la levanta **@VOSK**, que llegó después de todo. @Nima va delante abriéndoles paso, apagando lo que se mueva.
 
 **@NIMA**
 *(a @Theron, gritando)*
@@ -1649,4 +1649,4 @@ CORTE A NEGRO.
   los 9 años, por una pregunta. Ella la lleva en cada plano de la película sin saber lo que significa.
 - **La señal de @Vera existe** (SEC 12/18): la voz de la madre, grabada. Una reliquia para las dos hermanas.
 - **@Gix nació del ADN de @Stella** (invento de @Naio): puente para una posible revivificación.
-- @Naio vivo; @Vosk redimido; @Noah enamorado; @Brog y @Nima, la familia que queda en pie.
+- @Naio vivo; @Vosk redimido; @Noah enamorado; Brogu y @Nima, la familia que queda en pie.

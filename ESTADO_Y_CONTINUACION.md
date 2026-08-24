@@ -2,7 +2,7 @@
 
 > **Documento de traspaso.** Si me abres desde otra sesión/dispositivo, lee esto primero:
 > resume el proyecto, el canon, qué está hecho, dónde vive cada cosa y qué falta.
-> Última actualización: **2026-08-18** · Revisión de guion **v2.3**.
+> Última actualización: **2026-08-23** · Revisión de guion **v2.4**.
 
 ---
 
@@ -13,7 +13,20 @@
 - La saga se dividió en 3 partes por decisión **narrativa** (sola / sola / dúo), NO porque P1 fuera larga. P1 es lean.
 - Logline: una niña huye de su mundo moribundo con la fuente de vida del planeta en la mano, con la promesa de volver, hacerse fuerte y salvar a la hermana que el enemigo le robó.
 
-## 📖 CANON DEL GUION — v2.3 (2026-08-18) ⚠️ LEER ANTES DE USAR LOS PROMPTS
+## 📖 CANON DEL GUION — v2.4 (2026-08-23) ⚠️ LEER ANTES DE USAR LOS PROMPTS
+
+**Cambios v2.4 — dos personajes rediseñados:**
+- **Brog → `@Brogu`.** Ya **NO** es un gigante de piedra: es un ser con **aspecto de gorila**
+  (pelaje oscuro, hombros de armario, brazos larguísimos, ojos pequeños y calmos). Sigue siendo
+  lento, callado, el último de su especie, y sigue enseñándole a Stella su idioma muerto.
+  ⚠️ Nada de roca, grietas ni luz interior en ningún prompt.
+- **`@Nima` deja de tener cuatro brazos.** Es una **elfa de piel azulada y baja estatura**, y
+  **la científica de la nave** (ya no «mecánica»). Su taller pasa a ser **laboratorio**.
+  ⚠️ **Dos brazos.** Trabaja sobre un cajón para alcanzar la mesa y no lo menciona nunca.
+- **Consecuencia de altura (SEC 27):** una elfa baja no puede cargar a una adulta con armadura →
+  ahora **Vosk levanta a Selka**, Brogu carga a Stella y Nima va delante abriendo paso.
+- Donde Nima abría paredes a la fuerza, ahora usa artefactos.
+
 La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincronizada). **32 secuencias.**
 
 **Cambios v2.3:**
@@ -70,6 +83,7 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
 | Contenido | Archivo(s) | ¿Al día con v2.3? |
 |---|---|---|
 | **Guion canónico** | `GUION_P1_v2.md` (32 secuencias) | ✅ |
+| **Híbrido ES/EN** | `GUION_P1_v2_DIALOGOS_EN.md` | ✅ `tools/genhibrido.py` |
 | **Escaleta** | `ESCALETA_P1_v2.md` | ✅ |
 | **PDF** | `guion/render/GUION_P1_v2.pdf` (47 pág.) | ✅ `tools/guion_pdf.py` |
 | Personajes (32) | `PROMPTS_PERSONAJES(_MINI).md` | ✅ |
@@ -108,5 +122,5 @@ con `tools/cola_estilo.py --set "..."`.
    la real — ver conversación).
 
 ---
-*Para retomar: lee esto, luego `guion/GUION_P1_v2.md` (v2.3) y la escaleta. El guion manda sobre
+*Para retomar: lee esto, luego `guion/GUION_P1_v2.md` (v2.4) y la escaleta. El guion manda sobre
 cualquier prompt viejo.*

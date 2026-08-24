@@ -22,7 +22,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 MD = RAIZ / "guion" / "GUION_P1_v2.md"
 WEB = RAIZ / "guion" / "GUION_WEB.html"
 APP = RAIZ / "STELLA_FUGAZ.html"
-VERSION = "v2.3"
+VERSION = "v2.4"
 
 CUE_RE = re.compile(r"^\*\*(.+)\*\*$")
 

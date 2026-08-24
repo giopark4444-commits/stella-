@@ -1,8 +1,12 @@
-# ESCALETA — STELLA FUGAZ · PELÍCULA 1 "EL NODO DE ERDIA" (v2.3)
+# ESCALETA — STELLA FUGAZ · PELÍCULA 1 "EL NODO DE ERDIA" (v2.4)
 
-> Secuencia por secuencia, en orden de pantalla. Síntesis del `GUION_P1_v2.md` (revisión v2.3, 2026-08-18).
+> Secuencia por secuencia, en orden de pantalla. Síntesis del `GUION_P1_v2.md` (revisión v2.4, 2026-08-23).
 > Estructura 起承転結. 🔒 El cambio de forma de Vorthan es SECRETO hasta el clímax.
 > Marcadores **[ERDIA · AÑO X]** = saltos rotulados. (1 año de Stella = 4 de Erdia; **Erdia avanza 24 años**.)
+> **Cambios v2.4:** **Brog → BROGU**, con aspecto de gorila (ya no de piedra) · **Nima** deja de tener
+> cuatro brazos: es una **elfa azulada y baja, la científica de la nave** · en la SEC 27 **Vosk carga a
+> Selka** (Nima no da la talla física).
+>
 > **Cambios v2.3:** SEC 12A nueva (Selka a los 9 · el origen de la cicatriz · el segundo en que se
 > fabrica a la General) · **fuera la nana** · Selka es **cadete** en el año 14, no General · **el muelle**
 > en la confesión de Vorthan.
@@ -72,7 +76,7 @@ pelear**; se alían; con la tripulación entrando, **escapan**. Conoce a **Noah,
 empatía incómoda. Su **escape es el acto heroico** que le gana el respeto de **Theron** y de **Vosk**.
 *(Noah se prenda de ella.)*
 
-**10. Vínculos.** La familia que la cura: **Brog** (le enseña su idioma muerto) y **Nima** (le construye
+**10. Vínculos.** La familia que la cura: **Brogu** (le enseña su idioma muerto) y **Nima** (le construye
 su **traje nuevo**). Paisajes de cometas. Stella **domina el Orbe** poco a poco (de inestable a canalizar).
 
 **11. La sospecha (Theron ↔ Stella).** Stella insiste en volver a Erdia. Theron le pide **la mano y el
@@ -104,7 +108,7 @@ propia mano.** Sin memoria de nada. Se arrodilla y se queda mirando el **pelo bl
 **Nima le tiñe el pelo** — el pelo blanco es el rasgo de la línea de Vera; teñírselo es borrarse a su
 madre para poder volver a casa. En el metal pulido, la que devuelve la mirada ya es una adulta.
 
-**16. [ERDIA · AÑO 24] El regreso.** Stella (~20, **pelo teñido**) baja con Brog, Nima, Noah.
+**16. [ERDIA · AÑO 24] El regreso.** Stella (~20, **pelo teñido**) baja con Brogu, Nima, Noah.
 **La odian** (la hereje "que estancó la luz"); **Korin la reconoce por la cara** bajo el tinte. Erdia
 **dividida**; huele a guerra. **Vosk ruega a Theron** poder entrar a ayudarla.
 
@@ -119,7 +123,7 @@ las **celdas** — el mismo camino de Vera. Reencuentro: Naio la reconoce **por 
 palma ("Mi niña del río"). "¿Por qué te dejó vivo?" — *"Porque yo lo encripté en ti. Cree que sé cómo
 deshacerlo."* Ella le corta los grilletes con el Orbe y, cuando él va a gritar su nombre, **le tapa la
 boca**: "No digas quién soy" (el planeta aún la cree la ladrona). Naio se traga el nombre… y también
-la verdad sobre Vera que ella ya sabe. Entrega a Naio a Noah y Brog — y **rompe su promesa**: escala
+la verdad sobre Vera que ella ya sabe. Entrega a Naio a Noah y Brogu — y **rompe su promesa**: escala
 sola hasta la cúpula y **cae por el cristal** a la Sala del Trono.
 
 **19. El trono — el combate emocional.** Ante **Selka (la General, 25)**, Stella **podría vencer** pero
@@ -149,7 +153,7 @@ Stella: **no está muerta** — la agonía que disfrutó no ocurrió. *"…Eso n
 temblar**: se levanta fría, recoge la hoja — *"Ya sé de memoria cómo se obedece. Esta vez elijo yo a
 quién."* Dos cosas fuera de control en un minuto: Vorthan abandona los disfraces **como una rabieta** →
 **forma real: el PARÁSITO.** A Selka **le secciona el brazo**. **Theron entra** — por primera vez en
-veinte mil años **ve a su presa** (ahora tiene la referencia: puede rastrearla). Brog y Nima **sacan a
+veinte mil años **ve a su presa** (ahora tiene la referencia: puede rastrearla). Brogu y Nima **sacan a
 Stella (coma) y a Selka (manca)**; Vosk cubre la puerta.
 
 **23. La huida del monstruo.** El **palacio-nave despega** con el Orbe y abre un **portal**: se va a
@@ -171,6 +175,6 @@ corazón**. *"…un río que vuelve."* Corte a negro. → **EL NODO DE ERDIA.**
 - **La noche del año 14 es una sola pieza:** celdas → aposentos → el arma en la mano. Un edificio, una
   noche, sin cortes de traslado.
 - **Primer plano:** las dos hermanas + la mentira de la madre. Lo demás, al fondo (ver `TRIAJE_prioridad_P1.md`).
-- **Equilibrio tonal:** la calidez (Nima, Brog, los paisajes) balancea lo oscuro.
+- **Equilibrio tonal:** la calidez (Nima, Brogu, los paisajes) balancea lo oscuro.
 - **Regla del truco:** Marek y Vorthan **nunca comparten plano**. Y el rescate de Vera se cuenta como el
   momento más limpio de la película — todo el daño lo hace hacia atrás, en la SEC 26.

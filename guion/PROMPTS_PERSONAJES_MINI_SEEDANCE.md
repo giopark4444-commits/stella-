@@ -9,7 +9,7 @@
 >
 > El único desvío que se mantiene es el de **especie**, porque cambia el resultado por completo:
 > - **Naieli** (la familia, @Korin, @Lessa, @Marek) → sin desvío, salen cercanos a lo humano.
-> - **@Theron, @Brog, @Nima, @Vosk, cazarrecompensas** → *clearly not human*.
+> - **@Theron, Brogu, @Nima, @Vosk, cazarrecompensas** → *clearly not human*.
 > - **@Noah y los tres pilotos** → *human*. Es punto de trama: @Noah se parece a la gente de @Stella.
 > - **@Gix, el Parásito, los robots** → *not humanoid / not human technology*.
 
@@ -72,11 +72,11 @@ How would a teenage cadet look, raised by the empire that stole her? Show me 4 e
 ### @Theron — el Cazador
 How would an ancient alien hunter look, who has chased the same prey across the universe for twenty thousand years? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 
-### @Brog — el gigante de roca
-How would the last living giant of a species made of stone look? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+### @Brogu — el gigante gorila
+How would the last living giant of an ape-like species look, gentle and enormous? Show me 4 examples. Clearly not human, not made of stone. Ghibly style and water color painting.
 
-### @Nima — la mecánica
-How would the mechanic who keeps an ancient ship alive look, from a species with four arms? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+### @Nima — la científica
+How would the scientist who keeps an ancient ship flying look, a short blue-skinned elf? Show me 4 examples. Clearly not human, two arms only. Ghibly style and water color painting.
 
 ### @Noah — el espadachín humano
 How would a young human survivor look, who has been fighting to stay alive since he was a child? Show me 4 examples. Human. Ghibly style and water color painting.
