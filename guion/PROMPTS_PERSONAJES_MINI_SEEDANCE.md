@@ -134,8 +134,20 @@ How would a small friendly spirit made of water and light look, shaped like an a
 ### @Vorthan — el Rey
 How would an alien king look who has not aged in centuries, and whom his people worship as a god? Show me 4 examples. Ghibly style and water color painting.
 
-### @RobotImperial — el soldado robot
-How would the mass-produced soldier robot of an alien empire look? Show me 4 examples. Not human technology. Ghibly style and water color painting.
+### @RobotImperial — los cuatro tipos juntos 🆕
+How would the four different machine types of one alien army look side by side, so you can tell them apart by silhouette alone? Show me 4 examples. Not human technology. Never white. Ghibly style and water color painting.
+
+### @RobotLinea — la infantería 🆕
+How would the mass-produced foot soldier of an alien empire look, the one you see in ranks of hundreds? Show me 4 examples. Not human technology. Never white. Ghibly style and water color painting.
+
+### @RobotPesado — el rompefilas 🆕
+How would the machine an alien empire sends to break a line look, twice the height of its own soldiers? Show me 4 examples. Not human technology. Never white. Ghibly style and water color painting.
+
+### @RobotCorredor — el que llega primero 🆕
+How would the fastest machine of an alien army look, the one that runs on four limbs and reaches you before the rest? Show me 4 examples. Not human technology. Never white. Ghibly style and water color painting.
+
+### @RobotDescarga — el que nunca avanza 🆕
+How would the machine that never advances look, standing far back on very long legs and firing down on everything? Show me 4 examples. Not human technology. Never white. Ghibly style and water color painting.
 
 ### @Parasito — la forma real de @Vorthan 🔒
 How would a creature that devours whole worlds look, made out of the light it has stolen from them? Show me 4 examples. Not humanoid. Ghibly style and water color painting.

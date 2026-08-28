@@ -40,6 +40,9 @@ How would the corridors of an alien palace look on the night they become a trap?
 ### @SalaDelOrbe — la cámara del Orbe
 How would the sacred chamber where a world keeps its own heart look? Show me 4 examples. Not human architecture. Ghibly style and water color painting.
 
+### @PalacioEsfera — el palacio visto desde fuera 🆕
+How would a palace look that is one enormous stone sphere resting on a city, as big as a mountain? Show me 4 examples. Not human architecture. Ghibly style and water color painting.
+
 ### @PlazaPalacio — la gran plaza
 How would the great public square of an alien palace look, built to hold a whole city? Show me 4 examples. Not human architecture. Ghibly style and water color painting.
 

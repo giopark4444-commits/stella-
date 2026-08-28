@@ -36,6 +36,24 @@
   movimiento y partirlos en dos escenas era un error de montaje.
 
 
+**Cambios v2.6 — LA PLAZA REPLANTEADA (2026-08-28):**
+- **El palacio es UNA ESFERA**, no una cúpula sobre un edificio: una bola de piedra del tamaño de una
+  montaña apoyada sobre la ciudad. Hoja nueva `@PalacioEsfera`. La cúspide es su punto más alto.
+- **Cuatro tipos de máquina imperial**, clonados por decenas, reconocibles **por la silueta**:
+  `@RobotLinea` (infantería idéntica) · `@RobotPesado` (doble de alto, rompe formaciones) ·
+  `@RobotCorredor` (bajo, cuatro patas, llega primero) · `@RobotDescarga` (patas larguísimas, no
+  avanza nunca, dispara desde atrás — es el origen de las descargas de la fachada).
+  ⚠️ **Ninguno es blanco:** metal oscuro casi negro; se ven porque el fuego se les refleja encima.
+  `@RobotImperial` pasa a ser la hoja de familia: los cuatro juntos para leer las siluetas.
+- **La plaza es un CHOQUE DE DOS EJÉRCITOS**, no unos pocos aguantando. La resistencia también es
+  muchos y también corre.
+- **La plaza va en PLANOS SECUENCIA con cámara-dron**, no en cortes: la cámara vuela, se engancha a un
+  personaje, lo suelta, se va con otro, sube, gira y cae. Velocidad alta, todo en movimiento.
+  Tres planos secuencia cubren el minuto (el choque · dentro · la decisión).
+- **Regla de montaje nueva:** la cámara **no para en todo el minuto** hasta que cae al suelo con Enko.
+  Esa quietud es el primer plano estático de la película y por eso pesa el doble. La segunda vez que
+  se para es en la sala del trono.
+
 **Cambios v2.4 — dos personajes rediseñados:**
 - **Brog → `@Brogu`.** Ya **NO** es un gigante de piedra: es un ser con **aspecto de gorila**
   (pelaje oscuro, hombros de armario, brazos larguísimos, ojos pequeños y calmos). Sigue siendo
