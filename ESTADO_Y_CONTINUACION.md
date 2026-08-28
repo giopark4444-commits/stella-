@@ -149,7 +149,8 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
 ## 📁 Dónde vive cada cosa (`guion/*.md`)
 | Contenido | Archivo(s) | ¿Al día con v2.3? |
 |---|---|---|
-| **Guion canónico** | `GUION_P1_v2.md` (33 secuencias) | ✅ |
+| **Guion canónico** | `GUION_P1_v2.md` (34 secuencias) | ✅ |
+| **Guion técnico SEC 0** | `GUION_TECNICO_SEC0.md` — 45 planos, cámaras, refs y riesgos | ✅ |
 | **Híbrido ES/EN** | `GUION_P1_v2_DIALOGOS_EN.md` | ✅ `tools/genhibrido.py` |
 | **Escaleta** | `ESCALETA_P1_v2.md` | ✅ |
 | **PDF** | `guion/render/GUION_P1_v2.pdf` (47 pág.) | ✅ `tools/guion_pdf.py` |
