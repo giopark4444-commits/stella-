@@ -725,24 +725,16 @@ Porque ve a **VERA** y a su padre **NAIO** (~45, **el científico del Rey** —s
 *(la sonrisa cae)*
 …¿Todo está bien?
 
-Nadie le contesta. Naio le tiende un **traje** plegado.
+Nadie le contesta.
+
+Y Stella, sin que nadie se lo diga, **lee la habitación.** Cruza el laboratorio y **le entrega a Selka a su madre**, en los brazos.
+
+*(Es lo primero que hace: liberarse las manos. Todavía no sabe para qué.)*
+
+Naio le tiende un **traje** plegado.
 
 **NAIO**
 Póntelo. Rápido.
-
-Stella deja a Selka en el **moisés flotante** para poder cambiarse.
-
-Y la bebé, en cuanto le falta el cuerpo de su hermana, **rompe a llorar.**
-
-Stella se detiene a medio vestir. Y va hacia ella.
-
-Se inclina sobre el moisés. **Ahueca la mano izquierda.** Y **Gix se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan en la palma, como luciérnagas. Le **junta la frente** a la bebé.
-
-Y las dos **sonríen.**
-
-Selka se calla al instante. Un momento minúsculo, tibio, de hermanas. *(Guardarlo. Vuelve.)*
-
-*(Es lo último que esa mano va a hacer siendo una mano normal.)*
 
 Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.
 
@@ -761,7 +753,19 @@ Por eso lo quiere.
 
 Naio activa una máquina sobre **la mano izquierda abierta** de Stella. Ella espera que le ponga algo dentro —una joya, un objeto. No le pone nada. La **prepara**. Una **llave de luz** se graba bajo su piel, en la palma, con un dolor breve y limpio.
 
-Stella aprieta los dientes.
+Stella aprieta los dientes y no grita.
+
+Pero **Selka sí.** En los brazos de su madre, la bebé **rompe a llorar** —por el fogonazo, por el ruido, por la cara que acaba de poner su hermana.
+
+Y Stella, **con la mano todavía humeando**, va hacia ella.
+
+**Ahueca esa misma palma.** Y **Gix se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan dentro, como luciérnagas. Le **junta la frente** a su hermana.
+
+Y las dos **sonríen.**
+
+Selka se calla al instante. Un momento minúsculo, tibio, de hermanas. *(Guardarlo. Vuelve.)*
+
+*(Acaban de convertirle la mano en una caja fuerte. Y lo primero que hace con ella es regalar luz.)*
 
 **NAIO (CONT.)**
 El Orbe es nuestra sangre, Stella. Solo nuestra familia puede tocarlo.
@@ -804,7 +808,7 @@ Naio le dice que no **con la cara.** No le sale la palabra.
 **NAIO**
 Las quiero. A las tres. Ya.
 
-Un abrazo de los tres, demasiado corto. Vera levanta a la bebé del moisés.
+Un abrazo de los tres, demasiado corto, con la bebé apretada en medio.
 
 La puerta principal se abre.
 
@@ -813,7 +817,7 @@ Entra **VORTHAN** —el Rey. Alto, sereno, con una **sonrisa de viejo amigo de l
 **VORTHAN**
 *(casi con cariño)*
 Naio. Viejo amigo.
-*(mira la escena, el traje, el moisés vacío)*
+*(mira la escena: el traje a medio poner, la bebé en brazos de su madre, la salida trasera)*
 Sabías que este día llegaría.
 
 Vera y Stella ya se deslizan hacia la salida trasera, despacio, sin correr todavía. Pero los ojos del Rey lo ven todo.
