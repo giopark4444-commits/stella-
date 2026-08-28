@@ -37,10 +37,18 @@
 > • **El corte de vuelta es de caída a caída:** ella se precipita hacia dentro del palacio y la cámara
 >   se precipita hacia dentro del planeta (SEC 1). El mismo movimiento dos veces: bajar al centro de
 >   algo y encontrarlo hueco.
-> • **La SEC 23 retoma ese plano** y esta vez no se corta. El público lo reconoce y ya sabe lo que le
->   costó llegar.
-> • ⚠️ **La SEC 0 no puede mostrar** la cara de Selka (solo una silueta blanca), ni a Marek, ni a
->   Vorthan, ni el interior del palacio. Ahí viven los tres secretos.
+> • **La apertura termina dentro de la sala del trono:** cae rota, ve al fondo una figura de pelo
+>   blanco y **la confunde con su madre** — baja la guardia y camina hacia ella con las palmas
+>   abiertas. Y **algo la golpea por detrás.** No vemos qué. POV: su mano con la luz apagándose y una
+>   silueta que se aleja de espaldas. Macro de la **pupila dilatándose** hasta tragarse la pantalla.
+> • **La SEC 24 lo retoma y esta vez la cámara no se va:** el que la golpea es **VORTHAN en forma
+>   humana**, que llevaba ahí desde antes. Y su motivo, que nadie enuncia: lo único que no puede
+>   permitirse es que Stella llegue hasta Selka **desarmada y llamándola por un nombre** — eso podría
+>   despertarla. Una pelea, en cambio, mantiene a Selka en modo soldado.
+> • Después Stella se levanta y **pelea con Selka por el Orbe**, Selka gana, y Vorthan **sigue siendo
+>   humano** hasta que Selka pone el Orbe en la consola. Solo entonces se transforma.
+> • ⚠️ **La SEC 0 no puede mostrar** la cara de Selka (solo silueta de pelo blanco de espaldas), ni a
+>   Vorthan, ni a Marek. La confusión con la madre es deliberada y planta el disfraz del clímax.
 >
 > **Revisión v2.4 (2026-08-23):**
 > • **Brog pasa a llamarse BROGU** y deja de ser un gigante de piedra: es un ser con **aspecto de
@@ -190,7 +198,48 @@ Aprieta el puño. La luz se le concentra en la palma hasta iluminarle la cara en
 
 Y **rompe el cristal.**
 
-Cae.
+INT. SALA DEL TRONO — CONTINUO
+
+**Cae.** Veinte metros entre una lluvia de vidrio, y el suelo la recibe mal.
+
+Se queda ahí un segundo, de lado. Está **rota**: se levanta como se levanta alguien que ya no debería poder.
+
+Y entonces, al fondo de una sala del tamaño de una catedral —a treinta metros, contra la única luz que entra— hay **una figura.**
+
+De pie. Inmóvil. **Pelo blanco.**
+
+A Stella se le cae la cara entera.
+
+Baja las manos. **Baja la guardia.**
+
+Y empieza a caminar hacia ella. Sin defenderse, con las palmas abiertas, cojeando entre los cristales, moviendo los labios para decir **una palabra que no oímos.**
+
+*(Y no es el nombre que ustedes creen. A esa distancia, con esa luz y ese pelo, Stella no está viendo a su hermana. Está viendo a su madre.)*
+
+Un paso más.
+
+Y de pronto **siente algo detrás.**
+
+Empieza a girarse—
+
+**IMPACTO.**
+
+Fuera de cuadro. Brutal. El mundo se le va de lado y el suelo le llega a la cara.
+*(No vemos qué la golpeó. Ni siquiera vemos que había alguien más en la sala.)*
+
+**POV STELLA — CONTRA EL SUELO.** Todo torcido, todo desenfocándose.
+
+En primerísimo término, **su propia mano abierta** — y la luz de la palma **apagándose**, latido a latido.
+
+Y allá al fondo, borrosa, **la silueta de pelo blanco. De espaldas. Alejándose.**
+
+MACRO — **la pupila de Stella.**
+
+Se dilata. Se abre. Se abre más.
+
+Hasta que el negro se lo traga todo.
+
+NEGRO TOTAL.
 
 CORTE —
 
@@ -1470,9 +1519,42 @@ Rompe el cristal de un golpe del Orbe. Y **cae** al trono.
 
 ## SEC. 24 — INT. PALACIO IMPERIAL — SALA DEL TRONO — CONTINUO
 
-Stella aterriza entre vidrios. Se levanta.
+> *Volvemos al plano con el que abrió la película. Esta vez la cámara no se va — y vemos lo que la
+> apertura nos escondió.*
 
-Frente a ella, **SELKA** —la General, 25, blanca, perfecta, ojos gris-azul, cicatriz sobre el ojo izquierdo, sin un gesto.
+Stella aterriza entre vidrios. Se levanta rota.
+
+Al fondo, a treinta metros, **una figura de pelo blanco de espaldas a la luz.**
+
+Y otra vez la vemos bajar las manos. Otra vez la vemos caminar hacia ella con las palmas abiertas. Y esta vez **sí oímos la palabra:**
+
+**STELLA**
+*(un hilo de voz, sin creérselo)*
+…¿Mamá?
+
+Y ahora la cámara **no se corta.** Se queda. Y por primera vez vemos lo que había detrás de ella todo este tiempo.
+
+**VORTHAN.**
+
+De pie en la penumbra, con su forma de siempre, esperando. Lleva ahí desde antes de que ella rompiera el cristal.
+
+Y no la deja llegar.
+
+Cruza los tres metros que los separan y le cruza la espalda de un golpe seco, sin ceremonia, como quien cierra una puerta.
+
+Stella se desploma de cara contra el suelo.
+
+*(Y ahí está el motivo, aunque nadie lo diga todavía: lo único que Vorthan no puede permitirse es que esa mujer llegue hasta Selka **desarmada, llorando y llamándola por un nombre.** Eso podría despertarla. Una pelea, en cambio, es segura: peleando, Selka sigue siendo un soldado.)*
+
+Vorthan se retira a la penumbra. Ya hizo lo que tenía que hacer.
+
+Y la figura de pelo blanco **por fin se gira.**
+
+No es Vera. Nunca lo fue.
+
+**SELKA** —la General, 25, blanca, perfecta, ojos gris-azul, cicatriz sobre el ojo izquierdo, sin un gesto.
+
+Stella se levanta del suelo con lo que le queda. Escupe. Y la mira de verdad.
 
 Las dos hermanas, frente a frente, por primera vez en veinticuatro años. Solo una de las dos lo sabe.
 
