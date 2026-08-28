@@ -27,7 +27,7 @@ EXT. UNA CIUDAD GRIS — NIEBLA, FUEGO, GUERRA
 
 Una plaza rota bajo un palacio inmenso. Y contra ese palacio, una marea de **soldados robot** blancos y sin cara, en filas que no se acaban.
 
-Enfrente, muy pocos. Y aguantando.
+Enfrente, muy pocos. Y aguantando. **Nadie lleva un arma.** Cada uno pelea con lo que es.
 
 **BROGU** —un gigante peludo— entra en la primera fila **de hombro** y abre un boquete de cinco metros. Levanta a un robot por encima de la cabeza y lo estrella contra otros tres.
 
@@ -45,7 +45,7 @@ Y detrás de ellos, en el suelo, **los que ya no están de pie.**
 
 Se lo echa al hombro igual.
 
-Y lo saca de la línea de fuego **cargándolo entero**, cojeando, disparando con la mano libre, sin soltarlo ni cuando le revienta el suelo al lado. Lo sienta contra un muro. Le cierra los ojos con dos dedos.
+Y lo saca de ahí **cargándolo entero**, cojeando, apartando robots a patadas con la pierna buena, sin soltarlo ni cuando el suelo revienta a su lado. Lo sienta contra un muro. Le cierra los ojos con dos dedos.
 
 Y **vuelve a la línea.**
 
@@ -59,23 +59,29 @@ Una figura encapuchada. **No pelea.** Esquiva. No ayuda a nadie, no se detiene p
 
 Brogu la ve pasar y **golpea más fuerte** para que nada la toque.
 
-La figura llega al muro del palacio. Y **empieza a subir.**
+La figura llega al muro del palacio. Se agacha.
 
-LA CÁMARA SUBE CON ELLA — y la plaza se hace pequeña, y la guerra se convierte en un ruido lejano, y aparece la escala real de la cosa que está trepando: doscientos metros de piedra ardiendo.
+Y **las botas se le encienden.**
 
-Trepa. Salta. Se agarra donde no hay dónde agarrarse.
+Dos conos de luz. Un rugido corto. Y **despega en vertical**, pegada a la fachada, subiendo recto.
 
-Los disparos revientan la fachada a centímetros de su cara. No se detiene ni una vez.
+LA CÁMARA SUBE CON ELLA — y la plaza se hace pequeña, y la guerra se convierte en un ruido lejano, y aparece la escala real de la cosa que está subiendo: doscientos metros de piedra ardiendo.
 
-Una **torreta** la encuentra y la barre. Ella **se suelta** —cae seis metros a plomo— **ahueca la palma** y un latigazo de luz sale de su mano, engancha una gárgola y la frena en seco contra el muro.
+No es un vuelo limpio. Es a **ráfagas**: enciende, sube veinte metros, se apaga, se agarra a una cornisa, vuelve a encender. Cada tramo le cuesta.
 
-Queda colgando sobre el vacío. Respira. Sigue.
+Desde arriba le caen **descargas** — haces de luz blanca que revientan la piedra a centímetros de su cara. No se detiene ni una vez.
 
-Tres **robots** bajan por la fachada hacia ella. El primero llega y hay un choque brutal **a un solo brazo**, con el otro sosteniendo todo su peso sobre doscientos metros de nada. Le arranca la placa del pecho de un golpe de luz. Cae.
+Una **descarga la alcanza de lleno** en el costado. Se apagan las botas. Y **cae** —seis metros a plomo, dando vueltas, contra doscientos de vacío—
+
+—**ahueca la palma.** Un latigazo de luz sale de su mano, engancha una gárgola, y la frena en seco contra el muro.
+
+Queda colgando sobre la nada. Respira. Se enciende otra vez.
+
+Tres **robots imperiales** bajan por la fachada a su encuentro. Choque brutal **a un solo brazo**, con el otro sosteniendo todo su peso sobre el vacío. Le hunde la palma en el pecho al primero y **le vacía la luz dentro**. Cae.
 
 Al segundo lo usa de escalón.
 
-Al tercero lo agarra de la cabeza y **sube por él** mientras cae.
+Al tercero lo agarra de la cabeza, **enciende las botas**, y sube por él mientras cae.
 
 PRIMER PLANO: **la mano.** Se clava en la última cornisa. Los dedos resbalan. Aguantan.
 
@@ -435,7 +441,7 @@ Apenas despega, en el horizonte dorado, aparece una **FLOTA IMPERIAL.** Decenas 
 
 Empieza la persecución. Y aquí descubrimos algo: @Stella **vuela como nadie.** Se mete entre las torres, raspa los puentes, hace chocar a sus perseguidores contra los edificios. Es brillante. Pero son demasiados.
 
-Una nave imperial la encuadra. El disparo va a salir—
+Una nave imperial la encuadra. La descarga va a salir—
 
 —y **estalla**, reventada desde un costado.
 
@@ -776,7 +782,7 @@ Un presentador anuncia a la "ladrona del Orbe, la criminal más buscada del sect
 
 Por una reja se abre el lado opuesto del pozo. Empujan a su oponente.
 
-Es un **humano.** **@NOAH** —joven, magullado, una vieja espada y un arma de luz, ojos que no se rinden.
+Es un **humano.** **@NOAH** —joven, magullado, una vieja espada y una hoja de luz, ojos que no se rinden.
 
 @Stella se queda helada. Porque ese chico **se parece a ella.** A su gente. *(Lo entenderá después: su planeta desterraba a los condenados a un mundo lejano para morir. No murieron. Se volvieron la humanidad. Son los hijos de sus exiliados.)*
 
@@ -806,13 +812,13 @@ Caos. @Stella y @Noah pelean espalda con espalda. Brogu entra rompiendo la pared
 
 En medio del tumulto, en una plataforma de ejecución sobre la fosa, los dueños del lugar están por **ajusticiar a un prisionero** que ya no les sirve.
 
-Es **@VOSK.** De rodillas, un arma en la nuca.
+Es **@VOSK.** De rodillas, con una hoja de luz encendida en la nuca.
 
 @Stella lo ve. Se detiene. @Noah le grita que vámonos.
 
 Y @Stella —a la que @Vosk vendió, traicionó, entregó— cambia de dirección y va por él.
 
-Rompe la plataforma, desvía el disparo, lo carga. @Vosk la mira sin entender, con el cuello todavía marcado por el arma.
+Rompe la plataforma, desvía la descarga con la palma, lo carga. @Vosk la mira sin entender, con el cuello todavía marcado por el calor de la hoja.
 
 **@VOSK**
 *(aturdido)*
@@ -1178,16 +1184,16 @@ A whole planet hates you. And you came back anyway.
 *(mirando las ruinas)*
 That's why I came back.
 
-Un grupo de la resistencia los intercepta, armas en alto. Al frente, más viejo, más cansado: **@KORIN.**
+Un grupo de la resistencia los intercepta, los artefactos cargados y en alto. Al frente, más viejo, más cansado: **@KORIN.**
 
-Apunta a @Stella. Ella se baja la capucha despacio. @Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden de disparar.
+Le apunta con un artefacto de la resistencia. Ella se baja la capucha despacio. @Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden.
 
 Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinticuatro años, siempre pegada a su madre.
 
 **@KORIN**
 *(la voz se le rompe)*
 …@Stella? I knew you when you were small — always beside your mother.
-*(baja el arma, temblando)*
+*(baja el artefacto, temblando)*
 It's you. You came back.
 
 EN LA ÓRBITA — INT. NAVE NODRIZA DE @THERON: **@VOSK** mira la pantalla, donde Erdia hierve. Aprieta los puños. Se gira a @Theron.
@@ -1208,7 +1214,7 @@ It became mine the day she pulled me out of that pit.
 
 ## SEC. 22 — INT. ERDIA — REFUGIO DE LA RESISTENCIA — DÍA
 
-El refugio de siempre, más viejo, más lleno. Mapas sobre una mesa de chatarra. La resistencia se prepara: revisan armas de energía, reparten cargas.
+El refugio de siempre, más viejo, más lleno. Mapas sobre una mesa de chatarra. La resistencia se prepara: revisan sus artefactos, reparten cargas.
 
 **@KORIN** extiende un plano dibujado a mano: el palacio.
 
@@ -1242,7 +1248,7 @@ I was at the door. I saw it.
 *(la mira a los ojos)*
 The General held her. And lost her. Your mother died in your sister's arms.
 
-Quietud. @Stella no llora. No grita. Se queda muy quieta, como quien recibe un disparo y todavía no lo siente.
+Quietud. @Stella no llora. No grita. Se queda muy quieta, como quien recibe un golpe y todavía no lo siente.
 
 **@STELLA**
 *(un hilo)*
@@ -1361,7 +1367,7 @@ Come with us.
 *(mirando hacia arriba)*
 Not yet.
 
-@Naio, en brazos de Brogu, gira la cabeza. Y lo último que ve de su hija es una mujer encapuchada escalando el palacio entre disparos, sola, hacia la cúpula más alta —la **Sala del Trono.**
+@Naio, en brazos de Brogu, gira la cabeza. Y lo último que ve de su hija es una mujer encapuchada subiendo el palacio entre descargas, sola, hacia la cúpula más alta —la **Sala del Trono.**
 
 No sabe que va a caer.
 
@@ -1504,7 +1510,7 @@ She was useful. A banner with a martyr's face. Everyone who hated the King came 
 *(se detiene; mira a @Selka)*
 And then you grew up. The day you were finished, she stopped being necessary.
 *(beat)*
-I could have erased her in the street. One shot, a collapsed wall, anything that takes a minute.
+I could have erased her in the street. An accident, a collapsed wall, anything that takes a minute.
 *(la sonrisa se le afila)*
 But I'd been carrying her for fourteen years. I'd earned something better.
 I wanted to watch her go slowly. Knowing her daughter was decisive her. I wanted her to leave wearing that.

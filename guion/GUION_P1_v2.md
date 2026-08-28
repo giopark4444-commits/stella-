@@ -16,8 +16,14 @@
 > • **Geografía:** el **laboratorio de Naio está DENTRO del palacio imperial** (Naio es el científico del Rey). Por eso la huida **lab → pasillos → Sala del Orbe** es continua, en un mismo edificio.
 > • **Pelo blanco:** es el **voto naieli de la familia** (Stella, Vera, Naio, Selka). La **resistencia y los
 >   pilotos NO** son todos de pelo blanco. Los **aliados que salvan a Stella son 3 pilotos** de aspecto variado.
-> • **Armas:** solo de **energía / cuerpo a cuerpo** — **nunca de fuego** (no guns). La violencia se muestra
->   por luz, no por sangre.
+> • **Armas: NO HAY.** Nadie carga un arma en esta película. **Cada especie pelea con lo suyo** — con su
+>   cuerpo, con su técnica o con su tecnología propia. Ni pistolas, ni rifles, ni balas, ni gatillos.
+>   Los imperiales lanzan **descargas** desde el cuerpo del propio robot; la resistencia usa **artefactos**;
+>   Noah una **hoja de luz**; Brogu sus manos; Nima cacharros que fabrica ella. La violencia se muestra
+>   **por luz, nunca por sangre.**
+> • **Stella tiene propulsores en las botas** (y en la espalda del traje): vuela a ráfagas cortas, tipo
+>   traje de vuelo. Ya los usa a los 14 para escapar por el ducto (SEC 6) — es el mismo movimiento que
+>   la sube por el palacio en la SEC 0 y la SEC 23, veinticuatro años después.
 > • **Vestuario de Stella:** ropa civil (parque) → armadura "04" con trenza (lab/huida) → armadura con **pelo
 >   corto** tras cortarse la trenza → **pelo teñido de oscuro + traje de Nima** (acto 3, SEC 20B).
 >
@@ -110,7 +116,7 @@ EXT. UNA CIUDAD GRIS — NIEBLA, FUEGO, GUERRA
 
 Una plaza rota bajo un palacio inmenso. Y contra ese palacio, una marea de **soldados robot** blancos y sin cara, en filas que no se acaban.
 
-Enfrente, muy pocos. Y aguantando.
+Enfrente, muy pocos. Y aguantando. **Nadie lleva un arma.** Cada uno pelea con lo que es.
 
 **BROGU** —un gigante peludo— entra en la primera fila **de hombro** y abre un boquete de cinco metros. Levanta a un robot por encima de la cabeza y lo estrella contra otros tres.
 
@@ -128,7 +134,7 @@ Y detrás de ellos, en el suelo, **los que ya no están de pie.**
 
 Se lo echa al hombro igual.
 
-Y lo saca de la línea de fuego **cargándolo entero**, cojeando, disparando con la mano libre, sin soltarlo ni cuando le revienta el suelo al lado. Lo sienta contra un muro. Le cierra los ojos con dos dedos.
+Y lo saca de ahí **cargándolo entero**, cojeando, apartando robots a patadas con la pierna buena, sin soltarlo ni cuando el suelo revienta a su lado. Lo sienta contra un muro. Le cierra los ojos con dos dedos.
 
 Y **vuelve a la línea.**
 
@@ -142,23 +148,29 @@ Una figura encapuchada. **No pelea.** Esquiva. No ayuda a nadie, no se detiene p
 
 Brogu la ve pasar y **golpea más fuerte** para que nada la toque.
 
-La figura llega al muro del palacio. Y **empieza a subir.**
+La figura llega al muro del palacio. Se agacha.
 
-LA CÁMARA SUBE CON ELLA — y la plaza se hace pequeña, y la guerra se convierte en un ruido lejano, y aparece la escala real de la cosa que está trepando: doscientos metros de piedra ardiendo.
+Y **las botas se le encienden.**
 
-Trepa. Salta. Se agarra donde no hay dónde agarrarse.
+Dos conos de luz. Un rugido corto. Y **despega en vertical**, pegada a la fachada, subiendo recto.
 
-Los disparos revientan la fachada a centímetros de su cara. No se detiene ni una vez.
+LA CÁMARA SUBE CON ELLA — y la plaza se hace pequeña, y la guerra se convierte en un ruido lejano, y aparece la escala real de la cosa que está subiendo: doscientos metros de piedra ardiendo.
 
-Una **torreta** la encuentra y la barre. Ella **se suelta** —cae seis metros a plomo— **ahueca la palma** y un latigazo de luz sale de su mano, engancha una gárgola y la frena en seco contra el muro.
+No es un vuelo limpio. Es a **ráfagas**: enciende, sube veinte metros, se apaga, se agarra a una cornisa, vuelve a encender. Cada tramo le cuesta.
 
-Queda colgando sobre el vacío. Respira. Sigue.
+Desde arriba le caen **descargas** — haces de luz blanca que revientan la piedra a centímetros de su cara. No se detiene ni una vez.
 
-Tres **robots** bajan por la fachada hacia ella. El primero llega y hay un choque brutal **a un solo brazo**, con el otro sosteniendo todo su peso sobre doscientos metros de nada. Le arranca la placa del pecho de un golpe de luz. Cae.
+Una **descarga la alcanza de lleno** en el costado. Se apagan las botas. Y **cae** —seis metros a plomo, dando vueltas, contra doscientos de vacío—
+
+—**ahueca la palma.** Un latigazo de luz sale de su mano, engancha una gárgola, y la frena en seco contra el muro.
+
+Queda colgando sobre la nada. Respira. Se enciende otra vez.
+
+Tres **robots imperiales** bajan por la fachada a su encuentro. Choque brutal **a un solo brazo**, con el otro sosteniendo todo su peso sobre el vacío. Le hunde la palma en el pecho al primero y **le vacía la luz dentro**. Cae.
 
 Al segundo lo usa de escalón.
 
-Al tercero lo agarra de la cabeza y **sube por él** mientras cae.
+Al tercero lo agarra de la cabeza, **enciende las botas**, y sube por él mientras cae.
 
 PRIMER PLANO: **la mano.** Se clava en la última cornisa. Los dedos resbalan. Aguantan.
 
@@ -518,7 +530,7 @@ Apenas despega, en el horizonte dorado, aparece una **FLOTA IMPERIAL.** Decenas 
 
 Empieza la persecución. Y aquí descubrimos algo: Stella **vuela como nadie.** Se mete entre las torres, raspa los puentes, hace chocar a sus perseguidores contra los edificios. Es brillante. Pero son demasiados.
 
-Una nave imperial la encuadra. El disparo va a salir—
+Una nave imperial la encuadra. La descarga va a salir—
 
 —y **estalla**, reventada desde un costado.
 
@@ -859,7 +871,7 @@ Un presentador anuncia a la "ladrona del Orbe, la criminal más buscada del sect
 
 Por una reja se abre el lado opuesto del pozo. Empujan a su oponente.
 
-Es un **humano.** **NOAH** —joven, magullado, una vieja espada y un arma de luz, ojos que no se rinden.
+Es un **humano.** **NOAH** —joven, magullado, una vieja espada y una hoja de luz, ojos que no se rinden.
 
 Stella se queda helada. Porque ese chico **se parece a ella.** A su gente. *(Lo entenderá después: su planeta desterraba a los condenados a un mundo lejano para morir. No murieron. Se volvieron la humanidad. Son los hijos de sus exiliados.)*
 
@@ -889,13 +901,13 @@ Caos. Stella y Noah pelean espalda con espalda. Brogu entra rompiendo la pared e
 
 En medio del tumulto, en una plataforma de ejecución sobre la fosa, los dueños del lugar están por **ajusticiar a un prisionero** que ya no les sirve.
 
-Es **VOSK.** De rodillas, un arma en la nuca.
+Es **VOSK.** De rodillas, con una hoja de luz encendida en la nuca.
 
 Stella lo ve. Se detiene. Noah le grita que vámonos.
 
 Y Stella —a la que Vosk vendió, traicionó, entregó— cambia de dirección y va por él.
 
-Rompe la plataforma, desvía el disparo, lo carga. Vosk la mira sin entender, con el cuello todavía marcado por el arma.
+Rompe la plataforma, desvía la descarga con la palma, lo carga. Vosk la mira sin entender, con el cuello todavía marcado por el calor de la hoja.
 
 **VOSK**
 *(aturdido)*
@@ -1261,16 +1273,16 @@ Todo un planeta te odia. ¿Y aun así volviste.
 *(mirando las ruinas)*
 Por eso volví.
 
-Un grupo de la resistencia los intercepta, armas en alto. Al frente, más viejo, más cansado: **KORIN.**
+Un grupo de la resistencia los intercepta, los artefactos cargados y en alto. Al frente, más viejo, más cansado: **KORIN.**
 
-Apunta a Stella. Ella se baja la capucha despacio. Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden de disparar.
+Le apunta con un artefacto de la resistencia. Ella se baja la capucha despacio. Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden.
 
 Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinticuatro años, siempre pegada a su madre.
 
 **KORIN**
 *(la voz se le rompe)*
 …¿Stella? Yo te conocí de pequeña —siempre al lado de tu madre.
-*(baja el arma, temblando)*
+*(baja el artefacto, temblando)*
 Eres tú. Volviste.
 
 EN LA ÓRBITA — INT. NAVE NODRIZA DE THERON: **VOSK** mira la pantalla, donde Erdia hierve. Aprieta los puños. Se gira a Theron.
@@ -1291,7 +1303,7 @@ Theron lo mira. No dice que sí. Tampoco se lo impide.
 
 ## SEC. 22 — INT. ERDIA — REFUGIO DE LA RESISTENCIA — DÍA
 
-El refugio de siempre, más viejo, más lleno. Mapas sobre una mesa de chatarra. La resistencia se prepara: revisan armas de energía, reparten cargas.
+El refugio de siempre, más viejo, más lleno. Mapas sobre una mesa de chatarra. La resistencia se prepara: revisan sus artefactos, reparten cargas.
 
 **KORIN** extiende un plano dibujado a mano: el palacio.
 
@@ -1325,7 +1337,7 @@ Yo estaba en la puerta. Lo vi.
 *(la mira a los ojos)*
 La General la abrazó. Y la mató. Tu madre murió en los brazos de tu hermana.
 
-Quietud. Stella no llora. No grita. Se queda muy quieta, como quien recibe un disparo y todavía no lo siente.
+Quietud. Stella no llora. No grita. Se queda muy quieta, como quien recibe un golpe y todavía no lo siente.
 
 **STELLA**
 *(un hilo)*
@@ -1444,7 +1456,7 @@ Ven con nosotros.
 *(mirando hacia arriba)*
 Todavía no.
 
-Naio, en brazos de Brogu, gira la cabeza. Y lo último que ve de su hija es una mujer encapuchada escalando el palacio entre disparos, sola, hacia la cúpula más alta —la **Sala del Trono.**
+Naio, en brazos de Brogu, gira la cabeza. Y lo último que ve de su hija es una mujer encapuchada subiendo el palacio entre descargas, sola, hacia la cúpula más alta —la **Sala del Trono.**
 
 No sabe que va a caer.
 
@@ -1587,7 +1599,7 @@ Me servía. Una bandera con cara de mártir. Todo el que odiaba al Rey venía so
 *(se detiene; mira a Selka)*
 Y entonces creciste tú. El día que estuviste terminada, ella dejó de hacer falta.
 *(beat)*
-Pude borrarla en la calle. Un disparo, un derrumbe, cualquier cosa de un minuto.
+Pude borrarla en la calle. Un accidente, un derrumbe, cualquier cosa de un minuto.
 *(la sonrisa se le afila)*
 Pero llevaba catorce años cargándola. Me había ganado algo mejor.
 Quise verla irse despacio. Sabiendo que su hija la mataba. Quise que se fuera con eso puesto.
