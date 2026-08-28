@@ -627,15 +627,19 @@ No. The Orb has been draining the life out of our planet.
 
 Pero **@Selka sí.** En los brazos de su madre, la bebé **rompe a llorar** —por el fogonazo, por el ruido, por la cara que acaba de poner su hermana.
 
-Y @Stella, **con la mano todavía humeando**, va hacia ella.
+Y @Stella va hacia ella.
 
-**Ahueca esa misma palma.** Del **brazalete** sale **@GIX** —un pequeño axolote de partículas de luz— y **se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan dentro, como luciérnagas. Le **junta la frente** a su hermana.
+**Se esconde la mano quemada detrás de la espalda.** Y con la otra hace lo que se le hace a un bebé: **muecas.**
 
-Y las dos **sonríen.**
+Saca la lengua. Bizquea. Infla los carrillos. Hace un ruido tonto.
+
+Y @Selka **se ríe.**
+
+Y @Stella se ríe con ella —con catorce años, con la palma ardiéndole a la espalda, y riéndose de verdad—. Le **junta la frente** a su hermana.
 
 @Selka se calla al instante. Un momento minúsculo, tibio, de hermanas. *(Guardarlo. Vuelve.)*
 
-*(Acaban de convertirle la mano en una caja fuerte. Y lo primero que hace con ella es regalar luz.)*
+*(Acaban de convertirle la mano en una caja fuerte. Y lo primero que hace con ella es **esconderla**, para que su hermana no la vea.)*
 
 **@NAIO (CONT.)**
 The Orb is our trace, @Stella. Only our family can touch it.
@@ -1986,7 +1990,7 @@ Y @Stella, acorralada, desesperada, sin pensarlo —por puro reflejo de hermana 
 
 Ahueca la palma. Una **chispa de @Gix** baila en su mano. Y la levanta hacia la cara de @Selka, buscándole la **frente.**
 
-El mismo gesto del laboratorio. El juego de la luz.
+El mismo gesto del parque. El día que la enseñó a caminar hacia la luz.
 
 @Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinticuatro años se remueve. Bajo la General, por un instante, asoma una niña.
 
