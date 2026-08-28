@@ -195,7 +195,7 @@
 
 | # | Tiempo | Dur | Cámara | Acción | Diálogo |
 |---|---|---|---|---|---|
-| 32 | 2:00 | 8s | **macro** → **slider** que abre a las dos | **Se calla.** Mete la mano, la saca, **la abre despacio**, y deja que el agua se le vaya entre los dedos mientras lo dice. **Y esta vez se oye.** `NO TOCAR` | — |
+| 32 | 2:00 | 8s | **steadycam FIJO en la cara de Vera** | **La cámara no está en su mano: está en la cara de su madre.** Fuera de cuadro se oye el agua, y Stella lo dice bien. Y después, **silencio**. La tensión de este plano está en lo que Vera hace con la cara mientras la oye acertar. `NO TOCAR` | — |
 | 33 | 2:08 | 3s | **steadycam** | Asiente una sola vez, **como quien cierra una caja**. | — |
 | 34 | 2:11 | 4s | **steadycam** que se levanta con ella | La mira raro. Se levanta, se sacude la hierba — y entonces ve lo que su madre lleva a la espalda. | *Ya. Vale. / ¿La traes?* |
 | 35 | 2:15 | 4s | **slider** lateral | **Selka** (1 año), dormida en el fular. | *Déjamela. / Tengo que llevármela.* |
@@ -207,11 +207,11 @@
 
 | # | Tiempo | Dur | Cámara | Acción | Diálogo |
 |---|---|---|---|---|---|
-| 39 | 2:30 | 4s | **slider** a ras de hierba | Stella se agacha a cuatro metros y **ahueca la palma**. Y **Gix se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan dentro de la mano. `NO TOCAR` | — |
-| 40 | 2:34 | 8s | **dolly bajo a la altura de la bebé**, retrocediendo | **SELKA ECHA A ANDAR.** Torpe, con los brazos abiertos, cayéndose hacia adelante más que caminando, cuatro metros de hierba dorada **hacia la luz que su hermana le está enseñando en la mano**. `NO TOCAR` | — |
-| 41 | 2:42 | 3s | **steadycam** que sube con ella | La atrapa antes de que se caiga y **la levanta en el aire**. Selka se ríe con toda la cara. | — |
-| 42 | 2:45 | 4s | **steadycam**, a un palmo de Vera | Las mira a las dos. **Y esto es lo último bueno que va a ver en su vida.** `NO TOCAR` | — |
-| 43 | 2:49 | 4s | **slider** lateral | Sin mirarla, con la bebé en brazos. | *Nos vemos más tarde en el laboratorio del palacio. / Vale. / Stella. Que no se te olvide. / Que no, mamá. Vale.* |
+| 39 | 2:30 | 3s | **slider** a ras de hierba | Stella se agacha a cuatro metros y **ahueca la palma**. Y **Gix se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan dentro de la mano. `NO TOCAR` | — |
+| 40 | 2:33 | 10s | **dolly bajo a la altura de la bebé**, retrocediendo | **SELKA ECHA A ANDAR.** Torpe, brazos abiertos, cayéndose hacia adelante más que caminando. Dos metros — **y SE CAE. De boca contra la hierba.** Silencio. Y **Stella no se mueve**: se queda agachada con la palma abierta y la luz dentro, esperando. Y Selka **se empuja con las manos, se pone de pie sola**, se tambalea, y **hace los otros dos metros**. `NO TOCAR` | — |
+| 41 | 2:43 | 3s | **steadycam** que sube con ella | La atrapa y **la levanta en el aire**. Selka se ríe con toda la cara. | — |
+| 42 | 2:46 | 4s | **steadycam**, a un palmo de Vera | Las mira a las dos. **Y esto es lo último bueno que va a ver en su vida.** `NO TOCAR` | — |
+| 43 | 2:50 | 3s | **slider** lateral | Sin mirarla, con la bebé en brazos. | *Nos vemos más tarde en el laboratorio del palacio. / Vale. / Stella. Que no se te olvide. / Que no, mamá. Vale.* |
 | 44 | 2:53 | 2s | **steadycam** la sigue | Vera se va. **Y se va rápido, porque no quiere que su hija le vea la cara.** | — |
 | 45 | 2:55 | 3s | **steadycam** delante de ella | **La cara de Vera**, ya lo bastante lejos como para permitírselo. **Y se le cae.** `NO TOCAR` | — |
 | 46 | 2:58 | 2s | **dron** que se aleja subiendo | Las dos hermanas en la hierba, pequeñas, doradas, con la ciudad detrás. **Sin mirar ni una vez cómo se aleja su madre.** `NO TOCAR` | — |

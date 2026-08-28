@@ -437,6 +437,8 @@ Mete la mano. La saca. **La abre despacio.** Y deja que el agua se le vaya entre
 
 Y esta vez **se oye.**
 
+*(Y la cámara no está en su mano. Está en la cara de su madre. La tensión de este plano no está en el agua: está en lo que @Vera hace con la cara mientras la oye acertar.)*
+
 Silencio.
 
 @Vera asiente una sola vez, **como quien cierra una caja.**
@@ -484,11 +486,19 @@ Y **@Gix se desprende de un puñado de sí mismo**: unas cuantas partículas baj
 
 Y **@Selka echa a andar.**
 
-Torpe, con los brazos abiertos, cayéndose hacia adelante más que caminando, cruzando cuatro metros de hierba dorada **hacia la luz que su hermana le está enseñando en la mano.**
+Torpe, con los brazos abiertos, cayéndose hacia adelante más que caminando, **hacia la luz que su hermana le está enseñando en la mano.**
 
-*(Guardar este plano. La película vuelve a él dentro de veinticuatro años — y esa vez las dos están de pie, y una de las dos lleva una hoja de luz.)*
+Dos metros. Y **se cae.** De boca contra la hierba.
 
-@Stella la atrapa antes de que se caiga y **la levanta en el aire.** @Selka se ríe con toda la cara.
+Silencio.
+
+@Stella **no se mueve.** No corre a levantarla. Se queda agachada donde está, con **la palma abierta y la luz encendida dentro.** Esperando.
+
+Y @Selka se empuja con las manos, se pone de pie sola, se tambalea — y **hace los otros dos metros.**
+
+*(Guardar este plano. La película vuelve a él dentro de veinticuatro años. Y esa vez @Stella va a levantar la misma mano con la misma luz — **y su hermana no va a venir.**)*
+
+@Stella la atrapa y **la levanta en el aire.** @Selka se ríe con toda la cara.
 
 @Vera las mira.
 
