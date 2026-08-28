@@ -113,7 +113,11 @@
 > *Apertura en frío, antes del título. Sin rótulo de año, sin nombres, sin una sola línea de diálogo.
 > El público no sabe quién es nadie. Solo entiende dos cosas: que están perdiendo, y que la están
 > empujando hacia arriba.*
-> *(Este momento vuelve completo y desde dentro en la **SEC 23**.)*
+> *(Este momento vuelve completo y desde dentro en la **SEC 23B** —el asalto— y la **SEC 24** —lo que
+> la esperaba abajo—.)*
+> **Duración objetivo 2:00 · ~36 planos — la plaza 1:00 · la fachada y la cúspide 0:30 · el ducto, el
+> aterrizaje, la silueta y el golpe 0:30.** Los tres últimos planos van a 2 s cada uno: son el suelo,
+> no hay holgura ahí.
 
 Negro.
 

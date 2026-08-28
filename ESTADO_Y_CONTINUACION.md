@@ -26,7 +26,8 @@
   ni el interior del palacio. Ahí viven los tres secretos.
 - **Motivo:** el proyecto compite contra cientos de otros; los primeros diez segundos deciden si
   alguien sigue viendo.
-- **Duraciones fijadas (2026-08-28):** **SEC 0 ≈ 1:20** (en abierto, espectáculo, sin nombres) y
+- **Duraciones fijadas (2026-08-28):** **SEC 0 = 2:00 · ~36 planos** (plaza 1:00 · fachada+cúspide 0:30 ·
+  ducto+aterrizaje+silueta+golpe 0:30; en abierto, espectáculo, sin nombres, **muda entera**) y
   **SEC 23B = 2:00 · ~35 planos**, repartidos **plaza 1:00 · fachada 0:30 · cúspide 0:30** (en cerrado:
   los generales ya se vieron, la cámara se queda en las caras). Son el mismo suceso: **la 23B no
   repite, reencuadra.** Techo conjunto ~3:20 de 48 min.
