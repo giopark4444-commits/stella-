@@ -1,7 +1,7 @@
 # 🎬 GUION TÉCNICO — LA APERTURA · SEC. 0 · 1 · 2
 
 > **Documento de producción.** Desglose plano a plano de las tres primeras secuencias.
-> **100 planos · 5:46** — SEC 0 (2:00 · 45) · SEC 1 (0:46 · 9) · SEC 2 (3:00 · 46).
+> **102 planos · 5:51** — SEC 0 (2:00 · 45) · SEC 1 (0:46 · 9) · SEC 2 (3:00 · 48).
 > Se genera en **13 bloques de 30 s**: 4 de la SEC 0, 1+ de la SEC 1, y **6 de la SEC 2**.
 > La fuente de verdad de la ACCIÓN sigue siendo `GUION_P1_v2.md`; esto es cómo se rueda.
 > Última actualización: **2026-08-28**.
@@ -153,68 +153,70 @@
 | 7 | 0:22 | 4s | **brazo** baja al agua | **Vera** agachada al borde, el brazo metido **hasta el codo**. Está midiendo cuánto le entra. | — |
 | 8 | 0:26 | 4s | **macro sobre slider** | **La luz se ha ido toda al fondo**, apelmazada contra la piedra. **La superficie corre negra.** `NO TOCAR` | — |
 
-### P2 · MADRE E HIJA — 0:30 a 1:00
+### P2 · LA CARRERA A DOS ALTURAS — 0:30 a 1:00
 
 | # | Tiempo | Dur | Cámara | Acción | Diálogo |
 |---|---|---|---|---|---|
 | 9 | 0:30 | 3s | **slider** corto | Saca el brazo. Mira hasta dónde le llega la marca de mojado. **No es la primera vez.** | — |
-| 10 | 0:33 | 3s | **steadycam**, rodeándola | A su espalda, dormida en un fular, **una bebé**. Cierra los ojos un segundo. | — |
-| 11 | 0:36 | 3s | **steadycam** | Y solo entonces levanta la cabeza hacia su hija. | *Baja de ahí.* |
-| 12 | 0:39 | 3s | **dron** lateral | Sigue corriendo por el borde. | *Estoy entrenando. / Estás presumiendo.* |
-| 13 | 0:42 | 2s | **slider** corto |  | *Se pueden hacer las dos cosas.* |
-| 14 | 0:44 | 4s | **steadycam** |  | *Mañana es tu última prueba. Si hoy te partes un tobillo, no hay prueba.* |
-| 15 | 0:48 | 7s | **dron**, se le acerca | Y aquí sí se le nota la edad. | *No me voy a partir nada. Voy a quedar primera. / Y cuando quede primera, no me lo vas a poder seguir discutiendo.* |
-| 16 | 0:55 | 5s | **dron** sigue el salto | El canal pasa justo por al lado del hombro del mecha. **Salta sin mirar**, como quien salta a un muro que lleva ahí toda su vida. Y se queda de pie sobre la cabeza de la cosa. | — |
+| 10 | 0:33 | 2s | **steadycam**, rodeándola | A su espalda, dormida en un fular, **una bebé**. Cierra los ojos un segundo. | — |
+| 11 | 0:35 | 3s | **steadycam** | Y solo entonces levanta la cabeza. | *Baja de ahí. / Estoy entrenando.* |
+| 12 | 0:38 | 3s | **dron** lateral |  | *Estás presumiendo. / Se pueden hacer las dos cosas.* |
+| 13 | 0:41 | 4s | **steadycam** que arranca con ella | Y entonces Vera hace algo que Stella no se espera. **ECHA A CORRER.** Por la hierba, paralela al canal, **con la bebé dormida rebotándole a la espalda**. Y no va despacio. `NO TOCAR` | — |
+| 14 | 0:45 | 5s | **dron** lateral con las dos en cuadro | **CARRERA A DOS ALTURAS.** La hija seis metros arriba sobre la piedra mojada, la madre abajo sobre la hierba, y las dos a tope. `NO TOCAR` | — |
+| 15 | 0:50 | 3s | **dron** se adelanta | Stella acelera para sacarle ventaja — y **Vera corta por dentro de la curva** y le saca medio cuerpo. | — |
+| 16 | 0:53 | 3s | **slider** a la altura de Vera | <i>Ahí es donde lo aprendió.</i> `NO TOCAR` | *¡Eso es trampa! / Eso cuenta.* |
+| 17 | 0:56 | 4s | **dron** lateral | Y las dos se están riendo. Y sin dejar de correr: | *Mañana es tu última prueba. Si hoy te partes un tobillo, no hay prueba.* |
 
 ### P3 · EL MECHA Y LA BAJADA — 1:00 a 1:30
 
 | # | Tiempo | Dur | Cámara | Acción | Diálogo |
 |---|---|---|---|---|---|
-| 17 | 1:00 | 3s | picado / contrapicado |  | *¿Por qué dejamos de hacerlo? / ¿De hacer qué?* |
-| 18 | 1:03 | 6s | **brazo**, contrapicado que sube | Da un golpecito con el pie descalzo en el metal. El brazo sube hasta dejarla recortada contra el cielo. | *Esto. Conquistar. Éramos los más fuertes del cielo y ahora le sembramos flores encima.* |
-| 19 | 1:09 | 4s | **steadycam**, cerca de Vera | **Y hay algo en cómo lo dice.** | *Baja.* |
-| 20 | 1:13 | 4s | **brazo** — el único movimiento vertical de la escena | **Stella baja.** Por primera vez en toda la escena, obedece. La cámara **baja con ella**. `NO TOCAR` | — |
-| 21 | 1:17 | 4s | **slider** lateral, a la altura del agua | Se sientan las dos al borde del canal. Cerca. **Es la primera vez que están a la misma altura.** `NO TOCAR` | — |
-| 22 | 1:21 | 3s | **steadycam** | Stella se la da, de mala gana. | *Dame la mano.* |
-| 23 | 1:24 | 6s | **macro sobre slider** | Le abre la palma hacia arriba y **le echa luzagua encima**. El agua le corre entre los dedos, brillando, y vuelve a caer al canal. `NO TOCAR` | — |
+| 18 | 1:00 | 5s | **dron**, se le acerca | Y aquí sí se le nota la edad. | *No me voy a partir nada. Voy a quedar primera. / Y cuando quede primera, no me lo vas a poder seguir discutiendo.* |
+| 19 | 1:05 | 4s | **dron** sigue el salto | El canal pasa justo por al lado del hombro del mecha. **Salta sin mirar**, como quien salta a un muro que lleva ahí toda su vida. | — |
+| 20 | 1:09 | 3s | picado / contrapicado | De pie sobre la cabeza de la cosa, mirando la ciudad. | *¿Por qué dejamos de hacerlo? / ¿De hacer qué?* |
+| 21 | 1:12 | 5s | **brazo**, contrapicado que sube | Da un golpecito con el pie descalzo en el metal. | *Esto. Conquistar. Éramos los más fuertes del cielo y ahora le sembramos flores encima.* |
+| 22 | 1:17 | 4s | **steadycam**, cerca de Vera | Y por primera vez desde que echó a correr, **Vera se para**. Y hay algo en cómo lo dice. `NO TOCAR` | *Baja.* |
+| 23 | 1:21 | 4s | **brazo** — el único movimiento vertical de la escena | **Stella baja.** Por primera vez en toda la escena, obedece. La cámara **baja con ella**. `NO TOCAR` | — |
+| 24 | 1:25 | 5s | **slider** lateral, a la altura del agua | Se sientan las dos al borde del canal. Cerca. **Es la primera vez que están a la misma altura.** `NO TOCAR` | *Dame la mano.* |
 
 ### P4 · LA LECCIÓN — 1:30 a 2:00
 
 | # | Tiempo | Dur | Cámara | Acción | Diálogo |
 |---|---|---|---|---|---|
-| 24 | 1:30 | 4s | **steadycam**, muy cerca |  | *El agua no es de nadie. Por eso está viva.* |
-| 25 | 1:34 | 5s | **macro**, fijo | **Le cierra el puño con las dos manos.** Y la luzagua atrapada dentro **se apaga**. `NO TOCAR` | — |
-| 26 | 1:39 | 5s | **steadycam**, a un palmo de su cara |  `NO TOCAR` | *El día que sea solo de alguien… morimos todos.* |
-| 27 | 1:44 | 3s | **macro** | Abre el puño. **Dentro no queda más que agua sucia.** | — |
-| 28 | 1:47 | 3s | **steadycam** | No se mueve del sitio. Le cambia el tono. | *Repítemelo.* |
-| 29 | 1:50 | 3s | **slider** corto | Fastidiada. | *Mamá… / Repítemelo.* |
-| 30 | 1:53 | 4s | **steadycam** | Mete la mano de cualquier manera, la saca, **se le cae a chorros**. Suelta la frase de carrerilla, mal. | — |
-| 31 | 1:57 | 3s | **FIJO**, sin un movimiento | Sin moverse un centímetro. `CÁMARA FIJA` | *Otra vez.* |
+| 25 | 1:30 | 5s | **macro sobre slider** | Le abre la palma hacia arriba y **le echa luzagua encima**. El agua le corre entre los dedos, brillando, y vuelve a caer al canal. `NO TOCAR` | — |
+| 26 | 1:35 | 4s | **steadycam**, muy cerca |  | *El agua no es de nadie. Por eso está viva.* |
+| 27 | 1:39 | 5s | **macro**, fijo | **Le cierra el puño con las dos manos.** Y la luzagua atrapada dentro **se apaga**. `NO TOCAR` | — |
+| 28 | 1:44 | 5s | **steadycam**, a un palmo de su cara |  `NO TOCAR` | *El día que sea solo de alguien… morimos todos.* |
+| 29 | 1:49 | 3s | **macro** | Abre el puño. **Dentro no queda más que agua sucia.** | — |
+| 30 | 1:52 | 3s | **steadycam** | No se mueve del sitio. Le cambia el tono. | *Repítemelo.* |
+| 31 | 1:55 | 2s | **slider** corto | Fastidiada. | *Mamá… / Repítemelo.* |
+| 32 | 1:57 | 3s | **steadycam** | Mete la mano de cualquier manera, la saca, **se le cae a chorros**. Suelta la frase de carrerilla, mal. | — |
 
 ### P5 · EL ACIERTO Y SELKA — 2:00 a 2:30
 
 | # | Tiempo | Dur | Cámara | Acción | Diálogo |
 |---|---|---|---|---|---|
-| 32 | 2:00 | 8s | **steadycam FIJO en la cara de Vera** | **La cámara no está en su mano: está en la cara de su madre.** Fuera de cuadro se oye el agua, y Stella lo dice bien. Y después, **silencio**. La tensión de este plano está en lo que Vera hace con la cara mientras la oye acertar. `NO TOCAR` | — |
-| 33 | 2:08 | 3s | **steadycam** | Asiente una sola vez, **como quien cierra una caja**. | — |
-| 34 | 2:11 | 4s | **steadycam** que se levanta con ella | La mira raro. Se levanta, se sacude la hierba — y entonces ve lo que su madre lleva a la espalda. | *Ya. Vale. / ¿La traes?* |
-| 35 | 2:15 | 4s | **slider** lateral | **Selka** (1 año), dormida en el fular. | *Déjamela. / Tengo que llevármela.* |
-| 36 | 2:19 | 3s | **steadycam** |  | *Un rato. Porfa.* |
-| 37 | 2:22 | 5s | **brazo** que baja con la bebé | La desata y **la deja de pie sobre la hierba**. | *Que sepas que tu hermana hizo trampa. / ¡Gané igual!* |
-| 38 | 2:27 | 3s | **slider** a ras de hierba | **Se tambalea.** Encuentra el equilibrio. **Y mira a su hermana.** | — |
+| 33 | 2:00 | 3s | **FIJO**, sin un movimiento | Sin moverse un centímetro. `CÁMARA FIJA` | *Otra vez.* |
+| 34 | 2:03 | 8s | **steadycam FIJO en la cara de Vera** | **La cámara no está en su mano: está en la cara de su madre.** Fuera de cuadro se oye el agua, y Stella lo dice bien. Y después, **silencio**. La tensión de este plano está en lo que Vera hace con la cara mientras la oye acertar. `NO TOCAR` | — |
+| 35 | 2:11 | 3s | **steadycam** | Asiente una sola vez, **como quien cierra una caja**. | — |
+| 36 | 2:14 | 3s | **steadycam** que se levanta con ella | La mira raro. Se levanta, se sacude la hierba — y entonces ve lo que su madre lleva a la espalda. | *Ya. Vale. / ¿La traes?* |
+| 37 | 2:17 | 3s | **slider** lateral | **Selka** (1 año), dormida en el fular. | *Déjamela. / Tengo que llevármela.* |
+| 38 | 2:20 | 3s | **steadycam** |  | *Un rato. Porfa.* |
+| 39 | 2:23 | 4s | **brazo** que baja con la bebé | La desata y **la deja de pie sobre la hierba**. | *Que sepas que tu hermana hizo trampa. / ¡Tú también! / Yo gané.* |
+| 40 | 2:27 | 3s | **slider** a ras de hierba | **Se tambalea.** Encuentra el equilibrio. **Y mira a su hermana.** | — |
 
 ### P6 · LA CAMINATA Y LA DESPEDIDA — 2:30 a 3:00
 
 | # | Tiempo | Dur | Cámara | Acción | Diálogo |
 |---|---|---|---|---|---|
-| 39 | 2:30 | 3s | **slider** a ras de hierba | Stella se agacha a cuatro metros y **ahueca la palma**. Y **Gix se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan dentro de la mano. `NO TOCAR` | — |
-| 40 | 2:33 | 10s | **dolly bajo a la altura de la bebé**, retrocediendo | **SELKA ECHA A ANDAR.** Torpe, brazos abiertos, cayéndose hacia adelante más que caminando. Dos metros — **y SE CAE. De boca contra la hierba.** Silencio. Y **Stella no se mueve**: se queda agachada con la palma abierta y la luz dentro, esperando. Y Selka **se empuja con las manos, se pone de pie sola**, se tambalea, y **hace los otros dos metros**. `NO TOCAR` | — |
-| 41 | 2:43 | 3s | **steadycam** que sube con ella | La atrapa y **la levanta en el aire**. Selka se ríe con toda la cara. | — |
-| 42 | 2:46 | 4s | **steadycam**, a un palmo de Vera | Las mira a las dos. **Y esto es lo último bueno que va a ver en su vida.** `NO TOCAR` | — |
-| 43 | 2:50 | 3s | **slider** lateral | Sin mirarla, con la bebé en brazos. | *Nos vemos más tarde en el laboratorio del palacio. / Vale. / Stella. Que no se te olvide. / Que no, mamá. Vale.* |
-| 44 | 2:53 | 2s | **steadycam** la sigue | Vera se va. **Y se va rápido, porque no quiere que su hija le vea la cara.** | — |
-| 45 | 2:55 | 3s | **steadycam** delante de ella | **La cara de Vera**, ya lo bastante lejos como para permitírselo. **Y se le cae.** `NO TOCAR` | — |
-| 46 | 2:58 | 2s | **dron** que se aleja subiendo | Las dos hermanas en la hierba, pequeñas, doradas, con la ciudad detrás. **Sin mirar ni una vez cómo se aleja su madre.** `NO TOCAR` | — |
+| 41 | 2:30 | 3s | **slider** a ras de hierba | Stella se agacha a cuatro metros y **ahueca la palma**. Y **Gix se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan dentro de la mano. `NO TOCAR` | — |
+| 42 | 2:33 | 10s | **dolly bajo a la altura de la bebé**, retrocediendo | **SELKA ECHA A ANDAR.** Torpe, brazos abiertos, cayéndose hacia adelante más que caminando. Dos metros — **y SE CAE. De boca contra la hierba.** Silencio. Y **Stella no se mueve**: se queda agachada con la palma abierta y la luz dentro, esperando. Y Selka **se empuja con las manos, se pone de pie sola**, se tambalea, y **hace los otros dos metros**. `NO TOCAR` | — |
+| 43 | 2:43 | 3s | **steadycam** que sube con ella | La atrapa y **la levanta en el aire**. Selka se ríe con toda la cara. | — |
+| 44 | 2:46 | 4s | **steadycam**, a un palmo de Vera | Las mira a las dos. **Y esto es lo último bueno que va a ver en su vida.** `NO TOCAR` | — |
+| 45 | 2:50 | 3s | **slider** lateral | Sin mirarla, con la bebé en brazos. | *Nos vemos más tarde en el laboratorio del palacio. / Vale. / Stella. Que no se te olvide. / Que no, mamá. Vale.* |
+| 46 | 2:53 | 2s | **steadycam** la sigue | Vera se va. **Y se va rápido, porque no quiere que su hija le vea la cara.** | — |
+| 47 | 2:55 | 3s | **steadycam** delante de ella | **La cara de Vera**, ya lo bastante lejos como para permitírselo. **Y se le cae.** `NO TOCAR` | — |
+| 48 | 2:58 | 2s | **dron** que se aleja subiendo | Las dos hermanas en la hierba, pequeñas, doradas, con la ciudad detrás. **Sin mirar ni una vez cómo se aleja su madre.** `NO TOCAR` | — |
 
 ### Referencias de la SEC 2
 `@StellaRopa` (14) · `@VeraRopa` · `@SelkaBebe` · `@Gix` · `@ParqueLuzagua` · `@MechaFlores` · `@CiudadDorada`

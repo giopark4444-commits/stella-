@@ -357,7 +357,31 @@ You're showing off.
 **STELLA**
 You can do both.
 
+Y entonces Vera hace algo que Stella no se espera.
+
+**Echa a correr.**
+
+Por la hierba, paralela al canal, con la bebé dormida rebotándole a la espalda. Y no va despacio.
+
+**CARRERA A DOS ALTURAS:** la hija seis metros arriba, sobre la piedra mojada. La madre abajo, sobre la hierba. Y las dos van a tope.
+
+Stella acelera para sacarle ventaja—
+
+—y **Vera corta por dentro de la curva** y le saca medio cuerpo.
+
+**STELLA**
+*(sin aliento, indignada)*
+That's cheating!
+
 **VERA**
+*(sin mirarla, corriendo)*
+That counts.
+
+*(Ahí es donde lo aprendió.)*
+
+Y las dos se están riendo. Y sin dejar de correr:
+
+**VERA (CONT.)**
 Tomorrow is your last trial. Break an ankle today and there is no trial.
 
 **STELLA**
@@ -383,6 +407,8 @@ This. Conquering. We were the strongest thing in the sky, and now we grow flower
 
 **VERA**
 Come down.
+
+Y por primera vez desde que echó a correr, **Vera se para.**
 
 Y hay algo en cómo lo dice.
 
@@ -476,7 +502,10 @@ Y Vera —que hoy no le puede decir que no a nadie— la desata y **la deja de p
 Just so you know, your sister cheated.
 
 **STELLA**
-I won anyway!
+You cheated too!
+
+**VERA**
+I won.
 
 Selka **se tambalea.** Encuentra el equilibrio. Y mira a su hermana.
 
