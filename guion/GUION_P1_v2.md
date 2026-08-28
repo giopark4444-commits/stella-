@@ -37,6 +37,13 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • **LA LLAVE VA EN LA PALMA IZQUIERDA. SIEMPRE.** Ahí se la graba Naio, ahí se integra el Orbe, de
+>   ahí se lo arranca Selka en la SEC 27, y esa es la mano abierta cuya luz se apaga en la apertura
+>   en frío. **El Orbe nunca vive en el brazalete:** el brazalete es de Gix.
+> • **LAS DOS MANOS.** En la SEC 2 Vera le cierra el puño para enseñarle que lo atrapado se muere.
+>   En la SEC 3 Naio le cierra **la misma mano** para decirle que lo guarde y no lo suelte nunca.
+>   Los dos padres, el mismo gesto, el mismo día, significando lo contrario. **En la SEC 26 Stella no
+>   elige entre el bien y el mal: elige entre su padre y su madre.**
 > • **GIX ESTÁ HECHO DE PARTÍCULAS.** No es un cuerpo sólido de luz: es **una nube que sostiene una
 >   forma** —la de un axolote—. Por eso **no se apaga: se deshace y se rehace.** Cuando se enfada se
 >   desarma en el aire y se reconstruye en otro sitio. Y cuando Stella ahueca la palma, lo que baja
@@ -702,16 +709,17 @@ Sin mirar ni una vez cómo se aleja su madre.
 
 ## SEC. 3 — INT. LABORATORIO DE NAIO — PALACIO IMPERIAL — DÍA
 
-La puerta se abre y entra Stella todavía riendo, con Gix dándole vueltas.
+> *En esta habitación no hay nadie más: **un padre, una madre, una niña y una bebé.** Y se habla del
+> Orbe, pero **el Orbe no está aquí.** Las manos de Stella están vacías todo el tiempo.*
+
+La puerta se abre y entra Stella **con Selka en brazos**, todavía riéndose, con Gix dándole vueltas alrededor.
 
 **STELLA**
-Me mandaron llamar, ¿qué es tan importante que no puede esp—
+Hola, pa. Hola, ma.
 
 La risa se le apaga sola.
 
 Porque ve a **VERA** y a su padre **NAIO** (~45, **el científico del Rey** —su laboratorio está dentro del propio palacio—) de pie frente a una proyección de datos. Ninguno de los dos se ríe. Tienen la cara de alguien que acaba de ver algo que no se puede des-ver.
-
-Detrás, en un moisés flotante, duerme la **BEBÉ SELKA** (1 año, ojos gris-azul).
 
 **STELLA (CONT.)**
 *(la sonrisa cae)*
@@ -722,7 +730,21 @@ Nadie le contesta. Naio le tiende un **traje** plegado.
 **NAIO**
 Póntelo. Rápido.
 
-Stella obedece sin entender. Empieza a vestirse. Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.
+Stella deja a Selka en el **moisés flotante** para poder cambiarse.
+
+Y la bebé, en cuanto le falta el cuerpo de su hermana, **rompe a llorar.**
+
+Stella se detiene a medio vestir. Y va hacia ella.
+
+Se inclina sobre el moisés. **Ahueca la mano izquierda.** Y **Gix se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan en la palma, como luciérnagas. Le **junta la frente** a la bebé.
+
+Y las dos **sonríen.**
+
+Selka se calla al instante. Un momento minúsculo, tibio, de hermanas. *(Guardarlo. Vuelve.)*
+
+*(Es lo último que esa mano va a hacer siendo una mano normal.)*
+
+Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.
 
 **NAIO (CONT.)**
 Escúchame bien. El Rey no nos está protegiendo.
@@ -737,46 +759,52 @@ Detrás de él, la proyección lo confirma: el mismo descenso de la SEC. 1, hast
 **NAIO**
 Por eso lo quiere.
 
-Naio activa una máquina sobre la **mano** abierta de Stella. Ella espera que le ponga algo dentro —una joya, un objeto. No le pone nada. La **prepara**. Una **llave de luz** se graba bajo su piel, en la palma, con un dolor breve y limpio.
+Naio activa una máquina sobre **la mano izquierda abierta** de Stella. Ella espera que le ponga algo dentro —una joya, un objeto. No le pone nada. La **prepara**. Una **llave de luz** se graba bajo su piel, en la palma, con un dolor breve y limpio.
 
 Stella aprieta los dientes.
 
 **NAIO (CONT.)**
 El Orbe es nuestra sangre, Stella. Solo nuestra familia puede tocarlo.
-*(le cierra la mano)*
-Lo que acabo de hacerte te permite integrarlo. Meterlo dentro de ti. Y una vez dentro…
+
+Y **le cierra la mano.**
+
+**NAIO (CONT.)**
+Lo que acabo de hacerte te permite integrarlo. **Meterlo dentro de ti.** Y una vez dentro…
 *(la mira a los ojos)*
-…solamente tú podrías usarlo. Nadie más.
+…solamente tú podrías usarlo. **Nadie más.**
 
-Stella no alcanza a procesarlo. Detrás, la **bebé Selka se despierta y empieza a llorar.**
+Stella se queda mirando su propio puño cerrado.
 
-Y Stella, por puro instinto de hermana mayor, deja todo y va hacia ella.
+*(Hace una hora, en un parque, otra persona le cerró esa misma mano para enseñarle exactamente lo contrario.)*
 
-Se inclina sobre el moisés. **Ahueca la mano.** Y **Gix vuelve a prestarle un puñado**: unas partículas bajan y bailan en su palma, como luciérnagas. Le **junta la frente** a la bebé.
+Y por un segundo —solo uno— **mira a su madre.**
 
-Y las dos **sonríen.**
+Vera le sostiene la mirada. Y no dice nada.
 
-Selka se calma al instante. Un momento minúsculo, tibio, de hermanas. *(Guardarlo. Vuelve.)*
+Y entonces se oyen **pasos.** Muchos. Veinte personas por lo menos, acercándose por el corredor.
 
-Pasos. Muchos. Acercándose por el corredor.
-
-Naio y Vera se cruzan una mirada. Se acabó el tiempo.
+Los tres se giran a la vez, asustados, **hacia el mismo sitio.**
 
 **NAIO (CONT.)**
 *(rápido, firme)*
-Llegaron. Tomen a Selka. Vayan por el Orbe.
-*(a Stella, agarrándole la cara con las dos manos)*
-Cuando lo tengas, ponlo en tu mano. Y pase lo que pase… nunca, nunca dejes que él lo tenga. ¿Me oyes?
+Ya casi están aquí. Llévate a Selka y vayan por el Orbe.
+
+Naio le agarra la cara a Stella **suavemente, con las dos manos.**
+
+**NAIO (CONT.)**
+Cuando lo tengas, intégralo en tu palma. Y pase lo que pase… nunca, nunca dejes que él lo tenga. ¿Me oyes?
 *(beat)*
 Yo los retengo.
 
 **STELLA**
-Papá, no—
+Papá, por favor, ven con nosotras…
+
+Naio le dice que no **con la cara.** No le sale la palabra.
 
 **NAIO**
-Te quiero. Las tres. Ya.
+Las quiero. A las tres. Ya.
 
-Un abrazo de los tres, demasiado corto. Vera levanta a la bebé.
+Un abrazo de los tres, demasiado corto. Vera levanta a la bebé del moisés.
 
 La puerta principal se abre.
 
@@ -802,7 +830,17 @@ El Rey lo mira casi con pena. Y lo derriba de un solo golpe, como quien aparta u
 *(grito ahogado)*
 ¡PAPÁ!
 
-Vera la arranca de ahí. Corren.
+Un robot se inclina a rematarlo. El Rey lo detiene **con dos dedos.**
+
+**VORTHAN (CONT.)**
+*(sin dejar de mirar a Naio en el suelo)*
+Ese no.
+*(beat)*
+Ese lo cerró. Ese va a tener que abrirlo.
+
+*(Y ahí queda dicho, sin decirlo, por qué ese hombre va a seguir vivo veinticuatro años.)*
+
+Vera arranca a Stella de ahí. Corren.
 
 ---
 
@@ -825,6 +863,10 @@ Vera la mira de reojo. Y, en plena huida, le **sonríe**. Una sonrisa de madre, 
 
 **VERA**
 Pase lo que pase, llega a la nave. La dejé afuera, en la salida que da al parque.
+
+Y Stella, corriendo, entiende una cosa que le va a doler el resto de su vida: **su madre dejó esa nave preparada antes de ir al parque.**
+
+Antes de la carrera. Antes de reírse. Antes de hacerla repetir la frase tres veces.
 
 Una pared estalla. Entran los primeros **robots.**
 
@@ -2370,10 +2412,22 @@ No sabía que eras tú.
 *(beat)*
 Despierta. Y déjame decírtelo a la cara.
 
-Y entonces —tan tenue que casi no se oye, desde el fondo del coma, con la voz de su madre dentro— Stella **susurra.**
+Y desde el fondo del coma, algo se le enciende.
+
+FLASHBACK — EXT. PARQUE DE LA LUZAGUA — DÍA
+
+Sin sonido de sala. Solo agua.
+
+Las manos de su madre abriéndole la palma. La luzagua corriendo entre sus dedos. El puño cerrándose. La luz muriéndose dentro.
+
+Y su madre, otra vez, y otra vez, y otra vez: ***Repítemelo. Otra vez.***
+
+DE VUELTA AL TANQUE.
+
+Y entonces —tan tenue que casi no se oye, con la voz de su madre dentro— Stella **susurra.**
 
 **STELLA (V.O., un hilo)**
-…un río que vuelve.
+…por eso está viva.
 
 Adentro del tanque, la **brasa de Gix** late una vez más. Débil. Pequeña.
 
