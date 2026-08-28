@@ -751,7 +751,7 @@ Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su p
 **NAIO (CONT.)**
 Escúchame bien. El Rey no nos está protegiendo.
 *(beat)*
-Se está comiendo el planeta desde adentro. Y está muriendo.
+Ha robado los recursos de Erdia. Y el planeta está muriendo desde adentro.
 
 Detrás de él, la proyección lo confirma: el mismo descenso de la SEC. 1, hasta ese corazón negro y hueco. Erdia, por dentro, vaciándose.
 

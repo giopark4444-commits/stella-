@@ -611,7 +611,7 @@ Put it on.
 **@NAIO (CONT.)**
 Listen to me carefully. The King is not protecting us.
 *(beat)*
-He is eating the planet from the inside. And it's dying.
+He has stolen Erdia's resources. And the planet is dying from the inside.
 
 Detrás de él, la proyección lo confirma: el mismo descenso de la SEC. 1, hasta ese corazón negro y hueco. Erdia, por dentro, vaciándose.
 
