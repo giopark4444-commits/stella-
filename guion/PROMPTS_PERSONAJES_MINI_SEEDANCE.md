@@ -177,6 +177,9 @@ How would the archivist of a hunting crew look, who keeps the record of every wo
 ### @Fen — la más joven
 How would the newest and youngest member of a hard scavenger crew look, still not hardened? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 
+### @Rebeldes — el ejército de la rebelión 🆕
+How would the army of a rebellion look, made of a dozen different peoples who are not from the same world and fight side by side? Show me 4 examples. Many different species together. Ghibly style and water color painting.
+
 ### @TrioHumano — los tres humanos 🆕
 How would three human fighters look who always stand back to back and cover each other's blind side? Show me 4 examples. Human. Ghibly style and water color painting.
 

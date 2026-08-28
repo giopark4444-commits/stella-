@@ -50,13 +50,17 @@ Pies de máquina —tres dedos de metal oscuro, pisando todos a la vez— yendo 
 
 Y **los nuestros**, yendo en la contraria: unos pies enormes y peludos que hacen temblar la tierra al pisar (**BROGU**); unos pies diminutos y azules corriendo a toda velocidad (**@NIMA**); una bota que va **arrastrando estirpe** (**@VOSK**); y **ocho miembros que no son piernas** pasando de largo a la vez (**EL HOMBRE PULPO**).
 
+Y detrás de todos ellos, **decenas de pies más** que no reconocemos y que van en la misma dirección: botas, garras, patas, cascos, pies de una docena de pueblos distintos. **Los REBELDES.** Son muchísimos.
+
 Y unas botas oscuras que llevan **algo apagado en los talones.** Algo que no forma parte de la bota, y que no lleva nadie más en toda la plaza. *(Es ella. Todavía no lo sabemos, y no lo vamos a saber hasta dentro de un minuto.)*
 
 Y entre todos ellos, una bota que **no se mueve.**
 
 Un pie de **PESADO** baja sobre el objetivo — y **BROGU LO AGARRA.** Lo vemos desde el suelo, de abajo hacia arriba, sosteniendo con las dos manos un pie del tamaño de un coche. Lo tira de lado, y la máquina entera se va al suelo detrás de él — y **la cámara sube con el esfuerzo de sus brazos hasta quedarse en PLANO MEDIO**, a la altura del pecho, y de aquí ya no vuelve a bajar.
 
-Por el hueco que Brogu acaba de abrir **pasa alguien que no pelea.**
+Y por el hueco que Brogu acaba de abrir **entran los REBELDES en tromba**, desenfocados, gritando, ocupando el fondo entero del cuadro.
+
+Y entre ellos **pasa alguien que no pelea.**
 
 Y entonces, desde el fondo, empieza a **caminar hacia nosotros una línea de explosiones.**
 
@@ -77,6 +81,8 @@ Y ahí la cámara **se levanta.**
 Sale del polvo y sube — y sube **dentro de los nuestros.** Aparecen todos a la vez, corriendo hacia adelante juntos: **GARA**, **ENKO**, **LOS TRES HUMANOS** hombro con hombro, **LA MUJER VERDE** de un salto por encima del cuadro. Y detrás de ellos, más. Y más.
 
 Y entre todos, **sin destacar en nada**, una figura encapuchada corriendo al mismo paso que los demás.
+
+Y detrás de ellos, llenando el cuadro hasta el fondo, **los REBELDES**: cientos, de una docena de especies distintas, corriendo todos hacia el mismo sitio.
 
 Porque lo que estamos viendo no es gente aguantando: **la resistencia entera está empujando hacia adelante**, por encima de las máquinas rotas, **ganando terreno.**
 
@@ -122,6 +128,8 @@ La cámara **se queda quieta.** Es la primera vez en un minuto entero que no se 
 
 Es **ENKO**. Boca arriba, con los ojos abiertos a un cielo que se apaga.
 
+Y detrás de él, **completamente desenfocados**, los rebeldes siguen peleando. La guerra no se ha parado. **Solo se paró la cámara.**
+
 **GARA** entra en cuadro, se arrodilla y le busca el pulso en el cuello dos segundos —dos segundos que no tiene— y no encuentra nada.
 
 Se lo echa al hombro igual.
@@ -140,7 +148,7 @@ No oímos qué dice. El estruendo se lo come.
 
 Brogu mira arriba. Mira a la figura. Y **asiente una sola vez.**
 
-Y entonces el gigante ruge y **carga**, y @Nima y @Noah y @Vosk cargan con él, y todos los que quedan de pie empujan hacia el mismo sitio a la vez.
+Y entonces el gigante ruge y **carga** —y @Nima y @Noah y @Vosk cargan con él, y **detrás de ellos cargan los REBELDES enteros**, cientos de cuerpos empujando hacia el mismo sitio a la vez.
 
 No para ganar. Para **abrir un pasillo.**
 
@@ -1538,7 +1546,7 @@ Un boquete revienta en el muro de la esfera y salen **@STELLA** y **@NOAH** al i
 
 Se está yendo la luz. Lo único que alumbra la plaza es lo que arde. Muy arriba, contra el cielo violeta, cruzan **naves** en formación —lejos, pequeñas— y de ellas caen líneas de explosiones que caminan por el suelo levantando escombros y cuerpos.
 
-Abajo no se aguanta: **se avanza.** La resistencia empuja hacia la esfera por encima de las máquinas rotas.
+Abajo no se aguanta: **se avanza.** Los **REBELDES** empujan hacia la esfera por encima de las máquinas rotas —cientos, de una docena de pueblos— y la tripulación va delante de ellos abriendo la punta.
 
 La cámara entra con ellos y **no vuelve a parar.**
 

@@ -17,6 +17,8 @@
   en la sala del trono (1:41). Son los dos únicos planos estáticos, y por eso pesan.
 - **Todo el asalto existe para mover a Stella.** Cada golpe de cada personaje gana un metro para ella.
 - **Erdia está destruido y aun así es bonito:** estrellas nítidas y humo atravesándolas.
+- **`@Rebeldes` en TODOS los planos de la plaza (B1, B2 y B3), siempre en segundo plano y desenfocados.**
+  Nunca son el sujeto. Si el plano tiene un personaje con nombre, los rebeldes pelean detrás de él.
 
 ## Bloque 1 · EL SUELO Y EL AVANCE — 0:00 a 0:30
 
@@ -87,9 +89,9 @@
 
 | Bloque | Personajes | Máquinas | Locación |
 |---|---|---|---|
-| **B1** | `@Brogu` `@Nima` `@Vosk` `@HombrePulpo` `@Gara` `@Enko` `@TrioHumano` `@MujerVerde` `@StellaTeñida` | `@RobotLinea` `@RobotPesado` `@NaveImperial` | `@PlazaPalacio` `@PalacioEsfera` `@CieloAño24` |
-| **B2** | los mismos | los cuatro tipos | `@PlazaPalacio` |
-| **B3** | `@StellaTeñida` `@Brogu` (+ el resto en la carga) | `@RobotLinea` `@RobotDescarga` `@NaveImperial` | `@PalacioEsfera` |
+| **B1** | `@Rebeldes` `@Brogu` `@Nima` `@Vosk` `@HombrePulpo` `@Gara` `@Enko` `@TrioHumano` `@MujerVerde` `@StellaTeñida` | `@RobotLinea` `@RobotPesado` `@NaveImperial` | `@PlazaPalacio` `@PalacioEsfera` `@CieloAño24` |
+| **B2** | `@Rebeldes` + los mismos | los cuatro tipos | `@PlazaPalacio` |
+| **B3** | `@Rebeldes` `@StellaTeñida` `@Brogu` (+ el resto en la carga) | `@RobotLinea` `@RobotDescarga` `@NaveImperial` | `@PalacioEsfera` |
 | **B4** | `@StellaTeñida` | — | `@SalaTronoAbierta` |
 
 ## Riesgos conocidos
