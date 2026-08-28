@@ -54,6 +54,16 @@
   la subida y la cúspide · `1:30–2:00` el ducto, el aterrizaje, la silueta y el golpe.
 - **La plaza es un CONTRAATAQUE**, no una defensa: la resistencia AVANZA hacia la esfera y gana
   terreno. Cambió el verbo de toda la secuencia — de «aguantar» a «empujar».
+- **TODO EL ASALTO EXISTE PARA MOVER A STELLA.** No atacan el palacio: le abren camino. Cada golpe de
+  cada personaje gana un metro para ella. Ellos no van a entrar; ella sí. De ahí que ella no pelee en
+  toda la plaza, y que su grito del 1:00 **no pida paso sino que cambie el destino** (no por la puerta,
+  por arriba).
+- **MÉTODOS DE CÁMARA — solo cuatro:** `dolly` · `steadycam` · `brazo mecánico` · `POV de dron`, y los
+  planos lo más largos posibles. ⚠️ **Nunca cámara en mano**, nunca temblor de operador.
+- **Erdia destruido pero BONITO dentro de su caos:** el cielo del año 24 tiene estrellas nítidas y el
+  humo las atraviesa. Belleza y desastre en el mismo cuadro.
+- **EL CONTRAPICADO (0:16–0:20):** único plano de la plaza donde solo hay dos cosas en cuadro, **ella y
+  el cielo**. Es donde aparecen las naves por primera vez y donde se ve la belleza del planeta muerto.
 - **Naves desde el primer segundo, pero LEJOS:** siluetas pequeñas cruzando muy arriba contra el cielo
   violeta. De cerca no se ve ninguna hasta **1:09**, cuando una pasa por debajo de las botas de Stella
   en plena subida. Lo que sí se ve desde el suelo son sus impactos caminando por la tierra.

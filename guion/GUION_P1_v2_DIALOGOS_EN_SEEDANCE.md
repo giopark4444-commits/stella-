@@ -29,6 +29,8 @@
 > esto no es una defensa que aguanta, es un **contraataque** que va a por la esfera.*
 > *Y los nuestros **entran pronto**: al cuarto segundo ya estamos cruzándonos con ellos, aunque
 > todavía solo les veamos los pies.*
+> *Y todo lo que hace la tripulación en esta plaza tiene **un solo objetivo**: mover a una persona
+> hacia adelante. Cada golpe abre un metro. **Ellos no van a entrar. Ella sí.***
 > ⚠️ ***@Stella está en cuadro desde el segundo 3***, pero como una encapuchada más: sus botas entre los
 > pies (seg. 3), corriendo en el avance sin destacar (seg. 17), y **mirando hacia arriba cuando todos**
 > **los demás miran al enemigo** (seg. 41). Cuando la cámara la encuentra en el 0:58 **no la presenta:**
@@ -52,13 +54,23 @@ Y unas botas oscuras que llevan **algo apagado en los talones.** Algo que no for
 
 Y entre todos ellos, una bota que **no se mueve.**
 
-Un pie de **PESADO** baja sobre el objetivo — y **BROGU LO AGARRA.** Lo vemos desde el suelo, de abajo hacia arriba, sosteniendo con las dos manos un pie del tamaño de un coche. Lo tira de lado, y la máquina entera se va al suelo detrás de él.
+Un pie de **PESADO** baja sobre el objetivo — y **BROGU LO AGARRA.** Lo vemos desde el suelo, de abajo hacia arriba, sosteniendo con las dos manos un pie del tamaño de un coche. Lo tira de lado, y la máquina entera se va al suelo detrás de él — y **la cámara sube con el esfuerzo de sus brazos hasta quedarse en PLANO MEDIO**, a la altura del pecho, y de aquí ya no vuelve a bajar.
+
+Por el hueco que Brogu acaba de abrir **pasa alguien que no pelea.**
 
 Y entonces, desde el fondo, empieza a **caminar hacia nosotros una línea de explosiones.**
 
 Una. Otra más cerca. Otra más. Cada una levanta más escombros que la anterior — y con la tercera **suben cuerpos.**
 
-Y muy arriba, muy lejos, contra el cielo violeta: **naves.** Siluetas pequeñas cruzando en formación, demasiado lejos para verles nada. Es de ahí de donde cae todo esto.
+Y entonces la cámara **se tira al suelo y mira hacia arriba.**
+
+**CONTRAPICADO EXTREMO.** Y por primera y única vez en la plaza, en el cuadro **solo hay dos cosas: ella y el cielo.**
+
+La figura encapuchada, de espaldas al mundo, con la cabeza levantada. Y encima de ella, **el cielo de Erdia en el año 24** — y es lo más bonito que se ve en toda la película.
+
+Estrellas de verdad, muchísimas, nítidas como no se ven desde ningún mundo vivo. Columnas de humo negro subiendo despacio y tapándolas a trozos. Y **cruzando entre las estrellas, en formación, las naves imperiales.**
+
+*(Este planeta está prácticamente destruido. Y sin embargo, mirado desde abajo, es hermoso. Las dos cosas caben en el mismo cuadro — y ella es la única que lo está mirando.)*
 
 Y ahí la cámara **se levanta.**
 
@@ -84,15 +96,15 @@ Sin corte. Ahora vamos por dentro. Y aquí no se aguanta nada: **se avanza a gol
 
 **BROGU** es la punta de la lanza. No pelea: **abre camino**, y todo el avance se embudona detrás de él. Choca de frente contra un **PESADO**, el doble de alto que él, y **lo para en seco.**
 
-**@NIMA** pasa corriendo por debajo de su brazo y **rueda algo redondo entre las patas del pesado.** El pulso azul revienta hacia arriba, el pesado **cae de rodillas**, Brogu le arranca la cabeza — y el avance le pasa por encima sin detenerse.
+**@NIMA** pasa corriendo por debajo de su brazo y **rueda algo redondo entre las patas del pesado.** El pulso azul revienta hacia arriba, el pesado **cae de rodillas**, Brogu le arranca la cabeza — y el avance le pasa por encima sin detenerse. **Otro metro ganado.**
 
-**LA MUJER VERDE** sale disparada hacia arriba. Salta, corre por el lomo de las máquinas como si fueran suelo, y se lanza sobre las patas larguísimas de uno **DE DESCARGA.** La máquina se dobla por la mitad y se viene abajo. **Ella es la que va a por los que no bajan.**
+**LA MUJER VERDE** sale disparada hacia arriba. Salta, corre por el lomo de las máquinas como si fueran suelo, y se lanza sobre las patas larguísimas de uno **DE DESCARGA.** La máquina se dobla por la mitad y se viene abajo — **era la que estaba apuntando al pasillo.** Ella es la que va a por los que no bajan.
 
 Un **CORREDOR** salta hacia el objetivo — y **EL HOMBRE PULPO** lo atrapa en el aire **con tres brazos, sin dejar de pelear con los otros**, y lo abre por las juntas.
 
 Y la cámara pasa junto a **la figura encapuchada** — y es la única persona de toda la plaza que **no está mirando al enemigo. Está mirando hacia arriba.**
 
-**LOS TRES HUMANOS** aguantan un flanco espalda contra espalda, rotando, cubriéndose los ángulos ciegos. **@NOAH** es uno de ellos, con la espada de luz. No tienen nada especial en el cuerpo: **son los únicos que pelean como un ejército y no como individuos**, y por eso ese flanco no se rompe.
+**LOS TRES HUMANOS** aguantan un flanco espalda contra espalda, rotando, cubriéndose los ángulos ciegos. **@NOAH** es uno de ellos, con la espada de luz. No tienen nada especial en el cuerpo: **son los únicos que pelean como un ejército y no como individuos**, y por eso ese flanco no se rompe. Y si ese flanco no se rompe, **el pasillo sigue abierto.**
 
 **@VOSK** hace otra cosa: **se sube a un PESADO.** Trepa por él mientras la máquina se sacude entera para quitárselo, llega arriba, y **lo tumba desde dentro.** El pesado se derrumba encima de la línea imperial. @Vosk está abierto de un costado, la estirpe le baja hasta la bota, y **se ríe.** No se está divirtiendo: se está despidiendo.
 
@@ -123,6 +135,8 @@ La cámara **no la sigue de vuelta.** Se queda. Gira. Y encuentra a **una figura
 Se va con ella. La figura agarra a **BROGU** del brazo y le **grita algo** señalando **la punta de la esfera.**
 
 No oímos qué dice. El estruendo se lo come.
+
+*(No les está pidiendo que le abran paso: eso llevan haciéndolo desde el primer segundo. Les está diciendo que **el paso va por otro lado.** No por la puerta. Por arriba.)*
 
 Brogu mira arriba. Mira a la figura. Y **asiente una sola vez.**
 
