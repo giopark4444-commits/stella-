@@ -31,7 +31,8 @@
 > • **APERTURA EN FRÍO (SEC 0).** La película ya no empieza por el principio: arranca con **la batalla
 >   entera** — Brogu, Nima, Noah, Vosk, Gara y Enko aguantando una marea de robots y **abriendo un
 >   pasillo** por el que pasa corriendo una figura encapuchada que no pelea con nadie. Ella sube la
->   fachada bajo fuego y termina rompiendo la cúpula de cristal. Sin diálogo, sin nombres, sin rótulo.
+>   fachada bajo fuego, revienta la **cúspide sellada** del palacio y se tira de cabeza por el **mismo
+>   ducto por el que huyó a los catorce años** (SEC 6). Sin diálogo, sin nombres, sin rótulo.
 > • **La clave de la escena es que están perdiendo.** No es una victoria: es un sacrificio para
 >   empujar a una sola persona hacia arriba.
 > • **El corte de vuelta es de caída a caída:** ella se precipita hacia dentro del palacio y la cámara
@@ -146,11 +147,19 @@ Y lo saca de ahí **cargándolo entero**, cojeando, apartando robots a patadas c
 
 Y **vuelve a la línea.**
 
-No están ganando. Nadie está ganando. Solo están **abriendo un pasillo.**
+Y en medio de todo eso, una figura encapuchada agarra a **BROGU** del brazo y le **grita algo** señalando hacia arriba —hacia la **punta** de la cúpula del palacio.
+
+No oímos qué dice. El estruendo se lo come.
+
+Brogu mira arriba. Mira a la figura. Y **asiente una sola vez.**
+
+Y entonces el gigante ruge y **carga**, y Nima y Noah y Vosk cargan con él, y todos los que quedan de pie empujan hacia el mismo sitio a la vez.
+
+No para ganar. Para **abrir un pasillo.**
 
 Y por ese pasillo —entre el humo, entre los caídos, entre todo lo que arde—
 
-**pasa alguien corriendo.**
+**pasa ella corriendo.**
 
 Una figura encapuchada. **No pelea.** Esquiva. No ayuda a nadie, no se detiene por nadie, no mira a los lados. Tiene una sola dirección y es hacia adelante.
 
@@ -184,23 +193,39 @@ PRIMER PLANO: **la mano.** Se clava en la última cornisa. Los dedos resbalan. A
 
 Y bajo la piel de esa palma, algo **late**.
 
-ARRIBA — se descuelga sobre una **cúpula de cristal** enorme, encendida por el reflejo del incendio.
+ARRIBA DEL TODO — la **cúspide** de la enorme cúpula esférica del palacio. Aquí ya no hay guerra: solo viento, y el ruido de abajo llegando amortiguado.
 
-Y a través del vidrio, muy abajo, en el centro de una sala del tamaño de una catedral, hay **una figura**.
+Se posa en la piedra curva y camina hasta el punto más alto.
 
-De pie. Inmóvil. Blanca. En medio de un edificio que se cae a pedazos.
+Y ahí está: **una placa de metal soldada sobre un orificio circular**, remachada por los bordes, ennegrecida. Sellada hace mucho tiempo y no muy bien.
 
-**Esperándola.**
+Le pasa la mano por encima. **La conoce.**
 
-La figura de la cornisa se queda quieta un segundo. Y en ese segundo —solo ese— le vemos los ojos bajo la capucha. **Ámbar.**
+*(No lo dirá nunca. Pero es la única persona viva que ha salido por ahí.)*
 
-Aprieta el puño. La luz se le concentra en la palma hasta iluminarle la cara entera.
+En ese segundo —solo ese— le vemos los ojos bajo la capucha. **Ámbar.**
 
-Y **rompe el cristal.**
+Apoya la palma abierta contra la placa. La luz se le concentra hasta iluminarle la cara entera, se le mete a la piedra por debajo, corre por las juntas—
+
+Y **la cúspide del palacio revienta hacia arriba.**
+
+El humo se despeja. Y debajo aparece **la boca de un ducto**. Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinticuatro años.
+
+Stella lo mira medio segundo.
+
+**Y se tira de cabeza.**
+
+INT. DUCTO — CONTINUO
+
+Cae por el tubo a plomo, en vertical, rozando las paredes, con la luz de la palma iluminándole la cara desde abajo. Las botas encendidas a ráfagas para no destrozarse contra los recodos.
+
+Es el mismo túnel que la sacó de aquí. **Está entrando por donde huyó.**
+
+Y al final, abajo, un cuadrado de luz que se agranda—
 
 INT. SALA DEL TRONO — CONTINUO
 
-**Cae.** Veinte metros entre una lluvia de vidrio, y el suelo la recibe mal.
+**Sale disparada del techo** y cae veinte metros. El suelo la recibe mal.
 
 Se queda ahí un segundo, de lado. Está **rota**: se levanta como se levanta alguien que ya no debería poder.
 
@@ -212,7 +237,7 @@ A Stella se le cae la cara entera.
 
 Baja las manos. **Baja la guardia.**
 
-Y empieza a caminar hacia ella. Sin defenderse, con las palmas abiertas, cojeando entre los cristales, moviendo los labios para decir **una palabra que no oímos.**
+Y empieza a caminar hacia ella. Sin defenderse, con las palmas abiertas, cojeando entre los escombros, moviendo los labios para decir **una palabra que no oímos.**
 
 *(Y no es el nombre que ustedes creen. A esa distancia, con esa luz y ese pelo, Stella no está viendo a su hermana. Está viendo a su madre.)*
 
@@ -253,7 +278,7 @@ CORTE —
 
 — y **seguimos cayendo.**
 
-Pero ya no es cristal lo que atravesamos: es cielo. Y no es de noche: es un amanecer.
+Pero ya no es un ducto lo que atravesamos: es cielo. Y no es de noche: es un amanecer.
 
 Una línea de luz raja la oscuridad: el borde de un planeta. La cámara cae hacia él, atraviesa nubes doradas, baja sobre cordilleras vivas, sobre bosques que respiran.
 
@@ -547,7 +572,7 @@ Antes de entrar, una fracción de segundo, **mira hacia abajo.**
 
 Ve a su madre, tirada, quieta. Ve a la **bebé Selka** llorando junto al cuerpo. Las ve por **última vez.**
 
-Aprieta los dientes. Entra al ducto.
+Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinticuatro años después va a volver a entrar por aquí, en dirección contraria.)*
 
 **S1G1** dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas—
 
@@ -1509,11 +1534,20 @@ Naio, en brazos de Brogu, gira la cabeza. Y lo último que ve de su hija es una 
 
 No sabe que va a caer.
 
-EN LO ALTO — Stella llega al techo de **cristal.** *(Volvemos al plano con el que abrió la película —la **SEC 0**— pero ahora sabemos quién es, de dónde viene y qué le costó llegar hasta aquí. Esta vez la escena no se corta.)* Abajo, en el centro de la sala, una figura blanca espera de pie, inmóvil, como si supiera que iba a venir.
+ABAJO, EN LA PLAZA — antes de subir, Stella agarra a **BROGU** del brazo y le grita señalando la cúspide del palacio. *(Es el plano con el que abrió la película. Esta vez sí oímos lo que dice.)*
+
+**STELLA**
+¡Sé por dónde entrar! ¡Salí por ahí una vez!
+*(beat)*
+¡Ábranme el paso y no me sigan!
+
+Brogu mira arriba. Mira a Stella. **Asiente una sola vez.** Y ruge, y carga, y todos cargan con él.
+
+EN LO ALTO — Stella llega a la cúspide. La placa soldada. La palma abierta. La cúspide del palacio **revienta** y aparece la boca negra del ducto, con las paredes quemadas desde hace veinticuatro años.
 
 Stella tenía una promesa con Theron: mirar y volver. La rompe.
 
-Rompe el cristal de un golpe del Orbe. Y **cae** al trono.
+**Se tira de cabeza por el mismo tubo por el que huyó de niña.** Y **cae** al trono.
 
 ---
 
@@ -1536,7 +1570,7 @@ Y ahora la cámara **no se corta.** Se queda. Y por primera vez vemos lo que hab
 
 **VORTHAN.**
 
-De pie en la penumbra, con su forma de siempre, esperando. Lleva ahí desde antes de que ella rompiera el cristal.
+De pie en la penumbra, con su forma de siempre, esperando. Lleva ahí desde antes de que ella reventara la cúspide.
 
 Y no la deja llegar.
 
@@ -1887,7 +1921,7 @@ Allá abajo me hizo prometerle que no dijera quién era.
 *(le tiembla la voz)*
 Ya lo dije. Ya puedo decirlo.
 
-Selka se vuelve hacia el tanque. Apoya la **palma** —la única— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que rompió el cristal del trono para llegar a ella, que se negó a matarla, que cruzó un universo para volver.
+Selka se vuelve hacia el tanque. Apoya la **palma** —la única— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que se tiró por un ducto sellado para llegar a ella, que se negó a matarla, que cruzó un universo para volver.
 
 **SELKA (CONT.)**
 *(la frente contra el cristal)*

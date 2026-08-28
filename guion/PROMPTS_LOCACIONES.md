@@ -221,9 +221,9 @@
 
 ### @SalaTrono — la sala del trono
 - **Style:** 2D hand-painted anime film background, cel-animation matte painting — broad simplified shapes and flat painted masses rather than fine detail, restrained texture, clean readable silhouettes, soft brushwork with visible painted edges; strong atmospheric perspective with the distance fading pale; warm cinematic light, soft grain. A wide-angle establishing view of the entire location, general environment overview (not a specific camera shot), no characters. 21:9 aspect ratio, wide-angle lens.
-- **Location:** Make a location sheet of a vast, cold imperial throne hall crowned by an immense glass ceiling; a single high throne stands at the far center on a raised dais, flanked by tall dark-and-gold banners; polished stone floor stretching in cathedral scale, hard-edged and severe (secretly the command deck of a colossal ship).
-- **Key elements:** enormous glass ceiling, a lone raised throne on a dais, towering imperial banners, mirror-polished cold floor, severe angular columns, faint hidden machine-lines under the ornamentation.
-- **Light & atmosphere:** cold pale light falling from the glass ceiling, immense and empty, echoing.
+- **Location:** Make a location sheet of a vast, cold imperial throne hall crowned by an immense spherical dome, with one small sealed circular hatch at its apex; a single high throne stands at the far center on a raised dais, flanked by tall dark-and-gold banners; polished stone floor stretching in cathedral scale, hard-edged and severe (secretly the command deck of a colossal ship).
+- **Key elements:** enormous spherical dome overhead with a welded hatch at the very top, a lone raised throne on a dais, towering imperial banners, mirror-polished cold floor, severe angular columns, faint hidden machine-lines under the ornamentation.
+- **Light & atmosphere:** cold pale light bleeding down from the dome, immense and empty, echoing.
 - **Palette:** cold marble white-grey, imperial dark gold, pale skylight.
 - **Mood:** intimidating power, cold emptiness, a throne that is really a helm.
 - **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no characters, no people, no text, no watermark, no logos.
