@@ -1536,8 +1536,9 @@ Todavía no.
 
 > *La **SEC 0** abrió la película con este mismo momento, en abierto y sin nombres. Aquí va
 > **en cerrado**: los planos generales de batalla ya se vieron, así que ahora la cámara se queda
-> en las caras. **Duración objetivo: 2:00 · ~32 planos.** No se respira: del primer plano al
-> ducto, la secuencia no para.*
+> en las caras. **Duración objetivo 2:00 · ~35 planos — plaza 1:00 · fachada 0:30 · cúspide 0:30.**
+> Cierra en seco cuando se tira: **la caída por el ducto ya es de la SEC 24.**
+> No se respira: del primer plano al salto, la secuencia no para.*
 
 EXT. LA PLAZA — ANOCHECER
 
@@ -1545,15 +1546,25 @@ Un boquete revienta en el muro del palacio y salen **@STELLA** y **@NOAH** al in
 
 Se está yendo la luz. Lo único que alumbra la plaza es lo que arde.
 
-Y ya no vemos la batalla entera: vemos **pedazos**. **BROGU** entrando de hombro en una fila que se rompe. **@NIMA** soltando algo redondo al suelo, y un pulso azul que apaga cuatro a la vez. **@NOAH** cortando de revés sin poder retroceder. **@VOSK** abierto de un costado, la estirpe hasta la bota, **riéndose** cada vez que cae uno.
+Y ya no vemos la batalla entera: vemos **pedazos**. **BROGU** entrando de hombro en una fila que se rompe. **@NIMA** soltando algo redondo al suelo, y un pulso azul que apaga cuatro a la vez.
+
+**@NOAH** corta de revés, para, corta otra vez. Le tiembla el brazo. Lleva demasiado rato sosteniendo el mismo metro de suelo y **no piensa moverse de ahí.**
+
+**@VOSK** aguanta una brecha él solo, abierto de un costado, la estirpe bajándole hasta la bota. Cae uno y **se ríe.** Cae otro y se ríe más fuerte. Ya hizo las cuentas, le salieron mal, y aun así se está riendo.
 
 Y en el suelo, entre los que ya no están de pie, **ENKO**.
 
-**GARA** le busca el pulso dos segundos que no tiene. No lo encuentra. **Se lo echa al hombro igual**, lo saca de ahí y lo sienta contra un muro. Le cierra los ojos con dos dedos.
+**GARA** le busca el pulso dos segundos que no tiene. No lo encuentra.
+
+**Se lo echa al hombro igual**, lo saca de la línea cargándolo entero y lo sienta contra un muro. Le cierra los ojos con dos dedos.
 
 Y **vuelve a la línea.**
 
-@Stella lo ve. Y **decide.**
+CERCA DE @STELLA. Lo ha visto todo sin moverse un centímetro.
+
+Y esto es lo que necesitamos entender antes de que haga nada: que **sabe** que si sube, los deja. Que ninguno de los que están abajo va a seguir vivo dentro de diez minutos. Y que **va a subir igual.**
+
+Cierra los ojos un segundo. Los abre. Ya no está la duda.
 
 Agarra a **BROGU** del brazo y le grita señalando la **cúspide** del palacio. *(Es el plano con el que abrió la película. Esta vez sí oímos lo que dice.)*
 
@@ -1576,48 +1587,56 @@ No es un vuelo limpio: es a **ráfagas**. Enciende, sube, se apaga, se agarra a 
 
 Una **la alcanza de lleno.** Se apagan las botas. Y **cae** —dando vueltas contra doscientos metros de vacío—
 
-—**ahueca la palma.** Un latigazo de luz engancha una gárgola y la frena en seco contra el muro. Respira una vez. Se enciende otra vez.
+—**ahueca la palma.** Un latigazo de luz engancha una gárgola y la frena en seco contra el muro. Respira una vez y se enciende otra vez.
 
 Tres **robots imperiales** bajan por la fachada a su encuentro. Los pasa sin frenar: al primero le hunde la palma en el pecho, al segundo lo usa de escalón, al tercero lo agarra de la cabeza y **sube por él mientras cae.**
 
-ABAJO, un segundo — **BROGU** levanta la cabeza sin dejar de pelear, la busca en la fachada, la encuentra. Y sigue golpeando.
+ABAJO, un segundo — **BROGU** la busca en la fachada sin dejar de pelear. La encuentra. Y sigue golpeando.
 
 EXT. LA CÚSPIDE — CONTINUO
 
 Arriba ya no hay guerra: solo viento, cielo violeta, y el ruido de abajo llegando amortiguado.
 
+Se posa en la piedra curva y sube andando hasta el punto más alto del palacio.
+
 Y ahí está: **una placa de metal soldada sobre un orificio circular**, remachada por los bordes, ennegrecida. Sellada hace mucho y no muy bien.
 
-Le pasa la mano por encima. **La conoce.**
+Le pasa la mano por encima, despacio, siguiendo el borde con los dedos.
+
+Y se le va la cara. **La conoce.**
 
 *(Es la única persona viva que ha salido por ahí.)*
 
 @Stella tenía una promesa con @Theron: mirar y volver. **La rompe.**
 
-Apoya la palma abierta contra la placa. La luz se le mete a la piedra por debajo, corre por las juntas—
+Apoya la palma abierta contra la placa. La luz se le concentra hasta iluminarle la cara entera, se le mete a la piedra por debajo, corre por las juntas—
 
 Y **la cúspide del palacio revienta hacia arriba.**
 
 Debajo, **la boca del ducto.** Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinticuatro años.
 
-Lo mira medio segundo. **Y se tira de cabeza.**
+Lo mira medio segundo.
+
+**Y se tira de cabeza.**
+
+---
+
+## SEC. 24 — INT. PALACIO IMPERIAL — DEL DUCTO A LA SALA DEL TRONO — CONTINUO
+
+> *Arranca en el mismo movimiento en que cerró la 23B —la caída no se corta— y vuelve al plano con
+> el que abrió la película. Esta vez la cámara no se va: vemos lo que la apertura nos escondió.*
 
 INT. DUCTO — CONTINUO
 
-Cae a plomo, rozando las paredes, con la luz de la palma iluminándole la cara desde abajo.
+Cae a plomo por el tubo, rozando las paredes, con la luz de la palma iluminándole la cara desde abajo. Las botas a ráfagas para no destrozarse en los recodos.
 
 Es el mismo túnel que la sacó de aquí. **Está entrando por donde huyó.**
 
 Y al final, abajo, un cuadrado de luz que se agranda—
 
----
+INT. SALA DEL TRONO — CONTINUO
 
-## SEC. 24 — INT. PALACIO IMPERIAL — SALA DEL TRONO — CONTINUO
-
-> *Volvemos al plano con el que abrió la película. Esta vez la cámara no se va — y vemos lo que la
-> apertura nos escondió.*
-
-@Stella **sale disparada del techo** por la boca del ducto y cae veinte metros. El suelo la recibe mal. Se levanta rota.
+@Stella **sale disparada del techo** y cae veinte metros. El suelo la recibe mal. Se levanta rota.
 
 Al fondo, a treinta metros, **una figura de pelo blanco de espaldas a la luz.**
 

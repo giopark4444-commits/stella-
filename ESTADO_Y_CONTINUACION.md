@@ -27,8 +27,12 @@
 - **Motivo:** el proyecto compite contra cientos de otros; los primeros diez segundos deciden si
   alguien sigue viendo.
 - **Duraciones fijadas (2026-08-28):** **SEC 0 ≈ 1:20** (en abierto, espectáculo, sin nombres) y
-  **SEC 23B ≤ 2:00 · ~32 planos** (en cerrado: los generales ya se vieron, la cámara se queda en las
-  caras). Son el mismo suceso: **la 23B no repite, reencuadra.** Techo conjunto ~3:20 de 48 min.
+  **SEC 23B = 2:00 · ~35 planos**, repartidos **plaza 1:00 · fachada 0:30 · cúspide 0:30** (en cerrado:
+  los generales ya se vieron, la cámara se queda en las caras). Son el mismo suceso: **la 23B no
+  repite, reencuadra.** Techo conjunto ~3:20 de 48 min.
+- **La caída por el ducto es de la SEC 24, no de la 23B.** La 23B cierra en seco en *«Y se tira de
+  cabeza»*; la 24 abre cayendo y revienta el techo de la sala del trono sin cortar. Son un solo
+  movimiento y partirlos en dos escenas era un error de montaje.
 
 
 **Cambios v2.4 — dos personajes rediseñados:**
