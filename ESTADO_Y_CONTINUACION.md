@@ -46,8 +46,12 @@
   ⚠️ **Ninguno es blanco:** metal oscuro casi negro; se ven porque el fuego se les refleja encima.
   `@RobotImperial` pasa a ser la hoja de familia: los cuatro juntos para leer las siluetas.
 - **La película ABRE A RAS DE PISO**, no en negro ni desde el aire: dolly rasante entre escombros,
-  cruzando pies de máquina y pies de los nuestros, con la guerra solo en el sonido. La cámara se
-  levanta a los ~14 s y ahí se revela el mundo.
+  cruzando pies de máquina y pies de los nuestros, con la guerra solo en el sonido. **Ese plano dura
+  10 segundos exactos**: al segundo 10 la cámara ya está abierta en **plano medio** sobre los
+  personajes, y no vuelve al suelo hasta que el disparo la tira.
+- **La SEC 0 se genera en CUATRO prompts de 30 s clavados** (la plaza se lleva los dos primeros):
+  `0:00–0:30` el suelo y el avance · `0:30–1:00` dentro de la carga · `1:00–1:30` el grito, el pasillo,
+  la subida y la cúspide · `1:30–2:00` el ducto, el aterrizaje, la silueta y el golpe.
 - **La plaza es un CONTRAATAQUE**, no una defensa: la resistencia AVANZA hacia la esfera y gana
   terreno. Cambió el verbo de toda la secuencia — de «aguantar» a «empujar».
 - **Naves desde el primer segundo, pero LEJOS:** siluetas pequeñas cruzando muy arriba contra el cielo

@@ -130,9 +130,12 @@
 > empujando hacia arriba.*
 > *(Este momento vuelve completo y desde dentro en la **SEC 23B** —el asalto— y la **SEC 24** —lo que
 > la esperaba abajo—.)*
-> **Duración objetivo 2:00 · ~36 planos — la plaza 1:00 · la fachada y la cúspide 0:30 · el ducto, el
-> aterrizaje, la silueta y el golpe 0:30.** Los tres últimos planos van a 2 s cada uno: son el suelo,
-> no hay holgura ahí.
+> **Duración 2:00, en CUATRO bloques de 30 s exactos:** `0:00–0:30` el suelo y el avance ·
+> `0:30–1:00` dentro de la carga · `1:00–1:30` el grito, el pasillo, la subida y la cúspide ·
+> `1:30–2:00` el ducto, el aterrizaje, la silueta y el golpe.
+> ⚠️ **El plano rasante dura solo 10 segundos.** Al segundo 10 la cámara ya se ha abierto lo bastante
+> como para que los personajes se vean en **plano medio**, y de ahí en adelante no se vuelve al suelo
+> hasta que el disparo tira la cámara. Los tres últimos planos van a 2 s: son el suelo, no hay holgura.
 
 > *Toda la plaza va en **planos secuencia**: la cámara es un dron y no corta, **vuela**. La película
 > **abre en el suelo**, entre los pies. Todo se mueve, todo va rápido, y sobre todo **todo avanza**:
