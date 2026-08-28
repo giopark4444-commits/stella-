@@ -1718,8 +1718,17 @@ Se le llena el ojo bueno.
 You came back. Twenty-four years.
 *(le busca el pelo con los dedos)*
 I told you never to let him have it, and… look at you. You kept it safe. Your whole life.
-*(beat)*
-My river girl.
+
+*(Y entonces le cierra la mano sobre la llave. **El mismo gesto de hace veinticuatro años.**)*
+
+**@NAIO (CONT.)**
+My girl.
+
+*(Y después, muy despacio, con los dedos rotos y a través de los barrotes, **se la vuelve a abrir.**)*
+
+*(No dice nada más. No hace falta. Su mujer llevaba razón, y él acaba de tardar veinticuatro años en admitirlo.)*
+
+@Stella se queda mirándose la palma abierta.
 
 **@STELLA**
 *(mirando la celda, la cerradura, los años)*
