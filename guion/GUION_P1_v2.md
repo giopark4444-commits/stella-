@@ -37,6 +37,10 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • **AHUECAR LA PALMA ES UN GESTO NAIELI, NO DE STELLA.** Lo hace Stella con Gix, lo hace en el
+>   laboratorio, lo hace **Vera al morir** para escudar a su hija — y lo hace Stella otra vez en la
+>   SEC 24 debajo de una hoja de luz. **Selka lo vio dos veces de bebé** y por eso su cuerpo lo
+>   reconoce antes que su cabeza.
 > • **LA LLAVE VA EN LA PALMA IZQUIERDA. SIEMPRE.** Ahí se la graba Naio, ahí se integra el Orbe, de
 >   ahí se lo arranca Selka en la SEC 27, y esa es la mano abierta cuya luz se apaga en la apertura
 >   en frío. **El Orbe nunca vive en el brazalete:** el brazalete es de Gix.
@@ -746,6 +750,14 @@ Naio le tiende un **traje** plegado. Y se lo pide con toda la delicadeza del mun
 **NAIO**
 Póntelo.
 
+Stella se cambia sin preguntar nada. Y mientras lo hace, hace también lo otro: **se recoge el pelo blanco en una trenza**, apretada, de combate, como le enseñaron en la academia.
+
+*(Se la va a cortar de un tajo dentro de diez minutos.)*
+
+Del cinturón del traje asoma **un cuchillo láser** y, en la espalda y en las botas, **propulsores.** Su padre no le ha dado ropa: le ha dado un equipo.
+
+*(Y esos propulsores son los mismos con los que la vamos a ver subir doscientos metros de fachada dentro de veinticuatro años. Vuela con lo que le dio su padre.)*
+
 Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.
 
 **NAIO (CONT.)**
@@ -894,7 +906,7 @@ Vera habla entrecortado, sin dejar de correr. Y lo que dice es brutal de tan cla
 **VERA**
 Recuérdalo, Stella: nada es más importante que ese Orbe. Nada.
 *(la mira un segundo)*
-Ni yo. Ni tu hermana. Sin él, el planeta entero muere. Todos. ¿Entiendes?
+Ni yo. Ni tu hermana. Ahí dentro está todo lo que nos queda. Si él se lo lleva, no queda nada. ¿Entiendes?
 
 **STELLA**
 *(corriendo, los ojos llenos)*
@@ -965,9 +977,15 @@ Tan parecida a tu madre. Corriendo hacia lo que ama.
 *(beat)*
 Por eso siempre pierden.
 
-En el suelo, Vera junta lo último que le queda. Levanta las dos manos hacia su hija—
+En el suelo, Vera junta lo último que le queda.
 
-—y forma un **escudo de luz** alrededor de Stella.
+Y **ahueca la palma.**
+
+*(El mismo gesto. El de su hija en el parque, el de su hija en el laboratorio, el de su hija dentro de veinticuatro años debajo de una hoja de luz. **No es de Stella: es de la familia.** Es lo que hacen los naieli con las manos.)*
+
+Y de esa palma sale un **escudo de luz** que se cierra alrededor de Stella.
+
+*(Y a cuatro metros, metida en el hueco de un panel, **SELKA lo está viendo.** Tiene un año. No lo va a recordar. Pero lo vio.)*
 
 Justo en el instante en que S1G1, detrás de ella, **la atraviesa por la espalda.**
 
@@ -2158,6 +2176,8 @@ Y Stella, acorralada, desesperada, sin pensarlo —por puro reflejo de hermana m
 Ahueca la palma. Una **chispa de Gix** baila en su mano. Y la levanta hacia la cara de Selka, buscándole la **frente.**
 
 El mismo gesto del parque. El día que la enseñó a caminar hacia la luz.
+
+*(Y el mismo gesto que su madre hizo en el suelo de la sala del Orbe, con lo último que le quedaba, a cuatro metros de un panel donde había una bebé de un año mirando. **Selka ha visto esta mano dos veces. Y las dos veces era alguien queriéndola.**)*
 
 Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinticuatro años se remueve. Bajo la General, por un instante, asoma una niña.
 

@@ -606,6 +606,14 @@ Naio le tiende un **traje** plegado. Y se lo pide con toda la delicadeza del mun
 **NAIO**
 Put it on.
 
+Stella se cambia sin preguntar nada. Y mientras lo hace, hace también lo otro: **se recoge el pelo blanco en una trenza**, apretada, de combate, como le enseñaron en la academia.
+
+*(Se la va a cortar de un tajo dentro de diez minutos.)*
+
+Del cinturón del traje asoma **un cuchillo láser** y, en la espalda y en las botas, **propulsores.** Su padre no le ha dado ropa: le ha dado un equipo.
+
+*(Y esos propulsores son los mismos con los que la vamos a ver subir doscientos metros de fachada dentro de veinticuatro años. Vuela con lo que le dio su padre.)*
+
 Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.
 
 **NAIO (CONT.)**
@@ -754,7 +762,7 @@ Vera habla entrecortado, sin dejar de correr. Y lo que dice es brutal de tan cla
 **VERA**
 Remember this, Stella: nothing matters more than that Orb. Nothing.
 *(la mira un segundo)*
-Not me. Not your sister. Without it, the whole planet dies. Everyone. Do you understand?
+Not me. Not your sister. Everything we have left is in there. If he takes it, there is nothing. Do you understand?
 
 **STELLA**
 *(corriendo, los ojos llenos)*
@@ -825,9 +833,15 @@ So like your mother. Running toward what she loves.
 *(beat)*
 That's why you always lose.
 
-En el suelo, Vera junta lo último que le queda. Levanta las dos manos hacia su hija—
+En el suelo, Vera junta lo último que le queda.
 
-—y forma un **escudo de luz** alrededor de Stella.
+Y **ahueca la palma.**
+
+*(El mismo gesto. El de su hija en el parque, el de su hija en el laboratorio, el de su hija dentro de veinticuatro años debajo de una hoja de luz. **No es de Stella: es de la familia.** Es lo que hacen los naieli con las manos.)*
+
+Y de esa palma sale un **escudo de luz** que se cierra alrededor de Stella.
+
+*(Y a cuatro metros, metida en el hueco de un panel, **SELKA lo está viendo.** Tiene un año. No lo va a recordar. Pero lo vio.)*
 
 Justo en el instante en que S1G1, detrás de ella, **la atraviesa por la espalda.**
 
@@ -2018,6 +2032,8 @@ Y Stella, acorralada, desesperada, sin pensarlo —por puro reflejo de hermana m
 Ahueca la palma. Una **chispa de Gix** baila en su mano. Y la levanta hacia la cara de Selka, buscándole la **frente.**
 
 El mismo gesto del parque. El día que la enseñó a caminar hacia la luz.
+
+*(Y el mismo gesto que su madre hizo en el suelo de la sala del Orbe, con lo último que le quedaba, a cuatro metros de un panel donde había una bebé de un año mirando. **Selka ha visto esta mano dos veces. Y las dos veces era alguien queriéndola.**)*
 
 Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinticuatro años se remueve. Bajo la General, por un instante, asoma una niña.
 
