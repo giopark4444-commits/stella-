@@ -3,10 +3,20 @@
 > Secuencia por secuencia, en orden de pantalla. Síntesis del `GUION_P1_v2.md` (revisión v2.5, 2026-08-28).
 > Estructura 起承転結. 🔒 El cambio de forma de Vorthan es SECRETO hasta el clímax.
 > Marcadores **[ERDIA · AÑO X]** = saltos rotulados. (1 año de Stella = 4 de Erdia; **Erdia avanza 24 años**.)
-> **Cambios v2.5:** **APERTURA EN FRÍO (SEC 0)** — la película arranca con 90 segundos de acción pura,
-> Stella adulta escalando el palacio en llamas, sin diálogo ni nombres, y corta cuando rompe el cristal
-> y cae. El corte de vuelta es **de caída a caída** (ella al palacio, la cámara al planeta). La SEC 23
-> retoma ese plano y esta vez no se corta.
+> **Cambios v2.6 (2026-08-28):** **LAS DOS MANOS** — Vera le cierra el puño en el parque para enseñarle
+> que lo atrapado se muere; Naio le cierra **la misma mano** una hora después para decirle lo contrario;
+> y en la SEC 29, veinticuatro años más tarde, **el padre se la vuelve a abrir**. La llave va en la
+> **palma izquierda, siempre** (el brazalete es de Gix). **SEC 2 reescrita**: Stella adolescente, la
+> carrera a dos alturas con su madre, la lección de la mano, y Selka caminando hacia ella. **Gix está
+> hecho de partículas**: se deshace y se rehace, y le presta puñados de sí mismo. **SEC 3**: llega con
+> Selka en brazos y una cita que le puso su madre. Última frase del film: *"…por eso está viva."*
+>
+> **Cambios v2.5:** **APERTURA EN FRÍO (SEC 0)** — la película arranca con dos minutos de acción pura:
+> abre **a ras de piso entre los pies**, la plaza es un **contraataque** que le abre camino a Stella,
+> el ejército imperial tiene **cuatro tipos de máquina**, el palacio es **una esfera**, y ella sube
+> doscientos metros de fachada y se tira por **el mismo ducto por el que huyó**. El corte de vuelta es
+> **de caída a caída** (ella al palacio, la cámara al planeta). La **SEC 23B** repite el asalto y la
+> **SEC 24** retoma el plano final sin cortarse.
 >
 > **Cambios v2.4:** **Brog → BROGU**, con aspecto de gorila (ya no de piedra) · **Nima** deja de tener
 > cuatro brazos: es una **elfa azulada y baja, la científica de la nave** · en la SEC 27 **Vosk carga a
@@ -132,7 +142,7 @@ estaba en la puerta."** Stella, con una calma que da miedo: "Ustedes hagan todo 
 
 **18. El asalto / el rescate / la subida.** La guerra estalla: es la distracción. Stella y Noah bajan a
 las **celdas** — el mismo camino de Vera. Reencuentro: Naio la reconoce **por la llave de luz** en su
-palma ("Mi niña del río"). "¿Por qué te dejó vivo?" — *"Porque yo lo encripté en ti. Cree que sé cómo
+palma. **Le cierra la mano sobre la llave —el gesto de hace 24 años— y después se la vuelve a abrir.** "¿Por qué te dejó vivo?" — *"Porque yo lo encripté en ti. Cree que sé cómo
 deshacerlo."* Ella le corta los grilletes con el Orbe y, cuando él va a gritar su nombre, **le tapa la
 boca**: "No digas quién soy" (el planeta aún la cree la ladrona). Naio se traga el nombre… y también
 la verdad sobre Vera que ella ya sabe. Entrega a Naio a Noah y Brogu — y **rompe su promesa**: escala
@@ -177,7 +187,7 @@ no basta. ¿Sabes qué es? Mi mujer lo entendió hace diez años… **Yo sé por
 de Vera = el arma de la P2). Selka pide perdón; Naio la perdona con la mano. Y por fin **dice el nombre
 en voz alta**: *"Se llama Stella. Es mi hija. Ya puedo decirlo."* La mano de Selka en el cristal:
 *"No sabía que eras tú. Despierta y déjame decírtelo a la cara."* Adentro, **Gix sigue sosteniendo el
-corazón**. *"…un río que vuelve."* Corte a negro. → **EL NODO DE ERDIA.**
+corazón**. *"…por eso está viva."* Corte a negro. → **EL NODO DE ERDIA.**
 
 ---
 

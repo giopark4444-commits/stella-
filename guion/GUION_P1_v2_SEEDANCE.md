@@ -1858,8 +1858,17 @@ Se le llena el ojo bueno.
 Volviste. Veinticuatro años.
 *(le busca el pelo con los dedos)*
 Te dije que no dejaras que él lo tuviera, y… mírate. Lo cuidaste. Toda tu vida.
-*(beat)*
-Mi niña del río.
+
+*(Y entonces le cierra la mano sobre la llave. **El mismo gesto de hace veinticuatro años.**)*
+
+**@NAIO (CONT.)**
+Mi niña.
+
+*(Y después, muy despacio, con los dedos rotos y a través de los barrotes, **se la vuelve a abrir.**)*
+
+*(No dice nada más. No hace falta. Su mujer llevaba razón, y él acaba de tardar veinticuatro años en admitirlo.)*
+
+@Stella se queda mirándose la palma abierta.
 
 **@STELLA**
 *(mirando la celda, la cerradura, los años)*

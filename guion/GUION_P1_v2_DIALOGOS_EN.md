@@ -569,16 +569,17 @@ Sin mirar ni una vez cómo se aleja su madre.
 
 ## SEC. 3 — INT. LABORATORIO DE NAIO — PALACIO IMPERIAL — DÍA
 
-La puerta se abre y entra Stella todavía riendo, con Gix dándole vueltas.
+> *En esta habitación no hay nadie más: **un padre, una madre, una niña y una bebé.** Y se habla del
+> Orbe, pero **el Orbe no está aquí.** Las manos de Stella están vacías todo el tiempo.*
+
+La puerta se abre y entra Stella **con Selka en brazos**, todavía riéndose, con Gix dándole vueltas alrededor.
 
 **STELLA**
-You sent for me, what's so important that it can't wa—
+Hi, Dad. Hi, Mom.
 
 La risa se le apaga sola.
 
 Porque ve a **VERA** y a su padre **NAIO** (~45, **el científico del Rey** —su laboratorio está dentro del propio palacio—) de pie frente a una proyección de datos. Ninguno de los dos se ríe. Tienen la cara de alguien que acaba de ver algo que no se puede des-ver.
-
-Detrás, en un moisés flotante, duerme la **BEBÉ SELKA** (1 año, ojos gris-azul).
 
 **STELLA (CONT.)**
 *(la sonrisa cae)*
@@ -589,7 +590,21 @@ Nadie le contesta. Naio le tiende un **traje** plegado.
 **NAIO**
 Put it on. Quickly.
 
-Stella obedece sin entender. Empieza a vestirse. Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.
+Stella deja a Selka en el **moisés flotante** para poder cambiarse.
+
+Y la bebé, en cuanto le falta el cuerpo de su hermana, **rompe a llorar.**
+
+Stella se detiene a medio vestir. Y va hacia ella.
+
+Se inclina sobre el moisés. **Ahueca la mano izquierda.** Y **Gix se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan en la palma, como luciérnagas. Le **junta la frente** a la bebé.
+
+Y las dos **sonríen.**
+
+Selka se calla al instante. Un momento minúsculo, tibio, de hermanas. *(Guardarlo. Vuelve.)*
+
+*(Es lo último que esa mano va a hacer siendo una mano normal.)*
+
+Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.
 
 **NAIO (CONT.)**
 Listen to me carefully. The King is not protecting us.
@@ -604,46 +619,52 @@ Detrás de él, la proyección lo confirma: el mismo descenso de la SEC. 1, hast
 **NAIO**
 That's why he wants it.
 
-Naio activa una máquina sobre la **mano** abierta de Stella. Ella espera que le ponga algo dentro —una joya, un objeto. No le pone nada. La **prepara**. Una **llave de luz** se graba bajo su piel, en la palma, con un dolor breve y limpio.
+Naio activa una máquina sobre **la mano izquierda abierta** de Stella. Ella espera que le ponga algo dentro —una joya, un objeto. No le pone nada. La **prepara**. Una **llave de luz** se graba bajo su piel, en la palma, con un dolor breve y limpio.
 
 Stella aprieta los dientes.
 
 **NAIO (CONT.)**
 The Orb is our blood, Stella. Only our family can touch it.
-*(le cierra la mano)*
-What I just did to you lets you integrate it. Take it inside you. And once it's in there…
+
+Y **le cierra la mano.**
+
+**NAIO (CONT.)**
+What I just did to you lets you integrate it. Put it inside yourself. And once it's inside…
 *(la mira a los ojos)*
-…only you could ever use it. No one else.
+…you would be the only one who could ever use it. No one else.
 
-Stella no alcanza a procesarlo. Detrás, la **bebé Selka se despierta y empieza a llorar.**
+Stella se queda mirando su propio puño cerrado.
 
-Y Stella, por puro instinto de hermana mayor, deja todo y va hacia ella.
+*(Hace una hora, en un parque, otra persona le cerró esa misma mano para enseñarle exactamente lo contrario.)*
 
-Se inclina sobre el moisés. **Ahueca la mano.** Y **Gix vuelve a prestarle un puñado**: unas partículas bajan y bailan en su palma, como luciérnagas. Le **junta la frente** a la bebé.
+Y por un segundo —solo uno— **mira a su madre.**
 
-Y las dos **sonríen.**
+Vera le sostiene la mirada. Y no dice nada.
 
-Selka se calma al instante. Un momento minúsculo, tibio, de hermanas. *(Guardarlo. Vuelve.)*
+Y entonces se oyen **pasos.** Muchos. Veinte personas por lo menos, acercándose por el corredor.
 
-Pasos. Muchos. Acercándose por el corredor.
-
-Naio y Vera se cruzan una mirada. Se acabó el tiempo.
+Los tres se giran a la vez, asustados, **hacia el mismo sitio.**
 
 **NAIO (CONT.)**
 *(rápido, firme)*
-They're here. Take Selka. Go for the Orb.
-*(a Stella, agarrándole la cara con las dos manos)*
-When you have it, put it in your hand. And whatever happens… never, never let him have it. Do you hear me?
+They're almost here. Take Selka now and go for the Orb.
+
+Naio le agarra la cara a Stella **suavemente, con las dos manos.**
+
+**NAIO (CONT.)**
+When you have it, integrate it into your palm. And whatever happens… never, never let him have it. Do you hear me?
 *(beat)*
 I'll hold them.
 
 **STELLA**
-Papa, no—
+Father, please, come with us…
+
+Naio le dice que no **con la cara.** No le sale la palabra.
 
 **NAIO**
 I love you. All three of you. Go.
 
-Un abrazo de los tres, demasiado corto. Vera levanta a la bebé.
+Un abrazo de los tres, demasiado corto. Vera levanta a la bebé del moisés.
 
 La puerta principal se abre.
 
@@ -669,7 +690,17 @@ El Rey lo mira casi con pena. Y lo derriba de un solo golpe, como quien aparta u
 *(grito ahogado)*
 PAPA!
 
-Vera la arranca de ahí. Corren.
+Un robot se inclina a rematarlo. El Rey lo detiene **con dos dedos.**
+
+**VORTHAN (CONT.)**
+*(sin dejar de mirar a Naio en el suelo)*
+Not that one.
+*(beat)*
+That one closed it. That one is going to have to open it.
+
+*(Y ahí queda dicho, sin decirlo, por qué ese hombre va a seguir vivo veinticuatro años.)*
+
+Vera arranca a Stella de ahí. Corren.
 
 ---
 
@@ -692,6 +723,10 @@ Vera la mira de reojo. Y, en plena huida, le **sonríe**. Una sonrisa de madre, 
 
 **VERA**
 Whatever happens, get to the ship. I left it outside, at the exit that opens onto the park.
+
+Y Stella, corriendo, entiende una cosa que le va a doler el resto de su vida: **su madre dejó esa nave preparada antes de ir al parque.**
+
+Antes de la carrera. Antes de reírse. Antes de hacerla repetir la frase tres veces.
 
 Una pared estalla. Entran los primeros **robots.**
 
@@ -2237,10 +2272,22 @@ I didn't know it was you.
 *(beat)*
 Wake up. And let me say it to your face.
 
-Y entonces —tan tenue que casi no se oye, desde el fondo del coma, con la voz de su madre dentro— Stella **susurra.**
+Y desde el fondo del coma, algo se le enciende.
+
+FLASHBACK — EXT. PARQUE DE LA LUZAGUA — DÍA
+
+Sin sonido de sala. Solo agua.
+
+Las manos de su madre abriéndole la palma. La luzagua corriendo entre sus dedos. El puño cerrándose. La luz muriéndose dentro.
+
+Y su madre, otra vez, y otra vez, y otra vez: ***Repítemelo. Otra vez.***
+
+DE VUELTA AL TANQUE.
+
+Y entonces —tan tenue que casi no se oye, con la voz de su madre dentro— Stella **susurra.**
 
 **STELLA (V.O., un hilo)**
-…a river coming back.
+…that's why it's alive.
 
 Adentro del tanque, la **brasa de Gix** late una vez más. Débil. Pequeña.
 
