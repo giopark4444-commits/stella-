@@ -1,8 +1,8 @@
 # 🎬 GUION TÉCNICO — LA APERTURA · SEC. 0 · 1 · 2
 
 > **Documento de producción.** Desglose plano a plano de las tres primeras secuencias.
-> **144 planos · 8:46** — SEC 0 (2:00 · 45) · SEC 1 (0:46 · 9) · SEC 2 (3:00 · 48) · SEC 3 (3:00 · 42).
-> Se genera en **19 bloques de 30 s**: 4 de la SEC 0, la SEC 1 entera, **6 de la SEC 2** y **6 de la SEC 3**.
+> **151 planos · 9:16** — SEC 0 (2:00 · 45) · SEC 1 (0:46 · 9) · SEC 2 (3:00 · 48) · SEC 3 (3:30 · 49).
+> Se genera en **20 bloques de 30 s**: 4 de la SEC 0, la SEC 1 entera, **6 de la SEC 2** y **6 de la SEC 3**.
 > 🌐 Versión navegable con las barras de duración: https://claude.ai/code/artifact/bccf7f1f-540d-47fc-9679-603dd7703b5a
 > La fuente de verdad de la ACCIÓN sigue siendo `GUION_P1_v2.md`; esto es cómo se rueda.
 > Última actualización: **2026-08-28**.

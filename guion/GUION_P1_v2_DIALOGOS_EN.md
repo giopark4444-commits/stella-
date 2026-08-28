@@ -619,13 +619,36 @@ Detrás de él, la proyección lo confirma: el mismo descenso de la SEC. 1, hast
 …That's not possible. The Orb gives life to everything. You taught me that.
 
 **NAIO**
-No. The Orb has been draining the life out of our planet.
+That's why he wants it. He's been draining all the resources of the planet into the Orb.
 
-Naio activa una máquina sobre **la mano izquierda abierta** de Stella. Ella espera que le ponga algo dentro —una joya, un objeto. No le pone nada. La **prepara**. Una **llave de luz** se graba bajo su piel, en la palma, con un dolor breve y limpio.
+En los brazos de su madre, **SELKA** sigue dormida. Vera aprieta un poco más a la bebé contra el pecho.
 
-Stella aprieta los dientes y no grita.
+Naio se toca la muñeca contraria. Y de su propia mano **empiezan a salir partículas** que se ordenan en el aire y **se solidifican**: una **caja** con un hueco del tamaño de una mano.
 
-Pero **Selka sí.** En los brazos de su madre, la bebé **rompe a llorar** —por el fogonazo, por el ruido, por la cara que acaba de poner su hermana.
+Se la ofrece. Y se lo pide con toda la gentileza del mundo.
+
+**NAIO (CONT.)**
+Put your left hand into the box, please.
+
+Stella la mira. Y **mete la mano izquierda por el hueco.**
+
+*(No vemos lo que le pasa ahí dentro. Solo vemos su cara.)*
+
+La esfera azul que la caja tiene encima **se pone roja.**
+
+Un dolor breve y limpio — y Stella **grita.**
+
+Saca la mano de golpe. Y **se la mira.**
+
+Bajo la piel de la palma hay una **llave de luz** que antes no estaba.
+
+Stella aprieta los dientes. Y **busca a su madre con los ojos.**
+
+Plano contra plano. Vera le sostiene la mirada — y **las dos asienten con la cabeza.** Una sola vez, a la vez.
+
+*(No hace falta decir nada. Acaban de ponerse de acuerdo en lo que van a hacer hoy.)*
+
+Y entonces **Selka rompe a llorar** — el grito de su hermana la ha despertado.
 
 Y Stella va hacia ella.
 

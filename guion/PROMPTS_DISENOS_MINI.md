@@ -50,6 +50,9 @@ How would a palace look at the moment everyone realises it was always a starship
 ### @Orbe — el Orbe
 How would the living heart of a planet look, held as an object? Show me 4 examples. Alive, not a machine. Ghibly style and water color painting.
 
+### @CajaMano — la caja de la llave 🆕
+How would a device look that a scientist builds out of particles that pour from his own hand and harden in the air, with a single opening exactly the size of a hand? Show me 4 examples. Not human technology. Ghibly style and water color painting.
+
 ### @LlaveDeLuz — la llave de luz
 How would a mark of light look, glowing under the skin of an open palm? Show me 4 examples. Ghibly style and water color painting.
 
