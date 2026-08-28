@@ -150,7 +150,7 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
 | Contenido | Archivo(s) | ¿Al día con v2.3? |
 |---|---|---|
 | **Guion canónico** | `GUION_P1_v2.md` (34 secuencias) | ✅ |
-| **Guion técnico SEC 0** | `GUION_TECNICO_SEC0.md` — 45 planos, cámaras, refs y riesgos | ✅ |
+| **Guion técnico apertura** | `GUION_TECNICO_APERTURA.md` — SEC 0·1·2, **105 planos / 6:25** | ✅ |
 | **Híbrido ES/EN** | `GUION_P1_v2_DIALOGOS_EN.md` | ✅ `tools/genhibrido.py` |
 | **Escaleta** | `ESCALETA_P1_v2.md` | ✅ |
 | **PDF** | `guion/render/GUION_P1_v2.pdf` (47 pág.) | ✅ `tools/guion_pdf.py` |

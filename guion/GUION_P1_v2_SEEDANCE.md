@@ -427,31 +427,50 @@ Silencio total. Sostener.
 
 CORTE BRUSCO del negro a un cielo **azul, abierto, deslumbrante.**
 
-Y lo que rompe el silencio no es una risa: es **un grito.** El grito de alguien que va demasiado rápido y a quien le encanta ir demasiado rápido.
+Y lo que rompe el silencio no es una risa: es **un grito.**
 
 **@STELLA** (14) corre por **el borde de un canal elevado** —un acueducto abierto por el que baja la **luzagua**, agua y luz a la vez—. Descalza, sobre piedra mojada, **a seis metros del suelo**, con los brazos abiertos.
 
 Abajo, la gente del parque ni levanta la cabeza. Esto pasa todos los días.
 
-Por delante de ella vuela **@GIX** —una criatura pequeña de luz, mitad chispa, mitad travesura— y le lleva ventaja.
+Y al fondo, formando parte del paisaje como una colina más, un **MECHA** colosal arrodillado y **cubierto de flores y enredaderas.** Nadie lo mira. Lleva doscientos años ahí.
 
-Le está **ganando.**
+Por delante de ella vuela **@GIX** —una criatura pequeña de luz, mitad chispa, mitad travesura—. Le lleva ventaja. **Le está ganando.**
 
 @Stella calcula. El canal hace una curva. @Gix va a seguirla.
 
 Ella **no.**
 
-Salta. Cruza el hueco por el aire, cae rodando en el otro tramo, se levanta sin frenar — y sale **por delante** del bicho.
+Salta, cruza el hueco por el aire, cae rodando en el otro tramo, se levanta sin frenar — y sale **por delante.**
 
 **@STELLA**
 ¡Eso cuenta!
 
-@Gix, indignado, le suelta una pedorreta de luz en la cara.
+Y @Gix **se apaga.**
 
-ABAJO, caminando por el césped sin ninguna prisa, **@VERA** (madre, ~40, pelo blanco recogido, ojos gris-azul).
+Del todo. Un segundo entero de nada.
+
+Y vuelve a encenderse un metro más lejos, **dándole la espalda.**
+
+**@STELLA (CONT.)**
+*(sin frenar)*
+No seas así.
+
+ABAJO, en el césped, **@VERA** (madre, ~40, pelo blanco recogido, ojos gris-azul) está agachada al borde del canal. **No está mirando a su hija.**
+
+Tiene el brazo metido en el agua hasta el codo. Y **está midiendo cuánto le entra.**
+
+Porque la luzagua ya no está repartida. La luz **se ha ido toda al fondo** del canal, apelmazada contra la piedra — y la superficie corre **negra.**
+
+@Vera saca el brazo. Se queda mirando hasta dónde le llega la marca de mojado en la manga.
+
+*(No es la primera vez que lo mide. Y cada vez le entra más.)*
+
+A su espalda, dormida en un fular, **una bebé.**
+
+@Vera cierra los ojos un segundo. Y solo entonces levanta la cabeza hacia su hija.
 
 **@VERA**
-*(sin levantar la voz, sin mirar hacia arriba)*
 Baja de ahí.
 
 **@STELLA**
@@ -472,18 +491,13 @@ No me voy a partir nada. Voy a quedar primera.
 *(y aquí sí se le nota la edad)*
 Y cuando quede primera, no me lo vas a poder seguir discutiendo.
 
-Algo enorme le tapa el sol.
+El canal pasa justo por al lado del hombro del mecha.
 
-@Stella frena en seco al borde del canal.
+Y ella **salta. Sin mirar.** Como quien salta a un muro que lleva ahí toda su vida.
 
-Es un **MECHA** colosal. Una máquina de guerra antigua, de cuando Erdia conquistaba mundos —ahora arrodillada para siempre, **cubierta de flores y enredaderas.** Un gigante dormido debajo de un jardín.
-
-Y @Stella hace lo que haría cualquiera de catorce años: **salta del canal a su hombro.**
-
-Se queda de pie allá arriba, sobre la cabeza de la cosa, mirando la ciudad.
+Se queda de pie sobre la cabeza de la cosa, mirando la ciudad.
 
 **@STELLA (CONT.)**
-*(desde arriba)*
 ¿Por qué dejamos de hacerlo?
 
 **@VERA**
@@ -493,50 +507,150 @@ Se queda de pie allá arriba, sobre la cabeza de la cosa, mirando la ciudad.
 *(da un golpecito con el pie descalzo en el metal)*
 Esto. Conquistar. Éramos los más fuertes del cielo y ahora le sembramos flores encima.
 
-@Vera se para justo debajo. **No sube. No le pide que baje.**
-
-Y esto sí lo dice en serio.
-
 **@VERA**
-Porque lo quisimos todo. Y por poco nos quedamos sin nada.
-*(le señala el canal con la barbilla)*
-Una persona es como un río, @Stella. Si lo represas para ti, se pudre.
-*(beat)*
-Y envenena a todos los que están aguas abajo.
+Baja.
 
-@Stella la escucha. La escucha de verdad, dos segundos enteros.
+Y hay algo en cómo lo dice.
 
-Y después hace lo que hace cualquier adolescente cuando una conversación se está poniendo importante: **la corta.**
+**@Stella baja.** Por primera vez en toda la escena, obedece.
+
+Se sientan las dos al borde del canal. Cerca. **Es la primera vez que están a la misma altura.**
+
+**@VERA (CONT.)**
+Dame la mano.
+
+@Stella se la da, de mala gana. @Vera se la abre, con la palma hacia arriba.
+
+Y le echa luzagua encima con la otra mano.
+
+El agua le corre entre los dedos, brillando, y vuelve a caer al canal.
+
+**@VERA (CONT.)**
+El agua no es de nadie. Por eso está viva.
+
+Y **le cierra el puño con las dos manos.**
+
+Y la luzagua que queda atrapada dentro **se apaga.**
+
+**@VERA (CONT.)**
+El día que sea solo de alguien… morimos todos.
+
+Silencio.
+
+@Stella abre el puño. Dentro no queda más que **agua sucia.**
+
+**@VERA (CONT.)**
+Repítemelo.
 
 **@STELLA**
-*(bajando de un salto, ya de espaldas)*
+*(fastidiada)*
+Mamá…
+
+**@VERA**
+Repítemelo.
+
+@Stella pone los ojos en blanco, mete la mano en el canal de cualquier manera, la saca y la abre. El agua se le cae a chorros. Y suelta la frase de carrerilla, mal.
+
+**@VERA (CONT.)**
+*(sin moverse)*
+Otra vez.
+
+Y hay algo en cómo lo dice que hace que @Stella **se calle.**
+
+Y lo hace bien.
+
+Mete la mano. La saca. **La abre despacio.** Y deja que el agua se le vaya entre los dedos mientras lo dice.
+
+Y esta vez **se oye.**
+
+Silencio.
+
+@Vera asiente una sola vez, **como quien cierra una caja.**
+
+*(No le está enseñando una lección. Le está enseñando lo que acaba de ver en el fondo del canal.)*
+
+@Stella la mira raro dos segundos. Y después hace lo que hace cualquier adolescente cuando una conversación se pone importante: **la corta.**
+
+**@STELLA**
+*(levantándose, sacudiéndose la hierba)*
 Ya. Vale.
 
 *(No es que no lo entienda. Es que hoy no le da la gana entenderlo. Le van a hacer falta veinticuatro años para volver a esta frase.)*
 
-@Vera lo nota. Y no insiste — porque cree que va a tener toda la vida para insistir.
+Y entonces ve lo que su madre lleva a la espalda.
+
+**@STELLA (CONT.)**
+¿La traes?
+
+@Vera se gira un poco. Y ahí está, dormida en el fular: **@SELKA** (1 año, pelo blanco, ojos gris-azul).
+
+**@STELLA (CONT.)**
+Déjamela.
 
 **@VERA**
-Voy por tu hermana. En casa para la cena.
+Tengo que llevármela.
 
 **@STELLA**
-*(ya corriendo otra vez, de espaldas)*
-¡Dile a @Selka que hoy le gané a @Gix!
+Un rato. Porfa.
+
+Y @Vera —que hoy no le puede decir que no a nadie— la desata y **la deja de pie sobre la hierba.**
 
 **@VERA**
-¡Le voy a decir que hiciste trampa!
+*(a la bebé, muy seria)*
+Que sepas que tu hermana hizo trampa.
 
 **@STELLA**
-*(sin girarse, levantando el pulgar)*
 ¡Gané igual!
 
-Y se va corriendo entre la gente, **esquivando sin frenar**, sin pedir permiso, sin mirar a los lados.
+@Selka **se tambalea.** Encuentra el equilibrio. Y mira a su hermana.
 
-*(Exactamente igual que la vimos correr por el pasillo hace tres minutos y veinticuatro años.)*
+@Stella se agacha a cuatro metros y **ahueca la palma.**
 
-@Vera se queda mirándola. Blanca contra el verde.
+Una chispa de **@Gix** baja y le baila dentro de la mano, como una luciérnaga.
 
-Una madre viendo a su hija en el último día bueno de toda su vida. Y solo nosotros lo sabemos.
+Y **@Selka echa a andar.**
+
+Torpe, con los brazos abiertos, cayéndose hacia adelante más que caminando, cruzando cuatro metros de hierba dorada **hacia la luz que su hermana le está enseñando en la mano.**
+
+*(Guardar este plano. La película vuelve a él dentro de veinticuatro años — y esa vez las dos están de pie, y una de las dos lleva una hoja de luz.)*
+
+@Stella la atrapa antes de que se caiga y **la levanta en el aire.** @Selka se ríe con toda la cara.
+
+@Vera las mira.
+
+Y esto —esto exactamente— es **lo último bueno que va a ver en su vida.**
+
+**@VERA**
+Nos vemos más tarde en el laboratorio del palacio.
+
+**@STELLA**
+*(sin mirarla, con la bebé en brazos)*
+Vale.
+
+**@VERA**
+@Stella.
+
+@Stella levanta la cabeza.
+
+**@VERA (CONT.)**
+Que no se te olvide.
+
+**@STELLA**
+Que no, mamá. Vale.
+
+Y @Vera se va.
+
+Y **se va rápido**, porque no quiere que su hija le vea la cara.
+
+LA CARA DE @VERA, caminando, ya lo bastante lejos como para permitírselo.
+
+Y **se le cae.**
+
+*(Es la última vez que va a ver a su madre sin miedo.)*
+
+Y la última imagen de la escena no es ella: son **las dos hermanas en la hierba**, pequeñas, doradas, con la ciudad dorada detrás. @Stella enseñándole a @Gix.
+
+Sin mirar ni una vez cómo se aleja su madre.
 
 ---
 
