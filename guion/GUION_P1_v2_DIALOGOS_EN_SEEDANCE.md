@@ -29,6 +29,10 @@
 > esto no es una defensa que aguanta, es un **contraataque** que va a por la esfera.*
 > *Y los nuestros **entran pronto**: al cuarto segundo ya estamos cruzándonos con ellos, aunque
 > todavía solo les veamos los pies.*
+> ⚠️ ***@Stella está en cuadro desde el segundo 3***, pero como una encapuchada más: sus botas entre los
+> pies (seg. 3), corriendo en el avance sin destacar (seg. 17), y **mirando hacia arriba cuando todos**
+> **los demás miran al enemigo** (seg. 41). Cuando la cámara la encuentra en el 0:58 **no la presenta:**
+> **la señala.** Ya te la habías cruzado tres veces.
 
 EXT. LA GRAN PLAZA — ANOCHECER — HUMO, FUEGO, GUERRA
 
@@ -44,6 +48,8 @@ Pies de máquina —tres dedos de metal oscuro, pisando todos a la vez— yendo 
 
 Y **los nuestros**, yendo en la contraria: unos pies enormes y peludos que hacen temblar la tierra al pisar (**BROGU**); unos pies diminutos y azules corriendo a toda velocidad (**@NIMA**); una bota que va **arrastrando estirpe** (**@VOSK**); y **ocho miembros que no son piernas** pasando de largo a la vez (**EL HOMBRE PULPO**).
 
+Y unas botas oscuras que llevan **algo apagado en los talones.** Algo que no forma parte de la bota, y que no lleva nadie más en toda la plaza. *(Es ella. Todavía no lo sabemos, y no lo vamos a saber hasta dentro de un minuto.)*
+
 Y entre todos ellos, una bota que **no se mueve.**
 
 Un pie de **PESADO** baja sobre el objetivo — y **BROGU LO AGARRA.** Lo vemos desde el suelo, de abajo hacia arriba, sosteniendo con las dos manos un pie del tamaño de un coche. Lo tira de lado, y la máquina entera se va al suelo detrás de él.
@@ -57,6 +63,8 @@ Y muy arriba, muy lejos, contra el cielo violeta: **naves.** Siluetas pequeñas 
 Y ahí la cámara **se levanta.**
 
 Sale del polvo y sube — y sube **dentro de los nuestros.** Aparecen todos a la vez, corriendo hacia adelante juntos: **GARA**, **ENKO**, **LOS TRES HUMANOS** hombro con hombro, **LA MUJER VERDE** de un salto por encima del cuadro. Y detrás de ellos, más. Y más.
+
+Y entre todos, **sin destacar en nada**, una figura encapuchada corriendo al mismo paso que los demás.
 
 Porque lo que estamos viendo no es gente aguantando: **la resistencia entera está empujando hacia adelante**, por encima de las máquinas rotas, **ganando terreno.**
 
@@ -81,6 +89,8 @@ Sin corte. Ahora vamos por dentro. Y aquí no se aguanta nada: **se avanza a gol
 **LA MUJER VERDE** sale disparada hacia arriba. Salta, corre por el lomo de las máquinas como si fueran suelo, y se lanza sobre las patas larguísimas de uno **DE DESCARGA.** La máquina se dobla por la mitad y se viene abajo. **Ella es la que va a por los que no bajan.**
 
 Un **CORREDOR** salta hacia el objetivo — y **EL HOMBRE PULPO** lo atrapa en el aire **con tres brazos, sin dejar de pelear con los otros**, y lo abre por las juntas.
+
+Y la cámara pasa junto a **la figura encapuchada** — y es la única persona de toda la plaza que **no está mirando al enemigo. Está mirando hacia arriba.**
 
 **LOS TRES HUMANOS** aguantan un flanco espalda contra espalda, rotando, cubriéndose los ángulos ciegos. **@NOAH** es uno de ellos, con la espada de luz. No tienen nada especial en el cuerpo: **son los únicos que pelean como un ejército y no como individuos**, y por eso ese flanco no se rompe.
 
