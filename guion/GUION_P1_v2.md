@@ -108,7 +108,7 @@
 
 ---
 
-## SEC. 0 — EXT. PALACIO IMPERIAL — EL ASALTO — [ERDIA · AÑO 24] — DÍA
+## SEC. 0 — EXT. PALACIO IMPERIAL — EL ASALTO — [ERDIA · AÑO 24] — ANOCHECER
 
 > *Apertura en frío, antes del título. Sin rótulo de año, sin nombres, sin una sola línea de diálogo.
 > El público no sabe quién es nadie. Solo entiende dos cosas: que están perdiendo, y que la están
@@ -121,7 +121,9 @@ Un golpe sordo. Otro. Otro. Un ritmo que todavía no se identifica.
 
 Y de golpe: **SONIDO PLENO.**
 
-EXT. UNA CIUDAD GRIS — NIEBLA, FUEGO, GUERRA
+EXT. UNA CIUDAD GRIS — ANOCHECER — NIEBLA, FUEGO, GUERRA
+
+Se está yendo la luz. Lo único que alumbra la plaza es **lo que arde**.
 
 Una plaza rota bajo un palacio inmenso. Y contra ese palacio, una marea de **soldados robot** blancos y sin cara, en filas que no se acaban.
 
@@ -137,7 +139,7 @@ Enfrente, muy pocos. Y aguantando. **Nadie lleva un arma.** Cada uno pelea con l
 
 Y detrás de ellos, en el suelo, **los que ya no están de pie.**
 
-**ENKO** está entre ellos. Boca arriba, sin moverse, con los ojos abiertos al cielo gris.
+**ENKO** está entre ellos. Boca arriba, sin moverse, con los ojos abiertos a un cielo que se apaga.
 
 **GARA** llega hasta él. Le busca el pulso en el cuello dos segundos —dos segundos que no tiene— y no encuentra nada.
 
@@ -193,7 +195,7 @@ PRIMER PLANO: **la mano.** Se clava en la última cornisa. Los dedos resbalan. A
 
 Y bajo la piel de esa palma, algo **late**.
 
-ARRIBA DEL TODO — la **cúspide** de la enorme cúpula esférica del palacio. Aquí ya no hay guerra: solo viento, y el ruido de abajo llegando amortiguado.
+ARRIBA DEL TODO — la **cúspide** de la enorme cúpula esférica del palacio. Aquí ya no hay guerra: solo viento, cielo violeta, y el ruido de abajo llegando amortiguado. Desde aquí la ciudad entera es una mancha negra con vetas de fuego.
 
 Se posa en la piedra curva y camina hasta el punto más alto.
 
@@ -278,7 +280,7 @@ CORTE —
 
 — y **seguimos cayendo.**
 
-Pero ya no es un ducto lo que atravesamos: es cielo. Y no es de noche: es un amanecer.
+Pero ya no es un ducto lo que atravesamos: es cielo. Y ya no anochece: **amanece.**
 
 Una línea de luz raja la oscuridad: el borde de un planeta. La cámara cae hacia él, atraviesa nubes doradas, baja sobre cordilleras vivas, sobre bosques que respiran.
 
@@ -1382,7 +1384,7 @@ El refugio de siempre, más viejo, más lleno. Mapas sobre una mesa de chatarra.
 **KORIN** extiende un plano dibujado a mano: el palacio.
 
 **KORIN**
-Atacamos al amanecer. Todo lo que tenemos.
+Atacamos cuando caiga la luz. Todo lo que tenemos.
 *(a Stella)*
 Hay algo que debes saber antes. Tu padre está vivo.
 
@@ -1424,7 +1426,7 @@ Stella cierra la mano —la de la llave— hasta que los nudillos se le ponen bl
 
 **STELLA**
 *(a Korin, con una calma que da miedo)*
-Ustedes ataquen al amanecer. Hagan todo el ruido del mundo.
+Ustedes ataquen cuando caiga la luz. Hagan todo el ruido del mundo.
 *(marca los sótanos en el plano)*
 Yo entro por abajo. Por mi padre.
 
@@ -1436,11 +1438,11 @@ Stella lo mira. No discute.
 
 ---
 
-## SEC. 23 — EXT./INT. PALACIO IMPERIAL — EL ASALTO — DÍA
+## SEC. 23 — INT. PALACIO IMPERIAL — CELDAS DEL NIVEL DE SERVICIO — ANOCHECER
 
-Amanece. La resistencia ataca. Estalla la guerra por las calles de niebla. Brogu abre brechas a puñetazos; Nima apaga robots con artefactos que se saca del cinturón; los rebeldes de Korin empujan hacia la plaza. Todo el ruido del mundo.
+Cae la luz. Arriba, muy lejos, empieza la guerra: un rumor sordo que hace temblar el polvo del techo.
 
-ABAJO — una reja de servicio cede. Entran **STELLA** y **NOAH.**
+Aquí abajo, en cambio, silencio. Una reja de servicio cede. Entran **STELLA** y **NOAH.**
 
 Los pasillos estrechos. La humedad. Las rejas. El camino que Korin le marcó —el mismo por el que bajó su madre.
 
@@ -1517,11 +1519,9 @@ Lo sé, papá. Ya lo sé todo.
 *(le besa la frente, donde Vera lo besó)*
 La cumplo yo.
 
-EXT. PALACIO — LA BRECHA — CONTINUO
+Lo carga hasta la boca del pasillo, donde el estruendo de arriba ya es ensordecedor. Al otro lado del boquete, en la plaza, **BROGU** llega abriendo una pared.
 
-Salen a la luz por un boquete. La guerra ruge en la plaza. **BROGU** llega abriendo una pared; **NIMA** detrás.
-
-Stella le entrega Naio a Brogu, que lo alza con un cuidado imposible para esas manos.
+Stella le entrega a su padre. El gigante lo alza con un cuidado imposible para esas manos.
 
 **NOAH**
 Ven con nosotros.
@@ -1530,26 +1530,111 @@ Ven con nosotros.
 *(mirando hacia arriba)*
 Todavía no.
 
-Stella agarra a Brogu del brazo con la mano libre y le grita señalando la **cúspide** del palacio. *(Es el plano con el que abrió la película. Esta vez sí oímos lo que dice.)*
+---
+
+## SEC. 23B — EXT. PALACIO IMPERIAL — EL ASALTO Y LA SUBIDA — ANOCHECER
+
+> *Aquí no se respira. Desde el primer plano hasta que se tira por el ducto, la secuencia no para.
+> Es la **SEC 0** —la apertura de la película— ahora completa y con sonido.*
+
+EXT. LA PLAZA — ANOCHECER
+
+Un boquete revienta en el muro del palacio y salen **STELLA** y **NOAH** al infierno.
+
+Se está yendo la luz. Lo único que alumbra la plaza es lo que arde.
+
+Y contra el palacio, una marea de **soldados robot** blancos y sin cara, en filas que no se acaban. Enfrente, muy pocos. Y aguantando.
+
+**BROGU** entra en la primera fila **de hombro** y abre un boquete de cinco metros. Levanta a un robot por encima de la cabeza y lo estrella contra otros tres.
+
+**NIMA**, diminuta y azul, corre agachada bajo su brazo. Suelta algo redondo al suelo. Un pulso azul barre la plaza a ras de tierra y **una fila entera se apaga a la vez**, cayendo como fichas.
+
+**NOAH** cubre el flanco con la hoja de luz. Para, corta, retrocede. Está agotado y no se retira.
+
+**VOSK** sostiene una brecha él solo, abierto de un costado, la sangre bajándole hasta la bota, **riéndose** más fuerte cada vez que cae uno.
+
+Y detrás, en el suelo, **los que ya no están de pie.**
+
+**ENKO** entre ellos, boca arriba, con los ojos abiertos a un cielo que se apaga. **GARA** le busca el pulso dos segundos que no tiene, no lo encuentra, **se lo echa al hombro igual** y lo saca de ahí cargándolo entero, cojeando, apartando robots a patadas. Lo sienta contra un muro. Le cierra los ojos con dos dedos. Y **vuelve a la línea.**
+
+Stella lo ve todo desde la brecha. Y **decide.**
+
+Agarra a **BROGU** del brazo y le grita señalando la **cúspide** del palacio. *(Es el plano con el que abrió la película. Esta vez sí oímos lo que dice.)*
 
 **STELLA**
 ¡Sé por dónde entrar! ¡Salí por ahí una vez!
 *(beat)*
 ¡Ábranme el paso y no me sigan!
 
-Brogu mira arriba. Mira a Stella. **Asiente una sola vez.** Y ruge, y carga, y Nima y Noah y Vosk cargan con él, y todos los que quedan de pie empujan hacia el mismo sitio a la vez.
+Brogu mira arriba. Mira a Stella. **Asiente una sola vez.**
 
-No para ganar. Para abrirle un pasillo.
+Y ruge, y **carga** —y Nima y Noah y Vosk cargan con él, y todos los que quedan de pie empujan hacia el mismo sitio a la vez.
 
-Y Naio, en brazos de Brogu, gira la cabeza. Y lo último que ve de su hija es una mujer encapuchada subiendo el palacio entre descargas, sola, hacia **la punta de la cúpula, donde no hay ninguna puerta.**
+No para ganar. **Para abrirle un pasillo.**
 
-No sabe que va a caer.
+Y por ese pasillo —entre el humo, entre los caídos, entre todo lo que arde— **pasa ella corriendo.**
 
-EN LO ALTO — Stella llega a la cúspide. La placa soldada. La palma abierta. La cúspide del palacio **revienta** y aparece la boca negra del ducto, con las paredes quemadas desde hace veinticuatro años.
+No pelea. Esquiva. No ayuda a nadie, no se detiene por nadie, no mira a los lados.
 
-Stella tenía una promesa con Theron: mirar y volver. La rompe.
+Brogu la ve pasar y **golpea más fuerte** para que nada la toque.
 
-**Se tira de cabeza por el mismo tubo por el que huyó de niña.** Y **cae** al trono.
+EXT. LA FACHADA — CONTINUO
+
+Llega al muro. Se agacha.
+
+Y **las botas se le encienden.** Dos conos de luz contra la noche. Un rugido corto. Y **despega en vertical**, pegada a la piedra, subiendo recto.
+
+LA CÁMARA SUBE CON ELLA — la plaza se hace pequeña, la guerra se vuelve un rumor, y aparece la escala real de la cosa que está subiendo: **doscientos metros de piedra ardiendo contra un cielo violeta.**
+
+No es un vuelo limpio. Es a **ráfagas**: enciende, sube veinte metros, se apaga, se agarra a una cornisa, vuelve a encender. Cada tramo le cuesta.
+
+Le caen **descargas** desde arriba —haces de luz blanca que revientan la piedra a centímetros de su cara— y no se detiene ni una vez.
+
+Una **descarga la alcanza de lleno** en el costado. Se apagan las botas. Y **cae** —seis metros a plomo, dando vueltas, contra doscientos de vacío—
+
+—**ahueca la palma.** Un latigazo de luz engancha una gárgola y la frena en seco contra el muro.
+
+Queda colgando sobre la nada. Respira. Se enciende otra vez.
+
+Tres **robots imperiales** bajan por la fachada a su encuentro. Choque brutal **a un solo brazo**, con el otro sosteniendo todo su peso sobre el vacío. Le hunde la palma en el pecho al primero y **le vacía la luz dentro.** Cae.
+
+Al segundo lo usa de escalón.
+
+Al tercero lo agarra de la cabeza, **enciende las botas**, y sube por él mientras cae.
+
+ABAJO, un segundo — **BROGU** levanta la cabeza sin dejar de pelear, y la busca en la fachada. La encuentra. Y sigue golpeando.
+
+EXT. LA CÚSPIDE — CONTINUO
+
+Arriba del todo ya no hay guerra: solo viento, cielo violeta, y el ruido de abajo llegando amortiguado. Desde aquí la ciudad entera es una mancha negra con vetas de fuego.
+
+Se posa en la piedra curva y camina hasta el punto más alto.
+
+Y ahí está: **una placa de metal soldada sobre un orificio circular**, remachada por los bordes, ennegrecida. Sellada hace mucho y no muy bien.
+
+Le pasa la mano por encima. **La conoce.**
+
+*(Es la única persona viva que ha salido por ahí.)*
+
+Stella tenía una promesa con Theron: mirar y volver. **La rompe.**
+
+Apoya la palma abierta contra la placa. La luz se le concentra hasta iluminarle la cara entera, se le mete a la piedra por debajo, corre por las juntas—
+
+Y **la cúspide del palacio revienta hacia arriba.**
+
+Debajo aparece **la boca del ducto.** Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinticuatro años.
+
+Lo mira medio segundo.
+
+**Y se tira de cabeza.**
+
+INT. DUCTO — CONTINUO
+
+Cae por el tubo a plomo, rozando las paredes, con la luz de la palma iluminándole la cara desde abajo. Las botas a ráfagas para no destrozarse en los recodos.
+
+Es el mismo túnel que la sacó de aquí. **Está entrando por donde huyó.**
+
+Y al final, abajo, un cuadrado de luz que se agranda—
 
 ---
 
