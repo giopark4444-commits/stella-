@@ -572,7 +572,11 @@ Sin mirar ni una vez cómo se aleja su madre.
 > *En esta habitación no hay nadie más: **un padre, una madre, una niña y una bebé.** Y se habla del
 > Orbe, pero **el Orbe no está aquí.** Las manos de @Stella están vacías todo el tiempo.*
 
-La puerta se abre y entra @Stella **con @Selka en brazos**, todavía riéndose, con @Gix dándole vueltas alrededor.
+La puerta se abre — y lo primero que entra en la habitación es **una carcajada.**
+
+Dos, en realidad.
+
+@Stella entra **con @Selka en brazos**, levantándola en el aire y bajándola otra vez, y la bebé se ríe con toda la boca abierta, con esa risa de un año que no sabe hacer otra cosa. @Stella se ríe con ella.
 
 **@STELLA**
 Hi, Dad. Hi, Mom.
@@ -585,16 +589,22 @@ Porque ve a **@VERA** y a su padre **@NAIO** (~45, **el científico del Rey** �
 *(la sonrisa cae)*
 …Is everything okay?
 
-Nadie le contesta.
+Y @Naio **no le contesta con palabras.**
 
-Y @Stella, sin que nadie se lo diga, **lee la habitación.** Cruza el laboratorio y **le entrega a @Selka a su madre**, en los brazos.
+Se acerca a ella despacio, con muchísimo cariño y con una cara que su hija no le ha visto nunca. Le pone la mano en la nuca.
 
-*(Es lo primero que hace: liberarse las manos. Todavía no sabe para qué.)*
+Y **niega con la cabeza.** Una sola vez. Muy poco.
 
-@Naio le tiende un **traje** plegado.
+Y con eso @Stella lo entiende todo.
+
+Cruza el laboratorio y **le entrega a @Selka a su madre**, en los brazos.
+
+*(Nadie se lo pidió. Acaba de enterarse de que hoy va a necesitar las manos libres.)*
+
+@Naio le tiende un **traje** plegado. Y se lo pide con toda la delicadeza del mundo.
 
 **@NAIO**
-Put it on. Quickly.
+Put it on.
 
 @Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.
 
@@ -619,7 +629,7 @@ Pero **@Selka sí.** En los brazos de su madre, la bebé **rompe a llorar** —p
 
 Y @Stella, **con la mano todavía humeando**, va hacia ella.
 
-**Ahueca esa misma palma.** Y **@Gix se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan dentro, como luciérnagas. Le **junta la frente** a su hermana.
+**Ahueca esa misma palma.** Del **brazalete** sale **@GIX** —un pequeño axolote de partículas de luz— y **se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan dentro, como luciérnagas. Le **junta la frente** a su hermana.
 
 Y las dos **sonríen.**
 
