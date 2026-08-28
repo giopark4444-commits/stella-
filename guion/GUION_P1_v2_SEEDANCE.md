@@ -37,10 +37,11 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
-> • **AHUECAR LA PALMA ES UN GESTO NAIELI, NO DE @STELLA.** Lo hace @Stella con @Gix, lo hace en el
->   laboratorio, lo hace **@Vera al morir** para escudar a su hija — y lo hace @Stella otra vez en la
->   SEC 24 debajo de una hoja de luz. **@Selka lo vio dos veces de bebé** y por eso su cuerpo lo
->   reconoce antes que su cabeza.
+> • **CADA UNO PELEA CON LO SUYO. El de @VERA es EL ESCUDO** (`@EscudoVera`): una cúpula de luz que
+>   abre con los brazos. Se ve una vez en la huida —funcional, cuesta— y una segunda vez en el suelo
+>   de la sala del Orbe, rota y temblorosa, **cerrándose alrededor de su hija y no de ella.**
+> • **AHUECAR LA PALMA es de @STELLA**, y es lo que @Selka reconoce en la SEC 24: lo vio en el parque,
+>   cuando su hermana la llamó con la luz para que caminara hacia ella.
 > • **LA LLAVE VA EN LA PALMA IZQUIERDA. SIEMPRE.** Ahí se la graba @Naio, ahí se integra el Orbe, de
 >   ahí se lo arranca @Selka en la SEC 27, y esa es la mano abierta cuya luz se apaga en la apertura
 >   en frío. **El Orbe nunca vive en el brazalete:** el brazalete es de @Gix.
@@ -921,7 +922,13 @@ Y @Stella, corriendo, entiende una cosa que le va a doler el resto de su vida: *
 
 Antes de la carrera. Antes de reírse. Antes de hacerla repetir la frase tres veces.
 
-Una pared estalla. Entran los primeros **robots.**
+Una pared estalla —y **@Vera abre los brazos sin dejar de correr.**
+
+Una **cúpula de luz** se cierra un segundo sobre las tres y los escombros le rebotan encima. Después se apaga.
+
+*(Es lo suyo. Es lo que sabe hacer. Y le cuesta.)*
+
+Por el boquete entran los primeros **robots.**
 
 @Vera y @Stella pelean a la vez que avanzan —@Vera con un brazo cubriendo a la bebé, @Stella moviéndose con la agilidad de quien entrenó toda su vida para una prueba que no era esta. Se abren paso.
 
@@ -979,13 +986,11 @@ Por eso siempre pierden.
 
 En el suelo, @Vera junta lo último que le queda.
 
-Y **ahueca la palma.**
+Y abre los brazos.
 
-*(El mismo gesto. El de su hija en el parque, el de su hija en el laboratorio, el de su hija dentro de veinticuatro años debajo de una hoja de luz. **No es de @Stella: es de la familia.** Es lo que hacen los naieli con las manos.)*
+**EL ESCUDO.** Lo suyo. Lo que la hizo famosa cuando peleaba. Una cúpula de luz que ya no le sale entera y que le tiembla en los bordes —y aun así **se cierra alrededor de @Stella**, no alrededor de ella.
 
-Y de esa palma sale un **escudo de luz** que se cierra alrededor de @Stella.
-
-*(Y a cuatro metros, metida en el hueco de un panel, **@SELKA lo está viendo.** Tiene un año. No lo va a recordar. Pero lo vio.)*
+*(Y a cuatro metros, metida en el hueco de un panel, **@SELKA lo está viendo.** Tiene un año. No lo va a recordar.)*
 
 Justo en el instante en que @S1G1, detrás de ella, **la atraviesa por la espalda.**
 
@@ -2176,8 +2181,6 @@ Y @Stella, acorralada, desesperada, sin pensarlo —por puro reflejo de hermana 
 Ahueca la palma. Una **chispa de @Gix** baila en su mano. Y la levanta hacia la cara de @Selka, buscándole la **frente.**
 
 El mismo gesto del parque. El día que la enseñó a caminar hacia la luz.
-
-*(Y el mismo gesto que su madre hizo en el suelo de la sala del Orbe, con lo último que le quedaba, a cuatro metros de un panel donde había una bebé de un año mirando. **@Selka ha visto esta mano dos veces. Y las dos veces era alguien queriéndola.**)*
 
 @Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinticuatro años se remueve. Bajo la General, por un instante, asoma una niña.
 

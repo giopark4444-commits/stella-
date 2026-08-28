@@ -777,7 +777,13 @@ Y @Stella, corriendo, entiende una cosa que le va a doler el resto de su vida: *
 
 Antes de la carrera. Antes de reírse. Antes de hacerla repetir la frase tres veces.
 
-Una pared estalla. Entran los primeros **robots.**
+Una pared estalla —y **@Vera abre los brazos sin dejar de correr.**
+
+Una **cúpula de luz** se cierra un segundo sobre las tres y los escombros le rebotan encima. Después se apaga.
+
+*(Es lo suyo. Es lo que sabe hacer. Y le cuesta.)*
+
+Por el boquete entran los primeros **robots.**
 
 @Vera y @Stella pelean a la vez que avanzan —@Vera con un brazo cubriendo a la bebé, @Stella moviéndose con la agilidad de quien entrenó toda su vida para una prueba que no era esta. Se abren paso.
 
@@ -835,13 +841,11 @@ That's why you always lose.
 
 En el suelo, @Vera junta lo último que le queda.
 
-Y **ahueca la palma.**
+Y abre los brazos.
 
-*(El mismo gesto. El de su hija en el parque, el de su hija en el laboratorio, el de su hija dentro de veinticuatro años debajo de una hoja de luz. **No es de @Stella: es de la familia.** Es lo que hacen los naieli con las manos.)*
+**EL ESCUDO.** Lo suyo. Lo que la hizo famosa cuando peleaba. Una cúpula de luz que ya no le sale entera y que le tiembla en los bordes —y aun así **se cierra alrededor de @Stella**, no alrededor de ella.
 
-Y de esa palma sale un **escudo de luz** que se cierra alrededor de @Stella.
-
-*(Y a cuatro metros, metida en el hueco de un panel, **@SELKA lo está viendo.** Tiene un año. No lo va a recordar. Pero lo vio.)*
+*(Y a cuatro metros, metida en el hueco de un panel, **@SELKA lo está viendo.** Tiene un año. No lo va a recordar.)*
 
 Justo en el instante en que @S1G1, detrás de ella, **la atraviesa por la espalda.**
 
@@ -2032,8 +2036,6 @@ Y @Stella, acorralada, desesperada, sin pensarlo —por puro reflejo de hermana 
 Ahueca la palma. Una **chispa de @Gix** baila en su mano. Y la levanta hacia la cara de @Selka, buscándole la **frente.**
 
 El mismo gesto del parque. El día que la enseñó a caminar hacia la luz.
-
-*(Y el mismo gesto que su madre hizo en el suelo de la sala del Orbe, con lo último que le quedaba, a cuatro metros de un panel donde había una bebé de un año mirando. **@Selka ha visto esta mano dos veces. Y las dos veces era alguien queriéndola.**)*
 
 @Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinticuatro años se remueve. Bajo la General, por un instante, asoma una niña.
 

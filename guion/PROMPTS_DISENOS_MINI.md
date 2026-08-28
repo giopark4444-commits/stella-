@@ -50,6 +50,9 @@ How would a palace look at the moment everyone realises it was always a starship
 ### @Orbe — el Orbe
 How would the living heart of a planet look, held as an object? Show me 4 examples. Alive, not a machine. Ghibly style and water color painting.
 
+### @EscudoVera — el escudo 🆕 *(hoja de habilidad)*
+How would a dome of protective light look, opened with two arms, its edges never quite closing? Show me 4 examples. Only the effect on a dark empty background — no hands, no body, no person. Ghibly style and water color painting.
+
 ### @CajaMano — la caja de la llave 🆕
 How would a device look that a scientist builds out of particles that pour from his own hand and harden in the air, with a single opening exactly the size of a hand? Show me 4 examples. Not human technology. Ghibly style and water color painting.
 
