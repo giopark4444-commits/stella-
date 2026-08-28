@@ -35,11 +35,19 @@ Enfrente, muy pocos. Y aguantando.
 
 **@NOAH** cubre el flanco con una espada de luz. Para, corta, retrocede. Está agotado y no se retira.
 
-**@VOSK** sostiene una brecha él solo, enorme, sangrando, riéndose.
+**@VOSK** sostiene una brecha él solo. Está abierto de un costado, la estirpe le baja por la pierna hasta la bota, y **se ríe.** Cada vez que uno cae, se ríe más fuerte. No se está divirtiendo: se está despidiendo.
 
 Y detrás de ellos, en el suelo, **los que ya no están de pie.**
 
-**GARA** cae. **ENKO** la agarra por el arnés y la arrastra fuera de la línea de fuego sin dejar de disparar con la otra mano. La sienta contra un muro. Le dice algo que no oímos. Y **vuelve a la línea.**
+**ENKO** está entre ellos. Boca arriba, sin moverse, con los ojos abiertos al cielo gris.
+
+**GARA** llega hasta él. Le busca el pulso en el cuello dos segundos —dos segundos que no tiene— y no encuentra nada.
+
+Se lo echa al hombro igual.
+
+Y lo saca de la línea de fuego **cargándolo entero**, cojeando, disparando con la mano libre, sin soltarlo ni cuando le revienta el suelo al lado. Lo sienta contra un muro. Le cierra los ojos con dos dedos.
+
+Y **vuelve a la línea.**
 
 No están ganando. Nadie está ganando. Solo están **abriendo un pasillo.**
 
