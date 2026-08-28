@@ -1534,8 +1534,10 @@ Todavía no.
 
 ## SEC. 23B — EXT. PALACIO IMPERIAL — EL ASALTO Y LA SUBIDA — ANOCHECER
 
-> *Aquí no se respira. Desde el primer plano hasta que se tira por el ducto, la secuencia no para.
-> Es la **SEC 0** —la apertura de la película— ahora completa y con sonido.*
+> *La **SEC 0** abrió la película con este mismo momento, en abierto y sin nombres. Aquí va
+> **en cerrado**: los planos generales de batalla ya se vieron, así que ahora la cámara se queda
+> en las caras. **Duración objetivo: 2:00 · ~32 planos.** No se respira: del primer plano al
+> ducto, la secuencia no para.*
 
 EXT. LA PLAZA — ANOCHECER
 
@@ -1543,21 +1545,15 @@ Un boquete revienta en el muro del palacio y salen **@STELLA** y **@NOAH** al in
 
 Se está yendo la luz. Lo único que alumbra la plaza es lo que arde.
 
-Y contra el palacio, una marea de **soldados robot** blancos y sin cara, en filas que no se acaban. Enfrente, muy pocos. Y aguantando.
+Y ya no vemos la batalla entera: vemos **pedazos**. **BROGU** entrando de hombro en una fila que se rompe. **@NIMA** soltando algo redondo al suelo, y un pulso azul que apaga cuatro a la vez. **@NOAH** cortando de revés sin poder retroceder. **@VOSK** abierto de un costado, la estirpe hasta la bota, **riéndose** cada vez que cae uno.
 
-**BROGU** entra en la primera fila **de hombro** y abre un boquete de cinco metros. Levanta a un robot por encima de la cabeza y lo estrella contra otros tres.
+Y en el suelo, entre los que ya no están de pie, **ENKO**.
 
-**@NIMA**, diminuta y azul, corre agachada bajo su brazo. Suelta algo redondo al suelo. Un pulso azul barre la plaza a ras de tierra y **una fila entera se apaga a la vez**, cayendo como fichas.
+**GARA** le busca el pulso dos segundos que no tiene. No lo encuentra. **Se lo echa al hombro igual**, lo saca de ahí y lo sienta contra un muro. Le cierra los ojos con dos dedos.
 
-**@NOAH** cubre el flanco con la hoja de luz. Para, corta, retrocede. Está agotado y no se retira.
+Y **vuelve a la línea.**
 
-**@VOSK** sostiene una brecha él solo, abierto de un costado, la estirpe bajándole hasta la bota, **riéndose** más fuerte cada vez que cae uno.
-
-Y detrás, en el suelo, **los que ya no están de pie.**
-
-**ENKO** entre ellos, boca arriba, con los ojos abiertos a un cielo que se apaga. **GARA** le busca el pulso dos segundos que no tiene, no lo encuentra, **se lo echa al hombro igual** y lo saca de ahí cargándolo entero, cojeando, apartando robots a patadas. Lo sienta contra un muro. Le cierra los ojos con dos dedos. Y **vuelve a la línea.**
-
-@Stella lo ve todo desde la brecha. Y **decide.**
+@Stella lo ve. Y **decide.**
 
 Agarra a **BROGU** del brazo y le grita señalando la **cúspide** del palacio. *(Es el plano con el que abrió la película. Esta vez sí oímos lo que dice.)*
 
@@ -1568,47 +1564,27 @@ Agarra a **BROGU** del brazo y le grita señalando la **cúspide** del palacio. 
 
 Brogu mira arriba. Mira a @Stella. **Asiente una sola vez.**
 
-Y ruge, y **carga** —y @Nima y @Noah y @Vosk cargan con él, y todos los que quedan de pie empujan hacia el mismo sitio a la vez.
+Y ruge, y **carga** —y todos los que quedan de pie empujan hacia el mismo sitio a la vez. No para ganar: **para abrirle un pasillo.**
 
-No para ganar. **Para abrirle un pasillo.**
-
-Y por ese pasillo —entre el humo, entre los caídos, entre todo lo que arde— **pasa ella corriendo.**
-
-No pelea. Esquiva. No ayuda a nadie, no se detiene por nadie, no mira a los lados.
-
-Brogu la ve pasar y **golpea más fuerte** para que nada la toque.
+Y por ese pasillo pasa ella corriendo. No pelea. No mira a los lados.
 
 EXT. LA FACHADA — CONTINUO
 
-Llega al muro. Se agacha.
+Llega al muro, se agacha, y **las botas se le encienden.** Despega en vertical, pegada a la piedra. La plaza se hace pequeña debajo.
 
-Y **las botas se le encienden.** Dos conos de luz contra la noche. Un rugido corto. Y **despega en vertical**, pegada a la piedra, subiendo recto.
+No es un vuelo limpio: es a **ráfagas**. Enciende, sube, se apaga, se agarra a una cornisa, vuelve a encender —mientras le revientan **descargas** a centímetros de la cara y no se detiene ni una vez.
 
-LA CÁMARA SUBE CON ELLA — la plaza se hace pequeña, la guerra se vuelve un rumor, y aparece la escala real de la cosa que está subiendo: **doscientos metros de piedra ardiendo contra un cielo violeta.**
+Una **la alcanza de lleno.** Se apagan las botas. Y **cae** —dando vueltas contra doscientos metros de vacío—
 
-No es un vuelo limpio. Es a **ráfagas**: enciende, sube veinte metros, se apaga, se agarra a una cornisa, vuelve a encender. Cada tramo le cuesta.
+—**ahueca la palma.** Un latigazo de luz engancha una gárgola y la frena en seco contra el muro. Respira una vez. Se enciende otra vez.
 
-Le caen **descargas** desde arriba —haces de luz blanca que revientan la piedra a centímetros de su cara— y no se detiene ni una vez.
+Tres **robots imperiales** bajan por la fachada a su encuentro. Los pasa sin frenar: al primero le hunde la palma en el pecho, al segundo lo usa de escalón, al tercero lo agarra de la cabeza y **sube por él mientras cae.**
 
-Una **descarga la alcanza de lleno** en el costado. Se apagan las botas. Y **cae** —seis metros a plomo, dando vueltas, contra doscientos de vacío—
-
-—**ahueca la palma.** Un latigazo de luz engancha una gárgola y la frena en seco contra el muro.
-
-Queda colgando sobre la nada. Respira. Se enciende otra vez.
-
-Tres **robots imperiales** bajan por la fachada a su encuentro. Choque brutal **a un solo brazo**, con el otro sosteniendo todo su peso sobre el vacío. Le hunde la palma en el pecho al primero y **le vacía la luz dentro.** Cae.
-
-Al segundo lo usa de escalón.
-
-Al tercero lo agarra de la cabeza, **enciende las botas**, y sube por él mientras cae.
-
-ABAJO, un segundo — **BROGU** levanta la cabeza sin dejar de pelear, y la busca en la fachada. La encuentra. Y sigue golpeando.
+ABAJO, un segundo — **BROGU** levanta la cabeza sin dejar de pelear, la busca en la fachada, la encuentra. Y sigue golpeando.
 
 EXT. LA CÚSPIDE — CONTINUO
 
-Arriba del todo ya no hay guerra: solo viento, cielo violeta, y el ruido de abajo llegando amortiguado. Desde aquí la ciudad entera es una mancha negra con vetas de fuego.
-
-Se posa en la piedra curva y camina hasta el punto más alto.
+Arriba ya no hay guerra: solo viento, cielo violeta, y el ruido de abajo llegando amortiguado.
 
 Y ahí está: **una placa de metal soldada sobre un orificio circular**, remachada por los bordes, ennegrecida. Sellada hace mucho y no muy bien.
 
@@ -1618,19 +1594,17 @@ Le pasa la mano por encima. **La conoce.**
 
 @Stella tenía una promesa con @Theron: mirar y volver. **La rompe.**
 
-Apoya la palma abierta contra la placa. La luz se le concentra hasta iluminarle la cara entera, se le mete a la piedra por debajo, corre por las juntas—
+Apoya la palma abierta contra la placa. La luz se le mete a la piedra por debajo, corre por las juntas—
 
 Y **la cúspide del palacio revienta hacia arriba.**
 
-Debajo aparece **la boca del ducto.** Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinticuatro años.
+Debajo, **la boca del ducto.** Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinticuatro años.
 
-Lo mira medio segundo.
-
-**Y se tira de cabeza.**
+Lo mira medio segundo. **Y se tira de cabeza.**
 
 INT. DUCTO — CONTINUO
 
-Cae por el tubo a plomo, rozando las paredes, con la luz de la palma iluminándole la cara desde abajo. Las botas a ráfagas para no destrozarse en los recodos.
+Cae a plomo, rozando las paredes, con la luz de la palma iluminándole la cara desde abajo.
 
 Es el mismo túnel que la sacó de aquí. **Está entrando por donde huyó.**
 
