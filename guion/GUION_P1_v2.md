@@ -1530,18 +1530,20 @@ Ven con nosotros.
 *(mirando hacia arriba)*
 Todavía no.
 
-Naio, en brazos de Brogu, gira la cabeza. Y lo último que ve de su hija es una mujer encapuchada subiendo el palacio entre descargas, sola, hacia la cúpula más alta —la **Sala del Trono.**
-
-No sabe que va a caer.
-
-ABAJO, EN LA PLAZA — antes de subir, Stella agarra a **BROGU** del brazo y le grita señalando la cúspide del palacio. *(Es el plano con el que abrió la película. Esta vez sí oímos lo que dice.)*
+Stella agarra a Brogu del brazo con la mano libre y le grita señalando la **cúspide** del palacio. *(Es el plano con el que abrió la película. Esta vez sí oímos lo que dice.)*
 
 **STELLA**
 ¡Sé por dónde entrar! ¡Salí por ahí una vez!
 *(beat)*
 ¡Ábranme el paso y no me sigan!
 
-Brogu mira arriba. Mira a Stella. **Asiente una sola vez.** Y ruge, y carga, y todos cargan con él.
+Brogu mira arriba. Mira a Stella. **Asiente una sola vez.** Y ruge, y carga, y Nima y Noah y Vosk cargan con él, y todos los que quedan de pie empujan hacia el mismo sitio a la vez.
+
+No para ganar. Para abrirle un pasillo.
+
+Y Naio, en brazos de Brogu, gira la cabeza. Y lo último que ve de su hija es una mujer encapuchada subiendo el palacio entre descargas, sola, hacia **la punta de la cúpula, donde no hay ninguna puerta.**
+
+No sabe que va a caer.
 
 EN LO ALTO — Stella llega a la cúspide. La placa soldada. La palma abierta. La cúspide del palacio **revienta** y aparece la boca negra del ducto, con las paredes quemadas desde hace veinticuatro años.
 
@@ -1556,7 +1558,7 @@ Stella tenía una promesa con Theron: mirar y volver. La rompe.
 > *Volvemos al plano con el que abrió la película. Esta vez la cámara no se va — y vemos lo que la
 > apertura nos escondió.*
 
-Stella aterriza entre vidrios. Se levanta rota.
+Stella **sale disparada del techo** por la boca del ducto y cae veinte metros. El suelo la recibe mal. Se levanta rota.
 
 Al fondo, a treinta metros, **una figura de pelo blanco de espaldas a la luz.**
 
