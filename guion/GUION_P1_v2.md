@@ -24,6 +24,11 @@
 >   formaciones), los **corredores** (bajos, a cuatro patas, los primeros en llegar) y los **de descarga**
 >   (patas larguísimas, no avanzan nunca, disparan desde atrás). ⚠️ **Ninguno es blanco:** metal oscuro
 >   casi negro, se ven porque el fuego se les refleja encima.
+> • **La plaza es un CONTRAATAQUE**, no una defensa: la resistencia avanza hacia la esfera y gana
+>   terreno. Y la película **abre a ras de piso, entre los pies**, no desde el aire.
+> • **Hay naves disparando desde el primer segundo, pero NO se ven.** Solo vemos sus impactos
+>   caminando por el suelo. La primera nave aparece en pantalla cuando Stella ya va subiendo por
+>   la fachada y una le pasa por debajo de las botas.
 > • **El palacio es UNA ESFERA** de piedra del tamaño de una montaña apoyada sobre la ciudad.
 >   No es una cúpula sobre un edificio: es una bola. La cúspide es su punto más alto.
 >   Noah una **hoja de luz**; Brogu sus manos; Nima cacharros que fabrica ella. La violencia se muestra
@@ -126,61 +131,70 @@
 > aterrizaje, la silueta y el golpe 0:30.** Los tres últimos planos van a 2 s cada uno: son el suelo,
 > no hay holgura ahí.
 
-> *Toda la plaza va en **planos secuencia**. La cámara es un dron: no corta, **vuela** —baja, entra,
-> se mete entre los cuerpos, se engancha a uno, lo suelta, se va con otro, sube, gira y cae—. Aquí no
-> hay un solo plano parado: **todo está en movimiento y todo va rápido.** Es un choque de ejércitos.*
-
-Negro.
-
-Tres golpes sordos. No son descargas: es el ruido de **dos ejércitos a punto de tocarse.**
-
-Y de golpe: **SONIDO PLENO.**
+> *Toda la plaza va en **planos secuencia**: la cámara es un dron y no corta, **vuela**. Y la película
+> **no abre en negro ni abre desde arriba: abre en el suelo**, entre los pies. Aquí no hay un solo plano
+> parado —todo se mueve, todo va rápido— y sobre todo **todo avanza.** Esto no es una defensa que
+> aguanta: es un **contraataque** que va a por la esfera.*
 
 EXT. LA GRAN PLAZA — ANOCHECER — HUMO, FUEGO, GUERRA
 
-**PLANO SECUENCIA 1 — EL CHOQUE.**
+**PLANO SECUENCIA 1 — EL SUELO Y EL AVANCE.**
 
-Arrancamos arriba del todo. Y lo primero que ves no es la guerra: es **la esfera.**
+Abrimos **a ras de piso.** El objetivo casi tocando la tierra, entre escombros, polvo y brasas.
 
-El palacio no tiene torres ni muros: es **una bola de piedra del tamaño de una montaña**, apoyada sobre la ciudad, tapando media noche.
+No vemos la guerra. **La oímos.** Gente corriendo, golpes, estruendos, gritos, metal contra metal — todo desenfocado al fondo y todo enorme.
 
-La cámara **cae.** Y debajo aparece la gran plaza —y en la plaza, **dos ejércitos corriendo el uno contra el otro.**
+La cámara avanza **en dolly, rasante.** Y por delante del objetivo empiezan a cruzar **pies.**
 
-Bajando, la cámara atraviesa la marea imperial por encima y va leyendo sus capas. **No son todos iguales: son cuatro formas distintas y se reconocen por la silueta.**
+Pies de máquina —pesados, de tres dedos, pisando todos a la vez— yendo en una dirección. Y pies de los nuestros —botas, garras, pies descalzos— yendo **en la contraria.**
 
-La **LÍNEA** — decenas y decenas de máquinas idénticas, dos piernas, sin cara, todas al mismo paso.
+Y entre todos ellos, una bota que **no se mueve.**
 
-Los **PESADOS** — el doble de altos, avanzando entre ellas como muros que caminan.
+Un pie enorme se estrella a centímetros del objetivo y **la cámara sale despedida de lado**, y sigue rodando por el suelo. Un **PESADO** acaba de pasar por encima del cuadro.
 
-Los **CORREDORES** — bajos, a cuatro patas, disparados por delante de todos, saltando por encima de los suyos.
+Y entonces, desde el fondo, empieza a **caminar hacia nosotros una línea de explosiones.**
 
-Y muy atrás, quietos sobre patas larguísimas, los **DE DESCARGA**. Esos no avanzan nunca. **Apuntan.**
+Una. Otra más cerca. Otra más. Cada una levanta más escombros que la anterior — y con la tercera **suben cuerpos.**
 
-Ninguno es blanco. Son de metal oscuro, casi negro, y **solo existen en pantalla porque el fuego se les refleja encima.**
+**No vemos qué está disparando.** Solo vemos dónde cae.
 
-Enfrente, la resistencia. También son muchos. También corren. **Nadie lleva un arma:** cada uno pelea con lo que es.
+*(Hay naves arriba. Para el público todavía no existen.)*
 
-Y la cámara sigue bajando hasta quedarse **a ras de suelo, de frente, en medio de los dos**—
+La última revienta tan cerca que **tira tierra encima del objetivo.**
 
-—y **CHOCAN.**
+Y ahí la cámara **se levanta.**
 
-La cámara no corta. **Atraviesa el punto del choque** y sale por el otro lado.
+Sale del polvo, sube por encima de los pies, y el mundo se abre de golpe. Y lo que aparece no es gente aguantando: **la resistencia entera está empujando hacia adelante**, por encima de las máquinas rotas, **ganando terreno.**
 
-**PLANO SECUENCIA 2 — DENTRO.**
+La cámara sigue subiendo. Y gira—
 
-Ya no miramos la batalla: estamos dentro. La cámara va a la altura de las rodillas y **no para de moverse.** Se mete entre los cuerpos, esquiva, gira, sube, vuelve a caer. Y va encontrando cosas mientras pasa.
+—y ahí está **LA ESFERA.**
 
-**BROGU** —un gigante peludo— baja el hombro y entra en la línea. La cámara **se engancha a él** y corre a su lado mientras abre un boquete de cinco metros. Levanta a uno por encima de la cabeza y lo estrella contra otros tres—
+El palacio es una bola de piedra del tamaño de una montaña y **llena el cuadro entero.** Contra su base, el avance completo es apenas **un hilo de cuerpos.**
 
-—y la cámara **lo suelta y se va con NIMA**, diminuta y azul, que pasa corriendo doblada por debajo de su brazo. La sigue a un palmo del suelo. Nima suelta algo redondo y la cámara **se va detrás de la esfera rodando**, a ras de tierra, hasta que revienta en un pulso azul y **una fila entera cae como fichas** por delante del objetivo.
+Ahí es donde van. **Todos.**
 
-Desde ahí la cámara **sube** y encuentra a **NOAH** con una espada de luz, cortando de revés, parando, cortando otra vez. Le tiembla el brazo. Está agotado y no se retira. Lo rodea entero y sigue.
+Y la cámara vuelve a caer dentro de la carga, a la altura de las cabezas, y **vuela hacia adelante con ella** — adelantando a la primera fila justo cuando choca contra la línea imperial.
 
-Un **corredor** salta hacia el objetivo —y **VOSK** lo agarra en el aire y lo revienta contra el suelo. Está abierto de un costado, la sangre le baja hasta la bota, y **se ríe.** Cada vez que cae uno se ríe más fuerte. No se está divirtiendo: se está despidiendo.
+**PLANO SECUENCIA 2 — DENTRO DE LA CARGA.**
 
-Y con esa máquina que Vosk acaba de estrellar, **la cámara cae al suelo.**
+Sin corte. Ahora vamos por dentro. Y aquí no se aguanta nada: **se avanza a golpes.**
 
-Y ahí abajo, entre los que ya no están de pie, encuentra **unos ojos abiertos que no parpadean.**
+**BROGU** —un gigante peludo— es la punta de la lanza. No pelea: **abre camino**, y todo el avance se embudona detrás de él. Choca de frente contra un **PESADO**, el doble de alto que él, y **lo para en seco.**
+
+**NIMA**, diminuta y azul, pasa corriendo por debajo de su brazo y **rueda algo redondo entre las patas del pesado.** El pulso azul revienta hacia arriba, el pesado **cae de rodillas**, Brogu le arranca la cabeza — y el avance le pasa por encima sin detenerse.
+
+Por el flanco entra una **jauría de CORREDORES**, bajos, a cuatro patas, saltando por encima de los suyos. **NOAH** se gira solo contra ellos con una espada de luz. Está agotado. Y aguanta ese flanco **para que el avance no se pare.**
+
+**VOSK** hace otra cosa: **se sube a un PESADO.** Trepa por él mientras la máquina se sacude entera para quitárselo, llega arriba, y **lo tumba desde dentro.** El pesado se derrumba encima de la línea imperial. Vosk está abierto de un costado, la sangre le baja hasta la bota, y **se ríe.** No se está divirtiendo: se está despidiendo.
+
+Y desde muy atrás, sobre patas larguísimas, uno **DE DESCARGA** apunta—
+
+—y su disparo **atraviesa el avance de lado a lado.** La cámara sale despedida.
+
+Cuando el polvo se abre, la cámara está otra vez **en el suelo.** Entre los que ya no están de pie.
+
+Y encuentra **unos ojos abiertos que no parpadean.**
 
 **PLANO SECUENCIA 3 — LA DECISIÓN.**
 
@@ -223,6 +237,10 @@ Y **las botas se le encienden.**
 Dos conos de luz. Un rugido corto. Y **despega en vertical**, pegada a la fachada, subiendo recto.
 
 LA CÁMARA SUBE CON ELLA — y la plaza se hace pequeña, y la guerra se convierte en un ruido lejano, y aparece la escala real de la cosa que está subiendo: doscientos metros de piedra ardiendo.
+
+Y en ese momento, muy por debajo de ella, **cruza algo.**
+
+Una **nave imperial** pasa por debajo de sus botas disparando contra la plaza. Y es **la primera vez que vemos una** — llevamos minuto y medio oyéndolas caer sin saber de dónde salían.
 
 No es un vuelo limpio. Es a **ráfagas**: enciende, sube veinte metros, se apaga, se agarra a una cornisa, vuelve a encender. Cada tramo le cuesta.
 
@@ -1591,26 +1609,29 @@ Todavía no.
 
 EXT. LA GRAN PLAZA — ANOCHECER
 
-> *Igual que en la apertura: **planos secuencia**, cámara-dron que no deja de moverse, velocidad alta.
-> La diferencia es que aquí ya sabemos los nombres — y por eso la cámara se acerca más.*
+> *Igual que en la apertura: **planos secuencia**, cámara-dron que no deja de moverse, y un
+> **contraataque** que avanza hacia la esfera. La diferencia es que aquí ya sabemos los nombres, y por
+> eso la cámara se acerca más.*
 
 Un boquete revienta en el muro de la esfera y salen **STELLA** y **NOAH** al infierno.
 
-Se está yendo la luz. Lo único que alumbra la plaza es lo que arde.
+Se está yendo la luz. Lo único que alumbra la plaza es lo que arde. Y del cielo siguen cayendo disparos de naves que **todavía no vemos**: líneas de explosiones que caminan por el suelo y levantan escombros y cuerpos.
 
-Y delante, los dos ejércitos ya están metidos el uno dentro del otro. Del lado imperial, las cuatro formas: la **línea** que no se acaba, los **pesados** abriéndose paso como muros que caminan, los **corredores** saliendo disparados a cuatro patas por encima de los caídos, y muy atrás, sobre patas larguísimas, los **de descarga** — que no avanzan nunca: apuntan.
+Abajo no se aguanta: **se avanza.** La resistencia empuja hacia la esfera por encima de las máquinas rotas.
 
 La cámara entra con ellos y **no vuelve a parar.**
 
-Pasa junto a **BROGU**, que entra de hombro y rompe una fila. Se va con **NIMA**, que corre agachada bajo su brazo y suelta algo redondo; la cámara persigue esa esfera rodando a ras de tierra hasta que revienta y **cuatro máquinas se apagan a la vez.**
+**BROGU** es la punta: choca de frente contra un **pesado** el doble de alto que él y lo para en seco. **NIMA** pasa por debajo de su brazo y rueda algo entre las patas de la máquina; el pulso revienta hacia arriba y el pesado **cae de rodillas.**
 
-Sube y encuentra a **NOAH**: corta de revés, para, corta otra vez. Le tiembla el brazo. Lleva demasiado rato sosteniendo el mismo metro de suelo y **no piensa moverse de ahí.**
+Por el flanco entra una jauría de **corredores** y **NOAH** se gira solo contra ellos. Le tiembla el brazo. Lleva demasiado rato sosteniendo el mismo metro de suelo y **no piensa moverse de ahí.**
 
-Gira y encuentra a **VOSK**, abierto de un costado, la sangre hasta la bota. Un corredor salta hacia él y lo agarra en el aire. Cae uno y **se ríe.** Cae otro y se ríe más fuerte. Ya hizo las cuentas, le salieron mal, y aun así se está riendo.
+**VOSK** trepa por un pesado mientras la máquina se sacude para quitárselo, y **lo tumba desde dentro.** Cae uno y **se ríe.** Cae otro y se ríe más fuerte. Ya hizo las cuentas, le salieron mal, y aun así se está riendo.
 
-Y con esa máquina que Vosk acaba de estrellar, **la cámara cae al suelo. Y se queda quieta.**
+Y desde atrás, uno **de descarga** apunta — y su disparo atraviesa el avance de lado a lado.
 
-En el suelo, entre los que ya no están de pie, **ENKO**.
+**La cámara sale despedida y cae al suelo. Y se queda quieta.**
+
+Entre los que ya no están de pie, **ENKO**.
 
 **GARA** le busca el pulso dos segundos que no tiene. No lo encuentra.
 

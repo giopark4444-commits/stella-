@@ -45,8 +45,14 @@
   avanza nunca, dispara desde atrás — es el origen de las descargas de la fachada).
   ⚠️ **Ninguno es blanco:** metal oscuro casi negro; se ven porque el fuego se les refleja encima.
   `@RobotImperial` pasa a ser la hoja de familia: los cuatro juntos para leer las siluetas.
-- **La plaza es un CHOQUE DE DOS EJÉRCITOS**, no unos pocos aguantando. La resistencia también es
-  muchos y también corre.
+- **La película ABRE A RAS DE PISO**, no en negro ni desde el aire: dolly rasante entre escombros,
+  cruzando pies de máquina y pies de los nuestros, con la guerra solo en el sonido. La cámara se
+  levanta a los ~14 s y ahí se revela el mundo.
+- **La plaza es un CONTRAATAQUE**, no una defensa: la resistencia AVANZA hacia la esfera y gana
+  terreno. Cambió el verbo de toda la secuencia — de «aguantar» a «empujar».
+- **Naves disparando desde el primer segundo, pero INVISIBLES.** Solo se ven sus impactos caminando
+  por el suelo. **La primera nave aparece en pantalla a 1:09**, pasando por debajo de las botas de
+  Stella mientras sube la fachada. Minuto y medio oyéndolas antes de verlas.
 - **La plaza va en PLANOS SECUENCIA con cámara-dron**, no en cortes: la cámara vuela, se engancha a un
   personaje, lo suelta, se va con otro, sube, gira y cae. Velocidad alta, todo en movimiento.
   Tres planos secuencia cubren el minuto (el choque · dentro · la decisión).
