@@ -841,7 +841,9 @@ Vera la mira. Sostiene el escudo con la vida que se le escapa. Y mueve los labio
 *(sin casi voz)*
 Run.
 
-Stella, colgada del pelo, atrapada, ve morir a su madre a un metro de distancia.
+Stella, colgada del pelo, atrapada, ve **a un metro de distancia** cómo su madre **deja de moverse**.
+
+*(Ojo: la película nunca dice que Vera muere. Stella lo cree. Nosotros lo creemos. Y en la SEC 19 vamos a descubrir que estuvo tres días tirada en ese suelo antes de que Marek entrara por ella.)*
 
 Y hace lo único que puede hacer. Saca de su traje un **cuchillo láser.** Se lo lleva a la nuca. Y **se corta la trenza** de un tajo.
 
@@ -873,7 +875,7 @@ Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinticuatro años después
 
 La onda escupe a Stella por el otro lado, al cielo abierto.
 
-ABAJO, en la sala: Vera muerta en el piso. La bebé llorando a su lado. **VORTHAN** se acerca, sin prisa, y **levanta a Selka** en sus brazos. La bebé se calla, mirándolo.
+ABAJO, en la sala: Vera **boca abajo en el piso, sin moverse.** La bebé llorando a su lado. **VORTHAN** se acerca, sin prisa, y **levanta a Selka** en sus brazos. La bebé se calla, mirándolo.
 
 Dos robots se inclinan a recoger el cuerpo de Vera. El Rey los detiene con un gesto.
 
@@ -886,6 +888,8 @@ Get out there and find Stella. We need that Orb.
 Los robots sueltan el cuerpo. Salen.
 
 El Rey se va con la bebé en brazos, dejando a Vera tirada en el suelo de su propia casa.
+
+*(Y ahí está el detalle que solo se ve en el segundo visionado: el Rey **impide** que recojan ese cuerpo. La deja exactamente donde Marek va a poder encontrarla.)*
 
 ---
 
