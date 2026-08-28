@@ -21,10 +21,11 @@
 > aterrizaje, la silueta y el golpe 0:30.** Los tres últimos planos van a 2 s cada uno: son el suelo,
 > no hay holgura ahí.
 
-> *Toda la plaza va en **planos secuencia**: la cámara es un dron y no corta, **vuela**. Y la película
-> **no abre en negro ni abre desde arriba: abre en el suelo**, entre los pies. Aquí no hay un solo plano
-> parado —todo se mueve, todo va rápido— y sobre todo **todo avanza.** Esto no es una defensa que
-> aguanta: es un **contraataque** que va a por la esfera.*
+> *Toda la plaza va en **planos secuencia**: la cámara es un dron y no corta, **vuela**. La película
+> **abre en el suelo**, entre los pies. Todo se mueve, todo va rápido, y sobre todo **todo avanza**:
+> esto no es una defensa que aguanta, es un **contraataque** que va a por la esfera.*
+> *Y los nuestros **entran pronto**: al cuarto segundo ya estamos cruzándonos con ellos, aunque
+> todavía solo les veamos los pies.*
 
 EXT. LA GRAN PLAZA — ANOCHECER — HUMO, FUEGO, GUERRA
 
@@ -36,25 +37,25 @@ No vemos la guerra. **La oímos.** Gente corriendo, golpes, estruendos, gritos, 
 
 La cámara avanza **en dolly, rasante.** Y por delante del objetivo empiezan a cruzar **pies.**
 
-Pies de máquina —pesados, de tres dedos, pisando todos a la vez— yendo en una dirección. Y pies de los nuestros —botas, garras, pies descalzos— yendo **en la contraria.**
+Pies de máquina —tres dedos de metal oscuro, pisando todos a la vez— yendo en una dirección.
+
+Y **los nuestros**, yendo en la contraria: unos pies enormes y peludos que hacen temblar la tierra al pisar (**BROGU**); unos pies diminutos y azules corriendo a toda velocidad (**@NIMA**); una bota que va **arrastrando estirpe** (**@VOSK**); y **ocho miembros que no son piernas** pasando de largo a la vez (**EL HOMBRE PULPO**).
 
 Y entre todos ellos, una bota que **no se mueve.**
 
-Un pie enorme se estrella a centímetros del objetivo y **la cámara sale despedida de lado**, y sigue rodando por el suelo. Un **PESADO** acaba de pasar por encima del cuadro.
+Un pie de **PESADO** baja sobre el objetivo — y **BROGU LO AGARRA.** Lo vemos desde el suelo, de abajo hacia arriba, sosteniendo con las dos manos un pie del tamaño de un coche. Lo tira de lado, y la máquina entera se va al suelo detrás de él.
 
 Y entonces, desde el fondo, empieza a **caminar hacia nosotros una línea de explosiones.**
 
 Una. Otra más cerca. Otra más. Cada una levanta más escombros que la anterior — y con la tercera **suben cuerpos.**
 
-**No vemos qué está disparando.** Solo vemos dónde cae.
-
-*(Hay naves arriba. Para el público todavía no existen.)*
-
-La última revienta tan cerca que **tira tierra encima del objetivo.**
+Y muy arriba, muy lejos, contra el cielo violeta: **naves.** Siluetas pequeñas cruzando en formación, demasiado lejos para verles nada. Es de ahí de donde cae todo esto.
 
 Y ahí la cámara **se levanta.**
 
-Sale del polvo, sube por encima de los pies, y el mundo se abre de golpe. Y lo que aparece no es gente aguantando: **la resistencia entera está empujando hacia adelante**, por encima de las máquinas rotas, **ganando terreno.**
+Sale del polvo y sube — y sube **dentro de los nuestros.** Aparecen todos a la vez, corriendo hacia adelante juntos: **GARA**, **ENKO**, **LOS TRES HUMANOS** hombro con hombro, **LA MUJER VERDE** de un salto por encima del cuadro. Y detrás de ellos, más. Y más.
+
+Porque lo que estamos viendo no es gente aguantando: **la resistencia entera está empujando hacia adelante**, por encima de las máquinas rotas, **ganando terreno.**
 
 La cámara sigue subiendo. Y gira—
 
@@ -70,15 +71,19 @@ Y la cámara vuelve a caer dentro de la carga, a la altura de las cabezas, y **v
 
 Sin corte. Ahora vamos por dentro. Y aquí no se aguanta nada: **se avanza a golpes.**
 
-**BROGU** —un gigante peludo— es la punta de la lanza. No pelea: **abre camino**, y todo el avance se embudona detrás de él. Choca de frente contra un **PESADO**, el doble de alto que él, y **lo para en seco.**
+**BROGU** es la punta de la lanza. No pelea: **abre camino**, y todo el avance se embudona detrás de él. Choca de frente contra un **PESADO**, el doble de alto que él, y **lo para en seco.**
 
-**@NIMA**, diminuta y azul, pasa corriendo por debajo de su brazo y **rueda algo redondo entre las patas del pesado.** El pulso azul revienta hacia arriba, el pesado **cae de rodillas**, Brogu le arranca la cabeza — y el avance le pasa por encima sin detenerse.
+**@NIMA** pasa corriendo por debajo de su brazo y **rueda algo redondo entre las patas del pesado.** El pulso azul revienta hacia arriba, el pesado **cae de rodillas**, Brogu le arranca la cabeza — y el avance le pasa por encima sin detenerse.
 
-Por el flanco entra una **jauría de CORREDORES**, bajos, a cuatro patas, saltando por encima de los suyos. **@NOAH** se gira solo contra ellos con una espada de luz. Está agotado. Y aguanta ese flanco **para que el avance no se pare.**
+**LA MUJER VERDE** sale disparada hacia arriba. Salta, corre por el lomo de las máquinas como si fueran suelo, y se lanza sobre las patas larguísimas de uno **DE DESCARGA.** La máquina se dobla por la mitad y se viene abajo. **Ella es la que va a por los que no bajan.**
+
+Un **CORREDOR** salta hacia el objetivo — y **EL HOMBRE PULPO** lo atrapa en el aire **con tres brazos, sin dejar de pelear con los otros**, y lo abre por las juntas.
+
+**LOS TRES HUMANOS** aguantan un flanco espalda contra espalda, rotando, cubriéndose los ángulos ciegos. **@NOAH** es uno de ellos, con la espada de luz. No tienen nada especial en el cuerpo: **son los únicos que pelean como un ejército y no como individuos**, y por eso ese flanco no se rompe.
 
 **@VOSK** hace otra cosa: **se sube a un PESADO.** Trepa por él mientras la máquina se sacude entera para quitárselo, llega arriba, y **lo tumba desde dentro.** El pesado se derrumba encima de la línea imperial. @Vosk está abierto de un costado, la estirpe le baja hasta la bota, y **se ríe.** No se está divirtiendo: se está despidiendo.
 
-Y desde muy atrás, sobre patas larguísimas, uno **DE DESCARGA** apunta—
+Y desde muy atrás, uno **DE DESCARGA** apunta—
 
 —y su disparo **atraviesa el avance de lado a lado.** La cámara sale despedida.
 
@@ -130,7 +135,7 @@ LA CÁMARA SUBE CON ELLA — y la plaza se hace pequeña, y la guerra se convier
 
 Y en ese momento, muy por debajo de ella, **cruza algo.**
 
-Una **nave imperial** pasa por debajo de sus botas disparando contra la plaza. Y es **la primera vez que vemos una** — llevamos minuto y medio oyéndolas caer sin saber de dónde salían.
+Una **nave imperial** pasa por debajo de sus botas disparando contra la plaza. Y es **la primera vez que vemos una de cerca**: llevamos minuto y medio viéndolas como puntos en el cielo y sintiendo caer lo que tiran.
 
 No es un vuelo limpio. Es a **ráfagas**: enciende, sube veinte metros, se apaga, se agarra a una cornisa, vuelve a encender. Cada tramo le cuesta.
 
@@ -1500,20 +1505,21 @@ Not yet.
 EXT. LA GRAN PLAZA — ANOCHECER
 
 > *Igual que en la apertura: **planos secuencia**, cámara-dron que no deja de moverse, y un
-> **contraataque** que avanza hacia la esfera. La diferencia es que aquí ya sabemos los nombres, y por
-> eso la cámara se acerca más.*
+> **contraataque** que avanza hacia la esfera. La diferencia es que aquí ya sabemos los nombres.*
 
 Un boquete revienta en el muro de la esfera y salen **@STELLA** y **@NOAH** al infierno.
 
-Se está yendo la luz. Lo único que alumbra la plaza es lo que arde. Y del cielo siguen cayendo disparos de naves que **todavía no vemos**: líneas de explosiones que caminan por el suelo y levantan escombros y cuerpos.
+Se está yendo la luz. Lo único que alumbra la plaza es lo que arde. Muy arriba, contra el cielo violeta, cruzan **naves** en formación —lejos, pequeñas— y de ellas caen líneas de explosiones que caminan por el suelo levantando escombros y cuerpos.
 
 Abajo no se aguanta: **se avanza.** La resistencia empuja hacia la esfera por encima de las máquinas rotas.
 
 La cámara entra con ellos y **no vuelve a parar.**
 
-**BROGU** es la punta: choca de frente contra un **pesado** el doble de alto que él y lo para en seco. **@NIMA** pasa por debajo de su brazo y rueda algo entre las patas de la máquina; el pulso revienta hacia arriba y el pesado **cae de rodillas.**
+**BROGU** abre camino: choca de frente contra un **pesado** el doble de alto que él y lo para en seco. **@NIMA** pasa por debajo de su brazo y rueda algo entre las patas de la máquina; el pulso revienta hacia arriba y el pesado **cae de rodillas.**
 
-Por el flanco entra una jauría de **corredores** y **@NOAH** se gira solo contra ellos. Le tiembla el brazo. Lleva demasiado rato sosteniendo el mismo metro de suelo y **no piensa moverse de ahí.**
+**LA MUJER VERDE** salta, corre por el lomo de las máquinas y se lanza sobre las patas de uno **de descarga**, que se dobla por la mitad. Un **corredor** salta y **EL HOMBRE PULPO** lo atrapa en el aire con tres brazos sin dejar de pelear con los otros.
+
+**LOS TRES HUMANOS** aguantan un flanco espalda contra espalda, y **@NOAH** entre ellos: le tiembla el brazo, lleva demasiado rato sosteniendo el mismo metro de suelo y **no piensa moverse de ahí.**
 
 **@VOSK** trepa por un pesado mientras la máquina se sacude para quitárselo, y **lo tumba desde dentro.** Cae uno y **se ríe.** Cae otro y se ríe más fuerte. Ya hizo las cuentas, le salieron mal, y aun así se está riendo.
 

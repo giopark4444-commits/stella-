@@ -177,6 +177,15 @@ How would the archivist of a hunting crew look, who keeps the record of every wo
 ### @Fen — la más joven
 How would the newest and youngest member of a hard scavenger crew look, still not hardened? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 
+### @TrioHumano — los tres humanos 🆕
+How would three human fighters look who always stand back to back and cover each other's blind side? Show me 4 examples. Human. Ghibly style and water color painting.
+
+### @MujerVerde — la que va hacia arriba 🆕 *(nombre provisional)*
+How would the fighter look who climbs the enemy's own machines to reach what is standing behind them, tall and green-skinned? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @HombrePulpo — el que atrapa 🆕 *(nombre provisional)*
+How would a fighter with many arms look, who catches what leaps at him with three of them while still fighting with the rest? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
 ### @Gara — la que carga al muerto 🆕
 How would a woman of a scavenger crew look, carrying a dead comrade off the line and then walking straight back into it? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 

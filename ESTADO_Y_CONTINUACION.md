@@ -50,9 +50,17 @@
   levanta a los ~14 s y ahí se revela el mundo.
 - **La plaza es un CONTRAATAQUE**, no una defensa: la resistencia AVANZA hacia la esfera y gana
   terreno. Cambió el verbo de toda la secuencia — de «aguantar» a «empujar».
-- **Naves disparando desde el primer segundo, pero INVISIBLES.** Solo se ven sus impactos caminando
-  por el suelo. **La primera nave aparece en pantalla a 1:09**, pasando por debajo de las botas de
-  Stella mientras sube la fachada. Minuto y medio oyéndolas antes de verlas.
+- **Naves desde el primer segundo, pero LEJOS:** siluetas pequeñas cruzando muy arriba contra el cielo
+  violeta. De cerca no se ve ninguna hasta **1:09**, cuando una pasa por debajo de las botas de Stella
+  en plena subida. Lo que sí se ve desde el suelo son sus impactos caminando por la tierra.
+- **La tripulación entra PRONTO:** al segundo 4 ya nos cruzamos con ellos por los pies, y Brogu tiene su
+  primera acción **a los 10 segundos**, todavía dentro del plano rasante. Roster de la plaza y **cada uno
+  pelea distinto, ninguno duplica a otro**: `@Brogu` abre camino · `@Nima` artefactos · `@MujerVerde`
+  sube y tumba a los de descarga · `@HombrePulpo` atrapa en el aire con tres brazos · `@TrioHumano`
+  (Noah entre ellos) aguanta flancos en formación · `@Vosk` trepa y tumba desde dentro · `@Gara` carga.
+- ⚠️ `@MujerVerde` y `@HombrePulpo` llevan **nombre provisional** — falta que Gio los bautice.
+  `@TrioHumano` = los tres humanos de la tripulación, Noah incluido (los demás secundarios son
+  «clearly not human» en sus hojas).
 - **La plaza va en PLANOS SECUENCIA con cámara-dron**, no en cortes: la cámara vuela, se engancha a un
   personaje, lo suelta, se va con otro, sube, gira y cae. Velocidad alta, todo en movimiento.
   Tres planos secuencia cubren el minuto (el choque · dentro · la decisión).
