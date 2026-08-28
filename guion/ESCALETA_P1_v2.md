@@ -1,8 +1,13 @@
-# ESCALETA — STELLA FUGAZ · PELÍCULA 1 "EL NODO DE ERDIA" (v2.4)
+# ESCALETA — STELLA FUGAZ · PELÍCULA 1 "EL NODO DE ERDIA" (v2.5)
 
-> Secuencia por secuencia, en orden de pantalla. Síntesis del `GUION_P1_v2.md` (revisión v2.4, 2026-08-23).
+> Secuencia por secuencia, en orden de pantalla. Síntesis del `GUION_P1_v2.md` (revisión v2.5, 2026-08-28).
 > Estructura 起承転結. 🔒 El cambio de forma de Vorthan es SECRETO hasta el clímax.
 > Marcadores **[ERDIA · AÑO X]** = saltos rotulados. (1 año de Stella = 4 de Erdia; **Erdia avanza 24 años**.)
+> **Cambios v2.5:** **APERTURA EN FRÍO (SEC 0)** — la película arranca con 90 segundos de acción pura,
+> Stella adulta escalando el palacio en llamas, sin diálogo ni nombres, y corta cuando rompe el cristal
+> y cae. El corte de vuelta es **de caída a caída** (ella al palacio, la cámara al planeta). La SEC 23
+> retoma ese plano y esta vez no se corta.
+>
 > **Cambios v2.4:** **Brog → BROGU**, con aspecto de gorila (ya no de piedra) · **Nima** deja de tener
 > cuatro brazos: es una **elfa azulada y baja, la científica de la nave** · en la SEC 27 **Vosk carga a
 > Selka** (Nima no da la talla física).
@@ -20,6 +25,13 @@
 ---
 
 ## 起 KI — ERDIA (Acto 1)
+
+**0. Apertura en frío.** Una mano se clava en una cornisa a doscientos metros; bajo la piel, algo late.
+La cámara se suelta y aparece el mundo: un **palacio ardiendo**, una ciudad gris en guerra debajo, y una
+mujer encapuchada que **sube** sin mirar nada más. Trepa bajo fuego, se suelta en caída libre y se frena
+con un latigazo de luz, revienta a un robot colgada de un solo brazo. Llega a la **cúpula de cristal** y
+ve abajo una **figura blanca esperándola**. Un segundo de ojos **ámbar** bajo la capucha. Rompe el
+cristal. **Cae.** — Sin diálogo, sin nombres, sin rótulo de año.
 
 **1. Apertura.** Paisaje del planeta → la cámara entra por una **fractura** y baja hasta el **interior
 muerto**. Título: **STELLA FUGAZ**. Corte al cielo azul de Erdia. *(Mundo: los naieli abandonaron la

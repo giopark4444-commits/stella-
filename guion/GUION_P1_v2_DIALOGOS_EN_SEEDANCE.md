@@ -1,5 +1,5 @@
 # STELLA FUGAZ · "EL NODO DE ERDIA"
-## Guion — Película 1 (v2.4) · Acción en español · Diálogos en inglés
+## Guion — Película 1 (v2.5) · Acción en español · Diálogos en inglés
 
 > **Versión híbrida.** Todo en español —encabezados, acción, acotaciones y nombres de personaje—
 > y **solo lo que los personajes dicen en voz alta, en inglés**.
@@ -10,11 +10,73 @@
 
 ---
 
-## SEC. 1 — EXT. SUPERFICIE DE ERDIA — DÍA
+## SEC. 0 — EXT. PALACIO IMPERIAL — LA SUBIDA — [ERDIA · AÑO 24] — DÍA
+
+> *Apertura en frío, antes del título. Sin rótulo de año, sin nombres, sin una sola línea de diálogo.
+> El público no sabe quién es ella, dónde está ni por qué. Solo sabe que va hacia arriba.*
+> *(Este momento vuelve a verse completo y desde dentro en la **SEC 23**.)*
 
 Negro.
 
-Una línea de luz raja la oscuridad: el borde de un planeta amaneciendo. La cámara cae hacia él, atraviesa nubes doradas, baja sobre cordilleras vivas, sobre bosques que respiran.
+Un golpe. Y otro. Un ritmo que no se identifica todavía.
+
+PRIMER PLANO: una **mano** se clava en una cornisa de piedra mojada. Los dedos resbalan. Aguantan.
+
+Y bajo la piel de esa palma, algo **late**. Una luz.
+
+LA CÁMARA SE SUELTA HACIA ATRÁS —y el mundo aparece de golpe.
+
+Está a doscientos metros de altura, colgada de la fachada de un **palacio inmenso** que arde por abajo. Debajo de sus botas hay una ciudad gris ahogada en niebla, y en esa niebla, una guerra.
+
+Un **gigante peludo** atraviesa un muro de un hombro. Una **mujer diminuta y azul** suelta algo al suelo y una fila entera de soldados sin cara se apaga a la vez. Un **chico con una bufanda azul** cubre una brecha con una espada.
+
+Nada de eso la mira a ella. Ella no mira nada de eso.
+
+**SUBE.**
+
+Trepa. Salta. Se agarra donde no hay dónde agarrarse. Los disparos revientan la piedra a centímetros de su cara y ella no se detiene ni una vez.
+
+Una torreta la encuentra. La barre. Ella **se suelta** —cae seis metros a plomo— **ahueca la palma** y un latigazo de luz sale de su mano, engancha una gárgola, y la frena en seco contra el muro.
+
+Se queda colgando. Respira. Sigue.
+
+Un **soldado robot** desciende hacia ella por la fachada. Choque brutal, a un solo brazo, con el otro sosteniendo su propio peso sobre el vacío. Le arranca la placa del pecho de un golpe de luz. La máquina cae y se pierde en la niebla.
+
+Ella ni la ve caer. Ya está mirando arriba.
+
+LO ÚLTIMO: una **cúpula de cristal**, enorme, ardiendo con el reflejo del incendio.
+
+Llega. Se descuelga sobre ella. Y a través del vidrio, muy abajo, en el centro de una sala del tamaño de una catedral, ve **una figura blanca.**
+
+De pie. Inmóvil. En medio de un edificio que se cae a pedazos.
+
+**Esperándola.**
+
+La mujer de la cornisa se queda quieta un segundo. Y en ese segundo —solo ese— le vemos los ojos bajo la capucha. **Ámbar.**
+
+Aprieta el puño. La luz se le concentra en la palma hasta que le ilumina la cara entera.
+
+Y **rompe el cristal.**
+
+Cae.
+
+CORTE —
+
+---
+
+## SEC. 1 — EXT. SUPERFICIE DE ERDIA — DÍA
+
+> *El corte es de caída a caída: ella se precipita hacia dentro del palacio, y la cámara se precipita
+> hacia dentro del planeta. Los dos movimientos son el mismo — bajar hasta el centro de algo y
+> encontrarlo hueco.*
+
+— y **seguimos cayendo.**
+
+Pero ya no es cristal lo que atravesamos: es cielo. Y no es de noche: es un amanecer.
+
+Una línea de luz raja la oscuridad: el borde de un planeta. La cámara cae hacia él, atraviesa nubes doradas, baja sobre cordilleras vivas, sobre bosques que respiran.
+
+Todo verde. Todo entero. **Todo vivo.** *(No queda ni rastro de la ciudad gris.)*
 
 Y encuentra una **grieta**. Una fractura seca en la corteza, como una cicatriz que nadie curó.
 
@@ -1266,7 +1328,7 @@ Not yet.
 
 No sabe que va a caer.
 
-EN LO ALTO — @Stella llega al techo de **cristal.** Abajo, en el centro de la sala, una figura blanca espera de pie, inmóvil, como si supiera que iba a venir.
+EN LO ALTO — @Stella llega al techo de **cristal.** *(Volvemos al plano con el que abrió la película —la **SEC 0**— pero ahora sabemos quién es, de dónde viene y qué le costó llegar hasta aquí. Esta vez la escena no se corta.)* Abajo, en el centro de la sala, una figura blanca espera de pie, inmóvil, como si supiera que iba a venir.
 
 @Stella tenía una promesa con @Theron: mirar y volver. La rompe.
 

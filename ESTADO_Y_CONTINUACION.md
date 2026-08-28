@@ -2,7 +2,7 @@
 
 > **Documento de traspaso.** Si me abres desde otra sesión/dispositivo, lee esto primero:
 > resume el proyecto, el canon, qué está hecho, dónde vive cada cosa y qué falta.
-> Última actualización: **2026-08-23** · Revisión de guion **v2.4**.
+> Última actualización: **2026-08-28** · Revisión de guion **v2.5**.
 
 ---
 
@@ -13,7 +13,20 @@
 - La saga se dividió en 3 partes por decisión **narrativa** (sola / sola / dúo), NO porque P1 fuera larga. P1 es lean.
 - Logline: una niña huye de su mundo moribundo con la fuente de vida del planeta en la mano, con la promesa de volver, hacerse fuerte y salvar a la hermana que el enemigo le robó.
 
-## 📖 CANON DEL GUION — v2.4 (2026-08-23) ⚠️ LEER ANTES DE USAR LOS PROMPTS
+## 📖 CANON DEL GUION — v2.5 (2026-08-28) ⚠️ LEER ANTES DE USAR LOS PROMPTS
+
+**Cambios v2.5 — APERTURA EN FRÍO (SEC 0):**
+- La película **ya no empieza por el principio**. Arranca con ~90 segundos de acción pura: Stella
+  adulta escalando el palacio en llamas bajo fuego, **sin diálogo, sin nombres, sin rótulo de año**.
+  Corta en el instante en que rompe la cúpula de cristal y **cae**.
+- **El corte de vuelta es de caída a caída:** ella se precipita al palacio, la cámara se precipita
+  al planeta (SEC 1). El mismo movimiento dos veces: bajar al centro de algo y encontrarlo hueco.
+- **La SEC 23 retoma ese plano** y esta vez no se corta.
+- ⚠️ **La SEC 0 NO puede mostrar** la cara de Selka (solo silueta blanca), ni a Marek, ni a Vorthan,
+  ni el interior del palacio. Ahí viven los tres secretos.
+- **Motivo:** el proyecto compite contra cientos de otros; los primeros diez segundos deciden si
+  alguien sigue viendo.
+
 
 **Cambios v2.4 — dos personajes rediseñados:**
 - **Brog → `@Brogu`.** Ya **NO** es un gigante de piedra: es un ser con **aspecto de gorila**
@@ -82,7 +95,7 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
 ## 📁 Dónde vive cada cosa (`guion/*.md`)
 | Contenido | Archivo(s) | ¿Al día con v2.3? |
 |---|---|---|
-| **Guion canónico** | `GUION_P1_v2.md` (32 secuencias) | ✅ |
+| **Guion canónico** | `GUION_P1_v2.md` (33 secuencias) | ✅ |
 | **Híbrido ES/EN** | `GUION_P1_v2_DIALOGOS_EN.md` | ✅ `tools/genhibrido.py` |
 | **Escaleta** | `ESCALETA_P1_v2.md` | ✅ |
 | **PDF** | `guion/render/GUION_P1_v2.pdf` (47 pág.) | ✅ `tools/guion_pdf.py` |
@@ -122,5 +135,5 @@ con `tools/cola_estilo.py --set "..."`.
    la real — ver conversación).
 
 ---
-*Para retomar: lee esto, luego `guion/GUION_P1_v2.md` (v2.4) y la escaleta. El guion manda sobre
+*Para retomar: lee esto, luego `guion/GUION_P1_v2.md` (v2.5) y la escaleta. El guion manda sobre
 cualquier prompt viejo.*
