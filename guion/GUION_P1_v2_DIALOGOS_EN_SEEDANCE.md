@@ -10,51 +10,80 @@
 
 ---
 
-## SEC. 0 — EXT. PALACIO IMPERIAL — LA SUBIDA — [ERDIA · AÑO 24] — DÍA
+## SEC. 0 — EXT. PALACIO IMPERIAL — EL ASALTO — [ERDIA · AÑO 24] — DÍA
 
 > *Apertura en frío, antes del título. Sin rótulo de año, sin nombres, sin una sola línea de diálogo.
-> El público no sabe quién es ella, dónde está ni por qué. Solo sabe que va hacia arriba.*
-> *(Este momento vuelve a verse completo y desde dentro en la **SEC 23**.)*
+> El público no sabe quién es nadie. Solo entiende dos cosas: que están perdiendo, y que la están
+> empujando hacia arriba.*
+> *(Este momento vuelve completo y desde dentro en la **SEC 23**.)*
 
 Negro.
 
-Un golpe. Y otro. Un ritmo que no se identifica todavía.
+Un golpe sordo. Otro. Otro. Un ritmo que todavía no se identifica.
 
-PRIMER PLANO: una **mano** se clava en una cornisa de piedra mojada. Los dedos resbalan. Aguantan.
+Y de golpe: **SONIDO PLENO.**
 
-Y bajo la piel de esa palma, algo **late**. Una luz.
+EXT. UNA CIUDAD GRIS — NIEBLA, FUEGO, GUERRA
 
-LA CÁMARA SE SUELTA HACIA ATRÁS —y el mundo aparece de golpe.
+Una plaza rota bajo un palacio inmenso. Y contra ese palacio, una marea de **soldados robot** blancos y sin cara, en filas que no se acaban.
 
-Está a doscientos metros de altura, colgada de la fachada de un **palacio inmenso** que arde por abajo. Debajo de sus botas hay una ciudad gris ahogada en niebla, y en esa niebla, una guerra.
+Enfrente, muy pocos. Y aguantando.
 
-Un **gigante peludo** atraviesa un muro de un hombro. Una **mujer diminuta y azul** suelta algo al suelo y una fila entera de soldados sin cara se apaga a la vez. Un **chico con una bufanda azul** cubre una brecha con una espada.
+**BROGU** —un gigante peludo— entra en la primera fila **de hombro** y abre un boquete de cinco metros. Levanta a un robot por encima de la cabeza y lo estrella contra otros tres.
 
-Nada de eso la mira a ella. Ella no mira nada de eso.
+**@NIMA**, diminuta y azul, corre agachada bajo el brazo de Brogu. Suelta algo redondo al suelo. Un pulso azul barre la plaza a ras de tierra y **una fila entera se apaga a la vez**, cayendo como fichas.
 
-**SUBE.**
+**@NOAH** cubre el flanco con una espada de luz. Para, corta, retrocede. Está agotado y no se retira.
 
-Trepa. Salta. Se agarra donde no hay dónde agarrarse. Los disparos revientan la piedra a centímetros de su cara y ella no se detiene ni una vez.
+**@VOSK** sostiene una brecha él solo, enorme, sangrando, riéndose.
 
-Una torreta la encuentra. La barre. Ella **se suelta** —cae seis metros a plomo— **ahueca la palma** y un latigazo de luz sale de su mano, engancha una gárgola, y la frena en seco contra el muro.
+Y detrás de ellos, en el suelo, **los que ya no están de pie.**
 
-Se queda colgando. Respira. Sigue.
+**GARA** cae. **ENKO** la agarra por el arnés y la arrastra fuera de la línea de fuego sin dejar de disparar con la otra mano. La sienta contra un muro. Le dice algo que no oímos. Y **vuelve a la línea.**
 
-Un **soldado robot** desciende hacia ella por la fachada. Choque brutal, a un solo brazo, con el otro sosteniendo su propio peso sobre el vacío. Le arranca la placa del pecho de un golpe de luz. La máquina cae y se pierde en la niebla.
+No están ganando. Nadie está ganando. Solo están **abriendo un pasillo.**
 
-Ella ni la ve caer. Ya está mirando arriba.
+Y por ese pasillo —entre el humo, entre los caídos, entre todo lo que arde—
 
-LO ÚLTIMO: una **cúpula de cristal**, enorme, ardiendo con el reflejo del incendio.
+**pasa alguien corriendo.**
 
-Llega. Se descuelga sobre ella. Y a través del vidrio, muy abajo, en el centro de una sala del tamaño de una catedral, ve **una figura blanca.**
+Una figura encapuchada. **No pelea.** Esquiva. No ayuda a nadie, no se detiene por nadie, no mira a los lados. Tiene una sola dirección y es hacia adelante.
 
-De pie. Inmóvil. En medio de un edificio que se cae a pedazos.
+Brogu la ve pasar y **golpea más fuerte** para que nada la toque.
+
+La figura llega al muro del palacio. Y **empieza a subir.**
+
+LA CÁMARA SUBE CON ELLA — y la plaza se hace pequeña, y la guerra se convierte en un ruido lejano, y aparece la escala real de la cosa que está trepando: doscientos metros de piedra ardiendo.
+
+Trepa. Salta. Se agarra donde no hay dónde agarrarse.
+
+Los disparos revientan la fachada a centímetros de su cara. No se detiene ni una vez.
+
+Una **torreta** la encuentra y la barre. Ella **se suelta** —cae seis metros a plomo— **ahueca la palma** y un latigazo de luz sale de su mano, engancha una gárgola y la frena en seco contra el muro.
+
+Queda colgando sobre el vacío. Respira. Sigue.
+
+Tres **robots** bajan por la fachada hacia ella. El primero llega y hay un choque brutal **a un solo brazo**, con el otro sosteniendo todo su peso sobre doscientos metros de nada. Le arranca la placa del pecho de un golpe de luz. Cae.
+
+Al segundo lo usa de escalón.
+
+Al tercero lo agarra de la cabeza y **sube por él** mientras cae.
+
+PRIMER PLANO: **la mano.** Se clava en la última cornisa. Los dedos resbalan. Aguantan.
+
+Y bajo la piel de esa palma, algo **late**.
+
+ARRIBA — se descuelga sobre una **cúpula de cristal** enorme, encendida por el reflejo del incendio.
+
+Y a través del vidrio, muy abajo, en el centro de una sala del tamaño de una catedral, hay **una figura**.
+
+De pie. Inmóvil. Blanca. En medio de un edificio que se cae a pedazos.
 
 **Esperándola.**
 
-La mujer de la cornisa se queda quieta un segundo. Y en ese segundo —solo ese— le vemos los ojos bajo la capucha. **Ámbar.**
+La figura de la cornisa se queda quieta un segundo. Y en ese segundo —solo ese— le vemos los ojos bajo la capucha. **Ámbar.**
 
-Aprieta el puño. La luz se le concentra en la palma hasta que le ilumina la cara entera.
+Aprieta el puño. La luz se le concentra en la palma hasta iluminarle la cara entera.
 
 Y **rompe el cristal.**
 

@@ -165,6 +165,12 @@ How would the archivist of a hunting crew look, who keeps the record of every wo
 ### @Fen — la más joven
 How would the newest and youngest member of a hard scavenger crew look, still not hardened? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 
+### @Gara — la que cae en la apertura 🆕
+How would a hardened woman of a scavenger crew look, the kind who holds a line until she goes down? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
+### @Enko — el que la arrastra fuera del fuego 🆕
+How would a crew fighter look who drags a fallen comrade out of the line and then walks straight back into it? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+
 ### @Kade — el segundo de a bordo
 How would the second-in-command of an ancient hunter's ship look, the one who turns orders into action? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 
