@@ -147,9 +147,9 @@
 | 1 | 0:00 | 4s | **dron** lateral, a su altura | Del negro al cielo azul, y **un grito**. Stella corre por el borde del canal de luzagua, descalza, seis metros de altura. El dron va con ella, de lado, sin adelantarla. | — |
 | 2 | 0:04 | 2s | **brazo**, picado | El parque debajo. **Nadie levanta la cabeza.** Esto pasa todos los días. | — |
 | 3 | 0:06 | 4s | **slider** lateral largo | El plano cruza el parque de derecha a izquierda y en el fondo aparece **el mecha**, arrodillado y cubierto de flores, como una colina más. **Nadie lo mira.** | — |
-| 4 | 0:10 | 3s | **dron** lateral | **Gix** por delante. Le lleva ventaja. **Le está ganando.** | — |
+| 4 | 0:10 | 3s | **dron** lateral | **Gix** por delante —un axolote de luz hecho de partículas, con la forma temblándole en los bordes—. **Le está ganando.** | — |
 | 5 | 0:13 | 4s | **dron**, se adelanta | Salta el hueco de la curva, cae rodando, **sale por delante**. | *¡Eso cuenta!* |
-| 6 | 0:17 | 5s | **slider** corto, cerca | **GIX SE APAGA.** Un segundo entero de nada. Y vuelve a encenderse un metro más lejos, **dándole la espalda**. `NO TOCAR` | *No seas así.* |
+| 6 | 0:17 | 5s | **slider** corto, cerca | **GIX SE DESHACE.** La forma se le desarma en el aire y se dispersa en partículas. Un segundo entero de nada. Y **se vuelve a armar** un metro más lejos, partícula a partícula, **dándole la espalda**. `NO TOCAR` | *No seas así.* |
 | 7 | 0:22 | 4s | **brazo** baja al agua | **Vera** agachada al borde, el brazo metido **hasta el codo**. Está midiendo cuánto le entra. | — |
 | 8 | 0:26 | 4s | **macro sobre slider** | **La luz se ha ido toda al fondo**, apelmazada contra la piedra. **La superficie corre negra.** `NO TOCAR` | — |
 
@@ -207,7 +207,7 @@
 
 | # | Tiempo | Dur | Cámara | Acción | Diálogo |
 |---|---|---|---|---|---|
-| 39 | 2:30 | 4s | **slider** a ras de hierba | Stella se agacha a cuatro metros y **ahueca la palma**. Una chispa de Gix le baila dentro. `NO TOCAR` | — |
+| 39 | 2:30 | 4s | **slider** a ras de hierba | Stella se agacha a cuatro metros y **ahueca la palma**. Y **Gix se desprende de un puñado de sí mismo**: unas partículas bajan y le bailan dentro de la mano. `NO TOCAR` | — |
 | 40 | 2:34 | 8s | **dolly bajo a la altura de la bebé**, retrocediendo | **SELKA ECHA A ANDAR.** Torpe, con los brazos abiertos, cayéndose hacia adelante más que caminando, cuatro metros de hierba dorada **hacia la luz que su hermana le está enseñando en la mano**. `NO TOCAR` | — |
 | 41 | 2:42 | 3s | **steadycam** que sube con ella | La atrapa antes de que se caiga y **la levanta en el aire**. Selka se ríe con toda la cara. | — |
 | 42 | 2:45 | 4s | **steadycam**, a un palmo de Vera | Las mira a las dos. **Y esto es lo último bueno que va a ver en su vida.** `NO TOCAR` | — |

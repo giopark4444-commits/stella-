@@ -37,6 +37,13 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • **@GIX ESTÁ HECHO DE PARTÍCULAS.** No es un cuerpo sólido de luz: es **una nube que sostiene una
+>   forma** —la de un axolote—. Por eso **no se apaga: se deshace y se rehace.** Cuando se enfada se
+>   desarma en el aire y se reconstruye en otro sitio. Y cuando @Stella ahueca la palma, lo que baja
+>   a su mano **es un puñado de él**: le presta un trozo de sí mismo.
+>   Consecuencia para el clímax: la chispa que en la SEC 27 se le mete a @Stella en el pecho para
+>   sostenerle el corazón **es @Gix dándole otro trozo** — y la brasa que se apaga al final del film
+>   es **lo que le queda después de haber dado tanto**.
 > • **Erdia está destruido, pero es BONITO dentro de su propio caos.** El cielo del año 24 tiene
 >   estrellas de verdad, y el humo las atraviesa. La belleza y el desastre están en el mismo cuadro.
 > • **Hay naves desde el primer segundo, pero LEJOS**: siluetas pequeñas cruzando muy arriba contra
@@ -435,7 +442,7 @@ Abajo, la gente del parque ni levanta la cabeza. Esto pasa todos los días.
 
 Y al fondo, formando parte del paisaje como una colina más, un **MECHA** colosal arrodillado y **cubierto de flores y enredaderas.** Nadie lo mira. Lleva doscientos años ahí.
 
-Por delante de ella vuela **@GIX** —una criatura pequeña de luz, mitad chispa, mitad travesura—. Le lleva ventaja. **Le está ganando.**
+Por delante de ella vuela **@GIX** —un pequeño axolote de luz hecho de partículas, mitad chispa, mitad travesura, con la forma temblándole en los bordes—. Le lleva ventaja. **Le está ganando.**
 
 @Stella calcula. El canal hace una curva. @Gix va a seguirla.
 
@@ -446,11 +453,11 @@ Salta, cruza el hueco por el aire, cae rodando en el otro tramo, se levanta sin 
 **@STELLA**
 ¡Eso cuenta!
 
-Y @Gix **se apaga.**
+Y @Gix **se deshace.**
 
-Del todo. Un segundo entero de nada.
+La forma se le desarma en el aire y se convierte en una nube de partículas que se dispersa. Un segundo entero de nada.
 
-Y vuelve a encenderse un metro más lejos, **dándole la espalda.**
+Y **se vuelve a armar** un metro más lejos, partícula a partícula, **dándole la espalda.**
 
 **@STELLA (CONT.)**
 *(sin frenar)*
@@ -606,7 +613,7 @@ Que sepas que tu hermana hizo trampa.
 
 @Stella se agacha a cuatro metros y **ahueca la palma.**
 
-Una chispa de **@Gix** baja y le baila dentro de la mano, como una luciérnaga.
+Y **@Gix se desprende de un puñado de sí mismo**: unas cuantas partículas bajan y le bailan dentro de la mano, como luciérnagas.
 
 Y **@Selka echa a andar.**
 
@@ -706,7 +713,7 @@ Lo que acabo de hacerte te permite integrarlo. Meterlo dentro de ti. Y una vez d
 
 Y @Stella, por puro instinto de hermana mayor, deja todo y va hacia ella.
 
-Se inclina sobre el moisés. **Ahueca la mano.** Una **chispa de @Gix** baja y baila en su palma, como una luciérnaga. Le **junta la frente** a la bebé.
+Se inclina sobre el moisés. **Ahueca la mano.** Y **@Gix vuelve a prestarle un puñado**: unas partículas bajan y bailan en su palma, como luciérnagas. Le **junta la frente** a la bebé.
 
 Y las dos **sonríen.**
 
@@ -2031,7 +2038,7 @@ Le agarra la mano a @Stella —y le **arranca el Orbe.** Puede: comparte su esti
 
 El Orbe sale de la palma de @Stella con un fogonazo. @Stella **se desploma.** No muere —cae en **coma**, los ojos en blanco.
 
-Una **chispa** sale del brazalete y se mete en el pecho de @Stella: **@Gix**, abrazándole el corazón por dentro para que no se detenga.
+Un **puñado de partículas** sale del brazalete y se mete en el pecho de @Stella: **@Gix dándole otro trozo de sí mismo**, abrazándole el corazón por dentro para que no se detenga.
 
 @Selka se queda de pie, el Orbe en la mano, respirando agitada, sin saber qué acaba de hacerle a su propio cuerpo.
 

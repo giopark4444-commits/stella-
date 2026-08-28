@@ -129,7 +129,7 @@ How would that same general look after losing an arm and everything she believed
 How would a small alien child look, sweet and completely innocent? Show me 4 examples. Ghibly style and water color painting.
 
 ### @Gix — el axolote de luz
-How would a small friendly spirit made of water and light look, shaped like an axolotl? Show me 4 examples. Not humanoid — a creature. Ghibly style and water color painting.
+How would a small friendly spirit look that is made of drifting particles of water and light held together in the shape of an axolotl, so that its edges never quite settle? Show me 4 examples. Not humanoid — a creature. Ghibly style and water color painting.
 
 ### @Vorthan — el Rey
 How would an alien king look who has not aged in centuries, and whom his people worship as a god? Show me 4 examples. Ghibly style and water color painting.
