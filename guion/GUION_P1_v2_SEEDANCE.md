@@ -759,7 +759,7 @@ Detrás de él, la proyección lo confirma: el mismo descenso de la SEC. 1, hast
 …Eso no es posible. El Orbe le da vida a todo. Tú me lo enseñaste.
 
 **@NAIO**
-Por eso lo quiere.
+No. El Orbe ha estado drenando la vida de nuestro planeta.
 
 @Naio activa una máquina sobre **la mano izquierda abierta** de @Stella. Ella espera que le ponga algo dentro —una joya, un objeto. No le pone nada. La **prepara**. Una **llave de luz** se graba bajo su piel, en la palma, con un dolor breve y limpio.
 

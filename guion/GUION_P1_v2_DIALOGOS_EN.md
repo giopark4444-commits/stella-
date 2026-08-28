@@ -619,7 +619,7 @@ Detrás de él, la proyección lo confirma: el mismo descenso de la SEC. 1, hast
 …That's not possible. The Orb gives life to everything. You taught me that.
 
 **NAIO**
-That's why he wants it.
+No. The Orb has been draining the life out of our planet.
 
 Naio activa una máquina sobre **la mano izquierda abierta** de Stella. Ella espera que le ponga algo dentro —una joya, un objeto. No le pone nada. La **prepara**. Una **llave de luz** se graba bajo su piel, en la palma, con un dolor breve y limpio.
 
