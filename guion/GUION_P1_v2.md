@@ -425,53 +425,118 @@ Silencio total. Sostener.
 
 ## SEC. 2 — EXT. PARQUE DE LA LUZAGUA, CIUDAD DORADA — DÍA
 
-CORTE BRUSCO a un cielo **azul, abierto, deslumbrante** —y una **carcajada** que rompe el silencio anterior como un vaso.
+CORTE BRUSCO del negro a un cielo **azul, abierto, deslumbrante.**
 
-**STELLA** (14) corre por la hierba de un parque. Pelo blanco al viento, descalza, imparable. Junto a ella corre un río de **luzagua**: agua y luz a la vez, que la gente deja pasar entre las manos sin guardarla.
+Y lo que rompe el silencio no es una risa: es **un grito.** El grito de alguien que va demasiado rápido y a quien le encanta ir demasiado rápido.
 
-Stella se toca un **brazalete** en la muñeca. Del aire se enciende **GIX** —una pequeña criatura de luz, mitad chispa, mitad travesura— que escapa volando. Stella va tras él, riendo, esquivando a la gente.
+**STELLA** (14) corre por **el borde de un canal elevado** —un acueducto abierto por el que baja la **luzagua**, agua y luz a la vez—. Descalza, sobre piedra mojada, **a seis metros del suelo**, con los brazos abiertos.
 
-Detrás, sin apuro, camina **VERA** (madre, ~40, pelo blanco recogido, ojos gris-azul).
+Abajo, la gente del parque ni levanta la cabeza. Esto pasa todos los días.
 
-**VERA**
-Despacio. Te vas a partir la cabeza el día antes de tu última prueba.
+Por delante de ella vuela **GIX** —una criatura pequeña de luz, mitad chispa, mitad travesura— y le lleva ventaja.
+
+Le está **ganando.**
+
+Stella calcula. El canal hace una curva. Gix va a seguirla.
+
+Ella **no.**
+
+Salta. Cruza el hueco por el aire, cae rodando en el otro tramo, se levanta sin frenar — y sale **por delante** del bicho.
 
 **STELLA**
-*(sin frenar, de espaldas)*
-Mamá, soy la mejor de mi nivel. Te voy a hacer sentir orgullosa.
+¡Eso cuenta!
 
-Stella se detiene de golpe. Algo enorme le tapa el sol.
+Gix, indignado, le suelta una pedorreta de luz en la cara.
 
-Es un **MECHA** colosal. Una máquina de guerra antigua, de cuando Erdia conquistaba mundos —ahora arrodillada para siempre, **cubierta de flores y enredaderas**. Un gigante dormido bajo un jardín.
-
-Stella lo mira hacia arriba, pequeñita.
-
-**STELLA (CONT.)**
-¿Por qué dejamos de hacerlo? Conquistar planetas. Éramos los más fuertes del cielo.
-
-Vera la alcanza. Esto sí lo dice en serio. Se agacha a su altura.
+ABAJO, caminando por el césped sin ninguna prisa, **VERA** (madre, ~40, pelo blanco recogido, ojos gris-azul).
 
 **VERA**
-Eso no es tan romántico como suena. Lo quisimos todo… y por poco nos quedamos sin nada.
-*(le muestra el río con la mano)*
+*(sin levantar la voz, sin mirar hacia arriba)*
+Baja de ahí.
+
+**STELLA**
+*(sigue corriendo)*
+Estoy entrenando.
+
+**VERA**
+Estás presumiendo.
+
+**STELLA**
+Se pueden hacer las dos cosas.
+
+**VERA**
+Mañana es tu última prueba. Si hoy te partes un tobillo, no hay prueba.
+
+**STELLA**
+No me voy a partir nada. Voy a quedar primera.
+*(y aquí sí se le nota la edad)*
+Y cuando quede primera, no me lo vas a poder seguir discutiendo.
+
+Algo enorme le tapa el sol.
+
+Stella frena en seco al borde del canal.
+
+Es un **MECHA** colosal. Una máquina de guerra antigua, de cuando Erdia conquistaba mundos —ahora arrodillada para siempre, **cubierta de flores y enredaderas.** Un gigante dormido debajo de un jardín.
+
+Y Stella hace lo que haría cualquiera de catorce años: **salta del canal a su hombro.**
+
+Se queda de pie allá arriba, sobre la cabeza de la cosa, mirando la ciudad.
+
+**STELLA (CONT.)**
+*(desde arriba)*
+¿Por qué dejamos de hacerlo?
+
+**VERA**
+¿De hacer qué?
+
+**STELLA**
+*(da un golpecito con el pie descalzo en el metal)*
+Esto. Conquistar. Éramos los más fuertes del cielo y ahora le sembramos flores encima.
+
+Vera se para justo debajo. **No sube. No le pide que baje.**
+
+Y esto sí lo dice en serio.
+
+**VERA**
+Porque lo quisimos todo. Y por poco nos quedamos sin nada.
+*(le señala el canal con la barbilla)*
 Una persona es como un río, Stella. Si lo represas para ti, se pudre.
 *(beat)*
 Y envenena a todos los que están aguas abajo.
 
-Stella asiente con la cabeza muy seria… y ya tiene los ojos en Gix otra vez, que la llama desde un árbol. Tiene catorce años. No lo entiende todavía.
+Stella la escucha. La escucha de verdad, dos segundos enteros.
 
-Vera lo nota. Sonríe con un poco de tristeza. La deja ir.
-
-**VERA (CONT.)**
-Voy por tu hermana. Nos vemos en casa para la cena.
+Y después hace lo que hace cualquier adolescente cuando una conversación se está poniendo importante: **la corta.**
 
 **STELLA**
-*(ya corriendo)*
-¡Dile a Selka que esta vez le gané a Gix!
+*(bajando de un salto, ya de espaldas)*
+Ya. Vale.
 
-Vera la ve alejarse, riendo, blanca contra el verde.
+*(No es que no lo entienda. Es que hoy no le da la gana entenderlo. Le van a hacer falta veinticuatro años para volver a esta frase.)*
 
-La cámara se queda en Vera mirándola. Una madre observando a su hija en el último día bueno de toda su vida —y solo nosotros lo sabemos.
+Vera lo nota. Y no insiste — porque cree que va a tener toda la vida para insistir.
+
+**VERA**
+Voy por tu hermana. En casa para la cena.
+
+**STELLA**
+*(ya corriendo otra vez, de espaldas)*
+¡Dile a Selka que hoy le gané a Gix!
+
+**VERA**
+¡Le voy a decir que hiciste trampa!
+
+**STELLA**
+*(sin girarse, levantando el pulgar)*
+¡Gané igual!
+
+Y se va corriendo entre la gente, **esquivando sin frenar**, sin pedir permiso, sin mirar a los lados.
+
+*(Exactamente igual que la vimos correr por el pasillo hace tres minutos y veinticuatro años.)*
+
+Vera se queda mirándola. Blanca contra el verde.
+
+Una madre viendo a su hija en el último día bueno de toda su vida. Y solo nosotros lo sabemos.
 
 ---
 

@@ -299,53 +299,118 @@ Silencio total. Sostener.
 
 ## SEC. 2 — EXT. PARQUE DE LA LUZAGUA, CIUDAD DORADA — DÍA
 
-CORTE BRUSCO a un cielo **azul, abierto, deslumbrante** —y una **carcajada** que rompe el silencio anterior como un vaso.
+CORTE BRUSCO del negro a un cielo **azul, abierto, deslumbrante.**
 
-**@STELLA** (14) corre por la hierba de un parque. Pelo blanco al viento, descalza, imparable. Junto a ella corre un río de **luzagua**: agua y luz a la vez, que la gente deja pasar entre las manos sin guardarla.
+Y lo que rompe el silencio no es una risa: es **un grito.** El grito de alguien que va demasiado rápido y a quien le encanta ir demasiado rápido.
 
-@Stella se toca un **brazalete** en la muñeca. Del aire se enciende **@GIX** —una pequeña criatura de luz, mitad chispa, mitad travesura— que escapa volando. @Stella va tras él, riendo, esquivando a la gente.
+**@STELLA** (14) corre por **el borde de un canal elevado** —un acueducto abierto por el que baja la **luzagua**, agua y luz a la vez—. Descalza, sobre piedra mojada, **a seis metros del suelo**, con los brazos abiertos.
 
-Detrás, sin apuro, camina **@VERA** (madre, ~40, pelo blanco recogido, ojos gris-azul).
+Abajo, la gente del parque ni levanta la cabeza. Esto pasa todos los días.
 
-**@VERA**
-Slow down. You'll crack your head open the day before your final trial.
+Por delante de ella vuela **@GIX** —una criatura pequeña de luz, mitad chispa, mitad travesura— y le lleva ventaja.
+
+Le está **ganando.**
+
+@Stella calcula. El canal hace una curva. @Gix va a seguirla.
+
+Ella **no.**
+
+Salta. Cruza el hueco por el aire, cae rodando en el otro tramo, se levanta sin frenar — y sale **por delante** del bicho.
 
 **@STELLA**
-*(sin frenar, de espaldas)*
-Mama, I'm the best in my class. I'm going to make you proud.
+That counts!
 
-@Stella se detiene de golpe. Algo enorme le tapa el sol.
+@Gix, indignado, le suelta una pedorreta de luz en la cara.
 
-Es un **MECHA** colosal. Una máquina de guerra antigua, de cuando Erdia conquistaba mundos —ahora arrodillada para siempre, **cubierta de flores y enredaderas**. Un gigante dormido bajo un jardín.
-
-@Stella lo mira hacia arriba, pequeñita.
-
-**@STELLA (CONT.)**
-Why did we stop? Conquering planets. We were the strongest thing in the sky.
-
-@Vera la alcanza. Esto sí lo dice en serio. Se agacha a su altura.
+ABAJO, caminando por el césped sin ninguna prisa, **@VERA** (madre, ~40, pelo blanco recogido, ojos gris-azul).
 
 **@VERA**
-That isn't as romantic as it sounds. We wanted all of it… and we nearly ended up with nothing.
-*(le muestra el río con la mano)*
+*(sin levantar la voz, sin mirar hacia arriba)*
+Get down from there.
+
+**@STELLA**
+*(sigue corriendo)*
+I'm training.
+
+**@VERA**
+You're showing off.
+
+**@STELLA**
+You can do both.
+
+**@VERA**
+Tomorrow is your last trial. Break an ankle today and there is no trial.
+
+**@STELLA**
+I'm not going to break anything. I'm going to finish first.
+*(y aquí sí se le nota la edad)*
+And when I finish first, you don't get to keep arguing about it.
+
+Algo enorme le tapa el sol.
+
+@Stella frena en seco al borde del canal.
+
+Es un **MECHA** colosal. Una máquina de guerra antigua, de cuando Erdia conquistaba mundos —ahora arrodillada para siempre, **cubierta de flores y enredaderas.** Un gigante dormido debajo de un jardín.
+
+Y @Stella hace lo que haría cualquiera de catorce años: **salta del canal a su hombro.**
+
+Se queda de pie allá arriba, sobre la cabeza de la cosa, mirando la ciudad.
+
+**@STELLA (CONT.)**
+*(desde arriba)*
+Why did we stop doing it?
+
+**@VERA**
+Stop doing what?
+
+**@STELLA**
+*(da un golpecito con el pie descalzo en el metal)*
+This. Conquering. We were the strongest thing in the sky, and now we grow flowers on it.
+
+@Vera se para justo debajo. **No sube. No le pide que baje.**
+
+Y esto sí lo dice en serio.
+
+**@VERA**
+Because we wanted all of it. And we almost ended up with nothing.
+*(le señala el canal con la barbilla)*
 A person is like a river, @Stella. Dam it up for yourself, and it rots.
 *(beat)*
 And it poisons everyone downstream.
 
-@Stella asiente con la cabeza muy seria… y ya tiene los ojos en @Gix otra vez, que la llama desde un árbol. Tiene catorce años. No lo entiende todavía.
+@Stella la escucha. La escucha de verdad, dos segundos enteros.
 
-@Vera lo nota. Sonríe con un poco de tristeza. La deja ir.
-
-**@VERA (CONT.)**
-I'm going to get your sister. See you at home for dinner.
+Y después hace lo que hace cualquier adolescente cuando una conversación se está poniendo importante: **la corta.**
 
 **@STELLA**
-*(ya corriendo)*
-Tell @Selka I beat @Gix this time!
+*(bajando de un salto, ya de espaldas)*
+Yeah. Fine.
 
-@Vera la ve alejarse, riendo, blanca contra el verde.
+*(No es que no lo entienda. Es que hoy no le da la gana entenderlo. Le van a hacer falta veinticuatro años para volver a esta frase.)*
 
-La cámara se queda en @Vera mirándola. Una madre observando a su hija en el último día bueno de toda su vida —y solo nosotros lo sabemos.
+@Vera lo nota. Y no insiste — porque cree que va a tener toda la vida para insistir.
+
+**@VERA**
+I'm going to get your sister. Home for dinner.
+
+**@STELLA**
+*(ya corriendo otra vez, de espaldas)*
+Tell @Selka I beat @Gix today!
+
+**@VERA**
+I'm going to tell her you cheated!
+
+**@STELLA**
+*(sin girarse, levantando el pulgar)*
+I won anyway!
+
+Y se va corriendo entre la gente, **esquivando sin frenar**, sin pedir permiso, sin mirar a los lados.
+
+*(Exactamente igual que la vimos correr por el pasillo hace tres minutos y veinticuatro años.)*
+
+@Vera se queda mirándola. Blanca contra el verde.
+
+Una madre viendo a su hija en el último día bueno de toda su vida. Y solo nosotros lo sabemos.
 
 ---
 
