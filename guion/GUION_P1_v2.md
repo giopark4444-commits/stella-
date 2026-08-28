@@ -217,7 +217,7 @@ Es **ENKO**. Boca arriba, con los ojos abiertos a un cielo que se apaga.
 
 Se lo echa al hombro igual.
 
-Y la cámara **se levanta con ella** y la acompaña, sin soltarla, mientras lo saca de ahí **cargándolo entero**, cojeando, apartando máquinas a patadas con la pierna buena. Lo sienta contra un muro. Le cierra los ojos con dos dedos.
+Y la cámara **se levanta con ella** y la acompaña, sin soltarla, mientras lo saca de ahí **cargándolo entero**, cojeando, apartando máquinas a patadas con la pierna buena. Lo sienta contra un muro. Y le baja los párpados **con los mismos dos dedos** con los que acaba de buscarle el pulso.
 
 Y **vuelve a la línea.**
 
@@ -1647,7 +1647,7 @@ Entre los que ya no están de pie, **ENKO**.
 
 **GARA** le busca el pulso dos segundos que no tiene. No lo encuentra.
 
-**Se lo echa al hombro igual**, lo saca de la línea cargándolo entero y lo sienta contra un muro. Le cierra los ojos con dos dedos.
+**Se lo echa al hombro igual**, lo saca de la línea cargándolo entero y lo sienta contra un muro. Y le baja los párpados **con los mismos dos dedos** con los que acaba de buscarle el pulso.
 
 Y **vuelve a la línea.**
 
