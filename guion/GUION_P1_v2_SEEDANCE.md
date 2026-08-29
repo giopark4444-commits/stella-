@@ -959,6 +959,15 @@ Y a su izquierda, un **ROBOT DEMOLEDOR** de tres metros, que tiene que agachar l
 
 Se miran a través de la sala. Una carrera de un solo latido.
 
+Y el Rey **no corre.** Dice una palabra, sin levantar la voz, casi con pereza:
+
+**@VORTHAN**
+Ataquen.
+
+Y los dos **salen disparados.**
+
+Vuelan. **A toda velocidad.** El cazador por delante, rasante — y detrás, tres metros de máquina cruzando una catedral por el aire.
+
 **@VERA**
 ¡Ve por el Orbe! ¡AHORA!
 
