@@ -64,6 +64,10 @@
 >   de la sala del Orbe, rota y temblorosa, **cerrándose alrededor de su hija y no de ella.**
 > • **AHUECAR LA PALMA es de STELLA**, y es lo que Selka reconoce en la SEC 24: lo vio en el parque,
 >   cuando su hermana la llamó con la luz para que caminara hacia ella.
+> • **FUERA DE ERDIA NADIE SABE LO DEL ORBE.** Nunca la llaman «la ladrona del Orbe» ni nada que lo
+>   revele: **solo saben que su cabeza vale una fortuna** que no paga ningún gobierno conocido. La
+>   primera vez que alguien de fuera lo ve es cuando **se arranca el collar en la fosa**, delante de
+>   tres mil apostadores. Dentro de Erdia sí es «la ladrona», porque esa es la versión del Rey.
 > • **LA LLAVE VA EN LA PALMA IZQUIERDA. SIEMPRE.** Ahí se la graba Naio, ahí se integra el Orbe, de
 >   ahí se lo arranca Selka en la SEC 27, y esa es la mano abierta cuya luz se apaga en la apertura
 >   en frío. **El Orbe nunca vive en el brazalete:** el brazalete es de Gix.
@@ -1518,7 +1522,13 @@ Se lo llevan a él también.
 
 Una estación-mercado en el confín de la galaxia. Subastas de esclavos. Y abajo, el corazón del negocio: **LA FOSA** —un pozo de combate rodeado de gradas donde se apuesta a muerte.
 
-Un presentador anuncia a la "ladrona del Orbe, la criminal más buscada del sector." Las gradas rugen. Stella, en el centro, todavía con el collar puesto, busca una salida que no existe.
+Un presentador la anuncia como **la cabeza más cara del sector.**
+
+No dice su nombre. No dice de dónde viene. No dice qué hizo. **Solo dice cuánto vale** — y la cifra es tan alta que las gradas rugen.
+
+*(Aquí nadie sabe lo del Orbe. Fuera de Erdia nadie lo sabe. Solo saben que hay una recompensa por esa chica que no la paga ningún gobierno conocido, y eso ya es suficiente para venir a verla morir.)*
+
+Stella, en el centro, todavía con el collar puesto, busca una salida que no existe.
 
 Por una reja se abre el lado opuesto del pozo. Empujan a su oponente.
 
@@ -1542,7 +1552,15 @@ Es una oferta.
 *(beat — decide)*
 Entonces vas a tener que ayudarme a salir de aquí.
 
-Y en vez de pelear entre ellos, los dos se giran hacia los guardias. Stella arranca el collar de un tirón —el Orbe vuelve a encenderse en su mano— y la fosa se convierte en una fuga.
+Y en vez de pelear entre ellos, los dos se giran hacia los guardias.
+
+Stella **arranca el collar de un tirón.**
+
+Y el **Orbe vuelve a encenderse en su mano** — delante de tres mil personas que acababan de apostar por su muerte.
+
+*(Y esa es la primera vez que alguien fuera de Erdia ve lo que esa chica lleva dentro. En un pozo de apuestas, con las gradas llenas.)*
+
+La fosa se convierte en una fuga.
 
 ---
 

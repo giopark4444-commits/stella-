@@ -1351,7 +1351,13 @@ Se lo llevan a él también.
 
 Una estación-mercado en el confín de la galaxia. Subastas de cautivos. Y abajo, el corazón del negocio: **LA FOSA** —un pozo de combate rodeado de gradas donde se apuesta al último en pie.
 
-Un presentador anuncia a la "ladrona del Orbe, la criminal más buscada del sector." Las gradas rugen. @Stella, en el centro, todavía con el collar puesto, busca una salida que no existe.
+Un presentador la anuncia como **la cabeza más cara del sector.**
+
+No dice su nombre. No dice de dónde viene. No dice qué hizo. **Solo dice cuánto vale** — y la cifra es tan alta que las gradas rugen.
+
+*(Aquí nadie sabe lo del Orbe. Fuera de Erdia nadie lo sabe. Solo saben que hay una recompensa por esa chica que no la paga ningún gobierno conocido, y eso ya es suficiente para venir a verla morir.)*
+
+@Stella, en el centro, todavía con el collar puesto, busca una salida que no existe.
 
 Por una reja se abre el lado opuesto del pozo. Empujan a su oponente.
 
@@ -1375,7 +1381,15 @@ It's an offer.
 *(beat — decide)*
 Then you're going to have to help me get out of here.
 
-Y en vez de pelear entre ellos, los dos se giran hacia los guardias. @Stella arranca el collar de un tirón —el Orbe vuelve a encenderse en su mano— y la fosa se convierte en una fuga.
+Y en vez de pelear entre ellos, los dos se giran hacia los guardias.
+
+@Stella **arranca el collar de un tirón.**
+
+Y el **Orbe vuelve a encenderse en su mano** — delante de tres mil personas que acababan de apostar por su muerte.
+
+*(Y esa es la primera vez que alguien fuera de Erdia ve lo que esa chica lleva dentro. En un pozo de apuestas, con las gradas llenas.)*
+
+La fosa se convierte en una fuga.
 
 ---
 
