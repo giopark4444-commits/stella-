@@ -851,7 +851,11 @@ Mientras, **S1G1** va a por Vera.
 
 Y esto ya no es una pelea. Vera aguanta lo que puede **con una hija en el brazo** — y el asesino **la masacra.**
 
-Stella lo ve desde el suelo. Y empieza a **arrastrarse hacia su madre.**
+Stella lo ve desde el suelo. Y hace exactamente lo contrario de lo que le dijeron:
+
+empieza a **arrastrarse hacia su madre.**
+
+*(Le acaban de dar una sola regla y la rompe en el primer minuto. **Va a seguir rompiéndolas durante veinticuatro años.**)*
 
 Vorthan la mira arrastrarse. Y se le suaviza la voz.
 
@@ -890,6 +894,10 @@ Las partículas se multiplican, se ordenan, se llenan de luz —y en dos segundo
 
 Vorthan deja de reírse.
 
+Y por un segundo —**el único de toda la secuencia**— nadie se mueve. Ni las máquinas, ni el Rey, ni ella.
+
+*(Es la primera vez en la película que Vorthan mira algo que no esperaba.)*
+
 Stella se sube a él. **Y cabalga.**
 
 Gix atraviesa el salón reventando todo lo que se le pone delante, con ella agarrada a un lomo hecho de partículas.
@@ -904,9 +912,15 @@ Y **la sala se queda a oscuras.**
 
 *(La única luz que había aquí dentro se acaba de ir con ella.)*
 
-Vorthan levanta la mano. Y lo que sale de ella **va a matarla.**
+Vorthan levanta la mano.
+
+*(No para matarla. **No puede.** Ese Orbe está encriptado dentro de esa niña y no sale de ahí sin ella. Lo que le lanza es para **tumbarla y quitársela del cuerpo.**)*
+
+Y viene algo enorme hacia ella.
 
 Pero **Gix se atraviesa.**
+
+*(Gix no calcula. Ve una cosa enorme yendo hacia ella y se pone delante.)*
 
 El animal de luz recibe el golpe entero. Y **se deshace.**
 
@@ -929,6 +943,8 @@ MAMA!
 Stella se levanta. Y por primera vez en su vida **se siente fuerte.** Tiene el Orbe en la mano. Tiene a Gix dentro del pecho.
 
 Y quiere ir.
+
+*(Y aquí está la broma cruel de toda su vida: la única vez que desobedeció fue cuando no podía hacer nada. Ahora que **sí puede**, va a obedecer.)*
 
 Pero su madre, tirada, con la bebé ya en brazos de otro, levanta el brazo por última vez.
 
