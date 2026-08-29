@@ -128,6 +128,9 @@ How would that same general look after losing an arm and everything she believed
 ### @SelkaNiña — @Selka de niña 🔒
 How would a small alien child look, sweet and completely innocent? Show me 4 examples. Ghibly style and water color painting.
 
+### @GixGrande — @Gix del tamaño de una montura 🆕
+How would that same particle spirit look after it grows, big enough for a girl to ride on its back, taller than a three-meter machine? Show me 4 examples. Not humanoid — a creature. Ghibly style and water color painting.
+
 ### @Gix — el axolote de luz
 How would a small friendly spirit look that is made of drifting particles of water and light held together in the shape of an axolotl, so that its edges never quite settle? Show me 4 examples. Not humanoid — a creature. Ghibly style and water color painting.
 

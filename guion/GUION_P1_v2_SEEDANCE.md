@@ -39,10 +39,16 @@
 >   de operador. El movimiento siempre es mecánico y con masa.
 > • **EL ORBE ES LA ÚNICA LUZ DE SU SALA.** Todo el mundo está silueteado contra lo que todos quieren,
 >   y cuando @Stella se lo lleva **la sala se queda a oscuras** — y su madre se queda dentro.
-> • **EL ESCUDO NO PROTEGE: EMPUJA.** El último de @Vera no es una cúpula sobre nadie: lo tira
->   atravesado en la sala **abriendo un camino de luz hasta el Orbe**, y se apaga en el segundo
->   exacto en que su hija lo toca. Y a @Stella **no la suelta nadie: se suelta ella**, cortándose la
->   trenza.
+> • **@GIX SE INVOCA, CRECE Y SE MONTA.** Sale del brazalete del tamaño de una mano —@Vorthan se ríe—
+>   y **crece hasta ser más grande que el demoledor** (`@GixGrande`). @Stella **lo cabalga** hasta el
+>   Orbe. Después **se atraviesa** delante del golpe del Rey, se deshace, y **todas sus partículas
+>   entran en el cuerpo de @Stella**: ahí vive los veinticuatro años siguientes. Es también el origen
+>   de la **brasa** que @Vorthan ve en el clímax.
+> • **A @STELLA LA REVIENTA EL DEMOLEDOR** justo antes de tocar el Orbe: un golpe que la manda a
+>   veinte metros y un **impacto contra el suelo que destruye el piso entero del salón**. De ahí sale
+>   muy mal herida — y de ahí sale la trenza atrapada bajo una placa, que es **por qué se la corta.**
+> • **EL ÚLTIMO PODER DE @VERA NO PROTEGE: REVIENTA.** Una descarga que le sale del cuerpo entero y
+>   tira al Rey, al demoledor y a @S1G1 — todo menos a su hija. Ese hueco es por donde @Stella sale.
 > • **A @VERA LA MATA @VORTHAN, NO @S1G1.** El Rey entra por otra puerta con **@S1G1** y un **robot
 >   demoledor de tres metros** (`@RobotDemoledor`). El demoledor la tumba; el Rey camina hasta ella
 >   **con @Stella colgando del pelo**, le quita la hoja a @S1G1 sin mirarlo, y la atraviesa él mismo
@@ -982,142 +988,158 @@ Y a su izquierda, un **ROBOT DEMOLEDOR** de tres metros, que tiene que agachar l
 
 Se miran a través de la sala. Una carrera de un solo latido.
 
-Y el Rey **no corre.** Dice una palabra, sin levantar la voz, casi con pereza:
-
-**@VORTHAN**
-Ataquen.
-
-Y los dos **salen disparados.**
-
-Vuelan. **A toda velocidad.** El cazador por delante, rasante — y detrás, tres metros de máquina cruzando una catedral por el aire.
+Y @Stella **no espera.**
 
 **@VERA**
 ¡Ve por el Orbe! ¡AHORA!
 
-@Stella arranca hacia la esfera. Pero **el demoledor se le cruza a @Vera** y la aparta de su hija de un solo movimiento del brazo.
+@Stella cruza la sala a toda velocidad y **salta.** Las manos por delante. A un metro de la esfera.
 
-@Vera lo ve venir. Y entiende que esto ya no es una pelea. Es una ejecución.
-
-Mira a la bebé. Busca dónde dejarla.
-
-**Y no la suelta.**
-
-*(No la ha soltado desde el laboratorio. No la va a soltar ahora.)*
-
-Se planta frente a tres metros de máquina **con su hija en un brazo.**
-
-Pelea de verdad. Le mete el escudo en la cara, lo desequilibra, le gana dos metros. Da todo lo que tiene. Y da todo lo que tiene **con la mitad del cuerpo ocupada.**
-
-No alcanza. Y no iba a alcanzar nunca.
-
-El demoledor la **tumba** de un golpe. @Vera cae —y aun cayendo, se gira en el aire para **caer encima de @Selka y no debajo.**
-
-**@VERA (CONT.)**
-*(en el suelo, gritando)*
-¡@STELLA, CORRE! ¡NO MIRES ATRÁS!
-
-@Stella está a tres pasos del Orbe. La mano extendida.
-
-Y **no obedece.**
-
-Se da media vuelta y corre hacia su madre con toda su fuerza. Rompe la única regla. Por amor.
-
-**@VERA (CONT.)**
-¡NO! ¡NO TE ACERQUES!
-
-Demasiado tarde. **@VORTHAN** la intercepta. La atrapa **por la trenza** y la levanta del piso, dejándola colgando, inmóvil, pataleando en el aire.
-
-@Stella llora de rabia y de impotencia. El Rey, sosteniéndola del pelo, **ríe** por lo bajo.
+Y el Rey, sin moverse del sitio, sin levantar la voz, casi con pereza:
 
 **@VORTHAN**
-*(suave, casi paternal)*
-Tan parecida a tu madre. Corriendo hacia lo que ama.
+Ataquen.
+
+Y los dos **salen disparados. Vuelan.**
+
+**EL DEMOLEDOR LA ALCANZA EN EL AIRE.**
+
+Un solo golpe. Y @Stella sale despedida **como un trapo** y se estrella contra el suelo a veinte metros de lo que iba a tocar.
+
+Y la máquina no para ahí. Levanta los dos brazos por encima de la cabeza —y **los estrella contra el piso.**
+
+**TODO EL SUELO DEL SALÓN REVIENTA.**
+
+La piedra se levanta en placas, se parte, se hunde. Una sala del tamaño de una catedral convertida en escombro de un solo golpe.
+
+Y en medio de eso, boca abajo entre las losas, **@Stella. Muy mal herida.** No se levanta.
+
+Mientras, **@S1G1** va a por @Vera.
+
+Y esto ya no es una pelea. @Vera aguanta lo que puede **con una hija en el brazo** — y el cazador **la masacra.**
+
+@Stella lo ve desde el suelo. Y empieza a **arrastrarse hacia su madre.**
+
+@Vorthan la mira arrastrarse. Y se le suaviza la voz.
+
+**@VORTHAN (CONT.)**
+Tan parecida a tu madre. Arrastrándose hacia lo que ama.
 *(beat)*
 Por eso siempre pierden.
 
-Y entonces el Rey hace algo que nadie esperaba que hiciera él.
-
-**Camina hasta ella**, con @Stella colgando de la mano como una bolsa, y se para encima de @Vera.
-
-Le **quita la hoja a @S1G1** sin mirarlo —como quien coge algo de una mesa al pasar.
-
-Y **atraviesa a @Vera por la espalda él mismo.**
-
-*(No manda hacerlo. No lo delega. Lo hace con su hija de catorce años a un metro, sujeta del pelo, obligada a mirar.)*
-
-**@STELLA**
-*(un grito que se rompe)*
-¡MAMÁ!
-
-Y entonces @Vera, atravesada, en el suelo, hace **lo último que va a hacer con su cuerpo.**
-
-Levanta **el brazo libre.** El otro sigue teniendo a @Selka debajo.
-
-**EL ESCUDO.** Lo suyo. Lo que la hizo famosa cuando peleaba.
-
-Y no lo levanta alrededor de sí misma. **Ni siquiera alrededor de su hija.**
-
-Lo tira **atravesado en la sala**, temblando, sin cerrar por ningún lado — **abriendo un camino de luz desde donde cuelga @Stella hasta el Orbe.**
-
-*(Un brazo para una hija. Un brazo para la otra. **Y ninguno para ella.**)*
-
-*(Y ahí abajo, apretada contra su madre, **@SELKA lo está viendo.** Tiene un año. No lo va a recordar.)*
-
-@Vera la mira. Sostiene eso con la vida que se le escapa. Y mueve los labios una última vez:
-
 **@VERA**
-*(sin casi voz)*
-Huye.
+*(destrozada, gritando)*
+¡NO! ¡EL ORBE! ¡VE POR EL ORBE!
 
-@Stella, colgada del pelo, atrapada, ve **a un metro de distancia** cómo su madre **deja de moverse**.
+@Stella tira para levantarse. Y no puede.
 
-*(Ojo: la película nunca dice que @Vera muere. @Stella lo cree. Nosotros lo creemos. Y en la SEC 19 vamos a descubrir que estuvo tres días tirada en ese suelo antes de que @Marek entrara por ella.)*
+Tiene **la trenza atrapada debajo de una placa** del piso reventado.
 
-Y hace lo único que puede hacer. Saca de su traje un **cuchillo láser.** Se lo lleva a la nuca. Y **se corta la trenza** de un tajo.
-
-Cae libre al piso.
+Saca de su traje un **cuchillo láser.** Se lo lleva a la nuca. Y **se corta la trenza de un tajo.**
 
 *(Nadie la suelta. **Se suelta ella.**)*
 
----
+Y entonces, de rodillas entre los escombros, con lo poco que le queda, **@Stella se toca el brazalete.**
 
-## SEC. 6 — INT. SALA DEL ORBE — CONTINUO
+**@GIX.**
 
-@Stella rueda, se levanta, y ahora sí corre hacia el **Orbe** —rota por dentro, los ojos inundados, pero corriendo.
+Sale del tamaño de una mano. Una criatura de partículas de luz con forma de axolote, temblando en el aire, diminuta en medio de una catedral rota.
 
-Y corre **por dentro del camino que le abrió su madre.**
+Y **@Vorthan se ríe.**
 
-A los dos lados, las descargas de media sala rebotan contra esa pared temblorosa de luz. Ninguna la toca.
+**@VORTHAN (CONT.)**
+*(divertido de verdad)*
+…¿Eso?
 
-*(Su madre no la está protegiendo. La está **empujando.**)*
+Y @Gix **crece.**
 
-Y **toma el Orbe.**
+Las partículas se multiplican, se ordenan, se llenan de luz —y en dos segundos hay en esa sala un animal de luz **más grande que el demoledor.**
+
+@Vorthan deja de reírse.
+
+@Stella se sube a él. **Y cabalga.**
+
+@Gix atraviesa el salón reventando todo lo que se le pone delante, con ella agarrada a un lomo hecho de partículas.
+
+Directo al Orbe.
+
+**Y @Stella lo toma.**
 
 En el segundo exacto en que sus dedos lo tocan, la **llave de su palma** se enciende. La esfera se integra, se hace pequeña, late en su mano. La **muñequera marca: "MAX".**
 
 Y **la sala se queda a oscuras.**
 
-*(La única luz que había aquí dentro **se acaba de ir con ella**. Y el escudo de su madre, en el mismo segundo, se apaga.)*
+*(La única luz que había aquí dentro se acaba de ir con ella.)*
 
-Los propulsores del traje rugen. @Stella despega hacia un **ducto estrecho** en lo alto del techo —la única salida.
+@Vorthan levanta la mano. Y lo que sale de ella **va a acabar con.**
+
+Pero **@Gix se atraviesa.**
+
+El animal de luz recibe el golpe entero. Y **se deshace.**
+
+Y todas sus partículas, en vez de dispersarse por el aire, **entran en el cuerpo de @Stella.**
+
+*(Acaba de darle todo lo que era. A partir de este segundo **vive dentro de ella**, y ahí se va a quedar veinticuatro años.)*
+
+Y el Rey **salta.**
+
+Cruza el salón reventado de un solo salto y cae al lado de @Vera.
+
+**Le quita a @Selka de los brazos.**
+
+Y a ella la remata **de un solo golpe.**
+
+**@STELLA**
+*(un grito que se rompe)*
+¡MAMÁ!
+
+@Stella se levanta. Y por primera vez en su vida **se siente fuerte.** Tiene el Orbe en la mano. Tiene a @Gix dentro del pecho.
+
+Y quiere ir.
+
+Pero su madre, tirada, con la bebé ya en brazos de otro, levanta el brazo por última vez.
+
+**@VERA**
+*(sin casi voz)*
+Huye.
+
+Y hace **lo último que le queda.**
+
+No un escudo. Nada que proteja a nadie. Una descarga que le sale del cuerpo entero y **revienta hacia afuera** — y tira al Rey, tira al demoledor, tira a @S1G1, tira todo lo que hay de pie a veinte metros a la redonda.
+
+Todo menos a su hija.
+
+Y **deja de moverse.**
+
+*(Ojo: la película nunca dice que @Vera muere. @Stella lo cree. Nosotros lo creemos. Y en la SEC 19 vamos a descubrir que estuvo tres días tirada en ese suelo antes de que @Marek entrara por ella.)*
+
+---
+
+## SEC. 6 — INT. SALA DEL ORBE — CONTINUO
+
+Y en ese hueco que su madre acaba de abrir a golpes, **@Stella sale disparada.**
+
+Un **dash** en vertical, con los propulsores del traje a fondo, hacia un **ducto estrecho** en lo alto del techo —la única salida.
 
 Antes de entrar, una fracción de segundo, **mira hacia abajo.**
 
-Ve a su madre, tirada, quieta. Y ve **el bulto que se mueve debajo de ella**: su hermana, llorando, atrapada bajo el cuerpo que la tapó al caer.
+Ve a su madre, tirada entre las losas rotas, quieta.
+
+Y ve a **su hermana** — llorando, **en los brazos del hombre que acaba de hacer todo esto.**
 
 Las ve por **última vez.**
 
 Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinticuatro años después va a volver a entrar por aquí, en dirección contraria.)*
 
-**@S1G1** dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas—
+**@S1G1** se levanta, dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas—
 
 —y se **atasca** en el orificio. Forcejea. Chispas. **EXPLOTA.**
 
 La onda escupe a @Stella por el otro lado, al cielo abierto.
 
-ABAJO, en la sala: @Vera **boca abajo en el piso, sin moverse**, con la bebé llorando **debajo de ella.**
+ABAJO, en la sala a oscuras: @Vera **boca abajo entre los escombros, sin moverse.**
 
-**@VORTHAN** se acerca sin prisa. Le **aparta el brazo a @Vera** para sacar a la niña. Y **levanta a @Selka.** La bebé se calla, mirándolo.
+**@VORTHAN** se levanta del suelo sacudiéndose, **con la bebé todavía en un brazo.** @Selka ha dejado de llorar. Lo mira.
 
 Dos robots se inclinan a recoger el cuerpo de @Vera. El Rey los detiene con un gesto.
 
