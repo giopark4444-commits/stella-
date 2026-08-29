@@ -51,7 +51,10 @@
 >   debajo. **No la deja ni una vez en toda la película.** Por eso pelea siempre a un brazo — y por eso
 >   pierde contra @S1G1: no es que fuera peor, es que tenía la mitad del cuerpo ocupada.
 > • **CADA UNO PELEA CON LO SUYO. El de @VERA es EL ESCUDO** (`@EscudoVera`): una cúpula de luz que
->   abre **con un solo brazo, y por eso nunca le sale entera.** Se ve una vez en la huida —funcional, cuesta— y una segunda vez en el suelo
+>   abre **con un solo brazo, y por eso nunca le sale entera.** Ese lado abierto no es un defecto:
+>   es **el mango.** Madre e hija lo usan de **arado** en la huida —@Vera lo lanza, @Stella lo empuja
+>   con los propulsores— y revienta la línea imperial de frente al objetivo. **El humo de esa
+>   explosión es donde va el corte.** Se ve una vez en la huida —funcional, cuesta— y una segunda vez en el suelo
 >   de la sala del Orbe, rota y temblorosa, **cerrándose alrededor de su hija y no de ella.**
 > • **AHUECAR LA PALMA es de @STELLA**, y es lo que @Selka reconoce en la SEC 24: lo vio en el parque,
 >   cuando su hermana la llamó con la luz para que caminara hacia ella.
@@ -935,15 +938,27 @@ Y @Stella, corriendo, entiende una cosa que le va a doler el resto de su vida: *
 
 Antes de la carrera. Antes de reírse. Antes de hacerla repetir la frase tres veces.
 
-Una pared estalla —y **@Vera levanta el brazo libre sin dejar de correr.**
+Y al fondo del pasillo, **una línea imperial les cierra el paso.** No hay por dónde rodearla.
 
-Una **media cúpula de luz** se cierra un segundo sobre las tres y los escombros le rebotan encima. Después se apaga.
+Las dos lo ven a la vez. Y hacen lo mismo a la vez, sin mirarse, **como quien lleva años haciéndolo.**
 
-*(Es lo suyo. Y nunca le sale entera, porque **el otro brazo siempre tiene una hija dentro.** Lleva catorce años peleando con un solo brazo y no ha pensado en ello ni una vez.)*
+**@VERA tira el escudo hacia adelante** —ya no como una cúpula: **como un arado**— y **@STELLA enciende los propulsores** y lo empuja desde atrás con el hombro.
 
-Por el boquete entran los primeros **robots.**
+*(El escudo de ella nunca cierra por un lado. Y su hija acaba de aprender que ese lado abierto **es un mango.**)*
 
-@Vera y @Stella pelean a la vez que avanzan —@Vera con un brazo cubriendo a la bebé, @Stella moviéndose con la agilidad de quien entrenó toda su vida para una prueba que no era esta. Se abren paso.
+La media cúpula entra en la línea a toda velocidad, **DE FRENTE AL OBJETIVO.**
+
+Y revienta.
+
+**FOGONAZO. TODO BLANCO. HUMO.**
+
+Y las dos **entran en el humo.**
+
+*(Aquí se corta. El humo tapa la costura.)*
+
+SALEN DEL HUMO peleando. @Vera con un brazo cubriendo a la bebé, @Stella moviéndose con la agilidad de quien entrenó toda su vida para una prueba que no era esta.
+
+Se abren paso.
 
 Al fondo: las puertas de la **SALA DEL ORBE.**
 
