@@ -1552,13 +1552,35 @@ Es una oferta.
 *(beat — decide)*
 Entonces vas a tener que ayudarme a salir de aquí.
 
-Y en vez de pelear entre ellos, los dos se giran hacia los guardias.
+**@STELLA**
+Con esto puesto no le sirvo a nadie.
 
-@Stella **arranca el collar de un tirón.**
+Y hace algo que las gradas no entienden.
 
-Y el **Orbe vuelve a encenderse en su mano** — delante de tres mil personas que acababan de apostar por su muerte.
+**Se da la vuelta. Le da la espalda.** Y levanta la barbilla para dejarle el cuello a la vista.
+
+**@STELLA (CONT.)**
+El collar.
+
+Silencio arriba. Y después un rugido: el público cree que se está entregando.
+
+@Noah se queda mirando lo que tiene delante. **Una hoja de luz encendida en su mano. Y el cuello desnudo de la mujer que acaba de negarse a acabar con.**
+
+*(Puede degollarla ahora mismo. Puede cobrar la recompensa entera él solo. Puede salir de aquí rico. Y ella lo sabe: por eso se dio la vuelta.)*
+
+@Noah mira la hoja. Mira las gradas. Mira esa nuca.
+
+Y **corta el collar.**
+
+El aro cae al piso partido en dos — y el **Orbe vuelve a encenderse en la mano de @Stella**, delante de tres mil personas que acababan de apostar por su muerte.
 
 *(Y esa es la primera vez que alguien fuera de Erdia ve lo que esa chica lleva dentro. En un pozo de apuestas, con las gradas llenas.)*
+
+@Stella se gira hacia él. Y ya no se miran como dos que van a pelear.
+
+*(Le dio la espalda a un desconocido con un arma encendida. Él eligió armarla. **Eso es todo lo que va a hacer falta durante los veinticuatro años siguientes.**)*
+
+Y en vez de pelear entre ellos, los dos se giran hacia los guardias.
 
 La fosa se convierte en una fuga.
 

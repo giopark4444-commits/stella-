@@ -10,7 +10,8 @@
 > El único desvío que se mantiene es el de **especie**, porque cambia el resultado por completo:
 > - **Naieli** (la familia, @Korin, @Lessa, @Marek) → sin desvío, salen cercanos a lo humano.
 > - **@Theron, Brogu, @Nima, @Vosk, cazarrecompensas** → *clearly not human*.
-> - **@Noah y los tres pilotos** → *human*. Es punto de trama: @Noah se parece a la gente de @Stella.
+> - **@Noah** → *human*. Es punto de trama: @Noah se parece a la gente de @Stella.
+> - **Los tres pilotos** → **de la gente de @Stella, NO humanos.** No tienen relación con @Noah.
 > - **@Gix, el Parásito, los robots** → *not humanoid / not human technology*.
 
 ---
@@ -36,13 +37,13 @@ How would the scientist of an alien king look, on the day he learns what his kin
 How would a one-year-old baby of an alien people look? Show me 4 examples. Ghibly style and water color painting.
 
 ### @Piloto1 — piloto aliada
-How would a fighter pilot look who already knows she is not coming back? Show me 4 examples. Human. Ghibly style and water color painting.
+How would a fighter pilot look who already knows she is not coming back? Show me 4 examples. Of the same alien people as the family. Ghibly style and water color painting.
 
 ### @Piloto2 — segundo piloto
-How would a second fighter pilot look, clearly a different person from the first? Show me 4 examples. Human. Ghibly style and water color painting.
+How would a second fighter pilot look, clearly a different person from the first? Show me 4 examples. Of the same alien people as the family. Ghibly style and water color painting.
 
 ### @Piloto3 — tercer piloto
-How would a third fighter pilot look, different again from the other two? Show me 4 examples. Human. Ghibly style and water color painting.
+How would a third fighter pilot look, different again from the other two? Show me 4 examples. Of the same alien people as the family. Ghibly style and water color painting.
 
 ### @S1G1 — el robot cazador
 How would an alien assassin machine look, built to end one person quietly? Show me 4 examples. Not human technology. Ghibly style and water color painting.
