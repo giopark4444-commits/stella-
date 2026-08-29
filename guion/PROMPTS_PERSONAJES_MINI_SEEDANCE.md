@@ -134,6 +134,9 @@ How would a small friendly spirit look that is made of drifting particles of wat
 ### @Vorthan — el Rey
 How would an alien king look who has not aged in centuries, and whom his people worship as a god? Show me 4 examples. Ghibly style and water color painting.
 
+### @RobotDemoledor — el de tres metros 🆕
+How would the machine look that an empire keeps for tearing buildings down, three meters tall, that has to duck to get through a door? Show me 4 examples. Not human technology. Never white. Ghibly style and water color painting.
+
 ### @RobotImperial — los cuatro tipos juntos 🆕
 How would the four different machine types of one alien army look side by side, so you can tell them apart by silhouette alone? Show me 4 examples. Not human technology. Never white. Ghibly style and water color painting.
 

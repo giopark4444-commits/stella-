@@ -37,6 +37,10 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • **A @VERA LA MATA @VORTHAN, NO @S1G1.** El Rey entra por otra puerta con **@S1G1** y un **robot
+>   demoledor de tres metros** (`@RobotDemoledor`). El demoledor la tumba; el Rey camina hasta ella
+>   **con @Stella colgando del pelo**, le quita la hoja a @S1G1 sin mirarlo, y la atraviesa él mismo
+>   delante de su hija. **No lo delega.** @S1G1 queda para lo suyo: perseguirla por el ducto.
 > • **@VERA NUNCA SUELTA A @SELKA.** Corre con ella, pelea con ella, cae encima de ella y muere con ella
 >   debajo. **No la deja ni una vez en toda la película.** Por eso pelea siempre a un brazo — y por eso
 >   pierde contra @S1G1: no es que fuera peor, es que tenía la mitad del cuerpo ocupada.
@@ -943,20 +947,24 @@ Al fondo: las puertas de la **SALA DEL ORBE.**
 
 Una cámara inmensa. En el centro, suspendido, el **ORBE** —una esfera de luzagua pura, latiendo como un corazón segundo del mundo.
 
-@Vera y @Stella entran por un lado. Por el otro, al mismo tiempo, entra **@VORTHAN.**
+@Vera y @Stella entran por un lado, todavía abriéndose paso a golpes.
+
+Y por el otro se abre una puerta y entran tres.
+
+**@VORTHAN.** Andando. Sin prisa.
+
+A su derecha, **@S1G1** —un robot distinto: oscuro, esbelto, rápido, sin el ruido de los demás. Un cazador.
+
+Y a su izquierda, un **ROBOT DEMOLEDOR** de tres metros, que tiene que agachar la cabeza para pasar por la puerta.
 
 Se miran a través de la sala. Una carrera de un solo latido.
 
 **@VERA**
 ¡Ve por el Orbe! ¡AHORA!
 
-@Stella arranca hacia la esfera. Pero los robots se cierran sobre @Vera —que pelea **con la bebé apretada contra el pecho**, con un solo brazo, sin poder seguirla.
+@Stella arranca hacia la esfera. Pero **el demoledor se le cruza a @Vera** y la aparta de su hija de un solo movimiento del brazo.
 
-Y entonces entra **otro.**
-
-**@S1G1.** Un robot **distinto** —oscuro, más esbelto, más rápido. Sin el ruido de los demás. Un cazador.
-
-@Vera lo ve. Y entiende que esto ya no es una pelea. Es una ejecución.
+@Vera lo ve venir. Y entiende que esto ya no es una pelea. Es una ejecución.
 
 Mira a la bebé. Busca dónde dejarla.
 
@@ -964,13 +972,13 @@ Mira a la bebé. Busca dónde dejarla.
 
 *(No la ha soltado desde el laboratorio. No la va a soltar ahora.)*
 
-Se planta frente a @S1G1 **con su hija en un brazo.**
+Se planta frente a tres metros de máquina **con su hija en un brazo.**
 
-Pelea de verdad. Da todo lo que tiene. Y da todo lo que tiene **con la mitad del cuerpo ocupada.**
+Pelea de verdad. Le mete el escudo en la cara, lo desequilibra, le gana dos metros. Da todo lo que tiene. Y da todo lo que tiene **con la mitad del cuerpo ocupada.**
 
 No alcanza. Y no iba a alcanzar nunca.
 
-@S1G1 la **neutraliza.** @Vera cae —y aun cayendo, se gira en el aire para **caer encima de @Selka y no debajo.**
+El demoledor la **tumba** de un golpe. @Vera cae —y aun cayendo, se gira en el aire para **caer encima de @Selka y no debajo.**
 
 **@VERA (CONT.)**
 *(en el suelo, gritando)*
@@ -1005,7 +1013,15 @@ Y levanta **el brazo libre.** El otro sigue teniendo a @Selka debajo.
 
 *(Y ahí abajo, apretada contra su madre, **@SELKA lo está viendo.** Tiene un año. No lo va a recordar.)*
 
-Justo en el instante en que @S1G1, detrás de ella, **la atraviesa por la espalda.**
+Y entonces el Rey hace algo que nadie esperaba que hiciera él.
+
+**Camina hasta ella**, con @Stella colgando de la mano como una bolsa, y se para encima de @Vera.
+
+Le **quita la hoja a @S1G1** sin mirarlo —como quien coge algo de una mesa al pasar.
+
+Y **atraviesa a @Vera por la espalda él mismo.**
+
+*(No manda hacerlo. No lo delega. Lo hace con su hija de catorce años a un metro, sujeta del pelo, obligada a mirar.)*
 
 **@STELLA**
 *(un grito que se rompe)*
