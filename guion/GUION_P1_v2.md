@@ -37,8 +37,11 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • **VERA NUNCA SUELTA A SELKA.** Corre con ella, pelea con ella, cae encima de ella y muere con ella
+>   debajo. **No la deja ni una vez en toda la película.** Por eso pelea siempre a un brazo — y por eso
+>   pierde contra S1G1: no es que fuera peor, es que tenía la mitad del cuerpo ocupada.
 > • **CADA UNO PELEA CON LO SUYO. El de VERA es EL ESCUDO** (`@EscudoVera`): una cúpula de luz que
->   abre con los brazos. Se ve una vez en la huida —funcional, cuesta— y una segunda vez en el suelo
+>   abre **con un solo brazo, y por eso nunca le sale entera.** Se ve una vez en la huida —funcional, cuesta— y una segunda vez en el suelo
 >   de la sala del Orbe, rota y temblorosa, **cerrándose alrededor de su hija y no de ella.**
 > • **AHUECAR LA PALMA es de STELLA**, y es lo que Selka reconoce en la SEC 24: lo vio en el parque,
 >   cuando su hermana la llamó con la luz para que caminara hacia ella.
@@ -922,11 +925,11 @@ Y Stella, corriendo, entiende una cosa que le va a doler el resto de su vida: **
 
 Antes de la carrera. Antes de reírse. Antes de hacerla repetir la frase tres veces.
 
-Una pared estalla —y **Vera abre los brazos sin dejar de correr.**
+Una pared estalla —y **Vera levanta el brazo libre sin dejar de correr.**
 
-Una **cúpula de luz** se cierra un segundo sobre las tres y los escombros le rebotan encima. Después se apaga.
+Una **media cúpula de luz** se cierra un segundo sobre las tres y los escombros le rebotan encima. Después se apaga.
 
-*(Es lo suyo. Es lo que sabe hacer. Y le cuesta.)*
+*(Es lo suyo. Y nunca le sale entera, porque **el otro brazo siempre tiene una hija dentro.** Lleva catorce años peleando con un solo brazo y no ha pensado en ello ni una vez.)*
 
 Por el boquete entran los primeros **robots.**
 
@@ -947,7 +950,7 @@ Se miran a través de la sala. Una carrera de un solo latido.
 **VERA**
 ¡Ve por el Orbe! ¡AHORA!
 
-Stella arranca hacia la esfera. Pero los robots se cierran sobre Vera, que pelea protegiendo a Selka, sin poder seguirla.
+Stella arranca hacia la esfera. Pero los robots se cierran sobre Vera —que pelea **con la bebé apretada contra el pecho**, con un solo brazo, sin poder seguirla.
 
 Y entonces entra **otro.**
 
@@ -955,11 +958,19 @@ Y entonces entra **otro.**
 
 Vera lo ve. Y entiende que esto ya no es una pelea. Es una ejecución.
 
-Acomoda a la bebé en el hueco de un panel, lejos, a salvo. Y se planta frente a S1G1.
+Mira a la bebé. Busca dónde dejarla.
 
-Pelea de verdad. Da todo lo que tiene. No alcanza.
+**Y no la suelta.**
 
-S1G1 la **neutraliza.** Vera cae —y aun cayendo, su último movimiento es **cubrir a Selka con el cuerpo.**
+*(No la ha soltado desde el laboratorio. No la va a soltar ahora.)*
+
+Se planta frente a S1G1 **con su hija en un brazo.**
+
+Pelea de verdad. Da todo lo que tiene. Y da todo lo que tiene **con la mitad del cuerpo ocupada.**
+
+No alcanza. Y no iba a alcanzar nunca.
+
+S1G1 la **neutraliza.** Vera cae —y aun cayendo, se gira en el aire para **caer encima de Selka y no debajo.**
 
 **VERA (CONT.)**
 *(en el suelo, gritando)*
@@ -986,11 +997,13 @@ Por eso siempre pierden.
 
 En el suelo, Vera junta lo último que le queda.
 
-Y abre los brazos.
+Y levanta **el brazo libre.** El otro sigue teniendo a Selka debajo.
 
-**EL ESCUDO.** Lo suyo. Lo que la hizo famosa cuando peleaba. Una cúpula de luz que ya no le sale entera y que le tiembla en los bordes —y aun así **se cierra alrededor de Stella**, no alrededor de ella.
+**EL ESCUDO.** Lo suyo. Lo que la hizo famosa cuando peleaba. Una cúpula que ya no le sale entera, que le tiembla en los bordes —y que aun así **se cierra alrededor de Stella.**
 
-*(Y a cuatro metros, metida en el hueco de un panel, **SELKA lo está viendo.** Tiene un año. No lo va a recordar.)*
+*(Un brazo para una hija. Un brazo para la otra. **Y ninguno para ella.**)*
+
+*(Y ahí abajo, apretada contra su madre, **SELKA lo está viendo.** Tiene un año. No lo va a recordar.)*
 
 Justo en el instante en que S1G1, detrás de ella, **la atraviesa por la espalda.**
 
@@ -1028,7 +1041,9 @@ Los propulsores del traje rugen. Stella despega hacia un **ducto estrecho** en l
 
 Antes de entrar, una fracción de segundo, **mira hacia abajo.**
 
-Ve a su madre, tirada, quieta. Ve a la **bebé Selka** llorando junto al cuerpo. Las ve por **última vez.**
+Ve a su madre, tirada, quieta. Y ve **el bulto que se mueve debajo de ella**: su hermana, llorando, atrapada bajo el cuerpo que la tapó al caer.
+
+Las ve por **última vez.**
 
 Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinticuatro años después va a volver a entrar por aquí, en dirección contraria.)*
 
@@ -1038,7 +1053,9 @@ Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinticuatro años después
 
 La onda escupe a Stella por el otro lado, al cielo abierto.
 
-ABAJO, en la sala: Vera **boca abajo en el piso, sin moverse.** La bebé llorando a su lado. **VORTHAN** se acerca, sin prisa, y **levanta a Selka** en sus brazos. La bebé se calla, mirándolo.
+ABAJO, en la sala: Vera **boca abajo en el piso, sin moverse**, con la bebé llorando **debajo de ella.**
+
+**VORTHAN** se acerca sin prisa. Le **aparta el brazo a Vera** para sacar a la niña. Y **levanta a Selka.** La bebé se calla, mirándolo.
 
 Dos robots se inclinan a recoger el cuerpo de Vera. El Rey los detiene con un gesto.
 
