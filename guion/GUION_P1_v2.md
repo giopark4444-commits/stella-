@@ -37,6 +37,12 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • **EL ORBE ES LA ÚNICA LUZ DE SU SALA.** Todo el mundo está silueteado contra lo que todos quieren,
+>   y cuando Stella se lo lleva **la sala se queda a oscuras** — y su madre se queda dentro.
+> • **EL ESCUDO NO PROTEGE: EMPUJA.** El último de Vera no es una cúpula sobre nadie: lo tira
+>   atravesado en la sala **abriendo un camino de luz hasta el Orbe**, y se apaga en el segundo
+>   exacto en que su hija lo toca. Y a Stella **no la suelta nadie: se suelta ella**, cortándose la
+>   trenza.
 > • **A VERA LA MATA VORTHAN, NO S1G1.** El Rey entra por otra puerta con **S1G1** y un **robot
 >   demoledor de tres metros** (`@RobotDemoledor`). El demoledor la tumba; el Rey camina hasta ella
 >   **con Stella colgando del pelo**, le quita la hoja a S1G1 sin mirarlo, y la atraviesa él mismo
@@ -947,6 +953,8 @@ Al fondo: las puertas de la **SALA DEL ORBE.**
 
 Una cámara inmensa. En el centro, suspendido, el **ORBE** —una esfera de luzagua pura, latiendo como un corazón segundo del mundo.
 
+Y **es la única luz que hay aquí dentro.** Todo lo demás en esta sala —las columnas, las máquinas, el Rey, la madre, las dos hijas— **está silueteado contra la cosa que todos quieren.**
+
 Vera y Stella entran por un lado, todavía abriéndose paso a golpes.
 
 Y por el otro se abre una puerta y entran tres.
@@ -1012,16 +1020,6 @@ Tan parecida a tu madre. Corriendo hacia lo que ama.
 *(beat)*
 Por eso siempre pierden.
 
-En el suelo, Vera junta lo último que le queda.
-
-Y levanta **el brazo libre.** El otro sigue teniendo a Selka debajo.
-
-**EL ESCUDO.** Lo suyo. Lo que la hizo famosa cuando peleaba. Una cúpula que ya no le sale entera, que le tiembla en los bordes —y que aun así **se cierra alrededor de Stella.**
-
-*(Un brazo para una hija. Un brazo para la otra. **Y ninguno para ella.**)*
-
-*(Y ahí abajo, apretada contra su madre, **SELKA lo está viendo.** Tiene un año. No lo va a recordar.)*
-
 Y entonces el Rey hace algo que nadie esperaba que hiciera él.
 
 **Camina hasta ella**, con Stella colgando de la mano como una bolsa, y se para encima de Vera.
@@ -1036,7 +1034,21 @@ Y **atraviesa a Vera por la espalda él mismo.**
 *(un grito que se rompe)*
 ¡MAMÁ!
 
-Vera la mira. Sostiene el escudo con la vida que se le escapa. Y mueve los labios una última vez:
+Y entonces Vera, atravesada, en el suelo, hace **lo último que va a hacer con su cuerpo.**
+
+Levanta **el brazo libre.** El otro sigue teniendo a Selka debajo.
+
+**EL ESCUDO.** Lo suyo. Lo que la hizo famosa cuando peleaba.
+
+Y no lo levanta alrededor de sí misma. **Ni siquiera alrededor de su hija.**
+
+Lo tira **atravesado en la sala**, temblando, sin cerrar por ningún lado — **abriendo un camino de luz desde donde cuelga Stella hasta el Orbe.**
+
+*(Un brazo para una hija. Un brazo para la otra. **Y ninguno para ella.**)*
+
+*(Y ahí abajo, apretada contra su madre, **SELKA lo está viendo.** Tiene un año. No lo va a recordar.)*
+
+Vera la mira. Sostiene eso con la vida que se le escapa. Y mueve los labios una última vez:
 
 **VERA**
 *(sin casi voz)*
@@ -1050,17 +1062,27 @@ Y hace lo único que puede hacer. Saca de su traje un **cuchillo láser.** Se lo
 
 Cae libre al piso.
 
-El escudo de Vera se apaga con ella.
+*(Nadie la suelta. **Se suelta ella.**)*
 
 ---
 
 ## SEC. 6 — INT. SALA DEL ORBE — CONTINUO
 
-Stella rueda, se levanta, y ahora sí corre hacia el **Orbe** —rota por dentro, los ojos inundados, pero corriendo. Esquiva a un robot. A otro. Salta.
+Stella rueda, se levanta, y ahora sí corre hacia el **Orbe** —rota por dentro, los ojos inundados, pero corriendo.
+
+Y corre **por dentro del camino que le abrió su madre.**
+
+A los dos lados, las descargas de media sala rebotan contra esa pared temblorosa de luz. Ninguna la toca.
+
+*(Su madre no la está protegiendo. La está **empujando.**)*
 
 Y **toma el Orbe.**
 
 En el segundo exacto en que sus dedos lo tocan, la **llave de su palma** se enciende. La esfera se integra, se hace pequeña, late en su mano. La **muñequera marca: "MAX".**
+
+Y **la sala se queda a oscuras.**
+
+*(La única luz que había aquí dentro **se acaba de ir con ella**. Y el escudo de su madre, en el mismo segundo, se apaga.)*
 
 Los propulsores del traje rugen. Stella despega hacia un **ducto estrecho** en lo alto del techo —la única salida.
 
