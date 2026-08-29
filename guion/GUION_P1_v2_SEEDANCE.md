@@ -2297,7 +2297,11 @@ Le agarra la mano a @Stella —y le **arranca el Orbe.** Puede: comparte su esti
 
 El Orbe sale de la palma de @Stella con un fogonazo. @Stella **se desploma.** No muere —cae en **coma**, los ojos en blanco.
 
-Un **puñado de partículas** sale del brazalete y se mete en el pecho de @Stella: **@Gix dándole otro trozo de sí mismo**, abrazándole el corazón por dentro para que no se detenga.
+Y dentro de ella, algo se mueve.
+
+**@GIX** —lo que le queda desde hace veinticuatro años, desde el día en que se puso delante de un golpe que iba a acabar con— **se recoge entero alrededor de su corazón** y lo aprieta para que no se detenga.
+
+*(Se sacrificó por ella a los catorce años. Y todavía la está sosteniendo.)*
 
 @Selka se queda de pie, el Orbe en la mano, respirando agitada, sin saber qué acaba de hacerle a su propio cuerpo.
 
