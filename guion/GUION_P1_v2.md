@@ -424,6 +424,60 @@
 >   🔒 **Y ninguna choca con el final:** Gix está entero hasta la SEC 24. Solo cuando Selka le arranca
 >   el Orbe **se recoge alrededor del corazón de Stella** para que no se pare. Por eso lo que puede
 >   mandar fuera en la SEC 27 es **un puñado**: el resto la está sosteniendo a ella.
+> **Revisión v2.7 (2026-08-30) — la pasada de jurado:**
+> • 🔒🔒 **LA ELECCIÓN DE LA MANO (SEC 24) — el pago que el canon prometía y el guion nunca daba.**
+>   Cuando Selka le agarra la palma para arrancarle el Orbe, **Stella puede cerrar el puño.** Y lo sabe
+>   hacer: se lo enseñó su madre en el parque con luzagua entre los dedos — **cierras la mano y la luz
+>   se muere** —, y lo repitió tres veces esa mañana hasta que le salió bien. Cierra y se acabó: no hay
+>   Orbe, no hay nave, no hay Rey. **Y no hay Erdia — pero tampoco la tiene él.**
+>   Y **abre la palma.** *(No la vence su hermana: **se rinde ella.** No elige entre el bien y el mal:
+>   elige **entre su padre y su madre** — y elige a la niña que tiene delante por encima de los dos y
+>   de un planeta entero. **Ahí se pierde Erdia: no en una batalla, en una mano que se abre.**)*
+> • 🔒 **A VORTHAM LAS LLAVES YA NO LE HACEN FALTA — y eso es lo que da miedo.** ⚠️ Con el Orbe **puesto
+>   en la consola**, la nave vuela sola: *las llaves eran para arrancar, no para volar.* Se va con la
+>   victoria entera, dice **«Déjenlas»** y no persigue a nadie. Y donde va **hay quien sabe fabricar
+>   otras.** 🔒 Y lo más frío: **esto no es su gran plan.** Su gente lleva **miles de años** haciendo
+>   exactamente esto, mundo por mundo. **Erdia no fue la primera y no va a ser la última** — para él
+>   hoy no ha pasado nada especial.
+> • **THERON LE HACE DAÑO UNA VEZ (SEC 27).** Levanta la mano derecha —la misma con la que arrancó a
+>   Vosk de una muñeca— y **dispara a doscientos metros. Y entra.** Un mordisco de luz en algo del
+>   tamaño de una catedral, y por la herida se le escapa un hilo de luz robada. **El Parásito se
+>   detiene y lo mira por primera vez en veinte mil años.** *(Se puede. No mucho, no bastante — pero se
+>   puede. Y ahora esa cosa sabe que él existe: ese es el motor de la P2.)*
+> • **CUATRO DESEOS PROPIOS, PARA QUE EL REPARTO DEJE DE EXISTIR SOLO EN FUNCIÓN DE ELLA.**
+>   **BROGU** no quiere que su idioma muera con él —*«quedan dos personas que la saben decir: yo y tú»*—
+>   y por eso se sienta cada noche a enseñárselo. **NIMA** quiere volver a su planeta, está a nueve
+>   saltos, Theron no va para allá **y nunca se lo ha pedido.** **VOSK** quiere que lo perdonen y **no
+>   sabe cómo se dice**: abre la boca y no le sale, y por eso lleva tres años poniéndose delante de ella.
+>   Y **NOAH** quiere ver de dónde echaron a los suyos: **es el primer humano que pisa Erdia en
+>   generaciones**, y llega el día en que se acaba.
+> • **LAS DOS COINCIDENCIAS DEJAN DE SERLO.** Theron **no** tiene la señal de Vera por azar: lleva
+>   veinte mil años recogiendo **todo** lo que sale de los mundos por donde pasó el Parásito, y *«Erdia
+>   estaba en esa lista desde antes de que tú nacieras»*. Y el basurero **compra humanos a propósito**
+>   —son lo que llena las gradas—, así que encontrar tres en ese pozo **no es azar: es su negocio.**
+>   Y Stella **no descubre** lo del destierro en la fosa: **lo reconoce**, porque Naio se lo contó de
+>   niña delante de una proyección de mundos.
+> • 🔒 **LAS HERMANAS SÍ HABLAN — TRES VECES, Y LAS TRES EN UNA SOLA DIRECCIÓN.**
+>   **① SEC 24, peleando:** Stella la desarma, **la tiene y se para** — y ahí hablan. *«Tenía el pelo
+>   como el tuyo. Y como el mío.»* / *«¿Y eso qué tiene que ver conmigo?»* **No la niega: no le
+>   interesa.** Y cuando Stella dice su nombre, Selka **se ríe**: *«todo el mundo sabe cómo me llamo,
+>   eso no te hace especial.»*
+>   **② SEC 27, en brazos de Brogu:** *«No sé quién eres. **Pero no me sueltes.**»* **La sangre se
+>   acuerda antes que la cabeza.**
+>   **③ SEC 29B, en el tanque:** Selka **se sienta en el suelo con la espalda contra el cristal** y le
+>   cuenta su vida entera a una mujer en coma — el ojo, la mujer muerta en su cuarto, los seis años sin
+>   saber quién era. *«Me robaron los recuerdos de mi propia familia y **ni siquiera puedo echarlos de
+>   menos**, porque no sé qué es lo que falta.»* *(Una se acuerda de todo y no puede contarlo; la otra
+>   no se acuerda de nada y no para de preguntar. **Están a un centímetro y a veinte años.**)*
+> • ⚠️ **BLOQUE PROVISIONAL EN LA SEC 23 (opción 6D):** las hermanas **se cruzan a un metro sin
+>   reconocerse** en un pasillo de servicio; Selka le da una orden de rutina y Stella contesta *«sí,
+>   general»* sin levantar la cara. Y **NAIO sí reconoce esa voz** —lleva veinte años oyéndola a través
+>   de la piedra— y le clava los dedos en el hombro. **Marcado como provisional: decidir si se queda.**
+> • ⚠️ **«NODO» NO SE EXPLICA, Y ES DELIBERADO.** Decisión de Gio: la palabra no entra en la película.
+>   El título se queda; el film no lo glosa.
+> • **Las acotaciones se quedan como están** —son la guía de producción de los prompts—. Queda abierta
+>   la opción de sacar aparte un **guion de rodaje limpio**, sin tocar este.
+>
 > • 🔒 **EL RESCATE LO ABRE STELLA, NO LA CASUALIDAD.** ⚠️ La brasa de Gix deja de ser un adorno que
 >   Vortham descubre por suerte. En la SEC 27, con Vortham golpeando a Selka contra la cubierta,
 >   **Stella —a la que dimos por muerta en la SEC 26— abre los ojos.** No puede levantarse ni gritar,
@@ -2437,7 +2491,9 @@ Y esta noche el cartel es especial. El presentador lo grita como quien vende un 
 
 Cuatro en el pozo. **A mano limpia.** Sale uno.
 
-*(Ese es el número. No es una pelea: es una rareza de feria. Los humanos son pocos, están lejos y aquí no hay ninguno — y este sitio vive de enseñarle a la gente cosas que no ha visto nunca.)*
+*(Ese es el número. No es una pelea: es una rareza de feria. Los humanos son pocos y están lejos, y este sitio vive de enseñarle a la gente cosas que no ha visto nunca.)*
+
+*(Y que no parezca casualidad, porque no lo es: **este basurero lleva años comprando humanos a propósito.** Son lo que llena las gradas. Que hubiera tres esperando en una celda cuando llegó ella **no es el azar: es el modelo de negocio.**)*
 
 Y de paso —sin decir su nombre, ni de dónde viene, ni qué hizo— anuncia que entre esos cuatro está **la cabeza más cara del sector.** Solo dice cuánto vale. Y la cifra es tan alta que las gradas rugen.
 
@@ -2499,7 +2555,15 @@ Stella se gira hacia los otros tres.
 
 Y se queda helada. Porque esa gente **se parece a ella. A los suyos.**
 
-*(Erdia desterraba a sus condenados a un mundo lejano para que murieran allí. No murieron. **Se volvieron la humanidad.** Son los hijos de sus exiliados — y un vendedor de esclavos acaba de decirlo en voz alta sin saber lo que estaba diciendo.)*
+Y porque **ya sabía esto.**
+
+FLASH — muy corto. **El laboratorio.** Ella con seis o siete años, sentada en un taburete, y su padre explicándole algo delante de una proyección de mundos.
+
+*(Naio se lo contó de niña, como quien cuenta un cuento feo de la familia: **Erdia desterraba a sus condenados a un mundo lejano para que murieran allí.** No murieron. **Se volvieron la humanidad.**)*
+
+DE VUELTA A LA FOSA. Stella mirando esas tres caras.
+
+*(No lo está descubriendo. **Lo está reconociendo.** Y por eso se queda helada: son los hijos de los que su propio pueblo tiró a la basura — y un vendedor de esclavos acaba de decirlo en voz alta sin saber lo que estaba diciendo.)*
 
 La multitud exige sangre.
 
@@ -2862,6 +2926,28 @@ Tu madre tenía este pelo.
 *(sin levantar la cara)*
 Por eso.
 
+**STELLA**
+*(al agua negra)*
+¿Tú vuelves alguna vez? A tu planeta.
+
+Nima tarda en contestar. Y cuando lo hace, no levanta la vista de la mezcla.
+
+**NIMA**
+Está a nueve saltos.
+*(beat)*
+Theron no va para allá.
+
+**STELLA**
+¿Y se lo has pedido?
+
+**NIMA**
+*(muy tranquila)*
+No.
+
+Y sigue tiñendo.
+
+*(Y ahí está lo suyo, dicho en cuatro palabras y sin una queja: **lleva años en una nave que va donde quiere otro.** Le construye el traje a la que sí va a volver a su casa, y no se lo echa en cara ni una vez. Cuando la Nodriza salte hacia Erdia, **estará saltando en la dirección contraria a la suya.**)*
+
 Nima no dice nada más. Le pasa una mano por la nuca —una mano pequeña y azul— y sigue trabajando.
 
 MÁS TARDE. Stella de pie frente a una plancha de metal pulido.
@@ -2885,6 +2971,20 @@ De eso se trata.
 Montaje. La familia rara que la fue curando.
 
 **BROGU** y Stella, sentados frente a un cielo cruzado de cometas. El gigante le enseña su **idioma muerto** —palabras guturales, antiguas, que ya no le quedan a nadie más en el universo. Stella las repite. Brogu asiente, despacio, y se le arruga la cara. Es lo más parecido a una sonrisa que tiene una montaña.
+
+**STELLA**
+*(repitiendo mal una palabra)*
+…¿Y esa qué es?
+
+**BROGU**
+*(despacio, le cuesta el idioma común)*
+«Hermana.»
+*(beat)*
+Quedan dos personas que la saben decir.
+*(la mira)*
+Yo. Y tú.
+
+*(Y ahí está lo que quiere este gigante, y no lo va a pedir nunca en voz alta: **no quiere que su idioma se muera con él.** Por eso se sienta cada noche a enseñárselo a una cría de otra especie. **Es lo único que le queda que se pueda salvar.**)*
 
 Y **GIX** está ahí. Fuera, suelto, del tamaño de una mano — enroscado y **dormido sobre el hombro de Brogu**, subiendo y bajando con la respiración del gigante.
 
@@ -2968,9 +3068,13 @@ Stella no duerme. Theron entra y deja algo sobre la mesa: un **proyector de imag
 **THERON**
 Esto lleva años dando vueltas en mi archivo. Una señal lanzada al vacío —sin rumbo, sin destino, en un idioma que nadie a bordo sabe leer.
 *(beat)*
-La guardé porque yo lo guardo todo.
+Y no lo tengo por casualidad. **Llevo veinte mil años recogiendo todo lo que sale de los mundos por donde pasó.** Ruido, rezos, listas de la compra. Todo.
+*(beat)*
+Erdia estaba en esa lista **desde antes de que tú nacieras.**
 *(la mira)*
 Anoche entendí para quién era.
+
+*(Y así deja de ser suerte y pasa a ser **su método**: no encontró la señal de tu madre. **Llevaba doscientos siglos escuchando ese planeta**, y solo faltaba alguien que entendiera el idioma.)*
 
 Lo enciende.
 
@@ -3633,9 +3737,37 @@ Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca
 
 Pasa entre la gente. Y la gente, sin reconocerla, la mira con el odio que el Rey les enseñó. Un viejo escupe al oír su nombre en otra conversación.
 
+**NOAH** se ha quedado tres pasos atrás.
+
+No mira los murales, ni los soldados, ni la niebla. Está mirando **el suelo.**
+
+**STELLA**
+¿Qué te pasa.
+
 **NOAH**
-*(bajo, a su lado)*
-Todo un planeta te odia. ¿Y aun así volviste.
+*(le cuesta)*
+A mi gente la echaron de aquí.
+*(beat)*
+No sé cuándo. Nadie lo sabe ya. Nos criamos oyendo que veníamos de un sitio que nos escupió, y punto.
+*(levanta la cara y mira la ciudad rota)*
+Y este es el sitio.
+
+Silencio.
+
+**NOAH (CONT.)**
+Soy el primero de los míos que vuelve. **En generaciones.**
+*(y se le escapa una risa mala)*
+Y llegué el día que se acaba.
+
+*(Y ese es el deseo que este hombre lleva callado toda la película, y que nadie le preguntó nunca: **no vino solo por ella. Vino a ver de dónde los echaron.** Y lo que encuentra es tierra seca y gente que odia a la mujer que lo trajo.)*
+
+**STELLA**
+*(bajo)*
+Un planeta entero te odia sin saber quién eres.
+
+**NOAH**
+*(la mira)*
+A ti te odia **sabiéndolo.** ¿Y aun así volviste.
 
 **STELLA**
 *(mirando las ruinas)*
@@ -3686,6 +3818,26 @@ EN LA ÓRBITA — INT. NAVE NODRIZA DE THERON: **VOSK** mira la pantalla, donde 
 
 **VOSK**
 Déjame bajar. Está sola ahí abajo.
+
+**THERON**
+*(sin girarse)*
+Tiene a Brogu, a Nima y al humano.
+
+**VOSK**
+No es lo mismo.
+
+**THERON**
+¿Por qué.
+
+Y Vosk abre la boca. Y **no le sale.**
+
+Se queda ahí, mirando la pantalla, con la mandíbula apretada y una frase de cinco palabras atascada desde hace tres años.
+
+**VOSK**
+*(al final, a nada)*
+…Déjame bajar.
+
+*(Lo que quiere decir es «perdóname» y **no sabe cómo se dice.** Lleva tres años poniéndose delante de ella en cada operación porque es **el único idioma que le sale.** Y en veinte años no va a aprender otro: la última vez que le hable a esta mujer va a ser tapándole una puerta con el cuerpo.)*
 
 **THERON**
 No es nuestra guerra.
@@ -3945,6 +4097,47 @@ Stella le entrega a su padre. El gigante lo alza con un cuidado imposible para e
 
 Y **CARL y LUCY no se van con él.** Se quedan. Se colocan a los lados de Noah, espalda contra espalda, **como en el pozo.**
 
+> ⚠️ **BLOQUE PROVISIONAL — la opción 6D.** Va aquí, justo antes de salir al boquete. **Léelo en su
+> sitio y decidimos si se queda o se va.** Si se queda, es el plano más cruel de la película; si se va,
+> no se pierde nada estructural.
+
+INT. PASILLO DE SERVICIO — CONTINUO
+
+Stella avanza con su padre a cuestas, la capucha calada, la cabeza baja. Detrás, Noah, Carl y Lucy.
+
+Y por el pasillo, de frente, **viene gente.** Oficiales, técnicos, guardias corriendo hacia arriba: el palacio entero se está moviendo.
+
+Y en medio de todo eso, dando órdenes sin levantar la voz, **pasa una mujer de pelo blanco.**
+
+No la vemos entera. Un hombro. Media cara. La voz.
+
+**VOZ DE MUJER (O.S.)**
+*(pasando de largo)*
+Tú. Ese hombre no puede estar aquí abajo. Súbelo al nivel cuatro.
+
+Stella, sin levantar la cara, con su padre en los brazos:
+
+**STELLA**
+Sí, general.
+
+Y **la mujer sigue andando.**
+
+Un metro. Se cruzan a **un metro.**
+
+*(Y aquí es donde hay que aguantar el plano: ninguna de las dos mira a la otra. Una porque no puede permitírselo. La otra **porque no tiene motivo.**)*
+
+Y en los brazos de Stella, **NAIO abre mucho el ojo bueno.**
+
+Porque él sí conoce esa voz. La oye desde arriba, a través de la piedra, **desde hace veinte años.**
+
+Le clava los dedos en el hombro a su hija. Y Stella, sin dejar de andar, **le aprieta la mano para que se calle.**
+
+*(Él lo sabe. Ella no. Y no va a saberlo hasta dentro de diez minutos, en una habitación donde ya no se pueda arreglar.)*
+
+Siguen andando. Cada una en su dirección.
+
+FIN DEL BLOQUE PROVISIONAL.
+
 **NOAH**
 Ven con nosotros.
 
@@ -4186,15 +4379,53 @@ No vine a pelear contigo.
 **SELKA**
 Todos dicen eso antes de morir.
 
-Selka ataca. Y aquí descubrimos algo: Stella **podría ganar.** Entrenó cinco años con cazadores del otro lado del cielo; es más rápida, más fuerte. Bloquea, desvía, la desarma una vez. Pero no remata. **No quiere vencerla. Quiere alcanzarla.**
+Selka ataca. Y aquí descubrimos algo: Stella **podría ganar.** Entrenó cinco años con cazadores del otro lado del cielo; es más rápida, más fuerte.
+
+Bloquea. Desvía. La desarma. Le pasa por detrás y **la tiene.**
+
+Y **se para.**
+
+*(Y aquí es donde por fin se hablan, que es lo único que estas dos hermanas no han hecho nunca: **de pie, respirando fuerte, con una ganando y sin atreverse a rematar.** Y hay que rodarlo entendiendo que **la conversación va en una sola dirección.**)*
 
 **STELLA**
-*(esquivando)*
-¿Por qué mataste a nuestra madre?
+*(sin aliento, sin avanzar)*
+No voy a hacerte daño.
 
 **SELKA**
-*(sin un parpadeo)*
-He ejecutado a cientos. No recuerdo a ninguna que se llamara "madre".
+*(recogiendo la hoja del suelo, sin prisa)*
+Peor para ti.
+
+**STELLA**
+¿Por qué mataste a nuestra madre?
+
+Y Selka **ni parpadea.**
+
+**SELKA**
+He ejecutado a cientos.
+*(se sacude el polvo del hombro)*
+No recuerdo a ninguna que se llamara «madre».
+
+**STELLA**
+Tenía el pelo como el tuyo.
+*(se le va la voz)*
+Y como el mío.
+
+**SELKA**
+*(mirándola por fin, con auténtica curiosidad)*
+¿Y eso qué tiene que ver conmigo?
+
+*(Y esa es la respuesta. **No la está negando: no le interesa.** A Stella le tiembla todo y a la otra le da exactamente igual — porque a esta mujer le quitaron el sitio donde se guardan estas cosas cuando tenía nueve años.)*
+
+**STELLA**
+*(un intento más, y ya se le nota que es el último)*
+Selka.
+
+Y la General **se ríe.** Corto y sin ninguna maldad, como quien oye a alguien equivocarse de nombre en la calle.
+
+**SELKA**
+Todo el mundo sabe cómo me llamo.
+*(levanta la hoja)*
+Eso no te hace especial.
 
 Eso le duele a Stella más que cualquier golpe. Por un segundo baja la guardia. Selka la tira al piso, la hoja en alto.
 
@@ -4214,7 +4445,33 @@ Las dos quietas. A un latido de despertar.
 
 Y es ese latido lo que **aterra** a Selka. No tiene dónde poner lo que siente. Así que hace lo único que le enseñaron: ataca lo que la confunde.
 
-Le agarra la mano a Stella —y le **arranca el Orbe.** Puede: comparte su sangre.
+Le agarra la mano a Stella. Puede: comparte su sangre.
+
+Y ahí, en ese medio segundo, **está la película entera.**
+
+PRIMERÍSIMO PLANO: **la palma abierta de Stella.** El Orbe encendido dentro. Y encima, la mano de su hermana cerrándose sobre él.
+
+Y **los dedos de Stella se mueven.**
+
+*(Porque puede cerrarla. **Lo sabe hacer desde los catorce años.** Se lo enseñó su madre en un parque, con luzagua corriéndole entre los dedos: **cierras la mano y la luz se muere.** Lo repitió tres veces esa mañana hasta que le salió bien.)*
+
+FLASH — **EL PARQUE.** Las dos manos de Vera cerrándole el puño. La luzagua atrapada dentro **apagándose.** *«El día que sea solo de alguien… morimos todos.»*
+
+DE VUELTA. La mano de Selka apretando. Y la de Stella **a un centímetro de cerrarse.**
+
+Cierra la mano y se acabó: no hay Orbe, no hay nave, no hay Rey. **Y no hay Erdia tampoco** — pero tampoco lo tiene él.
+
+*(Su madre le dio una sola orden en su vida y se la dio corriendo por un pasillo: «**nada** es más importante que ese Orbe. **Ni yo. Ni tu hermana.**» Veinte años. Y la tiene delante.)*
+
+Y Stella **levanta los ojos.**
+
+Y a diez centímetros de su cara está la cara de su hermana — la misma que se cayó de boca en la hierba y se levantó sola para llegar hasta su mano.
+
+Y **abre la palma.**
+
+*(No la vence su hermana. **Se rinde ella.** Y hay que rodar este plano sabiendo lo que es: no está eligiendo entre el bien y el mal. Está eligiendo **entre su padre y su madre** — y elige a la niña que tiene delante por encima de los dos, y por encima de un planeta entero.)*
+
+*(**Ahí se pierde Erdia.** No en una batalla: en una mano que se abre.)*
 
 El Orbe sale de la palma de Stella con un fogonazo. Stella **se desploma.** No muere —cae en **coma**, los ojos en blanco.
 
@@ -4530,11 +4787,29 @@ Y mientras corren, Stella **abre los ojos lo justo.**
 
 Y lo último que ve es a **su hermana** —a un palmo de su cara, en el mismo brazo, reventada, sin un brazo— **agarrándose a ella.**
 
+Y Selka, con la cara destrozada y sin fuerza para casi nada, **le habla.**
+
+**SELKA**
+*(muy poco, y sin entender por qué lo dice)*
+No sé quién eres.
+*(beat)*
+Pero no me sueltes.
+
+*(No la ha reconocido. **No sabe nada todavía.** Y aun así, lo primero que hace su cuerpo cuando se está muriendo es agarrarse a esta mujer y pedirle que no la suelte. **Veinte años, y la sangre se acuerda antes que la cabeza.**)*
+
 *(Veinte años. Cruzó un cielo entero por esto. Y le llega **medio segundo antes de apagarse.**)*
 
 Y a la cosa que queda atrás **ya no le importa.**
 
-Tiene el Orbe. La nave está encendida. Lo que se llevan esos tres del suelo no le sirve para nada.
+Tiene el Orbe. Y el Orbe **ya está puesto.**
+
+**VORTHAM**
+*(sin moverse, casi aburrido)*
+Déjenlas.
+
+*(Y aquí no hay que consolar a nadie, porque es lo peor de toda la película: **las llaves eran para arrancar, no para volar.** Con la esfera en la consola esa nave ya vuela sola, y donde él va hay quien sabe fabricar otras. **No se lleva una victoria a medias: se lleva la entera.**)*
+
+*(Y lo que de verdad hiela: **esto no es su gran plan.** Su gente lleva **miles de años** haciendo exactamente esto, mundo por mundo. Erdia no fue la primera y no va a ser la última. Para él **no ha pasado nada especial hoy** — solo se acabó un planeta, como se acaban todos.)*
 
 *(Y esa es la humillación de verdad, y hay que dejar que duela: **no escapan. Los deja ir, porque no valen la pena.**)*
 
@@ -4608,7 +4883,23 @@ Ahí estás.
 
 Da **un paso** hacia él. Uno solo.
 
-Y entonces oye, a su espalda, a los suyos.
+Y levanta **la mano derecha**, la palma abierta hacia el cielo — la misma con la que arrancó a Vosk de una muñeca hace cinco años.
+
+Y **dispara.**
+
+La descarga cruza doscientos metros de aire y **entra.**
+
+No es gran cosa: un mordisco de luz en algo del tamaño de una catedral. Pero **entra** — y de esa herida sale un hilo de luz robada que se le escapa a la cosa por el costado.
+
+Y el **PARÁSITO se detiene.**
+
+Y por primera vez en veinte mil años, **baja los ojos y lo mira.**
+
+Un segundo. Los dos quietos, a doscientos metros, mirándose.
+
+*(Y esto vale toda la Película 2: **se puede.** No mucho, no bastante, pero **se puede.** Y ahora esa cosa sabe que existe.)*
+
+Y entonces Theron oye, a su espalda, a los suyos.
 
 Y **se para.**
 
@@ -4819,7 +5110,52 @@ Selka se vuelve hacia el tanque. Apoya la **palma** —la de verdad, la que sien
 **SELKA (CONT.)**
 *(la frente contra el cristal)*
 No sabía que eras tú.
+
+Silencio. El zumbido de la nave.
+
+Y entonces —porque no hay nadie mirando, y porque es la única forma que va a tener nunca de hablar con su hermana— **se sienta en el suelo, con la espalda contra el tanque.** Y le cuenta.
+
+**SELKA (CONT.)**
+Yo tenía nueve años cuando me hizo esto en el ojo.
+*(se lo toca)*
+Porque dudé. Yo qué sé por qué dudé. Le pegaba a una máquina y me frenaba, y no sabía por qué me frenaba.
 *(beat)*
+Ahora sí lo sé. Es que **había alguien.** Aquí dentro. Muy al fondo. Y él lo notó antes que yo.
+
+Cambia de postura. Habla con la mano nueva encima de la rodilla, como quien no sabe todavía dónde ponerla.
+
+**SELKA (CONT.)**
+Hace seis años me desperté en mi cuarto con una mujer muerta en el suelo. Pelo blanco. Como el mío.
+*(le cuesta)*
+No sabía quién era. Estuve seis años sin poder quitármela de encima y **sin saber quién era.**
+*(beat)*
+Era nuestra madre. Y estuvo en mi cuarto. Y yo no me acuerdo.
+
+Silencio largo.
+
+**SELKA (CONT.)**
+No me acuerdo de ella, Stella. De ninguna. Ni de ella, ni de él, ni de ti.
+*(y aquí sí se le rompe)*
+Me robaron los recuerdos de mi propia familia y **ni siquiera puedo echarlos de menos**, porque no sé qué es lo que falta.
+
+Apoya la nuca en el cristal. Mira al techo.
+
+**SELKA (CONT.)**
+Tú te acuerdas de todo. Por las dos.
+*(beat)*
+Así que despierta.
+*(la voz muy baja)*
+Despierta y me lo cuentas. Empieza por el principio y no te dejes nada, aunque tardes veinte años.
+*(beat)*
+Yo tengo tiempo. Yo lo único que tengo es tiempo.
+
+Se queda ahí sentada, en el suelo, hablándole a un cristal.
+
+*(Y esa es la única conversación que estas dos hermanas van a tener en toda la película: **una hablando y la otra dormida.** Una se acuerda de todo y no puede contarlo; la otra no se acuerda de nada y no para de preguntar. **Están a un centímetro y a veinte años.**)*
+
+Después se levanta. Y le dice lo que vino a decirle.
+
+**SELKA (CONT.)**
 Despierta. Y déjame decírtelo a la cara.
 
 Y desde el fondo del coma, algo se le enciende.
