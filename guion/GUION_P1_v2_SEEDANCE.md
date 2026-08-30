@@ -226,6 +226,26 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • 🔒 **LA TERCERA BAJADA A ERDIA (SEC 21).** El regreso empieza **desde el cielo, dentro de la nave**,
+>   y se rueda **con los mismos movimientos que la SEC 1** para que el público reconozca el descenso
+>   antes que el planeta. La primera vez: cordilleras vivas y un corazón hueco. La segunda: cielo azul y
+>   ciudad dorada. **La tercera: Erdia seca** — tierra agrietada del color equivocado, los cauces de la
+>   luzagua convertidos en **surcos vacíos**, ceniza donde había bosque, **ni una mancha verde en
+>   ningún horizonte.** Y contra el cristal, la cara de @Stella, **reconociendo cosas por dónde estaban,
+>   no por cómo son.**
+> • 🔒 **Y AL BAJAR, TOCA LA TIERRA Y SE ROMPE.** Da tres pasos en la chatarra, **se le doblan las
+>   rodillas**, apoya las dos palmas en el suelo de su planeta —que se le deshace entre los dedos— y
+>   llora con la frente casi tocando la tierra. *(La primera vez desde que se fue que se permite llorar
+>   delante de alguien.)* Y los suyos, a diez metros, **no se acercan**: Brogu da medio paso y **@Nima le
+>   pone la mano en el brazo.** *(No la levantan. **La esperan.**)*
+> • 🔒 **ERDIA TIENE EPÍLOGO (SEC 28): LOS QUE SE QUEDAN.** Cuando el portal se cierra, la película baja
+>   a la ciudad. **No solo los rebeldes: gente** —los que salieron de las celdas, los que vivían ahí,
+>   los que llevan veinte años agachando la cabeza—, cientos, todos con la cara hacia arriba, viendo
+>   irse el palacio **y sin entender nada.** Y despacio les cuaja: *(el Orbe no era la salvación de
+>   nadie: **era el combustible.** La cosa a la que le rezaron siglos **estaba llenando el depósito**, y
+>   se acaba de ir con él.)* **Nadie grita, nadie celebra: el Rey se fue y no se ha ganado nada.** Una
+>   mujer se agacha y toca el suelo —**el mismo gesto de @Stella al bajar de la nave**— y no sale nada.
+>   *(Están solos. Con lo que quede. **Y lo que quede se lo van a tener que inventar ellos.**)*
 > • 🔒 **@STELLA CREE QUE @GIX MURIÓ POR ELLA — y por eso no lo llama en dos años.** En la SEC 5 el
 >   público **sí** ve las partículas entrarle por la palma; **ella no.** ⚠️ Rodar ese plano en el mismo
 >   segundo en que el Rey cae al lado de @Vera al otro extremo de la sala: la cámara mira la mano,
@@ -3461,9 +3481,65 @@ De eso se trata.
 
 RÓTULO: **ERDIA · AÑO 20.**
 
-Lo que fue una ciudad dorada es hoy gris y partido en dos. Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca, un solo nombre tachado: **@STELLA.**
+INT. NAVE PEQUEÑA — EN APROXIMACIÓN
 
-Una nave pequeña aterriza entre la chatarra. Bajan **BROGU**, **@NIMA**, **@NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **@STELLA**, ~19. Camuflada en su propio mundo.
+Y por **tercera vez** en esta película, bajamos hacia Erdia.
+
+> *La primera fue en el minuto tres: cordilleras vivas, bosques que respiraban, y un corazón hueco
+> debajo. La segunda, un cielo azul y una ciudad dorada. **Esta es la tercera. Rodarla con los mismos
+> movimientos que la SEC 1** para que el público reconozca el descenso antes de reconocer el planeta.*
+
+Y esta vez, por la ventanilla, no queda nada de aquello.
+
+**Erdia está seca.**
+
+Kilómetros de tierra agrietada, del color equivocado. Los cauces de la luzagua son **surcos vacíos** que cruzan el continente como cicatrices. Donde había bosque hay ceniza. No se ve verde en ninguna parte, en ningún horizonte.
+
+Y en el centro de todo eso, la ciudad: **gris, partida en dos, y con una esfera de piedra del tamaño de una montaña apoyada encima.**
+
+CONTRA EL CRISTAL — **la cara de @Stella.**
+
+No dice nada. No llora. Solo mira — y va **reconociendo cosas por dónde estaban, no por cómo son.**
+
+*(Se fue de un mundo dorado con catorce años. Esto es lo que le devolvieron.)*
+
+EXT. ERDIA — PUERTO EN RUINAS — CONTINUO
+
+La nave pequeña se posa entre la chatarra. La rampa se abre.
+
+Bajan **BROGU**, **@NIMA** y **@NOAH.**
+
+Y detrás, una mujer joven con el **pelo teñido de oscuro**, encapuchada: **@STELLA**, ~19.
+
+Da tres pasos sobre la chatarra.
+
+Y **se le doblan las rodillas.**
+
+Cae al suelo de rodillas, con las dos manos por delante. Y **apoya las palmas en la tierra de su planeta.**
+
+Tierra seca. Se le deshace entre los dedos.
+
+Y **se rompe.**
+
+Llora. Sin ruido al principio, y después ya no. Con la frente casi tocando el suelo y las dos manos llenas de la tierra de su casa.
+
+*(Veinte años ahí abajo. Cinco para ella. **Y es la primera vez desde que se fue que esta mujer se permite llorar delante de alguien.**)*
+
+A DIEZ METROS, LOS SUYOS.
+
+Brogu, @Nima y @Noah la ven desde la rampa.
+
+Y **no se acercan.**
+
+Brogu da medio paso —siempre da medio paso— y **@NIMA le pone la mano en el brazo.** Nada más. El gigante se queda.
+
+Los tres se ponen de espaldas al viento y **esperan.**
+
+*(Eso es exactamente lo que hace una familia y no lo que hace un equipo: **no la levantan. La esperan.**)*
+
+MÁS TARDE. Ya de pie, con la capucha puesta. Camuflada en su propio mundo.
+
+Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca, un solo nombre tachado: **@STELLA.**
 
 Pasa entre la gente. Y la gente, sin reconocerla, la mira con el odio que el Rey les enseñó. Un viejo escupe al oír su nombre en otra conversación.
 
@@ -4412,7 +4488,33 @@ El Parásito **no persigue** a @Stella ni a @Theron. No le interesan. Tiene lo q
 
 El cielo se cierra. Silencio.
 
-La nave de @Theron se aleja en la dirección contraria, pequeña contra Erdia rota.
+ABAJO, EN LA CIUDAD.
+
+Y en la plaza reventada, y en las calles, y en los tejados — **hay gente.**
+
+No solo los rebeldes. **Gente.** Los que acaban de salir de las celdas. Los que vivían aquí. Los que llevan veinte años agachando la cabeza y no han peleado en su vida. Cientos, y después más.
+
+Todos con **la cara hacia arriba.**
+
+Acaban de ver irse el palacio.
+
+Y **no entienden nada.**
+
+**@KORIN** entre ellos, de pie en mitad de la plaza, mirando el agujero del cielo por donde se fue lo que llevaba veinte años encima de sus cabezas.
+
+Y despacio, en esas caras, va cuajando lo que acaban de ver.
+
+*(Que el Orbe no era la salvación de nadie: **era el combustible.** Que la cosa a la que le rezaron durante siglos **estaba llenando el depósito.** Y que se acaba de ir con él, lleno.)*
+
+Nadie grita. Nadie celebra. Nadie se abraza.
+
+**El Rey se fue y no se ha ganado nada.**
+
+Una mujer se agacha y toca el suelo, en el mismo gesto con el que @Stella tocó la tierra al bajar de la nave. No sale nada.
+
+*(Están solos. Con lo que quede. **Y lo que quede se lo van a tener que inventar ellos.**)*
+
+Y arriba, la nave de @Theron se aleja en la dirección contraria, pequeña contra Erdia rota.
 
 En el puente, @Theron mira el punto donde estuvo el portal. Por primera vez, no está perdido.
 

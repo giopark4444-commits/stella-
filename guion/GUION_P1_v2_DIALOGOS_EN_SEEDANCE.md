@@ -2884,9 +2884,65 @@ That's the point.
 
 RÓTULO: **ERDIA · AÑO 20.**
 
-Lo que fue una ciudad dorada es hoy gris y partido en dos. Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca, un solo nombre tachado: **@STELLA.**
+INT. NAVE PEQUEÑA — EN APROXIMACIÓN
 
-Una nave pequeña aterriza entre la chatarra. Bajan **BROGU**, **@NIMA**, **@NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **@STELLA**, ~19. Camuflada en su propio mundo.
+Y por **tercera vez** en esta película, bajamos hacia Erdia.
+
+> *La primera fue en el minuto tres: cordilleras vivas, bosques que respiraban, y un corazón hueco
+> debajo. La segunda, un cielo azul y una ciudad dorada. **Esta es la tercera. Rodarla con los mismos
+> movimientos que la SEC 1** para que el público reconozca el descenso antes de reconocer el planeta.*
+
+Y esta vez, por la ventanilla, no queda nada de aquello.
+
+**Erdia está seca.**
+
+Kilómetros de tierra agrietada, del color equivocado. Los cauces de la luzagua son **surcos vacíos** que cruzan el continente como cicatrices. Donde había bosque hay ceniza. No se ve verde en ninguna parte, en ningún horizonte.
+
+Y en el centro de todo eso, la ciudad: **gris, partida en dos, y con una esfera de piedra del tamaño de una montaña apoyada encima.**
+
+CONTRA EL CRISTAL — **la cara de @Stella.**
+
+No dice nada. No llora. Solo mira — y va **reconociendo cosas por dónde estaban, no por cómo son.**
+
+*(Se fue de un mundo dorado con catorce años. Esto es lo que le devolvieron.)*
+
+EXT. ERDIA — PUERTO EN RUINAS — CONTINUO
+
+La nave pequeña se posa entre la chatarra. La rampa se abre.
+
+Bajan **BROGU**, **@NIMA** y **@NOAH.**
+
+Y detrás, una mujer joven con el **pelo teñido de oscuro**, encapuchada: **@STELLA**, ~19.
+
+Da tres pasos sobre la chatarra.
+
+Y **se le doblan las rodillas.**
+
+Cae al suelo de rodillas, con las dos manos por delante. Y **apoya las palmas en la tierra de su planeta.**
+
+Tierra seca. Se le deshace entre los dedos.
+
+Y **se rompe.**
+
+Llora. Sin ruido al principio, y después ya no. Con la frente casi tocando el suelo y las dos manos llenas de la tierra de su casa.
+
+*(Veinte años ahí abajo. Cinco para ella. **Y es la primera vez desde que se fue que esta mujer se permite llorar delante de alguien.**)*
+
+A DIEZ METROS, LOS SUYOS.
+
+Brogu, @Nima y @Noah la ven desde la rampa.
+
+Y **no se acercan.**
+
+Brogu da medio paso —siempre da medio paso— y **@NIMA le pone la mano en el brazo.** Nada más. El gigante se queda.
+
+Los tres se ponen de espaldas al viento y **esperan.**
+
+*(Eso es exactamente lo que hace una familia y no lo que hace un equipo: **no la levantan. La esperan.**)*
+
+MÁS TARDE. Ya de pie, con la capucha puesta. Camuflada en su propio mundo.
+
+Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca, un solo nombre tachado: **@STELLA.**
 
 Pasa entre la gente. Y la gente, sin reconocerla, la mira con el odio que el Rey les enseñó. Un viejo escupe al oír su nombre en otra conversación.
 
@@ -3835,7 +3891,33 @@ El Parásito **no persigue** a @Stella ni a @Theron. No le interesan. Tiene lo q
 
 El cielo se cierra. Silencio.
 
-La nave de @Theron se aleja en la dirección contraria, pequeña contra Erdia rota.
+ABAJO, EN LA CIUDAD.
+
+Y en la plaza reventada, y en las calles, y en los tejados — **hay gente.**
+
+No solo los rebeldes. **Gente.** Los que acaban de salir de las celdas. Los que vivían aquí. Los que llevan veinte años agachando la cabeza y no han peleado en su vida. Cientos, y después más.
+
+Todos con **la cara hacia arriba.**
+
+Acaban de ver irse el palacio.
+
+Y **no entienden nada.**
+
+**@KORIN** entre ellos, de pie en mitad de la plaza, mirando el agujero del cielo por donde se fue lo que llevaba veinte años encima de sus cabezas.
+
+Y despacio, en esas caras, va cuajando lo que acaban de ver.
+
+*(Que el Orbe no era la salvación de nadie: **era el combustible.** Que la cosa a la que le rezaron durante siglos **estaba llenando el depósito.** Y que se acaba de ir con él, lleno.)*
+
+Nadie grita. Nadie celebra. Nadie se abraza.
+
+**El Rey se fue y no se ha ganado nada.**
+
+Una mujer se agacha y toca el suelo, en el mismo gesto con el que @Stella tocó la tierra al bajar de la nave. No sale nada.
+
+*(Están solos. Con lo que quede. **Y lo que quede se lo van a tener que inventar ellos.**)*
+
+Y arriba, la nave de @Theron se aleja en la dirección contraria, pequeña contra Erdia rota.
 
 En el puente, @Theron mira el punto donde estuvo el portal. Por primera vez, no está perdido.
 
