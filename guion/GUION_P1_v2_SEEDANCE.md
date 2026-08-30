@@ -20,13 +20,18 @@
 >   cuerpo, con su técnica o con su tecnología propia. Ni pistolas, ni rifles, ni balas, ni gatillos.
 >   Los imperiales lanzan **descargas** desde el cuerpo del propio robot; la resistencia usa **artefactos**;
 > • **EL EJÉRCITO IMPERIAL ES UNA MEZCLA, no una formación ordenada.** Salen modelos distintos
->   revueltos —`@robot-c84`, `@robot-cyplop-s1s2`, **`@robot-g45`** ⚠️*(pendiente de confirmar el tag)*,
->   `@robot-dust-planet-hunter`— y eso
+>   revueltos —`@robot-c84`, `@robot-cyplop-s1s2`, **`@robot-s1g1`**, **`@robot-g45`**
+>   ⚠️*(tag pendiente)*, `@robot-dust-planet-hunter`— y eso
 >   **es lo que se ve**: un imperio que lleva veinticuatro años peleando y saca lo que tiene.
 >   El único con papel fijo es **`@robot-giant-demoledor`**, los tres metros que agachan la cabeza
 >   para pasar por una puerta.
 > • ⚠️ **`@robot-g44` NO SALE en la batalla de la plaza.** Decisión de Gio. Queda libre para otras
 >   secuencias.
+> • **@S1G1 ES UN MODELO, NO UN INDIVIDUO.** En el año 0 hay **uno solo** —el cazador que mata a
+>   @Vera, persigue a @Stella por el ducto y revienta— y por eso allí es «un robot **distinto**».
+>   Veinticuatro años después hay **muchos**, y salen en la plaza como uno más de la mezcla.
+>   *(Y eso deja una posibilidad servida: que @Stella se cruce en esa plaza con la misma cara de
+>   máquina que la persiguió a los catorce años, y siga sin poder pararse a mirarla.)*
 > • **Lo que sí se mantiene son las FUNCIONES**, repartidas entre los modelos que haya: algo aguanta
 >   la línea, algo la rompe, algo **corre por delante a cuatro patas**, y algo **dispara desde muy
 >   atrás sin avanzar nunca**. ⚠️ **Ninguno es blanco:** metal oscuro casi negro, se ven porque el
