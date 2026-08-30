@@ -98,7 +98,7 @@ def regenerar_web(md: str, web_actual: str) -> str:
     prefijo, resto = web_actual.split('<div class="wrap">', 1)
     _, sufijo = resto.split("<script>", 1)
     prefijo = re.sub(r"GUION v[\w.]+", f"GUION {VERSION}", prefijo)
-    pie = f'<p class="foot">Stella Fugaz · El Nodo de Erdia · Película 1 · guion {VERSION}</p>'
+    pie = f'<p class="foot">STELLA · a falling star · Película 1 · guion {VERSION}</p>'
     return (
         prefijo
         + '<div class="wrap">\n'

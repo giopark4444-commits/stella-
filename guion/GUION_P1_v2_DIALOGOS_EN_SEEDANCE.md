@@ -1,4 +1,4 @@
-# STELLA FUGAZ · "EL NODO DE ERDIA"
+# @STELLA · *a falling star*
 ## Guion — Película 1 (v2.7) · Acción en español · Diálogos en inglés
 
 > **Versión híbrida.** Todo en español —encabezados, acción, acotaciones y nombres de personaje—

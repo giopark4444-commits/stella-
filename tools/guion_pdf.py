@@ -145,8 +145,8 @@ def main() -> None:
 
     portada = f"""<section class="portada">
 <p class="eyebrow">Película 1 de la saga</p>
-<h1>STELLA FUGAZ</h1>
-<p class="sub">El Nodo de Erdia</p>
+<h1>STELLA</h1>
+<p class="sub">a falling star</p>
 <div class="regla"></div>
 <p class="meta">Guion &middot; borrador de producción {VERSION}<br>
 {len(re.findall(r'<h2 class="scene">', cuerpo))} secuencias &middot; 3 actos<br>

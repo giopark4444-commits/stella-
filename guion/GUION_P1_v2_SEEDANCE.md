@@ -1,5 +1,5 @@
-# STELLA FUGAZ · "EL NODO DE ERDIA"
-## Guion — Película 1 (v2.5) · Borrador de producción
+# @STELLA · *a falling star*
+## Guion — Película 1 (v2.7) · Borrador de producción
 
 > Guion en formato cine, escrito desde el canon de `PELI1_v2_material_base.md` y `TRATAMIENTO_narrado_P1.md`.
 > 🔒 **Regla de oro:** el cambio de forma de Vortham es secreto hasta el clímax. En este guion, Vortham se
@@ -469,6 +469,14 @@
 >   saber quién era. *«Me robaron los recuerdos de mi propia familia y **ni siquiera puedo echarlos de
 >   menos**, porque no sé qué es lo que falta.»* *(Una se acuerda de todo y no puede contarlo; la otra
 >   no se acuerda de nada y no para de preguntar. **Están a un centímetro y a veinte años.**)*
+> • 🔒 **EL TÍTULO ES «@STELLA · *a falling star*»** (2026-08-30). Retirado **«El Nodo de Erdia»**:
+>   la palabra *nodo* no aparecía ni una vez en las cuarenta secuencias y el film no la explica.
+>   El nuevo lo dice todo sin decirlo: **una estrella fugaz dura un segundo y es lo más bonito que se
+>   ve en el cielo** — que es exactamente ella, y exactamente la brasa que se apaga al final.
+>   **Formato:** `@STELLA` grande, *a falling star* pequeño debajo. En una sola línea, `@STELLA · a
+>   falling star`. ⚠️ En inglés **el artículo es obligatorio si lleva dos puntos o coma**
+>   (`@STELLA: A FALLING STAR`); *«@Stella a falling star»* sin signo es incorrecto.
+>   *(«Stella Fugaz» sigue siendo el nombre interno del proyecto y del juego.)*
 > • 🔒 **LAS HERMANAS NO SE CRUZAN ANTES DE LA SALA DEL TRONO. NUNCA.** ⚠️ Se escribió y **se cortó**
 >   un bloque en la SEC 23 en el que se cruzaban a un metro en un pasillo. Fuera, y por dos razones —la
 >   segunda es la que manda:

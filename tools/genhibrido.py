@@ -32,7 +32,7 @@ SALIDA_MD = RAIZ / "guion" / "GUION_P1_v2_DIALOGOS_EN.md"
 SALIDA_HTML = RAIZ / "guion" / "GUION_P1_v2_DIALOGOS_EN.html"
 VERSION = "v2.7"
 
-CABECERA = f"""# STELLA FUGAZ · "EL NODO DE ERDIA"
+CABECERA = f"""# STELLA · *a falling star*
 ## Guion — Película 1 ({VERSION}) · Acción en español · Diálogos en inglés
 
 > **Versión híbrida.** Todo en español —encabezados, acción, acotaciones y nombres de personaje—
@@ -92,7 +92,7 @@ def a_html(md_hibrido: str, plantilla: Path) -> str:
     prefijo = re.sub(r"GUION v[\w.]+", f"HÍBRIDO {VERSION}", prefijo)
     prefijo = prefijo.replace("Stella Fugaz · Guion completo",
                               "Stella Fugaz · Guion híbrido (diálogos en inglés)")
-    pie = f'<p class="foot">Stella Fugaz · El Nodo de Erdia · híbrido {VERSION}</p>'
+    pie = f'<p class="foot">STELLA · a falling star · híbrido {VERSION}</p>'
     return (prefijo + '<div class="wrap">\n' + cuerpo_desde_md(md_hibrido)
             + "\n" + pie + "\n</div>\n<script>" + sufijo)
 
