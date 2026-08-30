@@ -1290,11 +1290,19 @@ Levanta la **mano derecha**, la palma abierta hacia Vosk —y de esa palma **sal
 
 El golpe le arranca a Vosk de la mesa y lo manda **volando hacia atrás.** Y en el segundo exacto en que sus dedos se separan del Orbe, **los relámpagos se apagan.**
 
-El Orbe se queda donde estaba. Flotando. Intacto. Y el brazo de ella, plano sobre la mesa, sin haberse movido nunca.
-
 Vosk se estrella contra la cubierta, con la mano echando humo. Y se queda ahí.
 
-Alrededor de la mesa, todas las cabezas van del cuerpo del suelo a la esfera y de la esfera al cuerpo. Nadie dice nada.
+Y el Orbe **sigue flotando** un palmo por encima de la muñeca de la niña. Solo. Sin nadie que lo mande.
+
+Nadie se atreve a acercarse.
+
+Y entonces, sin que nadie haga nada, **se deshace.**
+
+La esfera se abre en partículas, giran una vez en el aire, bajan — y **le entran por la palma izquierda.** El brazalete **se cierra con un clic.**
+
+Y ahí no queda nada. Una muñeca sucia y un brazalete apagado.
+
+*(Nadie lo guardó. **Se guardó él.** Esa cosa no se queda fuera de ella ni cuando ella está inconsciente.)*
 
 Theron **baja la mano despacio.**
 
@@ -1303,6 +1311,8 @@ Y mira a Vosk en el suelo. Y después baja los ojos a la niña de la mesa.
 Y se le arruga la frente. **Preocupado.**
 
 *(Ahí es donde se le tuerce la vida a este hombre. Vino a recoger **una fuente de energía** y acaba de descubrir que no se puede separar de la niña sin matarla —y que mata a quien lo intente. Para tener eso, **tiene que quedarse con ella.** Ese gesto de preocupación es el acto 2 entero.)*
+
+Se va sin decir una palabra. **THARA** detrás de él.
 
 El corro se deshace. Van saliendo de uno en uno, y a más de uno se le queda la mirada en ella un segundo de más.
 
@@ -1314,9 +1324,11 @@ Y se va él también.
 
 *(Mientras nueve personas discutían qué era, **uno se ocupó de que no estuviera incómoda.** Veinte años después va a ser el que la saque cargada de un palacio.)*
 
-La sala se queda vacía. Solo Nima, trabajando en silencio. Y la niña, que no ha oído nada de esto.
+En la puerta, los que quedan **se miran entre ellos.**
 
-*(Va a vivir años entre esta gente sin entender por qué la miran así. Y el día que se entere, se lo va a gritar **un tratante de esclavos delante de tres mil apostadores.**)*
+Sabo a Gara. Gara a Hessa. Hessa a Boro. Nadie dice nada, y **todos están pensando lo mismo:** que acaban de subir a bordo algo que no saben qué es, que quema al que lo toca, y que respira.
+
+CORTE.
 
 ---
 
@@ -1343,13 +1355,17 @@ Stella **suelta el aire.**
 
 Se sienta en el filo de la mesa. Y solo entonces mira alrededor.
 
-Al fondo de la sala hay un **ventanal** que da a la bahía. Y ahí abajo, colgada de brazos mecánicos, **la nave de su madre** —lo que queda de ella— como un animal cazado.
+La sala está **vacía y a oscuras.** Al fondo hay un **ventanal** que da a la bahía — y ahí abajo, colgada de brazos mecánicos, **la nave de su madre**, lo que queda de ella, como un animal cazado.
 
-Y en la penumbra, entre ella y la lámpara del fondo, **una figura alta a contraluz.**
+Y entonces, al otro lado de la sala, **se abre la puerta del pasillo.**
 
-No se le ve la cara. Solo un filo de luz recorriéndole el contorno.
+Y entra **luz.**
 
-La cabeza de Stella **se gira de golpe** hacia ella.
+Un rectángulo blanco en mitad de la oscuridad. Y **dentro de ese rectángulo, una figura alta.**
+
+No se le ve la cara. Ni un rasgo. Solo **la silueta y un filo de luz** recorriéndole el contorno.
+
+La cabeza de Stella **se gira de golpe.**
 
 Sube la guardia. Le tiembla la barbilla y no le tiemblan los ojos.
 
@@ -1366,11 +1382,13 @@ I didn't save you. I picked you up.
 *(beat)*
 There's a difference.
 
-Y empieza a andar hacia ella.
+Y **entra.**
 
-Pasos lentos, pesados. Su sombra **cruza por encima de la muñeca** de Stella y le tapa el resplandor azul un segundo.
+Pasos lentos, pesados. La puerta se queda abierta detrás de él y **la luz del pasillo lo sigue recortando** — sea donde sea que se ponga, esta película no le va a enseñar la cara todavía.
 
-Se para a dos pasos. Sigue entre ella y la luz del fondo. Lo único que le ilumina la mandíbula es **el azul que sale del brazalete de la niña.**
+Su sombra **cruza por encima de la muñeca** de Stella y le tapa el resplandor azul un segundo.
+
+Se para a dos pasos. Sigue entre ella y la puerta. Lo único que le ilumina la mandíbula es **el azul que sale del brazalete de la niña.**
 
 Le mira la muñeca. Después le sube los ojos a los ojos.
 
