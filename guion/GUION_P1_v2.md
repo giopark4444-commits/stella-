@@ -1197,6 +1197,19 @@ Vera la mira de reojo. Y, en plena huida, le **sonríe**. Una sonrisa de madre, 
 **VERA**
 Pase lo que pase, llega a la nave. La dejé afuera, en la salida que da al parque.
 
+**STELLA**
+*(corriendo)*
+…¿Las dos?
+
+Vera **no la mira.**
+
+**VERA**
+Tú.
+*(beat)*
+Hoy no hay nadie en este planeta que pueda sacar una nave de aquí. Solo tú.
+
+*(Y ahí está contestada la pregunta que el público lleva diez minutos haciéndose: **por qué la llave fue a la niña de catorce y no a la madre.** No la eligieron por valiente. La eligieron **porque es la que vuela.** Mañana tenía la prueba.)*
+
 Y Stella, corriendo, entiende una cosa que le va a doler el resto de su vida: **su madre dejó esa nave preparada antes de ir al parque.**
 
 Antes de la carrera. Antes de reírse. Antes de hacerla repetir la frase tres veces.
