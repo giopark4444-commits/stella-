@@ -2030,7 +2030,9 @@ I'll keep it for her.
 
 Lo carga hasta la boca del pasillo, donde el estruendo de arriba ya es ensordecedor. Al otro lado del boquete, en la plaza, **BROGU** llega abriendo una pared.
 
-@Stella le entrega a su padre. El gigante lo alza con un cuidado imposible para esas manos.
+@Stella le entrega a su padre. El gigante lo alza con un cuidado imposible para esas manos —y se lo pasa hacia atrás, por encima de la línea, a **CARL y LUCY**, que se lo llevan de la plaza cargado entre los dos.
+
+*(Es la última vez que @Naio pisa Erdia. Sube a la Nodriza sin saber que su hija está a doscientos metros por encima de él.)*
 
 **@NOAH**
 Come with us.
@@ -2420,7 +2422,15 @@ Llena la sala entera.
 
 @Selka no le da la talla. Ni cerca.
 
-El Parásito, casi sin notarlo, le **secciona el brazo** de un golpe. @Selka cae, manca, pero viva.
+El Parásito, casi sin notarlo, le **secciona el brazo** de un golpe.
+
+@Selka cae. Y no se queda en el suelo.
+
+Se levanta con lo que le queda, recoge la hoja **con la otra mano** y **vuelve a entrar.**
+
+Un paso. Dos. Al tercero se le van las piernas y se derrumba de lado.
+
+*(No se rinde. **Se le acaba la estirpe.** Es lo único en toda la película que consigue pararla.)*
 
 ARRIBA, EN LA NODRIZA.
 
@@ -2456,7 +2466,9 @@ Mira al monstruo. Por primera vez en veinte mil años lo ve con sus propios ojos
 *(bajo, casi un rezo)*
 There you are.
 
-Aprovechando que @Theron le hace frente, **BROGU** y **@NIMA** entran por la brecha. Brogu levanta a **@Stella** (en coma) como a una pluma y se la echa a un hombro. A **@Selka** (manca) la levanta **@VOSK**, que llegó después de todo. @Nima va delante abriéndoles paso, apagando lo que se mueva.
+Aprovechando que @Theron le hace frente, **BROGU** y **@NIMA** entran por la brecha. Brogu levanta a **@Stella** (en coma) como a una pluma y se la echa a un hombro. A **@Selka** —inconsciente, sin brazo, todavía con la hoja en la mano— la levanta **@VOSK**, que llegó después de todo.
+
+*(Nadie le pregunta. **Y esa es la única razón por la que sube a esa nave:** eligió morir ahí cubriendo a su hermana, y no le dejan.)* @Nima va delante abriéndoles paso, apagando lo que se mueva.
 
 **@NIMA**
 *(a @Theron, gritando)*
@@ -2487,7 +2499,78 @@ Finally I know where he's taking it.
 
 ---
 
-## SEC. 29 — INT. NAVE NODRIZA DE @THERON — ENFERMERÍA — DÍA
+## SEC. 29A — INT. NAVE NODRIZA DE @THERON — HOSPITAL — DÍA
+
+> *`@loc_modershipo-hospital`. Ocurre **al mismo tiempo** que la SEC 29B, dos puertas más allá.*
+
+Luz blanca, quirúrgica. Nada de la calidez del resto de la nave.
+
+**@SELKA**, boca arriba sobre la mesa. Inconsciente desde el palacio. Le han cortado la manga del uniforme imperial hasta el hombro, y lo que queda del brazo está abierto y sostenido en el aire por un campo de luz.
+
+De pie sobre un cajón para alcanzar la mesa —y sin mencionarlo nunca— **@NIMA** trabaja.
+
+Lo que tiene montado al lado no es una prótesis. Es **un brazo:** fibra oscura, articulaciones que se mueven solas antes de estar conectadas a nada, una palma que se abre y se cierra buscando una mano que todavía no la manda.
+
+*(Tecnología del planeta de @Nima. En toda esta nave hay una sola persona capaz de construir eso, y es la más pequeña de todas.)*
+
+Y @Selka **abre los ojos.**
+
+Reacciona antes de entender: se incorpora de golpe y la mano que le queda sale disparada a buscar un arma que no está. @Nima no se aparta un centímetro. Ni levanta la voz.
+
+**@SELKA**
+*(la voz destrozada)*
+Where is my sister.
+
+*(No pregunta dónde está ella. No pregunta quiénes son estos. Veinticuatro años, y **esa es la primera pregunta que hace por su cuenta.**)*
+
+**@NIMA**
+Two doors down. Asleep.
+*(sin dejar de trabajar)*
+Alive.
+
+A @Selka se le va todo el cuerpo hacia atrás, contra la mesa. Se queda mirando el techo, respirando como si acabara de salir del agua.
+
+Y solo entonces gira la cabeza y ve lo que le están montando en el hombro.
+
+**@SELKA (CONT.)**
+*(sin fuerza)*
+You people know what I am.
+
+**@NIMA**
+I know what they made you into.
+*(beat)*
+That is not the same thing.
+
+Le acerca el brazo al muñón. Y **para.**
+
+**@NIMA (CONT.)**
+It's from my world. We don't make prosthetics. We make hands.
+*(beat)*
+It'll hurt for three weeks. After that it's yours.
+*(y por fin la mira a los ojos)*
+May I put it on?
+
+@Selka se le queda mirando.
+
+*(Veinticuatro años obedeciendo. Es la primera vez en su vida que alguien le pregunta **antes** de tocarla. Y no sabe cómo se responde a eso.)*
+
+**@SELKA**
+*(muy bajo)*
+…Yes.
+
+@Nima conecta. El campo de luz se apaga.
+
+Y los dedos nuevos **se cierran solos.** Un puño.
+
+@Selka lo mira. Y **lo abre.**
+
+*(Su madre le enseñó ese gesto a su hermana en un parque, con la luzagua corriéndole entre los dedos: lo que se atrapa, se muere. @Selka estaba allí, en brazos de @Vera, sin edad para acordarse. **Lo hace igual.**)*
+
+---
+
+## SEC. 29B — INT. NAVE NODRIZA DE @THERON — SALA DE RECUPERACIÓN — DÍA
+
+> *`@loc_mothership-recovery-room`.*
 
 Quietud. El zumbido bajo de la nave.
 
@@ -2522,9 +2605,15 @@ I know where it opens.
 
 @Theron lo mira largo. Un cazador de veinte mil años, midiendo al viejo que acaba de convertirse en su mapa.
 
-**@SELKA** entra. El brazo le falta; lo lleva vendado. La cara, la de alguien que perdió todo en una sola noche y todavía no sabe cómo se respira con eso.
+**@SELKA** entra. Lleva **el brazo nuevo** colgando del hombro como algo prestado, todavía sin creérselo. La cara, la de alguien que perdió todo en una sola noche y todavía no sabe cómo se respira con eso.
 
-Se acerca a **@Naio.** Su padre. Lo mira. Le toma la mano con la única que le queda.
+Se acerca a **@Naio.** Su padre. Lo mira.
+
+Y le toma la mano **con la nueva** —por instinto, porque es el lado que siempre usó.
+
+Y no siente nada.
+
+Se queda un segundo mirando esos dedos suyos que están agarrando a su padre sin enterarse. Y **cambia de mano.**
 
 **@SELKA**
 *(sin casi voz)*
@@ -2551,7 +2640,7 @@ Down there she made me promise not to say who she was.
 *(le tiembla la voz)*
 I've said it now. I can say it now.
 
-@Selka se vuelve hacia el tanque. Apoya la **palma** —la única— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que se tiró por un ducto sellado para llegar a ella, que se negó a acabar con, que cruzó un universo para volver.
+@Selka se vuelve hacia el tanque. Apoya la **palma** —la de verdad, la que siente— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que se tiró por un ducto sellado para llegar a ella, que se negó a acabar con, que cruzó un universo para volver.
 
 **@SELKA (CONT.)**
 *(la frente contra el cristal)*
@@ -2597,6 +2686,9 @@ CORTE A NEGRO.
   cambiaformas.** @Selka y @Naio sí lo saben — contárselo (o callárselo) es una escena de la P2.
 - **@Naio sabe qué es la nave-palacio y por dónde se abre** (el legado de @Vera, SEC 19/29): el arma de la P2.
 - **Vortham sabe que @Stella no murió** (vio la brasa, SEC 27). La niña que se le escapó dos veces.
+- **El brazo de @Selka es una deuda.** Se lo hizo @Nima, con tecnología de su planeta, sin pedirle nada.
+  La General del Imperio empieza la Película 2 debiéndole el brazo con el que pelea a la gente a la
+  que le hicieron atacar. Y tarda tres semanas en dejar de dolerle.
 - **La cicatriz de @Selka** es la única prueba física de que la máscara del Rey se rompe. Se la hizo él a
   los 9 años, por una pregunta. Ella la lleva en cada plano de la película sin saber lo que significa.
 - **La señal de @Vera existe** (SEC 12/18): la voz de la madre, grabada. Una reliquia para las dos hermanas.

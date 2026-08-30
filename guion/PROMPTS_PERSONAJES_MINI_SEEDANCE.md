@@ -172,14 +172,14 @@ How would a creature that devours whole worlds look, made out of the light it ha
 ### @Sarn — la médica
 How would the doctor of a scavenger starship look, the one who keeps people alive out of pure stubbornness? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 
-### @Ilka — la piloto
-How would the pilot of an ancient scavenger mothership look, who has flown the same wreck for decades? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+### @yuri — YURI, el piloto ✅ *(ya generado)*
+**El piloto de la Nodriza.** En el clímax mete una nave del tamaño de un edificio entre las torres de un palacio que está despegando — **pilotando y disparando a la vez**. Usar `@yuri`.
 
 ### @Ozu — la intendente
 How would the quartermaster of a scavenger ship look, the one who decides what gets eaten and what gets sold? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 
-### @Dova — la que cataloga los mundos muertos
-How would the archivist of a hunting crew look, who keeps the record of every world they found already devoured? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+### @thara — THARA, la mujer de @Theron ✅ *(ya generada)*
+La que ve a @Stella hundida cuando nadie más lo ve, y **manda a su marido a hablar con ella.** Usar `@thara`.
 
 ### @Fen — la más joven
 How would the newest and youngest member of a hard scavenger crew look, still not hardened? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
@@ -217,8 +217,8 @@ How would the gunner of a scavenger starship look, calm and slow to anger? Show 
 ### @Jorn — el explorador
 How would the scout of a hunting crew look, the one who always walks in first? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 
-### @Ummo — el más viejo
-How would the oldest member of a hunter's crew look, who has served the same captain longer than anyone? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+### @sabo — SABO, el consejero ✅ *(ya generado)*
+**El consejero de @Theron.** Anciano de su misma especie, ha vivido **cientos de miles de años**. Usar `@sabo`.
 
 ### @Pash — el amigo del matón
 How would the follower of a cruel crew bully look, the one who laughs at his jokes? Show me 4 examples. Clearly not human. Ghibly style and water color painting.

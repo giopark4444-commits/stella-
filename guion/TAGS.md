@@ -220,6 +220,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | **Las celdas del nivel de servicio** | Naio preso 24 años · SEC 19 y SEC 23 |
 | **El refugio de la resistencia** | Todo el acto 2 en Erdia |
 | **Los aposentos de la General** | Selka |
+| **SELKA CON EL BRAZO BIOMECÁNICO** | El último tramo del film (SEC 29A–29B) y **toda la Película 2**. La hoja actual de Selka tiene los dos brazos de carne |
 
 
 ---
@@ -236,7 +237,8 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | `@CieloAño24` | **`@loc_erdia-future-sky`** |
 | `@CieloCiudadDorada` | **`@loc_erdia-future-sky`** |
 | `@CiudadDorada` | **`@loc_erdia-past`** |
-| `@EnfermeriaNodriza` | **`@loc_mothership-recovery-room`** |
+| `@EnfermeriaNodriza` | **`@loc_mothership-recovery-room`** *(el tanque, SEC 29B)* |
+| `@QuirofanoNodriza` | **`@loc_modershipo-hospital`** *(el brazo de Selka, SEC 29A — ⚠️ typo en origen)* |
 | `@Enko` | **`@enko`** |
 | `@ErdiaRuinas` | **`@loc_erdia-destroyed`** |
 | `@FosaApuestas` | **`@loc_junk-planet-colisseum`** |

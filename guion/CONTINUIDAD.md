@@ -23,7 +23,19 @@ tanque final es solo una brasa.
 **⑤ VORTHAM ES HUMANO HASTA LA SEC 25.** 🔒 Nunca `@vortham-parasite` antes de que Selka ponga el
 Orbe en la consola. Es el secreto de la película.
 
-**⑥ SELKA PIERDE EL BRAZO EN LA SEC 27.** Y la cicatriz del ojo izquierdo la tiene **desde los 9**.
+**⑥ EL BRAZO DE SELKA TIENE TRES ESTADOS, NO DOS.** La cicatriz del ojo izquierdo la tiene **desde
+los 9** y no se va nunca. Pero el brazo cambia dos veces en veinte minutos de película:
+
+| Desde | Hasta | Estado del brazo derecho |
+|---|---|---|
+| SEC 12A | SEC 27 (el golpe del Parásito) | **Entero.** Es la General |
+| SEC 27 | mitad de la SEC 29A | **No hay.** Muñón abierto, campo de luz, inconsciente todo el tramo |
+| mitad de la SEC 29A | fin de la película | **Brazo biomecánico** de la tecnología del planeta de Nima |
+
+⚠️ En la SEC 29B **ya lo lleva puesto** y todavía **no lo siente**: por eso toca a su padre con la
+mano nueva, no siente nada y **cambia de mano**, y por eso la palma que apoya en el cristal del
+tanque es **la de carne**. Nunca la rodemos con el muñón vendado: **el vendaje no existe en ningún
+plano de la película.**
 
 **⑦ LA LLAVE APARECE A MITAD DE LA SEC 3.** Antes de la caja, la palma izquierda está limpia.
 
