@@ -16,8 +16,16 @@
 > • **Geografía:** el **laboratorio de Naio está DENTRO del palacio imperial** (Naio es el científico del Rey). Por eso la huida **lab → pasillos → Sala del Orbe** es continua, en un mismo edificio.
 > • **Pelo blanco:** es el **voto naieli de la familia** (Stella, Vera, Naio, Selka). La **resistencia y los
 >   pilotos NO** son todos de pelo blanco. Los **aliados que salvan a Stella son 3 pilotos** de aspecto variado.
-> • **Armas: NO HAY.** Nadie carga un arma en esta película. **Cada especie pelea con lo suyo** — con su
->   cuerpo, con su técnica o con su tecnología propia. Ni pistolas, ni rifles, ni balas, ni gatillos.
+> • 🔒 **QUIÉN LLEVA ARMA Y QUIÉN NO — y no es una regla de estilo, es de sangre.**
+>   **El que tiene poder no carga nada.** Los de **sangre pura** —pelo blanco— pelean **con el cuerpo**:
+>   la luz de la palma, el escudo de Vera, la hoja de Selka, las manos de Brogu, los cacharros de Nima.
+>   **El que no tiene poder, carga acero.** Y esos son dos grupos: **los tres humanos** y **los rebeldes
+>   de pelo oscuro**, que no son de sangre pura y no tienen nada en el cuerpo.
+>   **LUCY: arco y flechas** · **NOAH: espada** · **CARL: lanza.**
+>   *(Y ahí está dicho sin decirlo lo que le pasó a esta gente: **son los hijos de los que Erdia
+>   desterró.** La misma raza, sin la luz. Y por eso tienen que llevar algo en la mano.)*
+>   ⚠️ **Ni pistolas, ni rifles, ni balas, ni gatillos, en nadie.** Y sigue en pie lo otro: la violencia
+>   se muestra **por luz, nunca por sangre**.
 >   Los imperiales lanzan **descargas** desde el cuerpo del propio robot; la resistencia usa **artefactos**;
 > • **EL EJÉRCITO IMPERIAL ES UNA MEZCLA, no una formación ordenada.** Salen modelos distintos
 >   revueltos —`@robot-c84`, `@robot-cyplop-s1s2`, **`@robot-s1g1`**, **`@robot-g45`**
@@ -59,9 +67,10 @@
 >   boca, **las crías se esconden detrás de sus padres** y una madre **le tapa los ojos a su bebé**.
 >   Le tiran algo y nadie lo impide. Y el único que podría explicárselo —**Vosk, atado dos puestos por
 >   delante**— mira para otro lado. *(Se va a pasar años creyendo que la miran así por lo que hizo.)*
-> • ⚠️ **LA PELEA DE LA FOSA ES A MANO LIMPIA Y SIN ARMAS DE NINGÚN TIPO.** Se retiró la espada y la
->   hoja de luz que tenía Noah: **en esta película nadie carga un arma, tampoco aquí.** Y el collar ya
->   **no lo corta Noah — lo pulveriza Nima en la SEC 15**, con sus tres cristales y a pulso.
+> • ⚠️ **EN LA FOSA VAN A MANO LIMPIA PORQUE SON PRESOS, no porque no tengan armas.** Los cuatro
+>   entran al pozo **desarmados: el número es «cuatro humanos a mano limpia»** y a los presos se les
+>   quita todo. **Noah, Carl y Lucy recuperan sus armas después**, ya a bordo, y las llevan a partir de
+>   ahí en toda la película. Y el collar **no lo corta Noah — lo pulveriza Nima en la SEC 15**.
 > • **STELLA GANA LA FOSA SIN LASTIMAR A NADIE, Y ESO ES LO QUE COMPRA LA ALIANZA.** Tumba a los tres
 >   —Carl de frente, Noah y Carl coordinándose mal, y **Lucy, que espera, la lee y es la única que la
 >   tiene de verdad… y duda medio segundo**— y **no remata a ninguno.** Después, en medio del pozo,
@@ -217,6 +226,70 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • 🔒 **STELLA SE DEJA CAPTURAR A PROPÓSITO (SEC 21).** ⚠️ Que Korin la reconozca **no la salva: la
+>   pone en peligro.** El nombre cae en mitad de la calle y **los artefactos no bajan, suben** — para
+>   esa gente acaba de bajar de una nave *la que vació el mundo*. Brogu da medio paso y **ella lo
+>   para** con una palabra. Y abre las manos.
+>   *(Podría salir de esa calle en cuatro segundos y lo saben todos menos ellos. **Y se deja.**)*
+>   **«Llévenme con quien mande.»** No vino a que la creyeran: **vino a entrar.** Necesita lo único
+>   que tiene esa gente —dónde está su padre, qué pasó en veinte años, quién manda— y solo hay una
+>   forma de llegar a esa mesa: que te lleven a ella.
+>   🔒 **Y ahí está el chiste más cruel del film:** consigue ella sola, con una frase, **que la lleven
+>   atada al único sitio del planeta que es una trampa del Rey.**
+>   *(Korin le suelta las muñecas en la SEC 22, en privado, y le dice por qué: «te suelto porque
+>   bajaste de una nave **pudiendo no bajar**».)*
+> • **LA DILATACIÓN SE LA EXPLICA NIMA, NO THERON (SEC 11).** ⚠️ Theron sale de esa escena. La que se
+>   lo dice es **la única persona a bordo que entiende cómo funciona esto** — se baja del cajón, se
+>   sienta en el suelo a la altura de la niña, y le habla **con voz de diagnóstico**. Y le hace la
+>   cuenta que no debería: *«Llevas tres días aquí. Allá van doce.»* Después le pone una mano en la
+>   rodilla y dice lo único que no sirve de nada: **«Lo siento mucho.»**
+>   *(Theron se lo habría dicho como una amenaza —«así que no pierdas ni uno»—. Nima se lo dice **como
+>   lo que es: una desgracia.** Y por eso duele más.)*
+>   🔒 Con eso la SEC 11 y la SEC 20C dejan de repetirse: **Nima da la física, Theron da la filosofía**
+>   cinco años después — y en el lago es **Stella** quien le suelta el «uno a cuatro» a él.
+> • 🔒 **EL TINTE SE ADELANTA AL AÑO 2, Y LA CAUSA ES EL MERCADO (SEC 15B, no 20D).** No se tiñe para
+>   borrarse a su madre: **se tiñe porque en el basurero descubrió que el pelo blanco la delata.**
+>   *«En ese mercado no me miraron a la cara. Me miraron el pelo.»* Nima se lo explica: **blanco es
+>   sangre pura, y sangre pura ahí fuera es una palabra fea** — *«con esto vas a ser una cualquiera, y a
+>   una cualquiera no la mira nadie»*.
+>   ⚠️ Consecuencia: **no se está disfrazando de otra persona, se está disfrazando de alguien SIN
+>   PODERES** — de los que tienen que llevar un arma en la mano porque no les sale nada del cuerpo.
+>   🔒 Y hay que **repetirlo cada pocos meses durante tres años**: ese lavabo con el agua negra vuelve
+>   en el montaje de la SEC 20B y **mide el tiempo mejor que cualquier rótulo.** La SEC 20D ya no es el
+>   primer tinte: **es el enésimo repaso de raíz**, y el único que va a importar.
+>   *(Y lo de la madre no se pierde: sigue ahí, pero como segunda razón —«Tu madre tenía este pelo» /
+>   «Por eso»— dicho el mismo día en que aprendió lo que vale ese pelo ahí fuera.)*
+> • **LOS DOS MONTAJES DEJAN DE PISARSE.** **SEC 16 = lo que le enseñaron** (el idioma de Brogu, el
+>   traje de Nima, aprender a canalizar el Orbe, Gix dormido en el hombro del gigante).
+>   **SEC 20B = solo misiones** y el paso del tiempo. Ningún elemento aparece en las dos.
+> • **LA MISIÓN DEL BASURERO ES UN EXAMEN, Y SOLO LO SABE THERON.** La manda **a propósito** —lleva
+>   dos años mirándola de lejos— con una sola pregunta: **«¿qué hace esta cuando todo se rompe?»** No
+>   se lo dice a nadie, tampoco a Vosk. Y esperaba una de dos respuestas —**se esconde** o **se
+>   salva**—; ella le trae una tercera: **vuelve por el que la vendió y encima termina el trabajo.**
+> • **AL REY DEL BASURERO LO ENCUENTRA ELLA, NO LA CÁMARA.** ⚠️ Se retiró el plano omnisciente del
+>   palco. Antes de la pelea, Stella **barre las gradas fila por fila** y lo encuentra sin esfuerzo,
+>   porque en un sitio donde tres mil personas están de pie gritando **hay un solo hombre sentado** —en
+>   su propio balcón, rodeado de guardias, **aburrido**—. Y en plano cerrado, el **amuleto** al cuello.
+>   🔒 A partir de ahí **pelea toda la fosa sabiendo exactamente dónde está la misión y sin poder ir**,
+>   con el collar puesto y el traje apagado.
+> • ⚠️ **LA FLOTA ALIADA NO SE SIEMBRA ANTES: SE EXPLICA A SÍ MISMA EN LA RADIO.** Decisión de Gio —
+>   plantarlo en la SEC 3 **anticipa el rescate y mata la sorpresa**. Toda la información la dan
+>   **ellos, en el momento**: *«Tu madre nos avisó **hace días.** Y nos pidió una sola cosa: que te
+>   sacáramos de aquí con eso que llevas en la mano»* · *«Ese Orbe es **lo único que puede salvar a
+>   Erdia.** Mientras esté contigo, este planeta tiene una oportunidad.»*
+>   🔒 Y el **«hace días»** hace el trabajo que iba a hacer la siembra, pero **al revés y mucho peor:**
+>   *(su madre no improvisó nada esta mañana. **Llevaba días.** Días de risas, de carreras por el canal,
+>   de «mañana es tu prueba de vuelo» — y esta gente ya estaba esperando en el cielo.)*
+> • 🔒 **EL SUSURRO DE LA SEC 20 SE PAGA EN LA SEC 26, Y ES LO PEOR QUE HAY EN LA PELÍCULA.** Lo que
+>   Selka le dijo al oído a su madre —y que el público no oye— eran **seis palabras:
+>   «Yo también me acuerdo de ti.»** Vortham lo repite con la carita de Selka niña, en susurro, pegado
+>   a su oído, exactamente como se lo dijo a Vera.
+>   ⚠️ **Por qué es la peor frase posible:** Selka tenía **un año**. No tiene ni un recuerdo de su
+>   madre. Vera podía morirse creyendo que su hija era **un arma** — y con seis palabras se murió
+>   creyendo que su hija **la reconoció, y lo hizo igual.** *(«Se murió convencida de que sabías
+>   perfectamente quién era.»)*
+>   Y encaja con lo que él mismo dice en esa escena: *«Quise verla irse despacio, sabiendo que su hija
+>   la mataba. Quise que se fuera con eso puesto.»* **El susurro es cómo se lo puso.**
 > • **LOS TRES PILOTOS SE COBRAN EN LA SEC 23, POR BOCA DE NAIO.** Stella pregunta por ellos mientras
 >   lo saca de las celdas: los tuvieron cuatro días y los **ejecutaron en la plaza, delante de todos,
 >   «porque no servían para nada»**. Y de ahí sale la ley que explica a Vortham entero:
@@ -353,7 +426,7 @@
 >   ✅ **Ya está en la biblioteca:** sale al fondo de `@loc_erdia-square-night` y `@loc_erdia-square-destroyed`.
 >   No hace falta hoja aparte para los generales — solo para la **fachada de cerca** y la **cúspide**.
 >   No es una cúpula sobre un edificio: es una bola. La cúspide es su punto más alto.
->   Noah una **hoja de luz**; Brogu sus manos; Nima cacharros que fabrica ella. La violencia se muestra
+>   **Noah una espada, Carl una lanza y Lucy un arco**; Brogu sus manos; Nima cacharros que fabrica ella. La violencia se muestra
 >   **por luz, nunca por sangre.**
 > • ⚠️ **EN SUS MUÑECAS NO HAY MÁS QUE LOS BRAZALETES.** La **muñequera** pertenece **solo al traje
 >   que le hizo su padre** y solo se ve en el año 0 (SEC 3–8). **Nima no le monta ninguna en el traje
@@ -565,7 +638,11 @@ Un **CORREDOR** salta hacia el objetivo — y **BORO**, rosa y de muchos brazos,
 
 Y la cámara pasa junto a **la figura encapuchada** — y es la única persona de toda la plaza que **no está mirando al enemigo. Está mirando hacia arriba.**
 
-**LOS TRES HUMANOS** —**NOAH**, **CARL** y **LUCY**— aguantan un flanco espalda contra espalda, rotando, cubriéndose los ángulos ciegos. No tienen nada especial en el cuerpo: **son los únicos que pelean como un ejército y no como individuos**, y por eso ese flanco no se rompe. Y si ese flanco no se rompe, **el pasillo sigue abierto.**
+**LOS TRES HUMANOS** —**NOAH** con una **espada**, **CARL** con una **lanza**, **LUCY** con un **arco**— aguantan un flanco espalda contra espalda, rotando, cubriéndose los ángulos ciegos.
+
+*(Y fíjense en lo que llevan en las manos, porque en esta plaza son los únicos: **de sus cuerpos no sale luz.** Todos los demás pelean con lo que tienen dentro. Estos tres llevan acero **porque no tienen nada dentro** — y aun así están aquí.)*
+
+Son **los únicos que pelean como un ejército y no como individuos**, y por eso ese flanco no se rompe. Y si ese flanco no se rompe, **el pasillo sigue abierto.**
 
 **VOSK** hace otra cosa: **se sube a un PESADO.** Trepa por él mientras la máquina se sacude entera para quitárselo, llega arriba, y **lo tumba desde dentro.** El pesado se derrumba encima de la línea imperial. Vosk está abierto de un costado, la sangre le baja hasta la bota, y **se ríe.** No se está divirtiendo: se está despidiendo.
 
@@ -1517,17 +1594,22 @@ Aparecen **OTRAS NAVES.** Aliados. Gente que sabía. Se interponen, abren fuego,
 
 **VOZ (RADIO)**
 *(una mujer, con calma de quien ya decidió morir)*
-Stella. Tu madre nos contó lo que pasaba.
+Stella. **Tu madre nos avisó hace días.**
 *(otra nave se sacrifica de fondo)*
-Estamos aquí para protegerte. No dejes que nuestro sacrificio sea en vano.
+Y nos pidió una sola cosa: que te sacáramos de aquí con eso que llevas en la mano.
+
+*(Y ahí se le cae otra encima: **su madre no improvisó nada esta mañana. Llevaba días.** Días de risas, de carreras por el canal, de «mañana es tu prueba de vuelo» — y esta gente ya estaba esperando en el cielo.)*
 
 **STELLA**
 *(al borde del llanto)*
 ¿Quiénes son ustedes? ¡No los conozco! ¡No—!
 
 **VOZ (RADIO)**
-No dejes que nadie consiga ese Orbe. Nadie.
+No hace falta que nos conozcas.
 *(beat)*
+Ese Orbe es **lo único que puede salvar a Erdia.** Mientras esté contigo, este planeta tiene una oportunidad. Si él lo recupera, se acabó.
+*(beat)*
+No dejes que nadie lo consiga. **Nadie.**
 Ve lejos. Hazte fuerte. Y vuelve algún día a salvarnos.
 *(beat)*
 Te vamos a estar esperando.
@@ -1875,28 +1957,53 @@ Adivina cuál soy yo.
 
 Stella se sienta en el piso, agotada, sosteniéndose la mano herida. Brogu se sienta a su lado, enorme, en silencio. No la consuela. Solo se queda.
 
-Entra **THERON.**
-
 **STELLA**
 Quiero volver a mi planeta. Mi familia está allá. Mi padre, mi hermana—
 
-**THERON**
-Tu planeta ya no es tu problema más urgente.
-*(beat)*
-Hay algo que debes entender, y no te va a gustar. Aquí, el tiempo no corre igual que en tu mundo.
-*(la mira)*
-Un año tuyo… son cuatro allá.
+Y Nima **deja lo que está haciendo.**
 
-Stella levanta la cara, lentamente entendiendo el tamaño de eso.
+*(Y ahí está la desgracia de tener a bordo a la única persona que entiende cómo funciona esto: **le va a decir la verdad.**)*
+
+**NIMA**
+¿Cuánto crees que llevas aquí?
+
+**STELLA**
+*(desconcertada)*
+…Tres días.
+
+**NIMA**
+Tres.
+
+Se baja del cajón. Se sienta en el suelo, al lado de la niña, para quedar a su altura — y le habla con la voz con la que se dan los diagnósticos.
+
+**NIMA (CONT.)**
+Escúchame bien, porque no te lo voy a repetir. Aquí el tiempo **no corre igual** que donde naciste.
+*(beat)*
+Un año tuyo son cuatro suyos.
+
+Stella levanta la cara, entendiendo el tamaño de eso muy despacio.
 
 **STELLA**
 *(un hilo de voz)*
-…Cuatro.
+…¿Cuatro?
 
-**THERON**
-Cada día que pierdas aquí, pierdes cuatro allá. Así que no los pierdas.
+**NIMA**
+Cuatro.
+*(y hace la cuenta que no debería hacer, porque sabe que la va a hacer ella sola esta noche)*
+Llevas tres días aquí. Allá van **doce.**
 
-Se va. Stella se queda mirando su propia mano, y el peso de un reloj que corre cuatro veces más rápido del otro lado del cielo.
+Silencio.
+
+Y Nima hace lo único que se le ocurre, que no sirve absolutamente de nada: le pone una mano pequeña y azul en la rodilla.
+
+**NIMA (CONT.)**
+Lo siento mucho.
+
+*(Otro se lo habría dicho como una amenaza — «así que no pierdas ni uno». Nima se lo dice **como lo que es: una desgracia.** Y por eso duele más.)*
+
+Se levanta y vuelve a su banco de trabajo, porque no sabe estar quieta.
+
+Stella se queda mirando su propia mano, y el peso de un reloj que corre cuatro veces más rápido del otro lado del cielo.
 
 ---
 
@@ -2031,6 +2138,8 @@ Van a por **una sola cosa**, y es pequeña: **un AMULETO** que lleva encima el r
 
 *(Ninguno de los que están aquí abajo sabe para qué sirve. **Ella tampoco.** Solo sabe que esa es la misión — y va a acordarse de eso dentro de un rato, cuando ya no le convenga.)*
 
+*(Y hay algo que no sabe ninguno de los que van en este equipo, tampoco Vosk: **Theron la mandó a ella a propósito.** Lleva dos años mirándola de lejos, y esto no es una misión: **es un examen de una sola pregunta.** «¿Qué hace esta cuando todo se rompe?» No se lo ha dicho a nadie.)*
+
 Algo sale mal. Cazarrecompensas locales los emboscan. En el caos, Stella se esconde en una grieta, fuera de la vista de los enemigos. A salvo.
 
 Y ve a **VOSK** mirándola desde lejos. Sus ojos se cruzan.
@@ -2083,7 +2192,9 @@ El ruido **se corta** a su paso. Un puesto entero se queda callado.
 
 Y después vuelve el ruido, **peor.**
 
-Alguien le grita algo en un idioma que no entiende. Otro lo repite. Y otro. No es una amenaza: es la palabra que le están poniendo encima, y la van pasando de boca en boca.
+Alguien le **señala el pelo** y le grita algo en un idioma que no entiende. Otro lo repite. Y otro. No es una amenaza: es la palabra que le están poniendo encima, y la van pasando de boca en boca.
+
+*(Ese pelo blanco no es un peinado: es **sangre pura**, y ahí fuera se lee a treinta metros. Ella todavía no lo sabe. **Esta noche lo va a averiguar.**)*
 
 Una **cría** de una especie que no sabríamos nombrar la ve venir y **se esconde detrás de la pierna de su madre.** Y otra. Y otra.
 
@@ -2125,14 +2236,6 @@ Y de paso —sin decir su nombre, ni de dónde viene, ni qué hizo— anuncia qu
 
 *(Aquí nadie sabe lo del Orbe. Fuera de Erdia nadie lo sabe. Solo saben que hay una recompensa por alguien de ahí abajo que no la paga ningún gobierno conocido, y eso ya es suficiente para venir a verla morir.)*
 
-ARRIBA, EN EL PALCO.
-
-Separado de las gradas, en su propio balcón, **EL REY DEL BASURERO.** Gordo de poder, rodeado de guardias, aburrido.
-
-Y colgado del cuello, contra el pecho, **un AMULETO** pequeño y viejo que no pega nada con el resto de lo que lleva encima.
-
-*(Es lo que vinieron a buscar. Está a veinte metros de ella, en alto, imposible. Y ella todavía no lo ha visto.)*
-
 AL BORDE DEL POZO.
 
 **VOSK**, atado de rodillas, con dos guardias detrás.
@@ -2153,7 +2256,25 @@ Por las rejas empujan a cuatro personas.
 
 Y **STELLA**, la más pequeña de los cuatro, todavía con el collar puesto.
 
-Que mira a los tres. Y a las gradas. Y no entiende nada.
+Que mira a los tres. Y después **levanta la cara a las gradas.**
+
+Y no las mira como quien mira un público. Las mira **como quien busca algo.**
+
+Tres mil caras rugiendo. Y ella las va barriendo, fila por fila, con la calma de alguien a quien entrenaron para esto desde los seis años.
+
+Y lo **encuentra.**
+
+No le cuesta nada, y por eso funciona: en un sitio donde tres mil personas están de pie y gritando hacia el pozo, hay **un solo hombre sentado.** En su propio balcón. Separado de todos. Rodeado de guardias. Y **aburrido.**
+
+**EL REY DEL BASURERO.**
+
+PLANO CERRADO, DESDE ABAJO: colgado del cuello, contra el pecho, **un AMULETO** pequeño y viejo que no pega nada con el resto de lo que lleva encima.
+
+*(Ahí está la misión. A veinte metros de altura, con veinte guardias delante — y ella con un collar puesto que le tiene el traje apagado. **Va a pelear toda la escena sabiendo exactamente dónde está y sin poder ir.**)*
+
+Baja la cara. Vuelve a los tres.
+
+Y no entiende nada de lo otro.
 
 **STELLA**
 Yo no soy humana.
@@ -2456,6 +2577,8 @@ Theron lo mira. Y después la mira a ella.
 
 *(Ella no sabe qué es. **Él sí.** Y no se lo va a decir todavía.)*
 
+*(Pero eso no es lo que le acaba de contestar el examen. Él esperaba una de dos respuestas —**se esconde** o **se salva**— y ella le trajo una tercera: volvió por el que la vendió, **y encima terminó el trabajo.** Eso no estaba en la pregunta.)*
+
 No dice nada. Pero algo ha cambiado: la mocosa que recogió acaba de salvar a quien la traicionó **y de traerle lo que fue a buscar.** Eso, para un cazador de veinte mil años, vale más que el brillo de su mano.
 
 Y en el otro extremo de la bahía, **NOAH, CARL y LUCY**, sentados en el suelo, sin nada, mirando el techo de una nave que no es suya.
@@ -2463,6 +2586,78 @@ Y en el otro extremo de la bahía, **NOAH, CARL y LUCY**, sentados en el suelo, 
 *(Los tres se suben ese día y **no se bajan nunca más.** Veinte años después, tres de las personas que le abren el pasillo en esa plaza son tres que estaban en el mismo pozo que ella.)*
 
 Noah, vendándose una herida, no le quita los ojos de encima a Stella. Ella ni lo nota. Mira el cielo, hacia donde queda Erdia.
+
+---
+
+## SEC. 15B — INT. NAVE NODRIZA — LABORATORIO DE NIMA — [STELLA: ~AÑO 2] — NOCHE
+
+**Agua oscura en un lavabo de metal.** Dentro, mechones de **pelo blanco** perdiendo el color.
+
+**NIMA** se lo tiñe con un cuidado de laboratorio, midiendo la mezcla como si fuera un reactivo. **STELLA**, sentada, con la cabeza inclinada, mirando el agua ponerse negra.
+
+**STELLA**
+En ese mercado no me miraron a la cara.
+*(beat)*
+Me miraron el pelo.
+
+**NIMA**
+Ajá.
+
+**STELLA**
+Un crío se escondió detrás de su madre. Y yo no había hecho nada.
+
+**NIMA**
+*(sin dejar de medir)*
+Tú no. Los tuyos sí, hace mucho, en un montón de sitios.
+*(beat)*
+Y se acordaron todos.
+
+Stella no dice nada.
+
+**NIMA (CONT.)**
+Blanco es sangre pura. Y sangre pura, ahí fuera, es una palabra fea.
+*(le echa la mezcla)*
+Con esto vas a ser **una cualquiera.** Y a una cualquiera no la mira nadie.
+
+*(No se está disfrazando de otra persona. **Se está disfrazando de alguien sin poderes** — de los que tienen que llevar un arma en la mano porque no les sale nada del cuerpo. Y eso, ahí fuera, es lo único que no da miedo.)*
+
+Silencio. El agua del lavabo, cada vez más negra.
+
+**NIMA (CONT.)**
+Va a tardar en salir. Meses.
+
+**STELLA**
+Bien.
+
+**NIMA**
+Y hay que repetirlo. Cada vez.
+
+**STELLA**
+Bien.
+
+**NIMA**
+*(beat)*
+Tu madre tenía este pelo.
+
+**STELLA**
+*(sin levantar la cara)*
+Por eso.
+
+Nima no dice nada más. Le pasa una mano por la nuca —una mano pequeña y azul— y sigue trabajando.
+
+MÁS TARDE. Stella de pie frente a una plancha de metal pulido.
+
+Y la que devuelve la mirada **ya no se parece a nadie de su familia.**
+
+**NOAH** entra por detrás y se frena medio segundo antes de reconocerla.
+
+**NOAH**
+…Perdón. Por un momento no eras tú.
+
+**STELLA**
+De eso se trata.
+
+*(Y este lavabo vuelve. Va a tener que repetirlo cada pocos meses **durante tres años** — y esa agua negra va a salir otra vez, y otra, en el montaje de la SEC 20B. **Mide el tiempo mejor que cualquier rótulo.**)*
 
 ---
 
@@ -3053,9 +3248,11 @@ Y arriba, en la terraza, **THARA** los ve subir juntos. Y **no sonríe.**
 
 ## SEC. 20D — INT. NAVE NODRIZA — LABORATORIO DE NIMA — NOCHE
 
-Primera imagen del acto: **agua oscura en un lavabo de metal.** Dentro, mechones de pelo blanco perdiendo el color.
+Primera imagen del acto: **agua oscura en un lavabo de metal.** El mismo lavabo, la misma mezcla, la misma mano azul.
 
-**NIMA** se lo tiñe con un cuidado de laboratorio, midiendo la mezcla como si fuera un reactivo. **STELLA**, sentada, con la cabeza inclinada, mirando el agua ponerse negra.
+*(Es la enésima vez. Lleva tres años repitiéndolo, y esta es la única que va a importar.)*
+
+**NIMA** le repasa la raíz. **STELLA**, sentada, con la cabeza inclinada.
 
 **THERON**, en la puerta, de brazos cruzados.
 
@@ -3087,20 +3284,11 @@ Y se va.
 *(Los dos saben perfectamente a qué baja. Y los dos van a fingir que no hasta el final.)* Las dos mujeres se quedan solas con el ruido del agua.
 
 **NIMA**
-Va a tardar en salir. Meses.
+*(sin levantar la vista de la raíz)*
+Esta vez lo vas a llevar puesto **en tu propio planeta.**
 
 **STELLA**
-Bien.
-
-**NIMA**
-*(beat)*
-Tu madre tenía este pelo.
-
-**STELLA**
-*(sin levantar la cara)*
-Por eso.
-
-Nima no dice nada más. Le pasa una mano por la nuca —una mano pequeña y azul— y sigue trabajando.
+Ya lo sé.
 
 MÁS TARDE.
 
@@ -3128,15 +3316,18 @@ Más finos. Más limpios. Encajados en el traje como si siempre hubieran sido pa
 
 *(Son **los mismos de siempre.** Los que le puso su padre a los catorce. No se los ha quitado ni un día en cinco años. **Lo único que ha cambiado es cómo se ven** — igual que ella.)*
 
-Se pone de pie frente a una plancha de metal pulido. Se mira. El pelo oscuro, la cara más dura, **el traje de Theron**. La que devuelve la mirada ya no se parece a nadie de su familia.
+Se pone de pie frente a la misma plancha de metal pulido de hace tres años. Se mira. El pelo oscuro, la cara mucho más dura, **el traje de Theron.**
 
-**NOAH** entra por detrás y se frena medio segundo antes de reconocerla.
+**NOAH** entra por detrás.
 
 **NOAH**
-…Perdón. Por un momento no eras tú.
+Hace tres años te vi delante de ese espejo y me pareció que no eras tú.
+*(beat)*
+Hoy me lo parece de verdad.
+
+Stella **se pone la capucha.**
 
 **STELLA**
-*(se pone la capucha)*
 De eso se trata.
 
 ---
@@ -3161,15 +3352,44 @@ Por eso volví.
 
 Un grupo de la resistencia los intercepta, los artefactos cargados y en alto. Al frente, más viejo, más cansado: **KORIN.**
 
-Le apunta con un artefacto de la resistencia. Ella se baja la capucha despacio. Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden.
+Le apunta. Ella se baja la capucha despacio. Korin la mira a la cara — y no la reconoce. El pelo no es el de ella. Va a dar la orden.
 
-Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinte años, siempre pegada a su madre.
+Y entonces, bajo el tinte, **le reconoce la cara.**
 
 **KORIN**
-*(la voz se le rompe)*
-…¿Stella? Yo te conocí de pequeña —siempre al lado de tu madre.
-*(baja el artefacto, temblando)*
-Eres tú. Volviste.
+*(sin bajar el arma, la voz rara)*
+…¿Stella?
+
+Y el nombre cae en mitad de la calle.
+
+Y a su espalda, **los artefactos no bajan: suben.**
+
+*(Y ahí está el error de bulto que comete todo el mundo con esta escena, y hay que evitarlo: **que la reconozcan no la salva. Que la reconozcan es el peligro.** Para esta gente acaba de bajar de una nave **la que vació el mundo.**)*
+
+**BROGU** da medio paso adelante. El suelo lo nota.
+
+Y Stella, sin levantar la voz, sin girarse:
+
+**STELLA**
+No.
+
+Brogu se para.
+
+Y entonces ella hace lo que nadie esperaba: **abre las manos y las deja quietas, a la vista.**
+
+*(Podría salir de esta calle en cuatro segundos y todos lo saben menos ellos. Cinco años entrenando con cazadores, un traje que le dio Theron, y el corazón de este planeta metido en la palma. **Y se deja.**)*
+
+**STELLA (CONT.)**
+*(muy tranquila)*
+Llévenme con quien mande.
+
+Korin duda. Mira a los suyos. Y hace lo único que puede hacer con la ladrona más buscada de Erdia delante: **se la lleva presa.**
+
+Le atan las manos. Ella no opone nada. **NOAH** aprieta los dientes y tampoco.
+
+*(Ella no vino a que la creyeran. Vino a **entrar.** Necesita lo que solo tiene esta gente: dónde está su padre, qué pasó en veinte años, quién manda. Y solo hay una forma de que te lleven a la mesa: **que te lleven.**)*
+
+*(Y aquí está el chiste más cruel de toda la película, y todavía no lo sabe nadie: acaba de conseguir, ella sola y con una frase, **que la lleven atada al único sitio del planeta que es una trampa del Rey.**)*
 
 EN LA ÓRBITA — INT. NAVE NODRIZA DE THERON: **VOSK** mira la pantalla, donde Erdia hierve. Aprieta los puños. Se gira a Theron.
 
@@ -3191,9 +3411,27 @@ Theron lo mira. No dice que sí. Tampoco se lo impide.
 
 El refugio de siempre, más viejo, más lleno. Mapas sobre una mesa de chatarra. La resistencia se prepara: revisan sus artefactos, reparten cargas.
 
-**KORIN** extiende un plano dibujado a mano: el palacio.
+**STELLA**, con las manos todavía atadas, sentada a un lado.
+
+Y **KORIN** se acerca a ella. Se agacha. Y le suelta las muñecas él mismo, sin preguntarle a nadie.
 
 **KORIN**
+*(bajito, para ella)*
+Yo te conocí de pequeña. Siempre pegada a tu madre, en la plaza.
+*(le cuesta)*
+Llevo veinte años oyendo lo que dicen de ti. Y nunca me cuadró con esa niña.
+
+**STELLA**
+¿Y por eso me sueltas?
+
+**KORIN**
+Te suelto porque bajaste de una nave pudiendo no bajar.
+*(se levanta)*
+Lo demás lo hablamos delante de todos.
+
+Extiende sobre la mesa un plano dibujado a mano: el palacio.
+
+**KORIN (CONT.)**
 Atacamos cuando caiga la luz. Todo lo que tenemos.
 *(a Stella)*
 Hay algo que debes saber antes. Tu padre está vivo.
@@ -3722,6 +3960,32 @@ Porque la maté yo, pequeña. Vistiendo tu rostro. Te puse el cuchillo en la man
 Tú solo llegaste después. A recogerlo.
 
 Y ríe. Con la risita de una niña.
+
+Y entonces se pone **dulce de verdad**, que es cuando esta cosa da más miedo.
+
+**"SELKA NIÑA" (CONT.)**
+¿Quieres saber lo último que oyó tu madre?
+
+Se acerca. Ladea la cabecita. Y lo dice **muy bajito, pegado al oído de Selka**, exactamente como se lo dijo a ella:
+
+**"SELKA NIÑA" (CONT.)**
+*(un susurro de niña)*
+«Yo también me acuerdo de ti.»
+
+Silencio absoluto en la sala.
+
+**"SELKA NIÑA" (CONT.)**
+*(se aparta, encantado)*
+Eso le dije. Con tu boca. Pegado a su oreja, mientras se apagaba.
+
+*(Y ahora entiéndanlo, porque es lo peor que hay en toda la película: Vera podía morirse creyendo que su hija era **un arma**. Con seis palabras se murió creyendo que su hija **la reconoció.**)*
+
+**"SELKA NIÑA" (CONT.)**
+Tú no te acuerdas de ella. Tenías un año.
+*(abre las manos)*
+**No tienes ni un solo recuerdo de tu madre.**
+*(beat)*
+Y ella se murió convencida de que sí. Que sabías perfectamente quién era. **Y que lo hiciste igual.**
 
 Selka retrocede, la cabeza negando sola. Veinte años de certezas cayéndose de golpe.
 

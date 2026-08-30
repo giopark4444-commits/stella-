@@ -110,7 +110,11 @@ Un **CORREDOR** salta hacia el objetivo — y **BORO**, rosa y de muchos brazos,
 
 Y la cámara pasa junto a **la figura encapuchada** — y es la única persona de toda la plaza que **no está mirando al enemigo. Está mirando hacia arriba.**
 
-**LOS TRES HUMANOS** —**@NOAH**, **CARL** y **LUCY**— aguantan un flanco espalda contra espalda, rotando, cubriéndose los ángulos ciegos. No tienen nada especial en el cuerpo: **son los únicos que pelean como un ejército y no como individuos**, y por eso ese flanco no se rompe. Y si ese flanco no se rompe, **el pasillo sigue abierto.**
+**LOS TRES HUMANOS** —**@NOAH** con una **espada**, **CARL** con una **lanza**, **LUCY** con un **arco**— aguantan un flanco espalda contra espalda, rotando, cubriéndose los ángulos ciegos.
+
+*(Y fíjense en lo que llevan en las manos, porque en esta plaza son los únicos: **de sus cuerpos no sale luz.** Todos los demás pelean con lo que tienen dentro. Estos tres llevan acero **porque no tienen nada dentro** — y aun así están aquí.)*
+
+Son **los únicos que pelean como un ejército y no como individuos**, y por eso ese flanco no se rompe. Y si ese flanco no se rompe, **el pasillo sigue abierto.**
 
 **@VOSK** hace otra cosa: **se sube a un PESADO.** Trepa por él mientras la máquina se sacude entera para quitárselo, llega arriba, y **lo tumba desde dentro.** El pesado se derrumba encima de la línea imperial. @Vosk está abierto de un costado, la estirpe le baja hasta la bota, y **se ríe.** No se está divirtiendo: se está despidiendo.
 
@@ -1062,17 +1066,22 @@ Aparecen **OTRAS NAVES.** Aliados. Gente que sabía. Se interponen, abren fuego,
 
 **VOZ (RADIO)**
 *(una mujer, con calma de quien ya decidió morir)*
-@Stella. Your mother told us what was happening.
+@Stella. **Your mother warned us days ago.**
 *(otra nave se sacrifica de fondo)*
-We're here to protect you. Don't let our sacrifice be for nothing.
+And she asked us for one thing: get you out of here with what you're carrying in your hand.
+
+*(Y ahí se le cae otra encima: **su madre no improvisó nada esta mañana. Llevaba días.** Días de risas, de carreras por el canal, de «mañana es tu prueba de vuelo» — y esta gente ya estaba esperando en el cielo.)*
 
 **@STELLA**
 *(al borde del llanto)*
 Who are you? I don't know you! I don't—!
 
 **VOZ (RADIO)**
-Don't let anyone get that Orb. Anyone.
+You don't need to know us.
 *(beat)*
+That Orb is **the only thing that can save Erdia.** While it's with you, this planet has a chance. If he gets it back, it's over.
+*(beat)*
+Don't let anyone get it. **Anyone.**
 Go far. Get strong. And come back one day and save us.
 *(beat)*
 We'll be waiting for you.
@@ -1420,28 +1429,53 @@ Guess which one I am.
 
 @Stella se sienta en el piso, agotada, sosteniéndose la mano herida. Brogu se sienta a su lado, enorme, en silencio. No la consuela. Solo se queda.
 
-Entra **@THERON.**
-
 **@STELLA**
 I want to go back to my planet. My family is there. My father, my sister—
 
-**@THERON**
-Your planet is not your most urgent problem.
-*(beat)*
-There's something you need to understand, and you're not going to like it. Here, time doesn't run the way it does in your world.
-*(la mira)*
-One year of yours… is four of theirs.
+Y @Nima **deja lo que está haciendo.**
 
-@Stella levanta la cara, lentamente entendiendo el tamaño de eso.
+*(Y ahí está la desgracia de tener a bordo a la única persona que entiende cómo funciona esto: **le va a decir la verdad.**)*
+
+**@NIMA**
+How long do you think you've been here?
+
+**@STELLA**
+*(desconcertada)*
+…Three days.
+
+**@NIMA**
+Three.
+
+Se baja del cajón. Se sienta en el suelo, al lado de la niña, para quedar a su altura — y le habla con la voz con la que se dan los diagnósticos.
+
+**@NIMA (CONT.)**
+Listen carefully, because I won't say it twice. Time here **doesn't run the same** as where you were born.
+*(beat)*
+One of your years is four of theirs.
+
+@Stella levanta la cara, entendiendo el tamaño de eso muy despacio.
 
 **@STELLA**
 *(un hilo de voz)*
-…Four.
+…Four?
 
-**@THERON**
-Every day you waste here, you lose four there. So don't waste them.
+**@NIMA**
+Four.
+*(y hace la cuenta que no debería hacer, porque sabe que la va a hacer ella sola esta noche)*
+You've been here three days. Back there it's been **twelve.**
 
-Se va. @Stella se queda mirando su propia mano, y el peso de un reloj que corre cuatro veces más rápido del otro lado del cielo.
+Silencio.
+
+Y @Nima hace lo único que se le ocurre, que no sirve absolutamente de nada: le pone una mano pequeña y azul en la rodilla.
+
+**@NIMA (CONT.)**
+I'm so sorry.
+
+*(Otro se lo habría dicho como una amenaza — «así que no pierdas ni uno». @Nima se lo dice **como lo que es: una desgracia.** Y por eso duele más.)*
+
+Se levanta y vuelve a su banco de trabajo, porque no sabe estar quieta.
+
+@Stella se queda mirando su propia mano, y el peso de un reloj que corre cuatro veces más rápido del otro lado del cielo.
 
 ---
 
@@ -1576,6 +1610,8 @@ Van a por **una sola cosa**, y es pequeña: **un AMULETO** que lleva encima el r
 
 *(Ninguno de los que están aquí abajo sabe para qué sirve. **Ella tampoco.** Solo sabe que esa es la misión — y va a acordarse de eso dentro de un rato, cuando ya no le convenga.)*
 
+*(Y hay algo que no sabe ninguno de los que van en este equipo, tampoco @Vosk: **@Theron la mandó a ella a propósito.** Lleva dos años mirándola de lejos, y esto no es una misión: **es un examen de una sola pregunta.** «¿Qué hace esta cuando todo se rompe?» No se lo ha dicho a nadie.)*
+
 Algo sale mal. Cazarrecompensas locales los emboscan. En el caos, @Stella se esconde en una grieta, fuera de la vista de los enemigos. A salvo.
 
 Y ve a **@VOSK** mirándola desde lejos. Sus ojos se cruzan.
@@ -1628,7 +1664,9 @@ El ruido **se corta** a su paso. Un puesto entero se queda callado.
 
 Y después vuelve el ruido, **peor.**
 
-Alguien le grita algo en un idioma que no entiende. Otro lo repite. Y otro. No es una amenaza: es la palabra que le están poniendo encima, y la van pasando de boca en boca.
+Alguien le **señala el pelo** y le grita algo en un idioma que no entiende. Otro lo repite. Y otro. No es una amenaza: es la palabra que le están poniendo encima, y la van pasando de boca en boca.
+
+*(Ese pelo blanco no es un peinado: es **estirpe pura**, y ahí fuera se lee a treinta metros. Ella todavía no lo sabe. **Esta noche lo va a averiguar.**)*
 
 Una **cría** de una especie que no sabríamos nombrar la ve venir y **se esconde detrás de la pierna de su madre.** Y otra. Y otra.
 
@@ -1670,14 +1708,6 @@ Y de paso —sin decir su nombre, ni de dónde viene, ni qué hizo— anuncia qu
 
 *(Aquí nadie sabe lo del Orbe. Fuera de Erdia nadie lo sabe. Solo saben que hay una recompensa por alguien de ahí abajo que no la paga ningún gobierno conocido, y eso ya es suficiente para venir a verla morir.)*
 
-ARRIBA, EN EL PALCO.
-
-Separado de las gradas, en su propio balcón, **EL REY DEL BASURERO.** Gordo de poder, rodeado de guardias, aburrido.
-
-Y colgado del cuello, contra el pecho, **un AMULETO** pequeño y viejo que no pega nada con el resto de lo que lleva encima.
-
-*(Es lo que vinieron a buscar. Está a veinte metros de ella, en alto, imposible. Y ella todavía no lo ha visto.)*
-
 AL BORDE DEL POZO.
 
 **@VOSK**, atado de rodillas, con dos guardias detrás.
@@ -1698,7 +1728,25 @@ Por las rejas empujan a cuatro personas.
 
 Y **@STELLA**, la más pequeña de los cuatro, todavía con el collar puesto.
 
-Que mira a los tres. Y a las gradas. Y no entiende nada.
+Que mira a los tres. Y después **levanta la cara a las gradas.**
+
+Y no las mira como quien mira un público. Las mira **como quien busca algo.**
+
+Tres mil caras rugiendo. Y ella las va barriendo, fila por fila, con la calma de alguien a quien entrenaron para esto desde los seis años.
+
+Y lo **encuentra.**
+
+No le cuesta nada, y por eso funciona: en un sitio donde tres mil personas están de pie y gritando hacia el pozo, hay **un solo hombre sentado.** En su propio balcón. Separado de todos. Rodeado de guardias. Y **aburrido.**
+
+**EL REY DEL BASURERO.**
+
+PLANO CERRADO, DESDE ABAJO: colgado del cuello, contra el pecho, **un AMULETO** pequeño y viejo que no pega nada con el resto de lo que lleva encima.
+
+*(Ahí está la misión. A veinte metros de altura, con veinte guardias delante — y ella con un collar puesto que le tiene el traje apagado. **Va a pelear toda la escena sabiendo exactamente dónde está y sin poder ir.**)*
+
+Baja la cara. Vuelve a los tres.
+
+Y no entiende nada de lo otro.
 
 **@STELLA**
 I'm not human.
@@ -2001,6 +2049,8 @@ MÁS TARDE, EN LA NAVE.
 
 *(Ella no sabe qué es. **Él sí.** Y no se lo va a decir todavía.)*
 
+*(Pero eso no es lo que le acaba de contestar el examen. Él esperaba una de dos respuestas —**se esconde** o **se salva**— y ella le trajo una tercera: volvió por el que la vendió, **y encima terminó el trabajo.** Eso no estaba en la pregunta.)*
+
 No dice nada. Pero algo ha cambiado: la mocosa que recogió acaba de salvar a quien la traicionó **y de traerle lo que fue a buscar.** Eso, para un cazador de veinte mil años, vale más que el brillo de su mano.
 
 Y en el otro extremo de la bahía, **@NOAH, CARL y LUCY**, sentados en el suelo, sin nada, mirando el techo de una nave que no es suya.
@@ -2008,6 +2058,78 @@ Y en el otro extremo de la bahía, **@NOAH, CARL y LUCY**, sentados en el suelo,
 *(Los tres se suben ese día y **no se bajan nunca más.** Veinte años después, tres de las personas que le abren el pasillo en esa plaza son tres que estaban en el mismo pozo que ella.)*
 
 @Noah, vendándose una herida, no le quita los ojos de encima a @Stella. Ella ni lo nota. Mira el cielo, hacia donde queda Erdia.
+
+---
+
+## SEC. 15B — INT. NAVE NODRIZA — LABORATORIO DE @NIMA — [@STELLA: ~AÑO 2] — NOCHE
+
+**Agua oscura en un lavabo de metal.** Dentro, mechones de **pelo blanco** perdiendo el color.
+
+**@NIMA** se lo tiñe con un cuidado de laboratorio, midiendo la mezcla como si fuera un reactivo. **@STELLA**, sentada, con la cabeza inclinada, mirando el agua ponerse negra.
+
+**@STELLA**
+In that market they didn't look at my face.
+*(beat)*
+They looked at my hair.
+
+**@NIMA**
+Mm-hm.
+
+**@STELLA**
+A kid hid behind his mother. And I hadn't done anything.
+
+**@NIMA**
+*(sin dejar de medir)*
+You hadn't. Your people had, a long time ago, in a lot of places.
+*(beat)*
+And everybody remembered.
+
+@Stella no dice nada.
+
+**@NIMA (CONT.)**
+White is pure trace. And out there, pure trace is an ugly word.
+*(le echa la mezcla)*
+With this you'll be **nobody in particular.** And nobody looks at nobody in particular.
+
+*(No se está disfrazando de otra persona. **Se está disfrazando de alguien sin poderes** — de los que tienen que llevar un arma en la mano porque no les sale nada del cuerpo. Y eso, ahí fuera, es lo único que no da miedo.)*
+
+Silencio. El agua del lavabo, cada vez más negra.
+
+**@NIMA (CONT.)**
+It'll take months to wash out.
+
+**@STELLA**
+Good.
+
+**@NIMA**
+And it has to be redone. Every time.
+
+**@STELLA**
+Good.
+
+**@NIMA**
+*(beat)*
+Your mother had this hair.
+
+**@STELLA**
+*(sin levantar la cara)*
+That's why.
+
+@Nima no dice nada más. Le pasa una mano por la nuca —una mano pequeña y azul— y sigue trabajando.
+
+MÁS TARDE. @Stella de pie frente a una plancha de metal pulido.
+
+Y la que devuelve la mirada **ya no se parece a nadie de su familia.**
+
+**@NOAH** entra por detrás y se frena medio segundo antes de reconocerla.
+
+**@NOAH**
+…Sorry. For a second you weren't you.
+
+**@STELLA**
+That's the point.
+
+*(Y este lavabo vuelve. Va a tener que repetirlo cada pocos meses **durante tres años** — y esa agua negra va a salir otra vez, y otra, en el montaje de la SEC 20B. **Mide el tiempo mejor que cualquier rótulo.**)*
 
 ---
 
@@ -2598,9 +2720,11 @@ Y arriba, en la terraza, **THARA** los ve subir juntos. Y **no sonríe.**
 
 ## SEC. 20D — INT. NAVE NODRIZA — LABORATORIO DE @NIMA — NOCHE
 
-Primera imagen del acto: **agua oscura en un lavabo de metal.** Dentro, mechones de pelo blanco perdiendo el color.
+Primera imagen del acto: **agua oscura en un lavabo de metal.** El mismo lavabo, la misma mezcla, la misma mano azul.
 
-**@NIMA** se lo tiñe con un cuidado de laboratorio, midiendo la mezcla como si fuera un reactivo. **@STELLA**, sentada, con la cabeza inclinada, mirando el agua ponerse negra.
+*(Es la enésima vez. Lleva tres años repitiéndolo, y esta es la única que va a importar.)*
+
+**@NIMA** le repasa la raíz. **@STELLA**, sentada, con la cabeza inclinada.
 
 **@THERON**, en la puerta, de brazos cruzados.
 
@@ -2632,20 +2756,11 @@ Y se va.
 *(Los dos saben perfectamente a qué baja. Y los dos van a fingir que no hasta el final.)* Las dos mujeres se quedan solas con el ruido del agua.
 
 **@NIMA**
-It'll take months to wash out.
+*(sin levantar la vista de la raíz)*
+This time you'll be wearing it **on your own planet.**
 
 **@STELLA**
-Good.
-
-**@NIMA**
-*(beat)*
-Your mother had this hair.
-
-**@STELLA**
-*(sin levantar la cara)*
-That's why.
-
-@Nima no dice nada más. Le pasa una mano por la nuca —una mano pequeña y azul— y sigue trabajando.
+I know.
 
 MÁS TARDE.
 
@@ -2673,16 +2788,19 @@ Más finos. Más limpios. Encajados en el traje como si siempre hubieran sido pa
 
 *(Son **los mismos de siempre.** Los que le puso su padre a los catorce. No se los ha quitado ni un día en cinco años. **Lo único que ha cambiado es cómo se ven** — igual que ella.)*
 
-Se pone de pie frente a una plancha de metal pulido. Se mira. El pelo oscuro, la cara más dura, **el traje de @Theron**. La que devuelve la mirada ya no se parece a nadie de su familia.
+Se pone de pie frente a la misma plancha de metal pulido de hace tres años. Se mira. El pelo oscuro, la cara mucho más dura, **el traje de @Theron.**
 
-**@NOAH** entra por detrás y se frena medio segundo antes de reconocerla.
+**@NOAH** entra por detrás.
 
 **@NOAH**
-…Sorry. For a second you weren't you.
+Three years ago I saw you in front of that mirror and thought you weren't you.
+*(beat)*
+Today I actually mean it.
+
+@Stella **se pone la capucha.**
 
 **@STELLA**
-*(se pone la capucha)*
-That's the idea.
+That's the point.
 
 ---
 
@@ -2706,15 +2824,44 @@ That's why I came back.
 
 Un grupo de la resistencia los intercepta, los artefactos cargados y en alto. Al frente, más viejo, más cansado: **@KORIN.**
 
-Le apunta con un artefacto de la resistencia. Ella se baja la capucha despacio. @Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden.
+Le apunta. Ella se baja la capucha despacio. @Korin la mira a la cara — y no la reconoce. El pelo no es el de ella. Va a dar la orden.
 
-Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinte años, siempre pegada a su madre.
+Y entonces, bajo el tinte, **le reconoce la cara.**
 
 **@KORIN**
-*(la voz se le rompe)*
-…@Stella? I knew you when you were small — always beside your mother.
-*(baja el artefacto, temblando)*
-It's you. You came back.
+*(sin bajar el arma, la voz rara)*
+…@Stella?
+
+Y el nombre cae en mitad de la calle.
+
+Y a su espalda, **los artefactos no bajan: suben.**
+
+*(Y ahí está el error de bulto que comete todo el mundo con esta escena, y hay que evitarlo: **que la reconozcan no la salva. Que la reconozcan es el peligro.** Para esta gente acaba de bajar de una nave **la que vació el mundo.**)*
+
+**BROGU** da medio paso adelante. El suelo lo nota.
+
+Y @Stella, sin levantar la voz, sin girarse:
+
+**@STELLA**
+No.
+
+Brogu se para.
+
+Y entonces ella hace lo que nadie esperaba: **abre las manos y las deja quietas, a la vista.**
+
+*(Podría salir de esta calle en cuatro segundos y todos lo saben menos ellos. Cinco años entrenando con cazadores, un traje que le dio @Theron, y el corazón de este planeta metido en la palma. **Y se deja.**)*
+
+**@STELLA (CONT.)**
+*(muy tranquila)*
+Take me to whoever's in charge.
+
+@Korin duda. Mira a los suyos. Y hace lo único que puede hacer con la ladrona más buscada de Erdia delante: **se la lleva presa.**
+
+Le atan las manos. Ella no opone nada. **@NOAH** aprieta los dientes y tampoco.
+
+*(Ella no vino a que la creyeran. Vino a **entrar.** Necesita lo que solo tiene esta gente: dónde está su padre, qué pasó en veinte años, quién manda. Y solo hay una forma de que te lleven a la mesa: **que te lleven.**)*
+
+*(Y aquí está el chiste más cruel de toda la película, y todavía no lo sabe nadie: acaba de conseguir, ella sola y con una frase, **que la lleven atada al único sitio del planeta que es una trampa del Rey.**)*
 
 EN LA ÓRBITA — INT. NAVE NODRIZA DE @THERON: **@VOSK** mira la pantalla, donde Erdia hierve. Aprieta los puños. Se gira a @Theron.
 
@@ -2736,9 +2883,27 @@ It became mine the day she pulled me out of that pit.
 
 El refugio de siempre, más viejo, más lleno. Mapas sobre una mesa de chatarra. La resistencia se prepara: revisan sus artefactos, reparten cargas.
 
-**@KORIN** extiende un plano dibujado a mano: el palacio.
+**@STELLA**, con las manos todavía atadas, sentada a un lado.
+
+Y **@KORIN** se acerca a ella. Se agacha. Y le suelta las muñecas él mismo, sin preguntarle a nadie.
 
 **@KORIN**
+*(bajito, para ella)*
+I knew you when you were little. Always stuck to your mother, in the square.
+*(le cuesta)*
+For twenty years I've heard what they say about you. And it never matched that girl.
+
+**@STELLA**
+And that's why you're untying me?
+
+**@KORIN**
+I'm untying you because you came down off a ship when you didn't have to.
+*(se levanta)*
+The rest we talk about in front of everyone.
+
+Extiende sobre la mesa un plano dibujado a mano: el palacio.
+
+**@KORIN (CONT.)**
 We attack when the light goes. Everything we have.
 *(a @Stella)*
 There's something you should know first. Your father is alive.
@@ -3267,6 +3432,32 @@ Because I took her, little one. Wearing your face. I put the knife in your hand 
 You only arrived afterwards. To pick it up.
 
 Y ríe. Con la risita de una niña.
+
+Y entonces se pone **dulce de verdad**, que es cuando esta cosa da más miedo.
+
+**"@SELKA NIÑA" (CONT.)**
+Do you want to know the last thing your mother heard?
+
+Se acerca. Ladea la cabecita. Y lo dice **muy bajito, pegado al oído de @Selka**, exactamente como se lo dijo a ella:
+
+**"@SELKA NIÑA" (CONT.)**
+*(un susurro de niña)*
+“I remember you too.”
+
+Silencio absoluto en la sala.
+
+**"@SELKA NIÑA" (CONT.)**
+*(se aparta, encantado)*
+That's what I told her. With your mouth. Right against her ear, while she went out.
+
+*(Y ahora entiéndanlo, porque es lo peor que hay en toda la película: @Vera podía morirse creyendo que su hija era **un arma**. Con seis palabras se murió creyendo que su hija **la reconoció.**)*
+
+**"@SELKA NIÑA" (CONT.)**
+You don't remember her. You were one year old.
+*(abre las manos)*
+**You don't have a single memory of your mother.**
+*(beat)*
+And she died certain that you did. That you knew exactly who she was. **And that you did it anyway.**
 
 @Selka retrocede, la cabeza negando sola. Veinte años de certezas cayéndose de golpe.
 
