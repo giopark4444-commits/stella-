@@ -116,5 +116,104 @@ y Thara**. El corpus de prompts tiene **Sarn, Ilka, Ozu, Dova, Fen, Kade, Turo, 
 Pash** — diez nombres que **nunca se generaron**. Los que existen mandan; hay que reasignarles
 los oficios (piloto, médico, artillero, intendente…) a los cinco reales.
 
-**③ FALTAN LAS LOCACIONES.** Hay **39 assets** en la carpeta Locations y **10 en Props** que no
-he podido leer. Sin esos tags, ningún prompt de escenario está bien escrito.
+**③ ¿SON LA MISMA HABITACIÓN LA SALA DEL ORBE Y LA SALA DEL TRONO?** En la biblioteca hay
+`@loc_eridia-orbe-room` y no hay ninguna sala del trono. Si son el mismo sitio veinticuatro años
+después, es un hallazgo enorme y hay que decirlo en el guion. Si son dos, falta una hoja.
+
+**④ ¿QUÉ ES `@prop_orbe-locker`?** Por la miniatura podría ser **la caja donde Naio le mete la mano
+a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace falta `@CajaMano`.
+
+
+---
+
+# 📍 LOCACIONES (39 assets)
+
+## Erdia — el pasado
+
+| Sitio | Tag |
+|---|---|
+| **El parque de la luzagua** | `@loc_luzagua-park` |
+| Erdia viva, el campo | `@loc_erdia-country-side-past` |
+| Erdia en el pasado | `@loc_erdia-past` |
+| **La plaza, de día** | `@loc_erdia-square-day` |
+| **La plaza, de noche** | `@loc_erdia-square-night` |
+| Erdia desde el espacio | `@loc_eridia-from-space` |
+
+## Erdia — el palacio
+
+| Sitio | Tag |
+|---|---|
+| **El laboratorio de Naio** | `@loc_erdia-palace-lab` |
+| **Los pasillos del palacio** ⚠️ sin `loc_` | `@erdia-palace-corridors` |
+| **La sala del Orbe** | `@loc_eridia-orbe-room` |
+| La sala del Orbe, alrededores | `@loc_erdia-orbe-room-surround` |
+| **La sala del Orbe DESTRUIDA** | `@loc_erdia-orbe-room-destroyed` |
+| **La sala de instrucción** ⚠️ typo en origen | `@loc_erdia-palace-traingin-room` |
+
+## Erdia — año 24
+
+| Sitio | Tag |
+|---|---|
+| Erdia destruida | `@loc_erdia-destroyed` |
+| Erdia seca | `@loc_erdia-dry` |
+| **La plaza destruida** | `@loc_erdia-square-destroyed` |
+| Erdia futura | `@loc_erdia-future` |
+| El cielo del año 24 | `@loc_erdia-future-sky` |
+
+## La Nodriza
+
+| Sitio | Tag |
+|---|---|
+| La nave por fuera | `@mothership` |
+| El salón | `@loc_mothership-hall` |
+| El bar | `@loc_mothership-bar` |
+| La sala de control | `@mothership-control-room` ⚠️ sin `loc_` |
+| **El hospital** ⚠️ typo en origen | `@loc_modershipo-hospital` |
+| **La sala de recuperación — el tanque** | `@loc_mothership-recovery-room` |
+
+## El planeta chatarra
+
+| Sitio | Tag |
+|---|---|
+| El planeta | `@loc_junk-planet` |
+| El mercado | `@loc_junk-planet-market` |
+| **EL COLISEO — la fosa de apuestas** | `@loc_junk-planet-colisseum` |
+
+## El puerto espacial
+
+`@space-port` ⚠️ sin `loc_` · `@loc_space-port-view` · `@loc_space-port-lake`
+
+---
+
+# 🔧 PROPS
+
+| Qué es | Tag |
+|---|---|
+| **El brazalete de Stella** | `@prop_stella-bracelet` |
+| Su armadura ver 1.1 | `@prop_stella-armor-ver-1-1` |
+| **El Orbe** | `@prop_orb` |
+| **El Orbe en su sala** | `@prop_orbe-in-room` |
+| **El «orbe locker»** ⚠️ *¿es la caja de la mano?* | `@prop_orbe-locker` |
+
+## Naves
+
+| Qué es | Tag |
+|---|---|
+| **La nave de Stella** | `@ship-stella` |
+| La Nodriza | `@mothership` |
+| Erdianas | `@ship-erdia-1` · `@ship-big-erdia` · `@ship-1-dust-erdia` · `@ship-2-dust-erdia` |
+| **Enemigas** | `@ship-enemy-erdia` · `@ship-enemy-erdia-white` · `@ship-4-enemyy` ⚠️ typo |
+| Genéricas | `@ship-1` · `@ship-2` · `@prop_ship-3` ⚠️ · `@ship-5` |
+
+---
+
+# ❌ LO QUE DE VERDAD FALTA
+
+| Qué | Dónde duele |
+|---|---|
+| **El ducto por dentro** | Sale **tres veces** separadas por 24 años y tiene que ser el mismo tubo. Es la rima más importante del film |
+| **La cúspide con la placa soldada** | **30 segundos de la apertura** sin referencia, y es el objeto que cierra el pago de 24 años |
+| **La fachada de la esfera, de cerca** | Ella pasa **un minuto entero** pegada a esa piedra |
+| **Las celdas del nivel de servicio** | Naio preso 24 años · SEC 19 y SEC 23 |
+| **El refugio de la resistencia** | Todo el acto 2 en Erdia |
+| **Los aposentos de la General** | Selka |
