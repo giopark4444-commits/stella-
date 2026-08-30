@@ -28,8 +28,8 @@ los 9** y no se va nunca. Pero el brazo cambia dos veces en veinte minutos de pe
 
 | Desde | Hasta | Estado del brazo derecho |
 |---|---|---|
-| SEC 12A | SEC 27 (el golpe del Parásito) | **Entero.** Es la General |
-| SEC 27 | mitad de la SEC 29A | **No hay.** Muñón abierto, campo de luz, inconsciente todo el tramo |
+| SEC 12A | SEC 27 (el tentáculo) | **Entero.** Es la General |
+| SEC 27 | mitad de la SEC 29A | **No hay.** Se lo corta el tentáculo **estirándolo hacia el Orbe**, a un palmo. Muñón abierto, campo de luz, inconsciente todo el tramo — **y molida a golpes**, no solo manca |
 | mitad de la SEC 29A | fin de la película | **Brazo biomecánico** de la tecnología del planeta de Nima |
 
 ⚠️ En la SEC 29B **ya lo lleva puesto** y todavía **no lo siente**: por eso toca a su padre con la

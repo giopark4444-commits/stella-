@@ -43,6 +43,36 @@
 >   energía y el conocimiento. Y a @Theron **eso le queda sonando**: en todo el universo hay muy pocas
 >   razas capaces de vivir así. **Y él es una de ellas.** No sabe nada. Tiene un presentimiento. Y por
 >   eso la deja bajar —«bajas, miras, subes»— y por eso acaba bajando él.
+> • **LOS RAYOS SON LA TRAMA ENTERA, DICHA SIN PALABRAS.** Ocho hilos de luz durísima bajan del techo
+>   y están **clavados en el Orbe**, sacándole algo. Se ven en la **SEC 5** (llevan milenios ahí), caen
+>   sobre **aire vacío** en cuanto @Stella se lo lleva, y **vuelven a caer sobre el Orbe** en el segundo
+>   en que @Selka lo coloca en la consola. La máquina no se enciende: **se reanuda.**
+> • **LA SALA SÍ SE ENCIENDE (SEC 25), Y ESE ES EL GOLPE.** @Selka pone el Orbe y la sala se llena de
+>   luz: funcionó, lo hizo ella, y por medio segundo se le ve **alegría** —lo único parecido a alegría
+>   que tiene en toda la película—. Después bajan los rayos. **Darle la victoria un segundo antes de
+>   quitársela** duele más que no dársela nunca.
+> • **EL DESFILE DE CARAS TERMINA EN @STELLA.** @Vera → @Marek → @Selka de niña → y, barajando caras a
+>   toda velocidad, se para en **@Stella**: de pie, entera, viva, a tres metros de la @Stella real que se
+>   muere en el suelo. Con su voz le ofrece **ser ella todos los días, para siempre**. Le acaba de
+>   ofrecer a su hermana **de repuesto**. Eso, y no el duelo, es lo que pone a @Selka en movimiento.
+> • **@SELKA NO ATACA AL REY: VA POR EL ORBE.** Corre hacia la esfera mientras a su espalda la cosa
+>   toma su forma real —**el plano se queda en su cara** y al monstruo lo vemos solo por la luz que le
+>   tapa; **ella no mira atrás ni una vez**—. Salta, estira el brazo, y a **un palmo** de tocarlo un
+>   **tentáculo le corta ese mismo brazo por el hombro**. La agarra **de un pie** en el aire y la
+>   **golpea contra la cubierta** hasta dejarla gravísima; ella sigue tirando tajos colgando boca abajo.
+>   **La para el cuerpo, no la voluntad.**
+> • **LA BRASA DE @GIX ES LO QUE SALVA A LAS DOS.** Vortham deja a @Selka, camina hasta @Stella a
+>   disfrutar su obra maestra, ve el resplandor bajo la piel y **se queda quieto**. Ese segundo de
+>   desconcierto es **exactamente** el hueco por el que entra el rescate. La semilla de la P2 no es
+>   decorativa: **es lo que hace posible el final.**
+> • **EL RESCATE ES DE LOS SUYOS, NO DE @THERON.** @Vosk revienta el mamparo y **se planta** a tapar el
+>   boquete (último pago de su traición), @Nima abre paso, y **BROGU LAS CARGA A LAS DOS A LA VEZ** —una
+>   en cada brazo, abrazadas contra el pecho—. Nadie le pregunta a @Selka: por eso sube.
+> • **@THERON LLEGA TARDE, Y AUN ASÍ CONSIGUE LO ÚNICO QUE NECESITABA.** La Nodriza cae disparando con
+>   Yuri en los controles, pero el palacio **ya despega**. La cubierta del trono, abierta al cielo, le
+>   pasa **por delante** — y @Theron, desde la rampa, **lo ve con sus propios ojos a doscientos metros
+>   de aire.** No dispara: no serviría. Pero su poder exige **referencia física** y acaba de obtenerla.
+>   **Pierde la batalla y gana la cacería.**
 > • **@SELKA SUBE A LA NAVE INCONSCIENTE — y ese es el punto.** Después de perder el brazo **vuelve a
 >   entrar** a pelear y solo la para la estirpe. **Nadie le pregunta si quiere que la salven**, porque
 >   no puede contestar: es la única razón por la que sube. Arriba, mientras @Stella está en el tanque,
@@ -1019,6 +1049,12 @@ Al fondo: las puertas de la **SALA DEL ORBE.**
 
 Una cámara inmensa. En el centro, suspendido, el **ORBE** —una esfera de luzagua pura, latiendo como un corazón segundo del mundo.
 
+Y del techo bajan **RAYOS** —hilos de luz durísima, ocho o diez, clavados en la esfera desde arriba.
+
+No bajan a iluminarla. Bajan a **sacarle** algo. Y llevan así más tiempo del que nadie de este planeta lleva vivo.
+
+*(Toda la trama de la película, dicha en una imagen y sin una palabra: el corazón de Erdia lleva milenios **enchufado a una máquina**.)*
+
 Y **es la única luz que hay aquí dentro.** Todo lo demás en esta sala —las columnas, las máquinas, el Rey, la madre, las dos hijas— **está silueteado contra la cosa que todos quieren.**
 
 @Vera y @Stella entran por un lado, todavía abriéndose paso a golpes.
@@ -1122,7 +1158,9 @@ En el segundo exacto en que sus dedos lo tocan, la **llave de su palma** se enci
 
 Y **la sala se queda a oscuras.**
 
-*(La única luz que había aquí dentro se acaba de ir con ella.)*
+Arriba, los rayos siguen bajando —y ya no encuentran nada. Ocho hilos de luz clavados en **aire vacío.**
+
+*(La única luz que había aquí dentro se acaba de ir con ella. Y esa máquina se va a quedar así, tirando de la nada, **veinticuatro años.**)*
 
 Vortham levanta la mano.
 
@@ -2470,9 +2508,19 @@ Cuéntenlo. La traidora cayó.
 
 @Selka camina hacia la **consola** del trono. Coloca el Orbe en su lugar. Por fin. Va a devolverle la luz a Erdia. Va a ser la heroína que cree ser.
 
-La luz no vuelve.
+Y la sala **se enciende de golpe.**
 
-En cambio, todo **tiembla.** Las paredes del palacio se pliegan. El piso se vuelve cubierta. El trono se abre como un puente de mando. Motores antiquísimos despiertan en lo profundo.
+Luz por todas partes después de veinticuatro años de penumbra. Y a @Selka se le llena la cara de una cosa que no se le ha visto en toda la película: **alegría.** Funcionó. Lo hizo ella.
+
+Le dura **medio segundo.**
+
+Porque del techo bajan los **RAYOS** —los mismos ocho hilos de luz durísima— y **caen sobre el Orbe.** Y **tiran.**
+
+*(La máquina no se enciende: **se reanuda.** Llevaba veinticuatro años clavada en el aire vacío, esperando que alguien le devolviera la pieza. Y se la acaba de devolver ella.)*
+
+El Orbe late, se resiste, y empieza a **vaciarse hacia arriba.**
+
+Y todo **tiembla.** Las paredes del palacio se pliegan. El piso se vuelve cubierta. El trono se abre como un puente de mando. Motores antiquísimos despiertan en lo profundo.
 
 Lo que toda la película creímos un **palacio** —lo que el pueblo creyó por siglos un **meteorito** clavado en la ciudad— se enciende entero.
 
@@ -2588,17 +2636,87 @@ La del piso. La de mi cuarto.
 *(mira a @Stella, dormida-en-coma en el piso)*
 ERA NUESTRA MADRE.
 
+Y la cosa, todavía con la carita de niña, **sonríe.** Porque le queda una.
+
+Empieza a pasar caras a toda velocidad —@Vera, @Marek, un guardia, un rebelde cualquiera, la niña otra vez— como quien baraja.
+
+Y **se para** en una.
+
+**@STELLA.** De pie. Entera. Viva. A tres metros de la @Stella de verdad, que se muere en el suelo.
+
+**"@STELLA"**
+*(con la voz de su hermana, dulcísima)*
+No pasa nada, hermanita. Yo te perdono.
+*(ladea la cabeza — exactamente como lo haría ella)*
+Y si quieres, puedo ser ella todos los días. Para siempre.
+*(beat)*
+Nunca vas a saber la diferencia.
+
+*(Le acaba de ofrecer a su hermana. **De repuesto.** Con la boca de su hermana.)*
+
 ---
 
 ## SEC. 27 — INT. NAVE-PALACIO — CUBIERTA DEL TRONO — CONTINUO
 
-La cosa saborea el momento. Dos hermanas rotas en el mismo piso: su obra maestra.
+@Selka mira esa cara. La de su hermana, puesta encima de la cosa que le mató a su madre.
 
-Y entonces mira el cuerpo de @Stella. Y ve, bajo la piel del pecho, un **resplandor tenue.** Latiendo.
+Y se le apaga algo. No llora. No grita. Se le va todo del rostro, como cuando se apaga una pantalla.
+
+Se levanta. Recoge su hoja de luz del suelo.
+
+**@SELKA**
+¿Cuántos años llevas usándome.
+
+**"@STELLA"**
+*(divertida, todavía con la voz de la otra)*
+Veinticuatro.
+
+**@SELKA**
+Entonces ya sé de memoria cómo se obedece.
+*(levanta los ojos al Orbe, colgado de los rayos)*
+Voy a hacerlo una vez más. **Esta vez elijo yo a quién.**
+
+Y **corre.**
+
+No hacia él. **Hacia el Orbe.**
+
+Y detrás de ella, mientras cruza la cubierta, la cosa **deja de ser cualquiera.**
+
+Esta vez no es un truco: es una **rabieta.** Se le acabaron las caras porque ya no le sirven de nada. Y toma su **forma real.**
+
+El **PARÁSITO.** Una criatura colosal, antigua, hecha de la luz robada de mil mundos. Lo que devora planetas. Lo que dejó hueco el corazón de Erdia.
+
+Llena la sala entera.
+
+*(El plano se queda en la cara de @Selka corriendo. Lo que crece detrás lo vemos solo por cómo le va tapando la luz. **Ella no mira atrás ni una vez.**)*
+
+Salta. Estira el brazo. Los dedos a **un palmo** de la esfera —
+
+—y un **TENTÁCULO** le cruza el aire y le **corta el brazo por el hombro.**
+
+*(Justo el brazo que estiraba. **Casi lo tenía.**)*
+
+@Selka cae girando. Y antes de tocar la cubierta, el tentáculo **la agarra de un pie.**
+
+Y la cosa empieza a **golpearla contra el suelo.**
+
+Una vez. Otra. Otra. La levanta y la vuelve a bajar, sin rabia, como quien sacude algo para ver si todavía suena.
+
+Y @Selka —colgando de un pie, sin un brazo— **sigue tirando tajos** con la hoja que no soltó. A nada. Al aire. A lo que alcance.
+
+*(No la para el dolor. No la para el miedo. No la para el monstruo. La para **el cuerpo**, que se le acaba.)*
+
+Al final se queda quieta. La cosa la suelta y la deja caer.
+
+Y camina hasta **@Stella.**
+
+Su obra maestra: dos hermanas rotas en el mismo piso. Una que lo hizo todo por amor y otra que lo hizo todo por él.
+
+Y entonces ve, bajo la piel del pecho de @Stella, un **resplandor tenue.** Latiendo.
 
 No está muerta.
 
-Por primera vez en toda la película, esa cosa se queda absolutamente quieta.
+Por primera vez en toda la película, esa cosa se queda **absolutamente quieta.**
 
 **VORTHAM**
 *(muy bajo, para sí)*
@@ -2606,87 +2724,77 @@ Por primera vez en toda la película, esa cosa se queda absolutamente quieta.
 
 La muerte que se dio el gusto de mirar, la agonía con la que jugó —no ocurrió. Algo diminuto, dentro de la niña, le arruinó el placer. Y no sabe qué es.
 
-Y al otro lado de la sala, @Selka **deja de temblar.**
+**Y ese segundo que se queda mirando es el que le cuesta las dos.**
 
-No llora. No grita. Se le va todo de la cara, como cuando se apaga una pantalla. Se levanta. Recoge su hoja de luz del suelo.
+Porque el mamparo revienta **hacia adentro.**
 
-**@SELKA**
-¿Cuántos años llevas usándome.
+Entra **@VOSK** el primero. Y no ataca: **se planta.** Clava los pies en la boca del boquete y **aguanta** — y todo lo que baja por ese pasillo se le rompe encima.
 
-**VORTHAM**
-*(divertido, recomponiéndose)*
-Veinticuatro.
+*(El que se vendió por los suyos, sosteniendo una puerta. Lleva toda la película pagando, y este es el último pago.)*
 
-**@SELKA**
-Entonces ya sé de memoria cómo se obedece.
-*(enciende la hoja)*
-Voy a hacerlo una vez más. Esta vez elijo yo a quién.
+Detrás pasa **@NIMA**, apagando con sus cacharros todo lo que se mueve. Y detrás, **BROGU.**
 
-Y ataca —no por rabia: para **cubrir el rescate de su hermana.**
+El gigante llega hasta las dos hermanas. Se agacha.
 
-A Vortham se le borra la sonrisa. Dos cosas fuera de control en un mismo minuto: la niña que no murió, y el arma que eligió bando.
+Y **las levanta a las dos a la vez** —una en cada brazo, contra el pecho— y **las abraza**, como quien tapa dos cosas pequeñas con el cuerpo entero.
 
-Y la cosa abandona todos los disfraces. No como un truco: como una **rabieta.** Toma su **forma real.**
+*(Es lo único que sabe hacer, y es exactamente lo que hacía falta.)*
 
-El **PARÁSITO.** Una criatura colosal, antigua, hecha de la luz robada de mil mundos. Lo que devora planetas. Lo que dejó hueco el corazón de Erdia.
+*(A @Selka nadie le pregunta. **Y esa es la única razón por la que sube a esa nave:** eligió morir en esa cubierta yendo por el Orbe, y no le dejan.)*
 
-Llena la sala entera.
+Arrancan de vuelta por el boquete. @Vosk sale el último, de espaldas, sin dejar de tapar el hueco.
 
-@Selka no le da la talla. Ni cerca.
+Y **@NIMA levanta la cara.**
 
-El Parásito, casi sin notarlo, le **secciona el brazo** de un golpe.
+Ve los rayos tirando del Orbe. Ve la cubierta abriéndose al cielo. Ve la cosa.
 
-@Selka cae. Y no se queda en el suelo.
-
-Se levanta con lo que le queda, recoge la hoja **con la otra mano** y **vuelve a entrar.**
-
-Un paso. Dos. Al tercero se le van las piernas y se derrumba de lado.
-
-*(No se rinde. **Se le acaba la estirpe.** Es lo único en toda la película que consigue pararla.)*
-
-ARRIBA, EN LA NODRIZA.
-
-**@NIMA** está mirando la lectura de lo que acaba de encenderse allá abajo. Y se le va el color de la cara.
-
-Porque ella es la que entiende cómo vuelan las naves. Y una nave **de ese tamaño**, alimentada por el corazón entero de un planeta, **solo puede ser una cosa.**
+Y es ella —la que entiende cómo vuelan las naves— la que entiende **qué** es eso. Una nave **de ese tamaño**, alimentada por el corazón entero de un planeta, **solo puede ser una cosa.**
 
 **@NIMA**
-*(por el canal, muy quieta)*
+*(por el canal, corriendo, sin aliento)*
 @Theron.
 *(beat)*
-Es él. **Es lo que llevas buscando.**
+**Es él. Es lo que llevas buscando.**
 
 Silencio en el canal.
 
-*(Veinte mil años. Y la certeza le llega por una lectura de consola, dicha por una elfa azul de metro y medio.)*
+*(Veinte mil años de cacería. Y la certeza le llega gritada, a la carrera, por una elfa azul de metro y medio.)*
 
 **@THERON (V.O.)**
 *(dos palabras)*
 Bajen todo.
 
+EXT. PALACIO IMPERIAL — CONTINUO
+
 Y **la NODRIZA cae del cielo disparando.**
 
-En los controles, **YURI** — pilotando y disparando a la vez, metiendo una nave del tamaño de un edificio entre las torres de un palacio que se está despegando del suelo.
+En los controles, **YURI** — pilotando y disparando a la vez, metiendo una nave del tamaño de un edificio entre las torres de un palacio **que ya se está despegando del suelo.**
 
-Una explosión revienta el mamparo.
+Llega tarde. Y lo saben todos.
 
-Entra **@THERON.**
+La ciudad se raja de lado a lado. La esfera se arranca de Erdia levantando media montaña con ella. Y la cubierta del trono, ya abierta al cielo, pasa **por delante** de la Nodriza.
 
-Mira al monstruo. Por primera vez en veinte mil años lo ve con sus propios ojos. Y todo —cada planeta apagado, cada rastro perdido— por fin tiene cara.
+En la rampa, agarrado al mamparo, **@THERON.**
+
+Y ahí, a doscientos metros de aire, de pie entre los rayos, **lo ve.**
+
+Por primera vez en veinte mil años lo ve con sus propios ojos. Y todo —cada planeta apagado, cada rastro perdido, cada siglo— por fin **tiene cara.**
 
 **@THERON**
 *(bajo, casi un rezo)*
 Ahí estás.
 
-Aprovechando que @Theron le hace frente, **BROGU** y **@NIMA** entran por la brecha. Brogu levanta a **@Stella** (en coma) como a una pluma y se la echa a un hombro. A **@Selka** —inconsciente, sin brazo, todavía con la hoja en la mano— la levanta **@VOSK**, que llegó después de todo.
+No dispara. No serviría de nada y lo sabe.
 
-*(Nadie le pregunta. **Y esa es la única razón por la que sube a esa nave:** eligió morir ahí cubriendo a su hermana, y no le dejan.)* @Nima va delante abriéndoles paso, apagando lo que se mueva.
+*(Y da igual: lo que le hacía falta era **verlo.** Ya lo tiene.)*
+
+Abajo, la Nodriza recoge a los suyos. **BROGU** sube con las dos hermanas todavía apretadas contra el pecho. **@VOSK** sube el último, sangrando, y todavía mirando hacia atrás.
 
 **@NIMA**
-*(a @Theron, gritando)*
-¡Las tengo! ¡VÁMONOS!
+*(desde la rampa, gritando)*
+¡Están arriba! ¡VÁMONOS!
 
-@Theron retrocede de espaldas, sin quitarle los ojos al Parásito, hasta la brecha.
+Y la rampa se cierra.
 
 ---
 
@@ -2718,6 +2826,8 @@ Por fin sé adónde va a llevarlo.
 Luz blanca, quirúrgica. Nada de la calidez del resto de la nave.
 
 **@SELKA**, boca arriba sobre la mesa. Inconsciente desde el palacio. Le han cortado la manga del uniforme imperial hasta el hombro, y lo que queda del brazo está abierto y sostenido en el aire por un campo de luz.
+
+No es lo único: la cosa la estuvo golpeando contra una cubierta de metal sujetándola de un pie. **Está entera de un color que no es el suyo.**
 
 De pie sobre un cajón para alcanzar la mesa —y sin mencionarlo nunca— **@NIMA** trabaja.
 
