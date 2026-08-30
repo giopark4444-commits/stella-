@@ -3383,47 +3383,6 @@ Llegan a la boca del pasillo, donde el estruendo de arriba ya es ensordecedor. A
 
 Y **CARL y LUCY no se van con él.** Se quedan. Se colocan a los lados de @Noah, espalda contra espalda, **como en el pozo.**
 
-> ⚠️ **BLOQUE PROVISIONAL — la opción 6D.** Va aquí, justo antes de salir al boquete. **Léelo en su
-> sitio y decidimos si se queda o se va.** Si se queda, es el plano más cruel de la película; si se va,
-> no se pierde nada estructural.
-
-INT. PASILLO DE SERVICIO — CONTINUO
-
-@Stella avanza con su padre a cuestas, la capucha calada, la cabeza baja. Detrás, @Noah, Carl y Lucy.
-
-Y por el pasillo, de frente, **viene gente.** Oficiales, técnicos, guardias corriendo hacia arriba: el palacio entero se está moviendo.
-
-Y en medio de todo eso, dando órdenes sin levantar la voz, **pasa una mujer de pelo blanco.**
-
-No la vemos entera. Un hombro. Media cara. La voz.
-
-**VOZ DE MUJER (O.S.)**
-*(pasando de largo)*
-You. That man can't be down here. Take him up to level four.
-
-@Stella, sin levantar la cara, con su padre en los brazos:
-
-**@STELLA**
-Yes, General.
-
-Y **la mujer sigue andando.**
-
-Un metro. Se cruzan a **un metro.**
-
-*(Y aquí es donde hay que aguantar el plano: ninguna de las dos mira a la otra. Una porque no puede permitírselo. La otra **porque no tiene motivo.**)*
-
-Y en los brazos de @Stella, **@NAIO abre mucho el ojo bueno.**
-
-Porque él sí conoce esa voz. La oye desde arriba, a través de la piedra, **desde hace veinte años.**
-
-Le clava los dedos en el hombro a su hija. Y @Stella, sin dejar de andar, **le aprieta la mano para que se calle.**
-
-*(Él lo sabe. Ella no. Y no va a saberlo hasta dentro de diez minutos, en una habitación donde ya no se pueda arreglar.)*
-
-Siguen andando. Cada una en su dirección.
-
-FIN DEL BLOQUE PROVISIONAL.
-
 **@NOAH**
 Come with us.
 

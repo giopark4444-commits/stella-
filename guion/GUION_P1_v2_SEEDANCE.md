@@ -469,10 +469,15 @@
 >   saber quién era. *«Me robaron los recuerdos de mi propia familia y **ni siquiera puedo echarlos de
 >   menos**, porque no sé qué es lo que falta.»* *(Una se acuerda de todo y no puede contarlo; la otra
 >   no se acuerda de nada y no para de preguntar. **Están a un centímetro y a veinte años.**)*
-> • ⚠️ **BLOQUE PROVISIONAL EN LA SEC 23 (opción 6D):** las hermanas **se cruzan a un metro sin
->   reconocerse** en un pasillo de servicio; @Selka le da una orden de rutina y @Stella contesta *«sí,
->   general»* sin levantar la cara. Y **@NAIO sí reconoce esa voz** —lleva veinte años oyéndola a través
->   de la piedra— y le clava los dedos en el hombro. **Marcado como provisional: decidir si se queda.**
+> • 🔒 **LAS HERMANAS NO SE CRUZAN ANTES DE LA SALA DEL TRONO. NUNCA.** ⚠️ Se escribió y **se cortó**
+>   un bloque en la SEC 23 en el que se cruzaban a un metro en un pasillo. Fuera, y por dos razones —la
+>   segunda es la que manda:
+>   **①** Le robaba a la SEC 24 su *«por primera vez en veinte años»*, que es donde está toda la carga.
+>   **② Y rompía la confusión sobre la que está construida la película entera.** Si @Stella se ha
+>   cruzado con su hermana esa misma noche, **no puede confundir la silueta de pelo blanco con su
+>   madre** — y ese error es el que abre el film en frío (SEC 0) y el que se cobra en la SEC 24.
+>   🔒 **Regla dura: el primer plano en que @Stella ve a @Selka en veinte años es la figura de espaldas
+>   al fondo de la sala del trono. No hay ninguno antes.**
 > • ⚠️ **«NODO» NO SE EXPLICA, Y ES DELIBERADO.** Decisión de Gio: la palabra no entra en la película.
 >   El título se queda; el film no lo glosa.
 > • **Las acotaciones se quedan como están** —son la guía de producción de los prompts—. Queda abierta
@@ -4096,47 +4101,6 @@ Llegan a la boca del pasillo, donde el estruendo de arriba ya es ensordecedor. A
 *(Es la última vez que @Naio pisa Erdia. Sube a la Nodriza sin saber que su hija está a doscientos metros por encima de él.)*
 
 Y **CARL y LUCY no se van con él.** Se quedan. Se colocan a los lados de @Noah, espalda contra espalda, **como en el pozo.**
-
-> ⚠️ **BLOQUE PROVISIONAL — la opción 6D.** Va aquí, justo antes de salir al boquete. **Léelo en su
-> sitio y decidimos si se queda o se va.** Si se queda, es el plano más cruel de la película; si se va,
-> no se pierde nada estructural.
-
-INT. PASILLO DE SERVICIO — CONTINUO
-
-@Stella avanza con su padre a cuestas, la capucha calada, la cabeza baja. Detrás, @Noah, Carl y Lucy.
-
-Y por el pasillo, de frente, **viene gente.** Oficiales, técnicos, guardias corriendo hacia arriba: el palacio entero se está moviendo.
-
-Y en medio de todo eso, dando órdenes sin levantar la voz, **pasa una mujer de pelo blanco.**
-
-No la vemos entera. Un hombro. Media cara. La voz.
-
-**VOZ DE MUJER (O.S.)**
-*(pasando de largo)*
-Tú. Ese hombre no puede estar aquí abajo. Súbelo al nivel cuatro.
-
-@Stella, sin levantar la cara, con su padre en los brazos:
-
-**@STELLA**
-Sí, general.
-
-Y **la mujer sigue andando.**
-
-Un metro. Se cruzan a **un metro.**
-
-*(Y aquí es donde hay que aguantar el plano: ninguna de las dos mira a la otra. Una porque no puede permitírselo. La otra **porque no tiene motivo.**)*
-
-Y en los brazos de @Stella, **@NAIO abre mucho el ojo bueno.**
-
-Porque él sí conoce esa voz. La oye desde arriba, a través de la piedra, **desde hace veinte años.**
-
-Le clava los dedos en el hombro a su hija. Y @Stella, sin dejar de andar, **le aprieta la mano para que se calle.**
-
-*(Él lo sabe. Ella no. Y no va a saberlo hasta dentro de diez minutos, en una habitación donde ya no se pueda arreglar.)*
-
-Siguen andando. Cada una en su dirección.
-
-FIN DEL BLOQUE PROVISIONAL.
 
 **@NOAH**
 Ven con nosotros.
