@@ -217,6 +217,26 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • 🔒 **STELLA NO SALTA. SE ENCIENDE.** ⚠️ Se retiró el hipersalto de la SEC 8. Su nave **se queda
+>   muerta y flotando** en mitad del vacío, sin motores y sin oxígeno. Ella pone la palma en el tablero
+>   por desesperación y la nave **no se mueve**: toda esa energía **sale**, y ese punto diminuto se
+>   convierte durante unos segundos en **lo más luminoso de esa parte del universo.** *(No encendió un
+>   motor: **encendió una bengala.** Intentó volar y lo que hizo fue **gritar**.)*
+> • **QUIEN SALTA ES LA NODRIZA.** Theron cruza porque **detectan esa cantidad absurda de energía** —el
+>   Orbe dentro de ella— y saltan a por la lectura. Lo lee **NIMA**, que es la que entiende cómo vuelan
+>   las naves. *(Y es la segunda vez que una lectura de Nima cambia la película: la primera encuentra a
+>   Stella, la segunda identifica al Parásito en la SEC 27.)*
+>   Consecuencias que ya estaban escritas y ahora son literales:
+>   **«La encontramos por la energía que le sale del cuerpo. Nada más.»** (SEC 10) ·
+>   **«Eso que llevas brilla… y todo lo que brilla así se puede seguir.»** (SEC 10A) ·
+>   **«No te salvé. Te recogí.»**
+> • 🔒 **EL SALTO ES DE LA NODRIZA, NO DE ELLA — Y POR ESO EL ACTO 2 EXISTE.** Stella no puede volver
+>   sola: no tiene nave, y aunque la tuviera, **el salto es una capacidad de la Nodriza y la decide
+>   Theron.** Por eso «bajas, miras, subes» no es paternalismo: **es la llave de la única puerta.**
+>   Y por eso la escena del lago (SEC 20C) es la escena más importante del acto 3 — no está pidiendo
+>   un favor, **está pidiendo el único barco que hace ese viaje.**
+> • ⚠️ **NADIE DICE «OTRO UNIVERSO».** Está lejos, al otro lado de un salto. La dilatación 1:4 hace
+>   todo el trabajo trágico sin necesidad de realidades paralelas.
 > • 🔒 **LA SALA DEL TRONO ES LA SALA DEL ORBE.** Es **la misma habitación**, veinte años después:
 >   `@loc_eridia-orbe-room` para el año 0 y su versión del año 20 para el clímax. No hace falta hoja
 >   de sala del trono. Y no es un ahorro de producción: **es la película.** Stella cae por el ducto y
@@ -1474,17 +1494,41 @@ Una alarma suave. Luego otra. **OXÍGENO: CRÍTICO.**
 
 Stella respira cada vez más despacio. Llora sin ruido. Tiene catorce años, acaba de ver morir a su madre y a un montón de desconocidos, y se está quedando sin aire en mitad de la nada.
 
+La nave, además, **se para.**
+
+Los motores se apagan solos. Un panel tras otro se va a negro. Lo que la sacó del planeta era lo último que tenía, y ya no tiene.
+
+Queda **flotando.** Sin avanzar. En mitad de la nada, sin un solo punto de referencia en ninguna ventana.
+
+*(Ni siquiera se está estrellando contra nada. **Se va a morir quieta.**)*
+
 Mira su mano. La **llave de luz.** El **Orbe** latiendo dentro.
 
-Y en un acto de pura desesperación —sin saber lo que hace— pone la **palma sobre el tablero.**
+Y en un acto de pura desesperación —sin saber lo que hace, solo porque es lo único que le queda— pone la **palma sobre el tablero.**
 
-La energía del Orbe empieza a fluir hacia la nave. Los paneles se encienden uno tras otro. La carga sube. Sube. Todo el sistema empieza a temblar, a sobrecargarse, a colapsar—
+Y la energía del Orbe **entra en la nave.**
 
-—y la nave da un **HÍPER SALTO.**
+Los paneles se encienden uno tras otro. La carga sube. Sube. Sube mucho más de lo que ese cacharro puede aguantar. Todo empieza a temblar, a sobrecargarse—
 
-Un estallido de luz blanca se traga la pantalla. La nave es arrancada de su universo.
+—y **la nave no se mueve.**
 
-*(Y hay que decirlo, porque es lo que la define: **el salto no le arregla el aire.** Sigue sin oxígeno, y ahora además está en un sitio donde no conoce a nadie. No ha resuelto nada. **Solo se ha negado a quedarse quieta mientras se moría.**)*
+No va a ningún sitio. Está muerta. Lo único que hace toda esa energía es **salir.**
+
+EXT. — LA NAVE, DESDE MUY LEJOS.
+
+Un punto diminuto en el vacío absoluto.
+
+Y **se enciende.**
+
+Una columna de luz sale de esa chatarra y **atraviesa la oscuridad** en todas direcciones, muchísimo más grande que la nave que la produce. Durante unos segundos, ese punto es **lo más luminoso que hay en esta parte del universo.**
+
+*(No ha encendido un motor. **Ha encendido una bengala.** Y hay que decirlo, porque es lo que la define: intentó volar y lo que hizo fue **gritar** — con la voz más fuerte que existe, sin saber que estaba gritando, y sin saber quién puede oírla.)*
+
+DENTRO. Stella, con la palma pegada al tablero, se desmaya encima de los mandos.
+
+La luz sigue saliendo sin ella.
+
+*(El aire no se le arregló. No ha resuelto nada. **Solo se ha negado a quedarse quieta mientras se moría** — y esa es la única razón por la que alguien va a encontrarla.)*
 
 Blanco total.
 
@@ -1529,7 +1573,8 @@ CORTE A NEGRO.
 
 # ACTO 2 · 承 (SHŌ) — EL EXILIO / ERDIA SE PUDRE
 
-> *(Montaje intercalado: la vida de Stella en el otro universo ↔ Erdia muriéndose. Rótulos de año en cada salto. Por la dilatación 1:4, Stella envejece poco mientras su mundo se derrumba mucho.)*
+> *(Montaje intercalado: la vida de Stella **al otro lado del salto** ↔ Erdia muriéndose. Rótulos de año
+> en cada corte. Por la dilatación 1:4, Stella envejece poco mientras su mundo se derrumba mucho.)*
 
 ---
 
@@ -1594,8 +1639,12 @@ Y en la mesa se oyen unas botas.
 
 **THERON**
 No la estamos salvando.
+*(a Sabo, sin dejar de mirarla)*
+Nima leyó una lectura que no cabía en la consola. Una nave muerta, sin motores, en mitad de la nada — **echando más energía que una estrella.**
 *(beat)*
-La encontramos por la energía que le sale del cuerpo. Nada más.
+Saltamos por eso. **La encontramos por la energía que le sale del cuerpo. Nada más.**
+
+*(La niña de la mesa no sabe nada de esto: cree que se desmayó y despertó aquí. **Nunca va a saber que ella misma encendió la bengala** que la sacó de ahí.)*
 
 Y en la última palabra, **sin mover la cabeza**, los ojos se le van hacia abajo. A la muñeca izquierda de ella.
 
@@ -3397,7 +3446,7 @@ No vine a pelear contigo.
 **SELKA**
 Todos dicen eso antes de morir.
 
-Selka ataca. Y aquí descubrimos algo: Stella **podría ganar.** Entrenó con cazadores de otro universo; es más rápida, más fuerte. Bloquea, desvía, la desarma una vez. Pero no remata. **No quiere vencerla. Quiere alcanzarla.**
+Selka ataca. Y aquí descubrimos algo: Stella **podría ganar.** Entrenó cinco años con cazadores del otro lado del cielo; es más rápida, más fuerte. Bloquea, desvía, la desarma una vez. Pero no remata. **No quiere vencerla. Quiere alcanzarla.**
 
 **STELLA**
 *(esquivando)*

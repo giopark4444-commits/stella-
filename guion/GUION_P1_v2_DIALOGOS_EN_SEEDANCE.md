@@ -1083,17 +1083,41 @@ Una alarma suave. Luego otra. **OXÍGENO: CRÍTICO.**
 
 @Stella respira cada vez más despacio. Llora sin ruido. Tiene catorce años, acaba de ver morir a su madre y a un montón de desconocidos, y se está quedando sin aire en mitad de la nada.
 
+La nave, además, **se para.**
+
+Los motores se apagan solos. Un panel tras otro se va a negro. Lo que la sacó del planeta era lo último que tenía, y ya no tiene.
+
+Queda **flotando.** Sin avanzar. En mitad de la nada, sin un solo punto de referencia en ninguna ventana.
+
+*(Ni siquiera se está estrellando contra nada. **Se va a morir quieta.**)*
+
 Mira su mano. La **llave de luz.** El **Orbe** latiendo dentro.
 
-Y en un acto de pura desesperación —sin saber lo que hace— pone la **palma sobre el tablero.**
+Y en un acto de pura desesperación —sin saber lo que hace, solo porque es lo único que le queda— pone la **palma sobre el tablero.**
 
-La energía del Orbe empieza a fluir hacia la nave. Los paneles se encienden uno tras otro. La carga sube. Sube. Todo el sistema empieza a temblar, a sobrecargarse, a colapsar—
+Y la energía del Orbe **entra en la nave.**
 
-—y la nave da un **HÍPER SALTO.**
+Los paneles se encienden uno tras otro. La carga sube. Sube. Sube mucho más de lo que ese cacharro puede aguantar. Todo empieza a temblar, a sobrecargarse—
 
-Un estallido de luz blanca se traga la pantalla. La nave es arrancada de su universo.
+—y **la nave no se mueve.**
 
-*(Y hay que decirlo, porque es lo que la define: **el salto no le arregla el aire.** Sigue sin oxígeno, y ahora además está en un sitio donde no conoce a nadie. No ha resuelto nada. **Solo se ha negado a quedarse quieta mientras se moría.**)*
+No va a ningún sitio. Está muerta. Lo único que hace toda esa energía es **salir.**
+
+EXT. — LA NAVE, DESDE MUY LEJOS.
+
+Un punto diminuto en el vacío absoluto.
+
+Y **se enciende.**
+
+Una columna de luz sale de esa chatarra y **atraviesa la oscuridad** en todas direcciones, muchísimo más grande que la nave que la produce. Durante unos segundos, ese punto es **lo más luminoso que hay en esta parte del universo.**
+
+*(No ha encendido un motor. **Ha encendido una bengala.** Y hay que decirlo, porque es lo que la define: intentó volar y lo que hizo fue **gritar** — con la voz más fuerte que existe, sin saber que estaba gritando, y sin saber quién puede oírla.)*
+
+DENTRO. @Stella, con la palma pegada al tablero, se desmaya encima de los mandos.
+
+La luz sigue saliendo sin ella.
+
+*(El aire no se le arregló. No ha resuelto nada. **Solo se ha negado a quedarse quieta mientras se moría** — y esa es la única razón por la que alguien va a encontrarla.)*
 
 Blanco total.
 
@@ -1138,7 +1162,8 @@ CORTE A NEGRO.
 
 # ACTO 2 · 承 (SHŌ) — EL EXILIO / ERDIA SE PUDRE
 
-> *(Montaje intercalado: la vida de @Stella en el otro universo ↔ Erdia muriéndose. Rótulos de año en cada salto. Por la dilatación 1:4, @Stella envejece poco mientras su mundo se derrumba mucho.)*
+> *(Montaje intercalado: la vida de @Stella **al otro lado del salto** ↔ Erdia muriéndose. Rótulos de año
+> en cada corte. Por la dilatación 1:4, @Stella envejece poco mientras su mundo se derrumba mucho.)*
 
 ---
 
@@ -1203,8 +1228,12 @@ Y en la mesa se oyen unas botas.
 
 **@THERON**
 We are not saving her.
+*(a Sabo, sin dejar de mirarla)*
+@Nima got a reading the console couldn't hold. A dead ship, no engines, in the middle of nowhere — **putting out more energy than a star.**
 *(beat)*
-We found her because of the great power of energy coming from her body. Nothing else…
+We jumped for that. **We found her because of the great power of energy coming from her body. Nothing else.**
+
+*(La niña de la mesa no sabe nada de esto: cree que se desmayó y despertó aquí. **Nunca va a saber que ella misma encendió la bengala** que la sacó de ahí.)*
 
 Y en la última palabra, **sin mover la cabeza**, los ojos se le van hacia abajo. A la muñeca izquierda de ella.
 
@@ -3006,7 +3035,7 @@ I didn't come here to fight you.
 **@SELKA**
 Everyone says that before they die.
 
-@Selka ataca. Y aquí descubrimos algo: @Stella **podría ganar.** Entrenó con cazadores de otro universo; es más rápida, más fuerte. Bloquea, desvía, la desarma una vez. Pero no remata. **No quiere vencerla. Quiere alcanzarla.**
+@Selka ataca. Y aquí descubrimos algo: @Stella **podría ganar.** Entrenó cinco años con cazadores del otro lado del cielo; es más rápida, más fuerte. Bloquea, desvía, la desarma una vez. Pero no remata. **No quiere vencerla. Quiere alcanzarla.**
 
 **@STELLA**
 *(esquivando)*
