@@ -220,7 +220,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | ~~El camarote de Stella~~ ✅ | Se rueda en **el salón**: `@loc_mothership-hall` |
 | **Los pasillos de la Nodriza** ⚠️ | SEC 11 — *propuesto sustituirlos por `@loc_mothership-bar`: la escena es un comedor, no un pasillo* |
 | ~~El interior de la nave de Stella~~ ✅ | Gio lo resuelve **por prompt + frame de referencia** para la continuidad |
-| **El planeta de los cometas** | SEC 16 |
+| ~~El planeta de los cometas~~ ✅ | Ya generado por Gio |
 | **3–4 mundos para el montaje** | SEC 20B — 2:30–3:00 de película |
 | **La cúspide** ⚠️ | SEC 0 · 23B — *¿basta `@loc_facade` + `@prop_palace-cover`?* |
 
