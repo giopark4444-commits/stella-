@@ -285,10 +285,21 @@
 >   No es una cúpula sobre un edificio: es una bola. La cúspide es su punto más alto.
 >   @Noah una **hoja de luz**; Brogu sus manos; @Nima cacharros que fabrica ella. La violencia se muestra
 >   **por luz, nunca por estirpe.**
-> • ⚠️ **EN SUS MUÑECAS NO HAY MÁS QUE LOS BRAZALETES.** La **muñequera** que marca «MAX» pertenece
->   **solo al traje que le hizo su padre** y solo se ve en el año 0 (SEC 5). **@Nima no le monta ninguna
->   en el traje de la SEC 16** —le toma medidas de todo menos de las muñecas— y a partir de ahí, en
->   toda la película, **lo único que lleva en las muñecas son los dos brazaletes.**
+> • ⚠️ **EN SUS MUÑECAS NO HAY MÁS QUE LOS BRAZALETES.** La **muñequera** pertenece **solo al traje
+>   que le hizo su padre** y solo se ve en el año 0 (SEC 3–8). **@Nima no le monta ninguna en el traje
+>   de la SEC 16** —le toma medidas de todo menos de las muñecas— y a partir de ahí, en toda la
+>   película, **lo único que lleva en las muñecas son los dos brazaletes.**
+> • 🔒 **LA MUÑEQUERA NO ESCRIBE NADA. ES UN COLOR.** Se retiró el «MAX»: **no marca texto en ningún
+>   plano de la película.** Solo dos estados:
+>   **AZUL** = cargada. Se enciende en la **SEC 5**, en el segundo en que el Orbe se le integra.
+>   **ROJO PARPADEANTE** = aviso, se está quedando sin energía para los dashes. Se enciende en la
+>   **SEC 6**, subiendo por el ducto con @S1G1 detrás.
+>   ⚠️ **Ningún número, ninguna letra, ningún icono.** *(Y en el plano importa: el texto renderizado
+>   sale roto y delata la imagen. Un color no.)*
+> • **NO SALE DEL DUCTO POR SUS MEDIOS.** Los propulsores le fallan a mitad del tubo —sube a tirones
+>   cada vez más cortos, gasta el último y **se queda sin nada** con el cazador a un brazo—. Lo que la
+>   escupe al cielo es **la onda de la explosión de @S1G1.** *(Y eso enlaza con la SEC 8: «no ha
+>   resuelto nada; solo se ha negado a quedarse quieta mientras se moría».)*
 > • **LOS BRAZALETES CAMBIAN DE ASPECTO UNA SOLA VEZ EN TODA LA PELÍCULA, EN LA SEC 20D**, cuando
 >   **@Theron le da su último traje** —el suyo propio, de hace mucho, ajustado por @Nima—. El material le
 >   corre por los brazos y los brazaletes se rehacen: **más finos, más limpios, encajados en el traje.**
@@ -298,7 +309,7 @@
 >   traje de vuelo. Ya los usa a los 14 para escapar por el ducto (SEC 6) — es el mismo movimiento que
 >   la sube por el palacio en la SEC 0 y la SEC 23, veinticuatro años después.
 > • **Vestuario de @Stella, cuatro estados:** ropa civil (parque) → **armadura "04" de su padre**, con
->   trenza y con la muñequera «MAX» (lab/huida, año 0) → tras cortarse la trenza, la misma armadura con
+>   trenza y con la muñequera de color (lab/huida, año 0) → tras cortarse la trenza, la misma armadura con
 >   **pelo corto** → **traje de @Nima**, ligero y a su medida y **sin muñequera** (SEC 16, año 3) →
 >   **traje de @Theron + pelo teñido de oscuro + brazaletes rehechos** (SEC 20D, acto 3).
 >
@@ -1285,7 +1296,11 @@ Directo al Orbe.
 
 **Y @Stella lo toma.**
 
-En el segundo exacto en que sus dedos lo tocan, la **llave de su palma** se enciende. La esfera se integra, se hace pequeña, late en su mano. La **muñequera marca: "MAX".**
+En el segundo exacto en que sus dedos lo tocan, la **llave de su palma** se enciende. La esfera se integra, se hace pequeña, late en su mano.
+
+Y en el antebrazo, la **muñequera del traje se pone AZUL.**
+
+*(No dice nada. No marca nada. **Es un color y ya:** azul es que está llena. Se lo montó su padre esta mañana.)*
 
 Y **la sala se queda a oscuras.**
 
@@ -1361,11 +1376,29 @@ Las ve por **última vez.**
 
 Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinticuatro años después va a volver a entrar por aquí, en dirección contraria.)*
 
-**@S1G1** se levanta, dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas—
+**@S1G1** se levanta, dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas.
 
-—y se **atasca** en el orificio. Forcejea. Chispas. **EXPLOTA.**
+Y en el antebrazo de @Stella, el azul **se pone ROJO.**
 
-La onda escupe a @Stella por el otro lado, al cielo abierto.
+Y empieza a **parpadear.**
+
+*(Tampoco dice nada. **Solo avisa.** Y ella sabe perfectamente lo que significa.)*
+
+Los propulsores le empiezan a fallar. Ya no sube seguido: sube **a tirones**, cada vez más cortos, raspando las paredes del tubo entre uno y otro.
+
+Un tirón. Se apaga. Cae medio metro. Otro tirón.
+
+Y el cazador cada vez más cerca.
+
+Le queda **uno.**
+
+Lo usa —y no le alcanza. Se queda a mitad del tubo, sin nada, con @S1G1 a un brazo de sus botas—
+
+—y el robot se **atasca** en el orificio. Forcejea. Chispas. **EXPLOTA.**
+
+Y es **la onda** la que la escupe por el otro lado, al cielo abierto.
+
+*(No sale por sus medios. **Sale porque la cosa que la perseguía revienta debajo de ella.** El rojo se apaga cuando ya está fuera, y ella ni lo mira.)*
 
 ABAJO, en la sala a oscuras: @Vera **boca abajo entre los escombros, sin moverse.**
 

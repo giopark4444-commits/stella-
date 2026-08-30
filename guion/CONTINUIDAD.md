@@ -46,9 +46,14 @@ SEC 3 hasta el tanque del final. **No se le quitan nunca** — ni durmiendo, ni 
 collar puesto, ni en coma. Y **le sirve cualquiera de los dos, indistintamente**: no hay que acordarse
 de cuál. Si en un plano solo se le ve una muñeca, **en la otra también hay brazalete.**
 
-⚠️ **Y no lleva nada más en las muñecas.** La muñequera que marca «MAX» es **solo del traje de su
-padre** y solo se ve en el año 0. A partir de la SEC 16 no hay ninguna: solo los dos brazaletes. El
-resplandor azul sale **por debajo del brazalete izquierdo**, el del lado de la llave — nunca del derecho.
+⚠️ **Y no lleva nada más en las muñecas.** La muñequera es **solo del traje de su padre** y solo se
+ve en el año 0 (SEC 3–8). A partir de la SEC 16 no hay ninguna: solo los dos brazaletes. El
+resplandor azul del Orbe sale **por debajo del brazalete izquierdo**, el del lado de la llave — nunca
+del derecho.
+
+⚠️ **Y la muñequera NO ESCRIBE NADA: es un color.** Fuera el «MAX». Dos estados y ninguna letra:
+**azul** = cargada (se enciende en la SEC 5) · **rojo parpadeante** = sin energía para los dashes (se
+enciende en la SEC 6, en el ducto). Ningún número, ninguna letra, ningún icono, en ningún plano.
 
 ⚠️ **Cambian de aspecto UNA vez, en la SEC 20D**, cuando Theron le da su último traje: se rehacen más
 finos y encajados en el traje. **Son los mismos brazaletes** — solo se ven distintos. Antes de la

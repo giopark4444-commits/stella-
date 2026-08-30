@@ -912,7 +912,11 @@ Directo al Orbe.
 
 **Y Stella lo toma.**
 
-En el segundo exacto en que sus dedos lo tocan, la **llave de su palma** se enciende. La esfera se integra, se hace pequeña, late en su mano. La **muñequera marca: "MAX".**
+En el segundo exacto en que sus dedos lo tocan, la **llave de su palma** se enciende. La esfera se integra, se hace pequeña, late en su mano.
+
+Y en el antebrazo, la **muñequera del traje se pone AZUL.**
+
+*(No dice nada. No marca nada. **Es un color y ya:** azul es que está llena. Se lo montó su padre esta mañana.)*
 
 Y **la sala se queda a oscuras.**
 
@@ -988,11 +992,29 @@ Las ve por **última vez.**
 
 Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinticuatro años después va a volver a entrar por aquí, en dirección contraria.)*
 
-**S1G1** se levanta, dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas—
+**S1G1** se levanta, dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas.
 
-—y se **atasca** en el orificio. Forcejea. Chispas. **EXPLOTA.**
+Y en el antebrazo de Stella, el azul **se pone ROJO.**
 
-La onda escupe a Stella por el otro lado, al cielo abierto.
+Y empieza a **parpadear.**
+
+*(Tampoco dice nada. **Solo avisa.** Y ella sabe perfectamente lo que significa.)*
+
+Los propulsores le empiezan a fallar. Ya no sube seguido: sube **a tirones**, cada vez más cortos, raspando las paredes del tubo entre uno y otro.
+
+Un tirón. Se apaga. Cae medio metro. Otro tirón.
+
+Y el asesino cada vez más cerca.
+
+Le queda **uno.**
+
+Lo usa —y no le alcanza. Se queda a mitad del tubo, sin nada, con S1G1 a un brazo de sus botas—
+
+—y el robot se **atasca** en el orificio. Forcejea. Chispas. **EXPLOTA.**
+
+Y es **la onda** la que la escupe por el otro lado, al cielo abierto.
+
+*(No sale por sus medios. **Sale porque la cosa que la perseguía revienta debajo de ella.** El rojo se apaga cuando ya está fuera, y ella ni lo mira.)*
 
 ABAJO, en la sala a oscuras: Vera **boca abajo entre los escombros, sin moverse.**
 
