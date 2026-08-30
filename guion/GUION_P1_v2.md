@@ -477,6 +477,12 @@
 >   falling star`. ⚠️ En inglés **el artículo es obligatorio si lleva dos puntos o coma**
 >   (`STELLA: A FALLING STAR`); *«Stella a falling star»* sin signo es incorrecto.
 >   *(«Stella Fugaz» sigue siendo el nombre interno del proyecto y del juego.)*
+> • **LA SEC 18 SE RUEDA EN EL SALÓN, NO EN UN CAMAROTE** (`@loc_mothership-hall`). No está en su
+>   litera: está en **la sala más grande de la nave, vacía, a las tres de la mañana** — porque el que no
+>   puede dormir no se queda en su cuarto. 🔒 Y eso **encadena con el montaje**: la carta estelar está
+>   detrás de ella, **casi vacía, con el punto de Erdia sin marcar** — y la SEC 20B vuelve a este mismo
+>   suelo cuatro veces. **Este mapa y este suelo son donde ella cuenta los años.** *(No hace falta hoja
+>   de camarote.)*
 > • **LA SEC 9 SE RUEDA DESDE LA PLAZA, NO DESDE EL BALCÓN** (`@loc_erdia-square-night`). El plano
 >   está abajo, con la gente, mirando hacia arriba: **al Rey lo vemos como lo ve Erdia** — pequeño, muy
 >   alto y muy iluminado. Y pasa a ser **de noche**, la del mismo día: el cielo **todavía limpio**, con
@@ -3086,9 +3092,19 @@ Stella se va. Theron se queda mirando el vacío, masticando una sospecha de vein
 
 ---
 
-## SEC. 18 — INT. NAVE NODRIZA — CAMAROTE DE STELLA — NOCHE
+## SEC. 18 — INT. NAVE NODRIZA — EL SALÓN — NOCHE
 
-Stella no duerme. Theron entra y deja algo sobre la mesa: un **proyector de imagen.**
+> *`@loc_mothership-hall`. **No está en su litera.** La sala más grande de la nave, vacía, a las tres
+> de la mañana — porque el que no puede dormir no se queda en su cuarto: se va al sitio donde
+> normalmente hay gente, aunque esa noche no la haya.*
+
+Stella sentada en el suelo, con la espalda contra un mamparo, mirando nada.
+
+Y detrás de ella, ocupando la pared entera, **la carta estelar del salón.**
+
+*(Casi vacía todavía: dos o tres luces encendidas en toda la carta. Y en el borde, sin marcar, el punto que ella no puede mirar sin que le duela.)*
+
+**THERON** entra y deja algo sobre una mesa: un **proyector de imagen.**
 
 **THERON**
 Esto lleva años dando vueltas en mi archivo. Una señal lanzada al vacío —sin rumbo, sin destino, en un idioma que nadie a bordo sabe leer.
@@ -3117,7 +3133,9 @@ Y yo sigo aquí.
 *(casi sonríe)*
 Hazte fuerte. Y vuelve.
 
-La imagen se corta. El camarote queda a oscuras, con Stella a solas con el eco.
+La imagen se corta. El salón queda a oscuras — **con la carta estelar detrás, y el punto de Erdia apagado en el borde.**
+
+Y Stella a solas con el eco.
 
 **STELLA**
 *(un susurro destrozado)*
@@ -3125,7 +3143,9 @@ La imagen se corta. El camarote queda a oscuras, con Stella a solas con el eco.
 
 Theron la observa desde la puerta. Por primera vez no la mira como a un cebo. La mira como a alguien que va a hacer algo imposible.
 
-Se va. Stella se queda toda la noche reproduciendo la señal. La voz de su madre, una y otra vez, llenando el cuarto.
+Se va. Stella se queda toda la noche reproduciendo la señal, sentada en el suelo de una sala vacía. La voz de su madre, una y otra vez, **llenando la habitación más grande de la nave.**
+
+*(Y quede sembrado aquí, porque el montaje va a volver a este sitio cuatro veces: **este mapa y este suelo son donde ella cuenta los años.** La última vez que la veamos aquí, en el año 5, va a tener el proyector en la mano **y no lo va a encender.**)*
 
 ---
 
