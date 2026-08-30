@@ -226,6 +226,18 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • 🔒 **EL ORBE NO ESTÁ ENCRIPTADO EN @STELLA: ESTÁ ENCRIPTADO EN LA FAMILIA.** @Naio lo dice en la
+>   SEC 23: *«Yo no encripté el Orbe en ti. **Lo encripté en nuestra familia.** Y él lo sabe. Sabe que
+>   sin uno de nosotros cuatro ese Orbe no le sirve para nada. **Puede tenerlo en la mano y no puede
+>   usarlo.**»*
+>   ⚠️ **Y esto reescribe el clímax entero hacia atrás:** si Vortham no puede tocar la esfera, entonces
+>   **no crió a @Selka para tener una soldado. La crió para tener una MANO.** Veinte años de entrenarla,
+>   de romperle el ojo, de fabricarle una General — **eran para el minuto de la SEC 25 en que ella pone
+>   el Orbe en la consola.** Él está mirando desde el trono **porque no puede hacerlo él.**
+>   🔒 Y de paso quedan explicadas dos cosas que estaban sueltas: **por qué conserva a @Naio** (es otra
+>   llave) y **por qué @Selka puede arrancarle el Orbe de la palma a @Stella en la SEC 24** —«puede:
+>   comparte su estirpe»—. **Las cuatro llaves son la familia.**
+>   ⚠️ Retirada la explicación duplicada que @Naio daba antes en la celda: **ahora solo lo dice una vez.**
 > • **LAS ARMAS DE LOS HUMANOS LAS FABRICA @NIMA (SEC 16).** En el mismo banco donde le hace el traje a
 >   @Stella hay **otras tres cosas a medio hacer: una espada, una lanza y un arco.** Les mide el alcance,
 >   gruñe, corrige, lima. *«A ustedes tres no les sale nada del cuerpo. **Pues se lo pongo yo en la
@@ -3792,16 +3804,6 @@ Mi niña.
 
 @Stella se queda mirándose la palma abierta.
 
-**@STELLA**
-*(mirando la celda, la cerradura, los años)*
-¿Por qué te dejó vivo?
-
-**@NAIO**
-*(una sonrisa amarga)*
-Porque yo lo encripté en ti. Cree que yo sé cómo deshacerlo.
-*(beat)*
-Veinte años sin sacarlo de la duda. Es lo único que he hecho bien aquí adentro.
-
 @Stella ahueca la otra mano. La luz le sale de la palma, controlada —y corta los grilletes, uno por uno. La primera vez en toda la película que el Orbe sirve para algo pequeño y bueno.
 
 La reja cede. @Naio sale al pasillo, tambaleándose. La abraza como se abraza lo que se creyó perdido.
@@ -3889,11 +3891,20 @@ Y lo que dice después lo dice sin rabia, como quien recita algo que lleva veint
 **@NAIO (CONT.)**
 Ese hombre no perdona, hija. **Conserva.**
 *(beat)*
-A mí me conserva porque yo cerré el Orbe y algún día va a necesitar que lo abra. A tu hermana la conserva porque la puede usar.
+Yo no encripté el Orbe en ti. **Lo encripté en nuestra familia.**
 *(la mira con el ojo que le queda)*
+Y él lo sabe. Sabe que sin uno de nosotros cuatro **ese Orbe no le sirve para nada.** Puede tenerlo en la mano y no puede usarlo.
+
+Silencio.
+
+**@NAIO (CONT.)**
+Por eso me conserva a mí. Y por eso conserva a tu hermana.
+*(beat)*
 Todo lo demás lo tira.
 
-*(Y ahí está la vida entera de este hombre dicha de una vez: **lleva veinte años vivo porque es una herramienta.** Y sabe exactamente lo que pasa el día que deje de serlo, porque se lo hicieron a tres tipos que solo intentaron sacar del planeta a la hija de otro.)*
+*(Y ahí está la vida entera de este hombre dicha de una vez: **lleva veinte años vivo porque es una llave.** Y sabe exactamente lo que pasa el día que deje de serlo, porque se lo hicieron a tres tipos que solo intentaron sacar del planeta a la hija de otro.)*
+
+*(Y hay algo más grande escondido en esa frase, y el público lo va a entender **dentro de veinte minutos, no ahora**: si el Rey no puede tocar el Orbe… **entonces no crió a esa niña para tener una soldado.** La crió para tener **una mano.**)*
 
 Silencio. @Stella no dice nada más. Solo aprieta un poco más el paso.
 
@@ -4195,6 +4206,8 @@ Cuéntenlo. La traidora cayó.
 ## SEC. 25 — INT. SALA DEL TRONO *(la antigua SALA DEL ORBE)* — CONTINUO
 
 @Selka camina hacia la **consola** del trono. Coloca el Orbe en su lugar. Por fin. Va a devolverle la luz a Erdia. Va a ser la heroína que cree ser.
+
+*(Y aquí es donde se cobra lo que dijo @Naio en las celdas hace diez minutos, y hay que rodarlo sabiéndolo: **el Rey no está mirando desde el trono por elegancia. Está mirando porque no puede hacerlo él.** Esa esfera solo la puede tocar alguien de esa familia. Veinte años criando a esa niña, y no era para tener una General. **Era para tener esta mano, y que hiciera esto, hoy.**)*
 
 Y la sala **se enciende de golpe.**
 

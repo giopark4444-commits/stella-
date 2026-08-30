@@ -3173,16 +3173,6 @@ My girl.
 
 Stella se queda mirándose la palma abierta.
 
-**STELLA**
-*(mirando la celda, la cerradura, los años)*
-Why did he leave you alive?
-
-**NAIO**
-*(una sonrisa amarga)*
-Because I encrypted it into you. He thinks I know how to undo it.
-*(beat)*
-Twenty years of never settling that doubt. It's the only thing I've done right in here.
-
 Stella ahueca la otra mano. La luz le sale de la palma, controlada —y corta los grilletes, uno por uno. La primera vez en toda la película que el Orbe sirve para algo pequeño y bueno.
 
 La reja cede. Naio sale al pasillo, tambaleándose. La abraza como se abraza lo que se creyó perdido.
@@ -3270,11 +3260,20 @@ Y lo que dice después lo dice sin rabia, como quien recita algo que lleva veint
 **NAIO (CONT.)**
 That man doesn't forgive, girl. **He keeps.**
 *(beat)*
-He keeps me because I sealed the Orb and one day he'll need it opened. He keeps your sister because he can use her.
+I didn't encrypt the Orb into you. **I encrypted it into our family.**
 *(la mira con el ojo que le queda)*
+And he knows it. He knows that without one of the four of us **that Orb is no use to him at all.** He can hold it in his hand and he can't use it.
+
+Silencio.
+
+**NAIO (CONT.)**
+That's why he keeps me. And that's why he keeps your sister.
+*(beat)*
 Everything else he throws away.
 
-*(Y ahí está la vida entera de este hombre dicha de una vez: **lleva veinte años vivo porque es una herramienta.** Y sabe exactamente lo que pasa el día que deje de serlo, porque se lo hicieron a tres tipos que solo intentaron sacar del planeta a la hija de otro.)*
+*(Y ahí está la vida entera de este hombre dicha de una vez: **lleva veinte años vivo porque es una llave.** Y sabe exactamente lo que pasa el día que deje de serlo, porque se lo hicieron a tres tipos que solo intentaron sacar del planeta a la hija de otro.)*
+
+*(Y hay algo más grande escondido en esa frase, y el público lo va a entender **dentro de veinte minutos, no ahora**: si el Rey no puede tocar el Orbe… **entonces no crió a esa niña para tener una soldado.** La crió para tener **una mano.**)*
 
 Silencio. Stella no dice nada más. Solo aprieta un poco más el paso.
 
@@ -3576,6 +3575,8 @@ Spread the word. The traitor has fallen.
 ## SEC. 25 — INT. SALA DEL TRONO *(la antigua SALA DEL ORBE)* — CONTINUO
 
 Selka camina hacia la **consola** del trono. Coloca el Orbe en su lugar. Por fin. Va a devolverle la luz a Erdia. Va a ser la heroína que cree ser.
+
+*(Y aquí es donde se cobra lo que dijo Naio en las celdas hace diez minutos, y hay que rodarlo sabiéndolo: **el Rey no está mirando desde el trono por elegancia. Está mirando porque no puede hacerlo él.** Esa esfera solo la puede tocar alguien de esa familia. Veinte años criando a esa niña, y no era para tener una General. **Era para tener esta mano, y que hiciera esto, hoy.**)*
 
 Y la sala **se enciende de golpe.**
 
