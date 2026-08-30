@@ -1,17 +1,12 @@
-# STELLA · *a falling star* — **VERSIÓN ETIQUETADA**
-## Guion — Película 1 (v2.8) · **nombres sustituidos por los @tags de la biblioteca**
+# STELLA · *a falling star*
+## Guion de referencias — Película 1 · **v2.8**
 
-> ⚠️ **Esta versión es para producir prompts, no para leer.** El guion normal, con los nombres,
-> está en `GUION_P1_v2.md` y **no se toca**: este se regenera con `python3 tools/gentags.py`.
->
-> **Cómo funciona:** el tag de cada personaje **cambia según la secuencia** — Stella tiene once
-> estados, Vera ocho, Selka nueve. Cada `## SEC` empieza con dos líneas 🏷️ que dicen **la locación**
-> y **qué personajes cambian de tag ahí**. Dentro del texto, los nombres ya vienen sustituidos.
->
-> ⚠️ **`⚠️@…-FALTA`** marca un estado que **todavía no existe en la biblioteca.**
-> ⚠️ **Los diálogos y las acotaciones NO se etiquetan** — solo la acción y los pies de personaje.
-
-# ACTO 1 · 起 (KI) — ERDIA
+> 🏷️ **Esta es la versión para promptear.** Cada nombre viene sustituido por su `@tag` de la
+> biblioteca, y **el tag cambia según la secuencia** (Stella tiene once estados, Vera ocho,
+> Selka nueve).
+> Cada `## SEC` abre con las líneas 🏷️ de **locación**, **reparto** y **props**.
+> Para leer la historia usa `GUION_CLASICO_v2.8.md`.
+> ⚠️ Generado automáticamente desde `GUION_P1_v2.md`. **No editar a mano.**
 
 ---
 
@@ -4851,3 +4846,4 @@ CORTE A NEGRO.
 - **La señal de Vera existe** (SEC 12/18): la voz de la madre, grabada. Una reliquia para las dos hermanas.
 - **Gix nació del ADN de Stella** (invento de Naio): puente para una posible revivificación.
 - Naio vivo; Vosk redimido; Noah enamorado; Brogu y Nima, la familia que queda en pie.
+

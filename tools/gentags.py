@@ -179,7 +179,7 @@ while i < len(trozos):
 
 
 CAB = """# STELLA · *a falling star* — **VERSIÓN ETIQUETADA**
-## Guion — Película 1 (v2.7) · **nombres sustituidos por los @tags de la biblioteca**
+## Guion — Película 1 (v2.8) · **nombres sustituidos por los @tags de la biblioteca**
 
 > ⚠️ **Esta versión es para producir prompts, no para leer.** El guion normal, con los nombres,
 > está en `GUION_P1_v2.md` y **no se toca**: este se regenera con `python3 tools/gentags.py`.
