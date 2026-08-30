@@ -69,10 +69,10 @@
   en plena subida. Lo que sí se ve desde el suelo son sus impactos caminando por la tierra.
 - **La tripulación entra PRONTO:** al segundo 4 ya nos cruzamos con ellos por los pies, y Brogu tiene su
   primera acción **a los 10 segundos**, todavía dentro del plano rasante. Roster de la plaza y **cada uno
-  pelea distinto, ninguno duplica a otro**: `@Brogu` abre camino · `@Nima` artefactos · `@MujerVerde`
+  pelea distinto, ninguno duplica a otro**: `@Brogu` abre camino · `@Nima` artefactos · `@hessa`
   sube y tumba a los de descarga · `@boro` atrapa en el aire con tres brazos · `@TrioHumano`
   (Noah entre ellos) aguanta flancos en formación · `@Vosk` trepa y tumba desde dentro · `@Gara` carga.
-- ⚠️ `@MujerVerde` y `@boro` llevan **nombre provisional** — falta que Gio los bautice.
+- ⚠️ `@hessa` y `@boro` llevan **nombre provisional** — falta que Gio los bautice.
   `@TrioHumano` = los tres humanos de la tripulación, Noah incluido (los demás secundarios son
   «clearly not human» en sus hojas).
 - **La plaza va en PLANOS SECUENCIA con cámara-dron**, no en cortes: la cámara vuela, se engancha a un

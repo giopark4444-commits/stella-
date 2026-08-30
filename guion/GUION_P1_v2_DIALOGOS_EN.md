@@ -78,7 +78,7 @@ Estrellas de verdad, muchísimas, nítidas como no se ven desde ningún mundo vi
 
 Y ahí la cámara **se levanta.**
 
-Sale del polvo y sube — y sube **dentro de los nuestros.** Aparecen todos a la vez, corriendo hacia adelante juntos: **GARA**, **ENKO**, **LOS TRES HUMANOS** hombro con hombro, **LA MUJER VERDE** de un salto por encima del cuadro. Y detrás de ellos, más. Y más.
+Sale del polvo y sube — y sube **dentro de los nuestros.** Aparecen todos a la vez, corriendo hacia adelante juntos: **GARA**, **ENKO**, **LOS TRES HUMANOS** hombro con hombro, **HESSA**, verde y larguísima, de un salto por encima del cuadro. Y detrás de ellos, más. Y más.
 
 Y entre todos, **sin destacar en nada**, una figura encapuchada corriendo al mismo paso que los demás.
 
@@ -104,7 +104,7 @@ Sin corte. Ahora vamos por dentro. Y aquí no se aguanta nada: **se avanza a gol
 
 **NIMA** pasa corriendo por debajo de su brazo y **rueda algo redondo entre las patas del pesado.** El pulso azul revienta hacia arriba, el pesado **cae de rodillas**, Brogu le arranca la cabeza — y el avance le pasa por encima sin detenerse. **Otro metro ganado.**
 
-**LA MUJER VERDE** sale disparada hacia arriba. Salta, corre por el lomo de las máquinas como si fueran suelo, y se lanza sobre las patas larguísimas de uno **DE DESCARGA.** La máquina se dobla por la mitad y se viene abajo — **era la que estaba apuntando al pasillo.** Ella es la que va a por los que no bajan.
+**HESSA** —verde, alta, todo piernas— sale disparada hacia arriba. Salta, corre por el lomo de las máquinas como si fueran suelo, y se lanza sobre las patas larguísimas de uno **DE DESCARGA.** La máquina se dobla por la mitad y se viene abajo — **era la que estaba apuntando al pasillo.** Ella es la que va a por los que no bajan.
 
 Un **CORREDOR** salta hacia el objetivo — y **BORO**, rosa y de muchos brazos, lo atrapa en el aire **con tres de ellos sin dejar de pelear con los demás**, y lo abre por las juntas.
 
@@ -2046,7 +2046,7 @@ La cámara entra con ellos y **no vuelve a parar.**
 
 **BROGU** abre camino: choca de frente contra un **pesado** el doble de alto que él y lo para en seco. **NIMA** pasa por debajo de su brazo y rueda algo entre las patas de la máquina; el pulso revienta hacia arriba y el pesado **cae de rodillas.**
 
-**LA MUJER VERDE** salta, corre por el lomo de las máquinas y se lanza sobre las patas de uno **de descarga**, que se dobla por la mitad. Un **corredor** salta y **BORO** lo atrapa en el aire con tres brazos sin dejar de pelear con los otros.
+**HESSA** salta, corre por el lomo de las máquinas y se lanza sobre las patas de uno **de descarga**, que se dobla por la mitad. Un **corredor** salta y **BORO** lo atrapa en el aire con tres brazos sin dejar de pelear con los otros.
 
 **NOAH, CARL y LUCY** aguantan un flanco espalda contra espalda. A Noah le tiembla el brazo: lleva demasiado rato sosteniendo el mismo metro de suelo y **no piensa moverse de ahí.**
 

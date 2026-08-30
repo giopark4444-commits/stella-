@@ -72,7 +72,7 @@
 
 ## Tripulación de la nave — carpeta 06 (14 assets)
 
-`@theron` · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · **`@boro`** *(el de muchos brazos, rosa)* · `@yuri` · `@sabo` · `@hessa` · `@thara`
+`@theron` · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · **`@boro`** *(el de muchos brazos, rosa)* · `@yuri` · `@sabo` · **`@hessa`** *(la verde, la que sube)* · `@thara`
 
 ## Humanos — carpeta 07 (3 assets)
 
@@ -212,6 +212,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | Qué | Dónde duele |
 |---|---|
 | **El ducto por dentro** | Sale **tres veces** separadas por 24 años y tiene que ser el mismo tubo. Es la rima más importante del film |
+| ~~El palacio esférico~~ ✅ **está al fondo de `@loc_erdia-square-*`** | — |
 | **La cúspide con la placa soldada** | **30 segundos de la apertura** sin referencia, y es el objeto que cierra el pago de 24 años |
 | **La fachada de la esfera, de cerca** | Ella pasa **un minuto entero** pegada a esa piedra |
 | **Las celdas del nivel de servicio** | Naio preso 24 años · SEC 19 y SEC 23 |

@@ -19,11 +19,15 @@
 > • **Armas: NO HAY.** Nadie carga un arma en esta película. **Cada especie pelea con lo suyo** — con su
 >   cuerpo, con su técnica o con su tecnología propia. Ni pistolas, ni rifles, ni balas, ni gatillos.
 >   Los imperiales lanzan **descargas** desde el cuerpo del propio robot; la resistencia usa **artefactos**;
-> • **El ejército imperial tiene CUATRO tipos de máquina**, clonados por decenas, y se distinguen
->   **por la silueta**: la **línea** (infantería idéntica), los **pesados** (el doble de altos, rompen
->   formaciones), los **corredores** (bajos, a cuatro patas, los primeros en llegar) y los **de descarga**
->   (patas larguísimas, no avanzan nunca, disparan desde atrás). ⚠️ **Ninguno es blanco:** metal oscuro
->   casi negro, se ven porque el fuego se les refleja encima.
+> • **EL EJÉRCITO IMPERIAL ES UNA MEZCLA, no una formación ordenada.** Salen modelos distintos
+>   revueltos —`@robot-c84`, `@robot-g44`, `@robot-cyplop-s1s2`, `@robot-dust-planet-hunter`— y eso
+>   **es lo que se ve**: un imperio que lleva veinticuatro años peleando y saca lo que tiene.
+>   El único con papel fijo es **`@robot-giant-demoledor`**, los tres metros que agachan la cabeza
+>   para pasar por una puerta.
+> • **Lo que sí se mantiene son las FUNCIONES**, repartidas entre los modelos que haya: algo aguanta
+>   la línea, algo la rompe, algo **corre por delante a cuatro patas**, y algo **dispara desde muy
+>   atrás sin avanzar nunca**. ⚠️ **Ninguno es blanco:** metal oscuro casi negro, se ven porque el
+>   fuego se les refleja encima.
 > • **La plaza es un CONTRAATAQUE**, no una defensa: la resistencia avanza hacia la esfera y gana
 >   terreno. Y la película **abre a ras de piso, entre los pies**, no desde el aire.
 > • **LOS REBELDES (`@Rebeldes`) ESTÁN EN TODOS LOS PLANOS DE LA PLAZA**, peleando junto a @Stella y a
@@ -92,9 +96,11 @@
 >   presentador contesta **«son la misma escoria de raza»**, insultándola con **la verdad de su
 >   propio origen** sin saberlo. Se suben a la nave con ella y no se bajan más.
 > • **La tripulación en la plaza:** Brogu · @Nima · @Vosk · Gara · Enko · **los tres humanos** — **@NOAH, CARL y LUCY**
->   (`@TrioHumano`, `@Carl`, `@Lucy`) · **la mujer verde** (`@MujerVerde`, provisional) · **Boro**
+>   (`@TrioHumano`, `@Carl`, `@Lucy`) · **Hessa** (`@hessa`, provisional) · **Boro**
 >   (`@boro`, provisional). Cada uno pelea distinto y **ninguno duplica a otro**.
 > • **El palacio es UNA ESFERA** de piedra del tamaño de una montaña apoyada sobre la ciudad.
+>   ✅ **Ya está en la biblioteca:** sale al fondo de `@loc_erdia-square-night` y `@loc_erdia-square-destroyed`.
+>   No hace falta hoja aparte para los generales — solo para la **fachada de cerca** y la **cúspide**.
 >   No es una cúpula sobre un edificio: es una bola. La cúspide es su punto más alto.
 >   @Noah una **hoja de luz**; Brogu sus manos; @Nima cacharros que fabrica ella. La violencia se muestra
 >   **por luz, nunca por estirpe.**
@@ -253,7 +259,7 @@ Estrellas de verdad, muchísimas, nítidas como no se ven desde ningún mundo vi
 
 Y ahí la cámara **se levanta.**
 
-Sale del polvo y sube — y sube **dentro de los nuestros.** Aparecen todos a la vez, corriendo hacia adelante juntos: **GARA**, **ENKO**, **LOS TRES HUMANOS** hombro con hombro, **LA MUJER VERDE** de un salto por encima del cuadro. Y detrás de ellos, más. Y más.
+Sale del polvo y sube — y sube **dentro de los nuestros.** Aparecen todos a la vez, corriendo hacia adelante juntos: **GARA**, **ENKO**, **LOS TRES HUMANOS** hombro con hombro, **HESSA**, verde y larguísima, de un salto por encima del cuadro. Y detrás de ellos, más. Y más.
 
 Y entre todos, **sin destacar en nada**, una figura encapuchada corriendo al mismo paso que los demás.
 
@@ -279,7 +285,7 @@ Sin corte. Ahora vamos por dentro. Y aquí no se aguanta nada: **se avanza a gol
 
 **@NIMA** pasa corriendo por debajo de su brazo y **rueda algo redondo entre las patas del pesado.** El pulso azul revienta hacia arriba, el pesado **cae de rodillas**, Brogu le arranca la cabeza — y el avance le pasa por encima sin detenerse. **Otro metro ganado.**
 
-**LA MUJER VERDE** sale disparada hacia arriba. Salta, corre por el lomo de las máquinas como si fueran suelo, y se lanza sobre las patas larguísimas de uno **DE DESCARGA.** La máquina se dobla por la mitad y se viene abajo — **era la que estaba apuntando al pasillo.** Ella es la que va a por los que no bajan.
+**HESSA** —verde, alta, todo piernas— sale disparada hacia arriba. Salta, corre por el lomo de las máquinas como si fueran suelo, y se lanza sobre las patas larguísimas de uno **DE DESCARGA.** La máquina se dobla por la mitad y se viene abajo — **era la que estaba apuntando al pasillo.** Ella es la que va a por los que no bajan.
 
 Un **CORREDOR** salta hacia el objetivo — y **BORO**, rosa y de muchos brazos, lo atrapa en el aire **con tres de ellos sin dejar de pelear con los demás**, y lo abre por las juntas.
 
@@ -2221,7 +2227,7 @@ La cámara entra con ellos y **no vuelve a parar.**
 
 **BROGU** abre camino: choca de frente contra un **pesado** el doble de alto que él y lo para en seco. **@NIMA** pasa por debajo de su brazo y rueda algo entre las patas de la máquina; el pulso revienta hacia arriba y el pesado **cae de rodillas.**
 
-**LA MUJER VERDE** salta, corre por el lomo de las máquinas y se lanza sobre las patas de uno **de descarga**, que se dobla por la mitad. Un **corredor** salta y **BORO** lo atrapa en el aire con tres brazos sin dejar de pelear con los otros.
+**HESSA** salta, corre por el lomo de las máquinas y se lanza sobre las patas de uno **de descarga**, que se dobla por la mitad. Un **corredor** salta y **BORO** lo atrapa en el aire con tres brazos sin dejar de pelear con los otros.
 
 **@NOAH, CARL y LUCY** aguantan un flanco espalda contra espalda. A @Noah le tiembla el brazo: lleva demasiado rato sosteniendo el mismo metro de suelo y **no piensa moverse de ahí.**
 

@@ -92,7 +92,7 @@
 
 | Bloque | Personajes | Máquinas | Locación |
 |---|---|---|---|
-| **B1** | `@rebel-people` `@brogu` `@nima` `@vosk` `@boro` `@gara` `@enko` `@TrioHumano` `@MujerVerde` `@char_stella-adult-armor` | `@RobotLinea` `@RobotPesado` `@ship-enemy-erdia` | `@loc_erdia-square-night` `@PalacioEsfera` `@loc_erdia-future-sky` |
+| **B1** | `@rebel-people` `@brogu` `@nima` `@vosk` `@boro` `@gara` `@enko` `@TrioHumano` `@hessa` `@char_stella-adult-armor` | `@RobotLinea` `@RobotPesado` `@ship-enemy-erdia` | `@loc_erdia-square-night` `@PalacioEsfera` `@loc_erdia-future-sky` |
 | **B2** | `@rebel-people` + los mismos | los cuatro tipos | `@loc_erdia-square-night` |
 | **B3** | `@rebel-people` `@char_stella-adult-armor` `@brogu` (+ el resto en la carga) | `@RobotLinea` `@RobotDescarga` `@ship-enemy-erdia` | `@PalacioEsfera` |
 | **B4** | `@char_stella-adult-armor` | — | `@loc_erdia-orbe-room-destroyed` |
@@ -230,4 +230,4 @@ Stella termina la escena **con Selka en brazos** y con una cita en el laboratori
 ## Faltan hojas
 
 - `@CuspidePlaca` — la placa soldada sobre el orificio. **30 s de secuencia sin referencia.**
-- Bautizar `@MujerVerde` y `@boro` (nombres provisionales).
+- Bautizar `@hessa` y `@boro` (nombres provisionales).
