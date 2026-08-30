@@ -2674,7 +2674,7 @@ Se ha quedado en el suelo del pozo. Y está mirando hacia arriba.
 
 Al pecho del **REY DEL BASURERO**, y a la cosa pequeña y vieja que le cuelga del cuello.
 
-*(La misión. La cosa por la que vinieron a este planeta. **La tiene delante y se va a ir sin ella.**)*
+*(Y que quede claro que **no acaba de verlo:** lleva una hora sin poder dejar de mirarlo. Lo localizó **antes** de que empezara la pelea, y desde entonces se ha peleado con tres humanos a mano limpia con un collar al cuello, se ha dejado tirar al suelo por catorce guardias y se ha tirado de una luz que ya la estaba subiendo — **y esa cosa no se ha movido del pecho de ese hombre en toda la noche.** Veinte metros. Y la nave se va.)*
 
 **STELLA**
 *(para sí, ya decidida)*
