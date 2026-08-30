@@ -126,7 +126,16 @@ propia mano.** Sin memoria de nada. Se arrodilla y se queda mirando el **pelo bl
 
 ## 転 TEN — EL REGRESO Y EL TRONO (Acto 3)
 
-**15. El tinte y el permiso (SEC 20B).** Theron concede la misión: "Bajas. Miras. Subes. No tocas nada."
+**14b. Los años (SEC 20B).** Montaje sin una palabra, 2:30–3:00: seis años de misiones con la
+tripulación. La maniobra sale torcida, después funciona, después la hacen sin mirarse. Le crece el
+pelo, se llena el mapa, y el proyector de su madre deja de encenderse. Termina llegando al puerto.
+
+**14c. El puerto estelar (SEC 20C).** Thara ve que Stella «está haciendo cuentas» y baja a Theron al
+lago. La cuenta: 1:4, seis años suyos, veinticuatro de Erdia, y una hermana que ahora es mayor que
+ella. Theron confiesa que lo de la longevidad del Rey no lo dejó dormir, y decide la misión: «Te voy
+a llevar a mirar a tu rey.»
+
+**15. El tinte y el permiso (SEC 20D).** Theron cierra la misión: "Bajas. Miras. Subes. No tocas nada."
 **Nima le tiñe el pelo** — el pelo blanco es el rasgo de la línea de Vera; teñírselo es borrarse a su
 madre para poder volver a casa. En el metal pulido, la que devuelve la mirada ya es una adulta.
 

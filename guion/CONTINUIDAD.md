@@ -7,7 +7,9 @@
 ## ⚠️ Las siete trampas
 
 **① EL PELO DE STELLA CAMBIA CUATRO VECES.** Suelto → **trenza** (se la hace en el laboratorio) →
-**corto** (se la corta en la sala del Orbe) → **teñido oscuro** (SEC 20B). El corte ocurre **en
+**corto** (se la corta en la sala del Orbe) → **le crece durante todo el montaje de la SEC 20B: es
+el reloj de los seis años, de rapada por la nuca a blanco hasta media espalda** → **teñido oscuro**
+(SEC 20D). El corte ocurre **en
 cuadro** y no se puede mover.
 
 **② VERA ESTÁ VIVA DEL AÑO 0 AL 14.** El público la cree muerta desde la SEC 5, pero Marek la sacó
@@ -62,7 +64,9 @@ plano de la película.**
 | **16** | año ~3 | **traje nuevo de Nima** · entrenando el Orbe | — | — | — |
 | **19** | Erdia año 14 | — | **VIVA** ⚠️ · rescatada por Marek | **15 · cadete** | **Naio anciano y preso** |
 | **20 / 20A** | Erdia año 14 | — | **muere de verdad** | cadete · el puñal | — |
-| **20B** | acto 3 | **se tiñe el pelo** de oscuro | — | — | permiso de Theron |
+| **20B** | años 1→6 | **montaje: le crece el pelo blanco** · sin diálogo | — | — | la maniobra ×3 · el mapa · el bar |
+| **20C** | año 6 · puerto | pelo blanco largo · **hundida** | — | — | **Thara** manda a Theron · «Vamos a Erdia» |
+| **20D** | acto 3 | **se tiñe el pelo** de oscuro | — | — | «Bajas. Miras. Subes.» |
 | **23–24** | año 24 | teñida · con Orbe | — | **general · 25** | Naio preso → rescatado |
 | **25** | año 24 | en coma | — | pone el Orbe | 🔒 **Vortham → parásito** |
 | **27** | año 24 | en coma · **le arrancan el Orbe** · Gix le sostiene el corazón | — | **pierde el brazo** | — |

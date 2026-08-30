@@ -1768,11 +1768,268 @@ CORTE A NEGRO.
 
 ---
 
+## SEC. 20B — MONTAJE — "LOS AÑOS" — [@STELLA: AÑO 1 → AÑO 6]
+
+> ⚠️ **SECUENCIA SIN UNA SOLA PALABRA.** Solo música. Ni diálogo, ni voz en off, ni rótulos hablados
+> —únicamente las **fichas de año** cuando hagan falta. **Duración objetivo 2:30–3:00**, en seis
+> bloques de ~30s. Todo lo que hay que entender se entiende **mirando.**
+>
+> **Lo que cuenta el montaje, y es una sola cosa:** @Stella se convierte en la punta de una máquina
+> —y **se le va vaciando la esperanza al mismo ritmo que le crece la destreza.** Sube la competencia,
+> baja la persona. Al final del montaje es la mejor de todos y ya no cree en nada.
+>
+> **LA MANIOBRA.** Toda la secuencia gira alrededor del mismo movimiento, repetido tres veces con
+> años de diferencia: **BROGU** rompe · **@VOSK** se planta y aguanta · **HESSA** va por arriba ·
+> **@NIMA** apaga la energía · **@NOAH, CARL y LUCY** tapan los flancos · **BORO** atrapa lo que se
+> escapa · y por el hueco **pasa @Stella.** La primera vez sale torcida. La segunda, funciona. La
+> tercera, la hacen **sin mirarse.**
+> ⚠️ **Es exactamente la maniobra de la SEC 0 y la SEC 23B.** El público la vio en el primer minuto de
+> la película sin saber qué era: aquí aprende a leerla, y en el asalto la reconoce. Por eso importa.
+>
+> **EL MAPA.** En el salón de la Nodriza hay una **carta estelar** enorme. Cada mundo que limpian se
+> marca con una luz. A lo largo del montaje se van llenando: diez, treinta, sesenta puntos. Y en el
+> borde, siempre, **un punto que nadie ha marcado nunca.** Erdia.
+>
+> **EL RELOJ.** Le crece el pelo. Empieza el montaje **rapada por la nuca** —como se quedó al cortarse
+> la trenza a los catorce— y lo termina **largo y blanco hasta media espalda.** No hace falta nada más
+> para contar seis años.
+
+**BLOQUE 1 · LA NOVATA — [AÑO 1]**
+
+Un mundo de polvo rojo y tormenta. Sirenas. La maniobra, por primera vez.
+
+Y sale **mal.** Brogu rompe demasiado pronto, @Vosk queda descubierto, y cuando @Stella pasa por el hueco **el hueco ya se cerró.** La sacan de ahí entre dos, arrastrándola por los brazos, con el traje humeando.
+
+En la Nodriza, en la camilla, le cosen una ceja. Ella mira al techo con cara de que no ha entendido nada.
+
+Y **@NIMA**, en el salón, marca **una** luz en el mapa.
+
+**BLOQUE 2 · LA FAMILIA — [AÑO 2]**
+
+`@loc_mothership-bar`. La mesa llena. **@VOSK** contando algo con las manos y **CARL** y **LUCY** doblados de risa. **GARA** y **ENKO** discutiendo por comida. **BORO** repartiendo platos con tres brazos a la vez.
+
+**BROGU** le dice a @Stella una palabra en su idioma muerto. Ella la repite mal. Él la corrige. Ella la repite peor. La mesa entera se ríe de ella.
+
+Y @Stella **se ríe.** Se ríe de verdad, con la boca abierta, por primera vez desde el año 0.
+
+*(Guárdenlo. Es la última carcajada que tiene en toda la película.)*
+
+**@NOAH** la mira reírse desde el otro lado de la mesa. Y no dice nada. Y no aparta la mirada.
+
+**BLOQUE 3 · LA QUE AGUANTA — [AÑO 3]**
+
+Selva de cristal. La maniobra otra vez, y esta vez **encaja:** Brogu rompe, @Vosk aguanta, Hessa cruza por arriba, @Nima apaga, los tres humanos cierran, Boro atrapa —
+
+—y @Stella **pasa.** Limpia. La palma abierta por delante, la luz del Orbe saliéndole controlada.
+
+Vuelven caminando entre los árboles de vidrio, sucios y enteros. @Vosk le da un manotazo en la espalda que casi la tira. Ella se lo devuelve.
+
+Mapa: **doce** luces.
+
+**BLOQUE 4 · LO BONITO — [AÑO 4]**
+
+Y por un momento la secuencia **deja de correr.**
+
+Un mundo con anillos, visto desde una cresta. Toda la tripulación sentada en fila, en silencio, mirando. Nadie pelea. Nadie habla. **HESSA** con las piernas colgando en el vacío. **SABO**, el anciano, señalándole algo a **@THERON** en el cielo.
+
+*(Esta gente no solo mata cosas. También se sienta a mirar.)*
+
+@Stella, un poco apartada, saca el **proyector** de su madre. Lo enciende. La imagen tiembla en el aire, pequeñita, con los anillos detrás. *«Hazte fuerte. Y vuelve.»*
+
+Lo mira hasta el final. Se le mueve algo en la cara.
+
+Mapa: **treinta y una** luces.
+
+**BLOQUE 5 · EL ARMA — [AÑO 5]**
+
+Mundo helado, de noche, sin una palabra.
+
+La maniobra por tercera vez. Y ahora es **otra cosa:** no se gritan, no se buscan, **no se miran.** Cada uno ya sabe dónde va a estar el otro. Brogu rompe sin mirar atrás porque sabe que @Vosk ya está clavado detrás de él.
+
+Y esta vez **@Stella no pasa por el hueco: @Stella ES el hueco.** Entra ella primera y los demás la siguen.
+
+Cae de rodillas en el centro de la sala enemiga, abre la palma contra el suelo, y **revienta la instalación entera desde dentro.**
+
+Se levanta despacio, de espaldas al fuego. La cara sin nada.
+
+*(La que sale de ahí es exactamente la figura encapuchada de la SEC 0. **Ya está fabricada.**)*
+
+Mapa: **cincuenta y ocho** luces.
+
+**BLOQUE 6 · LA CUENTA — [AÑO 6]** → **EL PUERTO**
+
+Noche en la Nodriza. Todos duermen.
+
+@Stella, sola, de pie frente al mapa. Sesenta y tantas luces encendidas por toda la carta.
+
+Y ella no las mira. Mira **el punto del borde.** El que no está encendido.
+
+Le pasa el pulgar por encima. La luz no se enciende.
+
+Se sienta contra el mamparo con el **proyector** en la mano.
+
+Lo mira mucho rato.
+
+**Y no lo enciende.**
+
+*(Ha llegado el día en que oír a su madre decirle «vuelve» ya no le da fuerzas: **le pasa factura.**)*
+
+CORTE A:
+
+La Nodriza saliendo de un salto, **enorme y silenciosa**, y delante de ella —
+
+**EL PUERTO ESTELAR.**
+
+Un anillo de plataformas colgado en mitad de la nada, y ni una sola luz fuerte en toda la estructura: aquí las lámparas van bajas **a propósito.** Porque este sitio no tiene atmósfera, ni luna, ni sol cerca.
+
+Y por eso, desde aquí, **se ven todas las estrellas del universo a la vez.**
+
+La música llega a su final. La Nodriza atraca.
+
+---
+
 # ACTO 3 · 転結 (TEN · KETSU) — EL REGRESO Y EL TRONO
 
 ---
 
-## SEC. 20B — INT. NAVE NODRIZA — LABORATORIO DE @NIMA — NOCHE
+## SEC. 20C — EXT. PUERTO ESTELAR — EL LAGO — [@STELLA: AÑO 6 · ERDIA: AÑO 24]
+
+> `@space-port` · `@loc_space-port-view` · `@loc_space-port-lake`. **Sin una sola fuente de luz dura:**
+> las caras van iluminadas **solo por las estrellas**, y el contraplano de cada una es el cielo entero.
+
+Bajo la cúpula del puerto hay un **lago.** Agua quieta, negra, sin una onda.
+
+Y como aquí no hay más luz que la de fuera, el lago **repite el cielo entero.** Quien se sienta en esa orilla queda sentado **entre dos universos**, uno arriba y otro abajo.
+
+Es, con diferencia, el sitio más bonito de la película.
+
+En las terrazas de arriba, la tripulación. Bebiendo, riéndose, celebrando algo. Se oye de lejos.
+
+Abajo, sola en la orilla, de espaldas a todos: **@STELLA.**
+
+Lleva el pelo blanco largo. No bebe. No mira las estrellas. Mira el agua.
+
+EN LA TERRAZA.
+
+**@THERON** apoyado en la baranda, mirando a los suyos. A su lado aparece **THARA** —su mujer— con dos vasos. Le da uno. Y sigue la mirada de él hasta donde no estaba mirando.
+
+**THARA**
+Three ports.
+*(bebe)*
+Three ports now, and she hasn't come up to drink with anyone.
+
+**@THERON**
+She's tired.
+
+**THARA**
+She isn't tired.
+*(beat)*
+She's doing the math.
+
+@Theron se queda callado.
+
+**THARA (CONT.)**
+Go.
+
+**@THERON**
+*(sin moverse)*
+And what do I say to her.
+
+**THARA**
+Nothing. Sit down next to her.
+*(le quita el vaso de la mano)*
+You've been waiting twenty thousand years and you're still whole. She's been waiting six and she's going out.
+*(beat)*
+**Teach her how it's done.**
+
+@Theron mira el vaso que ya no tiene. Y baja.
+
+EN LA ORILLA.
+
+Se sienta al lado de @Stella. No dice nada. Bastante rato.
+
+**@STELLA**
+*(sin mirarlo)*
+One to four.
+*(beat)*
+Every year I live, four go by back there.
+
+**@THERON**
+I know.
+
+**@STELLA**
+I've done six. That's twenty-four there.
+*(traga)*
+When I left, my sister was one year old.
+
+Silencio.
+
+**@STELLA (CONT.)**
+She's twenty-five now. She's **older than me.**
+*(por fin lo mira)*
+If I go back tomorrow, I'm late. If I go back the day after, I'm later. **I am never going to get there in time.** However it goes.
+
+@Theron mira el agua. Las estrellas quietas ahí abajo.
+
+**@THERON**
+I've been arriving late for twenty thousand years.
+
+**@STELLA**
+*(amarga)*
+Right. That's why I'm telling you.
+
+**@THERON**
+You're not telling me. You're **asking** me.
+
+@Stella no lo niega.
+
+Y entonces él dice lo que llevaba tres años sin decirle a nadie.
+
+**@THERON (CONT.)**
+That night on the bridge you told me something about your king. That he'd been up there a thousand years. That they took him for a god because he'd been looking after them for a thousand years.
+*(beat)*
+I told you kings always say that.
+
+**@STELLA**
+I remember.
+
+**@THERON**
+I lied to you. I didn't sleep that night.
+*(mira el cielo entero de un lado a otro)*
+In all of this — and I've seen nearly all of it — **there are three or four races that can live like that.**
+*(beat)*
+I am one of them.
+
+A @Stella le cambia la cara despacio, según lo va entendiendo.
+
+**@STELLA**
+*(muy bajo)*
+…And the other one?
+
+**@THERON**
+That is exactly what I haven't been able to shake for three years.
+
+Se levanta. Le tiende la mano para levantarla a ella —y es la primera vez en toda la película que @Theron le ofrece la mano a alguien.
+
+**@THERON (CONT.)**
+We're going to Erdia.
+
+@Stella se queda quieta con la mano de él delante.
+
+**@THERON (CONT.)**
+Be clear about **what** I'm giving you, because it isn't what you asked for.
+*(beat)*
+I am not taking you to save your planet. Or to get your father out, or to find your sister. I can't promise that and I won't.
+*(beat)*
+I'm taking you to **look at your king.**
+
+Y arriba, en la terraza, **THARA** los ve subir juntos. Y **no sonríe.**
+
+*(Ella lo mandó a enseñarle a esperar. Y él ha vuelto habiendo decidido **dejar de esperar.** Es su marido y lo conoce: acaba de ver empezar algo que no se va a poder parar.)*
+
+---
+
+## SEC. 20D — INT. NAVE NODRIZA — LABORATORIO DE @NIMA — NOCHE
 
 Primera imagen del acto: **agua oscura en un lavabo de metal.** Dentro, mechones de pelo blanco perdiendo el color.
 
@@ -1793,22 +2050,19 @@ No, you don't. Go down anyway.
 Se da la vuelta para irse. Y se para en la puerta.
 
 **@THERON (CONT.)**
-One thing.
-*(sin girarse del todo)*
-What you told me about your king. That he'd been up there a thousand years. That they took him for a god because he'd been looking after them for a thousand years.
+And you're not going down there to find anyone.
 
 **@STELLA**
-*(sin entender)*
-…Yes.
+*(sin levantar la cabeza del lavabo)*
+I'm not going down there to find anyone.
 
 **@THERON**
-In everything I have seen — and I have seen a great deal — there are three or four species that can do that.
-*(beat)*
-I am one of them.
+*(la mira un segundo de más)*
+Liar.
 
-Y se va sin explicar nada más.
+Y se va.
 
-*(No sabe nada. Tiene un presentimiento. Y no la está mandando a mirar su planeta: **la está mandando a mirar a su rey.**)* Las dos se quedan solas con el ruido del agua.
+*(Los dos saben perfectamente a qué baja. Y los dos van a fingir que no hasta el final.)* Las dos mujeres se quedan solas con el ruido del agua.
 
 **@NIMA**
 It'll take months to wash out.
