@@ -41,11 +41,23 @@ plano de la película.**
 
 **⑦ LA LLAVE APARECE A MITAD DE LA SEC 3.** Antes de la caja, la palma izquierda está limpia.
 
-**⑧ EL ORBE SE VE POR FUERA UNA SOLA VEZ FUERA DE ERDIA: LA SEC 10.** Vosk fuerza el brazalete y la
-esfera **sale a la superficie** sobre su muñeca. 🔒 No se ha desprendido — sigue anclado en la palma,
-el brazo de ella **nunca se levanta**, y la esfera se queda flotando después de que Theron lance a
-Vosk. En todo el resto de la película el Orbe es **un resplandor azul bajo el brazalete**, nunca una
-esfera visible, hasta que Selka se lo arranca en la SEC 27.
+**⑧ LOS BRAZALETES SON DOS, Y VAN EN LOS DOS PLANOS.** 🔒 Stella lleva **uno en cada muñeca** desde
+la SEC 3 hasta el final, y le sirve **cualquiera de los dos**. No se le quitan nunca: son el mando de
+todo lo que le entra y le sale del cuerpo. Si en un plano solo se le ve una muñeca, en la otra
+**también hay brazalete.**
+
+**⑨ EL ORBE SOLO SE MATERIALIZA COMO ESFERA CUATRO VECES EN TODA LA PELÍCULA.** El resto del tiempo
+es **un resplandor azul debajo del brazalete**, nunca una bola visible:
+
+| Dónde | Quién lo saca |
+|---|---|
+| SEC 5 | Stella lo toma del centro de la sala y **se le integra** por la palma |
+| SEC 10 | **Vosk** fuerza el brazalete — y el que lo agarra se electrocuta |
+| SEC 24–25 | Se lo lleva Selka |
+| SEC 27 | Selka **se lo arranca de la palma izquierda** |
+
+⚠️ Y siempre **por partículas**: nunca aparece ni desaparece de golpe. Sube el chorro, gira, y se
+condensa. O al revés.
 
 ---
 

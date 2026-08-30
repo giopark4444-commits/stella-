@@ -54,11 +54,21 @@
 >   hay en este universo. **No entiendo por qué la estamos salvando.**»* Nadie le contesta — y **dos
 >   años después la vende** (SEC 13). Su traición no es por dinero: **es esto**, y por eso «porque yo no
 >   soy tú» lo parte por la mitad.
-> • **EL BRAZALETE ES LA PUERTA DEL ORBE, NO SU CASA.** ⚠️ El Orbe **sigue anclado en la palma
->   izquierda**, donde @Naio le grabó la llave — de ahí se lo arranca @Selka en la SEC 27. Cuando @Vosk
->   fuerza el brazalete en la SEC 10 y salen partículas que se condensan en la esfera sobre su muñeca,
->   **el Orbe no se ha desprendido: ha salido a la superficie.** Por eso el brazo de ella nunca se
->   levanta, por eso la esfera se queda flotando ahí después, y por eso **no se lo puede quitar nadie.**
+> • 🔒 **LA REGLA DE LAS PARTÍCULAS — vale para el Orbe Y para @Gix, y no tiene excepciones.**
+>   Tres piezas, y cada una hace una sola cosa:
+>   **① LA PALMA IZQUIERDA es donde viven.** Ahí se la graba @Naio en la SEC 3, ahí se integra el Orbe
+>   en la SEC 5, ahí entra @Gix cuando se sacrifica, y **de ahí se lo arranca @Selka en la SEC 27.**
+>   Todo lo que entra o sale del cuerpo de @Stella **entra y sale por la palma.**
+>   **② LOS BRAZALETES son el mando** —lleva uno en cada muñeca y le sirve **cualquiera de los dos**.
+>   No guardan nada: **ordenan.** Ella se toca un brazalete y la cosa sale; se lo vuelve a tocar y la
+>   cosa entra.
+>   **③ EL TRANSPORTE SIEMPRE SON PARTÍCULAS.** Nada aparece de golpe y nada desaparece de golpe: se
+>   deshace en un chorro de partículas que sube, gira y **se condensa** en la forma —esfera si es el
+>   Orbe, axolote si es @Gix— o al revés, se deshace en partículas que **entran por la palma.**
+>   ⚠️ Consecuencia para la SEC 10: cuando @Vosk fuerza el brazalete, **no le está quitando nada.**
+>   Está usando el mando de otra persona. La esfera se materializa, sigue siendo de ella, y por eso
+>   **el brazo de @Stella nunca se levanta**, la esfera **se queda flotando ahí** cuando él sale volando,
+>   y **al que la agarra lo fríe** — está enredada en la estirpe de ella.
 > • **AL QUE LO TOCA, LO FRÍE.** A @Vosk se le quedan los dedos rígidos alrededor del Orbe y **@Theron
 >   tiene que arrancárselo con una descarga de la palma**. Esto **planta la frase de la SEC 17**
 >   —*«Sacarlo a la fuerza te destruiría a ti… y quizá a quien lo intente»*—: @Theron **no lo supone, lo
@@ -1239,7 +1249,7 @@ Pero **@Gix se atraviesa.**
 
 El animal de luz recibe el golpe entero. Y **se deshace.**
 
-Y todas sus partículas, en vez de dispersarse por el aire, **entran en el cuerpo de @Stella.**
+Y todas sus partículas, en vez de dispersarse por el aire, **giran hacia ella y le entran por la palma izquierda** —por la misma llave por la que acaba de entrar el Orbe, unos segundos antes.
 
 *(Acaba de darle todo lo que era. A partir de este segundo **vive dentro de ella**, y ahí se va a quedar veinticuatro años.)*
 
@@ -1509,7 +1519,7 @@ Y de dentro **sale un chorro de partículas de luz.** Suben, giran, se ordenan e
 
 **EL ORBE.**
 
-*(Que no ha salido de ella. **Ha salido a la superficie.** Sigue anclado en la palma donde su padre le grabó la llave esta misma mañana. @Vosk no está cogiendo una joya: está metiendo la mano en el pecho de alguien.)*
+*(Vive en la palma izquierda, donde su padre le grabó la llave esta misma mañana. El brazalete no lo guarda: **lo manda.** Y @Vosk acaba de usar el mando de otra persona. La esfera está fuera, sí — pero **sigue siendo de ella**, y sigue enredada en su estirpe. Esto no es coger una joya de una mesa: **es meter la mano dentro de alguien.**)*
 
 Toda la mesa se queda sin aire. @Vosk abre la mano al lado de la esfera.
 
@@ -1960,6 +1970,10 @@ Porque yo no soy tú.
 
 Lo suelta de un empujón hacia la salida. Y por primera vez, el matón la mira distinto. Algo en él se rompe y se recompone.
 
+*(Y aquí acaba la traición de @Vosk. **No aquí dentro: aquí.** No porque entendiera nada de los naiel, ni porque cambiara de opinión sobre su raza —**no cambia**—, sino porque una cría a la que él vendió volvió por él cuando ya tenía la salida delante.)*
+
+*(Ojo con cómo se le nota, porque **el orgullo se lo queda entero.** No le da las gracias. No lo menciona nunca más. No se disculpa ni una sola vez en toda la película. Lo único que cambia es **dónde se pone:** a partir de este día, en cada operación, @Vosk va delante de ella. Y años después va a ser el que le tape una puerta con el cuerpo para que ella salga.)*
+
 Escapan todos juntos —@Stella, **@Noah, Carl y Lucy**, Brogu, @Nima y @Vosk— mientras la estación arde detrás.
 
 *(Y los tres humanos se suben a esa nave y **no se bajan nunca más.** Veinticuatro años después, tres de las personas que le abren el pasillo en esa plaza son tres que estaban en el mismo pozo que ella.)*
@@ -2301,6 +2315,14 @@ Y @Stella **se ríe.** Se ríe de verdad, con la boca abierta, por primera vez d
 Selva de cristal. La maniobra otra vez, y esta vez **encaja:** Brogu rompe, @Vosk aguanta, Hessa cruza por arriba, @Nima apaga, los tres humanos cierran, Boro atrapa —
 
 —y @Stella **pasa.** Limpia. La palma abierta por delante, la luz del Orbe saliéndole controlada.
+
+Y algo le entra por el flanco a @Stella que ella no ve venir —
+
+—y **@VOSK se mete en medio** y se lo come él. Encaja el golpe entero, planta los pies y no se cae.
+
+@Stella se gira a mirarlo. Y @Vosk **mira para otro lado** y sigue peleando, como si no hubiera pasado nada.
+
+*(No se lo va a decir. **Ni hoy ni nunca.** El que la vendió lleva un año poniéndose delante de ella y no piensa reconocerlo en voz alta.)*
 
 Vuelven caminando entre los árboles de vidrio, sucios y enteros. @Vosk le da un manotazo en la espalda que casi la tira. Ella se lo devuelve.
 
