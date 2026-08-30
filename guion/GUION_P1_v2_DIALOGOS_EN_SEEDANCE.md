@@ -952,6 +952,13 @@ Y todas sus partículas, en vez de dispersarse por el aire, **giran hacia ella y
 
 *(Acaba de darle todo lo que era. A partir de este segundo **vive dentro de ella**, y ahí se va a quedar veinte años.)*
 
+> ⚠️ **ESTE PLANO ES SOLO PARA EL PÚBLICO. ELLA NO LO VE.**
+> Rodarlo en el mismo segundo en que **el Rey cae al lado de su madre**, al otro extremo de la sala.
+> La cámara ve las partículas entrar. **@Stella está mirando a @Vera.** Y la única imagen que se le
+> queda a ella es la de @Gix reventando en el aire.
+> 🔒 **Se va de este planeta convencida de que @Gix murió por ella.** Y va a seguir creyéndolo
+> **dos años**, hasta una fosa de apuestas en el confín de la galaxia.
+
 Y el Rey **salta.**
 
 Cruza el salón reventado de un solo salto y cae al lado de @Vera.
@@ -2052,13 +2059,25 @@ Al pecho del **REY DEL BASURERO**, y a la cosa pequeña y vieja que le cuelga de
 
 Y **se toca el brazalete.**
 
-Y por primera vez desde que salió de Erdia, delante de tres mil desconocidos, **sale @GIX.**
+No lo piensa. No sabe lo que va a pasar. **No espera que pase nada** — es el gesto que hacía a los catorce años cuando no le quedaba otra cosa, y le sale solo.
 
-Del tamaño de una mano. Y **crece.**
+Y de su palma **empiezan a salir partículas.**
+
+A @Stella se le va la cara. **Baja los ojos a su propia mano** como quien oye una voz que enterró.
+
+Porque ella lo vio morir. En una sala del trono, hace dos años, reventado en el aire por un golpe que iba dirigido a ella. **Lo enterró ese día.**
+
+Y las partículas suben, giran, se ordenan—
+
+**@GIX.**
+
+Del tamaño de una mano. Vivo.
+
+*(Y aquí no se rueda una invocación. **Se rueda un reencuentro.** Denle a esa cara los dos segundos que valen: acaba de descubrir que lo que creía que se murió por ella **lleva dos años viviendo dentro de ella y esperando.**)*
+
+Y **crece.**
 
 Un animal de luz en mitad de un pozo de apuestas — y las gradas, que llevan toda la noche pidiendo estirpe, **se callan de golpe.**
-
-*(Hace dos años esta criatura se deshizo delante de un golpe que iba a acabar con. Y lleva dos años ahí dentro esperando que se lo pida.)*
 
 @Gix **arranca hacia el palco.**
 

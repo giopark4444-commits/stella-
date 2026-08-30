@@ -226,6 +226,16 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • 🔒 **@STELLA CREE QUE @GIX MURIÓ POR ELLA — y por eso no lo llama en dos años.** En la SEC 5 el
+>   público **sí** ve las partículas entrarle por la palma; **ella no.** ⚠️ Rodar ese plano en el mismo
+>   segundo en que el Rey cae al lado de @Vera al otro extremo de la sala: la cámara mira la mano,
+>   **@Stella está mirando a su madre.** La única imagen que se le queda es la de @Gix reventando en el
+>   aire.
+> • **Y por eso la SEC 15 no es una invocación: es un REENCUENTRO.** Se toca el brazalete **sin
+>   pensarlo y sin esperar nada** —es el gesto que hacía a los catorce cuando no le quedaba otra cosa—
+>   y le empiezan a salir partículas de la palma. **Baja los ojos a su propia mano como quien oye una
+>   voz que enterró.** Hay que darle a esa cara los dos segundos que valen: acaba de descubrir que lo
+>   que creía muerto por ella **lleva dos años viviendo dentro de ella y esperando.**
 > • **@VOSK ARRASTRA LA QUEMADURA A LA SEC 11.** Entra con **la mano derecha vendada hasta la muñeca**
 >   y lo primero que le pone a @Stella delante de la cara no es un insulto: **es la mano.** *«¿Ves esto?
 >   Es tuyo.»* 🔒 Su odio deja de ser el de un matón genérico: **no la odia por lo que es, la odia por
@@ -1519,6 +1529,13 @@ Y todas sus partículas, en vez de dispersarse por el aire, **giran hacia ella y
 
 *(Acaba de darle todo lo que era. A partir de este segundo **vive dentro de ella**, y ahí se va a quedar veinte años.)*
 
+> ⚠️ **ESTE PLANO ES SOLO PARA EL PÚBLICO. ELLA NO LO VE.**
+> Rodarlo en el mismo segundo en que **el Rey cae al lado de su madre**, al otro extremo de la sala.
+> La cámara ve las partículas entrar. **@Stella está mirando a @Vera.** Y la única imagen que se le
+> queda a ella es la de @Gix reventando en el aire.
+> 🔒 **Se va de este planeta convencida de que @Gix murió por ella.** Y va a seguir creyéndolo
+> **dos años**, hasta una fosa de apuestas en el confín de la galaxia.
+
 Y el Rey **salta.**
 
 Cruza el salón reventado de un solo salto y cae al lado de @Vera.
@@ -2619,13 +2636,25 @@ Al pecho del **REY DEL BASURERO**, y a la cosa pequeña y vieja que le cuelga de
 
 Y **se toca el brazalete.**
 
-Y por primera vez desde que salió de Erdia, delante de tres mil desconocidos, **sale @GIX.**
+No lo piensa. No sabe lo que va a pasar. **No espera que pase nada** — es el gesto que hacía a los catorce años cuando no le quedaba otra cosa, y le sale solo.
 
-Del tamaño de una mano. Y **crece.**
+Y de su palma **empiezan a salir partículas.**
+
+A @Stella se le va la cara. **Baja los ojos a su propia mano** como quien oye una voz que enterró.
+
+Porque ella lo vio morir. En una sala del trono, hace dos años, reventado en el aire por un golpe que iba dirigido a ella. **Lo enterró ese día.**
+
+Y las partículas suben, giran, se ordenan—
+
+**@GIX.**
+
+Del tamaño de una mano. Vivo.
+
+*(Y aquí no se rueda una invocación. **Se rueda un reencuentro.** Denle a esa cara los dos segundos que valen: acaba de descubrir que lo que creía que se murió por ella **lleva dos años viviendo dentro de ella y esperando.**)*
+
+Y **crece.**
 
 Un animal de luz en mitad de un pozo de apuestas — y las gradas, que llevan toda la noche pidiendo estirpe, **se callan de golpe.**
-
-*(Hace dos años esta criatura se deshizo delante de un golpe que iba a acabar con. Y lleva dos años ahí dentro esperando que se lo pida.)*
 
 @Gix **arranca hacia el palco.**
 
