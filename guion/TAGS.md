@@ -217,3 +217,69 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | **Las celdas del nivel de servicio** | Naio preso 24 años · SEC 19 y SEC 23 |
 | **El refugio de la resistencia** | Todo el acto 2 en Erdia |
 | **Los aposentos de la General** | Selka |
+
+
+---
+
+# 🔁 TABLA DE TRADUCCIÓN
+
+> Lo que yo escribí durante la sesión → **lo que hay que escribir de verdad.**
+
+| Concepto | Tag real |
+|---|---|
+| `@Brazalete` | **`@prop_stella-bracelet`** |
+| `@Brogu` | **`@brogu`** |
+| `@Carl` | **`@carl`** |
+| `@CieloAño24` | **`@loc_erdia-future-sky`** |
+| `@CieloCiudadDorada` | **`@loc_erdia-future-sky`** |
+| `@CiudadDorada` | **`@loc_erdia-past`** |
+| `@EnfermeriaNodriza` | **`@loc_mothership-recovery-room`** |
+| `@Enko` | **`@enko`** |
+| `@ErdiaRuinas` | **`@loc_erdia-destroyed`** |
+| `@FosaApuestas` | **`@loc_junk-planet-colisseum`** |
+| `@Gara` | **`@gara`** |
+| `@Gix` | **`@gix`** |
+| `@GixGrande` | **`@gix-giant`** |
+| `@Korin` | **`@korin-2`** |
+| `@Laboratorio` | **`@loc_erdia-palace-lab`** |
+| `@Lessa` | **`@char_lessa`** |
+| `@Lucy` | **`@char_lucy`** |
+| `@Marek` | **`@marek`** |
+| `@Naio` | **`@naio`** |
+| `@NaioCautivo` | **`@naio-prison`** |
+| `@NaioRescatado` | **`@naio-prison-2`** |
+| `@NaveImperial` | **`@ship-enemy-erdia`** |
+| `@NaveNodriza` | **`@mothership`** |
+| `@NaveStella` | **`@ship-stella`** |
+| `@Nima` | **`@nima`** |
+| `@Noah` | **`@char_noah`** |
+| `@NodrizaInterior` | **`@loc_mothership-hall`** |
+| `@Orbe` | **`@prop_orb`** |
+| `@Parasito` | **`@vortham-parasite`** |
+| `@ParqueLuzagua` | **`@loc_luzagua-park`** |
+| `@PasillosPalacio` | **`@erdia-palace-corridors`** |
+| `@PlanetaChatarra` | **`@loc_junk-planet`** |
+| `@PlazaPalacio` | **`@loc_erdia-square-night`** |
+| `@Rebeldes` | **`@rebel-people`** |
+| `@RobotDemoledor` | **`@robot-giant-demoledor`** |
+| `@S1G1` | **`@robot-s1g1`** |
+| `@SalaDelOrbe` | **`@loc_eridia-orbe-room`** |
+| `@SalaInstruccion` | **`@loc_erdia-palace-traingin-room`** |
+| `@SalaTrono` | **`@loc_eridia-orbe-room`** |
+| `@SalaTronoAbierta` | **`@loc_erdia-orbe-room-destroyed`** |
+| `@Selka9` | **`@selka-girl`** |
+| `@Selka9Herida` | **`@selka-girl-scar`** |
+| `@SelkaBebe` | **`@selka-baby`** |
+| `@SelkaCadete` | **`@selka-teen`** |
+| `@SelkaGeneral` | **`@selka-adult-ver-1`** |
+| `@SelkaGeneralManca` | **`@selka-no-arm-ver-1`** |
+| `@SelkaNiña` | **`@selka-girl`** |
+| `@StellaArmadura` | **`@stella-armor`** |
+| `@StellaPeloCorto` | **`@stella-short-hair-armor-blood`** |
+| `@StellaRopa` | **`@stella-cloths`** |
+| `@StellaTeñida` | **`@char_stella-adult-armor`** |
+| `@Theron` | **`@theron`** |
+| `@VeraArmadura` | **`@vera-armor`** |
+| `@VeraRopa` | **`@vera-luzagua-park`** |
+| `@Vortham` | **`@vortham`** |
+| `@Vosk` | **`@vosk`** |

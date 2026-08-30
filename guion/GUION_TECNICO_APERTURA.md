@@ -20,7 +20,7 @@
   en la sala del trono (1:41). Son los dos únicos planos estáticos, y por eso pesan.
 - **Todo el asalto existe para mover a Stella.** Cada golpe de cada personaje gana un metro para ella.
 - **Erdia está destruido y aun así es bonito:** estrellas nítidas y humo atravesándolas.
-- **`@Rebeldes` en TODOS los planos de la plaza (B1, B2 y B3), siempre en segundo plano y desenfocados.**
+- **`@rebel-people` en TODOS los planos de la plaza (B1, B2 y B3), siempre en segundo plano y desenfocados.**
   Nunca son el sujeto. Si el plano tiene un personaje con nombre, los rebeldes pelean detrás de él.
 
 ## Bloque 1 · EL SUELO Y EL AVANCE — 0:00 a 0:30
@@ -92,18 +92,18 @@
 
 | Bloque | Personajes | Máquinas | Locación |
 |---|---|---|---|
-| **B1** | `@Rebeldes` `@Brogu` `@Nima` `@Vosk` `@HombrePulpo` `@Gara` `@Enko` `@TrioHumano` `@MujerVerde` `@StellaTeñida` | `@RobotLinea` `@RobotPesado` `@NaveImperial` | `@PlazaPalacio` `@PalacioEsfera` `@CieloAño24` |
-| **B2** | `@Rebeldes` + los mismos | los cuatro tipos | `@PlazaPalacio` |
-| **B3** | `@Rebeldes` `@StellaTeñida` `@Brogu` (+ el resto en la carga) | `@RobotLinea` `@RobotDescarga` `@NaveImperial` | `@PalacioEsfera` |
-| **B4** | `@StellaTeñida` | — | `@SalaTronoAbierta` |
+| **B1** | `@rebel-people` `@brogu` `@nima` `@vosk` `@HombrePulpo` `@gara` `@enko` `@TrioHumano` `@MujerVerde` `@char_stella-adult-armor` | `@RobotLinea` `@RobotPesado` `@ship-enemy-erdia` | `@loc_erdia-square-night` `@PalacioEsfera` `@loc_erdia-future-sky` |
+| **B2** | `@rebel-people` + los mismos | los cuatro tipos | `@loc_erdia-square-night` |
+| **B3** | `@rebel-people` `@char_stella-adult-armor` `@brogu` (+ el resto en la carga) | `@RobotLinea` `@RobotDescarga` `@ship-enemy-erdia` | `@PalacioEsfera` |
+| **B4** | `@char_stella-adult-armor` | — | `@loc_erdia-orbe-room-destroyed` |
 
 ## Riesgos conocidos
 
 1. **B2 carga 13 referencias.** Partirlo en dos de 15 s; el corte se esconde en el disparo de descarga.
 2. **La cámara no se abre a los 10 s.** Por eso el movimiento tiene motor físico: sube *con el esfuerzo
    de los brazos de Brogu*, no por orden abstracta.
-3. **El contrapicado se puebla de gente.** Si pasa, generarlo con `@StellaTeñida`, `@NaveImperial` y
-   `@CieloAño24` como únicas referencias.
+3. **El contrapicado se puebla de gente.** Si pasa, generarlo con `@char_stella-adult-armor`, `@ship-enemy-erdia` y
+   `@loc_erdia-future-sky` como únicas referencias.
 4. **La altura de la fachada se pierde** si el modelo comprime. La da el suelo alejándose dentro del
    plano, nunca el tamaño de ella en el cuadro.
 5. **Aparece el agresor en B4.** El encuadre de 1:54 debe ser demasiado cerrado para que quepa nadie.
@@ -220,7 +220,7 @@
 | 48 | 2:58 | 2s | **dron** que se aleja subiendo | Las dos hermanas en la hierba, pequeñas, doradas, con la ciudad detrás. **Sin mirar ni una vez cómo se aleja su madre.** `NO TOCAR` | — |
 
 ### Referencias de la SEC 2
-`@StellaRopa` (14) · `@VeraRopa` · `@SelkaBebe` · `@Gix` · `@ParqueLuzagua` · `@MechaFlores` · `@CiudadDorada`
+`@stella-cloths` (14) · `@vera-luzagua-park` · `@selka-baby` · `@gix` · `@loc_luzagua-park` · `@MechaFlores` · `@loc_erdia-past`
 
 ### Nota de continuidad ✅
 Stella termina la escena **con Selka en brazos** y con una cita en el laboratorio. **Resuelto: la SEC 3 ya abre así.**
