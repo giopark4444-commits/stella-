@@ -224,8 +224,20 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | **3–4 mundos para el montaje** | SEC 20B — 2:30–3:00 de película |
 | **La cúspide** ⚠️ | SEC 0 · 23B — *¿basta `@loc_facade` + `@prop_palace-cover`?* |
 
+## 🎯 HABILIDADES — categoría aparte, pendiente de recibir
+> Gio tiene **hojas de skills** y va a pasar la lista completa con sus referencias.
+> ⚠️ **El escudo de Vera YA ESTÁ ahí** — sale de la lista de props.
+> ⚠️ **Comprobar si los tres cristales de Nima también son skill** y no prop.
+> Cuando llegue la lista hay que hacer con ella **lo mismo que con los personajes: un mapa
+> habilidad → secuencia**, porque las habilidades de este film también cambian de estado
+> (Gix normal / gigante · el escudo entero / roto · la palma de Stella con Orbe / sin él).
+> Las que están en juego, por lo menos: **el escudo de Vera** · **la palma y el dash de Stella** ·
+> **los tres cristales de Nima** · **la descarga de la palma de Theron** · **las tres de Vosk** ·
+> **la hoja de Selka** · **el crecimiento de Gix** · **el último poder de Vera** (la descarga que
+> revienta hacia afuera).
+
 ## 🟡 Props que sí faltan
-**Los tres cristales de Nima** (SEC 15 · 20B) · **El escudo de Vera** (SEC 4 · 5) ·
+**Los tres cristales de Nima** ⚠️ *(¿o es skill?)* (SEC 15 · 20B) ·
 **Las armas de los humanos** —espada, lanza, arco— (SEC 16 → final) ·
 **El mapa del salón** (SEC 20B, 5 de 6 bloques) · **El proyector de Vera** (SEC 18 · 20B) ·
 **La muñequera de color** (SEC 5 · 6) — *¿está dentro de `@prop_stella-armor-ver-1-1`?*
