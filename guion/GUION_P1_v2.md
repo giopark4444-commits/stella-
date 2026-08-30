@@ -3379,7 +3379,7 @@ Y la figura de pelo blanco **por fin se gira.**
 
 No es Vera. Nunca lo fue.
 
-**SELKA** —la General, 25, blanca, perfecta, ojos gris-azul, cicatriz sobre el ojo izquierdo, sin un gesto.
+**SELKA** —la General, 21, blanca, perfecta, ojos gris-azul, cicatriz sobre el ojo izquierdo, sin un gesto.
 
 Stella se levanta del suelo con lo que le queda. Escupe. Y la mira de verdad.
 
