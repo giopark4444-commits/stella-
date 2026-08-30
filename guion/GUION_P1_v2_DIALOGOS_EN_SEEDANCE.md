@@ -1782,7 +1782,25 @@ Understood.
 *(beat)*
 No, you don't. Go down anyway.
 
-Se va. Las dos se quedan solas con el ruido del agua.
+Se da la vuelta para irse. Y se para en la puerta.
+
+**@THERON (CONT.)**
+One thing.
+*(sin girarse del todo)*
+What you told me about your king. That he'd been up there a thousand years. That they took him for a god because he'd been looking after them for a thousand years.
+
+**@STELLA**
+*(sin entender)*
+…Yes.
+
+**@THERON**
+In everything I have seen — and I have seen a great deal — there are three or four species that can do that.
+*(beat)*
+I am one of them.
+
+Y se va sin explicar nada más.
+
+*(No sabe nada. Tiene un presentimiento. Y no la está mandando a mirar su planeta: **la está mandando a mirar a su rey.**)* Las dos se quedan solas con el ruido del agua.
 
 **@NIMA**
 It'll take months to wash out.
@@ -2404,7 +2422,31 @@ Llena la sala entera.
 
 El Parásito, casi sin notarlo, le **secciona el brazo** de un golpe. @Selka cae, manca, pero viva.
 
-En ese instante, una explosión revienta el mamparo.
+ARRIBA, EN LA NODRIZA.
+
+**@NIMA** está mirando la lectura de lo que acaba de encenderse allá abajo. Y se le va el color de la cara.
+
+Porque ella es la que entiende cómo vuelan las naves. Y una nave **de ese tamaño**, alimentada por el corazón entero de un planeta, **solo puede ser una cosa.**
+
+**@NIMA**
+*(por el canal, muy quieta)*
+@Theron.
+*(beat)*
+It's him. It's what you've been hunting.
+
+Silencio en el canal.
+
+*(Veinte mil años. Y la certeza le llega por una lectura de consola, dicha por una elfa azul de metro y medio.)*
+
+**@THERON (V.O.)**
+*(dos palabras)*
+Bring everything down.
+
+Y **la NODRIZA cae del cielo disparando.**
+
+En los controles, **YURI** — pilotando y disparando a la vez, metiendo una nave del tamaño de un edificio entre las torres de un palacio que se está despegando del suelo.
+
+Una explosión revienta el mamparo.
 
 Entra **@THERON.**
 

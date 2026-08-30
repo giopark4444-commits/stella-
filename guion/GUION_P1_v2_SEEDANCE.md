@@ -38,6 +38,18 @@
 >   fuego se les refleja encima.
 > • **La plaza es un CONTRAATAQUE**, no una defensa: la resistencia avanza hacia la esfera y gana
 >   terreno. Y la película **abre a ras de piso, entre los pies**, no desde el aire.
+> • **LA LONGEVIDAD ES EL MOTOR DEL ACTO 3.** @Stella le cuenta a @Theron que el Rey lleva **milenios**
+>   en Erdia, adorado como un dios que velaba por el planeta — y que su plan milenario era robarle la
+>   energía y el conocimiento. Y a @Theron **eso le queda sonando**: en todo el universo hay muy pocas
+>   razas capaces de vivir así. **Y él es una de ellas.** No sabe nada. Tiene un presentimiento. Y por
+>   eso la deja bajar —«bajas, miras, subes»— y por eso acaba bajando él.
+> • **LA TRIPULACIÓN, TRES PAPELES NUEVOS.** `@yuri` es **el piloto de la Nodriza** — en el clímax está
+>   en los controles disparando mientras @Theron dispara desde el cielo. `@sabo` es **el consejero de
+>   @Theron**: anciano de su misma especie, cientos de miles de años. Y `@thara` es **la mujer de
+>   @Theron** — la que ve a @Stella hundida y manda a su marido a hablar con ella.
+> • **@NIMA ES LA QUE LO CONFIRMA.** Cuando el palacio se enciende y resulta ser una nave, es ella —la
+>   que entiende cómo vuelan las naves— quien entiende **qué** es eso. Y solo entonces @Theron tiene lo
+>   que le faltaba para entrar en un planeta soberano.
 > • **LOS REBELDES (`@Rebeldes`) ESTÁN EN TODOS LOS PLANOS DE LA PLAZA**, peleando junto a @Stella y a
 >   los suyos — pero **SIEMPRE en segundo plano y desenfocados. Nunca son el sujeto.** Regla: si en
 >   el plano hay un personaje con nombre, los rebeldes pelean detrás de él. Son el ejército; la
@@ -1975,7 +1987,25 @@ Entendido.
 *(beat)*
 No, no lo entiendes. Pero baja igual.
 
-Se va. Las dos se quedan solas con el ruido del agua.
+Se da la vuelta para irse. Y se para en la puerta.
+
+**@THERON (CONT.)**
+Una cosa.
+*(sin girarse del todo)*
+Lo que me contaste de tu rey. Que llevaba mil años ahí arriba. Que lo tenían por un dios porque llevaba mil años cuidándolos.
+
+**@STELLA**
+*(sin entender)*
+…Sí.
+
+**@THERON**
+En todo lo que he visto —y he visto mucho— **hay tres o cuatro razas que pueden hacer eso.**
+*(beat)*
+Yo soy una.
+
+Y se va sin explicar nada más.
+
+*(No sabe nada. Tiene un presentimiento. Y no la está mandando a mirar su planeta: **la está mandando a mirar a su rey.**)* Las dos se quedan solas con el ruido del agua.
 
 **@NIMA**
 Va a tardar en salir. Meses.
@@ -2597,7 +2627,31 @@ Llena la sala entera.
 
 El Parásito, casi sin notarlo, le **secciona el brazo** de un golpe. @Selka cae, manca, pero viva.
 
-En ese instante, una explosión revienta el mamparo.
+ARRIBA, EN LA NODRIZA.
+
+**@NIMA** está mirando la lectura de lo que acaba de encenderse allá abajo. Y se le va el color de la cara.
+
+Porque ella es la que entiende cómo vuelan las naves. Y una nave **de ese tamaño**, alimentada por el corazón entero de un planeta, **solo puede ser una cosa.**
+
+**@NIMA**
+*(por el canal, muy quieta)*
+@Theron.
+*(beat)*
+Es él. **Es lo que llevas buscando.**
+
+Silencio en el canal.
+
+*(Veinte mil años. Y la certeza le llega por una lectura de consola, dicha por una elfa azul de metro y medio.)*
+
+**@THERON (V.O.)**
+*(dos palabras)*
+Bajen todo.
+
+Y **la NODRIZA cae del cielo disparando.**
+
+En los controles, **YURI** — pilotando y disparando a la vez, metiendo una nave del tamaño de un edificio entre las torres de un palacio que se está despegando del suelo.
+
+Una explosión revienta el mamparo.
 
 Entra **@THERON.**
 

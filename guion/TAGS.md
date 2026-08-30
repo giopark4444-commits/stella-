@@ -72,7 +72,7 @@
 
 ## Tripulación de la nave — carpeta 06 (14 assets)
 
-`@theron` · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · **`@boro`** *(el de muchos brazos, rosa)* · `@yuri` · `@sabo` · **`@hessa`** *(la verde, la que sube)* · `@thara`
+`@theron` · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · **`@boro`** *(el de muchos brazos, rosa)* · **`@yuri`** *(el piloto)* · **`@sabo`** *(el consejero, de la raza de Theron)* · **`@hessa`** *(la verde, la que sube)* · **`@thara`** *(la mujer de Theron)*
 
 ## Humanos — carpeta 07 (3 assets)
 
