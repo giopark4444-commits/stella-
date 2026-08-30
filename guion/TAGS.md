@@ -216,10 +216,10 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 ## 🟠 Locaciones que sí faltan
 | Qué | Dónde |
 |---|---|
-| **El balcón real** | SEC 9 — el discurso donde nace «la ladrona» |
-| **El camarote de Stella** | SEC 18 — la señal de su madre |
-| **Los pasillos de la Nodriza** | SEC 11 |
-| **El interior de la nave de Stella** | SEC 8 — **ahí ocurre la bengala** |
+| ~~El balcón real~~ ✅ | Se rueda **desde la plaza**: `@loc_erdia-square-night` |
+| ~~El camarote de Stella~~ ✅ | Se rueda en **el salón**: `@loc_mothership-hall` |
+| **Los pasillos de la Nodriza** ⚠️ | SEC 11 — *propuesto sustituirlos por `@loc_mothership-bar`: la escena es un comedor, no un pasillo* |
+| ~~El interior de la nave de Stella~~ ✅ | Gio lo resuelve **por prompt + frame de referencia** para la continuidad |
 | **El planeta de los cometas** | SEC 16 |
 | **3–4 mundos para el montaje** | SEC 20B — 2:30–3:00 de película |
 | **La cúspide** ⚠️ | SEC 0 · 23B — *¿basta `@loc_facade` + `@prop_palace-cover`?* |

@@ -1154,7 +1154,7 @@ Y sale. Al vacío. Sola.
 
 ## SEC. 8 — INT./EXT. NAVE DE STELLA — ESPACIO PROFUNDO — CONTINUO
 
-> 🏷️ **LOCACIÓN** · `⚠️ interior de la nave — FALTA · @ship-stella`
+> 🏷️ **LOCACIÓN** · `@ship-stella *(interior: prompt + frame de referencia)*`
 > 🏷️ **REPARTO** · `@stella-short-hair-armor-blood`
 > 🏷️ **PROPS** · `@ship-stella · @prop_orb`
 
@@ -1502,7 +1502,7 @@ Es **un rastro.**
 
 ## SEC. 11 — INT. NAVE NODRIZA — PASILLOS Y TALLER — MÁS TARDE
 
-> 🏷️ **LOCACIÓN** · `⚠️ pasillos de la Nodriza — FALTA · @loc_nimas-laboratory`
+> 🏷️ **LOCACIÓN** · `@loc_mothership-bar *(propuesto)* · @loc_nimas-laboratory`
 > 🏷️ **REPARTO** · `@brogu` · `@nima` · `@vosk` · `@stella-short-hair-theron`
 
 
