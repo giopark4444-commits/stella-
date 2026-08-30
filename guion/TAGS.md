@@ -129,109 +129,119 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 
 ---
 
-# 📍 LOCACIONES (39 en tu panel · **29 anotadas aquí**)
-
-> ⚠️ **Faltan 10 por transcribir.** Esta tabla se armó leyendo un pantallazo y no entraron todas.
-> Antes de mandar a generar una locación «que falta», **comprobar que no sea una de esas 10.**
-
-## Erdia — el pasado
-
-| Sitio | Tag |
-|---|---|
-| **El parque de la luzagua** | `@loc_luzagua-park` |
-| Erdia viva, el campo | `@loc_erdia-country-side-past` |
-| Erdia en el pasado | `@loc_erdia-past` |
-| **La plaza, de día** | `@loc_erdia-square-day` |
-| **La plaza, de noche** | `@loc_erdia-square-night` |
-| Erdia desde el espacio | `@loc_eridia-from-space` |
+# 📍 LOCACIONES — **36, panel completo leído 2026-08-30**
 
 ## Erdia — el palacio
-
 | Sitio | Tag |
 |---|---|
 | **El laboratorio de Naio** | `@loc_erdia-palace-lab` |
 | **Los pasillos del palacio** ⚠️ sin `loc_` | `@erdia-palace-corridors` |
-| **La sala del Orbe · = LA SALA DEL TRONO** 🔒 | `@loc_eridia-orbe-room` — la misma habitación en el año 0 y en el año 20 |
+| **La sala del Orbe · = LA SALA DEL TRONO** 🔒 | `@loc_erdia-orbe-room` |
 | La sala del Orbe, alrededores | `@loc_erdia-orbe-room-surround` |
 | **La sala del Orbe DESTRUIDA** | `@loc_erdia-orbe-room-destroyed` |
-| **La sala de entrenamiento** ⚠️ typo en origen | `@loc_erdia-palace-traingin-room` |
+| **La sala de entrenamiento** ⚠️ typo | `@loc_erdia-palace-traingin-room` |
+| **LA FACHADA** ✅ | `@loc_facade` |
+| **EL DUCTO** ✅ | `@loc_duct` |
+| **LA CELDA** ✅ | `@loc_prison-cell` |
+| **EL PASILLO DE LAS CELDAS** ✅ | `@loc_prison-corridor` |
+| **LOS APOSENTOS DE SELKA** ✅ | `@selkas-dorm` ⚠️ sin `loc_` |
 
-## Erdia — año 20
-
+## Erdia — el planeta
 | Sitio | Tag |
 |---|---|
-| Erdia destruida | `@loc_erdia-destroyed` |
-| Erdia seca | `@loc_erdia-dry` |
-| **La plaza destruida** | `@loc_erdia-square-destroyed` |
-| Erdia futura | `@loc_erdia-future` |
-| El cielo del año 20 | `@loc_erdia-future-sky` |
+| **El parque de la luzagua** | `@loc_luzagua-park` |
+| Erdia en el pasado | `@loc_erdia-past` · `@loc_erdia-country-side-past` |
+| **La plaza** | `@loc_erdia-square-day` · `@loc_erdia-square-night` · `@loc_erdia-square-destroyed` |
+| Erdia año 20 | `@loc_erdia-destroyed` · `@loc_erdia-dry` · `@loc_erdia-future` · `@loc_erdia-future-sky` |
+| Desde el espacio | `@loc_erdia-from-space` |
+| **EL REFUGIO DE LA RESISTENCIA** ✅ | `@loc_rebel-house` · `@loc_rebel-town` |
 
 ## La Nodriza
-
 | Sitio | Tag |
 |---|---|
 | La nave por fuera | `@mothership` |
 | El salón | `@loc_mothership-hall` |
 | El bar | `@loc_mothership-bar` |
-| La sala de control | `@mothership-control-room` ⚠️ sin `loc_` |
-| **El hospital** ⚠️ typo en origen | `@loc_modershipo-hospital` — **la sala más usada del film:** SEC 10 (la mesa), SEC 10A (despierta) y SEC 29A (el brazo de Selka) |
+| **La sala de control · = EL PUENTE** ✅ | `@mothership-control-room` ⚠️ sin `loc_` |
+| **EL LABORATORIO DE NIMA** ✅ | `@loc_nimas-laboratory` |
+| **El hospital** ⚠️ typo | `@loc_modershipo-hospital` |
 | **La sala de recuperación — el tanque** | `@loc_mothership-recovery-room` |
 
 ## El planeta chatarra
-
-| Sitio | Tag |
-|---|---|
-| El planeta | `@loc_junk-planet` |
-| El mercado | `@loc_junk-planet-market` |
-| **EL COLISEO — la fosa de apuestas** | `@loc_junk-planet-colisseum` |
+`@loc_junk-planet` · `@loc_junk-planet-market` · `@loc_junk-planet-colisseum`
 
 ## El puerto espacial
-
-`@space-port` ⚠️ sin `loc_` · `@loc_space-port-view` · `@loc_space-port-lake`
+`@space-port` · `@loc_space-port-view` · `@loc_space-port-lake`
 
 ---
 
-# 🔧 PROPS
+# 🔧 PROPS — **21, panel completo leído 2026-08-30**
 
 | Qué es | Tag |
 |---|---|
 | **El brazalete de Stella** | `@prop_stella-bracelet` |
 | Su armadura ver 1.1 | `@prop_stella-armor-ver-1-1` |
-| **El Orbe** | `@prop_orb` |
-| **El Orbe en su sala** | `@prop_orbe-in-room` |
-| **El «orbe locker»** ⚠️ *¿es la caja de la mano?* | `@prop_orbe-locker` |
+| **EL COLLAR DE CONTENCIÓN** ✅ | `@prop_collar` |
+| **El Orbe** | `@prop_orb` · `@prop_orbe-in-room` |
+| **El «orbe locker»** ⚠️ *¿es la caja de la mano de la SEC 3?* | `@prop_orbe-locker` |
+| **«Junk king orb»** ⚠️ *¿es el AMULETO del Rey del Basurero?* | `@prop_junk-king-orb` |
+| **«Palace cover»** ⚠️ *¿es la PLACA SOLDADA de la cúspide?* | `@prop_palace-cover` |
 
 ## Naves
-
 | Qué es | Tag |
 |---|---|
 | **La nave de Stella** | `@ship-stella` |
 | La Nodriza | `@mothership` |
 | Erdianas | `@ship-erdia-1` · `@ship-big-erdia` · `@ship-1-dust-erdia` · `@ship-2-dust-erdia` |
-| **Enemigas — LAS QUE ATACAN** | **`@ship-enemy-erdia`** · **`@ship-4-enemyy`** ⚠️ typo en origen |
+| **Enemigas — LAS QUE ATACAN** | **`@ship-enemy-erdia`** · **`@ship-4-enemyy`** ⚠️ typo |
 | Enemiga blanca | `@ship-enemy-erdia-white` |
 | Genéricas | `@ship-1` · `@ship-2` · `@prop_ship-3` ⚠️ · `@ship-5` |
 
 ---
 
-# ❌ LO QUE DE VERDAD FALTA
+# ❌ LO QUE FALTA — **barrido definitivo, 2026-08-30**
 
-| Qué | Dónde duele |
+> Con los tres paneles completos delante. **Casi todo lo que se daba por perdido existe.**
+
+## 🔴 Personajes que sí faltan
+| Qué | Dónde | Por qué |
+|---|---|---|
+| **LOS TRES PILOTOS** | SEC 7 · 9 | Mueren abriéndole el cielo y los exhiben en jaulas cerrando el acto 1 |
+| **STELLA 16, CON EL COLLAR Y SIN ARMADURA** | SEC 13 · 13B · 14 · 15 | **Cuatro secuencias seguidas.** El collar le tira las placas y queda con la ropa fina de debajo |
+| **STELLA EN EL TANQUE, EN COMA** | SEC 29B | El último plano de la película |
+| **VOSK CON LA MANO VENDADA** | SEC 11 · 13 | Variante corta |
+| **ENKO AGONIZANDO** | SEC 0 · 23B | Sale dos veces, y la cámara se para veinte segundos sobre él |
+
+## 🟠 Locaciones que sí faltan
+| Qué | Dónde |
 |---|---|
-| **El ducto por dentro** | Sale **tres veces** separadas por 20 años y tiene que ser el mismo tubo. Es la rima más importante del film |
-| ~~El palacio esférico~~ ✅ **está al fondo de `@loc_erdia-square-*`** | — |
-| **La cúspide con la placa soldada** | **30 segundos de la apertura** sin referencia, y es el objeto que cierra el pago de 20 años |
-| **La fachada de la esfera, de cerca** | Ella pasa **un minuto entero** pegada a esa piedra |
-| **Las celdas del nivel de servicio** | Naio preso 20 años · SEC 19 y SEC 23 |
-| **El refugio de la resistencia** | Todo el acto 2 en Erdia |
-| **Los aposentos de la General** | Selka |
-| **LAS ARMAS DE LOS TRES HUMANOS** | **Noah: espada · Carl: lanza · Lucy: arco y flechas.** Las llevan desde la SEC 16 hasta el final. Revisar si sus hojas actuales los tienen desarmados |
-| ⚠️ **STELLA CON DOS BRAZALETES** | Uno en cada muñeca, desde la SEC 3 hasta el final. Revisar si las hojas actuales solo le ponen uno |
-| ⚠️ **CONFIRMAR EL PREFIJO DE LOS PERSONAJES** | Los prompts de la SEC 10 usan `@char_vosk`, `@char_sabo`, `@char_gara`, `@char_nima`, `@char_theron-3`, `@char_thara6`, `@char_brogu-2`, `@char_stella-bands`, `@stella-golden-hour` — y esta tabla dice `@vosk`, `@sabo`, `@gara`… **Un tag malo no da error: carga otra cosa en silencio.** Hay que fijar cuál es el bueno antes de generar |
-| **3–4 MUNDOS PARA EL MONTAJE (SEC 20B)** | 2:30–3:00 de película. Propuestos: **tormenta de polvo rojo** (año 1) · **selva de cristal** (año 3) · **mundo con anillos, visto desde una cresta** (año 4) · **mundo helado de noche** (año 5). Deben ser máximamente distintos entre sí: es lo único que cuenta que pasaron seis años |
-| **El mapa del salón** | La carta estelar de la Nodriza con una luz por mundo limpiado — y **el punto de Erdia apagado en el borde**. Sale en 5 de los 6 bloques del montaje |
-| **SELKA CON EL BRAZO BIOMECÁNICO** | El último tramo del film (SEC 29A–29B) y **toda la Película 2**. La hoja actual de Selka tiene los dos brazos de carne |
+| **El balcón real** | SEC 9 — el discurso donde nace «la ladrona» |
+| **El camarote de Stella** | SEC 18 — la señal de su madre |
+| **Los pasillos de la Nodriza** | SEC 11 |
+| **El interior de la nave de Stella** | SEC 8 — **ahí ocurre la bengala** |
+| **El planeta de los cometas** | SEC 16 |
+| **3–4 mundos para el montaje** | SEC 20B — 2:30–3:00 de película |
+| **La cúspide** ⚠️ | SEC 0 · 23B — *¿basta `@loc_facade` + `@prop_palace-cover`?* |
 
+## 🟡 Props que sí faltan
+**Los tres cristales de Nima** (SEC 15 · 20B) · **El escudo de Vera** (SEC 4 · 5) ·
+**Las armas de los humanos** —espada, lanza, arco— (SEC 16 → final) ·
+**El mapa del salón** (SEC 20B, 5 de 6 bloques) · **El proyector de Vera** (SEC 18 · 20B) ·
+**La muñequera de color** (SEC 5 · 6) — *¿está dentro de `@prop_stella-armor-ver-1-1`?*
+
+## ✅ RESUELTO CON LOS PANELES COMPLETOS
+**La fachada** `@loc_facade` · **el ducto** `@loc_duct` · **el laboratorio de Nima**
+`@loc_nimas-laboratory` · **las celdas** `@loc_prison-cell` + `@loc_prison-corridor` ·
+**el refugio** `@loc_rebel-house` · **los aposentos de Selka** `@selkas-dorm` ·
+**el puente** `@mothership-control-room` · **el collar** `@prop_collar` ·
+**el Rey del Basurero** `@junk-king` *(y hay `@junk-queen`)* · **`@robot-g45` confirmado** ·
+**VERA MAYOR** `@vera-rebel` · `@char_vera-rebel-hoodie` · `@vera-damaged-1` · `@vera-little-damaged`
+
+## ❓ CUATRO CONFIRMACIONES DE UNA LÍNEA
+1. **`@prop_junk-king-orb`** — ¿es **el amuleto** que Stella le arranca del cuello?
+2. **`@prop_palace-cover`** — ¿es **la placa soldada** de la cúspide?
+3. **`@prop_orbe-locker`** — ¿es **la caja** donde Naio le mete la mano en la SEC 3?
+4. **`@selka-theron-ship`** — ¿lleva ya **el brazo biomecánico**, o es sin brazo?
 
 ---
 
