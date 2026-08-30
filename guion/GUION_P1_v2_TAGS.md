@@ -855,7 +855,7 @@ Al fondo: las puertas de la **SALA DEL ORBE.**
 
 ## SEC. 5 — INT. SALA DEL ORBE — CONTINUO
 
-> 🏷️ **LOCACIÓN** · `@loc_erdia-orbe-room`
+> 🏷️ **LOCACIÓN** · `@loc_eridia-orbe-room`
 > 🏷️ **REPARTO** · `@robot-s1g1` · `@robot-giant-demoledor` · `@stella-armor-blood` · `@vera-blood` · `@vortham` · `@gix-giant` · `@selka-baby`
 > 🏷️ **PROPS** · `@prop_orbe-in-room · @prop_orb · @prop_stella-bracelet · ⚠️ escudo de Vera — FALTA · ⚠️ muñequera — FALTA`
 
@@ -3802,7 +3802,7 @@ Y **vuelve a la línea.**
 
 ## SEC. 24 — INT. PALACIO IMPERIAL — DEL DUCTO A LA SALA DEL TRONO *(la antigua SALA DEL ORBE)* — CONTINUO
 
-> 🏷️ **LOCACIÓN** · `@loc_duct · @loc_erdia-orbe-room`
+> 🏷️ **LOCACIÓN** · `@loc_duct · @loc_eridia-orbe-room`
 > 🏷️ **REPARTO** · `@char_stella-adult-armor` · `@selka-adult-ver-1` · `@vortham`
 > 🏷️ **PROPS** · `@prop_orb · @prop_stella-bracelet`
 
@@ -3992,7 +3992,7 @@ Cuéntenlo. La traidora cayó.
 
 ## SEC. 25 — INT. SALA DEL TRONO *(la antigua SALA DEL ORBE)* — CONTINUO
 
-> 🏷️ **LOCACIÓN** · `@loc_erdia-orbe-room`
+> 🏷️ **LOCACIÓN** · `@loc_eridia-orbe-room`
 > 🏷️ **REPARTO** · `@selka-adult-ver-1` · `@vortham` · `@char_stella-adult-armor`
 > 🏷️ **PROPS** · `@prop_orb · @prop_orbe-in-room`
 
@@ -4036,7 +4036,7 @@ Y nunca fue tuya.
 
 ## SEC. 26 — INT. SALA DEL TRONO — CONTINUO — "FUI YO"
 
-> 🏷️ **LOCACIÓN** · `@loc_erdia-orbe-room`
+> 🏷️ **LOCACIÓN** · `@loc_eridia-orbe-room`
 > 🏷️ **REPARTO** · `@marek` · `@char_stella-adult-armor` · `@selka-adult-ver-1` · `@vera-rebel` · `@vortham-transformation`
 
 
@@ -4181,7 +4181,7 @@ Nunca vas a saber la diferencia.
 
 ## SEC. 27 — INT. NAVE-PALACIO — CUBIERTA DEL TRONO — CONTINUO
 
-> 🏷️ **LOCACIÓN** · `@loc_erdia-orbe-room`
+> 🏷️ **LOCACIÓN** · `@loc_eridia-orbe-room`
 > 🏷️ **REPARTO** · `@brogu` · `@nima` · `@vosk` · `@yuri` · `@theron` · `@char_stella-adult-armor` · `@selka-no-arm-ver-1` · `@vortham-parasite` · `@gix-giant`
 > 🏷️ **PROPS** · `@prop_orb · @prop_stella-bracelet`
 
@@ -4567,7 +4567,7 @@ Selka lo mira. Y **lo abre.**
 ## SEC. 29B — INT. NAVE NODRIZA DE THERON — SALA DE RECUPERACIÓN — DÍA
 
 > 🏷️ **LOCACIÓN** · `@loc_mothership-recovery-room`
-> 🏷️ **REPARTO** · `@nima` · `@vosk` · `@theron` · `⚠️@stella-tanque-FALTA` · `@selka-ending-1` · `@naio-prison-2`
+> 🏷️ **REPARTO** · `@nima` · `@vosk` · `@theron` · `⚠️@char_stella-recovery-tank` · `@selka-ending-1` · `@naio-prison-2`
 > 🏷️ **PROPS** · `@selka-ending-1`
 
 
@@ -4575,7 +4575,7 @@ Selka lo mira. Y **lo abre.**
 
 Quietud. El zumbido bajo de la nave.
 
-**⚠️@stella-tanque-FALTA** flota en un **tanque de soporte vital**, dormida, intacta, ausente. En coma.
+**⚠️@char_stella-recovery-tank** flota en un **tanque de soporte vital**, dormida, intacta, ausente. En coma.
 
 Junto al tanque, **@naio-prison-2** —rescatado, vivo— le sostiene la mirada a su hija dormida sin poder tocarla.
 

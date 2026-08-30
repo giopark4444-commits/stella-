@@ -28,7 +28,7 @@
 >   se muestra **por luz, nunca por sangre**.
 >   Los imperiales lanzan **descargas** desde el cuerpo del propio robot; la resistencia usa **artefactos**;
 > • **EL EJÉRCITO IMPERIAL ES UNA MEZCLA, no una formación ordenada.** Salen modelos distintos
->   revueltos —`@robot-c84`, `@robot-cyplop-s1s2`, **`@robot-s1g1`**, **`@robot-g45`**
+>   revueltos —`@robot-c84`, `@robot-cyclop-s1s2`, **`@robot-s1g1`**, **`@robot-g45`**
 >   ⚠️*(tag pendiente)*, `@robot-dust-planet-hunter`— y eso
 >   **es lo que se ve**: un imperio que lleva veinte años peleando y saca lo que tiene.
 >   El único con papel fijo es **`@robot-giant-demoledor`**, los tres metros que agachan la cabeza

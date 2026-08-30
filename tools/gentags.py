@@ -72,7 +72,7 @@ V = {  # SEC : {NOMBRE: tag}
         "VORTHAM":"@vortham-parasite","GIX":"@gix-giant"},
  "28": {"VORTHAM":"@vortham-parasite"},
  "29A":{"SELKA":"@selka-no-arm-ver-1 → @selka-ending-1"},
- "29B":{"STELLA":"⚠️@stella-tanque-FALTA","SELKA":"@selka-ending-1","NAIO":"@naio-prison-2"},
+ "29B":{"STELLA":"⚠️@char_stella-recovery-tank","SELKA":"@selka-ending-1","NAIO":"@naio-prison-2"},
 }
 
 def rep_factory(mapa):
@@ -87,7 +87,7 @@ def rep_factory(mapa):
 LOC = {
  "0":"@loc_erdia-square-destroyed · @loc_facade · @loc_duct","1":"@loc_erdia-past",
  "2":"@loc_luzagua-park","3":"@loc_erdia-palace-lab","4":"@erdia-palace-corridors",
- "5":"@loc_erdia-orbe-room","6":"@loc_erdia-orbe-room-destroyed · @loc_duct",
+ "5":"@loc_eridia-orbe-room","6":"@loc_erdia-orbe-room-destroyed · @loc_duct",
  "7":"@loc_erdia-past","8":"@ship-stella *(interior: prompt + frame de referencia)*",
  "9":"@loc_erdia-square-night","10":"@loc_modershipo-hospital","10A":"@loc_modershipo-hospital",
  "11":"@loc_mothership-bar *(propuesto)* · @loc_nimas-laboratory",
@@ -101,8 +101,8 @@ LOC = {
  "20C":"@space-port · @loc_space-port-lake · @loc_space-port-view",
  "20D":"@loc_nimas-laboratory","21":"@loc_erdia-dry · @loc_erdia-destroyed",
  "22":"@loc_rebel-house","23":"@loc_prison-corridor · @loc_prison-cell",
- "23B":"@loc_erdia-square-destroyed · @loc_facade","24":"@loc_duct · @loc_erdia-orbe-room",
- "25":"@loc_erdia-orbe-room","26":"@loc_erdia-orbe-room","27":"@loc_erdia-orbe-room",
+ "23B":"@loc_erdia-square-destroyed · @loc_facade","24":"@loc_duct · @loc_eridia-orbe-room",
+ "25":"@loc_eridia-orbe-room","26":"@loc_eridia-orbe-room","27":"@loc_eridia-orbe-room",
  "28":"@loc_erdia-future-sky · @loc_erdia-square-destroyed",
  "29A":"@loc_modershipo-hospital","29B":"@loc_mothership-recovery-room",
 }

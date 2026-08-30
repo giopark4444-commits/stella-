@@ -88,7 +88,7 @@
 |---|---|
 | **S1G1** — el asesino | `@robot-s1g1` |
 | **El demoledor de 3 m** | `@robot-giant-demoledor` |
-| Cíclope | `@robot-cyplop-s1s2` |
+| Cíclope | `@robot-cyclop-s1s2` |
 | C84 | `@robot-c84` |
 | G44 ⚠️ **no usar en la plaza** | `@robot-g44` |
 | **G45** ⚠️ *tag por confirmar* | `@robot-g45` |
@@ -147,7 +147,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 |---|---|
 | **El laboratorio de Naio** | `@loc_erdia-palace-lab` |
 | **Los pasillos del palacio** ⚠️ sin `loc_` | `@erdia-palace-corridors` |
-| **La sala del Orbe · = LA SALA DEL TRONO** 🔒 | `@loc_erdia-orbe-room` |
+| **La sala del Orbe · = LA SALA DEL TRONO** 🔒 | `@loc_eridia-orbe-room` |
 | La sala del Orbe, alrededores | `@loc_erdia-orbe-room-surround` |
 | **La sala del Orbe DESTRUIDA** | `@loc_erdia-orbe-room-destroyed` |
 | **La sala de entrenamiento** ⚠️ typo | `@loc_erdia-palace-traingin-room` |
@@ -164,7 +164,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | Erdia en el pasado | `@loc_erdia-past` · `@loc_erdia-country-side-past` |
 | **La plaza** | `@loc_erdia-square-day` · `@loc_erdia-square-night` · `@loc_erdia-square-destroyed` |
 | Erdia año 20 | `@loc_erdia-destroyed` · `@loc_erdia-dry` · `@loc_erdia-future` · `@loc_erdia-future-sky` |
-| Desde el espacio | `@loc_erdia-from-space` |
+| Desde el espacio | `@loc_eridia-from-space` |
 | **EL REFUGIO DE LA RESISTENCIA** ✅ | `@loc_rebel-house` · `@loc_rebel-town` |
 
 ## La Nodriza
@@ -203,7 +203,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 |---|---|
 | **La nave de Stella** | `@ship-stella` |
 | La Nodriza | `@mothership` |
-| Erdianas | `@ship-erdia-1` · `@ship-big-erdia` · `@ship-1-dust-erdia` · `@ship-2-dust-erdia` |
+| Erdianas | `@ship-erdia-1` · `@ship-big-erdia` · `@ship-1-dust-Erdia` · `@ship-2-dust-erdia` |
 | **Enemigas — LAS QUE ATACAN** | **`@ship-enemy-erdia`** · **`@ship-4-enemyy`** ⚠️ typo |
 | Enemiga blanca | `@ship-enemy-erdia-white` |
 | Genéricas | `@ship-1` · `@ship-2` · `@prop_ship-3` ⚠️ · `@ship-5` |
@@ -259,7 +259,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 **el refugio** `@loc_rebel-house` · **los aposentos de Selka** `@selkas-dorm` ·
 **el puente** `@mothership-control-room` · **el collar** `@prop_collar` ·
 **el Rey del Basurero** `@junk-king` *(y hay `@junk-queen`)* · **`@robot-g45` confirmado** ·
-**VERA MAYOR** `@vera-rebel` · `@char_vera-rebel-hoodie` · `@vera-damaged-1` · `@vera-little-damaged`
+**VERA MAYOR** `@vera-rebel` · `@char_vera-rebel-hoodie` · `@vera-damaged-1` · `@char_vera-little-damaged`
 
 ## ✅ LAS CUATRO CONFIRMACIONES, RESUELTAS (Gio, 2026-08-30)
 1. ✅ **`@prop_junk-king-orb` ES el amuleto** que Stella le arranca del cuello al Rey del Basurero.
