@@ -557,7 +557,7 @@ Eso cuenta.
 Y las dos se están riendo. Y sin dejar de correr:
 
 **VERA (CONT.)**
-Mañana es tu última prueba. Si hoy te partes un tobillo, no hay prueba.
+Mañana es tu última prueba de vuelo. Si hoy te partes un tobillo, no hay prueba.
 
 **STELLA**
 No me voy a partir nada. Voy a quedar primera.
@@ -1187,7 +1187,9 @@ Stella sale disparada del palacio y cae sobre la **nave** que Vera escondió. Se
 
 Apenas despega, en el horizonte dorado, aparece una **FLOTA IMPERIAL.** Decenas de naves.
 
-Empieza la persecución. Y aquí descubrimos algo: Stella **vuela como nadie.** Se mete entre las torres, raspa los puentes, hace chocar a sus perseguidores contra los edificios. Es brillante. Pero son demasiados.
+Empieza la persecución. Y aquí descubrimos algo: Stella **vuela como nadie.**
+
+*(Mañana tenía la prueba. Nunca la va a hacer. **Está haciendo la de verdad.**)* Se mete entre las torres, raspa los puentes, hace chocar a sus perseguidores contra los edificios. Es brillante. Pero son demasiados.
 
 Una nave imperial la encuadra. La descarga va a salir—
 
@@ -1236,6 +1238,8 @@ La energía del Orbe empieza a fluir hacia la nave. Los paneles se encienden uno
 
 Un estallido de luz blanca se traga la pantalla. La nave es arrancada de su universo.
 
+*(Y hay que decirlo, porque es lo que la define: **el salto no le arregla el aire.** Sigue sin oxígeno, y ahora además está en un sitio donde no conoce a nadie. No ha resuelto nada. **Solo se ha negado a quedarse quieta mientras se moría.**)*
+
 Blanco total.
 
 ---
@@ -1262,6 +1266,8 @@ Detrás de él, exhibidos en jaulas, los **TRES PILOTOS** que salvaron a Stella 
 Una niña a la que le dimos todo. Que prefirió quedarse con la luz de todos antes que dejarla correr.
 *(la palabra final, como una sentencia)*
 Stella. Ladrona. Traidora.
+
+*(Y ahí está lo peor de este hombre, y hay que rodarlo sabiéndolo: **acaba de condenar a esa niña con las palabras exactas de su madre.** «Dejarla correr» es la lección del parque, dicha esa misma mañana, a cuatro horas de aquí. Vortham no la ha oído nunca. Y aun así ha encontrado la única frase del universo que la va a perseguir veinticuatro años — porque es la frase verdadera, y **él es el único que la está incumpliendo**.)*
 
 La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio.
 

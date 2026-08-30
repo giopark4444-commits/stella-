@@ -382,7 +382,7 @@ That counts.
 Y las dos se están riendo. Y sin dejar de correr:
 
 **@VERA (CONT.)**
-Tomorrow is your last trial. Break an ankle today and there is no trial.
+Tomorrow is your last flight trial. Break an ankle today and there is no trial.
 
 **@STELLA**
 I'm not going to break anything. I'm going to finish first.
@@ -1012,7 +1012,9 @@ El Rey se va con la bebé en brazos, dejando a @Vera tirada en el suelo de su pr
 
 Apenas despega, en el horizonte dorado, aparece una **FLOTA IMPERIAL.** Decenas de naves.
 
-Empieza la persecución. Y aquí descubrimos algo: @Stella **vuela como nadie.** Se mete entre las torres, raspa los puentes, hace chocar a sus perseguidores contra los edificios. Es brillante. Pero son demasiados.
+Empieza la persecución. Y aquí descubrimos algo: @Stella **vuela como nadie.**
+
+*(Mañana tenía la prueba. Nunca la va a hacer. **Está haciendo la de verdad.**)* Se mete entre las torres, raspa los puentes, hace chocar a sus perseguidores contra los edificios. Es brillante. Pero son demasiados.
 
 Una nave imperial la encuadra. La descarga va a salir—
 
@@ -1061,6 +1063,8 @@ La energía del Orbe empieza a fluir hacia la nave. Los paneles se encienden uno
 
 Un estallido de luz blanca se traga la pantalla. La nave es arrancada de su universo.
 
+*(Y hay que decirlo, porque es lo que la define: **el salto no le arregla el aire.** Sigue sin oxígeno, y ahora además está en un sitio donde no conoce a nadie. No ha resuelto nada. **Solo se ha negado a quedarse quieta mientras se moría.**)*
+
 Blanco total.
 
 ---
@@ -1087,6 +1091,8 @@ And who has condemned us to this? One of our own.
 A child we gave everything to. Who chose to keep everyone's light for herself rather than let it run.
 *(la palabra final, como una sentencia)*
 @Stella. Thief. Traitor.
+
+*(Y ahí está lo peor de este hombre, y hay que rodarlo sabiéndolo: **acaba de condenar a esa niña con las palabras exactas de su madre.** «Dejarla correr» es la lección del parque, dicha esa misma mañana, a cuatro horas de aquí. Vortham no la ha oído nunca. Y aun así ha encontrado la única frase del universo que la va a perseguir veinticuatro años — porque es la frase verdadera, y **él es el único que la está incumpliendo**.)*
 
 La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio.
 
