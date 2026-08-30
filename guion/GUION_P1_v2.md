@@ -226,6 +226,27 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • 🔒 **EL COLLAR DE CONTENCIÓN LO APAGA TODO, NO SOLO EL TRAJE.** Al ponérselo, **las placas de la
+>   armadura se le caen una a una, muertas**, y lo que queda de pie es **una chica de dieciséis años con
+>   la ropa fina que llevaba debajo.** Y —esto es lo importante— **también le apaga los dos brazaletes.**
+>   ⚠️ Sin eso, toda la secuencia del basurero se cae: podría llamar a Gix en el mercado o en la fosa.
+>   **Se rueda en el mercado, sin una palabra:** con las manos atadas por delante, se toca un brazalete
+>   con el pulgar. Nada. Se toca el otro. Nada. Primer plano de la muñeca **apagada del todo.** Y se le
+>   va la cara. *(No le quitaron la armadura: **le quitaron a Gix, le quitaron el Orbe y le quitaron el
+>   único sitio del universo donde queda algo de su casa.**)*
+> • 🔒 **NAIO ESTÁ EN LA ÚLTIMA CELDA DEL PASILLO.** Stella recorre las rejas cara por cara y **ninguna
+>   es** — aprieta el paso, después corre, y llega al fondo, a la celda que ya no da a ninguna parte.
+>   **Dos segundos enteros de pie ahí, creyendo que ha llegado tarde veinte años.** Y entonces se
+>   arrastra una figura hasta los barrotes.
+> • 🔒 **Y LAS ABRE TODAS.** Después de esconderle la boca a su padre, **se gira hacia el pasillo, echa a
+>   andar en dirección contraria a la salida** y arrastra la palma por los barrotes: las rejas revientan
+>   a su paso, diez, veinte, **todas.** *(Bajó por una sola persona, y no sabe irse de un sitio dejando
+>   a alguien dentro — es la misma que dijo «si salimos, salimos los cuatro».)* Y se cobra solo:
+>   **ninguno de esos presos va a decir de quién es hija. Porque le deben la puerta.**
+> • ⚠️ **CARL Y LUCY BAJAN A LAS CELDAS Y NO SE VAN DE LA PLAZA.** Entran los cuatro (Stella, Noah,
+>   Carl, Lucy), ayudan con Naio, y en la boca del pasillo **se lo pasan a los rebeldes** — no se lo
+>   llevan ellos. Después **se colocan a los lados de Noah, espalda contra espalda, como en el pozo**,
+>   que es donde los encuentra la SEC 23B.
 > • 🔒 **STELLA SE DEJA CAPTURAR A PROPÓSITO (SEC 21).** ⚠️ Que Korin la reconozca **no la salva: la
 >   pone en peligro.** El nombre cae en mitad de la calle y **los artefactos no bajan, suben** — para
 >   esa gente acaba de bajar de una nave *la que vació el mundo*. Brogu da medio paso y **ella lo
@@ -2152,7 +2173,13 @@ Vosk toma una **piedra.** Y la tira contra el metal, justo al lado de ella —un
 *(gritando a los cazadores, señalando)*
 ¡AHÍ! ¡LA DE LA MANO QUE BRILLA! ¡ESA VALE UNA FORTUNA!
 
-Los cazarrecompensas caen sobre Stella. Ella pelea, pero son muchos. La reducen. La marcan con un collar de contención que le apaga el traje.
+Los cazarrecompensas caen sobre Stella. Ella pelea, pero son muchos. La reducen. Y le cierran en el cuello un **COLLAR DE CONTENCIÓN.**
+
+Y no le apaga el traje: **le apaga todo.**
+
+Las placas de la armadura **se aflojan y se le caen** una a una, muertas, como cáscaras. Los propulsores de las botas se sueltan. Y lo que queda de pie en medio de ese círculo de cazadores es **una chica de dieciséis años con la ropa fina que llevaba debajo.**
+
+*(Se lo quitaron todo sin tocarla. **Y lo peor todavía no lo sabe.**)*
 
 Lo último que ve antes de que la suban a una nave esclavista es a Vosk —que sonríe, contando ya su recompensa.
 
@@ -2205,6 +2232,20 @@ Y una madre le **tapa los ojos a su bebé** para que no la mire.
 Le tiran algo. Le da en el hombro.
 
 Nadie lo impide.
+
+Y Stella, andando, con las manos atadas por delante, hace algo muy pequeño que solo vemos nosotros: **se toca un brazalete con el pulgar.**
+
+Nada.
+
+Se toca **el otro.**
+
+Nada.
+
+PRIMER PLANO de la muñeca: el brazalete **apagado del todo.** Ni una raya de luz por debajo.
+
+Y a Stella se le va la cara.
+
+*(Ahí está lo que le hizo de verdad ese collar. No le quitaron la armadura: **le quitaron a Gix, le quitaron el Orbe y le quitaron el único sitio del universo donde queda algo de su casa.** Y va a cruzar este mercado, y la fosa entera, exactamente así.)*
 
 Stella se gira hacia el único de la fila que podría explicárselo.
 
@@ -3490,11 +3531,25 @@ Stella lo mira. No discute.
 
 Cae la luz. Arriba, muy lejos, empieza la guerra: un rumor sordo que hace temblar el polvo del techo.
 
-Aquí abajo, en cambio, silencio. Una reja de servicio cede. Entran **STELLA** y **NOAH.**
+Aquí abajo, en cambio, silencio. Una reja de servicio cede. Entran **STELLA**, **NOAH**, **CARL** y **LUCY.**
+
+*(Los tres del pozo. Veinte años después, bajando a un sótano a sacar al padre de la que no los mató.)*
 
 Los pasillos estrechos. La humedad. Las rejas. El camino que Korin le marcó —el mismo por el que bajó su madre.
 
-Celda por celda. Caras que no son. Hasta que una figura encorvada se arrastra hasta los barrotes.
+Celda por celda. Stella va mirando cara por cara, y **ninguna es.**
+
+Un viejo que no la mira. Una mujer que se tapa. Un hombre que lleva tanto ahí dentro que ya no se levanta. **Caras que no son.**
+
+Y el pasillo se va acabando. Y se le va acabando a ella también: cada reja que pasa le quita un poco de lo que trajo desde el otro lado del cielo. Aprieta el paso. Después corre.
+
+Y llega **al final del pasillo.**
+
+Última celda. La del fondo. La que ya no da a ninguna parte.
+
+*(Y aquí hay que dejarla dos segundos enteros de pie delante de esa reja, **creyendo que ha llegado tarde veinte años.**)*
+
+Y del fondo de esa celda, una figura encorvada **se arrastra hasta los barrotes.**
 
 **NAIO.** Ciego de un ojo. Irreconocible.
 
@@ -3563,6 +3618,28 @@ Naio cierra los ojos. Y asiente, con la boca todavía tapada.
 
 Ella le quita la mano despacio. Y él —que llevaba veinte años esperando decir ese nombre— se lo traga.
 
+Y entonces Stella **se gira hacia el pasillo.**
+
+Hacia las otras rejas. Hacia todas las caras que no eran.
+
+**STELLA**
+*(a Noah, sin dejar de mirar el pasillo)*
+Sáquenlo.
+
+Y echa a andar **en dirección contraria a la salida.**
+
+Abre la palma. Y **la arrastra por los barrotes** mientras camina.
+
+Y las rejas van **reventando a su paso**, una detrás de otra, todo el pasillo, con un latigazo de luz que va por delante de ella.
+
+Diez celdas. Veinte. Todas.
+
+La gente sale al pasillo sin entender —**pero sale.**
+
+*(Bajó por una sola persona. Y no sabe irse de un sitio dejando a alguien dentro: es exactamente la misma mujer que en un pozo de apuestas dijo **«si salimos, salimos los cuatro»**, y la misma que dentro de veinte minutos se va a tirar de una luz que ya la estaba subiendo.)*
+
+*(Y hay un detalle que se cobra solo: **ninguno de estos va a decir de quién es hija.** No porque sea buena gente. **Porque le deben la puerta.**)*
+
 **NAIO**
 *(un susurro, para nadie)*
 …Puedo.
@@ -3613,9 +3690,11 @@ Silencio. Stella no dice nada más. Solo aprieta un poco más el paso.
 
 Llegan a la boca del pasillo, donde el estruendo de arriba ya es ensordecedor. Al otro lado del boquete, en la plaza, **BROGU** llega abriendo una pared.
 
-Stella le entrega a su padre. El gigante lo alza con un cuidado imposible para esas manos —y se lo pasa hacia atrás, por encima de la línea, a **CARL y LUCY**, que se lo llevan de la plaza cargado entre los dos.
+Stella le entrega a su padre. El gigante lo alza con un cuidado imposible para esas manos —y se lo pasa hacia atrás, por encima de la línea, **a los rebeldes**, que se lo llevan de la plaza junto con los que acaban de salir de las celdas.
 
 *(Es la última vez que Naio pisa Erdia. Sube a la Nodriza sin saber que su hija está a doscientos metros por encima de él.)*
+
+Y **CARL y LUCY no se van con él.** Se quedan. Se colocan a los lados de Noah, espalda contra espalda, **como en el pozo.**
 
 **NOAH**
 Ven con nosotros.
