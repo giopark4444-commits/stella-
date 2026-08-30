@@ -41,6 +41,12 @@ plano de la película.**
 
 **⑦ LA LLAVE APARECE A MITAD DE LA SEC 3.** Antes de la caja, la palma izquierda está limpia.
 
+**⑧ EL ORBE SE VE POR FUERA UNA SOLA VEZ FUERA DE ERDIA: LA SEC 10.** Vosk fuerza el brazalete y la
+esfera **sale a la superficie** sobre su muñeca. 🔒 No se ha desprendido — sigue anclado en la palma,
+el brazo de ella **nunca se levanta**, y la esfera se queda flotando después de que Theron lance a
+Vosk. En todo el resto de la película el Orbe es **un resplandor azul bajo el brazalete**, nunca una
+esfera visible, hasta que Selka se lo arranca en la SEC 27.
+
 ---
 
 ## Estado por secuencia

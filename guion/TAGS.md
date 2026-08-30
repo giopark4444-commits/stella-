@@ -220,6 +220,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | **Las celdas del nivel de servicio** | Naio preso 24 años · SEC 19 y SEC 23 |
 | **El refugio de la resistencia** | Todo el acto 2 en Erdia |
 | **Los aposentos de la General** | Selka |
+| ⚠️ **CONFIRMAR EL PREFIJO DE LOS PERSONAJES** | Los prompts de la SEC 10 usan `@char_vosk`, `@char_sabo`, `@char_gara`, `@char_nima`, `@char_theron-3`, `@char_thara6`, `@char_brogu-2`, `@char_stella-bands`, `@stella-golden-hour` — y esta tabla dice `@vosk`, `@sabo`, `@gara`… **Un tag malo no da error: carga otra cosa en silencio.** Hay que fijar cuál es el bueno antes de generar |
 | **3–4 MUNDOS PARA EL MONTAJE (SEC 20B)** | 2:30–3:00 de película. Propuestos: **tormenta de polvo rojo** (año 1) · **selva de cristal** (año 3) · **mundo con anillos, visto desde una cresta** (año 4) · **mundo helado de noche** (año 5). Deben ser máximamente distintos entre sí: es lo único que cuenta que pasaron seis años |
 | **El mapa del salón** | La carta estelar de la Nodriza con una luz por mundo limpiado — y **el punto de Erdia apagado en el borde**. Sale en 5 de los 6 bloques del montaje |
 | **SELKA CON EL BRAZO BIOMECÁNICO** | El último tramo del film (SEC 29A–29B) y **toda la Película 2**. La hoja actual de Selka tiene los dos brazos de carne |

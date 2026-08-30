@@ -126,6 +126,13 @@ propia mano.** Sin memoria de nada. Se arrodilla y se queda mirando el **pelo bl
 
 ## 転 TEN — EL REGRESO Y EL TRONO (Acto 3)
 
+**9b. La mesa (SEC 10).** Stella inconsciente sobre una mesa de metal con la tripulación entera
+alrededor decidiendo qué es. Sabo cuenta lo que nadie sabía: los erdianos son **naiel**, colonizaron
+media galaxia y pararon solo tras una guerra que casi los borra. Vosk: «no entiendo por qué la
+estamos salvando». Theron: «no la estamos salvando — la encontramos por la energía que le sale del
+cuerpo». Vosk fuerza el brazalete, el Orbe sale a la superficie, lo agarra y **se electrocuta**;
+Theron se lo arranca de un golpe de palma. Y se queda preocupado: no puede separarlo de la niña.
+
 **14b. Los años (SEC 20B).** Montaje sin una palabra, 2:30–3:00: seis años de misiones con la
 tripulación. La maniobra sale torcida, después funciona, después la hacen sin mirarse. Le crece el
 pelo, se llena el mapa, y el proyector de su madre deja de encenderse. Termina llegando al puerto.

@@ -43,6 +43,38 @@
 >   energía y el conocimiento. Y a @Theron **eso le queda sonando**: en todo el universo hay muy pocas
 >   razas capaces de vivir así. **Y él es una de ellas.** No sabe nada. Tiene un presentimiento. Y por
 >   eso la deja bajar —«bajas, miras, subes»— y por eso acaba bajando él.
+> • **LOS NAIEL — LA RAZA DE @STELLA ES ODIADA EN TODO EL UNIVERSO, y ella no lo sabe.** Lo cuenta
+>   **SABO** en la SEC 10, con ella inconsciente delante: los erdianos son **naiel**; colonizaron
+>   muchos mundos, los fueron tomando uno detrás de otro durante siglos, y **pararon solo después de
+>   una guerra que casi los borra**, dando su palabra de no volver a salir de su planeta. Consecuencia
+>   enorme: **Erdia no está sola porque nadie sepa que existe — está sola porque nadie quiere volver a
+>   saber de ella.** Y de ahí sale el rechazo de la tripulación en la SEC 11 (*no la odian por lo que
+>   hizo: la odian por lo que es*) y el insulto del presentador en la SEC 14, que resulta ser verdad.
+> • **@VOSK LO DICE EN VOZ ALTA LA PRIMERA NOCHE:** *«Ellos empezaban todas las guerras. Son lo peor que
+>   hay en este universo. **No entiendo por qué la estamos salvando.**»* Nadie le contesta — y **dos
+>   años después la vende** (SEC 13). Su traición no es por dinero: **es esto**, y por eso «porque yo no
+>   soy tú» lo parte por la mitad.
+> • **EL BRAZALETE ES LA PUERTA DEL ORBE, NO SU CASA.** ⚠️ El Orbe **sigue anclado en la palma
+>   izquierda**, donde @Naio le grabó la llave — de ahí se lo arranca @Selka en la SEC 27. Cuando @Vosk
+>   fuerza el brazalete en la SEC 10 y salen partículas que se condensan en la esfera sobre su muñeca,
+>   **el Orbe no se ha desprendido: ha salido a la superficie.** Por eso el brazo de ella nunca se
+>   levanta, por eso la esfera se queda flotando ahí después, y por eso **no se lo puede quitar nadie.**
+> • **AL QUE LO TOCA, LO FRÍE.** A @Vosk se le quedan los dedos rígidos alrededor del Orbe y **@Theron
+>   tiene que arrancárselo con una descarga de la palma**. Esto **planta la frase de la SEC 17**
+>   —*«Sacarlo a la fuerza te destruiría a ti… y quizá a quien lo intente»*—: @Theron **no lo supone, lo
+>   vio.** Ella dormía. Ella no lo sabe.
+> • **@THERON PELEA CON UNA DESCARGA DE LA PALMA DERECHA.** Sale de su cuerpo, como todo en esta
+>   película. Es la primera vez que se le ve usar nada.
+> • **«NO LA ESTAMOS SALVANDO. LA ENCONTRAMOS POR LA ENERGÍA QUE LE SALE DEL CUERPO. NADA MÁS.»**
+>   @Theron no recoge a una niña: recoge **una fuente de energía**. Y el segundo en que descubre que no
+>   se puede separar de ella sin acabar con —esa cara de preocupación con la que cierra la SEC 10— **es el
+>   acto 2 entero**: para tener eso, tiene que quedarse con ella.
+> • **LO QUE BRILLA, SE ESCONDE.** Lo primero que hace @Stella al despertar (SEC 10A) es comprobar que
+>   el resplandor azul sigue debajo del brazalete. Y lo último que hace en la escena, después de oír
+>   *«todo lo que brilla así se puede seguir»*, es **taparse la muñeca con la otra mano** hasta que
+>   solo se le escapan rayas de luz entre los dedos. **Es la lección que le dura veinticuatro años.**
+> • **THARA ESTÁ DESDE LA PRIMERA ESCENA DEL ACTO 2**, medio paso detrás del hombro de @Theron en la
+>   mesa. No habla. Su escena es la SEC 20C.
 > • **EL MONTAJE DE LOS AÑOS (SEC 20B) NO TIENE UNA SOLA PALABRA.** Solo música. 2:30–3:00 en seis
 >   bloques de ~30s. Y no cuenta «pasaron seis años»: cuenta **una sola cosa** — que a @Stella le sube
 >   la destreza al mismo ritmo que se le vacía la esperanza. Al final es la mejor de todos y ya no cree
@@ -1395,42 +1427,211 @@ CORTE A NEGRO.
 
 ---
 
-## SEC. 10 — INT. NAVE NODRIZA DE @THERON — BAHÍA DE CARGA — ¿?
+## SEC. 10 — INT. NAVE NODRIZA DE @THERON — LA MESA — ¿?
 
-Goteo metálico. Luz fría.
+Una mesa larga de metal. Encima, boca arriba, **@STELLA.** Catorce años. Inconsciente.
 
-@Stella despierta de golpe en el suelo de una bahía enorme y oscura. La nave de su madre, lo que queda de ella, está enganchada por brazos mecánicos como un animal cazado.
+estirpe seca en la mejilla y en la sien derecha. Tierra por toda la piel. Y el traje que le hizo su padre **esta misma mañana** —hace unas horas, en otro mundo— roto por tres sitios.
 
-@Stella se incorpora. Lo primero que hace —antes que nada— es mirarse la **mano.** La llave de luz sigue ahí. El Orbe sigue dentro. Respira.
+No se mueve. Solo el pecho, una vez, muy poco.
 
-Una sombra enorme se mueve en la penumbra. **@THERON** —el Cazador. Alto, de otra especie, con ojos que no parpadean como los nuestros. Lleva siglos en esa cara.
+Y alrededor de la mesa, **la tripulación entera de @Theron**, mirándola hacia abajo. Sin tocarla. Como se mira algo de lo que todavía no se sabe qué es.
 
-**@STELLA**
-*(en guardia, voz rota)*
-¿Dónde estoy? ¿Quién eres? ¿Me… me salvaste?
+*(Primera vez que la vemos indefensa de verdad: dormida, en el centro de un corro de desconocidos que están decidiendo qué es. **Y no se va a enterar nunca de esta conversación.**)*
+
+**@NIMA** es la única que hace algo. De pie sobre un cajón para alcanzar la mesa, le limpia la sien y le mide algo en el cuello. Trabaja. No opina.
+
+**GARA** se echa medio paso atrás.
+
+**GARA**
+Es humana.
+*(con asco)*
+Aj.
+
+**SABO** —el más viejo de todos, de la especie de @Theron, cientos de miles de años encima— no le quita los ojos de la cara a la niña.
+
+**SABO**
+No.
+*(beat)*
+Es erdiana. Los de su raza se llaman **naiel.**
+
+Levanta la vista y la pasea por la mesa, por si a alguien le suena. No le suena a nadie.
+
+**SABO (CONT.)**
+Colonizaron muchos mundos. Los fueron tomando uno detrás de otro durante siglos.
+*(beat)*
+Y pararon. Pero no porque quisieran: pararon después de una guerra que casi los borra del universo. Dieron su palabra de no volver a salir de su planeta.
+
+Silencio en la mesa. Nadie deja de mirar a la niña dormida.
+
+*(Acaba de decir, en voz baja y sin ponerle música, lo que explica el resto de la película: **Erdia no está sola porque nadie sepa que existe. Está sola porque nadie quiere volver a saber de ella.**)*
+
+**@VOSK**, de brazos cruzados, no ha apartado la vista de ella ni una vez. Aprieta la mandíbula.
+
+**@VOSK**
+Ellos empezaban todas las guerras.
+*(beat)*
+Son lo peor que hay en este universo.
+
+Y por fin le levanta la cara a Sabo.
+
+**@VOSK (CONT.)**
+No entiendo por qué la estamos salvando.
+
+Nadie le contesta.
+
+Y en la mesa se oyen unas botas.
+
+**@THERON** entra por la izquierda con **THARA** medio paso detrás de su hombro. Dos zancadas y están en la mesa. Se paran. Asientan el peso. Y los dos miran hacia abajo.
 
 **@THERON**
-*(sin acercarse)*
+No la estamos salvando.
+*(beat)*
+La encontramos por la energía que le sale del cuerpo. Nada más.
+
+Y en la última palabra, **sin mover la cabeza**, los ojos se le van hacia abajo. A la muñeca izquierda de ella.
+
+Ahí, contra la piel sucia, hay un **BRAZALETE** que le devuelve la luz del techo.
+
+Silencio largo. La cámara no se mueve. @Stella respira dos veces, poco.
+
+Y **@VOSK** descruza los brazos de golpe.
+
+**@VOSK**
+*(sin apartar los ojos del brazalete)*
+¡Entonces quitémoselo!
+
+Se echa encima de esa muñeca. **El brazo de ella no se levanta ni un centímetro** —sigue plano sobre la mesa mientras él le da vueltas al brazalete y le busca la juntura con el pulgar.
+
+Y el brazalete **se abre con un clic.**
+
+Y de dentro **sale un chorro de partículas de luz.** Suben, giran, se ordenan en el aire —y se **condensan en una esfera** que queda flotando un palmo por encima de su muñeca.
+
+**EL ORBE.**
+
+*(Que no ha salido de ella. **Ha salido a la superficie.** Sigue anclado en la palma donde su padre le grabó la llave esta misma mañana. @Vosk no está cogiendo una joya: está metiendo la mano en el pecho de alguien.)*
+
+Toda la mesa se queda sin aire. @Vosk abre la mano al lado de la esfera.
+
+Y **la agarra.**
+
+**RELÁMPAGOS** le suben por el antebrazo. Los dedos se le quedan **rígidos** alrededor del Orbe y **no se abren.**
+
+@Vosk convulsiona de pie, la espalda arqueada, los ojos abiertos de par en par, la boca abierta en un grito que no tiene palabras y le sale de muy abajo.
+
+**GARA** retrocede medio paso. **HESSA** y **ENKO** también, con las caras encendiéndose y apagándose al ritmo de los arcos.
+
+Y a @Theron se le cierra la mandíbula.
+
+Levanta la **mano derecha**, la palma abierta hacia @Vosk —y de esa palma **sale una descarga.**
+
+El golpe le arranca a @Vosk de la mesa y lo manda **volando hacia atrás.** Y en el segundo exacto en que sus dedos se separan del Orbe, **los relámpagos se apagan.**
+
+El Orbe se queda donde estaba. Flotando. Intacto. Y el brazo de ella, plano sobre la mesa, sin haberse movido nunca.
+
+@Vosk se estrella contra la cubierta, con la mano echando humo. Y se queda ahí.
+
+Alrededor de la mesa, todas las cabezas van del cuerpo del suelo a la esfera y de la esfera al cuerpo. Nadie dice nada.
+
+@Theron **baja la mano despacio.**
+
+Y mira a @Vosk en el suelo. Y después baja los ojos a la niña de la mesa.
+
+Y se le arruga la frente. **Preocupado.**
+
+*(Ahí es donde se le tuerce la vida a este hombre. Vino a recoger **una fuente de energía** y acaba de descubrir que no se puede separar de la niña sin acabar con —y que mata a quien lo intente. Para tener eso, **tiene que quedarse con ella.** Ese gesto de preocupación es el acto 2 entero.)*
+
+El corro se deshace. Van saliendo de uno en uno, y a más de uno se le queda la mirada en ella un segundo de más.
+
+El último es **BROGU.**
+
+No dice nada —no dice nada casi nunca—. Se acerca a la cabecera. Y con unas manos que podrían partirla en dos, **le acomoda algo doblado debajo de la nuca**, para que la cabeza no se le quede colgando del filo de la mesa.
+
+Y se va él también.
+
+*(Mientras nueve personas discutían qué era, **uno se ocupó de que no estuviera incómoda.** Veinticuatro años después va a ser el que la saque cargada de un palacio.)*
+
+La sala se queda vacía. Solo @Nima, trabajando en silencio. Y la niña, que no ha oído nada de esto.
+
+*(Va a vivir años entre esta gente sin entender por qué la miran así. Y el día que se entere, se lo va a gritar **un tratante de cautivo delante de tres mil apostadores.**)*
+
+---
+
+## SEC. 10A — INT. NAVE NODRIZA DE @THERON — BAHÍA DE CARGA — ¿?
+
+Goteo metálico. Luz fría, muy lejos.
+
+Y en el suelo de una bahía enorme y oscura, **@STELLA.**
+
+**Abre los ojos de golpe**, con una bocanada de aire. Se empuja sobre un codo.
+
+Y antes que nada —antes de mirar dónde está, antes de mirar si hay alguien— **se levanta la mano izquierda a la altura de la cara.**
+
+Detrás del **brazalete**, contra la piel, hay un **resplandor azul** que se le escapa por los bordes y **late despacio, al ritmo de su respiración.**
+
+**Sigue ahí.**
+
+@Stella **suelta el aire.**
+
+*(No ha preguntado dónde está. No ha preguntado si está viva. Lo primero que comprueba una niña de catorce años que lo ha perdido todo hoy es **si todavía tiene lo que le costó a su madre la vida.**)*
+
+Al fondo, la nave de su madre —lo que queda de ella— cuelga enganchada por brazos mecánicos, como un animal cazado.
+
+Y en la penumbra, muy al fondo, **una figura alta a contraluz.**
+
+No se le ve la cara. Solo un filo de luz recorriéndole el contorno.
+
+La cabeza de @Stella **se gira de golpe** hacia ella.
+
+Se sienta. Sube la guardia. Le tiembla la barbilla y no le tiemblan los ojos.
+
+**@STELLA**
+*(la voz rota)*
+¿Dónde estoy? ¿Quién eres?
+*(traga)*
+¿Tú… tú me salvaste?
+
+Del fondo llega una voz tranquila y muy vieja.
+
+**@THERON**
 No te salvé. Te recogí.
 *(beat)*
 Hay una diferencia.
 
-Se acerca, despacio. Mira la mano de @Stella. El brillo del Orbe bajo la piel.
+Y empieza a andar hacia ella.
+
+Pasos lentos, pesados. Su sombra **cruza por encima de la muñeca** de @Stella y le tapa el resplandor azul un segundo.
+
+Se para a dos pasos. Sigue entre ella y la luz del fondo. Lo único que le ilumina la mandíbula es **el azul que sale del brazalete de la niña.**
+
+Le mira la muñeca. Después le sube los ojos a los ojos.
+
+*(Y no parpadea ni una vez en toda la escena.)*
 
 **@THERON (CONT.)**
-Eso que llevas dentro brilla. Brilla como nada que haya visto en mucho, mucho tiempo.
-*(la mira a los ojos)*
-Y lo que brilla así… se puede seguir.
+Eso que llevas brilla. Brilla como no he visto brillar nada en mucho, mucho tiempo.
+*(los ojos de él suben a los de ella)*
+Y todo lo que brilla así… **se puede seguir.**
 
-@Stella aprieta el puño, escondiendo la mano. No entiende todavía que para él ella no es una niña perdida.
+@Stella cierra el puño.
 
-Es un rastro.
+Y se **tapa el brazalete con la otra mano.**
+
+El azul se le apaga debajo de los dedos hasta que solo se le escapan **unas rayas finas de luz** entre los nudillos.
+
+*(Ahí acaba de aprender la lección que le va a durar veinticuatro años: **lo que brilla, se esconde.** Y por eso, dentro de veinticuatro años, cuando por fin lo saque a la luz en una sala del trono, ya será demasiado tarde.)*
+
+Ella todavía no lo entiende: para ese hombre no es una niña perdida.
+
+Es **un rastro.**
 
 ---
 
 ## SEC. 11 — INT. NAVE NODRIZA — PASILLOS Y TALLER — MÁS TARDE
 
 La tripulación de @Theron mira a @Stella como se mira a algo que no debería estar a bordo. La empujan. La ignoran. Le tiran un plato de comida al piso.
+
+*(Y ahora sabemos por qué, aunque ella no: **no la odian por lo que hizo. La odian por lo que es.** Lleva un día a bordo y ya arrastra una guerra que terminó antes de que naciera su bisabuela.)*
 
 **@VOSK** (matón, grande, cicatrices) le bloquea el paso. La mide.
 
@@ -1616,6 +1817,8 @@ Algo sale mal. Cazarrecompensas locales los emboscan. En el caos, @Stella se esc
 
 Y ve a **@VOSK** mirándola desde lejos. Sus ojos se cruzan.
 
+*(Lo que dijo aquella noche en la mesa, con ella dormida delante: «no entiendo por qué la estamos salvando». **Nadie le contestó entonces. Y él lleva dos años sin cambiar de opinión.**)*
+
 @Vosk toma una **piedra.** Y la tira contra el metal, justo al lado de ella —un golpe seco que delata su posición.
 
 **@VOSK**
@@ -1672,7 +1875,7 @@ Son la misma escoria de raza.
 
 Y la reja se cierra a su espalda.
 
-*(Se lo acaba de decir un tratante de cautivo **para insultarla.** Y va a tardar años en entender que le acaba de decir **la verdad.**)*
+*(Nosotros lo sabemos desde su primera noche en esa nave, por boca de Sabo. **Ella no.** Acaba de oírselo gritar a un tratante de cautivo delante de tres mil apostadores, **para insultarla** — y le acaba de decir **la verdad.**)*
 
 @Stella se gira hacia los otros tres.
 
@@ -1801,6 +2004,8 @@ Pero @Theron se detiene. Lee algo en cómo el Orbe está enredado en la luz de e
 **@THERON**
 *(para sí, casi)*
 No. Sacarlo a la fuerza te destruiría a ti… y quizá a quien lo intente.
+
+*(No lo está suponiendo. **Lo vio.** La primera noche, en la mesa, cuando tuvo que arrancar a @Vosk de esa muñeca con una descarga. Ella dormía. Ella no lo sabe.)*
 *(la mira)*
 Sigues siendo más útil respirando.
 
