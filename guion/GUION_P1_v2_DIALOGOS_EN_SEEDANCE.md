@@ -1789,13 +1789,39 @@ Aguanta a dos. Al tercero ya no. La tiran, se levanta, la vuelven a tirar.
 
 ARRIBA, EN LA RAMPA.
 
-**@NIMA** lo ve desde el borde. Y no lo piensa.
+**@NOAH, CARL y LUCY** llegan flotando al borde y caen dentro de la nave, de rodillas, jadeando.
 
-Se descuelga **por fuera del cono** —donde la luz no la sostiene— y **se deja caer.**
+Y lo primero que ven al levantar la cabeza es **una montaña de pelo oscuro** plantada delante de ellos, con los brazos abiertos, en guardia y **gruñendo.**
+
+**BROGU**
+*(un rugido, señalándolos)*
+AND WHO ARE YOU?!
+
+Los tres levantan las manos a la vez.
+
+**@NOAH**
+*(rápido, sin aliento)*
+We're friends of @Stella!
+
+*(Se conocieron hace veinte minutos, en un pozo, cuando les dijeron que solo salía uno. **Y ya es verdad.**)*
+
+Brogu los mira. Uno por uno. Baja los brazos medio centímetro.
+
+Y a un metro de él, asomada al borde de la rampa, **@NIMA** está mirando hacia abajo.
+
+Ve el cono de luz. Ve a los guardias entrando al pozo. Y ve, en medio de todo eso y **sin traje**, a @Stella.
+
+**@NIMA**
+*(entre el cariño y la desesperación)*
+@Stella being @Stella.
+*(ya calculando el salto)*
+I don't get why she'd go back for **that idiot @Vosk.**
+
+Y **se impulsa** con las dos manos contra el mamparo y se tira **por fuera del cono** —donde la luz no la sostiene.
 
 Baja los ocho metros a plomo y frena en el último tramo con sus **TRES CRISTALES**, que se le abren alrededor y le rompen la caída.
 
-*(Elfa azul, metro y medio, la más pequeña de toda la nave. Y es la única que se ha tirado.)*
+*(Elfa azul, metro y medio, la más pequeña de toda la nave. Y **es la única que se ha tirado.**)*
 
 Toca suelo al lado de @Stella.
 
