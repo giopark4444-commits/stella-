@@ -285,16 +285,22 @@
 >   No es una cúpula sobre un edificio: es una bola. La cúspide es su punto más alto.
 >   @Noah una **hoja de luz**; Brogu sus manos; @Nima cacharros que fabrica ella. La violencia se muestra
 >   **por luz, nunca por estirpe.**
-> • ⚠️ **NO CONFUNDIR LOS BRAZALETES CON EL MONITOR.** En sus muñecas hay **dos cosas distintas**:
->   los **dos brazaletes** (`@prop_stella-bracelet`), que son el mando y están siempre; y el **monitor
->   del traje**, la pantallita que marcó **«MAX»** en la SEC 5 y que @Nima le vuelve a montar en el
->   traje nuevo de la SEC 16. El monitor **va y viene con el traje**; los brazaletes **no se le quitan
->   nunca.** El resplandor azul del Orbe sale **por debajo del brazalete izquierdo**, nunca del monitor.
+> • ⚠️ **EN SUS MUÑECAS NO HAY MÁS QUE LOS BRAZALETES.** La **muñequera** que marca «MAX» pertenece
+>   **solo al traje que le hizo su padre** y solo se ve en el año 0 (SEC 5). **@Nima no le monta ninguna
+>   en el traje de la SEC 16** —le toma medidas de todo menos de las muñecas— y a partir de ahí, en
+>   toda la película, **lo único que lleva en las muñecas son los dos brazaletes.**
+> • **LOS BRAZALETES CAMBIAN DE ASPECTO UNA SOLA VEZ EN TODA LA PELÍCULA, EN LA SEC 20D**, cuando
+>   **@Theron le da su último traje** —el suyo propio, de hace mucho, ajustado por @Nima—. El material le
+>   corre por los brazos y los brazaletes se rehacen: **más finos, más limpios, encajados en el traje.**
+>   🔒 **Son los mismos.** Los que le puso su padre a los catorce, que no se ha quitado ni un día en
+>   seis años. **Lo único que cambia es cómo se ven** — igual que ella.
 > • **@Stella tiene propulsores en las botas** (y en la espalda del traje): vuela a ráfagas cortas, tipo
 >   traje de vuelo. Ya los usa a los 14 para escapar por el ducto (SEC 6) — es el mismo movimiento que
 >   la sube por el palacio en la SEC 0 y la SEC 23, veinticuatro años después.
-> • **Vestuario de @Stella:** ropa civil (parque) → armadura "04" con trenza (lab/huida) → armadura con **pelo
->   corto** tras cortarse la trenza → **pelo teñido de oscuro + traje de @Nima** (acto 3, SEC 20B).
+> • **Vestuario de @Stella, cuatro estados:** ropa civil (parque) → **armadura "04" de su padre**, con
+>   trenza y con la muñequera «MAX» (lab/huida, año 0) → tras cortarse la trenza, la misma armadura con
+>   **pelo corto** → **traje de @Nima**, ligero y a su medida y **sin muñequera** (SEC 16, año 3) →
+>   **traje de @Theron + pelo teñido de oscuro + brazaletes rehechos** (SEC 20D, acto 3).
 >
 > **Revisión v2.5 (2026-08-28):**
 > • **APERTURA EN FRÍO (SEC 0).** La película ya no empieza por el principio: arranca con **la batalla
@@ -2313,7 +2319,9 @@ Montaje. La familia rara que la fue curando.
 
 **BROGU** y @Stella, sentados frente a un cielo cruzado de cometas. El gigante le enseña su **idioma muerto** —palabras guturales, antiguas, que ya no le quedan a nadie más en el universo. @Stella las repite. Brogu asiente, despacio, y se le arruga la cara. Es lo más parecido a una sonrisa que tiene una montaña.
 
-**@NIMA**, en el laboratorio, le construye un **traje nuevo** —ligero, hecho a su medida, con un **monitor en la muñeca** idéntico al que marcó "MAX" aquel día. Trabaja de pie sobre un cajón para alcanzar la mesa, y no lo menciona nunca.
+**@NIMA**, en el laboratorio, le construye un **traje nuevo** —ligero, hecho a su medida. Trabaja de pie sobre un cajón para alcanzar la mesa, y no lo menciona nunca.
+
+*(Le toma medidas de todo **menos de las muñecas.** Los brazaletes no se tocan: se le hace el traje alrededor.)*
 
 **@NIMA**
 *(ajustando)*
@@ -2905,7 +2913,33 @@ Por eso.
 
 @Nima no dice nada más. Le pasa una mano por la nuca —una mano pequeña y azul— y sigue trabajando.
 
-MÁS TARDE. @Stella de pie frente a una plancha de metal pulido. Se mira. El pelo oscuro, la cara más dura, el **traje que le hizo @Nima**. La que devuelve la mirada ya no se parece a nadie de su familia.
+MÁS TARDE.
+
+**@THERON** vuelve a entrar. Trae algo doblado en el brazo y lo deja encima de la mesa, sin ceremonia.
+
+Un **traje.** Oscuro, sin marcas, y no se parece a nada de lo que hay en esta nave.
+
+**@STELLA**
+¿Y esto.
+
+**@THERON**
+Lo llevaba yo. Hace mucho.
+*(ya saliendo)*
+@Nima te lo ajustó.
+
+Y se va otra vez, como se va siempre: antes de que a la frase le dé tiempo a pesar.
+
+*(Veinte mil años cazando solo, y le acaba de dar su propia ropa a la cría que recogió de un pecio. **No lo va a decir nunca de otra manera.**)*
+
+@Stella se lo pone. Y el material le corre por los brazos hasta las muñecas —
+
+—y **los brazaletes cambian de forma.**
+
+Más finos. Más limpios. Encajados en el traje como si siempre hubieran sido parte de él.
+
+*(Son **los mismos de siempre.** Los que le puso su padre a los catorce. No se los ha quitado ni un día en seis años. **Lo único que ha cambiado es cómo se ven** — igual que ella.)*
+
+Se pone de pie frente a una plancha de metal pulido. Se mira. El pelo oscuro, la cara más dura, **el traje de @Theron**. La que devuelve la mirada ya no se parece a nadie de su familia.
 
 **@NOAH** entra por detrás y se frena medio segundo antes de reconocerla.
 

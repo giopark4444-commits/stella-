@@ -1946,7 +1946,9 @@ Montaje. La familia rara que la fue curando.
 
 **BROGU** y @Stella, sentados frente a un cielo cruzado de cometas. El gigante le enseña su **idioma muerto** —palabras guturales, antiguas, que ya no le quedan a nadie más en el universo. @Stella las repite. Brogu asiente, despacio, y se le arruga la cara. Es lo más parecido a una sonrisa que tiene una montaña.
 
-**@NIMA**, en el laboratorio, le construye un **traje nuevo** —ligero, hecho a su medida, con un **monitor en la muñeca** idéntico al que marcó "MAX" aquel día. Trabaja de pie sobre un cajón para alcanzar la mesa, y no lo menciona nunca.
+**@NIMA**, en el laboratorio, le construye un **traje nuevo** —ligero, hecho a su medida. Trabaja de pie sobre un cajón para alcanzar la mesa, y no lo menciona nunca.
+
+*(Le toma medidas de todo **menos de las muñecas.** Los brazaletes no se tocan: se le hace el traje alrededor.)*
 
 **@NIMA**
 *(ajustando)*
@@ -2538,7 +2540,33 @@ That's why.
 
 @Nima no dice nada más. Le pasa una mano por la nuca —una mano pequeña y azul— y sigue trabajando.
 
-MÁS TARDE. @Stella de pie frente a una plancha de metal pulido. Se mira. El pelo oscuro, la cara más dura, el **traje que le hizo @Nima**. La que devuelve la mirada ya no se parece a nadie de su familia.
+MÁS TARDE.
+
+**@THERON** vuelve a entrar. Trae algo doblado en el brazo y lo deja encima de la mesa, sin ceremonia.
+
+Un **traje.** Oscuro, sin marcas, y no se parece a nada de lo que hay en esta nave.
+
+**@STELLA**
+And this.
+
+**@THERON**
+I used to wear it. A long time ago.
+*(ya saliendo)*
+@Nima fitted it to you.
+
+Y se va otra vez, como se va siempre: antes de que a la frase le dé tiempo a pesar.
+
+*(Veinte mil años cazando solo, y le acaba de dar su propia ropa a la cría que recogió de un pecio. **No lo va a decir nunca de otra manera.**)*
+
+@Stella se lo pone. Y el material le corre por los brazos hasta las muñecas —
+
+—y **los brazaletes cambian de forma.**
+
+Más finos. Más limpios. Encajados en el traje como si siempre hubieran sido parte de él.
+
+*(Son **los mismos de siempre.** Los que le puso su padre a los catorce. No se los ha quitado ni un día en seis años. **Lo único que ha cambiado es cómo se ven** — igual que ella.)*
+
+Se pone de pie frente a una plancha de metal pulido. Se mira. El pelo oscuro, la cara más dura, **el traje de @Theron**. La que devuelve la mirada ya no se parece a nadie de su familia.
 
 **@NOAH** entra por detrás y se frena medio segundo antes de reconocerla.
 

@@ -46,9 +46,13 @@ SEC 3 hasta el tanque del final. **No se le quitan nunca** — ni durmiendo, ni 
 collar puesto, ni en coma. Y **le sirve cualquiera de los dos, indistintamente**: no hay que acordarse
 de cuál. Si en un plano solo se le ve una muñeca, **en la otra también hay brazalete.**
 
-⚠️ **No son el monitor.** El monitor del traje (el que marca «MAX») es otra cosa, va con el traje y
-puede no estar. Los brazaletes están siempre. Y **el resplandor azul sale por debajo del brazalete
-izquierdo**, que es el del lado de la llave — nunca del derecho, nunca del monitor.
+⚠️ **Y no lleva nada más en las muñecas.** La muñequera que marca «MAX» es **solo del traje de su
+padre** y solo se ve en el año 0. A partir de la SEC 16 no hay ninguna: solo los dos brazaletes. El
+resplandor azul sale **por debajo del brazalete izquierdo**, el del lado de la llave — nunca del derecho.
+
+⚠️ **Cambian de aspecto UNA vez, en la SEC 20D**, cuando Theron le da su último traje: se rehacen más
+finos y encajados en el traje. **Son los mismos brazaletes** — solo se ven distintos. Antes de la
+SEC 20D, aspecto viejo. Después, aspecto nuevo. **Nunca al revés.**
 
 **⑨ EL ORBE SOLO SE MATERIALIZA COMO ESFERA CUATRO VECES EN TODA LA PELÍCULA.** El resto del tiempo
 es **un resplandor azul debajo del brazalete**, nunca una bola visible:
