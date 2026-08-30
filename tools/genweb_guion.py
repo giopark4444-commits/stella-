@@ -140,11 +140,11 @@ def main() -> None:
 
     # sanidad mínima: las escenas nuevas deben estar en el HTML
     for marca in ("SEC. 0 ", "SEC. 12A", "SEC. 20A", "SEC. 20B", "SEC. 20C", "SEC. 20D",
-                  "LOS AÑOS", "PUERTO ESTELAR", "AÑO 24", "CELDAS DEL NIVEL DE SERVICIO",
+                  "LOS AÑOS", "PUERTO ESTELAR", "AÑO 20", "CELDAS DEL NIVEL DE SERVICIO",
                   "SALA DE ENTRENAMIENTO"):
         if marca not in nuevo_web:
             raise SystemExit(f"✗ sanidad: falta «{marca}» en el HTML generado")
-    print("✓ sanidad OK (12A · 20A/B/C/D · montaje · puerto · AÑO 24 · celdas · sala · apertura en frío)")
+    print("✓ sanidad OK (12A · 20A/B/C/D · montaje · puerto · AÑO 20 · celdas · sala · apertura en frío)")
 
     if args.apply:
         WEB.write_text(nuevo_web, encoding="utf-8")

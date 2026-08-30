@@ -117,9 +117,11 @@ y Thara**. El corpus de prompts tiene **Sarn, Ilka, Ozu, Dova, Fen, Kade, Turo, 
 Pash** — diez nombres que **nunca se generaron**. Los que existen mandan; hay que reasignarles
 los oficios (piloto, médico, artillero, intendente…) a los cinco reales.
 
-**③ ¿SON LA MISMA HABITACIÓN LA SALA DEL ORBE Y LA SALA DEL TRONO?** En la biblioteca hay
-`@loc_eridia-orbe-room` y no hay ninguna sala del trono. Si son el mismo sitio veinticuatro años
-después, es un hallazgo enorme y hay que decirlo en el guion. Si son dos, falta una hoja.
+**③ ✅ RESUELTO — SÍ, SON LA MISMA HABITACIÓN.** Decisión de Gio (2026-08-30). La sala del trono
+**es la sala del Orbe**, veinte años después: `@loc_eridia-orbe-room` para el año 0 y su versión del
+año 20 para el clímax. **No hace falta ninguna hoja de sala del trono.** Y está dicho en el guion:
+Stella cae por el ducto y **reconoce el sitio donde vio morir a su madre** — que es exactamente por
+lo que se cree que la figura de pelo blanco del fondo es ella.
 
 **④ ¿QUÉ ES `@prop_orbe-locker`?** Por la miniatura podría ser **la caja donde Naio le mete la mano
 a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace falta `@CajaMano`.
@@ -149,12 +151,12 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 |---|---|
 | **El laboratorio de Naio** | `@loc_erdia-palace-lab` |
 | **Los pasillos del palacio** ⚠️ sin `loc_` | `@erdia-palace-corridors` |
-| **La sala del Orbe** | `@loc_eridia-orbe-room` |
+| **La sala del Orbe · = LA SALA DEL TRONO** 🔒 | `@loc_eridia-orbe-room` — la misma habitación en el año 0 y en el año 20 |
 | La sala del Orbe, alrededores | `@loc_erdia-orbe-room-surround` |
 | **La sala del Orbe DESTRUIDA** | `@loc_erdia-orbe-room-destroyed` |
 | **La sala de entrenamiento** ⚠️ typo en origen | `@loc_erdia-palace-traingin-room` |
 
-## Erdia — año 24
+## Erdia — año 20
 
 | Sitio | Tag |
 |---|---|
@@ -162,7 +164,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | Erdia seca | `@loc_erdia-dry` |
 | **La plaza destruida** | `@loc_erdia-square-destroyed` |
 | Erdia futura | `@loc_erdia-future` |
-| El cielo del año 24 | `@loc_erdia-future-sky` |
+| El cielo del año 20 | `@loc_erdia-future-sky` |
 
 ## La Nodriza
 
@@ -216,11 +218,11 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 
 | Qué | Dónde duele |
 |---|---|
-| **El ducto por dentro** | Sale **tres veces** separadas por 24 años y tiene que ser el mismo tubo. Es la rima más importante del film |
+| **El ducto por dentro** | Sale **tres veces** separadas por 20 años y tiene que ser el mismo tubo. Es la rima más importante del film |
 | ~~El palacio esférico~~ ✅ **está al fondo de `@loc_erdia-square-*`** | — |
-| **La cúspide con la placa soldada** | **30 segundos de la apertura** sin referencia, y es el objeto que cierra el pago de 24 años |
+| **La cúspide con la placa soldada** | **30 segundos de la apertura** sin referencia, y es el objeto que cierra el pago de 20 años |
 | **La fachada de la esfera, de cerca** | Ella pasa **un minuto entero** pegada a esa piedra |
-| **Las celdas del nivel de servicio** | Naio preso 24 años · SEC 19 y SEC 23 |
+| **Las celdas del nivel de servicio** | Naio preso 20 años · SEC 19 y SEC 23 |
 | **El refugio de la resistencia** | Todo el acto 2 en Erdia |
 | **Los aposentos de la General** | Selka |
 | ⚠️ **STELLA CON DOS BRAZALETES** | Uno en cada muñeca, desde la SEC 3 hasta el final. Revisar si las hojas actuales solo le ponen uno |

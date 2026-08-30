@@ -19,7 +19,7 @@ de esa sala. **Si generas la SEC 19 sin saberlo, la pintas muerta.** Muere de ve
 Se nota en la cara, no en la ropa.
 
 **④ GIX ESTÁ FUERA HASTA LA SEC 5 Y DENTRO DESPUÉS.** Vive en el brazalete hasta que se atraviesa
-delante del golpe del Rey. A partir de ahí **vive dentro del pecho de Stella** — 24 años. En el
+delante del golpe del Rey. A partir de ahí **vive dentro del pecho de Stella** — 20 años. En el
 tanque final es solo una brasa.
 
 **⑤ VORTHAM ES HUMANO HASTA LA SEC 25.** 🔒 Nunca `@vortham-parasite` antes de que Selka ponga el
@@ -78,7 +78,7 @@ condensa. O al revés.
 
 | SEC | Cuándo | Stella | Vera | Selka | Otros |
 |---|---|---|---|---|---|
-| **0** | año 24 · anochecer | adulta · **teñida** · encapuchada · **con Orbe** · Gix dentro | muerta (creída) | general | Naio preso · Vosk leal · Erdia en ruinas |
+| **0** | año 20 · anochecer | adulta · **teñida** · encapuchada · **con Orbe** · Gix dentro | muerta (creída) | general | Naio preso · Vosk leal · Erdia en ruinas |
 | **1** | — | — | — | — | sin personajes |
 | **2** | año 0 · mañana | **14 · pelo blanco suelto** · ropa civil · **palma limpia** | viva · con la bebé | **bebé** | Gix **en el brazalete** · Erdia dorada |
 | **3** | año 0 · tarde | 14 · **se hace la trenza** · traje · **la llave se le graba a mitad** | viva · **coge a la bebé** y no la suelta más | bebé | Naio libre → derribado · Gix en el brazalete |
@@ -98,10 +98,10 @@ condensa. O al revés.
 | **20B** | años 1→6 | **montaje: le crece el pelo blanco** · sin diálogo | — | — | la maniobra ×3 · el mapa · el bar |
 | **20C** | año 6 · puerto | pelo blanco largo · **hundida** | — | — | **Thara** manda a Theron · «Vamos a Erdia» |
 | **20D** | acto 3 | **se tiñe el pelo** de oscuro | — | — | «Bajas. Miras. Subes.» |
-| **23–24** | año 24 | teñida · con Orbe | — | **general · 25** | Naio preso → rescatado |
-| **25** | año 24 | en coma | — | pone el Orbe | 🔒 **Vortham → parásito** |
-| **27** | año 24 | en coma · **le arrancan el Orbe** · Gix le sostiene el corazón | — | **pierde el brazo** | — |
-| **29** | año 24 | **en el tanque** · en coma | — | **manca** | Naio vivo · **Gix = una brasa** |
+| **23–24** | año 20 | teñida · con Orbe | — | **general · 25** | Naio preso → rescatado |
+| **25** | año 20 | en coma | — | pone el Orbe | 🔒 **Vortham → parásito** |
+| **27** | año 20 | en coma · **le arrancan el Orbe** · Gix le sostiene el corazón | — | **pierde el brazo** | — |
+| **29** | año 20 | **en el tanque** · en coma | — | **manca** | Naio vivo · **Gix = una brasa** |
 
 ---
 

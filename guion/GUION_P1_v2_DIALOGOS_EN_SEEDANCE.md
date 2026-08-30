@@ -10,7 +10,7 @@
 
 ---
 
-## SEC. 0 — EXT. PALACIO IMPERIAL — EL ASALTO — [ERDIA · AÑO 24] — ANOCHECER
+## SEC. 0 — EXT. PALACIO IMPERIAL — EL ASALTO — [ERDIA · AÑO 20] — ANOCHECER
 
 > *Apertura en frío, antes del título. Sin rótulo de año, sin nombres, sin una sola línea de diálogo.
 > El público no sabe quién es nadie. Solo entiende dos cosas: que están perdiendo, y que la están
@@ -70,7 +70,7 @@ Y entonces la cámara **se tira al suelo y mira hacia arriba.**
 
 **CONTRAPICADO EXTREMO.** Y por primera y única vez en la plaza, en el cuadro **solo hay dos cosas: ella y el cielo.**
 
-La figura encapuchada, de espaldas al mundo, con la cabeza levantada. Y encima de ella, **el cielo de Erdia en el año 24** — y es lo más bonito que se ve en toda la película.
+La figura encapuchada, de espaldas al mundo, con la cabeza levantada. Y encima de ella, **el cielo de Erdia en el año 20** — y es lo más bonito que se ve en toda la película.
 
 Estrellas de verdad, muchísimas, nítidas como no se ven desde ningún mundo vivo. Columnas de humo negro subiendo despacio y tapándolas a trozos. Y **cruzando entre las estrellas, en formación, las naves imperiales.**
 
@@ -208,7 +208,7 @@ Apoya la palma abierta contra la placa. La luz se le concentra hasta iluminarle 
 
 Y **la cúspide del palacio revienta hacia arriba.**
 
-El humo se despeja. Y debajo aparece **la boca de un ducto**. Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinticuatro años.
+El humo se despeja. Y debajo aparece **la boca de un ducto**. Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinte años.
 
 @Stella lo mira medio segundo.
 
@@ -477,7 +477,7 @@ Silencio.
 *(levantándose, sacudiéndose la hierba)*
 Yeah. Fine.
 
-*(No es que no lo entienda. Es que hoy no le da la gana entenderlo. Le van a hacer falta veinticuatro años para volver a esta frase.)*
+*(No es que no lo entienda. Es que hoy no le da la gana entenderlo. Le van a hacer falta veinte años para volver a esta frase.)*
 
 Y entonces ve lo que su madre lleva a la espalda.
 
@@ -525,7 +525,7 @@ Silencio.
 
 Y @Selka se empuja con las manos, se pone de pie sola, se tambalea — y **hace los otros dos metros.**
 
-*(Guardar este plano. La película vuelve a él dentro de veinticuatro años. Y esa vez @Stella va a levantar la misma mano con la misma luz — **y su hermana no va a venir.**)*
+*(Guardar este plano. La película vuelve a él dentro de veinte años. Y esa vez @Stella va a levantar la misma mano con la misma luz — **y su hermana no va a venir.**)*
 
 @Stella la atrapa y **la levanta en el aire.** @Selka se ríe con toda la cara.
 
@@ -612,7 +612,7 @@ Put it on.
 
 Del cinturón del traje asoma **un cuchillo láser** y, en la espalda y en las botas, **propulsores.** Su padre no le ha dado ropa: le ha dado un equipo.
 
-*(Y esos propulsores son los mismos con los que la vamos a ver subir doscientos metros de fachada dentro de veinticuatro años. Vuela con lo que le dio su padre.)*
+*(Y esos propulsores son los mismos con los que la vamos a ver subir doscientos metros de fachada dentro de veinte años. Vuela con lo que le dio su padre.)*
 
 @Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.
 
@@ -747,7 +747,7 @@ Not that one.
 *(beat)*
 That one closed it. That one is going to have to open it.
 
-*(Y ahí queda dicho, sin decirlo, por qué ese hombre va a seguir vivo veinticuatro años.)*
+*(Y ahí queda dicho, sin decirlo, por qué ese hombre va a seguir vivo veinte años.)*
 
 @Vera arranca a @Stella de ahí. Corren.
 
@@ -861,7 +861,7 @@ Y esto ya no es una pelea. @Vera aguanta lo que puede **con una hija en el brazo
 
 empieza a **arrastrarse hacia su madre.**
 
-*(Le acaban de dar una sola regla y la rompe en el primer minuto. **Va a seguir rompiéndolas durante veinticuatro años.**)*
+*(Le acaban de dar una sola regla y la rompe en el primer minuto. **Va a seguir rompiéndolas durante veinte años.**)*
 
 Vortham la mira arrastrarse. Y se le suaviza la voz.
 
@@ -922,7 +922,7 @@ Y **la sala se queda a oscuras.**
 
 Arriba, los rayos siguen bajando —y ya no encuentran nada. Ocho hilos de luz clavados en **aire vacío.**
 
-*(La única luz que había aquí dentro se acaba de ir con ella. Y esa máquina se va a quedar así, tirando de la nada, **veinticuatro años.**)*
+*(La única luz que había aquí dentro se acaba de ir con ella. Y esa máquina se va a quedar así, tirando de la nada, **veinte años.**)*
 
 Vortham levanta la mano.
 
@@ -938,7 +938,7 @@ El animal de luz recibe el golpe entero. Y **se deshace.**
 
 Y todas sus partículas, en vez de dispersarse por el aire, **giran hacia ella y le entran por la palma izquierda** —por la misma llave por la que acaba de entrar el Orbe, unos segundos antes.
 
-*(Acaba de darle todo lo que era. A partir de este segundo **vive dentro de ella**, y ahí se va a quedar veinticuatro años.)*
+*(Acaba de darle todo lo que era. A partir de este segundo **vive dentro de ella**, y ahí se va a quedar veinte años.)*
 
 Y el Rey **salta.**
 
@@ -990,7 +990,7 @@ Y ve a **su hermana** — llorando, **en los brazos del hombre que acaba de hace
 
 Las ve por **última vez.**
 
-Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinticuatro años después va a volver a entrar por aquí, en dirección contraria.)*
+Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinte años después va a volver a entrar por aquí, en dirección contraria.)*
 
 **@S1G1** se levanta, dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas.
 
@@ -1122,7 +1122,7 @@ A child we gave everything to. Who chose to keep everyone's light for herself ra
 *(la palabra final, como una sentencia)*
 @Stella. Thief. Traitor.
 
-*(Y ahí está lo peor de este hombre, y hay que rodarlo sabiéndolo: **acaba de condenar a esa niña con las palabras exactas de su madre.** «Dejarla correr» es la lección del parque, dicha esa misma mañana, a cuatro horas de aquí. Vortham no la ha oído nunca. Y aun así ha encontrado la única frase del universo que la va a perseguir veinticuatro años — porque es la frase verdadera, y **él es el único que la está incumpliendo**.)*
+*(Y ahí está lo peor de este hombre, y hay que rodarlo sabiéndolo: **acaba de condenar a esa niña con las palabras exactas de su madre.** «Dejarla correr» es la lección del parque, dicha esa misma mañana, a cuatro horas de aquí. Vortham no la ha oído nunca. Y aun así ha encontrado la única frase del universo que la va a perseguir veinte años — porque es la frase verdadera, y **él es el único que la está incumpliendo**.)*
 
 La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio.
 
@@ -1266,7 +1266,7 @@ No dice nada —no dice nada casi nunca—. Se acerca a la cabecera. Y con unas 
 
 Y se va él también.
 
-*(Mientras nueve personas discutían qué era, **uno se ocupó de que no estuviera incómoda.** Veinticuatro años después va a ser el que la saque cargada de un palacio.)*
+*(Mientras nueve personas discutían qué era, **uno se ocupó de que no estuviera incómoda.** Veinte años después va a ser el que la saque cargada de un palacio.)*
 
 La sala se queda vacía. Solo @Nima, trabajando en silencio. Y la niña, que no ha oído nada de esto.
 
@@ -1341,7 +1341,7 @@ Y se **tapa el brazalete con la otra mano.**
 
 El azul se le apaga debajo de los dedos hasta que solo se le escapan **unas rayas finas de luz** entre los nudillos.
 
-*(Ahí acaba de aprender la lección que le va a durar veinticuatro años: **lo que brilla, se esconde.** Y por eso, dentro de veinticuatro años, cuando por fin lo saque a la luz en una sala del trono, ya será demasiado tarde.)*
+*(Ahí acaba de aprender la lección que le va a durar veinte años: **lo que brilla, se esconde.** Y por eso, dentro de veinte años, cuando por fin lo saque a la luz en una sala del trono, ya será demasiado tarde.)*
 
 Ella todavía no lo entiende: para ese hombre no es una niña perdida.
 
@@ -1956,7 +1956,7 @@ No dice nada. Pero algo ha cambiado: la mocosa que recogió acaba de salvar a qu
 
 Y en el otro extremo de la bahía, **@NOAH, CARL y LUCY**, sentados en el suelo, sin nada, mirando el techo de una nave que no es suya.
 
-*(Los tres se suben ese día y **no se bajan nunca más.** Veinticuatro años después, tres de las personas que le abren el pasillo en esa plaza son tres que estaban en el mismo pozo que ella.)*
+*(Los tres se suben ese día y **no se bajan nunca más.** Veinte años después, tres de las personas que le abren el pasillo en esa plaza son tres que estaban en el mismo pozo que ella.)*
 
 @Noah, vendándose una herida, no le quita los ojos de encima a @Stella. Ella ni lo nota. Mira el cielo, hacia donde queda Erdia.
 
@@ -2242,7 +2242,7 @@ CORTE A NEGRO.
 
 ---
 
-## SEC. 20B — MONTAJE — "LOS AÑOS" — [@STELLA: AÑO 1 → AÑO 6]
+## SEC. 20B — MONTAJE — "LOS AÑOS" — [@STELLA: AÑO 1 → AÑO 5]
 
 > ⚠️ **SECUENCIA SIN UNA SOLA PALABRA.** Solo música. Ni diálogo, ni voz en off, ni rótulos hablados
 > —únicamente las **fichas de año** cuando hagan falta. **Duración objetivo 2:30–3:00**, en seis
@@ -2266,7 +2266,7 @@ CORTE A NEGRO.
 >
 > **EL RELOJ.** Le crece el pelo. Empieza el montaje **rapada por la nuca** —como se quedó al cortarse
 > la trenza a los catorce— y lo termina **largo y blanco hasta media espalda.** No hace falta nada más
-> para contar seis años.
+> para contar cinco años.
 
 **BLOQUE 1 · LA NOVATA — [AÑO 1]**
 
@@ -2338,7 +2338,7 @@ Se levanta despacio, de espaldas al fuego. La cara sin nada.
 
 Mapa: **cincuenta y ocho** luces.
 
-**BLOQUE 6 · LA CUENTA — [AÑO 6]** → **EL PUERTO**
+**BLOQUE 6 · LA CUENTA — [AÑO 5]** → **EL PUERTO**
 
 Noche en la Nodriza. Todos duermen.
 
@@ -2374,7 +2374,7 @@ La música llega a su final. La Nodriza atraca.
 
 ---
 
-## SEC. 20C — EXT. PUERTO ESTELAR — EL LAGO — [@STELLA: AÑO 6 · ERDIA: AÑO 24]
+## SEC. 20C — EXT. PUERTO ESTELAR — EL LAGO — [@STELLA: AÑO 5 · ERDIA: AÑO 20]
 
 > `@space-port` · `@loc_space-port-view` · `@loc_space-port-lake`. **Sin una sola fuente de luz dura:**
 > las caras van iluminadas **solo por las estrellas**, y el contraplano de cada una es el cielo entero.
@@ -2420,7 +2420,7 @@ And what do I say to her.
 **THARA**
 Nothing. Sit down next to her.
 *(le quita el vaso de la mano)*
-You've been waiting twenty thousand years and you're still whole. She's been waiting six and she's going out.
+You've been waiting twenty thousand years and you're still whole. She's been waiting five and she's going out.
 *(beat)*
 **Teach her how it's done.**
 
@@ -2437,17 +2437,33 @@ One to four.
 Every year I live, four go by back there.
 
 **@THERON**
-I know.
+Years.
+*(no la corrige; la traduce)*
+What **you people** call years.
+
+@Stella lo mira por primera vez.
+
+**@THERON (CONT.)**
+My people don't count that way. You count **turns of a rock around its sun** — and it feels like time to you because you were born on that rock.
+*(señala el cielo entero con la barbilla, sin prisa)*
+We count **how long a thing lasts.** A war. A trail. A person.
+*(beat)*
+So when I say twenty thousand, I'm not giving you a number. I'm telling you **how long this has lasted me.**
+
+*(Y ahí está su tragedia dicha de pasada: para él «veinte mil años» no es una cifra, **es la longitud de una sola cosa que todavía no ha terminado.**)*
 
 **@STELLA**
-I've done six. That's twenty-four there.
+*(sin moverse)*
+Well, I count turns.
+*(beat)*
+I've done five. That's twenty there.
 *(traga)*
 When I left, my sister was one year old.
 
 Silencio.
 
 **@STELLA (CONT.)**
-She's twenty-five now. She's **older than me.**
+She's twenty-one now. She's **older than me.**
 *(por fin lo mira)*
 If I go back tomorrow, I'm late. If I go back the day after, I'm later. **I am never going to get there in time.** However it goes.
 
@@ -2586,7 +2602,7 @@ Y se va otra vez, como se va siempre: antes de que a la frase le dé tiempo a pe
 
 Más finos. Más limpios. Encajados en el traje como si siempre hubieran sido parte de él.
 
-*(Son **los mismos de siempre.** Los que le puso su padre a los catorce. No se los ha quitado ni un día en seis años. **Lo único que ha cambiado es cómo se ven** — igual que ella.)*
+*(Son **los mismos de siempre.** Los que le puso su padre a los catorce. No se los ha quitado ni un día en cinco años. **Lo único que ha cambiado es cómo se ven** — igual que ella.)*
 
 Se pone de pie frente a una plancha de metal pulido. Se mira. El pelo oscuro, la cara más dura, **el traje de @Theron**. La que devuelve la mirada ya no se parece a nadie de su familia.
 
@@ -2601,13 +2617,13 @@ That's the idea.
 
 ---
 
-## SEC. 21 — EXT. ERDIA — PUERTO EN RUINAS — [ERDIA · AÑO 24] — DÍA
+## SEC. 21 — EXT. ERDIA — PUERTO EN RUINAS — [ERDIA · AÑO 20] — DÍA
 
-RÓTULO: **ERDIA · AÑO 24.**
+RÓTULO: **ERDIA · AÑO 20.**
 
 Lo que fue una ciudad dorada es hoy gris y partido en dos. Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca, un solo nombre tachado: **@STELLA.**
 
-Una nave pequeña aterriza entre la chatarra. Bajan **BROGU**, **@NIMA**, **@NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **@STELLA**, ~20. Camuflada en su propio mundo.
+Una nave pequeña aterriza entre la chatarra. Bajan **BROGU**, **@NIMA**, **@NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **@STELLA**, ~19. Camuflada en su propio mundo.
 
 Pasa entre la gente. Y la gente, sin reconocerla, la mira con el odio que el Rey les enseñó. Un viejo escupe al oír su nombre en otra conversación.
 
@@ -2623,7 +2639,7 @@ Un grupo de la resistencia los intercepta, los artefactos cargados y en alto. Al
 
 Le apunta con un artefacto de la resistencia. Ella se baja la capucha despacio. @Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden.
 
-Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinticuatro años, siempre pegada a su madre.
+Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinte años, siempre pegada a su madre.
 
 **@KORIN**
 *(la voz se le rompe)*
@@ -2663,7 +2679,7 @@ There's something you should know first. Your father is alive.
 Where.
 
 **@KORIN**
-Inside. In the service-level cells. Twenty-four years.
+Inside. In the service-level cells. Twenty years.
 *(beat)*
 We tried to get him out twice. Both times @Marek talked us out of it. Suicide, he said.
 And both times he was right… I suppose.
@@ -2677,7 +2693,7 @@ Silencio. @Korin y los veteranos cruzan miradas. A **@LESSA** se le cae la vista
 
 **@KORIN**
 *(despacio, como quien carga algo muy pesado)*
-@Stella. Your mother went into the palace ten years ago. For your sister.
+@Stella. Your mother went into the palace six years ago. For your sister.
 *(beat)*
 I was at the door. I saw it.
 *(la mira a los ojos)*
@@ -2687,10 +2703,10 @@ Quietud. @Stella no llora. No grita. Se queda muy quieta, como quien recibe un g
 
 **@STELLA**
 *(un hilo)*
-…Ten years ago.
+…Six years ago.
 
 **@KORIN**
-Less for you, I know. For us, ten winters.
+Less for you, I know. For us, six winters.
 
 @Stella cierra la mano —la de la llave— hasta que los nudillos se le ponen blancos.
 
@@ -2735,18 +2751,18 @@ Y él siente, bajo la piel de esa palma, la **llave de luz.** El Orbe. Latiendo.
 Se le llena el ojo bueno.
 
 **@NAIO**
-You came back. Twenty-four years.
+You came back. Twenty years.
 *(le busca el pelo con los dedos)*
 I told you never to let him have it, and… look at you. You kept it safe. Your whole life.
 
-*(Y entonces le cierra la mano sobre la llave. **El mismo gesto de hace veinticuatro años.**)*
+*(Y entonces le cierra la mano sobre la llave. **El mismo gesto de hace veinte años.**)*
 
 **@NAIO (CONT.)**
 My girl.
 
 *(Y después, muy despacio, con los dedos rotos y a través de los barrotes, **se la vuelve a abrir.**)*
 
-*(No dice nada más. No hace falta. Su mujer llevaba razón, y él acaba de tardar veinticuatro años en admitirlo.)*
+*(No dice nada más. No hace falta. Su mujer llevaba razón, y él acaba de tardar veinte años en admitirlo.)*
 
 @Stella se queda mirándose la palma abierta.
 
@@ -2758,7 +2774,7 @@ Why did he leave you alive?
 *(una sonrisa amarga)*
 Because I encrypted it into you. He thinks I know how to undo it.
 *(beat)*
-Twenty-four years of never settling that doubt. It's the only thing I've done right in here.
+Twenty years of never settling that doubt. It's the only thing I've done right in here.
 
 @Stella ahueca la otra mano. La luz le sale de la palma, controlada —y corta los grilletes, uno por uno. La primera vez en toda la película que el Orbe sirve para algo pequeño y bueno.
 
@@ -2783,7 +2799,7 @@ You're going to have to be nobody's father a while longer. Can you?
 
 @Naio cierra los ojos. Y asiente, con la boca todavía tapada.
 
-Ella le quita la mano despacio. Y él —que llevaba veinticuatro años esperando decir ese nombre— se lo traga.
+Ella le quita la mano despacio. Y él —que llevaba veinte años esperando decir ese nombre— se lo traga.
 
 **@NAIO**
 *(un susurro, para nadie)*
@@ -2907,7 +2923,7 @@ Apoya la palma abierta contra la placa. La luz se le concentra hasta iluminarle 
 
 Y **la cúspide del palacio revienta hacia arriba.**
 
-Debajo, **la boca del ducto.** Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinticuatro años.
+Debajo, **la boca del ducto.** Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinte años.
 
 Lo mira medio segundo.
 
@@ -2915,7 +2931,7 @@ Lo mira medio segundo.
 
 ---
 
-## SEC. 24 — INT. PALACIO IMPERIAL — DEL DUCTO A LA SALA DEL TRONO — CONTINUO
+## SEC. 24 — INT. PALACIO IMPERIAL — DEL DUCTO A LA SALA DEL TRONO *(la antigua SALA DEL ORBE)* — CONTINUO
 
 > *Arranca en el mismo movimiento en que cerró la 23B —la caída no se corta— y vuelve al plano con
 > el que abrió la película. Esta vez la cámara no se va: vemos lo que la apertura nos escondió.*
@@ -2932,7 +2948,19 @@ INT. SALA DEL TRONO — CONTINUO
 
 @Stella **sale disparada del techo** y cae veinte metros. El suelo la recibe mal. Se levanta rota.
 
+Y cuando levanta la cara, **reconoce el sitio.**
+
+Es **la misma sala.** La cámara donde estaba el Orbe. Donde el demoledor le reventó el piso. Donde se cortó la trenza para soltarse.
+
+**Donde su madre se quedó tirada.**
+
+Le han limpiado los escombros, le han puesto columnas nuevas y le han montado **un trono en el medio** — pero es esta. Es la habitación.
+
+*(No ha vuelto a un palacio. **Ha vuelto a la habitación.** Y él lleva veinte años sentado justo encima del agujero por el que se le escapó lo que quería.)*
+
 Al fondo, a treinta metros, **una figura de pelo blanco de espaldas a la luz.**
+
+*(Y ahora entiéndanla: está de pie en el sitio exacto donde vio morir a su madre, y hay una mujer de pelo blanco de espaldas al fondo. **Cualquiera se lo habría creído.**)*
 
 Y otra vez la vemos bajar las manos. Otra vez la vemos caminar hacia ella con las palmas abiertas. Y esta vez **sí oímos la palabra:**
 
@@ -2964,7 +2992,7 @@ No es @Vera. Nunca lo fue.
 
 @Stella se levanta del suelo con lo que le queda. Escupe. Y la mira de verdad.
 
-Las dos hermanas, frente a frente, por primera vez en veinticuatro años. Solo una de las dos lo sabe.
+Las dos hermanas, frente a frente, por primera vez en veinte años. Solo una de las dos lo sabe.
 
 **@SELKA**
 The thief. Back at the scene of the crime.
@@ -2996,7 +3024,7 @@ Ahueca la palma. Una **chispa de @Gix** baila en su mano. Y la levanta hacia la 
 
 El mismo gesto del parque. El día que la enseñó a caminar hacia la luz.
 
-@Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinticuatro años se remueve. Bajo la General, por un instante, asoma una niña.
+@Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinte años se remueve. Bajo la General, por un instante, asoma una niña.
 
 **@SELKA**
 *(un susurro, perdida)*
@@ -3012,7 +3040,7 @@ El Orbe sale de la palma de @Stella con un fogonazo. @Stella **se desploma.** No
 
 Y dentro de ella, algo se mueve.
 
-**@GIX** —lo que le queda desde hace veinticuatro años, desde el día en que se puso delante de un golpe que iba a acabar con— **se recoge entero alrededor de su corazón** y lo aprieta para que no se detenga.
+**@GIX** —lo que le queda desde hace veinte años, desde el día en que se puso delante de un golpe que iba a acabar con— **se recoge entero alrededor de su corazón** y lo aprieta para que no se detenga.
 
 *(Se sacrificó por ella a los catorce años. Y todavía la está sosteniendo.)*
 
@@ -3024,19 +3052,19 @@ Spread the word. The traitor has fallen.
 
 ---
 
-## SEC. 25 — INT. SALA DEL TRONO — CONTINUO
+## SEC. 25 — INT. SALA DEL TRONO *(la antigua SALA DEL ORBE)* — CONTINUO
 
 @Selka camina hacia la **consola** del trono. Coloca el Orbe en su lugar. Por fin. Va a devolverle la luz a Erdia. Va a ser la heroína que cree ser.
 
 Y la sala **se enciende de golpe.**
 
-Luz por todas partes después de veinticuatro años de penumbra. Y a @Selka se le llena la cara de una cosa que no se le ha visto en toda la película: **alegría.** Funcionó. Lo hizo ella.
+Luz por todas partes después de veinte años de penumbra. Y a @Selka se le llena la cara de una cosa que no se le ha visto en toda la película: **alegría.** Funcionó. Lo hizo ella.
 
 Le dura **medio segundo.**
 
 Porque del techo bajan los **RAYOS** —los mismos ocho hilos de luz durísima— y **caen sobre el Orbe.** Y **tiran.**
 
-*(La máquina no se enciende: **se reanuda.** Llevaba veinticuatro años clavada en el aire vacío, esperando que alguien le devolviera la pieza. Y se la acaba de devolver ella.)*
+*(La máquina no se enciende: **se reanuda.** Llevaba veinte años clavada en el aire vacío, esperando que alguien le devolviera la pieza. Y se la acaba de devolver ella.)*
 
 El Orbe late, se resiste, y empieza a **vaciarse hacia arriba.**
 
@@ -3113,7 +3141,7 @@ And she did. Looking you in the eye. Hating you with everything she had.
 Se detiene. Como si acabara de acordarse de algo divertido.
 
 **"@MAREK" (CONT.)**
-And why do you think I kept her little war going for twenty-four years?
+And why do you think I kept her little war going for twenty years?
 *(abre las manos, casi con ternura)*
 I couldn't cross the sky to fetch her. She had the Orb in her trace and she was a universe away.
 *(beat)*
@@ -3136,11 +3164,11 @@ You only arrived afterwards. To pick it up.
 
 Y ríe. Con la risita de una niña.
 
-@Selka retrocede, la cabeza negando sola. Veinticuatro años de certezas cayéndose de golpe.
+@Selka retrocede, la cabeza negando sola. Veinte años de certezas cayéndose de golpe.
 
 Ella **nunca mató a su madre.** Y su madre murió creyendo que sí.
 
-Y de golpe encaja lo otro: la mujer del pelo blanco tirada en su cuarto. La que nunca supo quién era. La que lleva diez años sin poder quitarse de la cabeza.
+Y de golpe encaja lo otro: la mujer del pelo blanco tirada en su cuarto. La que nunca supo quién era. La que lleva seis años sin poder quitarse de la cabeza.
 
 Y sin darse cuenta se lleva la mano al ojo izquierdo. A la cicatriz.
 
@@ -3189,7 +3217,7 @@ How many years have you been using me.
 
 **"@STELLA"**
 *(divertida, todavía con la voz de la otra)*
-Twenty-four.
+Twenty.
 
 **@SELKA**
 Then I know by heart how to obey.
@@ -3363,7 +3391,7 @@ Reacciona antes de entender: se incorpora de golpe y la mano que le queda sale d
 *(la voz destrozada)*
 Where is my sister.
 
-*(No pregunta dónde está ella. No pregunta quiénes son estos. Veinticuatro años, y **esa es la primera pregunta que hace por su cuenta.**)*
+*(No pregunta dónde está ella. No pregunta quiénes son estos. Veinte años, y **esa es la primera pregunta que hace por su cuenta.**)*
 
 **@NIMA**
 Two doors down. Asleep.
@@ -3394,7 +3422,7 @@ May I put it on?
 
 @Selka se le queda mirando.
 
-*(Veinticuatro años obedeciendo. Es la primera vez en su vida que alguien le pregunta **antes** de tocarla. Y no sabe cómo se responde a eso.)*
+*(Veinte años obedeciendo. Es la primera vez en su vida que alguien le pregunta **antes** de tocarla. Y no sabe cómo se responde a eso.)*
 
 **@SELKA**
 *(muy bajo)*
@@ -3440,8 +3468,8 @@ Wherever he goes.
 **@NAIO**
 Following isn't enough. When you catch him… do you know what he is? Do you know how you get inside?
 *(beat)*
-My wife worked it out ten years ago. She left it with me the night she died, because she knew I was the only one who could think it through.
-That ship has no foundations because it never needed any. I lived twenty-four years in its belly, listening to it breathe.
+My wife worked it out six years ago. She left it with me the night she died, because she knew I was the only one who could think it through.
+That ship has no foundations because it never needed any. I lived twenty years in its belly, listening to it breathe.
 *(ahora sí mira a @Theron)*
 I know where it opens.
 

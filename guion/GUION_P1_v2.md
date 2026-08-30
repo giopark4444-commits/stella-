@@ -22,14 +22,14 @@
 > • **EL EJÉRCITO IMPERIAL ES UNA MEZCLA, no una formación ordenada.** Salen modelos distintos
 >   revueltos —`@robot-c84`, `@robot-cyplop-s1s2`, **`@robot-s1g1`**, **`@robot-g45`**
 >   ⚠️*(tag pendiente)*, `@robot-dust-planet-hunter`— y eso
->   **es lo que se ve**: un imperio que lleva veinticuatro años peleando y saca lo que tiene.
+>   **es lo que se ve**: un imperio que lleva veinte años peleando y saca lo que tiene.
 >   El único con papel fijo es **`@robot-giant-demoledor`**, los tres metros que agachan la cabeza
 >   para pasar por una puerta.
 > • ⚠️ **`@robot-g44` NO SALE en la batalla de la plaza.** Decisión de Gio. Queda libre para otras
 >   secuencias.
 > • **S1G1 ES UN MODELO, NO UN INDIVIDUO.** En el año 0 hay **uno solo** —el asesino que mata a
 >   Vera, persigue a Stella por el ducto y revienta— y por eso allí es «un robot **distinto**».
->   Veinticuatro años después hay **muchos**, y salen en la plaza como uno más de la mezcla.
+>   Veinte años después hay **muchos**, y salen en la plaza como uno más de la mezcla.
 >   *(Y eso deja una posibilidad servida: que Stella se cruce en esa plaza con la misma cara de
 >   máquina que la persiguió a los catorce años, y siga sin poder pararse a mirarla.)*
 > • **Lo que sí se mantiene son las FUNCIONES**, repartidas entre los modelos que haya: algo aguanta
@@ -126,16 +126,16 @@
 > • **LO QUE BRILLA, SE ESCONDE.** Lo primero que hace Stella al despertar (SEC 10A) es comprobar que
 >   el resplandor azul sigue debajo del brazalete. Y lo último que hace en la escena, después de oír
 >   *«todo lo que brilla así se puede seguir»*, es **taparse la muñeca con la otra mano** hasta que
->   solo se le escapan rayas de luz entre los dedos. **Es la lección que le dura veinticuatro años.**
+>   solo se le escapan rayas de luz entre los dedos. **Es la lección que le dura veinte años.**
 > • **THARA ESTÁ DESDE LA PRIMERA ESCENA DEL ACTO 2**, medio paso detrás del hombro de Theron en la
 >   mesa. No habla. Su escena es la SEC 20C.
 > • **EL MONTAJE DE LOS AÑOS (SEC 20B) NO TIENE UNA SOLA PALABRA.** Solo música. 2:30–3:00 en seis
->   bloques de ~30s. Y no cuenta «pasaron seis años»: cuenta **una sola cosa** — que a Stella le sube
+>   bloques de ~30s. Y no cuenta «pasaron cinco años»: cuenta **una sola cosa** — que a Stella le sube
 >   la destreza al mismo ritmo que se le vacía la esperanza. Al final es la mejor de todos y ya no cree
 >   en nada. Tres relojes visibles y ningún rótulo hablado: **el pelo** (de rapada por la nuca a blanco
 >   hasta media espalda), **el mapa** del salón (1 → 12 → 31 → 58 luces, y **un punto del borde que
 >   nadie enciende nunca:** Erdia) y **el proyector** de Vera, que enciende en el año 4 **y ya no
->   enciende en el año 6**.
+>   enciende en el año 5**.
 > • **LA MANIOBRA ES LA COLUMNA DEL MONTAJE — y es la de la SEC 0.** Brogu rompe · Vosk se planta ·
 >   Hessa por arriba · Nima apaga la energía · Noah, Carl y Lucy tapan los flancos · Boro atrapa lo que
 >   escapa · **y por el hueco pasa Stella.** Se repite tres veces con años de diferencia: **sale
@@ -150,11 +150,11 @@
 >   ✅ Ya existe: `@space-port` · `@loc_space-port-view` · `@loc_space-port-lake`.
 > • **A THERON LO MANDA SU MUJER.** `@thara` ve lo que él no ve —«no está cansada: **está haciendo
 >   cuentas**»— y lo baja al lago con un encargo concreto: *«Tú llevas veinte mil años esperando y
->   sigues entero. Ella lleva seis y se está apagando. **Enséñale cómo se hace.**»* Y él hace lo
+>   sigues entero. Ella lleva cinco y se está apagando. **Enséñale cómo se hace.**»* Y él hace lo
 >   contrario: baja a enseñarle a esperar y **vuelve habiendo decidido dejar de esperar.** Thara los ve
 >   subir juntos y **no sonríe**.
-> • **LA CUENTA DE STELLA ES LA HERIDA DEL ACTO 3.** Dilatación **1:4**. Seis años suyos, veinticuatro
->   de Erdia. *«Cuando me fui, mi hermana tenía un año. Ahora tiene veinticinco. **Es mayor que yo.**»*
+> • **LA CUENTA DE STELLA ES LA HERIDA DEL ACTO 3.** Dilatación **1:4**. Cinco años suyos, veinte
+>   de Erdia. *«Cuando me fui, mi hermana tenía un año. Ahora tiene veintiuno. **Es mayor que yo.**»*
 >   Y por eso: *«Si vuelvo mañana llego tarde. Si vuelvo pasado, llego más tarde. **Nunca voy a llegar
 >   a tiempo.**»*
 > • **LO QUE THERON LE DA NO ES LO QUE ELLA PIDIÓ, y lo dice en voz alta:** *«No te voy a llevar a
@@ -217,12 +217,18 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • 🔒 **LA SALA DEL TRONO ES LA SALA DEL ORBE.** Es **la misma habitación**, veinte años después:
+>   `@loc_eridia-orbe-room` para el año 0 y su versión del año 20 para el clímax. No hace falta hoja
+>   de sala del trono. Y no es un ahorro de producción: **es la película.** Stella cae por el ducto y
+>   aterriza **en el sitio exacto donde vio morir a su madre.** Por eso, cuando ve al fondo una figura
+>   de pelo blanco de espaldas, **se lo cree** — y por eso baja la guardia. *(Y por eso el Rey le puso
+>   ahí su trono: se sentó encima del agujero por donde se le escapó lo que quería.)*
 > • **EL ORBE ES LA ÚNICA LUZ DE SU SALA.** Todo el mundo está silueteado contra lo que todos quieren,
 >   y cuando Stella se lo lleva **la sala se queda a oscuras** — y su madre se queda dentro.
 > • **GIX SE INVOCA, CRECE Y SE MONTA.** Sale del brazalete del tamaño de una mano —Vortham se ríe—
 >   y **crece hasta ser más grande que el demoledor** (`@GixGrande`). Stella **lo cabalga** hasta el
 >   Orbe. Después **se atraviesa** delante del golpe del Rey, se deshace, y **todas sus partículas
->   entran en el cuerpo de Stella**: ahí vive los veinticuatro años siguientes. Es también el origen
+>   entran en el cuerpo de Stella**: ahí vive los veinte años siguientes. Es también el origen
 >   de la **brasa** que Vortham ve en el clímax.
 > • **A STELLA LA REVIENTA EL DEMOLEDOR** justo antes de tocar el Orbe: un golpe que la manda a
 >   veinte metros y un **impacto contra el suelo que destruye el piso entero del salón**. De ahí sale
@@ -263,7 +269,7 @@
 >   Consecuencia para el clímax: la chispa que en la SEC 27 se le mete a Stella en el pecho para
 >   sostenerle el corazón **es Gix dándole otro trozo** — y la brasa que se apaga al final del film
 >   es **lo que le queda después de haber dado tanto**.
-> • **Erdia está destruido, pero es BONITO dentro de su propio caos.** El cielo del año 24 tiene
+> • **Erdia está destruido, pero es BONITO dentro de su propio caos.** El cielo del año 20 tiene
 >   estrellas de verdad, y el humo las atraviesa. La belleza y el desastre están en el mismo cuadro.
 > • **LAS NAVES QUE ATACAN SON `@ship-enemy-erdia` Y `@ship-4-enemyy`.** Oscuras y angulosas,
 >   formas de flecha, casi negras — **lo contrario de las erdianas**, que son doradas y redondeadas
@@ -307,7 +313,7 @@
 >   seis años. **Lo único que cambia es cómo se ven** — igual que ella.
 > • **Stella tiene propulsores en las botas** (y en la espalda del traje): vuela a ráfagas cortas, tipo
 >   traje de vuelo. Ya los usa a los 14 para escapar por el ducto (SEC 6) — es el mismo movimiento que
->   la sube por el palacio en la SEC 0 y la SEC 23, veinticuatro años después.
+>   la sube por el palacio en la SEC 0 y la SEC 23, veinte años después.
 > • **Vestuario de Stella, cuatro estados:** ropa civil (parque) → **armadura "04" de su padre**, con
 >   trenza y con la muñequera de color (lab/huida, año 0) → tras cortarse la trenza, la misma armadura con
 >   **pelo corto** → **traje de Nima**, ligero y a su medida y **sin muñequera** (SEC 16, año 3) →
@@ -370,7 +376,7 @@
 >   de mi cuarto»)*.
 > • **Selka NO es General en el año 14:** tiene 15 y sigue siendo **cadete**, pero con aposentos dentro
 >   del palacio y el apoyo exclusivo del Rey, que la cría él mismo. Por eso Vera puede encontrarla ahí.
-> • **El muelle (SEC 26):** Vortham sostuvo la resistencia 24 años para dejarle a Stella un sitio donde
+> • **El muelle (SEC 26):** Vortham sostuvo la resistencia 20 años para dejarle a Stella un sitio donde
 >   atracar al volver. No podía cruzar el cielo a buscar el Orbe; solo podía dejar la puerta abierta.
 >
 > **Revisión v2.2 (2026-08-17):**
@@ -381,7 +387,8 @@
 >   SEC 20A la Selka real descubre el arma en su propia mano, sin memoria de nada.
 > • **El acto 3 abre con el tinte y el permiso** (SEC 20B): Theron concede la misión de reconocimiento y
 >   Nima le tiñe el pelo. El pelo blanco es el rasgo de la línea de Vera: teñírselo es borrarse a su madre.
-> • **Erdia avanza 24 años** (antes 20): Stella vuelve de ~20, Selka tiene 25. Rótulos y diálogos al día.
+> • **Erdia avanza 20 años mientras Stella vive 5** (dilatación 1:4). Stella vuelve con **~19**;
+>   **Selka tiene 21** y sigue siendo mayor que ella. Rótulos y diálogos al día.
 > • **Los dos legados de Vera:** la **señal lanzada al vacío** (SEC 12; es lo que Theron le entrega a Stella
 >   en la SEC 18) y el descubrimiento de que **el palacio no tiene cimientos** (SEC 19; se lo confía a Naio,
 >   y es el arma de la Película 2).
@@ -394,7 +401,7 @@
 
 ---
 
-## SEC. 0 — EXT. PALACIO IMPERIAL — EL ASALTO — [ERDIA · AÑO 24] — ANOCHECER
+## SEC. 0 — EXT. PALACIO IMPERIAL — EL ASALTO — [ERDIA · AÑO 20] — ANOCHECER
 
 > *Apertura en frío, antes del título. Sin rótulo de año, sin nombres, sin una sola línea de diálogo.
 > El público no sabe quién es nadie. Solo entiende dos cosas: que están perdiendo, y que la están
@@ -454,7 +461,7 @@ Y entonces la cámara **se tira al suelo y mira hacia arriba.**
 
 **CONTRAPICADO EXTREMO.** Y por primera y única vez en la plaza, en el cuadro **solo hay dos cosas: ella y el cielo.**
 
-La figura encapuchada, de espaldas al mundo, con la cabeza levantada. Y encima de ella, **el cielo de Erdia en el año 24** — y es lo más bonito que se ve en toda la película.
+La figura encapuchada, de espaldas al mundo, con la cabeza levantada. Y encima de ella, **el cielo de Erdia en el año 20** — y es lo más bonito que se ve en toda la película.
 
 Estrellas de verdad, muchísimas, nítidas como no se ven desde ningún mundo vivo. Columnas de humo negro subiendo despacio y tapándolas a trozos. Y **cruzando entre las estrellas, en formación, las naves imperiales.**
 
@@ -592,7 +599,7 @@ Apoya la palma abierta contra la placa. La luz se le concentra hasta iluminarle 
 
 Y **la cúspide del palacio revienta hacia arriba.**
 
-El humo se despeja. Y debajo aparece **la boca de un ducto**. Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinticuatro años.
+El humo se despeja. Y debajo aparece **la boca de un ducto**. Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinte años.
 
 Stella lo mira medio segundo.
 
@@ -861,7 +868,7 @@ Stella la mira raro dos segundos. Y después hace lo que hace cualquier adolesce
 *(levantándose, sacudiéndose la hierba)*
 Ya. Vale.
 
-*(No es que no lo entienda. Es que hoy no le da la gana entenderlo. Le van a hacer falta veinticuatro años para volver a esta frase.)*
+*(No es que no lo entienda. Es que hoy no le da la gana entenderlo. Le van a hacer falta veinte años para volver a esta frase.)*
 
 Y entonces ve lo que su madre lleva a la espalda.
 
@@ -909,7 +916,7 @@ Stella **no se mueve.** No corre a levantarla. Se queda agachada donde está, co
 
 Y Selka se empuja con las manos, se pone de pie sola, se tambalea — y **hace los otros dos metros.**
 
-*(Guardar este plano. La película vuelve a él dentro de veinticuatro años. Y esa vez Stella va a levantar la misma mano con la misma luz — **y su hermana no va a venir.**)*
+*(Guardar este plano. La película vuelve a él dentro de veinte años. Y esa vez Stella va a levantar la misma mano con la misma luz — **y su hermana no va a venir.**)*
 
 Stella la atrapa y **la levanta en el aire.** Selka se ríe con toda la cara.
 
@@ -996,7 +1003,7 @@ Stella se cambia sin preguntar nada. Y mientras lo hace, hace también lo otro: 
 
 Del cinturón del traje asoma **un cuchillo láser** y, en la espalda y en las botas, **propulsores.** Su padre no le ha dado ropa: le ha dado un equipo.
 
-*(Y esos propulsores son los mismos con los que la vamos a ver subir doscientos metros de fachada dentro de veinticuatro años. Vuela con lo que le dio su padre.)*
+*(Y esos propulsores son los mismos con los que la vamos a ver subir doscientos metros de fachada dentro de veinte años. Vuela con lo que le dio su padre.)*
 
 Naio se acerca, baja la voz —como quien confiesa algo prohibido dentro de su propia casa.
 
@@ -1131,7 +1138,7 @@ Ese no.
 *(beat)*
 Ese lo cerró. Ese va a tener que abrirlo.
 
-*(Y ahí queda dicho, sin decirlo, por qué ese hombre va a seguir vivo veinticuatro años.)*
+*(Y ahí queda dicho, sin decirlo, por qué ese hombre va a seguir vivo veinte años.)*
 
 Vera arranca a Stella de ahí. Corren.
 
@@ -1245,7 +1252,7 @@ Stella lo ve desde el suelo. Y hace exactamente lo contrario de lo que le dijero
 
 empieza a **arrastrarse hacia su madre.**
 
-*(Le acaban de dar una sola regla y la rompe en el primer minuto. **Va a seguir rompiéndolas durante veinticuatro años.**)*
+*(Le acaban de dar una sola regla y la rompe en el primer minuto. **Va a seguir rompiéndolas durante veinte años.**)*
 
 Vortham la mira arrastrarse. Y se le suaviza la voz.
 
@@ -1306,7 +1313,7 @@ Y **la sala se queda a oscuras.**
 
 Arriba, los rayos siguen bajando —y ya no encuentran nada. Ocho hilos de luz clavados en **aire vacío.**
 
-*(La única luz que había aquí dentro se acaba de ir con ella. Y esa máquina se va a quedar así, tirando de la nada, **veinticuatro años.**)*
+*(La única luz que había aquí dentro se acaba de ir con ella. Y esa máquina se va a quedar así, tirando de la nada, **veinte años.**)*
 
 Vortham levanta la mano.
 
@@ -1322,7 +1329,7 @@ El animal de luz recibe el golpe entero. Y **se deshace.**
 
 Y todas sus partículas, en vez de dispersarse por el aire, **giran hacia ella y le entran por la palma izquierda** —por la misma llave por la que acaba de entrar el Orbe, unos segundos antes.
 
-*(Acaba de darle todo lo que era. A partir de este segundo **vive dentro de ella**, y ahí se va a quedar veinticuatro años.)*
+*(Acaba de darle todo lo que era. A partir de este segundo **vive dentro de ella**, y ahí se va a quedar veinte años.)*
 
 Y el Rey **salta.**
 
@@ -1374,7 +1381,7 @@ Y ve a **su hermana** — llorando, **en los brazos del hombre que acaba de hace
 
 Las ve por **última vez.**
 
-Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinticuatro años después va a volver a entrar por aquí, en dirección contraria.)*
+Aprieta los dientes. Entra al ducto. *(Recuérdenlo: veinte años después va a volver a entrar por aquí, en dirección contraria.)*
 
 **S1G1** se levanta, dispara sus propulsores y la persigue dentro del túnel, ganando terreno, a centímetros de sus botas.
 
@@ -1506,7 +1513,7 @@ Una niña a la que le dimos todo. Que prefirió quedarse con la luz de todos ant
 *(la palabra final, como una sentencia)*
 Stella. Ladrona. Traidora.
 
-*(Y ahí está lo peor de este hombre, y hay que rodarlo sabiéndolo: **acaba de condenar a esa niña con las palabras exactas de su madre.** «Dejarla correr» es la lección del parque, dicha esa misma mañana, a cuatro horas de aquí. Vortham no la ha oído nunca. Y aun así ha encontrado la única frase del universo que la va a perseguir veinticuatro años — porque es la frase verdadera, y **él es el único que la está incumpliendo**.)*
+*(Y ahí está lo peor de este hombre, y hay que rodarlo sabiéndolo: **acaba de condenar a esa niña con las palabras exactas de su madre.** «Dejarla correr» es la lección del parque, dicha esa misma mañana, a cuatro horas de aquí. Vortham no la ha oído nunca. Y aun así ha encontrado la única frase del universo que la va a perseguir veinte años — porque es la frase verdadera, y **él es el único que la está incumpliendo**.)*
 
 La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio.
 
@@ -1650,7 +1657,7 @@ No dice nada —no dice nada casi nunca—. Se acerca a la cabecera. Y con unas 
 
 Y se va él también.
 
-*(Mientras nueve personas discutían qué era, **uno se ocupó de que no estuviera incómoda.** Veinticuatro años después va a ser el que la saque cargada de un palacio.)*
+*(Mientras nueve personas discutían qué era, **uno se ocupó de que no estuviera incómoda.** Veinte años después va a ser el que la saque cargada de un palacio.)*
 
 La sala se queda vacía. Solo Nima, trabajando en silencio. Y la niña, que no ha oído nada de esto.
 
@@ -1725,7 +1732,7 @@ Y se **tapa el brazalete con la otra mano.**
 
 El azul se le apaga debajo de los dedos hasta que solo se le escapan **unas rayas finas de luz** entre los nudillos.
 
-*(Ahí acaba de aprender la lección que le va a durar veinticuatro años: **lo que brilla, se esconde.** Y por eso, dentro de veinticuatro años, cuando por fin lo saque a la luz en una sala del trono, ya será demasiado tarde.)*
+*(Ahí acaba de aprender la lección que le va a durar veinte años: **lo que brilla, se esconde.** Y por eso, dentro de veinte años, cuando por fin lo saque a la luz en una sala del trono, ya será demasiado tarde.)*
 
 Ella todavía no lo entiende: para ese hombre no es una niña perdida.
 
@@ -2340,7 +2347,7 @@ No dice nada. Pero algo ha cambiado: la mocosa que recogió acaba de salvar a qu
 
 Y en el otro extremo de la bahía, **NOAH, CARL y LUCY**, sentados en el suelo, sin nada, mirando el techo de una nave que no es suya.
 
-*(Los tres se suben ese día y **no se bajan nunca más.** Veinticuatro años después, tres de las personas que le abren el pasillo en esa plaza son tres que estaban en el mismo pozo que ella.)*
+*(Los tres se suben ese día y **no se bajan nunca más.** Veinte años después, tres de las personas que le abren el pasillo en esa plaza son tres que estaban en el mismo pozo que ella.)*
 
 Noah, vendándose una herida, no le quita los ojos de encima a Stella. Ella ni lo nota. Mira el cielo, hacia donde queda Erdia.
 
@@ -2626,7 +2633,7 @@ CORTE A NEGRO.
 
 ---
 
-## SEC. 20B — MONTAJE — "LOS AÑOS" — [STELLA: AÑO 1 → AÑO 6]
+## SEC. 20B — MONTAJE — "LOS AÑOS" — [STELLA: AÑO 1 → AÑO 5]
 
 > ⚠️ **SECUENCIA SIN UNA SOLA PALABRA.** Solo música. Ni diálogo, ni voz en off, ni rótulos hablados
 > —únicamente las **fichas de año** cuando hagan falta. **Duración objetivo 2:30–3:00**, en seis
@@ -2650,7 +2657,7 @@ CORTE A NEGRO.
 >
 > **EL RELOJ.** Le crece el pelo. Empieza el montaje **rapada por la nuca** —como se quedó al cortarse
 > la trenza a los catorce— y lo termina **largo y blanco hasta media espalda.** No hace falta nada más
-> para contar seis años.
+> para contar cinco años.
 
 **BLOQUE 1 · LA NOVATA — [AÑO 1]**
 
@@ -2722,7 +2729,7 @@ Se levanta despacio, de espaldas al fuego. La cara sin nada.
 
 Mapa: **cincuenta y ocho** luces.
 
-**BLOQUE 6 · LA CUENTA — [AÑO 6]** → **EL PUERTO**
+**BLOQUE 6 · LA CUENTA — [AÑO 5]** → **EL PUERTO**
 
 Noche en la Nodriza. Todos duermen.
 
@@ -2758,7 +2765,7 @@ La música llega a su final. La Nodriza atraca.
 
 ---
 
-## SEC. 20C — EXT. PUERTO ESTELAR — EL LAGO — [STELLA: AÑO 6 · ERDIA: AÑO 24]
+## SEC. 20C — EXT. PUERTO ESTELAR — EL LAGO — [STELLA: AÑO 5 · ERDIA: AÑO 20]
 
 > `@space-port` · `@loc_space-port-view` · `@loc_space-port-lake`. **Sin una sola fuente de luz dura:**
 > las caras van iluminadas **solo por las estrellas**, y el contraplano de cada una es el cielo entero.
@@ -2804,7 +2811,7 @@ Ve.
 **THARA**
 Nada. Siéntate al lado.
 *(le quita el vaso de la mano)*
-Tú llevas veinte mil años esperando y sigues entero. Ella lleva seis y se está apagando.
+Tú llevas veinte mil años esperando y sigues entero. Ella lleva cinco y se está apagando.
 *(beat)*
 **Enséñale cómo se hace.**
 
@@ -2821,17 +2828,33 @@ Uno a cuatro.
 Cada año que yo vivo, allá pasan cuatro.
 
 **THERON**
-Lo sé.
+Años.
+*(no la corrige; la traduce)*
+A lo que **ustedes** le llaman años.
+
+Stella lo mira por primera vez.
+
+**THERON (CONT.)**
+Mi gente no cuenta así. Ustedes cuentan **vueltas de una piedra alrededor de su sol** — y os parece que eso es el tiempo porque nacisteis encima de esa piedra.
+*(señala el cielo entero con la barbilla, sin prisa)*
+Nosotros contamos **lo que dura una cosa.** Una guerra. Un rastro. Una persona.
+*(beat)*
+Por eso, cuando digo veinte mil, no te estoy diciendo un número. Te estoy diciendo **lo que me ha durado esto.**
+
+*(Y ahí está su tragedia dicha de pasada: para él «veinte mil años» no es una cifra, **es la longitud de una sola cosa que todavía no ha terminado.**)*
 
 **STELLA**
-Llevo seis. Allá van veinticuatro.
+*(sin moverse)*
+Pues yo cuento vueltas.
+*(beat)*
+Llevo cinco. Allá van veinte.
 *(traga)*
 Cuando me fui, mi hermana tenía un año.
 
 Silencio.
 
 **STELLA (CONT.)**
-Ahora tiene veinticinco. Es **mayor que yo.**
+Ahora tiene veintiuno. Es **mayor que yo.**
 *(por fin lo mira)*
 Si vuelvo mañana, llego tarde. Si vuelvo pasado, llego más tarde. **Nunca voy a llegar a tiempo.** Salga como salga.
 
@@ -2970,7 +2993,7 @@ Stella se lo pone. Y el material le corre por los brazos hasta las muñecas —
 
 Más finos. Más limpios. Encajados en el traje como si siempre hubieran sido parte de él.
 
-*(Son **los mismos de siempre.** Los que le puso su padre a los catorce. No se los ha quitado ni un día en seis años. **Lo único que ha cambiado es cómo se ven** — igual que ella.)*
+*(Son **los mismos de siempre.** Los que le puso su padre a los catorce. No se los ha quitado ni un día en cinco años. **Lo único que ha cambiado es cómo se ven** — igual que ella.)*
 
 Se pone de pie frente a una plancha de metal pulido. Se mira. El pelo oscuro, la cara más dura, **el traje de Theron**. La que devuelve la mirada ya no se parece a nadie de su familia.
 
@@ -2985,13 +3008,13 @@ De eso se trata.
 
 ---
 
-## SEC. 21 — EXT. ERDIA — PUERTO EN RUINAS — [ERDIA · AÑO 24] — DÍA
+## SEC. 21 — EXT. ERDIA — PUERTO EN RUINAS — [ERDIA · AÑO 20] — DÍA
 
-RÓTULO: **ERDIA · AÑO 24.**
+RÓTULO: **ERDIA · AÑO 20.**
 
 Lo que fue una ciudad dorada es hoy gris y partido en dos. Niebla. Soldados. Murales del Rey por todas partes, y debajo, pintado con bronca, un solo nombre tachado: **STELLA.**
 
-Una nave pequeña aterriza entre la chatarra. Bajan **BROGU**, **NIMA**, **NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **STELLA**, ~20. Camuflada en su propio mundo.
+Una nave pequeña aterriza entre la chatarra. Bajan **BROGU**, **NIMA**, **NOAH** —y una mujer joven con el **pelo teñido de oscuro**, encapuchada. **STELLA**, ~19. Camuflada en su propio mundo.
 
 Pasa entre la gente. Y la gente, sin reconocerla, la mira con el odio que el Rey les enseñó. Un viejo escupe al oír su nombre en otra conversación.
 
@@ -3007,7 +3030,7 @@ Un grupo de la resistencia los intercepta, los artefactos cargados y en alto. Al
 
 Le apunta con un artefacto de la resistencia. Ella se baja la capucha despacio. Korin la mira a la cara —no la reconoce. El pelo no es el de ella. Va a dar la orden.
 
-Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinticuatro años, siempre pegada a su madre.
+Y entonces, bajo el pelo teñido, **reconoce su cara** —la niña que conoció hace veinte años, siempre pegada a su madre.
 
 **KORIN**
 *(la voz se le rompe)*
@@ -3047,7 +3070,7 @@ Hay algo que debes saber antes. Tu padre está vivo.
 ¿Dónde.
 
 **KORIN**
-Adentro. En las celdas del nivel de servicio. Veinticuatro años.
+Adentro. En las celdas del nivel de servicio. Veinte años.
 *(beat)*
 Lo intentamos sacar dos veces. Las dos veces Marek nos convenció de que era suicidio.
 Y las dos veces tuvo razón… supongo.
@@ -3061,7 +3084,7 @@ Silencio. Korin y los veteranos cruzan miradas. A **LESSA** se le cae la vista a
 
 **KORIN**
 *(despacio, como quien carga algo muy pesado)*
-Stella. Tu madre entró al palacio hace diez años. Por tu hermana.
+Stella. Tu madre entró al palacio hace seis años. Por tu hermana.
 *(beat)*
 Yo estaba en la puerta. Lo vi.
 *(la mira a los ojos)*
@@ -3071,10 +3094,10 @@ Quietud. Stella no llora. No grita. Se queda muy quieta, como quien recibe un go
 
 **STELLA**
 *(un hilo)*
-…¿Hace diez años.
+…¿Hace seis años.
 
 **KORIN**
-Para ti menos, ya lo sé. Para nosotros, diez inviernos.
+Para ti menos, ya lo sé. Para nosotros, seis inviernos.
 
 Stella cierra la mano —la de la llave— hasta que los nudillos se le ponen blancos.
 
@@ -3119,18 +3142,18 @@ Y él siente, bajo la piel de esa palma, la **llave de luz.** El Orbe. Latiendo.
 Se le llena el ojo bueno.
 
 **NAIO**
-Volviste. Veinticuatro años.
+Volviste. Veinte años.
 *(le busca el pelo con los dedos)*
 Te dije que no dejaras que él lo tuviera, y… mírate. Lo cuidaste. Toda tu vida.
 
-*(Y entonces le cierra la mano sobre la llave. **El mismo gesto de hace veinticuatro años.**)*
+*(Y entonces le cierra la mano sobre la llave. **El mismo gesto de hace veinte años.**)*
 
 **NAIO (CONT.)**
 Mi niña.
 
 *(Y después, muy despacio, con los dedos rotos y a través de los barrotes, **se la vuelve a abrir.**)*
 
-*(No dice nada más. No hace falta. Su mujer llevaba razón, y él acaba de tardar veinticuatro años en admitirlo.)*
+*(No dice nada más. No hace falta. Su mujer llevaba razón, y él acaba de tardar veinte años en admitirlo.)*
 
 Stella se queda mirándose la palma abierta.
 
@@ -3142,7 +3165,7 @@ Stella se queda mirándose la palma abierta.
 *(una sonrisa amarga)*
 Porque yo lo encripté en ti. Cree que yo sé cómo deshacerlo.
 *(beat)*
-Veinticuatro años sin sacarlo de la duda. Es lo único que he hecho bien aquí adentro.
+Veinte años sin sacarlo de la duda. Es lo único que he hecho bien aquí adentro.
 
 Stella ahueca la otra mano. La luz le sale de la palma, controlada —y corta los grilletes, uno por uno. La primera vez en toda la película que el Orbe sirve para algo pequeño y bueno.
 
@@ -3167,7 +3190,7 @@ Vas a tener que ser un viejo cualquiera un rato más. ¿Puedes?
 
 Naio cierra los ojos. Y asiente, con la boca todavía tapada.
 
-Ella le quita la mano despacio. Y él —que llevaba veinticuatro años esperando decir ese nombre— se lo traga.
+Ella le quita la mano despacio. Y él —que llevaba veinte años esperando decir ese nombre— se lo traga.
 
 **NAIO**
 *(un susurro, para nadie)*
@@ -3291,7 +3314,7 @@ Apoya la palma abierta contra la placa. La luz se le concentra hasta iluminarle 
 
 Y **la cúspide del palacio revienta hacia arriba.**
 
-Debajo, **la boca del ducto.** Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinticuatro años.
+Debajo, **la boca del ducto.** Estrecho. Negro. Con las paredes todavía quemadas por una explosión de hace veinte años.
 
 Lo mira medio segundo.
 
@@ -3299,7 +3322,7 @@ Lo mira medio segundo.
 
 ---
 
-## SEC. 24 — INT. PALACIO IMPERIAL — DEL DUCTO A LA SALA DEL TRONO — CONTINUO
+## SEC. 24 — INT. PALACIO IMPERIAL — DEL DUCTO A LA SALA DEL TRONO *(la antigua SALA DEL ORBE)* — CONTINUO
 
 > *Arranca en el mismo movimiento en que cerró la 23B —la caída no se corta— y vuelve al plano con
 > el que abrió la película. Esta vez la cámara no se va: vemos lo que la apertura nos escondió.*
@@ -3316,7 +3339,19 @@ INT. SALA DEL TRONO — CONTINUO
 
 Stella **sale disparada del techo** y cae veinte metros. El suelo la recibe mal. Se levanta rota.
 
+Y cuando levanta la cara, **reconoce el sitio.**
+
+Es **la misma sala.** La cámara donde estaba el Orbe. Donde el demoledor le reventó el piso. Donde se cortó la trenza para soltarse.
+
+**Donde su madre se quedó tirada.**
+
+Le han limpiado los escombros, le han puesto columnas nuevas y le han montado **un trono en el medio** — pero es esta. Es la habitación.
+
+*(No ha vuelto a un palacio. **Ha vuelto a la habitación.** Y él lleva veinte años sentado justo encima del agujero por el que se le escapó lo que quería.)*
+
 Al fondo, a treinta metros, **una figura de pelo blanco de espaldas a la luz.**
+
+*(Y ahora entiéndanla: está de pie en el sitio exacto donde vio morir a su madre, y hay una mujer de pelo blanco de espaldas al fondo. **Cualquiera se lo habría creído.**)*
 
 Y otra vez la vemos bajar las manos. Otra vez la vemos caminar hacia ella con las palmas abiertas. Y esta vez **sí oímos la palabra:**
 
@@ -3348,7 +3383,7 @@ No es Vera. Nunca lo fue.
 
 Stella se levanta del suelo con lo que le queda. Escupe. Y la mira de verdad.
 
-Las dos hermanas, frente a frente, por primera vez en veinticuatro años. Solo una de las dos lo sabe.
+Las dos hermanas, frente a frente, por primera vez en veinte años. Solo una de las dos lo sabe.
 
 **SELKA**
 La ladrona. Volviste a la escena del crimen.
@@ -3380,7 +3415,7 @@ Ahueca la palma. Una **chispa de Gix** baila en su mano. Y la levanta hacia la c
 
 El mismo gesto del parque. El día que la enseñó a caminar hacia la luz.
 
-Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinticuatro años se remueve. Bajo la General, por un instante, asoma una niña.
+Selka se **congela.** La hoja tiembla en el aire. Su cuerpo reconoce ese gesto —esa seguridad— **antes** de que su mente entienda de dónde. Algo enterrado veinte años se remueve. Bajo la General, por un instante, asoma una niña.
 
 **SELKA**
 *(un susurro, perdida)*
@@ -3396,7 +3431,7 @@ El Orbe sale de la palma de Stella con un fogonazo. Stella **se desploma.** No m
 
 Y dentro de ella, algo se mueve.
 
-**GIX** —lo que le queda desde hace veinticuatro años, desde el día en que se puso delante de un golpe que iba a matarla— **se recoge entero alrededor de su corazón** y lo aprieta para que no se detenga.
+**GIX** —lo que le queda desde hace veinte años, desde el día en que se puso delante de un golpe que iba a matarla— **se recoge entero alrededor de su corazón** y lo aprieta para que no se detenga.
 
 *(Se sacrificó por ella a los catorce años. Y todavía la está sosteniendo.)*
 
@@ -3408,19 +3443,19 @@ Cuéntenlo. La traidora cayó.
 
 ---
 
-## SEC. 25 — INT. SALA DEL TRONO — CONTINUO
+## SEC. 25 — INT. SALA DEL TRONO *(la antigua SALA DEL ORBE)* — CONTINUO
 
 Selka camina hacia la **consola** del trono. Coloca el Orbe en su lugar. Por fin. Va a devolverle la luz a Erdia. Va a ser la heroína que cree ser.
 
 Y la sala **se enciende de golpe.**
 
-Luz por todas partes después de veinticuatro años de penumbra. Y a Selka se le llena la cara de una cosa que no se le ha visto en toda la película: **alegría.** Funcionó. Lo hizo ella.
+Luz por todas partes después de veinte años de penumbra. Y a Selka se le llena la cara de una cosa que no se le ha visto en toda la película: **alegría.** Funcionó. Lo hizo ella.
 
 Le dura **medio segundo.**
 
 Porque del techo bajan los **RAYOS** —los mismos ocho hilos de luz durísima— y **caen sobre el Orbe.** Y **tiran.**
 
-*(La máquina no se enciende: **se reanuda.** Llevaba veinticuatro años clavada en el aire vacío, esperando que alguien le devolviera la pieza. Y se la acaba de devolver ella.)*
+*(La máquina no se enciende: **se reanuda.** Llevaba veinte años clavada en el aire vacío, esperando que alguien le devolviera la pieza. Y se la acaba de devolver ella.)*
 
 El Orbe late, se resiste, y empieza a **vaciarse hacia arriba.**
 
@@ -3497,7 +3532,7 @@ Y se fue. Mirándote a los ojos. Odiándote con toda el alma.
 Se detiene. Como si acabara de acordarse de algo divertido.
 
 **"MAREK" (CONT.)**
-¿Y para qué crees que le sostuve la guerrita veinticuatro años?
+¿Y para qué crees que le sostuve la guerrita veinte años?
 *(abre las manos, casi con ternura)*
 Yo no podía cruzar el cielo a buscarla. Ella tenía el Orbe metido en la sangre y estaba a un universo de distancia.
 *(beat)*
@@ -3520,11 +3555,11 @@ Tú solo llegaste después. A recogerlo.
 
 Y ríe. Con la risita de una niña.
 
-Selka retrocede, la cabeza negando sola. Veinticuatro años de certezas cayéndose de golpe.
+Selka retrocede, la cabeza negando sola. Veinte años de certezas cayéndose de golpe.
 
 Ella **nunca mató a su madre.** Y su madre murió creyendo que sí.
 
-Y de golpe encaja lo otro: la mujer del pelo blanco tirada en su cuarto. La que nunca supo quién era. La que lleva diez años sin poder quitarse de la cabeza.
+Y de golpe encaja lo otro: la mujer del pelo blanco tirada en su cuarto. La que nunca supo quién era. La que lleva seis años sin poder quitarse de la cabeza.
 
 Y sin darse cuenta se lleva la mano al ojo izquierdo. A la cicatriz.
 
@@ -3573,7 +3608,7 @@ Se levanta. Recoge su hoja de luz del suelo.
 
 **"STELLA"**
 *(divertida, todavía con la voz de la otra)*
-Veinticuatro.
+Veinte.
 
 **SELKA**
 Entonces ya sé de memoria cómo se obedece.
@@ -3747,7 +3782,7 @@ Reacciona antes de entender: se incorpora de golpe y la mano que le queda sale d
 *(la voz destrozada)*
 ¿Dónde está mi hermana.
 
-*(No pregunta dónde está ella. No pregunta quiénes son estos. Veinticuatro años, y **esa es la primera pregunta que hace por su cuenta.**)*
+*(No pregunta dónde está ella. No pregunta quiénes son estos. Veinte años, y **esa es la primera pregunta que hace por su cuenta.**)*
 
 **NIMA**
 Dos puertas más allá. Dormida.
@@ -3778,7 +3813,7 @@ Te va a doler tres semanas y después va a ser tuya.
 
 Selka se le queda mirando.
 
-*(Veinticuatro años obedeciendo. Es la primera vez en su vida que alguien le pregunta **antes** de tocarla. Y no sabe cómo se responde a eso.)*
+*(Veinte años obedeciendo. Es la primera vez en su vida que alguien le pregunta **antes** de tocarla. Y no sabe cómo se responde a eso.)*
 
 **SELKA**
 *(muy bajo)*
@@ -3824,8 +3859,8 @@ Adonde vaya.
 **NAIO**
 Seguirlo no basta. Cuando lo alcances… ¿sabes qué es? ¿Sabes cómo se le entra?
 *(beat)*
-Mi mujer lo entendió hace diez años. Me lo dejó guardado la noche que murió, porque sabía que yo era el único que podía pensarlo.
-Esa nave no tiene cimientos porque nunca los necesitó. Yo viví veinticuatro años en sus tripas, oyéndola respirar.
+Mi mujer lo entendió hace seis años. Me lo dejó guardado la noche que murió, porque sabía que yo era el único que podía pensarlo.
+Esa nave no tiene cimientos porque nunca los necesitó. Yo viví veinte años en sus tripas, oyéndola respirar.
 *(ahora sí mira a Theron)*
 Yo sé por dónde se abre.
 

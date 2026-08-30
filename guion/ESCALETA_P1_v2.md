@@ -2,10 +2,10 @@
 
 > Secuencia por secuencia, en orden de pantalla. Síntesis del `GUION_P1_v2.md` (revisión v2.5, 2026-08-28).
 > Estructura 起承転結. 🔒 El cambio de forma de Vortham es SECRETO hasta el clímax.
-> Marcadores **[ERDIA · AÑO X]** = saltos rotulados. (1 año de Stella = 4 de Erdia; **Erdia avanza 24 años**.)
+> Marcadores **[ERDIA · AÑO X]** = saltos rotulados. (1 año de Stella = 4 de Erdia; **Erdia avanza 20 años**.)
 > **Cambios v2.6 (2026-08-28):** **LAS DOS MANOS** — Vera le cierra el puño en el parque para enseñarle
 > que lo atrapado se muere; Naio le cierra **la misma mano** una hora después para decirle lo contrario;
-> y en la SEC 29, veinticuatro años más tarde, **el padre se la vuelve a abrir**. La llave va en la
+> y en la SEC 29, veinte años más tarde, **el padre se la vuelve a abrir**. La llave va en la
 > **palma izquierda, siempre** (el brazalete es de Gix). **SEC 2 reescrita**: Stella adolescente, la
 > carrera a dos alturas con su madre, la lección de la mano, y Selka caminando hacia ella. **Gix está
 > hecho de partículas**: se deshace y se rehace, y le presta puñados de sí mismo. **SEC 3**: llega con
@@ -148,7 +148,7 @@ tripulación. La maniobra sale torcida, después funciona, después la hacen sin
 pelo, se llena el mapa, y el proyector de su madre deja de encenderse. Termina llegando al puerto.
 
 **14c. El puerto estelar (SEC 20C).** Thara ve que Stella «está haciendo cuentas» y baja a Theron al
-lago. La cuenta: 1:4, seis años suyos, veinticuatro de Erdia, y una hermana que ahora es mayor que
+lago. La cuenta: 1:4, seis años suyos, veinte de Erdia, y una hermana que ahora es mayor que
 ella. Theron confiesa que lo de la longevidad del Rey no lo dejó dormir, y decide la misión: «Te voy
 a llevar a mirar a tu rey.»
 
@@ -156,19 +156,19 @@ a llevar a mirar a tu rey.»
 **Nima le tiñe el pelo** — el pelo blanco es el rasgo de la línea de Vera; teñírselo es borrarse a su
 madre para poder volver a casa. En el metal pulido, la que devuelve la mirada ya es una adulta.
 
-**16. [ERDIA · AÑO 24] El regreso.** Stella (~20, **pelo teñido**) baja con Brogu, Nima, Noah.
+**16. [ERDIA · AÑO 20] El regreso.** Stella (~19, **pelo teñido**) baja con Brogu, Nima, Noah.
 **La odian** (la hereje "que estancó la luz"); **Korin la reconoce por la cara** bajo el tinte. Erdia
 **dividida**; huele a guerra. **Vosk ruega a Theron** poder entrar a ayudarla.
 
 **17. El refugio — el plan y la verdad.** Korin: **"Tu padre está vivo. En las celdas del palacio.
-Veinticuatro años."** Nunca lo sacaron — *Marek siempre los convenció de que era suicidio*. Y la verdad
-que Naio no habría podido decirle: **"Tu madre murió hace diez años. En los brazos de tu hermana. Yo
+Veinte años."** Nunca lo sacaron — *Marek siempre los convenció de que era suicidio*. Y la verdad
+que Naio no habría podido decirle: **"Tu madre murió hace seis años. En los brazos de tu hermana. Yo
 estaba en la puerta."** Stella, con una calma que da miedo: "Ustedes hagan todo el ruido del mundo.
 **Yo entro por abajo. Por mi padre.**"
 
 **18. El asalto / el rescate / la subida.** La guerra estalla: es la distracción. Stella y Noah bajan a
 las **celdas** — el mismo camino de Vera. Reencuentro: Naio la reconoce **por la llave de luz** en su
-palma. **Le cierra la mano sobre la llave —el gesto de hace 24 años— y después se la vuelve a abrir.** "¿Por qué te dejó vivo?" — *"Porque yo lo encripté en ti. Cree que sé cómo
+palma. **Le cierra la mano sobre la llave —el gesto de hace 20 años— y después se la vuelve a abrir.** "¿Por qué te dejó vivo?" — *"Porque yo lo encripté en ti. Cree que sé cómo
 deshacerlo."* Ella le corta los grilletes con el Orbe y, cuando él va a gritar su nombre, **le tapa la
 boca**: "No digas quién soy" (el planeta aún la cree la ladrona). Naio se traga el nombre… y también
 la verdad sobre Vera que ella ya sabe. Entrega a Naio a Noah y Brogu — y **rompe su promesa**: escala
@@ -191,7 +191,7 @@ cobra vida y despega — SIEMPRE fue la NAVE de Vortham** (el "meteorito"). *(Ve
 Vera** ("seis meses de cama, catorce años de causa"), la usó de bandera, y **cuando Selka estuvo
 terminada, ella dejó de hacer falta** — pudo borrarla en un minuto, pero **quiso verla irse despacio,
 creyendo que su hija la mataba**; y remata con **la resistencia entera como cebo**: no podía cruzar el
-cielo a buscar el Orbe, así que **le sostuvo la guerrita veinticuatro años para dejarle a Stella un
+cielo a buscar el Orbe, así que **le sostuvo la guerrita veinte años para dejarle a Stella un
 muelle donde atracar** *(y por eso Selka la esperaba de pie "como si supiera que iba a venir")*. Y con la
 cara de **Selka niña**: *"La maté yo, vistiendo tu rostro. Te puse el cuchillo en la mano sin que lo
 supieras."* Selka encaja por fin quién era la mujer de su cuarto — demasiado tarde. **"ERA NUESTRA MADRE."**
@@ -209,7 +209,7 @@ seguir devorando. Vortham **no persigue** (su prioridad es partir). **Theron:** 
 llevarlo."*
 
 **24. Cierre.** Enfermería: **Stella en coma + Selka manca + Naio rescatado**. Naio a Theron: *"Seguirlo
-no basta. ¿Sabes qué es? Mi mujer lo entendió hace diez años… **Yo sé por dónde se abre.**"* (el legado
+no basta. ¿Sabes qué es? Mi mujer lo entendió hace seis años… **Yo sé por dónde se abre.**"* (el legado
 de Vera = el arma de la P2). Selka pide perdón; Naio la perdona con la mano. Y por fin **dice el nombre
 en voz alta**: *"Se llama Stella. Es mi hija. Ya puedo decirlo."* La mano de Selka en el cristal:
 *"No sabía que eras tú. Despierta y déjame decírtelo a la cara."* Adentro, **Gix sigue sosteniendo el

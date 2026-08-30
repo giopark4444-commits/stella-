@@ -114,7 +114,7 @@ How would the youngest hunter in a scrap-planet gang look, too eager and not goo
 
 # 転結 ACTO 3
 
-### @StellaTeñida — @Stella, ~20, camuflada
+### @StellaTeñida — @Stella, ~19, camuflada
 How would a young alien woman look, returning in disguise to a world that hates her? Show me 4 examples. Ghibly style and water color painting.
 
 ### @NaioRescatado — @Naio liberado

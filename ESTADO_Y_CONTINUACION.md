@@ -60,7 +60,7 @@
   por arriba).
 - **MÉTODOS DE CÁMARA — solo cuatro:** `dolly` · `steadycam` · `brazo mecánico` · `POV de dron`, y los
   planos lo más largos posibles. ⚠️ **Nunca cámara en mano**, nunca temblor de operador.
-- **Erdia destruido pero BONITO dentro de su caos:** el cielo del año 24 tiene estrellas nítidas y el
+- **Erdia destruido pero BONITO dentro de su caos:** el cielo del año 20 tiene estrellas nítidas y el
   humo las atraviesa. Belleza y desastre en el mismo cuadro.
 - **EL CONTRAPICADO (0:16–0:20):** único plano de la plaza donde solo hay dos cosas en cuadro, **ella y
   el cielo**. Es donde aparecen las naves por primera vez y donde se ve la belleza del planeta muerto.
@@ -105,11 +105,11 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
 - **Fuera la nana** de todo el guion: en SEC 20A el remate es el pelo blanco de la muerta; en SEC 26,
   encajar quién era («la del piso, la de mi cuarto»).
 - **Selka es CADETE en el año 14**, no General (15 años, aposentos en el palacio, criada por el Rey).
-- **El muelle (SEC 26):** Vortham sostuvo la resistencia 24 años para dejarle a Stella dónde atracar.
+- **El muelle (SEC 26):** Vortham sostuvo la resistencia 20 años para dejarle a Stella dónde atracar.
 - Hojas nuevas: `@Selka9`, `@Selka9Herida`, `@SalaEntrenamiento`, `@AutomataInstruccion`.
 
 **Cambios v2.2:**
-- **Naio es PRISIONERO DEL PALACIO** (celdas del nivel de servicio) los 24 años — **nunca estuvo en las minas**.
+- **Naio es PRISIONERO DEL PALACIO** (celdas del nivel de servicio) los 20 años — **nunca estuvo en las minas**.
   Vortham lo conserva porque él encriptó el Orbe y es el único que podría saber cómo extraerlo.
 - **La noche del año 14 ocurre entera dentro del palacio:** Marek le abre a Vera una reja de servicio;
   Vera ve a Naio en las celdas y sube por Selka.
@@ -118,7 +118,7 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
   el arma en su propia mano, sin memoria. *(La nana se eliminó en v2.3.)*
 - **El acto 3 abre con la SEC 20B (el tinte y el permiso):** Theron concede la misión ("Bajas. Miras.
   Subes."), Nima le tiñe el pelo. Transición en pantalla de @StellaPeloCorto → @StellaTeñida.
-- **Erdia avanza 24 años** (antes 20): Stella vuelve de **~20**, **Selka tiene 25**. Rótulo `AÑO 24`.
+- **Erdia avanza 20 años** (antes 20): Stella vuelve de **~19**, **Selka tiene 21**. Rótulo `AÑO 20`.
 - **Los dos legados de Vera:** (1) la **señal lanzada al vacío** (SEC 12) — es lo que Theron le entrega a
   Stella en la SEC 18 (reemplaza a la "foto/proyector" antigua); (2) **"el palacio no tiene cimientos"**
   (SEC 19) — se lo confía a Naio, y en la SEC 29 Naio se lo ofrece a Theron: *"Yo sé por dónde se abre"*
