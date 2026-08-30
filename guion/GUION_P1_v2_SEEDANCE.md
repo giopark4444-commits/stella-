@@ -217,6 +217,19 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • 🔒 **EL RESCATE LO ABRE @STELLA, NO LA CASUALIDAD.** ⚠️ La brasa de @Gix deja de ser un adorno que
+>   Vortham descubre por suerte. En la SEC 27, con Vortham golpeando a @Selka contra la cubierta,
+>   **@Stella —a la que dimos por muerta en la SEC 26— abre los ojos.** No puede levantarse ni gritar,
+>   **pero le queda una muñeca** (por eso son dos brazaletes), y **manda fuera un puñado de @Gix** —
+>   palabra por palabra lo mismo que hizo en el parque para que su hermana caminara hacia ella.
+>   Vortham se para porque **él mató a esa cosa en esta misma habitación hace veinte años**; baja los
+>   ojos, y **ella lo está mirando.** *(Quería verla morir creyendo que su madre vino por ella, y se
+>   muere sabiendo qué es él: le robaron lo único que quería.)* **Ese segundo es el que le cuesta las dos.**
+> • **Y @GIX CRECE UNA ÚLTIMA VEZ — mal, a tirones, medio axolote— para TAPAR LA BRECHA** por la que
+>   tienen que salir los cuatro. Las máquinas se le echan encima **a él.** Al saltar, se deshace y
+>   **las partículas vuelven a la palma izquierda de @Stella: menos de las que salieron.** 🔒 Con eso
+>   **la brasa del tanque queda explicada sin decirla:** no se apaga sola, **se apaga porque ella la
+>   gastó** — y el reloj de su vida en la Película 2 **lo puso ella misma.**
 > • 🔒 **@STELLA NO SALTA. SE ENCIENDE.** ⚠️ Se retiró el hipersalto de la SEC 8. Su nave **se queda
 >   muerta y flotando** en mitad del vacío, sin motores y sin oxígeno. Ella pone la palma en el tablero
 >   por desesperación y la nave **no se mueve**: toda esa energía **sale**, y ese punto diminuto se
@@ -3700,89 +3713,159 @@ Y camina hasta **@Stella.**
 
 Su obra maestra: dos hermanas rotas en el mismo piso. Una que lo hizo todo por amor y otra que lo hizo todo por él.
 
-Y entonces ve, bajo la piel del pecho de @Stella, un **resplandor tenue.** Latiendo.
+Y **@Stella abre los ojos.**
 
-No está muerta.
+*(La dimos por muerta hace un minuto. Se fue en paz creyendo que su madre vino por ella. **Y no se fue.** Lleva todo este rato en el suelo, sin poder moverse, **oyendo cómo golpean a su hermana contra el metal.**)*
 
-Por primera vez en toda la película, esa cosa se queda **absolutamente quieta.**
+No puede levantarse: le cruzaron la espalda. No puede llegar. No puede ni gritar.
+
+Pero le queda **una muñeca.**
+
+Y la mueve.
+
+Los dedos le llegan al **brazalete** — y lo tocan.
+
+*(Por eso son dos. **Con el brazo que tenga libre, le basta.**)*
+
+Y del pecho de @Stella **se desprende un puñado de sí mismo.**
+
+Unas cuantas partículas. Casi nada. Ni un axolote, ni un gigante: **un puñado de luz** saliendo de una mujer que se está apagando.
+
+*(Palabra por palabra, lo mismo que hizo en un parque hace veinte años **para que su hermana caminara hacia ella.**)*
+
+Vortham se queda **absolutamente quieto.**
+
+Por primera vez en toda la película.
 
 **VORTHAM**
 *(muy bajo, para sí)*
 …Eso no estaba ahí.
 
-La muerte que se dio el gusto de mirar, la agonía con la que jugó —no ocurrió. Algo diminuto, dentro de la niña, le arruinó el placer. Y no sabe qué es.
+Porque él mató a esa cosa. **En esta habitación.** Hace veinte años. Y la muerte que se dio el gusto de mirar —la agonía con la que jugó— no ocurrió.
 
-**Y ese segundo que se queda mirando es el que le cuesta las dos.**
+Baja los ojos.
 
-Porque el mamparo revienta **hacia adentro.**
+Y **@Stella lo está mirando.**
 
-Entra **@VOSK** el primero. Y no ataca: **se planta.** Clava los pies en la boca del boquete y **aguanta** — y todo lo que baja por ese pasillo se le rompe encima.
+*(Quería que se muriera creyendo que su madre había venido por ella. Y se está muriendo **sabiendo exactamente qué es él.** Le acaban de robar lo único que quería de todo esto.)*
 
-*(El que se vendió por los suyos, sosteniendo una puerta. Lleva toda la película pagando, y este es el último pago.)*
+**Y ese segundo es el que le cuesta las dos.**
 
-Detrás pasa **@NIMA**, apagando con sus cacharros todo lo que se mueve. Y detrás, **BROGU.**
+Porque **el muro revienta hacia adentro.**
 
-El gigante llega hasta las dos hermanas. Se agacha.
+No es una puerta. No es una brecha que hubiera. Es **BROGU**, que ha entrado por donde no había entrada, abriendo la piedra a manotazos como quien aparta cortinas.
 
-Y **las levanta a las dos a la vez** —una en cada brazo, contra el pecho— y **las abraza**, como quien tapa dos cosas pequeñas con el cuerpo entero.
+*(Y hay que rodarlo sabiendo esto: **ellos no saben dónde se están metiendo.** Para los tres, esto sigue siendo un palacio. Y los palacios no despegan.)*
 
-*(Es lo único que sabe hacer, y es exactamente lo que hacía falta.)*
+Detrás entran **@NIMA** y **@VOSK**, y se abren a los lados sin decirse una palabra. **No atacan: cubren.** Todo lo que va hacia el gigante se lo comen ellos dos.
 
-*(A @Selka nadie le pregunta. **Y esa es la única razón por la que sube a esa nave:** eligió morir en esa cubierta yendo por el Orbe, y no le dejan.)*
+Brogu cruza la sala sin mirar nada más.
 
-Arrancan de vuelta por el boquete. @Vosk sale el último, de espaldas, sin dejar de tapar el hueco.
+Se agacha. Y con esos brazos larguísimos **las levanta a las dos a la vez** —@Selka, molida y sin un brazo, en uno; @Stella, rota, en el otro— y **se las abraza contra el pecho.**
 
-Y **@NIMA levanta la cara.**
+**BROGU**
+*(bajito, para ella sola)*
+Aguanta, @Stella.
 
-Ve los rayos tirando del Orbe. Ve la cubierta abriéndose al cielo. Ve la cosa.
+*(Cuatro palabras. Es casi todo lo que dice el gigante en la película entera.)*
 
-Y es ella —la que entiende cómo vuelan las naves— la que entiende **qué** es eso. Una nave **de ese tamaño**, alimentada por el corazón entero de un planeta, **solo puede ser una cosa.**
+*(Y a @Selka nadie le pregunta. **Esa es la única razón por la que sube:** eligió morir en esta cubierta yendo por el Orbe, y no le dejan.)*
+
+Y mientras corren, @Stella **abre los ojos lo justo.**
+
+Y lo último que ve es a **su hermana** —a un palmo de su cara, en el mismo brazo, reventada, sin un brazo— **agarrándose a ella.**
+
+*(Veinte años. Cruzó un cielo entero por esto. Y le llega **medio segundo antes de apagarse.**)*
+
+Y a la cosa que queda atrás **ya no le importa.**
+
+Tiene el Orbe. La nave está encendida. Lo que se llevan esos tres del suelo no le sirve para nada.
+
+*(Y esa es la humillación de verdad, y hay que dejar que duela: **no escapan. Los deja ir, porque no valen la pena.**)*
+
+Las máquinas del palacio, en cambio, sí siguen. Y son muchas, y les cierran el boquete por el que tienen que salir.
+
+Y entonces el puñado de luz que salió del pecho de @Stella **crece.**
+
+Mal. A tirones. Parpadeando. **Medio axolote**, hecho con lo que queda de alguien — pero lo bastante grande para **llenar la brecha entera.**
+
+Y se pone delante.
+
+*(Es lo único que ha sabido hacer siempre: **ponerse delante.**)*
+
+Las máquinas se le echan encima **a él**, y no a los cuatro que están pasando por debajo.
+
+Y desde el brazo de Brogu, **@Stella lo ve.**
+
+Y entonces la sala **se inclina.**
+
+Y entonces la sala **se inclina.**
+
+Porque esto ya no está apoyado en nada. **Se está levantando.**
+
+Brogu llega al boquete con las dos hermanas contra el pecho y no frena: **salta.**
+
+Detrás saltan **@NIMA** y **@VOSK.**
+
+Los cuatro caen ocho, diez metros, y ruedan por lo que hace un minuto era una plaza.
+
+Y detrás de ellos, en el aire, **@Gix se deshace.**
+
+Las partículas caen del cielo persiguiéndolos y **le entran a @Stella por la palma izquierda.**
+
+Menos de las que salieron.
+
+*(Y ahí queda explicada la brasa del final, para que nadie tenga que decirla en voz alta: **no se está apagando sola. Se apaga porque ella la gastó** — en sacar de ahí a su hermana y a los tres que fueron a buscarla.)*
+
+Y desde el suelo, boca arriba, ven **la esfera entera arrancándose de la ciudad.**
+
+Y **@NIMA** es la única que entiende lo que está mirando.
+
+Porque una cosa **de ese tamaño**, encendida, alimentada por el corazón entero de un planeta, **solo puede ser una cosa.**
 
 **@NIMA**
-*(por el canal, corriendo, sin aliento)*
+*(por el canal, sin aliento, todavía en el suelo)*
 @Theron.
 *(beat)*
 **Es él. Es lo que llevas buscando.**
 
 Silencio en el canal.
 
-*(Veinte mil años de cacería. Y la certeza le llega gritada, a la carrera, por una elfa azul de metro y medio.)*
+*(Veinte mil años de cacería. Y la certeza le llega tirada en el barro, por una elfa azul de metro y medio.)*
 
-**@THERON (V.O.)**
-*(dos palabras)*
-Bajen todo.
+A CIEN METROS, EN LA PLAZA.
 
-EXT. PALACIO IMPERIAL — CONTINUO
+Arriba, **la NODRIZA** cruza la ciudad disparando: en los controles, **YURI**, metiendo una nave del tamaño de un edificio entre las torres para tapar a los suyos desde el aire.
 
-Y **la NODRIZA cae del cielo disparando.**
+Y abajo, de pie en mitad de todo, **@THERON.**
 
-En los controles, **YURI** — pilotando y disparando a la vez, metiendo una nave del tamaño de un edificio entre las torres de un palacio **que ya se está despegando del suelo.**
+Con lo que le queda de tripulación **acorralada contra un muro** a su espalda, y una línea de máquinas cerrándose encima de ellos.
 
-Llega tarde. Y lo saben todos.
+Y levanta la cara.
 
-La ciudad se raja de lado a lado. La esfera se arranca de Erdia levantando media montaña con ella. Y la cubierta del trono, ya abierta al cielo, pasa **por delante** de la Nodriza.
+Y **lo ve.**
 
-En la rampa, agarrado al mamparo, **@THERON.**
-
-Y ahí, a doscientos metros de aire, de pie entre los rayos, **lo ve.**
-
-Por primera vez en veinte mil años lo ve con sus propios ojos. Y todo —cada planeta apagado, cada rastro perdido, cada siglo— por fin **tiene cara.**
+Ahí arriba, subiendo, en la cubierta abierta al cielo, entre los rayos. Por primera vez en veinte mil años lo ve **con sus propios ojos.** Y todo —cada planeta apagado, cada rastro perdido, cada siglo— por fin **tiene cara.**
 
 **@THERON**
 *(bajo, casi un rezo)*
 Ahí estás.
 
-No dispara. No serviría de nada y lo sabe.
+Da **un paso** hacia él. Uno solo.
 
-*(Y da igual: lo que le hacía falta era **verlo.** Ya lo tiene.)*
+Y entonces oye, a su espalda, a los suyos.
 
-Abajo, la Nodriza recoge a los suyos. **BROGU** sube con las dos hermanas todavía apretadas contra el pecho. **@VOSK** sube el último, sangrando, y todavía mirando hacia atrás.
+Y **se para.**
 
-**@NIMA**
-*(desde la rampa, gritando)*
-¡Están arriba! ¡VÁMONOS!
+*(Y aquí está la decisión más cara de su vida, y la toma en dos segundos. Si sube, lo pierde. Solo contra eso **no gana** —y lo sabe—. Y mientras lo intenta, a los que tiene detrás **se los comen.**)*
 
-Y la rampa se cierra.
+Se da la vuelta.
+
+Y **se lanza contra las máquinas.**
+
+*(Veinte mil años cazándolo. Lo tuvo encima. **Y eligió a once personas.**)*
+
+Y arriba, la esfera sigue subiendo.
 
 ---
 
