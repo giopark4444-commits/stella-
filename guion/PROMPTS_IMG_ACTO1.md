@@ -677,32 +677,32 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** cool clinical blue-white light, holograms glowing cold. Tense, kinetic. Frozen at the peak instant of the action.
 - **Note:** La puerta principal se abre. Luz fría inunda el umbral.
 
-### FRAME 75 — SEC 3 — Vorthan enters
+### FRAME 75 — SEC 3 — Vortham enters
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Imperial soldier-robot reference"; Image 3 = "Naio's lab establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Imperial soldier-robot reference"; Image 3 = "Naio's lab establishing".
 - **Framing:** low-angle wide shot looking up, subject towering overhead, translated from "Contrapicado".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Entra VORTHAN, el Rey. Alto, sereno, con una sonrisa de viejo amigo de la familia. Soldados-robot detrás, llenando el umbral como una sombra.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Entra VORTHAM, el Rey. Alto, sereno, con una sonrisa de viejo amigo de la familia. Soldados-robot detrás, llenando el umbral como una sombra.
 - **Staging / background:** Naio's lab: cool, clean, hushed, pale curved organic-tech surfaces and floating holographic data, clinical blue-white light, the warm world shut outside. Key element: robot soldiers massed behind him in the doorway.
 - **Light & mood:** cool clinical blue-white light, holograms glowing cold. Contemplative, reverent, awed. Still, quiet, held.
-- **Note:** Entra VORTHAN, el Rey. Alto, sereno, con una sonrisa de viejo amigo de la familia. Soldados-robot detrás, llenando el umbral como una sombra.
+- **Note:** Entra VORTHAM, el Rey. Alto, sereno, con una sonrisa de viejo amigo de la familia. Soldados-robot detrás, llenando el umbral como una sombra.
 
 ### FRAME 76 — SEC 3 — Naio, old friend
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Naio's lab establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vorthan, casi con cariño, saboreando el momento.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vortham, casi con cariño, saboreando el momento.
 - **Staging / background:** Naio's lab: cool, clean, hushed, pale curved organic-tech surfaces and floating holographic data, clinical blue-white light, the warm world shut outside.
 - **Light & mood:** cool clinical blue-white light, holograms glowing cold. Charged, emotional.
-- **Note:** Vorthan, casi con cariño, saboreando el momento. (Line delivered — convey the emotion, do NOT render the words as text: "Naio. Viejo amigo.")
+- **Note:** Vortham, casi con cariño, saboreando el momento. (Line delivered — convey the emotion, do NOT render the words as text: "Naio. Viejo amigo.")
 
 ### FRAME 77 — SEC 3 — He reads the room
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Naio's lab establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Naio's lab establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Los ojos de Vorthan recorren la escena: el traje, el moisés vacío. Lo entiende todo.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Los ojos de Vortham recorren la escena: el traje, el moisés vacío. Lo entiende todo.
 - **Staging / background:** Naio's lab: cool, clean, hushed, pale curved organic-tech surfaces and floating holographic data, clinical blue-white light, the warm world shut outside. Key element: empty cradle, folded suit — he reads the room.
 - **Light & mood:** cool clinical blue-white light, holograms glowing cold. Charged, emotional.
-- **Note:** Los ojos de Vorthan recorren la escena: el traje, el moisés vacío. Lo entiende todo. (Line delivered — convey the emotion, do NOT render the words as text: "Sabías que este día llegaría.")
+- **Note:** Los ojos de Vortham recorren la escena: el traje, el moisés vacío. Lo entiende todo. (Line delivered — convey the emotion, do NOT render the words as text: "Sabías que este día llegaría.")
 
 ### FRAME 78 — SEC 3 — Slipping to the exit
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -715,9 +715,9 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 79 — SEC 3 — Don't let them escape
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Naio's lab establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Naio's lab establishing".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Los ojos del Rey lo ven todo. No parpadean.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Los ojos del Rey lo ven todo. No parpadean.
 - **Staging / background:** Naio's lab: cool, clean, hushed, pale curved organic-tech surfaces and floating holographic data, clinical blue-white light, the warm world shut outside.
 - **Light & mood:** cool clinical blue-white light, holograms glowing cold. Charged, emotional.
 - **Note:** Los ojos del Rey lo ven todo. No parpadean. (Line delivered — convey the emotion, do NOT render the words as text: "No las dejen escapar.")
@@ -733,21 +733,21 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 81 — SEC 3 — Almost pity
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Naio's lab establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Naio's lab establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: El Rey mira a Naio casi con pena.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: El Rey mira a Naio casi con pena.
 - **Staging / background:** Naio's lab: cool, clean, hushed, pale curved organic-tech surfaces and floating holographic data, clinical blue-white light, the warm world shut outside.
 - **Light & mood:** cool clinical blue-white light, holograms glowing cold. Silent, aching, intimate. Still, quiet, held.
 - **Note:** El Rey mira a Naio casi con pena.
 
 ### FRAME 82 — SEC 3 — Naio struck down
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "Naio turnaround"; Image 2 = "King Vorthan turnaround"; Image 3 = "Naio's lab establishing".
+- **References to attach:** Image 1 = "Naio turnaround"; Image 2 = "King Vortham turnaround"; Image 3 = "Naio's lab establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
-- **Subject:** Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vorthan lo derriba de un solo golpe de luz, como quien aparta una rama. Naio vuela contra la consola.
+- **Subject:** Naio, the father-scientist (~45), white-grey hair and short beard, round glasses, tired kind AMBER eyes, white lab coat with gold seams and a holographic gauntlet.; Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vortham lo derriba de un solo golpe de luz, como quien aparta una rama. Naio vuela contra la consola.
 - **Staging / background:** Naio's lab: cool, clean, hushed, pale curved organic-tech surfaces and floating holographic data, clinical blue-white light, the warm world shut outside. Key element: Naio hurled against the console by a pulse of energy (no blood).
 - **Light & mood:** cool clinical blue-white light, holograms glowing cold. Tense, kinetic. Frozen at the peak instant of the action.
-- **Note:** Vorthan lo derriba de un solo golpe de luz, como quien aparta una rama. Naio vuela contra la consola.
+- **Note:** Vortham lo derriba de un solo golpe de luz, como quien aparta una rama. Naio vuela contra la consola.
 
 ### FRAME 83 — SEC 3 — DAD!
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -919,18 +919,18 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 101 — SEC 5 — Two doors, one Orb
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "Vera combat-armor turnaround"; Image 2 = "Stella recon-suit turnaround (long braid)"; Image 3 = "King Vorthan turnaround"; Image 4 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "Vera combat-armor turnaround"; Image 2 = "Stella recon-suit turnaround (long braid)"; Image 3 = "King Vortham turnaround"; Image 4 = "Orb chamber establishing".
 - **Framing:** wide shot, full environment with the subject placed within it, translated from "Plano general".
-- **Subject:** Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vera y Stella entran por un lado. Por el otro, al mismo tiempo, entra VORTHAN. La sala inmensa entre ellos.
+- **Subject:** Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vera y Stella entran por un lado. Por el otro, al mismo tiempo, entra VORTHAM. La sala inmensa entre ellos.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: Orbe suspended between them.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Tense, kinetic. Frozen at the peak instant of the action.
-- **Note:** Vera y Stella entran por un lado. Por el otro, al mismo tiempo, entra VORTHAN. La sala inmensa entre ellos.
+- **Note:** Vera y Stella entran por un lado. Por el otro, al mismo tiempo, entra VORTHAM. La sala inmensa entre ellos.
 
 ### FRAME 102 — SEC 5 — The standoff
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "Vera combat-armor turnaround"; Image 2 = "Stella recon-suit turnaround (long braid)"; Image 3 = "King Vorthan turnaround"; Image 4 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "Vera combat-armor turnaround"; Image 2 = "Stella recon-suit turnaround (long braid)"; Image 3 = "King Vortham turnaround"; Image 4 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
-- **Subject:** Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Se miran a través de la sala. Una carrera de un solo latido. El aire suspendido.
+- **Subject:** Vera, the mother (~40), long white hair, warm strong face, GREY-BLUE eyes, wearing combat armor / gear.; Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Se miran a través de la sala. Una carrera de un solo latido. El aire suspendido.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Silent, aching, intimate. Still, quiet, held.
 - **Note:** Se miran a través de la sala. Una carrera de un solo latido. El aire suspendido.
@@ -1081,18 +1081,18 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 119 — SEC 5 — Caught by the braid
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Stella recon-suit turnaround (long braid)"; Image 3 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Stella recon-suit turnaround (long braid)"; Image 3 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Demasiado tarde. VORTHAN la intercepta. La atrapa por la trenza y la levanta del piso.
-- **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: Vorthan catching Stella by the braid, lifting her off the floor.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: Demasiado tarde. VORTHAM la intercepta. La atrapa por la trenza y la levanta del piso.
+- **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: Vortham catching Stella by the braid, lifting her off the floor.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Tense, kinetic. Frozen at the peak instant of the action.
-- **Note:** Demasiado tarde. VORTHAN la intercepta. La atrapa por la trenza y la levanta del piso.
+- **Note:** Demasiado tarde. VORTHAM la intercepta. La atrapa por la trenza y la levanta del piso.
 
 ### FRAME 120 — SEC 5 — Hanging by her hair
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "Stella recon-suit turnaround (long braid)"; Image 2 = "King Vorthan turnaround"; Image 3 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "Stella recon-suit turnaround (long braid)"; Image 2 = "King Vortham turnaround"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
-- **Subject:** Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Stella cuelga inmóvil, pataleando en el aire, sostenida solo por el pelo.
+- **Subject:** Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04').; Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Stella cuelga inmóvil, pataleando en el aire, sostenida solo por el pelo.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Tense, kinetic. Frozen at the peak instant of the action.
 - **Note:** Stella cuelga inmóvil, pataleando en el aire, sostenida solo por el pelo.
@@ -1108,21 +1108,21 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 122 — SEC 5 — So like your mother
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Stella recon-suit turnaround (long braid)"; Image 3 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Stella recon-suit turnaround (long braid)"; Image 3 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: El Rey, sosteniéndola del pelo, ríe por lo bajo, suave, casi paternal.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Stella, a 14-year-old naiel girl, white hair in a LONG braid, freckles, AMBER eyes, wearing her grey-white and orange recon suit / light armor (unit '04'). Pose and expression frozen for this beat: El Rey, sosteniéndola del pelo, ríe por lo bajo, suave, casi paternal.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Charged, emotional.
 - **Note:** El Rey, sosteniéndola del pelo, ríe por lo bajo, suave, casi paternal. (Line delivered — convey the emotion, do NOT render the words as text: "Tan parecida a tu madre. Corriendo hacia lo que ama.")
 
 ### FRAME 123 — SEC 5 — That's why they lose
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vorthan, un beat, la sentencia.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vortham, un beat, la sentencia.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Charged, emotional.
-- **Note:** Vorthan, un beat, la sentencia. (Line delivered — convey the emotion, do NOT render the words as text: "Por eso siempre pierden.")
+- **Note:** Vortham, un beat, la sentencia. (Line delivered — convey the emotion, do NOT render the words as text: "Por eso siempre pierden.")
 
 ### FRAME 124 — SEC 5 — Vera's last strength
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1216,12 +1216,12 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 134 — SEC 5 — A useless trophy
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: La trenza cortada queda colgando de la mano de Vorthan, un trofeo inútil.
-- **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: the cut white braid hanging useless from Vorthan's hand.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: La trenza cortada queda colgando de la mano de Vortham, un trofeo inútil.
+- **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: the cut white braid hanging useless from Vortham's hand.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Silent, aching, intimate. Still, quiet, held.
-- **Note:** La trenza cortada queda colgando de la mano de Vorthan, un trofeo inútil.
+- **Note:** La trenza cortada queda colgando de la mano de Vortham, un trofeo inútil.
 
 ### FRAME 135 — SEC 5 — The shield dissolves
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1370,38 +1370,38 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Contemplative, reverent, awed. Still, quiet, held.
 - **Note:** ABAJO, en la sala: Vera muerta en el piso. La bebé llorando a su lado. El vacío enorme alrededor.
 
-### FRAME 151 — SEC 6 — Vorthan lifts Selka
+### FRAME 151 — SEC 6 — Vortham lifts Selka
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: VORTHAN se acerca, sin prisa, y levanta a Selka en sus brazos. La bebé se calla, mirándolo.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: VORTHAM se acerca, sin prisa, y levanta a Selka en sus brazos. La bebé se calla, mirándolo.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Silent, aching, intimate. Still, quiet, held.
-- **Note:** VORTHAN se acerca, sin prisa, y levanta a Selka en sus brazos. La bebé se calla, mirándolo.
+- **Note:** VORTHAM se acerca, sin prisa, y levanta a Selka en sus brazos. La bebé se calla, mirándolo.
 
 ### FRAME 152 — SEC 6 — He stops the robots
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Imperial soldier-robot reference"; Image 3 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Imperial soldier-robot reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** full shot, the subject head-to-toe within the frame, translated from "Plano entero".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Dos robots se inclinan a recoger el cuerpo de Vera. El Rey los detiene con un gesto seco de la mano.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Imperial soldier robots: white-grey plating, faceless visor, bulky. Pose and expression frozen for this beat: Dos robots se inclinan a recoger el cuerpo de Vera. El Rey los detiene con un gesto seco de la mano.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: Vera's body, two robots stooping.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Tense, kinetic. Frozen at the peak instant of the action.
 - **Note:** Dos robots se inclinan a recoger el cuerpo de Vera. El Rey los detiene con un gesto seco de la mano.
 
 ### FRAME 153 — SEC 6 — She's already dead
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Orb chamber establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vorthan, frío, sin siquiera mirarla.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vortham, frío, sin siquiera mirarla.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: Vera's body.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Charged, emotional.
-- **Note:** Vorthan, frío, sin siquiera mirarla. (Line delivered — convey the emotion, do NOT render the words as text: "¿Qué hacen? Ya está muerta.")
+- **Note:** Vortham, frío, sin siquiera mirarla. (Line delivered — convey the emotion, do NOT render the words as text: "¿Qué hacen? Ya está muerta.")
 
 ### FRAME 154 — SEC 6 — Find Stella
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: El Rey se da la vuelta con la bebé, dando la espalda al cuerpo.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: El Rey se da la vuelta con la bebé, dando la espalda al cuerpo.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Charged, emotional.
 - **Note:** El Rey se da la vuelta con la bebé, dando la espalda al cuerpo. (Line delivered — convey the emotion, do NOT render the words as text: "Salgan a buscar a Stella. Necesitamos ese Orbe.")
@@ -1417,9 +1417,9 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 156 — SEC 6 — Abandoned in her own house
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Orb chamber establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Orb chamber establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: El Rey se va con la bebé en brazos, dejando a Vera tirada en el suelo de su propia casa. La sala inmensa, vacía, alrededor del cuerpo. Sostener el abandono.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: El Rey se va con la bebé en brazos, dejando a Vera tirada en el suelo de su propia casa. La sala inmensa, vacía, alrededor del cuerpo. Sostener el abandono.
 - **Staging / background:** a cathedral-scale chamber of pale luminous stone dissolving into golden haze, concentric naiel arches veined with living luzagua, a polished obsidian-gold mirror floor, thin waterfalls of light down the columns, luminous pollen in god-rays. Key element: Vera abandoned on the floor of the vast empty chamber.
 - **Light & mood:** warm sacred Orb-glow rippling across arches and the mirror floor. Contemplative, reverent, awed. Still, quiet, held.
 - **Note:** El Rey se va con la bebé en brazos, dejando a Vera tirada en el suelo de su propia casa. La sala inmensa, vacía, alrededor del cuerpo. Sostener el abandono.
@@ -1804,30 +1804,30 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 198 — SEC 9 — The plaza, the balcony
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Palace plaza establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** extreme wide establishing shot, subject tiny in a vast environment, translated from "Gran plano general".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Bajo un cielo todavía azul, una plaza inmensa repleta de gente. VORTHAN de pie en el balcón real, minúsculo sobre la multitud.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Bajo un cielo todavía azul, una plaza inmensa repleta de gente. VORTHAM de pie en el balcón real, minúsculo sobre la multitud.
 - **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony. Key element: the vast plaza packed with people below the royal balcony.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Contemplative, reverent, awed. Still, quiet, held.
-- **Note:** Bajo un cielo todavía azul, una plaza inmensa repleta de gente. VORTHAN de pie en el balcón real, minúsculo sobre la multitud.
+- **Note:** Bajo un cielo todavía azul, una plaza inmensa repleta de gente. VORTHAM de pie en el balcón real, minúsculo sobre la multitud.
 
 ### FRAME 199 — SEC 9 — Today we were robbed
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Palace plaza establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vorthan habla con voz de luto, perfecta, medida.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vortham habla con voz de luto, perfecta, medida.
 - **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Charged, emotional.
-- **Note:** Vorthan habla con voz de luto, perfecta, medida. (Line delivered — convey the emotion, do NOT render the words as text: "Hoy nos han robado.")
+- **Note:** Vortham habla con voz de luto, perfecta, medida. (Line delivered — convey the emotion, do NOT render the words as text: "Hoy nos han robado.")
 
 ### FRAME 200 — SEC 9 — Torn from our world
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Palace plaza establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vorthan deja caer la palabra, saboreando el silencio de la plaza.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vortham deja caer la palabra, saboreando el silencio de la plaza.
 - **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Charged, emotional.
-- **Note:** Vorthan deja caer la palabra, saboreando el silencio de la plaza. (Line delivered — convey the emotion, do NOT render the words as text: "El Orbe —el corazón de Erdia, la fuente de todo lo que somos— ha sido arrancado de nuestro mundo.")
+- **Note:** Vortham deja caer la palabra, saboreando el silencio de la plaza. (Line delivered — convey the emotion, do NOT render the words as text: "El Orbe —el corazón de Erdia, la fuente de todo lo que somos— ha sido arrancado de nuestro mundo.")
 
 ### FRAME 201 — SEC 9 — Horror through the crowd
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1840,12 +1840,12 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 202 — SEC 9 — The planet will die
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Palace plaza establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vorthan, la condena creciendo.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vortham, la condena creciendo.
 - **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Charged, emotional.
-- **Note:** Vorthan, la condena creciendo. (Line delivered — convey the emotion, do NOT render the words as text: "Sin él, la luz se irá. El agua se irá. Y nuestro planeta… empezará a morir.")
+- **Note:** Vortham, la condena creciendo. (Line delivered — convey the emotion, do NOT render the words as text: "Sin él, la luz se irá. El agua se irá. Y nuestro planeta… empezará a morir.")
 
 ### FRAME 203 — SEC 9 — The caged pilots
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1867,30 +1867,30 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 205 — SEC 9 — One of our own
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Palace plaza establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vorthan, girando el cuchillo.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vortham, girando el cuchillo.
 - **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Charged, emotional.
-- **Note:** Vorthan, girando el cuchillo. (Line delivered — convey the emotion, do NOT render the words as text: "¿Y quién nos ha condenado a esto? Una de los nuestros.")
+- **Note:** Vortham, girando el cuchillo. (Line delivered — convey the emotion, do NOT render the words as text: "¿Y quién nos ha condenado a esto? Una de los nuestros.")
 
 ### FRAME 206 — SEC 9 — Poisoning the memory
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Palace plaza establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** close-up on the face, translated from "Primer plano".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vorthan, un beat, envenenando el recuerdo.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vortham, un beat, envenenando el recuerdo.
 - **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Charged, emotional.
-- **Note:** Vorthan, un beat, envenenando el recuerdo. (Line delivered — convey the emotion, do NOT render the words as text: "Una niña a la que le dimos todo. Que prefirió quedarse con la luz de todos antes que dejarla correr.")
+- **Note:** Vortham, un beat, envenenando el recuerdo. (Line delivered — convey the emotion, do NOT render the words as text: "Una niña a la que le dimos todo. Que prefirió quedarse con la luz de todos antes que dejarla correr.")
 
 ### FRAME 207 — SEC 9 — Thief, traitor
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "Palace plaza establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "Palace plaza establishing".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vorthan, la palabra final como una sentencia.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes. Pose and expression frozen for this beat: Vortham, la palabra final como una sentencia.
 - **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Charged, emotional.
-- **Note:** Vorthan, la palabra final como una sentencia. (Line delivered — convey the emotion, do NOT render the words as text: "Stella. Ladrona. Traidora.")
+- **Note:** Vortham, la palabra final como una sentencia. (Line delivered — convey the emotion, do NOT render the words as text: "Stella. Ladrona. Traidora.")
 
 ### FRAME 208 — SEC 9 — The crowd turns to hate
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
@@ -1903,30 +1903,30 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 209 — SEC 9 — Selka before the crowd
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Palace plaza establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Palace plaza establishing".
 - **Framing:** medium shot, subject framed from the waist up, translated from "Plano medio".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: Vorthan sostiene a la bebé Selka en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: Vortham sostiene a la bebé Selka en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
 - **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Silent, aching, intimate. Still, quiet, held.
-- **Note:** Vorthan sostiene a la bebé Selka en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
+- **Note:** Vortham sostiene a la bebé Selka en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
 
 ### FRAME 210 — SEC 9 — A father's caress
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Palace plaza establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Palace plaza establishing".
 - **Framing:** extreme close-up, the face filling the frame, translated from "Primerísimo primer plano".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: Muy despacio, casi sin que se note, el Rey le acaricia la cabeza a la bebé. Como un padre. El horror disfrazado de ternura.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: Muy despacio, casi sin que se note, el Rey le acaricia la cabeza a la bebé. Como un padre. El horror disfrazado de ternura.
 - **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony. Key element: the King stroking the baby's head like a father.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Silent, aching, intimate. Still, quiet, held.
 - **Note:** Muy despacio, casi sin que se note, el Rey le acaricia la cabeza a la bebé. Como un padre. El horror disfrazado de ternura.
 
 ### FRAME 211 — SEC 9 — The trusting little hand
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = "King Vorthan turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Palace plaza establishing".
+- **References to attach:** Image 1 = "King Vortham turnaround"; Image 2 = "baby Selka reference"; Image 3 = "Palace plaza establishing".
 - **Framing:** insert / detail close-up on a small element, translated from "Plano detalle".
-- **Subject:** Vorthan, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: La manita de Selka se cierra sobre el dedo de Vorthan, confiada. Sostener la imagen intolerable.
-- **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony. Key element: Selka's tiny hand closing trustingly around Vorthan's finger.
+- **Subject:** Vortham, the King: tall, ageless, regal, a calm friendly smile that never reaches the eyes, ornate dark-and-gold imperial robes.; Selka, a 1-year-old baby, wisp of white hair, GREY-BLUE eyes, wrapped in pale cloth. Pose and expression frozen for this beat: La manita de Selka se cierra sobre el dedo de Vortham, confiada. Sostener la imagen intolerable.
+- **Staging / background:** the great palace plaza beneath a still-blue sky, a vast sea of gathered people, terraces and banners, a high royal balcony. Key element: Selka's tiny hand closing trustingly around Vortham's finger.
 - **Light & mood:** clear high daylight over a vast crowd, banners, the balcony. Contemplative, reverent, awed. Still, quiet, held.
-- **Note:** La manita de Selka se cierra sobre el dedo de Vorthan, confiada. Sostener la imagen intolerable.
+- **Note:** La manita de Selka se cierra sobre el dedo de Vortham, confiada. Sostener la imagen intolerable.
 
 ### FRAME 212 — SEC 9 — Cut to black
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.

@@ -9,12 +9,12 @@
 ---
 
 ## 🔒 PROTEGER LA SORPRESA (leer antes de escribir o compartir)
-La fuerza de la película depende de **UN secreto**: que **Vorthan/el Parásito puede cambiar de forma**.
+La fuerza de la película depende de **UN secreto**: que **Vortham/el Parásito puede cambiar de forma**.
 Eso **solo se revela en la escena final** ("Fui yo").
 - **NUNCA** se menciona ni se muestra el cambio de forma antes del clímax — ni en diálogo, ni en
   cámara, ni en pistas obvias.
 - El público (y casi todos los personajes) debe **vivir como verdad**: que **Marek** es un amigo leal,
-  que **Selka** mató a Vera, que **Vorthan** es solo un rey tirano.
+  que **Selka** mató a Vera, que **Vortham** es solo un rey tirano.
 - En este documento, esos datos van marcados con *(se revela al final)* — son **notas para el equipo**,
   NO información que el espectador tenga antes de tiempo.
 - Al escribir las escenas, **escríbelas como las vive el público**, no como sabemos que son.
@@ -32,7 +32,7 @@ Eso **solo se revela en la escena final** ("Fui yo").
 | El Cazador (tercer padre) | **Theron** | "el Cazador" sigue como título |
 | Gigante de roca | **Brog** | igual |
 | Mecánica de 4 brazos | **Nima** | (antes Vex) |
-| El Rey / el Parásito | **Vorthan** | nombre verdadero; "el Rey" sigue como disfraz |
+| El Rey / el Parásito | **Vortham** | nombre verdadero; "el Rey" sigue como disfraz |
 | Robots / guardia imperial | por modelo (G44, T1, **S1G1**…) | sin nombres propios |
 
 ---
@@ -41,7 +41,7 @@ Eso **solo se revela en la escena final** ("Fui yo").
 La película **alterna en paralelo** dos líneas de tiempo, e **intercala** lo que pasa en cada una. **Cada
 salto importante se rotula con el año en pantalla** para que el público no se pierda:
 - **Línea ERDIA** (el mundo que se pudre): avanza **20 años**. Vera y la resistencia, Selka creciendo
-  como General, Naio esclavo, Vorthan vaciando el planeta.
+  como General, Naio esclavo, Vortham vaciando el planeta.
 - **Línea STELLA** (otro universo): su **entrenamiento y misiones** con Theron, Brog, Nima, Noah. Por la
   **dilatación 1:4**, ella vive solo **~5 años** mientras Erdia envejece **20**.
 
@@ -108,13 +108,13 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   Desde entonces tú y el Orbe serán uno. Cuidado con tu vida. Escapen lo antes posible. Yo voy a
   retenerlos."
 - Intentan evitar que Naio se quede, pero Vera sabe que no hay más opciones. **Último abrazo de familia.**
-- Llega **Vorthan (el Rey)** con robots. Saluda a Naio amigablemente: sabe que descubrieron su verdad
+- Llega **Vortham (el Rey)** con robots. Saluda a Naio amigablemente: sabe que descubrieron su verdad
   y que debe **apresar a toda la familia** — su verdad no puede salir a la luz.
 - Stella y Vera caminan despacio (Vera carga a **Selka, de 1 año**); dicen "ya volvemos, vamos a tomar
-  aire" y salen nerviosas. Pero Vorthan lo sabe todo.
-- Vorthan **captura a Naio** y grita: "¡No las dejen escapar, vayan por ellas!"
+  aire" y salen nerviosas. Pero Vortham lo sabe todo.
+- Vortham **captura a Naio** y grita: "¡No las dejen escapar, vayan por ellas!"
 - Naio activa un **campo de fuerza** en la salida por donde ellas escaparon.
-- Vorthan le da un golpe seco a Naio y lo deja tirado, mientras los robots derriban el campo a golpes.
+- Vortham le da un golpe seco a Naio y lo deja tirado, mientras los robots derriban el campo a golpes.
 
 ### 1.1 — La carrera por los pasillos
 - Stella y Vera (con Selka en brazos) corren a toda velocidad; saben que los robots llegan pronto.
@@ -126,17 +126,17 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ### 1.2 — La sala del Orbe (la caída de Vera)
 - Llegan los robots y cortan distancia; ellas se abren camino peleando.
-- En la **sala del Orbe**, Vorthan llega al mismo tiempo.
+- En la **sala del Orbe**, Vortham llega al mismo tiempo.
 - Vera: "Ve por el Orbe." Pero la presión de los robots lo hace dificilísimo.
 - Vera prioriza **proteger a Selka** y avanza para abrir camino. Llega un **robot oscuro (S1G1)** y
   Vera se prepara para un combate real. Hace lo que puede, pero **S1G1 la neutraliza**; ella
   **protege a Selka con su vida**, cae al piso y le grita a Stella.
 - Stella, al ver la escena, **desobedece** (no va por el Orbe) y corre con toda su fuerza a rescatar
   a su madre y hermana.
-- Vera le grita que no se acerque. Al acercarse, **Vorthan la toma por la trenza** y la deja inmóvil.
-  Stella llora; Vorthan ríe.
+- Vera le grita que no se acerque. Al acercarse, **Vortham la toma por la trenza** y la deja inmóvil.
+  Stella llora; Vortham ríe.
 - Vera, con sus últimas fuerzas, **hace un escudo de protección para Stella** justo antes de que
-  Vorthan le perfore el corazón.
+  Vortham le perfore el corazón.
 - Stella, aterrada y sin poder soltarse, toma un **cuchillo láser** de su traje, **se corta el cabello/
   la trenza** y así se libera. Vera le grita: "¡Huye!"
 - **S1G1 golpea a Vera en la cabeza** y la deja aplastada contra el piso, inconsciente o muerta.
@@ -149,10 +149,10 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - **S1G1 se atasca en el orificio del techo y explota.**
 
 ### Cierre del laboratorio
-- Vera queda tirada con **Selka (1 año) llorando** a su lado. **Vorthan toma a Selka.**
-- Los robots van a levantar a Vera, pero Vorthan: "¡¿Qué hacen?! ¡Ya está muerta! Salgan a buscar a
+- Vera queda tirada con **Selka (1 año) llorando** a su lado. **Vortham toma a Selka.**
+- Los robots van a levantar a Vera, pero Vortham: "¡¿Qué hacen?! ¡Ya está muerta! Salgan a buscar a
   Stella, necesitamos el Orbe."
-- Los robots dejan el cuerpo y salen. Vorthan se va con **la niña** y **deja a Vera tirada**.
+- Los robots dejan el cuerpo y salen. Vortham se va con **la niña** y **deja a Vera tirada**.
 
 ---
 
@@ -172,8 +172,8 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 
 ---
 
-## EL DISCURSO DE VORTHAN
-- Vorthan (el Rey) sale a hablar en público: han **robado el Orbe** que contenía todos los recursos
+## EL DISCURSO DE VORTHAM
+- Vortham (el Rey) sale a hablar en público: han **robado el Orbe** que contenía todos los recursos
   del planeta, y el planeta **empezará a morir**. Culpa de todo a **Stella**: "ladrona y traidora".
 - Mientras habla, vemos **presos a los aliados** que **derribaron las naves del imperio y ayudaron a
   escapar a Stella** (1.3) — capturados y exhibidos como traidores. *(El precio del sacrificio que
@@ -251,7 +251,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   - Descubrimos que **Vera sigue viva**: otra misión del "personaje misterioso" revela que **es la
     madre**, liderando la resistencia y cumpliendo misiones donde muchos amigos son dados de baja
     (traumatizados).
-  - Escenas de **Vorthan atacando pueblos por recursos** y apresando gente con sus soldados.
+  - Escenas de **Vortham atacando pueblos por recursos** y apresando gente con sus soldados.
 - Todos festejan en la nave, pero Stella, tras hablar con Theron, está **seria, mirando al infinito**.
   Más flashbacks de destrucción en su planeta. Todos se preocupan y le preguntan si está bien.
 
@@ -266,14 +266,14 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   *(Estos serán clave: cuando llegue Stella, le serán leales a ella como lo fueron con su madre.)*
 - La gente disfruta la noche con sus familias; ella decide irse.
 - **GIRO (se revela solo al final):** el "mejor amigo / líder de la resistencia", **Marek**, **siempre
-  fue Vorthan cambiado de forma**, infiltrado para conocer los planes de la resistencia y destruirla
+  fue Vortham cambiado de forma**, infiltrado para conocer los planes de la resistencia y destruirla
   poco a poco.
   Esto solo lo sabremos en la **escena final**, cuando se convierte primero en **la hermana**, luego en
   **la madre**, y por último en **el amigo** — justo cuando los aliados están salvando a Selka y a
   Stella. Intenta engañarlos, pero **ellos ya lo habían visto todo**.
 
-## 10 — VORTHAN YA LA ESPERABA
-- Vera se prepara, pero Vorthan **ya la estaba esperando**. Sabía todo lo que iba a pasar y se fue tranquilo.
+## 10 — VORTHAM YA LA ESPERABA
+- Vera se prepara, pero Vortham **ya la estaba esperando**. Sabía todo lo que iba a pasar y se fue tranquilo.
 
 ## 11 — VERA BUSCA A SU FAMILIA (la muerte / el engaño)
 - Vera entra a buscar a su familia. Encuentra a **Naio**; él le da información de **dónde está Selka**.
@@ -281,7 +281,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
 - Vera va por Selka. Poco antes, **Marek** dice que entrar es una locura, que prefiere **quedarse
   cuidando la espalda afuera**. A Vera le molesta un poco que se eche para atrás justo antes de entrar,
   pero no quiere pelear y no es mala idea tener a alguien vigilando afuera.
-  *(Era Vorthan: "quedarse afuera" es su coartada para escabullirse, tomar la forma de **Selka** y
+  *(Era Vortham: "quedarse afuera" es su coartada para escabullirse, tomar la forma de **Selka** y
   entrar él a matar a Vera. La **Selka real no es la asesina**.)*
 - Encuentra a **Selka**, que pelea contra ella llamándola **traidora**: por su culpa (y la de Stella,
   que robó el Orbe) el planeta quedó a su suerte y se pudrió.
@@ -292,7 +292,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   el pecho**.
 - Los compañeros de Vera lo ven todo y creen que **Selka realmente la mató**.
 - **Clave de montaje:** en esta escena **NO escuchamos** lo que se le dice al oído. Solo en la **escena
-  final** retomamos este momento y oímos la voz — pero es **la voz de Vorthan**.
+  final** retomamos este momento y oímos la voz — pero es **la voz de Vortham**.
 - Llegan los soldados a la habitación de Selka y los compañeros de Vera **huyen**.
 
 ## 12 — STELLA SE PREPARA PARA VOLVER (Stella · 5 años subjetivos = Erdia ~AÑO 20) / EL ORBE
@@ -345,14 +345,14 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   tuyo; eres por donde pasa.**
   - **Virtud:** ser **buen cauce** — dar, no aferrarse.
   - **Pecado máximo:** **represar la corriente para ti** — retener, acumular, **devorar**. A quien lo hace
-    lo llaman **"agua estancada"** (el peor insulto). → **Vorthan es "agua estancada hecha carne": la
+    lo llaman **"agua estancada"** (el peor insulto). → **Vortham es "agua estancada hecha carne": la
     herejía viva.**
 - **El pelo blanco = un VOTO:** los naieli nacen de pelo blanco ("luz sin escribir") y lo **mantienen
   blanco** como promesa: *"sigo siendo un cauce claro".* Pagos:
   - El **futuro podrido** mancha de gris/hollín el pelo de todos (les ensuciaron el voto).
   - **Selka** lo mantiene de un blanco **perfecto, imposible** — pero **blanqueado por el imperio** (pureza falsa).
   - **Stella** al final **conserva el pelo teñido** (rompió el voto; el exilio la cambió).
-- **El insulto/condena:** **"agua estancada".** → **Golpe maestro de la propaganda:** Vorthan no solo
+- **El insulto/condena:** **"agua estancada".** → **Golpe maestro de la propaganda:** Vortham no solo
   exilia a Stella, la convierte en *"la que estancó la luz"* — la palabra más sagrada usada en su contra.
   El pueblo no la odia por ladrona: **la odia por hereje.** *(Por eso Selka puede crecer odiándola con fe.)*
 - **El rito del Cauce (agua):** al **nacer** y al **morir**, se vierte agua sobre la persona mientras la
@@ -363,7 +363,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   - Por eso la traición es **teológica**, no solo política.
   - **Por eso el Parásito eligió ese disfraz:** máximo acceso al Orbe, mínima sospecha. *(Y reconecta la
     regla: el Orbe **se entrega por fe al Cauce Mayor, no se toma por la fuerza** — por eso Naio lo
-    **encripta al ADN de Stella**, rompiendo la cadena sagrada para que Vorthan no lo reciba.)*
+    **encripta al ADN de Stella**, rompiendo la cadena sagrada para que Vortham no lo reciba.)*
 
 ## 💧 VERA — la madre
 - **Esencia:** **calidez + fiereza.** Es el **norte moral** de la familia; tierna en casa, **letal**
@@ -385,24 +385,24 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   físico de la hija que se fue, pegado al cuerpo.
 
 ## 👧 SELKA (la hermana / la General)
-- Con **1 año** es tomada por **Vorthan** en la huida (beat 1) y **criada por él**.
+- Con **1 año** es tomada por **Vortham** en la huida (beat 1) y **criada por él**.
 - Crece **bajo las mentiras del Rey**: le hacen creer que **Stella es una traidora** que robó el Orbe
   y condenó al planeta. Por eso **odia a Stella** y la trata de traidora.
 - Entrenada estrictamente, al borde del **maltrato militar**, hasta convertirse en **la General**.
-- Vorthan la **usa/controla** (su voz al oído en la muerte de Vera, beat 11).
-- **Su verdadera función para Vorthan (el candado de ADN):** al ser de la **misma sangre que Stella**,
+- Vortham la **usa/controla** (su voz al oído en la muerte de Vera, beat 11).
+- **Su verdadera función para Vortham (el candado de ADN):** al ser de la **misma sangre que Stella**,
   Selka **puede tocar y manipular el Orbe**. No es la única sangre posible (Naio también), pero sí la
-  **llave LEAL que Vorthan controla** — por eso la **crió y conservó**: la necesita para arrancarle el
+  **llave LEAL que Vortham controla** — por eso la **crió y conservó**: la necesita para arrancarle el
   Orbe a Stella y devolverlo a la consola.
 - **Edad al final:** **21** (Stella termina con **~19**).
-- **Descubre la verdad** en el clímax ("Fui yo"): nunca mató a Vera; fue **Vorthan con su rostro**.
+- **Descubre la verdad** en el clímax ("Fui yo"): nunca mató a Vera; fue **Vortham con su rostro**.
 
 ### Selka por dentro (interioridad)
 - **Su odio es FE, no propaganda:** lo cree con **devoción casi religiosa** — su madre y su hermana
   "estancaron la luz" y condenaron al planeta. No es villana de cartón: es una **creyente verdadera**.
-- **Ama a un padre falso:** la crió **Vorthan**; para ella es **lo más parecido a un padre/salvador** (el
+- **Ama a un padre falso:** la crió **Vortham**; para ella es **lo más parecido a un padre/salvador** (el
   que la "recogió" cuando su familia "traicionó" al mundo). Su lealtad es **amor por su asesino**.
-- **(EL GOLPE) Cree que ELLA mató a su madre:** el recuerdo sembrado por Vorthan la convence de que **fue
+- **(EL GOLPE) Cree que ELLA mató a su madre:** el recuerdo sembrado por Vortham la convence de que **fue
   ella** quien mató a Vera por la causa. Construyó su **identidad sobre esa culpa** (*"soy la que puede
   hacer lo que hay que hacer"*). En el clímax, al descubrir que **NO lo hizo**, alivio y horror **colapsan
   juntos**: le robaron hasta **la inocencia de no haberlo hecho**.
@@ -444,7 +444,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   verdad → **reloj contra el tiempo / motor de la Peli 2.**
 
 ## 👁️ THERON (el Cazador) — naturaleza ✅
-- Es de **otra especie**, **los Threa** (NO la de Vorthan), de su mundo perdido **Orun**: un pueblo que
+- Es de **otra especie**, **los Threa** (NO la de Vortham), de su mundo perdido **Orun**: un pueblo que
   fue **atacado desde hace millones de años** por los **parásitos devoradores de mundos**. Por eso los
   **caza** — guerra antiquísima.
   > ⚠️ Theron habla del Parásito como un **devorador de mundos**, NUNCA como un cambiaformas. Ni él
@@ -466,7 +466,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   parte condenada): arrastran su **codicia y violencia**, pero **aún NO han aprendido** (la Tierra es
   **muy joven**, en fase de guerra/egoísmo como un virus). *(Espejo oscuro: los humanos son lo que los
   naieli **desecharon**.)*
-- **Su entrada al clímax (beat 12):** Theron **solo aprueba intervenir cuando CONFIRMAN que Vorthan es uno
+- **Su entrada al clímax (beat 12):** Theron **solo aprueba intervenir cuando CONFIRMAN que Vortham es uno
   de los parásitos que siempre ha cazado**. **No le interesa el planeta de Stella** — le interesa **más
   Stella que el planeta**.
 - **Arco:** termina **valorando a Stella más que al Orbe** y más que la cacería → aprende el **valor de la
@@ -490,7 +490,7 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   **escape del pozo de combate, beat 4**, y misiones posteriores), **se gana el respeto de Theron** → él
   **accede a llevarla solo en una misión de RECONOCIMIENTO** a Erdia (no a un rescate).
 - Ese **reconocimiento** es lo que desemboca en el clímax, donde por fin se **confirma al parásito
-  (Vorthan)** y Theron se compromete del todo.
+  (Vortham)** y Theron se compromete del todo.
 
 ### 🕯️ La conversación que siembra la sospecha (Theron ↔ Stella)
 - En algún momento, mientras **Stella sigue insistiendo** en ir a Erdia, Theron le pide que **le muestre
@@ -532,45 +532,45 @@ guerra quedó **abandonado**. Por eso en la ciudad vemos **robots de guerra cubi
   medio** — su nobleza es, para Theron, **la excepción que no cambia la regla**. *(Posible que el film NO
   resuelva del todo este debate → más honesto y agridulce.)*
 
-## 👑 VORTHAN (el Rey / el Parásito)
-- **Vorthan es la forma humana** del **rey Parásito**.
+## 👑 VORTHAM (el Rey / el Parásito)
+- **Vortham es la forma humana** del **rey Parásito**.
 - Viene del planeta **Morth**.
 - Es un **shape-shifter** (cambia de forma: por eso puede ser el Rey, la hermana, la madre y "el amigo
   de la resistencia").
-  > ⚠️ **REGLA ESTRUCTURAL — SECRETO ABSOLUTO:** que Vorthan/el Parásito **puede cambiar de forma NO se
+  > ⚠️ **REGLA ESTRUCTURAL — SECRETO ABSOLUTO:** que Vortham/el Parásito **puede cambiar de forma NO se
   > menciona ni se muestra NUNCA hasta la ESCENA FINAL**. El público y casi todos los personajes lo
-  > **ignoran** hasta la revelación del "Fui yo". Todo lo anterior (Marek = Vorthan, "Selka" matando a
+  > **ignoran** hasta la revelación del "Fui yo". Todo lo anterior (Marek = Vortham, "Selka" matando a
   > Vera) el espectador lo vive como verdad, y solo en el clímax entiende que fueron disfraces.
 - Su **forma real** es el **Parásito biomecánico colosal**, el devorador de mundos. **Se llama
-  igual: Vorthan** — un solo nombre para sus dos formas (humana y verdadera).
+  igual: Vortham** — un solo nombre para sus dos formas (humana y verdadera).
 - **Meta:** usar la energía del Orbe para **despegar el palacio-nave**, volver a su planeta y **seguir
   devorando** otros mundos.
 
 ### 🕰️ EL PLAN DE 20 AÑOS (por qué espera — su paciencia es deliberada, no pasiva)
-Vorthan **no puede irse sin el Orbe**, y el Orbe **se fue con Stella** a otro universo. Queda **atrapado
+Vortham **no puede irse sin el Orbe**, y el Orbe **se fue con Stella** a otro universo. Queda **atrapado
 en Erdia**. Sus 20 años son un **plan de depredador paciente** con dos patas:
 - **(a) Cría a Selka como su LLAVE:** Selka tenía **1 año** — un bebé no puede manipular el Orbe.
-  Vorthan **necesita criarla hasta adulta, leal y capaz**, para que sea la mano que él no puede ser. Los
+  Vortham **necesita criarla hasta adulta, leal y capaz**, para que sea la mano que él no puede ser. Los
   **20 años (Erdia) son, literalmente, lo que tarda su llave en crecer**. La espera es **estructural**.
 - **(b) Pudre Erdia como CARNADA:** no persigue a Stella por la galaxia (no la rastrea mejor que nadie);
   **deja morir el planeta a propósito**, sabiendo que **la culpa de Stella la traerá de vuelta** a
   salvarlo. **Usa el amor de ella como anzuelo.** Weaponiza a sus dos hijas: una como llave, el mundo
   como trampa.
 - **Ajuste del Acto 1:** cuando Stella agarra el Orbe y huye, por la regla "no se toma por la fuerza"
-  Vorthan **no puede quitárselo** (no es sangre). No "fracasa": **entiende ahí que empieza la partida de
+  Vortham **no puede quitárselo** (no es sangre). No "fracasa": **entiende ahí que empieza la partida de
   20 años** (puede hasta sonreír). La limitación es la **regla**, no su incompetencia.
 
 ### 🔑 POR QUÉ SELKA Y NO NAIO (cierre del hueco de lógica)
 El candado de ADN permite que **cualquier familiar** (misma sangre) toque el Orbe — **también Naio**.
-Pero Naio es **hostil y viejo**: nunca cooperaría. Por eso Vorthan no "necesita la única llave posible",
+Pero Naio es **hostil y viejo**: nunca cooperaría. Por eso Vortham no "necesita la única llave posible",
 sino **una llave que CONTROLE** — y por eso **cría a Selka** desde bebé, leal y adoctrinada. *(No es que
 "solo Selka pueda"; es que es la única **leal**.)*
 
 ## 🔮 EL ORBE Y EL PALACIO-NAVE
 - El **Orbe** absorbe los **recursos y la energía** del planeta (el "corazón"/batería de Erdia).
   Por eso, al robarlo, el planeta empieza a morir.
-- **Por qué lo quiere Vorthan:** el **palacio** donde estaba el Orbe parece un palacio gigante, pero
-  en realidad es la **NAVE del Parásito**, que lleva **cientos de años** ahí, camuflada. Vorthan necesita
+- **Por qué lo quiere Vortham:** el **palacio** donde estaba el Orbe parece un palacio gigante, pero
+  en realidad es la **NAVE del Parásito**, que lleva **cientos de años** ahí, camuflada. Vortham necesita
   la energía del Orbe para **hacer despegar esa nave** y **volver a su planeta** y seguir **devorando
   otros mundos**.
 - **El secreto del meteorito:** la civilización de Stella **siempre creyó** que eso fue un **meteorito**
@@ -579,21 +579,21 @@ sino **una llave que CONTROLE** — y por eso **cría a Selka** desde bebé, lea
   **nadie conocía** hasta ese momento.
 - El **código del Orbe está encriptado en el ADN de Stella** (beat 1); al tomarlo, **se acopla a su
   mano** y ella y el Orbe se vuelven uno.
-- **Por qué Naio lo encripta:** **justo para que Vorthan NO pueda usarlo** — lo bloquea con la sangre
-  naiel de su hija. *(Tragedia: el plan le **rebota**, porque Vorthan **ya tiene a Selka**, de la misma
+- **Por qué Naio lo encripta:** **justo para que Vortham NO pueda usarlo** — lo bloquea con la sangre
+  naiel de su hija. *(Tragedia: el plan le **rebota**, porque Vortham **ya tiene a Selka**, de la misma
   sangre, como llave.)*
 - **Mecánica clave (candado de sangre) — v0.1:**
-  - **Tocar / manipular / extraer:** **solo la familia de Stella** (su misma sangre). Vorthan **NO puede
+  - **Tocar / manipular / extraer:** **solo la familia de Stella** (su misma sangre). Vortham **NO puede
     tocarlo.** → por eso necesita a **Selka** para arrancárselo a Stella y ponerlo en la consola.
   - **Usar / canalizar su poder:** una vez integrado en Stella, **solo ELLA puede usarlo** (su luz, el
     beam). Nadie más, ni siquiera otro familiar.
-  - **Vorthan no lo "usa":** solo puede **drenar su energía bruta** metiéndolo en la consola de su
+  - **Vortham no lo "usa":** solo puede **drenar su energía bruta** metiéndolo en la consola de su
     nave-palacio. *(Por eso la luz no vuelve a Erdia: la nave se la chupa.)*
-- **Por eso Vorthan conserva y usa a Selka:** es de la **misma sangre** → una **"llave" capaz de
-  manipular el Orbe** (arrancárselo a Stella y devolverlo a la consola) para que Vorthan **extraiga su
-  poder y huya en la nave**. **Naio también es sangre**, pero hostil; por eso Vorthan **cría a Selka como
+- **Por eso Vortham conserva y usa a Selka:** es de la **misma sangre** → una **"llave" capaz de
+  manipular el Orbe** (arrancárselo a Stella y devolverlo a la consola) para que Vortham **extraiga su
+  poder y huya en la nave**. **Naio también es sangre**, pero hostil; por eso Vortham **cría a Selka como
   su llave LEAL** (ver "POR QUÉ SELKA Y NO NAIO"). *(La crió justo para ese momento.)*
-- **El plan de Vorthan siempre fue dejar a Erdia sin nada, sin recursos** — vaciarla y partir.
+- **El plan de Vortham siempre fue dejar a Erdia sin nada, sin recursos** — vaciarla y partir.
 
 ## ⚡ ARCO DE STELLA CON EL ORBE
 - Al inicio el Orbe es **muy inestable** y le **cuesta controlarlo**.
@@ -606,7 +606,7 @@ Para que Stella **no sea una víctima a la que le pasan las cosas**, su tragedia
 - **(B) Casi gana lo que importa:** en el trono va **ganando el combate emocional** — agrieta a Selka,
   casi la despierta.
 - **(A) Pierde por elección, no por debilidad:** **podría vencer** (tiene el beam) pero **elige no
-  matar** y apostar por su hermana; Vorthan/el miedo de Selka **castiga esa elección** arrancándole el
+  matar** y apostar por su hermana; Vortham/el miedo de Selka **castiga esa elección** arrancándole el
   Orbe. Su coma es **consecuencia de su mejor cualidad**.
 > Resultado: la derrota duele más, Stella es agente de su destino, y el "Fui yo" llega **pagado**
 > (Selka ya venía dudando desde el trono).
@@ -614,10 +614,10 @@ Para que Stella **no sea una víctima a la que le pasan las cosas**, su tragedia
 ## 👨‍🔧 NAIO (el padre) — hilo a lo largo de la película
 Naio **aparece en 4 momentos**, no solo en flashbacks:
 1. **Inicio:** en el laboratorio (beats 1–1.2): descubre la verdad, encripta el Orbe en el ADN de
-   Stella, las hace huir y se queda a retener a Vorthan (capturado, esclavizado después).
+   Stella, las hace huir y se queda a retener a Vortham (capturado, esclavizado después).
 2. **Mitad — la muerte de Vera:** aparece en la escena en que Vera va a rescatar a Selka (beat 11);
    le da info de **dónde está Selka** y Vera promete **volver por él**. *(Luego Vera es engañada por
-   Vorthan y muere.)*
+   Vortham y muere.)*
 3. **Antes del clímax:** **Stella lo visita** justo **antes de ir a luchar contra el Parásito**
    (reencuentro padre-hija tras 20 años; él, anciano esclavo).
 4. **Final:** es **rescatado** y **sobrevive**. Cuando **Selka se vuelve buena y sabe la verdad**, le
@@ -699,16 +699,16 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
    "Fui yo" será pago, no sorpresa gratis.)*
    Selka, peleando contra su propia duda, glacial: "He ejecutado a cientos… no recuerdo a ninguna como 'mamá'."
 4. **La derrota como ELECCIÓN (Opción A):** justo cuando Stella casi la despierta, se corta — **Selka,
-   aterrada de lo que está sintiendo (empujada por Vorthan), le arranca el Orbe** para callar la duda.
+   aterrada de lo que está sintiendo (empujada por Vortham), le arranca el Orbe** para callar la duda.
    Stella **pierde porque eligió no traicionar lo que es** (no matar, apostar por su hermana). Cae en
    **coma** (cascarón, sin pulso — **NO muere**). *(Su caída es consecuencia de su mejor cualidad, no de
    ser débil.)*
    - *Por qué no muere:* **Gix entra en su cuerpo desde su ADN**, pequeño y débil, y **le abraza el
      corazón para mantenerlo latiendo**. *(Eco de la escena 1: el juguete de luz, ahora su última chispa.)*
-5. Selka **coloca el Orbe en la consola** (Vorthan no puede tocarlo) → **no vuelve la luz**: en su lugar, **se
+5. Selka **coloca el Orbe en la consola** (Vortham no puede tocarlo) → **no vuelve la luz**: en su lugar, **se
    revela el gran secreto** — el **palacio cobra vida y empieza a despegar: SIEMPRE fue una NAVE** (lo
-   que todos creían un "meteorito hecho palacio"). Es lo que Vorthan siempre quiso: energía para volar.
-6. **Transformación de Vorthan (orden):**
+   que todos creían un "meteorito hecho palacio"). Es lo que Vortham siempre quiso: energía para volar.
+6. **Transformación de Vortham (orden):**
    - **Primero en VERA:** con la forma de la madre **juega con / engaña a Stella**. Stella, moribunda, la
      ve, cree que vino por ella y **muere-en-paz** ("Mamá… viniste") → entra en coma.
    - **Luego en MAREK:** revela que el "amigo líder de la resistencia" **siempre fue él**.
@@ -718,16 +718,16 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
    verdad fui yo, vistiendo tu rostro"*. Y **ríe**. → Doble horror: **Selka nunca mató a su madre**, y
    **Vera murió creyendo que su propia hija la mataba.** Retomamos el "oído" del beat 11. La **nana**
    termina de romper a Selka.
-8. Selka se quiebra. Vorthan toma su **forma real (el Parásito biomecánico colosal)**. Mientras **Brog y
+8. Selka se quiebra. Vortham toma su **forma real (el Parásito biomecánico colosal)**. Mientras **Brog y
    Nima rescatan a Stella**, Selka **se planta a hacerle frente al Parásito para cubrir el rescate** —
    pero **no le da la talla**: el Parásito, casi sin esfuerzo, le **secciona el brazo**. *(Su primer acto
    por verdad, no por doctrina — heroico aunque inútil; le compra a Stella la salida.)*
 9. El Parásito la **ignora** y sigue **levantando su nave**. **Theron entra** (al fin reconoce a su
    presa milenaria) y, con **Brog y Nima**, sacan a **Stella en coma** y **arrastran a Selka** (manca,
    sin resistirse). Escapan en la nave de **Theron**.
-   - **Por qué Vorthan no los persigue:** su **prioridad es asegurar su retorno** a Morth — despegar con
+   - **Por qué Vortham no los persigue:** su **prioridad es asegurar su retorno** a Morth — despegar con
      el Orbe — no perder tiempo cazando a los que huyen.
-10. El **palacio-nave de Vorthan despega** con el Orbe y abre un **portal**: se va a seguir devorando
+10. El **palacio-nave de Vortham despega** con el Orbe y abre un **portal**: se va a seguir devorando
     mundos. **Theron:** "Por fin sé adónde va a llevarlo." *(Suelo para la Peli 2.)*
 11. **Cierre en la nave de Theron** (tres dolientes: Stella en coma + Selka manca + Naio rescatado):
     - **Selka se vuelve buena y sabe la verdad.** Le **pide perdón a su padre (Naio)** y le **promete
@@ -743,7 +743,7 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 
 > **Cambios vs. versión vieja:** Selka/General ahora **21** (no 28); el **palacio ES la nave** que
 > despega (antes la nodriza estaba "bajo los cimientos"); **Naio rescatado vivo**; Stella en **coma**
-> (revive en Peli 2 gracias a Naio + Selka); se integra el **giro del "amigo"-Vorthan**.
+> (revive en Peli 2 gracias a Naio + Selka); se integra el **giro del "amigo"-Vortham**.
 
 ## 🎞️ FORMATO DE SAGA
 - Sigue siendo **Película 1 de 2-3**. Título de la Peli 1: **EL NODO DE ERDIA**.
@@ -756,7 +756,7 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
 - **El pelo de Stella:** se tiñe para camuflarse al volver (beat 13) y **al final conserva el cabello
   teñido** (no vuelve al blanco). *(En la cultura naiel el blanco es un voto; conservarlo teñido marca
   que el exilio la cambió — ya no es la naiel pura de antes.)*
-- **Marek:** ✅ nombre del **disfraz de Vorthan** como "amigo líder de la resistencia" (el topo).
+- **Marek:** ✅ nombre del **disfraz de Vortham** como "amigo líder de la resistencia" (el topo).
 
 ---
 
@@ -766,13 +766,13 @@ Mantenemos el final fuerte que ya teníamos (**escena del trono + "Fui yo"**), a
   - **Stella:** **14** al huir → vive **~5 años subjetivos** afuera (dilatación 1:4) → **~19** al final.
   - **Selka:** **1** al huir → **21** al final.
   Los marcadores (8 / 14 / "5 después") son **waypoints dentro de esos 20 años**.
-- **Selka:** ✅ resuelto — bebé tomada y **criada por Vorthan**, crece con sus mentiras (ver sección Selka).
+- **Selka:** ✅ resuelto — bebé tomada y **criada por Vortham**, crece con sus mentiras (ver sección Selka).
 - **Orbe / palacio-nave / arco del Orbe / Naio / humanos / final:** ✅ resueltos (ver secciones arriba).
 - **Theron:** ✅ resuelto — especie víctima de los shape-shifters; rastrea por tacto/vista/referencia
   física, pero NO puede rastrear a los parásitos (de ahí que necesite el rastro del Orbe de Stella).
-- **Nombres del Rey:** ✅ **Vorthan** en sus dos formas; su planeta es **Morth**.
+- **Nombres del Rey:** ✅ **Vortham** en sus dos formas; su planeta es **Morth**.
 - **Theron:** ✅ especie **los Threa**, planeta **Orun**. **Piratas:** ✅ **Ren** y **Juno** (+ Noah).
-- **Orbe-en-ADN:** ✅ resuelto — Vorthan puede extraer su poder pero **no tocarlo** (candado de ADN);
+- **Orbe-en-ADN:** ✅ resuelto — Vortham puede extraer su poder pero **no tocarlo** (candado de ADN);
   solo la **familia de Stella** lo manipula → por eso usa a **Selka**.
 - **Gix:** ✅ invento de Naio a partir del ADN de Stella.
 - **Aún abierto (menor):** nombre de la **ciudad** principal de Erdia; **diseños/look** (con imágenes).

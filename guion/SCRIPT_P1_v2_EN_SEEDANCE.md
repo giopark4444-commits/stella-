@@ -4,7 +4,7 @@
 > English translation of `GUION_P1_v2.md`. Screenplay format, written from the canon in
 > `PELI1_v2_material_base.md` and `TRATAMIENTO_narrado_P1.md`.
 >
-> 🔒 **Golden rule:** @Vorthan's shapeshifting is a secret until the climax. In this script, @Vorthan is
+> 🔒 **Golden rule:** Vortham's shapeshifting is a secret until the climax. In this script, Vortham is
 > written as a tyrant king, @S1G1 as a robot, @Marek as a loyal ally, and @Selka as @Vera's killer.
 > It is written **as the audience lives it**, not as we know it to be.
 >
@@ -180,9 +180,9 @@ The three of them embrace, far too briefly. @Vera lifts the baby.
 
 The main door opens.
 
-In walks **@VORTHAN** — the King. Tall, serene, with the **smile of an old family friend**. Robot soldiers behind him, filling the doorway like a shadow.
+In walks **VORTHAM** — the King. Tall, serene, with the **smile of an old family friend**. Robot soldiers behind him, filling the doorway like a shadow.
 
-**@VORTHAN**
+**VORTHAM**
 *(almost fondly)*
 @Naio. Old friend.
 *(he takes in the scene, the suit, the empty bassinet)*
@@ -190,7 +190,7 @@ You knew this day was coming.
 
 @Vera and @Stella are already sliding toward the rear exit, slowly, not running yet. But the King's eyes see everything.
 
-**@VORTHAN (CONT'D)**
+**VORTHAM (CONT'D)**
 *(without raising his voice)*
 Don't let them out.
 
@@ -238,7 +238,7 @@ At the far end: the doors of the **ORB CHAMBER.**
 
 An immense chamber. At its center, suspended, the **ORB** — a sphere of pure luzagua, beating like the world's second heart.
 
-@Vera and @Stella come in from one side. From the other, at the same moment, comes **@VORTHAN.**
+@Vera and @Stella come in from one side. From the other, at the same moment, comes **VORTHAM.**
 
 They look at each other across the chamber. A race decided in a single heartbeat.
 
@@ -272,11 +272,11 @@ She turns and runs to her mother with everything she has. She breaks the one rul
 **@VERA (CONT'D)**
 NO! STAY BACK!
 
-Too late. **@VORTHAN** intercepts her. He catches her **by the braid** and lifts her off the floor, leaving her hanging, pinned, kicking at the air.
+Too late. **VORTHAM** intercepts her. He catches her **by the braid** and lifts her off the floor, leaving her hanging, pinned, kicking at the air.
 
 @Stella weeps with rage and helplessness. The King, holding her by the hair, **laughs** under his breath.
 
-**@VORTHAN**
+**VORTHAM**
 *(soft, almost paternal)*
 So like your mother. Running toward what she loves.
 *(beat)*
@@ -330,11 +330,11 @@ She grits her teeth. She enters the duct.
 
 The blast spits @Stella out the other side, into open sky.
 
-BELOW, in the chamber: @Vera dead on the floor. The baby crying beside her. **@VORTHAN** approaches, unhurried, and **lifts @Selka** into his arms. The baby goes quiet, looking up at him.
+BELOW, in the chamber: @Vera dead on the floor. The baby crying beside her. **VORTHAM** approaches, unhurried, and **lifts @Selka** into his arms. The baby goes quiet, looking up at him.
 
 Two robots bend to collect @Vera's body. The King stops them with a gesture.
 
-**@VORTHAN**
+**VORTHAM**
 *(cold, not looking at her)*
 What are you doing? She's already dead.
 *(he turns away with the baby)*
@@ -407,21 +407,21 @@ Total white.
 
 ## SEQ. 9 — INT. PALACE, ROYAL BALCONY — ERDIA — [YEAR 0] — DAY
 
-Under a sky that is still blue, **@VORTHAN** addresses an immense crowd. A voice in mourning. Flawless.
+Under a sky that is still blue, **VORTHAM** addresses an immense crowd. A voice in mourning. Flawless.
 
-**@VORTHAN**
+**VORTHAM**
 Today, we have been robbed.
 *(he lets the word land)*
 The Orb — the heart of Erdia, the source of everything we are — has been torn out of our world.
 
 A murmur of horror across the plaza.
 
-**@VORTHAN (CONT'D)**
+**VORTHAM (CONT'D)**
 Without it, the light will go. The water will go. And our planet… will begin to die.
 
 Behind him, displayed in holding pens, the **THREE PILOTS** who saved @Stella — captive, beaten. (The rest of the allies died opening her the sky.)
 
-**@VORTHAN (CONT'D)**
+**VORTHAM (CONT'D)**
 And who has condemned us to this? One of our own.
 *(beat)*
 A child we gave everything to. Who chose to keep everyone's light for herself rather than let it run.
@@ -430,7 +430,7 @@ A child we gave everything to. Who chose to keep everyone's light for herself ra
 
 The crowd, who that morning would have loved her, begins to chant her name with hatred.
 
-@VORTHAN holds **baby @Selka** in his arms, in front of them all. The baby looks out at the raging plaza, understanding none of it.
+VORTHAM holds **baby @Selka** in his arms, in front of them all. The baby looks out at the raging plaza, understanding none of it.
 
 And very slowly, almost imperceptibly, the King **strokes her head** — like a father.
 
@@ -1006,7 +1006,7 @@ Majesty… the Orb should bring the light back. What is this? What's happening?
 
 From the throne, laughter. A thousand voices at once.
 
-**@VORTHAN (O.S.)**
+**VORTHAM (O.S.)**
 The light was never for them, little one.
 *(beat)*
 And it was never yours.
@@ -1015,7 +1015,7 @@ And it was never yours.
 
 ## SEQ. 26 — INT. THRONE ROOM — CONTINUOUS — "IT WAS ME"
 
-@VORTHAN rises from the throne. And begins to **change.**
+VORTHAM rises from the throne. And begins to **change.**
 
 First he takes the form of **@VERA.**
 

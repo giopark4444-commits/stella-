@@ -338,30 +338,30 @@ Referencias a adjuntar: @[STELLA](§STELLA§), @[SELKA](§SELKA§), @[NAIO](§NA
 ```
 Un abrazo de los tres, demasiado corto. @[VERA](§VERA§) levanta a la bebé.
 La puerta principal se abre.
-Entra @[VORTHAN](§VORTHAN§) —el Rey. Alto, sereno, con una sonrisa de viejo amigo de la familia. Soldados-robot detrás de él, llenando el umbral como una sombra.
+Entra @[VORTHAM](§VORTHAM§) —el Rey. Alto, sereno, con una sonrisa de viejo amigo de la familia. Soldados-robot detrás de él, llenando el umbral como una sombra.
 
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
-Referencias a adjuntar: @[VERA](§VERA§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[VERA](§VERA§), @[VORTHAM](§VORTHAM§)
 ```
 
 ### BLOQUE 26 · ~17s
 
 ```
-@[VORTHAN](§VORTHAN§)
+@[VORTHAM](§VORTHAM§)
 (casi con cariño)
 @[NAIO](§NAIO§). Old friend.
 (mira la escena, el traje, el moisés vacío)
 You knew this day was coming.
 @[VERA](§VERA§) y @[STELLA](§STELLA§) ya se deslizan hacia la salida trasera, despacio, sin correr todavía. Pero los ojos del Rey lo ven todo.
-@[VORTHAN](§VORTHAN§) (CONT.)
+@[VORTHAM](§VORTHAM§) (CONT.)
 (sin levantar la voz)
 Don't let them out.
 
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
 @[STELLA](§STELLA§) siempre tiene su brazalete en el brazo izquierdo.
-Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[NAIO](§NAIO§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[NAIO](§NAIO§), @[VORTHAM](§VORTHAM§)
 ```
 
 ### BLOQUE 27 · ~15s
@@ -435,13 +435,13 @@ Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), Orbe
 
 ```
 Una cámara inmensa. En el centro, suspendido, el ORBE —una esfera de luzagua pura, latiendo como un corazón segundo del mundo.
-@[VERA](§VERA§) y @[STELLA](§STELLA§) entran por un lado. Por el otro, al mismo tiempo, entra @[VORTHAN](§VORTHAN§).
+@[VERA](§VERA§) y @[STELLA](§STELLA§) entran por un lado. Por el otro, al mismo tiempo, entra @[VORTHAM](§VORTHAM§).
 Se miran a través de la sala. Una carrera de un solo latido.
 
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
 @[STELLA](§STELLA§) siempre tiene su brazalete en el brazo izquierdo.
-Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[VORTHAN](§VORTHAN§), Orbe, luzagua
+Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[VORTHAM](§VORTHAM§), Orbe, luzagua
 ```
 
 ### BLOQUE 32 · ~18s
@@ -493,18 +493,18 @@ Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[SELKA](§SEL
 Se da media vuelta y corre hacia su madre con toda su fuerza. Rompe la única regla. Por amor.
 @[VERA](§VERA§) (CONT.)
 NO! STAY BACK!
-Demasiado tarde. @[VORTHAN](§VORTHAN§) la intercepta. La atrapa por la trenza y la levanta del piso, dejándola colgando, inmóvil, pataleando en el aire.
+Demasiado tarde. @[VORTHAM](§VORTHAM§) la intercepta. La atrapa por la trenza y la levanta del piso, dejándola colgando, inmóvil, pataleando en el aire.
 
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
-Referencias a adjuntar: @[VERA](§VERA§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[VERA](§VERA§), @[VORTHAM](§VORTHAM§)
 ```
 
 ### BLOQUE 36 · ~20s
 
 ```
 @[STELLA](§STELLA§) llora de rabia y de impotencia. El Rey, sosteniéndola del pelo, ríe por lo bajo.
-@[VORTHAN](§VORTHAN§)
+@[VORTHAM](§VORTHAM§)
 (suave, casi paternal)
 So like your mother. Running toward what she loves.
 (beat)
@@ -514,7 +514,7 @@ En el suelo, @[VERA](§VERA§) junta lo último que le queda. Levanta las dos ma
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
 @[STELLA](§STELLA§) siempre tiene su brazalete en el brazo izquierdo.
-Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[VORTHAM](§VORTHAM§)
 ```
 
 ### BLOQUE 37 · ~19s
@@ -586,19 +586,19 @@ Referencias a adjuntar: @[STELLA](§STELLA§), @[SELKA](§SELKA§), @[S1G1](§S1
 ```
 —y se atasca en el orificio. Forcejea. Chispas. EXPLOTA.
 La onda escupe a @[STELLA](§STELLA§) por el otro lado, al cielo abierto.
-ABAJO, en la sala: @[VERA](§VERA§) inmóvil en el piso. La bebé llorando a su lado. @[VORTHAN](§VORTHAN§) se acerca, sin prisa, y levanta a @[SELKA](§SELKA§) en sus brazos. La bebé se calla, mirándolo.
+ABAJO, en la sala: @[VERA](§VERA§) inmóvil en el piso. La bebé llorando a su lado. @[VORTHAM](§VORTHAM§) se acerca, sin prisa, y levanta a @[SELKA](§SELKA§) en sus brazos. La bebé se calla, mirándolo.
 Dos robots se inclinan a recoger el cuerpo de @[VERA](§VERA§). El Rey los detiene con un gesto.
 
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
 @[STELLA](§STELLA§) siempre tiene su brazalete en el brazo izquierdo.
-Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[SELKA](§SELKA§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[SELKA](§SELKA§), @[VORTHAM](§VORTHAM§)
 ```
 
 ### BLOQUE 42 · ~15s
 
 ```
-@[VORTHAN](§VORTHAN§)
+@[VORTHAM](§VORTHAM§)
 (frío, sin mirarla)
 What are you doing? She's already dead.
 (se da la vuelta con la bebé)
@@ -609,7 +609,7 @@ El Rey se va con la bebé en brazos, dejando a @[VERA](§VERA§) tirada en el su
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
 @[STELLA](§STELLA§) siempre tiene su brazalete en el brazo izquierdo.
-Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[STELLA](§STELLA§), @[VERA](§VERA§), @[VORTHAM](§VORTHAM§)
 ```
 
 
@@ -775,35 +775,35 @@ Audio: Just rich sound design, no music at all.
 ### BLOQUE 56 · ~18s
 
 ```
-Bajo un cielo todavía azul, @[VORTHAN](§VORTHAN§) habla ante una multitud inmensa. Voz de luto. Perfecta.
-@[VORTHAN](§VORTHAN§)
+Bajo un cielo todavía azul, @[VORTHAM](§VORTHAM§) habla ante una multitud inmensa. Voz de luto. Perfecta.
+@[VORTHAM](§VORTHAM§)
 Today, we have been robbed.
 (deja caer la palabra)
 The Orb — the heart of Erdia, the source of everything we are — has been torn out of our world.
 
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
-Referencias a adjuntar: @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[VORTHAM](§VORTHAM§)
 ```
 
 ### BLOQUE 57 · ~19s
 
 ```
 Murmullo de horror en la plaza.
-@[VORTHAN](§VORTHAN§) (CONT.)
+@[VORTHAM](§VORTHAM§) (CONT.)
 Without it, the light will go. The water will go. And our planet… will begin to die.
 Detrás de él, exhibidos en celdas, los TRES PILOTOS que salvaron a @[STELLA](§STELLA§) —presos, vencidos. (Los demás aliados cayeron abriéndole el cielo.)
 
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
 @[STELLA](§STELLA§) siempre tiene su brazalete en el brazo izquierdo.
-Referencias a adjuntar: @[STELLA](§STELLA§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[STELLA](§STELLA§), @[VORTHAM](§VORTHAM§)
 ```
 
 ### BLOQUE 58 · ~17s
 
 ```
-@[VORTHAN](§VORTHAN§) (CONT.)
+@[VORTHAM](§VORTHAM§) (CONT.)
 And who has condemned us to this? One of our own.
 (beat)
 A child we gave everything to. Who chose to keep everyone's light for herself rather than let it run.
@@ -813,18 +813,18 @@ A child we gave everything to. Who chose to keep everyone's light for herself ra
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
 @[STELLA](§STELLA§) siempre tiene su brazalete en el brazo izquierdo.
-Referencias a adjuntar: @[STELLA](§STELLA§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[STELLA](§STELLA§), @[VORTHAM](§VORTHAM§)
 ```
 
 ### BLOQUE 59 · ~14s
 
 ```
 La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio.
-@[VORTHAN](§VORTHAN§) sostiene a la bebé @[SELKA](§SELKA§) en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
+@[VORTHAM](§VORTHAM§) sostiene a la bebé @[SELKA](§SELKA§) en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
 
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
-Referencias a adjuntar: @[SELKA](§SELKA§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[SELKA](§SELKA§), @[VORTHAM](§VORTHAM§)
 ```
 
 ### BLOQUE 60 · ~15s
@@ -2109,14 +2109,14 @@ Audio: Just rich sound design, no music at all.
 (a la sombra del trono)
 Majesty… the Orb should bring the light back. What is this? What's happening?
 Desde el trono, una risa. Mil voces a la vez.
-@[VORTHAN](§VORTHAN§) (O.S.)
+@[VORTHAM](§VORTHAM§) (O.S.)
 The light was never for them, little one.
 (beat)
 And it was never yours.
 
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
-Referencias a adjuntar: @[SELKA](§SELKA§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[SELKA](§SELKA§), @[VORTHAM](§VORTHAM§)
 ```
 
 
@@ -2125,12 +2125,12 @@ Referencias a adjuntar: @[SELKA](§SELKA§), @[VORTHAN](§VORTHAN§)
 ### BLOQUE 158 · ~7s
 
 ```
-@[VORTHAN](§VORTHAN§) se levanta del trono. Y empieza a cambiar.
+@[VORTHAM](§VORTHAM§) se levanta del trono. Y empieza a cambiar.
 Primero toma la forma de @[VERA](§VERA§).
 
 Style: hand-painted 2D anime, painterly watercolor backgrounds, cinematic composition and mood, expressive character acting, fluid motion, film-grade lighting, soft grain. warm hand-painted look with a quiet, observational mood. 21:9, 20s.
 Audio: Just rich sound design, no music at all.
-Referencias a adjuntar: @[VERA](§VERA§), @[VORTHAN](§VORTHAN§)
+Referencias a adjuntar: @[VERA](§VERA§), @[VORTHAM](§VORTHAM§)
 ```
 
 ### BLOQUE 159 · ~16s

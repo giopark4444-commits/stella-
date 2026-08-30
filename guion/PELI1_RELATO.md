@@ -269,12 +269,12 @@ La nana se quebró en un grito.
 —*ERA MI MADRE.*
 
 Encendió el sable y se lanzó a matar, por primera vez en veinte años por verdad y no por
-doctrina. Pero la ilusión estalló, y el falso rey tomó su forma real: Vorthan, el Parásito,
+doctrina. Pero la ilusión estalló, y el falso rey tomó su forma real: Vortham, el Parásito,
 colosal, biomecánico, de mil bocas, el devorador de mundos que Theron había perseguido durante
 milenios —y la fuerza que llevaba un siglo escondida, juntando poder en aquel planeta, era el
 Orbe; ni el propio cazador lo había imaginado—. De un solo tajo, le seccionó el brazo a Selka.
 
-Pero Vorthan no la remató, ni la persiguió. Ya tenía lo único que le importaba. Mientras la
+Pero Vortham no la remató, ni la persiguió. Ya tenía lo único que le importaba. Mientras la
 nave nodriza despertaba bajo los cimientos del palacio, el monstruo solo quería despegar. Y
 Selka —manca, agonizante, con veinte años de imperio cayéndosele del cuerpo como una armadura
 que ya no le servía— tomó la única decisión que le quedaba por tomar: dejó caer el sable, le
@@ -285,7 +285,7 @@ reventaron un muro y entraron por ellas. *No te dejo*, le dijo Brog a Selka, y l
 mientras Nima cargaba a Stella.
 
 Escaparon a la órbita mientras Erdia se resquebrajaba. De las ruinas ascendió la nave de
-Vorthan, iluminada por dentro con la luz robada, abrió un portal y desapareció rumbo a su nido,
+Vortham, iluminada por dentro con la luz robada, abrió un portal y desapareció rumbo a su nido,
 a su mundo, a Vorth —llevándose el corazón del planeta.
 
 —Veinte mil años persiguiéndolo —dijo Theron, sin emoción, viéndolo partir—. Por fin tiene lo

@@ -2,7 +2,7 @@
 ## Guion — Película 1 (v2.5) · Borrador de producción
 
 > Guion en formato cine, escrito desde el canon de `PELI1_v2_material_base.md` y `TRATAMIENTO_narrado_P1.md`.
-> 🔒 **Regla de oro:** el cambio de forma de @Vorthan es secreto hasta el clímax. En este guion, @Vorthan se
+> 🔒 **Regla de oro:** el cambio de forma de Vortham es secreto hasta el clímax. En este guion, Vortham se
 > escribe como un rey tirano, @S1G1 como un robot, @Marek como un aliado leal y @Selka como la responsable de la caída de @Vera.
 > Se escribe **como lo vive el público**, no como sabemos que es.
 >
@@ -12,7 +12,7 @@
 > **Ajustes de canon (v2.1):**
 > • **Ojos:** **@Vera** y **@Selka** tienen **ojos gris-azul** (consistencia visual).
 > • **Cicatriz:** **@Selka** tiene una **cicatriz sobre el ojo izquierdo** desde los **9 años** — se la hace
->   **@Vorthan** de un golpe en la SEC 12A. Antes de eso (bebé) NO la tiene; de ahí en adelante SIEMPRE.
+>   **Vortham** de un golpe en la SEC 12A. Antes de eso (bebé) NO la tiene; de ahí en adelante SIEMPRE.
 > • **Geografía:** el **laboratorio de @Naio está DENTRO del palacio imperial** (@Naio es el científico del Rey). Por eso la huida **lab → pasillos → Sala del Orbe** es continua, en un mismo edificio.
 > • **Pelo blanco:** es el **voto naieli de la familia** (@Stella, @Vera, @Naio, @Selka). La **resistencia y los
 >   pilotos NO** son todos de pelo blanco. Los **aliados que salvan a @Stella son 3 pilotos** de aspecto variado.
@@ -39,17 +39,17 @@
 >   de operador. El movimiento siempre es mecánico y con masa.
 > • **EL ORBE ES LA ÚNICA LUZ DE SU SALA.** Todo el mundo está silueteado contra lo que todos quieren,
 >   y cuando @Stella se lo lleva **la sala se queda a oscuras** — y su madre se queda dentro.
-> • **@GIX SE INVOCA, CRECE Y SE MONTA.** Sale del brazalete del tamaño de una mano —@Vorthan se ríe—
+> • **@GIX SE INVOCA, CRECE Y SE MONTA.** Sale del brazalete del tamaño de una mano —Vortham se ríe—
 >   y **crece hasta ser más grande que el demoledor** (`@GixGrande`). @Stella **lo cabalga** hasta el
 >   Orbe. Después **se atraviesa** delante del golpe del Rey, se deshace, y **todas sus partículas
 >   entran en el cuerpo de @Stella**: ahí vive los veinticuatro años siguientes. Es también el origen
->   de la **brasa** que @Vorthan ve en el clímax.
+>   de la **brasa** que Vortham ve en el clímax.
 > • **A @STELLA LA REVIENTA EL DEMOLEDOR** justo antes de tocar el Orbe: un golpe que la manda a
 >   veinte metros y un **impacto contra el suelo que destruye el piso entero del salón**. De ahí sale
 >   muy mal herida — y de ahí sale la trenza atrapada bajo una placa, que es **por qué se la corta.**
 > • **EL ÚLTIMO PODER DE @VERA NO PROTEGE: REVIENTA.** Una descarga que le sale del cuerpo entero y
 >   tira al Rey, al demoledor y a @S1G1 — todo menos a su hija. Ese hueco es por donde @Stella sale.
-> • **A @VERA LA MATA @VORTHAN, NO @S1G1.** El Rey entra por otra puerta con **@S1G1** y un **robot
+> • **A @VERA LA MATA VORTHAM, NO @S1G1.** El Rey entra por otra puerta con **@S1G1** y un **robot
 >   demoledor de tres metros** (`@RobotDemoledor`). El demoledor la tumba; el Rey camina hasta ella
 >   **con @Stella colgando del pelo**, le quita la hoja a @S1G1 sin mirarlo, y la atraviesa él mismo
 >   delante de su hija. **No lo delega.** @S1G1 queda para lo suyo: perseguirla por el ducto.
@@ -115,14 +115,14 @@
 >   blanco y **la confunde con su madre** — baja la guardia y camina hacia ella con las palmas
 >   abiertas. Y **algo la golpea por detrás.** No vemos qué. POV: su mano con la luz apagándose y una
 >   silueta que se aleja de espaldas. Macro de la **pupila dilatándose** hasta tragarse la pantalla.
-> • **La SEC 24 lo retoma y esta vez la cámara no se va:** el que la golpea es **@VORTHAN en forma
+> • **La SEC 24 lo retoma y esta vez la cámara no se va:** el que la golpea es **VORTHAM en forma
 >   humana**, que llevaba ahí desde antes. Y su motivo, que nadie enuncia: lo único que no puede
 >   permitirse es que @Stella llegue hasta @Selka **desarmada y llamándola por un nombre** — eso podría
 >   despertarla. Una pelea, en cambio, mantiene a @Selka en modo soldado.
-> • Después @Stella se levanta y **pelea con @Selka por el Orbe**, @Selka gana, y @Vorthan **sigue siendo
+> • Después @Stella se levanta y **pelea con @Selka por el Orbe**, @Selka gana, y Vortham **sigue siendo
 >   humano** hasta que @Selka pone el Orbe en la consola. Solo entonces se transforma.
 > • ⚠️ **La SEC 0 no puede mostrar** la cara de @Selka (solo silueta de pelo blanco de espaldas), ni a
->   @Vorthan, ni a @Marek. La confusión con la madre es deliberada y planta el disfraz del clímax.
+>   Vortham, ni a @Marek. La confusión con la madre es deliberada y planta el disfraz del clímax.
 >
 > **Revisión v2.4 (2026-08-23):**
 > • **@Brog pasa a llamarse BROGU** y deja de ser un gigante de piedra: es un ser con **aspecto de
@@ -146,7 +146,7 @@
 >
 > **Revisión v2.3 (2026-08-18):**
 > • **SEC 12A NUEVA — @Selka a los 9 y el origen de la cicatriz.** Pelea contra un autómata de combate
->   entero y pierde porque **titubea**. @Vorthan, avergonzado, le cruza el ojo izquierdo — la única vez en
+>   entero y pierde porque **titubea**. Vortham, avergonzado, le cruza el ojo izquierdo — la única vez en
 >   toda la película que se le rompe la cara. Ella se levanta y **destroza al autómata sin titubear**,
 >   y sigue golpeando chatarra mucho después de que dejó de moverse. Él consigue en cuatro segundos lo
 >   que no consiguió en ocho años. **Es el segundo exacto en que se fabrica a la General.**
@@ -157,14 +157,14 @@
 >   de mi cuarto»)*.
 > • **@Selka NO es General en el año 14:** tiene 15 y sigue siendo **cadete**, pero con aposentos dentro
 >   del palacio y el apoyo exclusivo del Rey, que la cría él mismo. Por eso @Vera puede encontrarla ahí.
-> • **El muelle (SEC 26):** @Vorthan sostuvo la resistencia 24 años para dejarle a @Stella un sitio donde
+> • **El muelle (SEC 26):** Vortham sostuvo la resistencia 24 años para dejarle a @Stella un sitio donde
 >   atracar al volver. No podía cruzar el cielo a buscar el Orbe; solo podía dejar la puerta abierta.
 >
 > **Revisión v2.2 (2026-08-17):**
-> • **@Naio es prisionero del palacio** (nunca estuvo en las minas): @Vorthan lo conserva porque él encriptó
+> • **@Naio es prisionero del palacio** (nunca estuvo en las minas): Vortham lo conserva porque él encriptó
 >   el Orbe y es el único que podría saber cómo extraerlo. Se guarda una llave cerca.
 > • **La noche del año 14 ocurre entera dentro del palacio** (celdas del nivel de servicio → aposentos).
-> • **La SEC 20 se parte en dos:** el público ve "a @Selka" acabar con a @Vera (es @Vorthan con su cara); en la
+> • **La SEC 20 se parte en dos:** el público ve "a @Selka" acabar con a @Vera (es Vortham con su cara); en la
 >   SEC 20A la @Selka real descubre el arma en su propia mano, sin memoria de nada.
 > • **El acto 3 abre con el tinte y el permiso** (SEC 20B): @Theron concede la misión de reconocimiento y
 >   @Nima le tiñe el pelo. El pelo blanco es el rasgo de la línea de @Vera: teñírselo es borrarse a su madre.
@@ -173,7 +173,7 @@
 >   en la SEC 18) y el descubrimiento de que **el palacio no tiene cimientos** (SEC 19; se lo confía a @Naio,
 >   y es el arma de la Película 2).
 > • **@Marek rescató a @Vera** de la sala del Orbe (sembrado en SEC 19, detonado en SEC 26): la resistencia
->   entera es una red de @Vorthan.
+>   entera es una red de Vortham.
 
 ---
 
@@ -888,9 +888,9 @@ Un abrazo de los tres, demasiado corto, con la bebé apretada en medio.
 
 La puerta principal se abre.
 
-Entra **@VORTHAN** —el Rey. Alto, sereno, con una **sonrisa de viejo amigo de la familia**. Soldados-robot detrás de él, llenando el umbral como una sombra.
+Entra **VORTHAM** —el Rey. Alto, sereno, con una **sonrisa de viejo amigo de la familia**. Soldados-robot detrás de él, llenando el umbral como una sombra.
 
-**@VORTHAN**
+**VORTHAM**
 *(casi con cariño)*
 @Naio. Viejo amigo.
 *(mira la escena: el traje a medio poner, la bebé en brazos de su madre, la salida trasera)*
@@ -898,7 +898,7 @@ Sabías que este día llegaría.
 
 @Vera y @Stella ya se deslizan hacia la salida trasera, despacio, sin correr todavía. Pero los ojos del Rey lo ven todo.
 
-**@VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 *(sin levantar la voz)*
 No las dejen escapar.
 
@@ -912,7 +912,7 @@ El Rey lo mira casi con pena. Y lo derriba de un solo golpe, como quien aparta u
 
 Un robot se inclina a rematarlo. El Rey lo detiene **con dos dedos.**
 
-**@VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 *(sin dejar de mirar a @Naio en el suelo)*
 Ese no.
 *(beat)*
@@ -984,7 +984,7 @@ Y **es la única luz que hay aquí dentro.** Todo lo demás en esta sala —las 
 
 Y por el otro se abre una puerta y entran tres.
 
-**@VORTHAN.** Andando. Sin prisa.
+**VORTHAM.** Andando. Sin prisa.
 
 A su derecha, **@S1G1** —un robot distinto: oscuro, esbelto, rápido, sin el ruido de los demás. Un cazador.
 
@@ -1001,7 +1001,7 @@ Y @Stella **no espera.**
 
 Y el Rey, sin moverse del sitio, sin levantar la voz, casi con pereza:
 
-**@VORTHAN**
+**VORTHAM**
 Ataquen.
 
 Y los dos **salen disparados. Vuelan.**
@@ -1028,9 +1028,9 @@ empieza a **arrastrarse hacia su madre.**
 
 *(Le acaban de dar una sola regla y la rompe en el primer minuto. **Va a seguir rompiéndolas durante veinticuatro años.**)*
 
-@Vorthan la mira arrastrarse. Y se le suaviza la voz.
+Vortham la mira arrastrarse. Y se le suaviza la voz.
 
-**@VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 Tan parecida a tu madre. Arrastrándose hacia lo que ama.
 *(beat)*
 Por eso siempre pierden.
@@ -1053,9 +1053,9 @@ Y entonces, de rodillas entre los escombros, con lo poco que le queda, **@Stella
 
 Sale del tamaño de una mano. Una criatura de partículas de luz con forma de axolote, temblando en el aire, diminuta en medio de una catedral rota.
 
-Y **@Vorthan se ríe.**
+Y **Vortham se ríe.**
 
-**@VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 *(divertido de verdad)*
 …¿Eso?
 
@@ -1063,11 +1063,11 @@ Y @Gix **crece.**
 
 Las partículas se multiplican, se ordenan, se llenan de luz —y en dos segundos hay en esa sala un animal de luz **más grande que el demoledor.**
 
-@Vorthan deja de reírse.
+Vortham deja de reírse.
 
 Y por un segundo —**el único de toda la secuencia**— nadie se mueve. Ni las máquinas, ni el Rey, ni ella.
 
-*(Es la primera vez en la película que @Vorthan mira algo que no esperaba.)*
+*(Es la primera vez en la película que Vortham mira algo que no esperaba.)*
 
 @Stella se sube a él. **Y cabalga.**
 
@@ -1083,7 +1083,7 @@ Y **la sala se queda a oscuras.**
 
 *(La única luz que había aquí dentro se acaba de ir con ella.)*
 
-@Vorthan levanta la mano.
+Vortham levanta la mano.
 
 *(No para acabar con. **No puede.** Ese Orbe está encriptado dentro de esa niña y no sale de ahí sin ella. Lo que le lanza es para **tumbarla y quitársela del cuerpo.**)*
 
@@ -1159,11 +1159,11 @@ La onda escupe a @Stella por el otro lado, al cielo abierto.
 
 ABAJO, en la sala a oscuras: @Vera **boca abajo entre los escombros, sin moverse.**
 
-**@VORTHAN** se levanta del suelo sacudiéndose, **con la bebé todavía en un brazo.** @Selka ha dejado de llorar. Lo mira.
+**VORTHAM** se levanta del suelo sacudiéndose, **con la bebé todavía en un brazo.** @Selka ha dejado de llorar. Lo mira.
 
 Dos robots se inclinan a recoger el cuerpo de @Vera. El Rey los detiene con un gesto.
 
-**@VORTHAN**
+**VORTHAM**
 *(frío, sin mirarla)*
 ¿Qué hacen? Ya se apagó.
 *(se da la vuelta con la bebé)*
@@ -1238,21 +1238,21 @@ Blanco total.
 
 ## SEC. 9 — INT. PALACIO, BALCÓN REAL — ERDIA — [AÑO 0] — DÍA
 
-Bajo un cielo todavía azul, **@VORTHAN** habla ante una multitud inmensa. Voz de luto. Perfecta.
+Bajo un cielo todavía azul, **VORTHAM** habla ante una multitud inmensa. Voz de luto. Perfecta.
 
-**@VORTHAN**
+**VORTHAM**
 Hoy nos han robado.
 *(deja caer la palabra)*
 El Orbe —el corazón de Erdia, la fuente de todo lo que somos— ha sido arrancado de nuestro mundo.
 
 Murmullo de horror en la plaza.
 
-**@VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 Sin él, la luz se irá. El agua se irá. Y nuestro planeta… empezará a morir.
 
 Detrás de él, exhibidos en celdas, los **TRES PILOTOS** que salvaron a @Stella —presos, vencidos. (Los demás aliados cayeron abriéndole el cielo.)
 
-**@VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 ¿Y quién nos ha condenado a esto? Una de los nuestros.
 *(beat)*
 Una niña a la que le dimos todo. Que prefirió quedarse con la luz de todos antes que dejarla correr.
@@ -1261,7 +1261,7 @@ Una niña a la que le dimos todo. Que prefirió quedarse con la luz de todos ant
 
 La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio.
 
-@VORTHAN sostiene a la **bebé @Selka** en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
+VORTHAM sostiene a la **bebé @Selka** en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
 
 Y muy despacio, casi sin que se note, el Rey le **acaricia la cabeza** —como un padre.
 
@@ -1425,22 +1425,22 @@ Pelean de verdad. La niña es rápida y está bien entrenada —se le nota quié
 
 La tira al suelo. Se levanta. La vuelve a tirar. Se vuelve a levantar.
 
-Desde la penumbra, sentado, **@VORTHAN** mira.
+Desde la penumbra, sentado, **VORTHAM** mira.
 
 Y aquí está el problema: @Selka **titubea**. Cada vez que tiene el golpe hecho, se frena una fracción de segundo. Como si le costara. Y en esa fracción, el autómata la castiga.
 
 La tira otra vez. Y otra.
 
-@Vorthan **se pone de pie.** No puede seguir sentado.
+Vortham **se pone de pie.** No puede seguir sentado.
 
-**@VORTHAN**
+**VORTHAM**
 Otra vez.
 
 @Selka se levanta. Ataca. Vuelve a frenarse a mitad del golpe. El autómata la manda contra la pared.
 
 Silencio. Solo la respiración de la niña en el suelo.
 
-Y a @Vorthan se le sube algo a la cara que no es rabia: es **vergüenza**. Ocho años. Ocho años puestos en esto.
+Y a Vortham se le sube algo a la cara que no es rabia: es **vergüenza**. Ocho años. Ocho años puestos en esto.
 
 Cruza la sala. @Selka se está incorporando —confusa, esperando una corrección— cuando lo ve venir.
 
@@ -1468,17 +1468,17 @@ Hasta que no queda nada que golpear.
 
 Se queda de pie sobre los restos, medio ciega, temblando de agotamiento, con la hoja colgando de la mano.
 
-Y @Vorthan —que hace un minuto estaba avergonzado— la mira ahora **con algo parecido al orgullo.** Acaba de conseguir en cuatro segundos lo que no consiguió en ocho años.
+Y Vortham —que hace un minuto estaba avergonzado— la mira ahora **con algo parecido al orgullo.** Acaba de conseguir en cuatro segundos lo que no consiguió en ocho años.
 
 Se acerca. Se arrodilla a su altura. Le retira la mano del ojo con una suavidad insoportable y mira la herida como quien mira un desperfecto en un mueble caro.
 
-**@VORTHAN**
+**VORTHAM**
 *(dulce)*
 Ahí estabas.
 
 Le limpia la mejilla con el pulgar.
 
-**@VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 *(se incorpora, ya sereno, saliendo)*
 Que te la curen. Pero que se vea.
 *(en la puerta, sin voltear)*
@@ -2285,7 +2285,7 @@ Y otra vez la vemos bajar las manos. Otra vez la vemos caminar hacia ella con la
 
 Y ahora la cámara **no se corta.** Se queda. Y por primera vez vemos lo que había detrás de ella todo este tiempo.
 
-**@VORTHAN.**
+**VORTHAM.**
 
 De pie en la penumbra, con su forma de siempre, esperando. Lleva ahí desde antes de que ella reventara la cúspide.
 
@@ -2295,9 +2295,9 @@ Cruza los tres metros que los separan y le cruza la espalda de un golpe seco, si
 
 @Stella se desploma de cara contra el suelo.
 
-*(Y ahí está el motivo, aunque nadie lo diga todavía: lo único que @Vorthan no puede permitirse es que esa mujer llegue hasta @Selka **desarmada, llorando y llamándola por un nombre.** Eso podría despertarla. Una pelea, en cambio, es segura: peleando, @Selka sigue siendo un soldado.)*
+*(Y ahí está el motivo, aunque nadie lo diga todavía: lo único que Vortham no puede permitirse es que esa mujer llegue hasta @Selka **desarmada, llorando y llamándola por un nombre.** Eso podría despertarla. Una pelea, en cambio, es segura: peleando, @Selka sigue siendo un soldado.)*
 
-@Vorthan se retira a la penumbra. Ya hizo lo que tenía que hacer.
+Vortham se retira a la penumbra. Ya hizo lo que tenía que hacer.
 
 Y la figura de pelo blanco **por fin se gira.**
 
@@ -2387,7 +2387,7 @@ Majestad… el Orbe debería traer la luz. ¿Qué es esto? ¿Qué está pasando?
 
 Desde el trono, una risa. Mil voces a la vez.
 
-**@VORTHAN (O.S.)**
+**VORTHAM (O.S.)**
 La luz nunca fue para ellos, pequeña.
 *(beat)*
 Y nunca fue tuya.
@@ -2396,7 +2396,7 @@ Y nunca fue tuya.
 
 ## SEC. 26 — INT. SALA DEL TRONO — CONTINUO — "FUI YO"
 
-@VORTHAN se levanta del trono. Y empieza a **cambiar.**
+VORTHAM se levanta del trono. Y empieza a **cambiar.**
 
 Primero toma la forma de **@VERA.**
 
@@ -2501,7 +2501,7 @@ No está muerta.
 
 Por primera vez en toda la película, esa cosa se queda absolutamente quieta.
 
-**@VORTHAN**
+**VORTHAM**
 *(muy bajo, para sí)*
 …Eso no estaba ahí.
 
@@ -2514,7 +2514,7 @@ No llora. No grita. Se le va todo de la cara, como cuando se apaga una pantalla.
 **@SELKA**
 ¿Cuántos años llevas usándome.
 
-**@VORTHAN**
+**VORTHAM**
 *(divertido, recomponiéndose)*
 Veinticuatro.
 
@@ -2525,7 +2525,7 @@ Voy a hacerlo una vez más. Esta vez elijo yo a quién.
 
 Y ataca —no por rabia: para **cubrir el rescate de su hermana.**
 
-A @Vorthan se le borra la sonrisa. Dos cosas fuera de control en un mismo minuto: la niña que no murió, y el arma que eligió bando.
+A Vortham se le borra la sonrisa. Dos cosas fuera de control en un mismo minuto: la niña que no murió, y el arma que eligió bando.
 
 Y la cosa abandona todos los disfraces. No como un truco: como una **rabieta.** Toma su **forma real.**
 
@@ -2687,7 +2687,7 @@ CORTE A NEGRO.
 - **@Theron entró DESPUÉS de la transformación:** vio solo la forma de Parásito. **Sigue sin saber que es un
   cambiaformas.** @Selka y @Naio sí lo saben — contárselo (o callárselo) es una escena de la P2.
 - **@Naio sabe qué es la nave-palacio y por dónde se abre** (el legado de @Vera, SEC 19/29): el arma de la P2.
-- **@Vorthan sabe que @Stella no murió** (vio la brasa, SEC 27). La niña que se le escapó dos veces.
+- **Vortham sabe que @Stella no murió** (vio la brasa, SEC 27). La niña que se le escapó dos veces.
 - **La cicatriz de @Selka** es la única prueba física de que la máscara del Rey se rompe. Se la hizo él a
   los 9 años, por una pregunta. Ella la lleva en cada plano de la película sin saber lo que significa.
 - **La señal de @Vera existe** (SEC 12/18): la voz de la madre, grabada. Una reliquia para las dos hermanas.

@@ -22,7 +22,7 @@
 - **El corte de vuelta es de caída a caída:** ella se precipita al palacio, la cámara se precipita
   al planeta (SEC 1). El mismo movimiento dos veces: bajar al centro de algo y encontrarlo hueco.
 - **La SEC 23 retoma ese plano** y esta vez no se corta.
-- ⚠️ **La SEC 0 NO puede mostrar** la cara de Selka (solo silueta blanca), ni a Marek, ni a Vorthan,
+- ⚠️ **La SEC 0 NO puede mostrar** la cara de Selka (solo silueta blanca), ni a Marek, ni a Vortham,
   ni el interior del palacio. Ahí viven los tres secretos.
 - **Motivo:** el proyecto compite contra cientos de otros; los primeros diez segundos deciden si
   alguien sigue viendo.
@@ -98,22 +98,22 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
 
 **Cambios v2.3:**
 - **SEC 12A NUEVA — Selka a los 9.** Pelea contra un autómata de combate entero y pierde porque
-  **titubea**. Vorthan, avergonzado, le cruza el ojo izquierdo (única vez que se le rompe la cara).
+  **titubea**. Vortham, avergonzado, le cruza el ojo izquierdo (única vez que se le rompe la cara).
   Ella se levanta y **destroza al autómata sin titubear**, y sigue golpeando chatarra mucho después
   de que dejó de moverse. **Es el segundo exacto en que se fabrica a la General.**
 - **La cicatriz tiene origen** y se cobra en la SEC 26.
 - **Fuera la nana** de todo el guion: en SEC 20A el remate es el pelo blanco de la muerta; en SEC 26,
   encajar quién era («la del piso, la de mi cuarto»).
 - **Selka es CADETE en el año 14**, no General (15 años, aposentos en el palacio, criada por el Rey).
-- **El muelle (SEC 26):** Vorthan sostuvo la resistencia 24 años para dejarle a Stella dónde atracar.
+- **El muelle (SEC 26):** Vortham sostuvo la resistencia 24 años para dejarle a Stella dónde atracar.
 - Hojas nuevas: `@Selka9`, `@Selka9Herida`, `@SalaInstruccion`, `@AutomataInstruccion`.
 
 **Cambios v2.2:**
 - **Naio es PRISIONERO DEL PALACIO** (celdas del nivel de servicio) los 24 años — **nunca estuvo en las minas**.
-  Vorthan lo conserva porque él encriptó el Orbe y es el único que podría saber cómo extraerlo.
+  Vortham lo conserva porque él encriptó el Orbe y es el único que podría saber cómo extraerlo.
 - **La noche del año 14 ocurre entera dentro del palacio:** Marek le abre a Vera una reja de servicio;
   Vera ve a Naio en las celdas y sube por Selka.
-- **La SEC 20 va en dos tiempos:** el público ve "a Selka" matar a Vera (es Vorthan con su cara; cierra
+- **La SEC 20 va en dos tiempos:** el público ve "a Selka" matar a Vera (es Vortham con su cara; cierra
   con una sonrisa que solo se entiende en el segundo visionado); en la **SEC 20A** la Selka real descubre
   el arma en su propia mano, sin memoria. *(La nana se eliminó en v2.3.)*
 - **El acto 3 abre con la SEC 20B (el tinte y el permiso):** Theron concede la misión ("Bajas. Miras.
@@ -123,16 +123,16 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
   Stella en la SEC 18 (reemplaza a la "foto/proyector" antigua); (2) **"el palacio no tiene cimientos"**
   (SEC 19) — se lo confía a Naio, y en la SEC 29 Naio se lo ofrece a Theron: *"Yo sé por dónde se abre"*
   (el arma de la P2).
-- **Marek rescató a Vera** de la sala del Orbe (por eso Vorthan la dejó tirada: la estaba reservando).
+- **Marek rescató a Vera** de la sala del Orbe (por eso Vortham la dejó tirada: la estaba reservando).
   La resistencia entera es una red suya. En la SEC 26 lo confiesa con crueldad total.
-- **Clímax reordenado (SEC 27):** Vorthan ve la **brasa de Gix** (sabe que Stella no murió — le arruinó
+- **Clímax reordenado (SEC 27):** Vortham ve la **brasa de Gix** (sabe que Stella no murió — le arruinó
   el placer); Selka se levanta **fría** y elige bando; la transformación en Parásito es una **rabieta**,
   no un truco.
 - **Korin** le dice a Stella la verdad sobre Vera en la SEC 22 (tapaba un agujero: en la SEC 24 ella le
   reprocha a la General la muerte de la madre — antes nadie se lo había contado).
 - **Vera sobrevive al ataque de S1G1** — la herida es "la atraviesa por la espalda" (ya NO "le perfora
   el corazón", incompatible con sobrevivir 3 días).
-- **Theron:** su poder exige **referencia física**; nunca vio a Vorthan (por eso 20.000 años sin cazarlo)
+- **Theron:** su poder exige **referencia física**; nunca vio a Vortham (por eso 20.000 años sin cazarlo)
   y **no sabe que es cambiaformas** (entró tras la transformación). En SEC 27 por fin lo VE → puede
   rastrearlo (motor de la P2).
 
@@ -143,7 +143,7 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
   Korin, Lessa y pilotos NO son de pelo blanco (el pelo blanco es de la línea familiar).
 - **Gix:** NO humano — axolote de luz (luzagua-azul con puntos dorados).
 - **Naiel/naieli** = la especie/pueblo. **Luzagua** = agua-y-luz que brilla.
-- **Selka:** cicatriz sobre el ojo izquierdo **desde los 9 años** (se la hace Vorthan, SEC 12A);
+- **Selka:** cicatriz sobre el ojo izquierdo **desde los 9 años** (se la hace Vortham, SEC 12A);
   desde la SEC 27, **manca**.
 
 ## 📁 Dónde vive cada cosa (`guion/*.md`)

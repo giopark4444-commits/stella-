@@ -19,7 +19,7 @@
 | `@Naio` | padre ~45, pelo blanco, ojos cansados amables, bata sobre túnica naiel | 19,21-28,32-35 | ⬜ por ubicar | ⬜ |
 | `@SelkaBebe` | bebé, mechón blanco, **grey-blue eyes**, envuelta en tela pálida | 29-33,40,47,49,51,64-65,88 | ⬜ por ubicar | ⬜ |
 | `@Gix` | pequeño **ser de luz** cálida, brillo luciérnaga, núcleo geométrico tenue | 9,18,30,31 | ⬜ por ubicar | ⬜ |
-| `@Vorthan` | el Rey: alto, regio, sin edad, **sonrisa que no llega a los ojos**, túnicas imperiales oscuras/doradas | 34-35,44,53,64-65,82-88 | ⬜ por ubicar | ⬜ |
+| `@vortham` | el Rey: alto, regio, sin edad, **sonrisa que no llega a los ojos**, túnicas imperiales oscuras/doradas | 34-35,44,53,64-65,82-88 | ⬜ por ubicar | ⬜ |
 | `@S1G1` | robot esbelto oscuro, placas negro-gris mate, **un óptico**, ágil, sigiloso | 48,50,55,62,63 | **Stella_Villans** — "Agente Modelo 04" asesino | ✅ |
 | `@RobotImperial` | robots imperiales blanco/gris, visor sin rostro, voluminosos | 34,40,47,57,64,65 | **Stella_Villans** (otras hojas de robot) | 🟡 |
 | `@Piloto1` | piloto que habla por **radio** (tiene cara); **NO pelo blanco**; traje de vuelo | 72,73,74 | tu **piloto 1** | ✅ |
@@ -62,8 +62,8 @@
 - **31 referencias** en total: 14 personajes · 3 naves · 8 locaciones · 6 props.
 - ✅ **Listas (9):** `@StellaRopa`, `@StellaArmadura`, `@StellaPeloCorto`, `@VeraRopa`, `@VeraArmadura`, `@Piloto1`, `@Piloto2`, `@Piloto3`, `@S1G1`.
 - 🟡 **Asignar:** `@RobotImperial`.
-- ⬜ **Faltan por ubicar:** `@Naio`, `@SelkaBebe`, `@Gix`, `@Vorthan`.
+- ⬜ **Faltan por ubicar:** `@Naio`, `@SelkaBebe`, `@Gix`, `@vortham`.
 - ⬜ **Locaciones/props:** generar establishings (CLIPS marcados) y reusarlos como referencia.
 
-> **Prioridad de setup:** los que más salen — las 3 Stella (✅), `@VeraRopa` (✅), `@Naio`, `@Vorthan`,
+> **Prioridad de setup:** los que más salen — las 3 Stella (✅), `@VeraRopa` (✅), `@Naio`, `@vortham`,
 > `@SelkaBebe`, `@Gix`. Con esos cubres el 90% de los planos del Acto 1.

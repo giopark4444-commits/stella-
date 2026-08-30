@@ -4,7 +4,7 @@
 > Todos los `@tags` realmente usados en `PROMPTS_ACTO1/2/3.md` (63 elementos). Guarda cada uno en
 > "Elementos" con el **nombre exacto** (sin el @) y los prompts los autoconectan.
 > **Actos:** dónde aparece. **Estado:** ✅ ya la tienes/confirmada · ⬜ por ubicar o generar.
-> 🔒 = secreto: `@Marek`, `@Parasito`, `@SelkaNiña`, `@NavePalacio` son la misma entidad (Vorthan) — elementos
+> 🔒 = secreto: `@Marek`, `@Parasito`, `@SelkaNiña`, `@NavePalacio` son la misma entidad (Vortham) — elementos
 > separados para no spoilear. 🔑 Locaciones sin arte: genera el establishing y reúsalo como `@location`.
 >
 > **✅ Verificado contra tu Drive (2026-06-30)** · carpeta `Stella_Character_Drafts` (manifiesto `estante.json`):
@@ -32,9 +32,9 @@
 | `@SelkaGeneral` | la General (21), armadura blanca/dorada, gris-azul, cicatriz ojo izq.; luego manca | A2·A3 | ✅ `selka_general` + `selka_manca` · ⚠️ añadir cicatriz a la lámina |
 | `@SelkaNiña` 🔒 | Selka de niña (forma del "Fui yo"), gris-azul | A3 | 🟡 derivar de `selka_4_bebe` |
 | `@Gix` | axolotl-espíritu de agua y luz (azul-luzagua + dorado, con cara) | A1·A2·A3 | ✅ `gix` (lámina recibida) |
-| `@Vorthan` | el Rey | A1·A2·A3 | ✅ `rey_humano` |
-| `@Marek` 🔒 | líder de la resistencia (=Vorthan) | A2·A3 | ✅ `marek_rey_infiltrado` |
-| `@Parasito` 🔒 | colosal (~300m) de rostros que gritan, membrana negra que traga la luz, sin bordes; muta (esporas / brazos / cortina-ciudad / esfera-vórtice) (=Vorthan) | A3 | ✅ `vorthan_real_parasito` |
+| `@vortham` | el Rey | A1·A2·A3 | ✅ `rey_humano` |
+| `@Marek` 🔒 | líder de la resistencia (=Vortham) | A2·A3 | ✅ `marek_rey_infiltrado` |
+| `@Parasito` 🔒 | colosal (~300m) de rostros que gritan, membrana negra que traga la luz, sin bordes; muta (esporas / brazos / cortina-ciudad / esfera-vórtice) (=Vortham) | A3 | ✅ `vorthan_real_parasito` |
 | `@S1G1` | robot asesino oscuro, un óptico | A1 | ✅ |
 | `@RobotImperial` | soldados robot imperiales | A1·A2·A3 | 🟡 |
 | `@CazadorRecompensas` | cazarrecompensas/esclavistas | A2 | ⬜ **falta — generar** |
@@ -102,7 +102,7 @@
 ## RESUMEN — verificado contra Drive (2026-06-30)
 - **63 elementos** = 29 personajes · 6 naves · 17 locaciones · 11 props.
 - ✅ **Personajes confirmados en Drive (21):** las 3 Stella + `@StellaTeñida`, `@VeraRopa`,
-  `@VeraEncapuchada`, `@Naio`, `@NaioEsclavo`, `@SelkaBebe`, `@SelkaGeneral` (+manca), `@Vorthan`,
+  `@VeraEncapuchada`, `@Naio`, `@NaioEsclavo`, `@SelkaBebe`, `@SelkaGeneral` (+manca), `@vortham`,
   `@Marek`, `@Parasito`, `@Theron`, `@Nima`, `@Noah`, `@Vosk`, `@S1G1`, `@Piloto1/2/3`.
 - 🟡 **Derivables de una lámina existente (3):** `@VeraArmadura` (de `vera_madre`),
   `@NaioRescatado` (de `naio_esclavo`), `@SelkaNiña` (de `selka_4_bebe`). + `@RobotImperial` por asignar.
@@ -111,7 +111,7 @@
 - ⬜ **Aún no en Drive:** **las 6 naves** y **los 11 props** (`@Orbe`, `@LlaveDeLuz`, `@Brazalete`,
   `@MechaFlores`, `@HojaSelka`, etc.). Las **17 locaciones** se cubren con su **establishing** y se reúsan.
 - 🔒 **No olvidar:** `@Marek` (`marek_rey_infiltrado`), `@Parasito` (`vorthan_real_parasito`) ya existen
-  como láminas aparte de `@Vorthan` (`rey_humano`) — bien hecho, el secreto no se filtra en el set.
+  como láminas aparte de `@vortham` (`rey_humano`) — bien hecho, el secreto no se filtra en el set.
 
 > **Lo más urgente por generar (recurrentes y aún sin lámina):** `@Orbe`, `@LlaveDeLuz`, `@Brog`,
 > `@Korin`. Lo demás ya está cubierto o es derivable. (`@Gix` ✅ ya recibido.)
@@ -120,6 +120,6 @@
 > `stella_14_nina`→StellaRopa · `stella_22_guerrera`→StellaArmadura/PeloCorto ·
 > `stella_adulta_pelo_tenido`→StellaTeñida · `vera_madre`→VeraRopa · `vera_mayor_lider`→VeraEncapuchada ·
 > `naio_cientifico`→Naio · `naio_esclavo`→NaioEsclavo · `selka_4_bebe`→SelkaBebe ·
-> `selka_general`/`selka_manca`→SelkaGeneral · `rey_humano`→Vorthan · `marek_rey_infiltrado`→Marek ·
+> `selka_general`/`selka_manca`→SelkaGeneral · `rey_humano`→Vortham · `marek_rey_infiltrado`→Marek ·
 > `vorthan_real_parasito`→Parasito · `theron_cazador`→Theron · `nima`→Nima · `noah_humano`→Noah ·
 > `vosk_maton`→Vosk.

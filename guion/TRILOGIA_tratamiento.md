@@ -1,10 +1,10 @@
 # TRILOGÍA — EL NODO DE ERDIA
 
-> ⚠️ **RECONCILIADO A CANON v2 (2026-06-30).** Fuente de verdad de la trilogía: `TRILOGIA_v2_panorama.md` (y de la Peli 1, `GUION_P1_v2.md`). Cambios v2 aplicados: **Vorthan = un único ser cambiaformas (NO colmena)**, forma real = el **Parásito** colosal; **Naio vivo**; **Gix** (del ADN de Stella) sostiene y revive a Stella (el brazalete solo lo invoca); títulos **P2 "El Despertar"**, **P3 "Morth"**. El detalle se afinará después.
+> ⚠️ **RECONCILIADO A CANON v2 (2026-06-30).** Fuente de verdad de la trilogía: `TRILOGIA_v2_panorama.md` (y de la Peli 1, `GUION_P1_v2.md`). Cambios v2 aplicados: **Vortham = un único ser cambiaformas (NO colmena)**, forma real = el **Parásito** colosal; **Naio vivo**; **Gix** (del ADN de Stella) sostiene y revive a Stella (el brazalete solo lo invoca); títulos **P2 "El Despertar"**, **P3 "Morth"**. El detalle se afinará después.
 
 
 > Arquitectura: **solo / solo / dúo.** Cada película tiene su propia protagonista,
-> género y mundo. **Vorthan es un único ser cambiaformas** de Morth (NO una colmena); su
+> género y mundo. **Vortham es un único ser cambiaformas** de Morth (NO una colmena); su
 > forma real es el **Parásito** colosal. "Nodo" = Erdia fue **un nodo** (una parada de
 > alimentación) en su largo camino de mundos devorados.
 
@@ -17,7 +17,7 @@
 - **El Orbe no se puede tomar por la fuerza:** solo se transfiere por un portador vivo
   que lo entrega o al que se lo arrancan. Por eso el Parásito necesita rehenes y
   manos ajenas; nunca puede cogerlo él mismo.
-- **Vorthan es un único ser cambiaformas** (no colmena). Se infiltra como salvador o
+- **Vortham es un único ser cambiaformas** (no colmena). Se infiltra como salvador o
   líder y espera a que le entreguen la llave (el Orbe). No conquista: coloniza por
   dentro.
 - **Dilatación temporal:** cerca del Orbe / en los saltos hiperespaciales, el tiempo
@@ -72,7 +72,7 @@ el robo imposible para recuperar el Orbe y revivir a la hermana que ella misma d
 
 **ACTO 1 — La impostora entre parias.**
 La General despierta en la flota: prisionera, no aliada. La tripulación (que perdió sus
-mundos al imperio de Vorthan) la desprecia. Stella en el tanque: motor de culpa
+mundos al imperio de Vortham) la desprecia. Stella en el tanque: motor de culpa
 constante. La General comprende que ella es ahora la única ventaja: **conoce al
 Parásito desde dentro** — sus patrones, su nave, cómo piensa. Ofrece el robo.
 
@@ -84,7 +84,7 @@ Stella, dentro del coma, "conversa" con la ilusión de su madre — mantiene viv
 La nana de la infancia empieza a perseguir a la General.
 
 **ACTO 3 — El robo quirúrgico.**
-Infiltración en la NAVE de Vorthan (no en Morth — eso se reserva). Entran,
+Infiltración en la NAVE de Vortham (no en Morth — eso se reserva). Entran,
 toman el Orbe, salen, con un costo. NO derrotan al Parásito: solo recuperan la llave.
 De vuelta, conectan el Orbe al soporte vital. El ajolote se materializa, mira a la
 General, y se disuelve clavando sus filamentos en el pecho de Stella.
@@ -97,23 +97,23 @@ mentira entre ellas, sin una palabra todavía. *Redención + esperanza.*
 # PELÍCULA 3 — "MORTH" (antes "La Colmena")
 ### Protagonistas: STELLA + LA GENERAL · Género: cine de guerra · Mundo: MORTH
 
-**Logline:** Reunidas al fin, las dos hermanas lideran el asalto de la flota contra Morth para destruir a Vorthan de raíz, devolver el Orbe a Erdia y enterrar la
+**Logline:** Reunidas al fin, las dos hermanas lideran el asalto de la flota contra Morth para destruir a Vortham de raíz, devolver el Orbe a Erdia y enterrar la
 mentira que les robó veinte años.
 
 **ACTO 1 — Hermanas extrañas.**
 Stella despierta a un mundo nuevo y a una hermana adulta y enemiga que ya no la odia
 pero no sabe quererla. Tienen que aprender a ser hermanas mientras se prepara la guerra.
-Vorthan se mueve: amenaza con devorar el siguiente mundo. Deciden atacar Morth.
+Vortham se mueve: amenaza con devorar el siguiente mundo. Deciden atacar Morth.
 
 **ACTO 2 — El asalto.**
 Guerra a gran escala: la flota del Cazador, Brog, Nima, las dos hermanas. Se abren paso
-hacia el corazón de Morth. Pérdidas. Vorthan usa su arma psicológica: toma las formas
+hacia el corazón de Morth. Pérdidas. Vortham usa su arma psicológica: toma las formas
 de los muertos (la madre, el padre, los caídos de la tripulación). Prueba final de las
 hermanas: distinguir el amor real de la ilusión que devora.
 
 **ACTO 3 — Invertir el flujo.**
 Stella canaliza la luz del Orbe; la General la protege con la furia de su único brazo.
-**Invierten el flujo:** obligan a **Vorthan a devorarse a sí mismo**. El Parásito implosiona, borrado para siempre.
+**Invierten el flujo:** obligan a **Vortham a devorarse a sí mismo**. El Parásito implosiona, borrado para siempre.
 
 → **CIERRE:** El Orbe vuelve a Erdia. El padre tira de la palanca; la luz y el agua
 regresan. Las hermanas eligen caminos opuestos —Stella a las estrellas, la General se

@@ -157,7 +157,7 @@ among aliens, brave tired eyes, neutral background. @STYLE
 
 ### `@marek` · Marek (2º líder de la resistencia = el Rey infiltrado) `[futuro]`
 - **ref_id:** `6108f350` ✅ (16:9 limpia)
-- **Quién:** se ve como camarada noble y de fiar; ES el Rey/Vorthan disfrazado (el topo). Diseño cálido y confiable.
+- **Quién:** se ve como camarada noble y de fiar; ES el Rey/Vortham disfrazado (el topo). Diseño cálido y confiable.
 - **Prompt de referencia:**
 ```
 Character reference, a warm trustworthy alien man, white hair, open honest comrade's
@@ -174,7 +174,7 @@ Character reference, a hard aggressive alien crew bully, harsh angular features,
 expression, heavy worn gear, intimidating build, neutral background. @STYLE
 ```
 
-### `@vorthan_real` · Vorthan / el Parásito (forma real) `[futuro]`
+### `@vorthan_real` · Vortham / el Parásito (forma real) `[futuro]`
 - **ref_id:** `90f40f08` ✅ (16:9 limpia)
 - **Prompt de referencia:**
 ```

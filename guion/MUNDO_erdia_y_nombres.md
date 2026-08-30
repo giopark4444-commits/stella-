@@ -128,7 +128,7 @@ su herida: una niña a la que vaciaron de lo que amaba.)*
 | El Orbe (nombre sagrado) | **la Fuente Madre** (común: *el Orbe*) | El primer cauce, el corazón del que todo el nai del planeta fluye. |
 | La orden de Selka | **la Guardia Vacía** | Los vaciados de luz para poder matar. |
 | El guerrero de la Tierra | **Noah** | Humano reclutado; espejo físico de Stella. Nombre *terrenal* a propósito: su sonido "de la Tierra" delata su origen entre tanto nombre alien, sin explicarlo. |
-| El 2º líder de la resistencia (= el Rey infiltrado) | **Marek** | El topo. Mejor amigo de Vera; suena a camarada leal — y por eso, sabiendo la verdad, da escalofrío. Alias del Cauce Mayor (Vorthan) cuando coloniza la resistencia por dentro. |
+| El 2º líder de la resistencia (= el Rey infiltrado) | **Marek** | El topo. Mejor amigo de Vera; suena a camarada leal — y por eso, sabiendo la verdad, da escalofrío. Alias del Cauce Mayor (Vortham) cuando coloniza la resistencia por dentro. |
 | Los dos leales de Vera | **Korin** y **Lessa** | Su círculo cercano; reconocen a Stella "por los ojos". Pasan de leales a Vera a leales a Stella. (Korin, firme; Lessa, ágil.) |
 | El matón de la nave nodriza | **Vosk** | El que acosa a Stella al llegar; sonido duro, áspero. Tras ser rescatado y herido por ella, termina respetándola. |
 

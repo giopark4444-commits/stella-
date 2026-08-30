@@ -3,7 +3,7 @@
 > Una hoja de referencia (retrato + 3/4 + cuerpo entero) por personaje, para generarlo
 > consistente en GPT Image 2. Fondo neutro, Hayao Miyazaki style, Satoshi Kon mood, hand-painted 2D anime style, 21:9. Genera cada uno y
 > guárdalo en 01_PERSONAJES/ ; reúsalo como referencia en los frames del storyboard.
-> 🔒 = secreto de trama (@Marek, @Parasito, @SelkaNiña = @Vorthan).
+> 🔒 = secreto de trama (@Marek, @Parasito, @SelkaNiña = Vortham).
 
 # 👤 PERSONAJES (31)
 
@@ -103,7 +103,7 @@
 - **Appearance:** white hair pulled back with discipline; grey-blue eyes; a small, serious, tired face with no childishness left in it; slight, wiry nine-year-old build, all knees and elbows; fair skin; a plain white-and-grey training uniform, well made and worn thin at the elbows; a short light-cutter held with both hands because one is not enough yet.
 - **Key features:** white hair tied back; grey-blue eyes; **NO scar yet** — she gets it in this very scene; nine years old, small and wiry; plain training uniform; too serious for her age.
 - **Palette:** white and pale grey uniform, white hair, grey-blue eyes, fair skin.
-- **Notes:** Acto 2, SEC 12A. Es el único puente entre @SelkaBebe (1 año) y @SelkaCadete (15). **Sin cicatriz** — @Vorthan se la hace a mitad de escena, avergonzado de verla perder contra un autómata. Genera también una variante con la herida recién hecha sobre el ojo izquierdo, la mano en la cara, luz escapándose entre los dedos (nunca estirpe).
+- **Notes:** Acto 2, SEC 12A. Es el único puente entre @SelkaBebe (1 año) y @SelkaCadete (15). **Sin cicatriz** — Vortham se la hace a mitad de escena, avergonzado de verla perder contra un autómata. Genera también una variante con la herida recién hecha sobre el ojo izquierdo, la mano en la cara, luz escapándose entre los dedos (nunca estirpe).
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no scar, no text, no watermark, no logos, only one character, no extra characters.
 
 ### @SelkaBebe — @Selka, bebé de 1 año
@@ -139,7 +139,7 @@
 - **Appearance:** white hair, soft and short like a small child's; big grey-blue eyes; sweet, innocent little-child face; small delicate build; fair skin; simple pale naiel child's clothing; gentle, guileless, slightly uncanny stillness.
 - **Key features:** white hair; grey-blue eyes; small innocent child; pale simple clothing.
 - **Palette:** pale cream clothing, white hair, grey-blue eyes, soft fair skin.
-- **Notes:** 🔒 Plot secret — this apparition is a form worn by @Vorthan ("Fui yo" / it was me). Act 3. Render as an innocent child; the reveal is that it is the villain's illusion. Grey-blue eyes.
+- **Notes:** 🔒 Plot secret — this apparition is a form worn by @vortham ("Fui yo" / it was me). Act 3. Render as an innocent child; the reveal is that it is the villain's illusion. Grey-blue eyes.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Gix — axolote de luz (NO humano)
@@ -151,9 +151,9 @@
 - **Notes:** Act 1-2-3. A creature, not a person. Playful, empathetic; the warm spark in the "light game."
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no text, no watermark, no logos, only one character, no extra characters.
 
-### @Vorthan — el Rey
+### @vortham — el Rey
 - **Style:** 2D hand-painted anime CHARACTER SHEET (model sheet / turnaround), cel-animation style — clean line work, flat cel shading with simple shadow shapes, restrained detail; the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; soft cinematic lighting, soft grain. 21:9 aspect ratio.
-- **Character:** Make a character sheet of @Vorthan, the King — tall, ageless, regal, the film's antagonist wearing a benevolent mask.
+- **Character:** Make a character sheet of Vortham, the King — tall, ageless, regal, the film's antagonist wearing a benevolent mask.
 - **Appearance:** tall, ageless, imposing yet graceful; a calm, friendly smile that never reaches the eyes; refined regal features; upright commanding posture; ornate dark-and-gold imperial robes, layered and elaborate with imperial insignia; an aura of disarming warmth over cold menace.
 - **Key features:** tall ageless regal figure; calm friendly smile that never reaches the eyes; ornate dark-and-gold imperial robes.
 - **Palette:** dark and gold imperial robes, regal cold tones.
@@ -166,16 +166,16 @@
 - **Appearance:** warm, open, trustworthy face with kind eyes and an easy inspiring smile; approachable and charismatic; average-to-tall sturdy build; naiel features; weathered but hopeful; humble worn resistance clothing — layered cloak, muted earthy tones, practical gear — nothing regal, deliberately of-the-people; a leader who radiates hope.
 - **Key features:** warm charismatic trustworthy face; inspiring easy smile; humble worn resistance clothing in muted earth tones.
 - **Palette:** muted earthy browns and greys, warm skin, kind eyes.
-- **Notes:** 🔒 Plot secret — @Marek is @Vorthan in disguise, infiltrating the resistance. Act 2-3. Keep him visually distinct and warm so the twist stays hidden; render as a separate person from the King.
+- **Notes:** 🔒 Plot secret — @Marek is @vortham in disguise, infiltrating the resistance. Act 2-3. Keep him visually distinct and warm so the twist stays hidden; render as a separate person from the King.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no text, no watermark, no logos, only one character, no extra characters.
 
-### @Parasito — forma real de @Vorthan 🔒
+### @Parasito — forma real de Vortham 🔒
 - **Style:** 2D hand-painted anime CHARACTER SHEET (model sheet / turnaround), cel-animation style — clean line work, flat cel shading with simple shadow shapes, restrained detail; the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; soft cinematic lighting, soft grain. 21:9 aspect ratio.
-- **Character:** Make a character sheet of The Parasite — the true form of @Vorthan, a ~300m colossal being with no fixed shape.
+- **Character:** Make a character sheet of The Parasite — the true form of Vortham, a ~300m colossal being with no fixed shape.
 - **Appearance:** NOT humanoid — a colossal (~300m) pitch-black mass built of countless human faces (the devoured) that surface, cry, cry and sink back as it endlessly transforms; a porous black membrane that drinks in all light, matte and lightless; no fixed form, no clean boundaries; alternate shapes it flows into — scattering shadow-spores, a giant-armed silhouette, a curtain of darkness draping a whole city, a gravity-vortex sphere. Show the model sheet as a few of these shifting states (colossal face-mass, spore cloud, giant-armed form, vortex sphere).
 - **Key features:** colossal ~300m black mass; countless screaming human faces surfacing and sinking; light-drinking porous black membrane; no fixed form; multiple morphing states.
 - **Palette:** pitch-black, matte lightless black that swallows light; faint pale anguished faces the only lighter tone.
-- **Notes:** 🔒 Plot secret — this is @Vorthan's real form (revealed in SEC 26, Act 3). @Vorthan, @Marek and @Parasito are the same entity. Violence by light/harshness — horror through the screaming faces and devouring darkness, not harshness.
+- **Notes:** 🔒 Plot secret — this is @vortham's real form (revealed in SEC 26, Act 3). @vortham, @Marek and @Parasito are the same entity. Violence by light/harshness — horror through the screaming faces and devouring darkness, not harshness.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no text, no watermark, no logos, only one character, no extra characters.
 
 ### @Theron — el Cazador (especie Threa), cazarrecompensas ancestral

@@ -24,14 +24,14 @@ el reencuentro mudo con el padre).
 
 ## 転 TEN — Fui yo  (giro · ~12%)
 El pivote que recontextualiza todo. Selka entrega el Orbe creyendo que salva su mundo, y
-el Rey se revela: Vorthan, el Parásito. Con la voz de la madre: "Fui yo... vistiendo tu
+el Rey se revela: Vortham, el Parásito. Con la voz de la madre: "Fui yo... vistiendo tu
 rostro". En un instante, veinte años de odio y la mentira entera se reorganizan: Selka
 nunca mató a su madre; sirvió al asesino. No es batalla: es verdad que da vuelta el
 sentido de toda la película. (Como el bosque que sana en Nausicaä, o el nombre de Haku.)
 
 ## 結 KETSU — La semilla  (conclusión · ~13%)
 Convergencia en una nueva armonía agridulce. Selka renuncia: deja caer el sable, le da la
-espalda al trono, elige arrastrar el cuerpo de su hermana en vez de vengarse. Vorthan
+espalda al trono, elige arrastrar el cuerpo de su hermana en vez de vengarse. Vortham
 despega a Vorth con el Orbe; Erdia en ruinas. Stella muere/cae en coma SIN saber que ganó
 lo único que importaba. Cierre: la verdadera semilla no es el Orbe robado, sino una
 hermana que por fin puede elegir quién ser. El brazalete late, negándose a apagarse.

@@ -26,7 +26,7 @@
 | `@Naio` (padre, científico) | ~45, pelo blanco, ojos cansados y amables, bata sobre túnica naiel | ⬜ | ⬜ |
 | `@Naio` (anciano esclavo) | el mismo, viejo, encorvado, medio ciego, andrajos de mina | ⬜ | ⬜ |
 | `@Gix` (ser de luz) | pequeño ser de **luz cálida**, brillo tipo luciérnaga, núcleo geométrico tenue | ⬜ | ⬜ |
-| `@Vorthan` (el Rey) | alto, regio, sin edad, **sonrisa amable que no llega a los ojos**, túnicas imperiales oscuras y doradas | ⬜ | ⬜ |
+| `@vortham` (el Rey) | alto, regio, sin edad, **sonrisa amable que no llega a los ojos**, túnicas imperiales oscuras y doradas | ⬜ | ⬜ |
 | `@Parasito` (forma real) 🔒 | criatura **colosal hecha de luz robada**, antigua, monstruosa (solo clímax) | ⬜ | ⬜ |
 | `@S1G1` (robot asesino) | robot esbelto y oscuro, placas negro-gris mate, **un solo óptico**, ágil, sigiloso | carpeta **Stella_Villans** — "AGENTE Modelo 04", asesino sigiloso | ✅ |
 | `@RobotImperial` (soldados) | robots imperiales blanco/gris, visor sin rostro, más voluminosos que @S1G1 | 🟡 carpeta **Stella_Villans** (otras hojas de robot) | 🟡 |
@@ -37,7 +37,7 @@
 | `@Vosk` (matón → leal) | grande, cicatrices, rudo | ⬜ | ⬜ |
 | `@PilotoAliada` | mujer naiel adulta, pelo blanco, rostro resuelto, traje de vuelo | ⬜ | ⬜ |
 | `@Korin` / `@Lessa` (leales de Vera) | naieli mayores, resistencia | ⬜ | ⬜ |
-| `@Marek` (líder resistencia) 🔒 | hombre de voz cálida y firme, carismático (en realidad Vorthan) | ⬜ | ⬜ |
+| `@Marek` (líder resistencia) 🔒 | hombre de voz cálida y firme, carismático (en realidad Vortham) | ⬜ | ⬜ |
 | **Unidad de reconocimiento** (a confirmar) | pelo blanco a la barbilla, armadura de recon, "04" | carpeta **Stella_Sister** — *¿es @Stella o @Selka recon?* | 🟡 confirmar |
 
 ## 🌍 LOCACIONES
@@ -71,8 +71,8 @@
 ## RESUMEN DE ESTADO
 - ✅ **Confirmados (5):** @Stella (trenza), @Stella (niña), @Selka (General), @S1G1, @Noah.
 - 🟡 **Por confirmar (3):** @RobotImperial, la unidad de recon (¿Stella o Selka?).
-- ⬜ **Por ubicar:** @Vera, @Naio, @Gix, @Vorthan, @Theron, @Brog, @Nima, @Vosk, @PilotoAliada, @Marek, @Korin/@Lessa, @Parasito + todas las locaciones y props.
+- ⬜ **Por ubicar:** @Vera, @Naio, @Gix, @vortham, @Theron, @Brog, @Nima, @Vosk, @PilotoAliada, @Marek, @Korin/@Lessa, @Parasito + todas las locaciones y props.
 
 > **Siguiente paso sugerido:** dime y **voy a tu Drive a ver las imágenes** de los personajes que faltan
-> (Vera, Naio, Gix, Vorthan, Theron, Brog, Nima, Vosk) para confirmar cuál es cuál y completar la tabla con
+> (Vera, Naio, Gix, Vortham, Theron, Brog, Nima, Vosk) para confirmar cuál es cuál y completar la tabla con
 > seguridad. Para locaciones/props, lo más eficiente es generar primero los establishings y reusarlos.

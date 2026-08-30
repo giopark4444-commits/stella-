@@ -3,7 +3,7 @@
 > Base: las acciones concretas del autor (su dirección manda). Aquí solo están **redactadas y
 > ordenadas mejor**, y **complementadas** con el canon que desarrollamos (sangre/ADN, nombres,
 > naturaleza de Theron, interioridad, etc.), **sin cambiar la dirección**. Lo añadido va para sumar.
-> 🔒 El cambio de forma de Vorthan es secreto hasta la escena final.
+> 🔒 El cambio de forma de Vortham es secreto hasta la escena final.
 
 ---
 
@@ -62,14 +62,14 @@ Empezamos a escuchar **pasos** que llegan.
 > lo antes posible… yo voy a retenerlos.
 
 Ellas tratan de evitar que se quede, pero Vera sabe que no tienen más opciones. **Último abrazo de
-familia.** Llega el **Rey (Vorthan)** junto con sus robots. El padre camina hacia ellos; el Rey lo
+familia.** Llega el **Rey (Vortham)** junto con sus robots. El padre camina hacia ellos; el Rey lo
 saluda muy amigablemente. *(Sabe que descubrieron su verdad y que debe apresar a toda la familia: su
 verdad no puede salir a la luz.)*
 
 Stella y su madre caminan despacio —Vera cargando a la bebé— y dicen "ya volvemos, vamos a tomar aire", y
 salen nerviosas. Pero el Rey lo sabe todo: ahí mismo **captura al padre.**
 
-> **VORTHAN:** (gritando) ¡No las dejen escapar! ¡Vayan por ellas!
+> **VORTHAM:** (gritando) ¡No las dejen escapar! ¡Vayan por ellas!
 
 El padre activa un **campo de fuerza** en la entrada por donde ellas salieron. El Rey le da un golpe seco
 y lo deja tirado en el piso, mientras los robots, a golpes y disparos, tumban el campo de fuerza.
@@ -119,7 +119,7 @@ entra al ducto. **S1G1 se atasca en el orificio del techo y explota.**
 La madre queda tirada en el piso, con la bebé llorando al lado del cuerpo. El Rey **toma a Selka.** Los
 robots van a levantar a Vera, pero el Rey los detiene:
 
-> **VORTHAN:** ¡¿Qué están haciendo?! ¡Ella ya está muerta! Salgan a buscar a Stella. Necesitamos
+> **VORTHAM:** ¡¿Qué están haciendo?! ¡Ella ya está muerta! Salgan a buscar a Stella. Necesitamos
 > recuperar el Orbe.
 
 Los robots dejan el cuerpo y salen. El Rey se va con la bebé y **deja a Vera tirada.**

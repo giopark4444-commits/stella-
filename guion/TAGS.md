@@ -107,9 +107,9 @@
 
 ## ⚠️ TRES DISCREPANCIAS QUE HAY QUE RESOLVER
 
-**① EL REY SE ESCRIBE `@vortham`, CON M.** El guion entero dice **Vorthan, con N** — 40 y pico
-veces, más la escaleta y todos los documentos. Uno de los dos está mal y hay que unificar,
-porque un prompt con la grafía equivocada **no carga la referencia.**
+**① ✅ RESUELTO — EL REY ES VORTHAM, CON M.** Decisión de Gio (2026-08-29). Renombrado en todo el
+repositorio: **1.301 ocurrencias en 66 archivos.** Guion, escaleta, hojas, guion técnico, diccionario
+del híbrido y todos los documentos históricos. **Cero «Vorthan» restantes.**
 
 **② LOS NOMBRES DE LA TRIPULACIÓN NO COINCIDEN.** La biblioteca tiene **Boro, Yuri, Sabo, Hessa
 y Thara**. El corpus de prompts tiene **Sarn, Ilka, Ozu, Dova, Fen, Kade, Turo, Jorn, Ummo y

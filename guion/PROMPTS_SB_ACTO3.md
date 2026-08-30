@@ -1,9 +1,9 @@
 # PROMPTS STORYBOARD · ACTO 3 — Stella Fugaz «El Nodo de Erdia»
 ## 71 clips (Seedance 2.0 · 15s · 21:9) · storyboard desglosado, un clip por escena continua
 
-> **Bible:** @StellaTeñida (~19, dark-dyed hair, amber eyes, @TrajeNuevo, older, hardened) · @SelkaGeneral (the General, 21, white/gold armor, light-blade, **grey-blue eyes**, **scar over her left eye**, cold; later one-armed) · @SelkaNiña (small white-haired child, grey-blue eyes) 🔒 · @Vorthan (the King) · @Marek (resistance leader) 🔒 · @Parasito (Vorthan's true form) 🔒: a colossal ancient creature of stolen luzagua light, no fixed form · @NaioRescatado (old freed Naio) · @Theron · @Brog · @Nima · @Vosk · @Noah · @Korin · @Gix (light-being).
+> **Bible:** @StellaTeñida (~19, dark-dyed hair, amber eyes, @TrajeNuevo, older, hardened) · @SelkaGeneral (the General, 21, white/gold armor, light-blade, **grey-blue eyes**, **scar over her left eye**, cold; later one-armed) · @SelkaNiña (small white-haired child, grey-blue eyes) 🔒 · @vortham (the King) · @Marek (resistance leader) 🔒 · @Parasito (Vortham's true form) 🔒: a colossal ancient creature of stolen luzagua light, no fixed form · @NaioRescatado (old freed Naio) · @Theron · @Brog · @Nima · @Vosk · @Noah · @Korin · @Gix (light-being).
 > **Locations:** @ErdiaRuinas · @SalaTrono · @NavePalacio 🔒 · @NodrizaInterior. **Props:** @Orbe · @LlaveDeLuz · @Brazalete · @HojaSelka · @TanqueSoporte.
-> **Canon:** violence by light only; @Parasito is @Vorthan's true form (secret, revealed SEC 26); the palace is really a ship 🔒; contemplative ending (the river that returns, the ember of @Gix).
+> **Canon:** violence by light only; @Parasito is @vortham's true form (secret, revealed SEC 26); the palace is really a ship 🔒; contemplative ending (the river that returns, the ember of @Gix).
 
 ---
 
@@ -434,12 +434,12 @@
 ### CLIP 25x4 — "The light was never yours" · 15s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall, the throne in deep shadow; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @Vorthan (O.S., shadowed throne).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @vortham (O.S., shadowed throne).
 - **Shot/lens:** close-up on Selka toward the throne, voice trembling, wide dolly-in on the shadowed throne, extreme close-up on the King's silhouette.
-- **Camera:** fixed on Selka; slow dolly in on the shadowed throne as a many-voiced laugh answers; fixed extreme close-up on Vorthan's silhouette.
+- **Camera:** fixed on Selka; slow dolly in on the shadowed throne as a many-voiced laugh answers; fixed extreme close-up on Vortham's silhouette.
 - **Light:** cold, the throne in deeper shadow.
-- **Action:** @SelkaGeneral, voice trembling, speaks toward the shadow of the throne. From the throne a laugh answers, made of a thousand voices at once (held silence). @Vorthan's silhouette, the multiple voice.
-- **Dialogue:** Selka: "Majesty… the Orb should bring the light. What is this? What's happening?" — Vorthan (O.S.): "The light was never theirs, little one. And it was never yours."
+- **Action:** @SelkaGeneral, voice trembling, speaks toward the shadow of the throne. From the throne a laugh answers, made of a thousand voices at once (held silence). @vortham's silhouette, the multiple voice.
+- **Dialogue:** Selka: "Majesty… the Orb should bring the light. What is this? What's happening?" — Vortham (O.S.): "The light was never theirs, little one. And it was never yours."
 - **Mood:** terror dawning.
 - **Audio:** SFX only — machinery, a laugh in many voices. No music.
 - **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
@@ -448,14 +448,14 @@
 
 ## SECUENCIA 26 — ESCENA: "Fui yo" (la revelación) 🔒 · *(clips 26x1–26x14)*
 
-### CLIP 26x1 — Vorthan rises / becomes Vera / walks to Stella · 15s
+### CLIP 26x1 — Vortham rises / becomes Vera / walks to Stella · 15s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall in half-light; lush, detailed, painterly background.
-- **Characters:** @Vorthan → @VeraEncapuchada (grey-blue eyes) (=Vorthan), @StellaTeñida (dying on the floor).
-- **Shot/lens:** full shot of Vorthan rising and his silhouette deforming, detail as the flesh folds and resolves into Vera, medium steadicam as "Vera" walks slowly toward Stella.
+- **Characters:** @vortham → @VeraEncapuchada (grey-blue eyes) (=Vortham), @StellaTeñida (dying on the floor).
+- **Shot/lens:** full shot of Vortham rising and his silhouette deforming, detail as the flesh folds and resolves into Vera, medium steadicam as "Vera" walks slowly toward Stella.
 - **Camera:** fixed as he rises (held silence); fixed detail on the unnerving shift; slow steadicam following "Vera" toward the dying Stella (hold, let it breathe, 間/ma).
 - **Light:** cold, the face resolving warm-familiar.
-- **Action:** @Vorthan rises from the throne in the gloom, his silhouette beginning to deform (held silence). His flesh folds and recomposes, resolving into the shape of @VeraEncapuchada — the mother's face, grey-blue eyes. Wearing the mother's face, the thing walks slowly toward @StellaTeñida dying on the floor (hold, 間/ma).
+- **Action:** @vortham rises from the throne in the gloom, his silhouette beginning to deform (held silence). His flesh folds and recomposes, resolving into the shape of @VeraEncapuchada — the mother's face, grey-blue eyes. Wearing the mother's face, the thing walks slowly toward @StellaTeñida dying on the floor (hold, 間/ma).
 - **Mood:** dread, the secret breaking.
 - **Audio:** SFX only — a wet shifting sound, a thousand-voice hush, slow footsteps. No music.
 - **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no blood, no gore, no guns, no firearms, no on-screen text, no watermark.
@@ -463,7 +463,7 @@
 ### CLIP 26x2 — "Vera" kneels / Stella half-opens her eyes · 12s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall in half-light; lush, detailed, painterly background.
-- **Characters:** "@VeraEncapuchada" (grey-blue eyes) (=Vorthan), @StellaTeñida (dying).
+- **Characters:** "@VeraEncapuchada" (grey-blue eyes) (=Vortham), @StellaTeñida (dying).
 - **Shot/lens:** full shot as "Vera" kneels and strokes Stella's dyed hair, extreme close-up as Stella half-opens her eyes for the last time.
 - **Camera:** fixed as "Vera" kneels, sweet and monstrous (held silence); hold extreme close-up on Stella's failing eyes, seeing no monster (let it breathe, 間/ma).
 - **Light:** cold, a false warmth on the mother's face.
@@ -475,7 +475,7 @@
 ### CLIP 26x3 — "Mom… you came" / "Rest" · 15s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall in half-light; lush, detailed, painterly background.
-- **Characters:** @StellaTeñida (dying), "@VeraEncapuchada" (grey-blue eyes) (=Vorthan).
+- **Characters:** @StellaTeñida (dying), "@VeraEncapuchada" (grey-blue eyes) (=Vortham).
 - **Shot/lens:** blurred POV of the mother's face over her bathed in soft light, extreme close-up on Stella's heartbreaking smile as she speaks, close-up on "Vera" answering in the mother's exact voice.
 - **Camera:** fixed blurred POV, soft (hold, let it breathe); hold extreme close-up on Stella's smile (間/ma); fixed on "Vera", poisoned tenderness.
 - **Light:** soft, warm-false in her fading eyes.
@@ -500,7 +500,7 @@
 ### CLIP 26x5 — She rises / becomes Marek / "how the King always knew" · 15s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall in half-light; lush, detailed, painterly background.
-- **Characters:** "@Marek" (=Vorthan), @SelkaGeneral (grey-blue eyes, scar over her left eye).
+- **Characters:** "@Marek" (=Vortham), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** medium as the thing rises and Vera dissolves into Marek, close-up on Selka uncomprehending, close-up on "Marek" smiling with the good leader's face.
 - **Camera:** fixed as the second face resolves; fixed on Selka's horror; slow push to the smiling wrong face.
 - **Light:** cold, his eyes wrong.
@@ -513,7 +513,7 @@
 ### CLIP 26x6 — "There was no resistance. Only me." / it shrinks · 15s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall in half-light; lush, detailed, painterly background.
-- **Characters:** "@Marek" (=Vorthan), @SelkaGeneral (grey-blue eyes, scar over her left eye).
+- **Characters:** "@Marek" (=Vortham), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** medium dolly-in on "Marek" delivering the revelation, close-up on Selka taking the blow in silence, detail as the form shrinks and shifts again.
 - **Camera:** slow dolly in on the smiling face; hold on Selka, her moral ground vanishing (held silence, 間/ma); fixed detail as the shape shrinks.
 - **Light:** cold, his eyes wrong.
@@ -526,7 +526,7 @@
 ### CLIP 26x7 — The last form: Selka as a child / "it was you who killed her" · 11s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall in half-light; lush, detailed, painterly background.
-- **Characters:** "@SelkaNiña" (grey-blue eyes) (=Vorthan), @SelkaGeneral (grey-blue eyes, scar over her left eye).
+- **Characters:** "@SelkaNiña" (grey-blue eyes) (=Vortham), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** full shot as the thing is now a small white-haired child, dolly-in close-up as the child tilts her head to the General with the tenderest voice.
 - **Camera:** fixed on the uncanny child (hold, 間/ma); slow dolly in as she speaks.
 - **Light:** cold, the child-face lit.
@@ -539,7 +539,7 @@
 ### CLIP 26x8 — "hating you" · 11s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall in half-light; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), "@SelkaNiña" (grey-blue eyes) (=Vorthan).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), "@SelkaNiña" (grey-blue eyes) (=Vortham).
 - **Shot/lens:** extreme close-up on Selka receiving the line, her face starting to crack, close-up on "Selka-child", cruel and sweet.
 - **Camera:** fixed extreme close-up on Selka cracking (held silence); fixed on the child-face.
 - **Light:** cold, the child-face lit.
@@ -552,7 +552,7 @@
 ### CLIP 26x9 — "Because I killed her, wearing your face" · 12s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall in half-light; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), "@SelkaNiña" (grey-blue eyes) (=Vorthan).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), "@SelkaNiña" (grey-blue eyes) (=Vortham).
 - **Shot/lens:** close-up on Selka barely breathing, shaking her head, unable to speak, dolly-in extreme close-up on the child delivering the final blow.
 - **Camera:** fixed on Selka, broken breath, faint denial (held silence); slow dolly in on the child (間/ma).
 - **Light:** cold.
@@ -565,7 +565,7 @@
 ### CLIP 26x10 — The child laughs / Selka backs away · 10s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall in half-light; lush, detailed, painterly background.
-- **Characters:** "@SelkaNiña" (grey-blue eyes) (=Vorthan), @SelkaGeneral (grey-blue eyes, scar over her left eye).
+- **Characters:** "@SelkaNiña" (grey-blue eyes) (=Vortham), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** medium on the child laughing a blood-freezing little laugh, close-up on Selka backing away, head shaking on its own.
 - **Camera:** fixed on the laughing child; fixed on Selka retreating (held silence).
 - **Light:** cold.
@@ -631,7 +631,7 @@
 ### CLIP 27x1 — True form: the Parásito · 14s
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 15s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; the transformed hall / deck, the structure trembling; lush, detailed, painterly background.
-- **Characters:** @Parasito (=Vorthan, true form).
+- **Characters:** @Parasito (=Vortham, true form).
 - **Shot/lens:** full shot as the child-flesh dissolves, grand crane wide as the colossal creature takes form filling the hall, extreme low-angle tilt up its mass to the ceiling.
 - **Camera:** fixed as the disguise falls; slow crane wide unable to contain it (hold, let it breathe); extreme low-angle tilt up (間/ma).
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.

@@ -5,7 +5,7 @@
 > material existente (Fui yo, trono, renuncia de Selka), trenzando los elementos nuevos
 > (el topo en la resistencia, los leales de Vera, el chico humano).
 > Reparto: Stella · Selka · Vera · Naio · Gix · Theron (el Cazador) · Brog · Nima ·
-> el Rey (Vorthan) · Noah (humano) · Marek (2º líder de la resistencia = el Rey-topo) ·
+> el Rey (Vortham) · Noah (humano) · Marek (2º líder de la resistencia = el Rey-topo) ·
 > Korin y Lessa (leales de Vera) · Vosk (el matón) · G44 · pueblo naiel ·
 > planeta del Parásito: Vorth.
 > Dilatación: 1 año fuera = 4 en Erdia (5 de Stella = 20 de Erdia).
@@ -85,11 +85,11 @@ algo se muere.
     - Selka oye "Fui yo. Maté a tu madre vistiendo tu rostro". Su mundo se derrumba.
     - Korin y Lessa reconocen a "Marek": el Rey era el topo. Selka queda EXONERADA
       ante ellos. (Pago del "no oímos lo del oído".)
-22. FORMA REAL. Selka se quiebra (la nana). Vorthan, forma real, le secciona el brazo.
+22. FORMA REAL. Selka se quiebra (la nana). Vortham, forma real, le secciona el brazo.
 23. RENUNCIA + RESCATE. Selka deja caer el sable, da la espalda al trono, se arrastra hacia
     Stella. Irrumpen Brog, Nima, Noah, Korin y Lessa. El Rey (como Marek) intenta
     engañarlos, pero ya lo vieron todo. Brog: "No te dejo." Extracción.
-24. LA HUIDA DEL MONSTRUO. Vorthan despega a Vorth con el Orbe; Erdia en ruinas. Theron:
+24. LA HUIDA DEL MONSTRUO. Vortham despega a Vorth con el Orbe; Erdia en ruinas. Theron:
     "Por fin sé adónde va a llevarlo."
 25. CIERRE. Stella sin pulso en el tanque. Selka prisionera — pero Korin y Lessa la saben
     inocente. "Despierta y déjame decírtelo a la cara." El brazalete de Gix late una vez.

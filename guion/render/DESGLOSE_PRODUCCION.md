@@ -184,7 +184,7 @@
 - **LOC:** ✓ `@sala_trono`
 - **CAST:** ✓ `@selka_general` · ⛔ `@vorthan_real` (✓ ficha existe en biblia; falta el `ref_id`)
 - **PROPS:** ✓ `@sable_selka`
-- **VFX:** Marek abriéndose → Vorthan colosal; brazo de Selka seccionado
+- **VFX:** Marek abriéndose → Vortham colosal; brazo de Selka seccionado
 
 ### ESC 30 — INT. SALA DEL TRONO · RENUNCIA + RESCATE
 - **LOC:** ✓ `@sala_trono`
@@ -199,7 +199,7 @@
 - **LOC:** ✓ `@erdia_podrida` (cielo) · ⛔ `@espacio_orbita`
 - **CAST:** ✓ `@theron` (breve, en su puente)
 - **NAVES:** ⛔ `@nave_pequena` (exterior) · ⛔ `@nave_vorthan` (nave nodriza colosal del Parásito — distinta de la del Cazador)
-- **PROPS:** ✓ `@orbe` (dentro de la nave de Vorthan)
+- **PROPS:** ✓ `@orbe` (dentro de la nave de Vortham)
 - **VFX:** palacio desmoronándose, despegue de la nave nodriza
 
 ### ESC 32 — INT. NAVE PEQUEÑA · BAHÍA MÉDICA
@@ -302,7 +302,7 @@
 - **NAIO — 2 looks:** científico (blanco con plata, túnica de estudio) · esclavo (gris sucio, harapos, cadenas).
 - **VERA — 2 looks:** madre del palacio (blanco impecable, túnica teal) · líder mayor (marcada, ropa de resistencia).
 - **PUEBLO NAIEL:** dorado = pelo **blanco puro** (el voto) · podrido = pelo **manchado de gris/hollín** (el voto profanado). Es un cambio de paleta de TODO el casting de fondo entre Ki y Ten.
-- **VORTHAN — 3 caras:** `@rey_humano` (regio, sereno) · `@marek` (camarada cálido) · `@vorthan_real` (colmena colosal). Las tres son el MISMO ser: conviene un rasgo mínimo compartido (la quietud antinatural de los ojos) para que el público, en re-visionado, lo ate.
+- **VORTHAM — 3 caras:** `@rey_humano` (regio, sereno) · `@marek` (camarada cálido) · `@vorthan_real` (colmena colosal). Las tres son el MISMO ser: conviene un rasgo mínimo compartido (la quietud antinatural de los ojos) para que el público, en re-visionado, lo ate.
 
 ---
 

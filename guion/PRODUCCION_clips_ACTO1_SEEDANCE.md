@@ -48,7 +48,7 @@
 | **31** | la sonrisa de las hermanas (sostenida) — the camera holds — too long, on purpose — on the two sisters smiling forehead to forehead, the baby's small hand reaching for @Stella's nose; |
 | **32** | pasos acercándose — the warmth shatters as heavy approaching footsteps echo down the corridor; |
 | **33** | "never let him have it" + abrazo — @Naio takes @StellaArmadura's face in both hands, fierce and fast, pressing the command into her; |
-| **34** | entra @Vorthan — the door opens and @Vorthan steps in with the easy warmth of a family friend dropping by, spreading his hands, the faceless @RobotImperial units filli… |
+| **34** | entra Vortham — the door opens and @vortham steps in with the easy warmth of a family friend dropping by, spreading his hands, the faceless @RobotImperial units filli… |
 | **35** | @Naio derribado / "DAD!" — @Naio throws himself forward and snaps up a crackling force-field to buy seconds; |
 
 ## 4 — ESCENA: Pasillos del palacio (la huida) · *(clips 36-41)*
@@ -68,7 +68,7 @@
 |---|---|
 | **42** | establishing de la Sala del Orbe — the camera glides into the immense holy chamber, the mirrored floor doubling everything, and rises toward the @Orbe hanging weightless at the center —… |
 | **43** | entran / revelación del Orbe — @VeraArmadura and @StellaArmadura stumble through the great doors into the radiance, the @Orbe pulsing ahead of them like a second sun; |
-| **44** | @Vorthan entra por el lado opuesto — across the immense floor, a far door opens and @Vorthan steps in at the very same moment, unhurried, hands folded; |
+| **44** | Vortham entra por el lado opuesto — across the immense floor, a far door opens and @vortham steps in at the very same moment, unhurried, hands folded; |
 | **45** | STAGING TEMÁTICO (la elección) — the staging itself tells it: @StellaArmadura stands dead center of the great hall, the @Orbe glowing to her left, @VeraArmadura to her right, her body… |
 | **46** | "go for the Orb! NOW!" — @VeraArmadura cries out the order and shoves @Stella forward; |
 | **47** | robots sobre @Vera — @RobotImperial units converge on @VeraArmadura; |
@@ -81,8 +81,8 @@
 | **50B** | el contraataque de @S1G1 — @S1G1 reads her, catches her wrist mid-swing and unleashes a blinding flurry; |
 | **51** | "@STELLA, RUN!" — sprawled on the floor, @VeraArmadura shoves herself up on one arm, flinging the other toward her daughter across the hall, and cries out with everything… |
 | **52** | @Stella se da vuelta (rompe la regla) — @StellaArmadura's fingers are a breath from the @Orbe, its light flooding her hand — and then she looks back, sees her mother down and her sister's ni… |
-| **53** | @Vorthan la atrapa por la trenza — @Vorthan's hand closes around @StellaArmadura's long white braid and hoists her off the floor, leaving her swinging and clawing at the air; |
-| **53A** | el tirón de la trenza (impacto) — @Vorthan's fist snaps @StellaArmadura's braid taut; |
+| **53** | Vortham la atrapa por la trenza — @vortham's hand closes around @StellaArmadura's long white braid and hoists her off the floor, leaving her swinging and clawing at the air; |
+| **53A** | el tirón de la trenza (impacto) — @vortham's fist snaps @StellaArmadura's braid taut; |
 | **54** | primer plano: @Stella colgada — held tight on @StellaArmadura's face — teeth bared, tears torn loose and floating in the charged air, hands wrenching uselessly at the braid that hold… |
 | **55** | el escudo / la luz se apaga / "MOM!" — from the floor @VeraArmadura throws her hands up and a warm shield of light wraps protectively around @StellaArmadura; |
 | **56** | "run" / corta la trenza — @VeraArmadura, the last of her light guttering out, shapes the word "Run" with no breath behind it; |
@@ -101,8 +101,8 @@
 | **62B** | las paredes se cierran — the duct narrows hard ahead; |
 | **63** | @S1G1 se atasca y explota — @StellaPeloCorto shoots out of the duct mouth into open sky; |
 | **63A** | @S1G1 se atasca (detalle) — @S1G1's bulk wedges in the throat of the duct, joints buckling, its single optic flaring red as it strains after her — sparks crawling up its frame an… |
-| **64** | @Vorthan levanta a la bebé — @Vorthan crosses the great floor and lifts @SelkaBebe gently from her niche; |
-| **65** | "she's gone. find @Stella." — @Vorthan raises a single hand and the robots freeze over @VeraArmadura's body; |
+| **64** | Vortham levanta a la bebé — @vortham crosses the great floor and lifts @SelkaBebe gently from her niche; |
+| **65** | "she's gone. find @Stella." — @vortham raises a single hand and the robots freeze over @VeraArmadura's body; |
 
 ## 7 — ESCENA: Persecución en el cielo / el sacrificio · *(clips 66-75)*
 | # | Clip |
@@ -133,17 +133,17 @@
 | **79** | la palma en el tablero — half-conscious, @StellaPeloCorto lifts her hand and stares at the @LlaveDeLuz and the @Orbe glowing beneath her skin, then presses her open palm to th… |
 | **80** | HÍPER SALTO — the borrowed light overloads every system; |
 
-## 9 — ESCENA: El discurso de @Vorthan (Erdia, Año 0) · *(clips 81-88)*
+## 9 — ESCENA: El discurso de Vortham (Erdia, Año 0) · *(clips 81-88)*
 | # | Clip |
 |---|---|
 | **81** | establishing: la plaza — the camera sails over a vast ocean of gathered citizens filling the plaza beneath banners and a blue sky, all faces turned up toward the small distant… |
-| **82** | "we have been robbed" — @Vorthan stands at the balcony's edge and lets a long, practiced silence hang before he speaks, his face a mask of shared grief, every gesture calcula… |
-| **83** | "torn from our world" — @Vorthan names the loss with grave tenderness; |
-| **84** | "our planet will be lost" — @Vorthan spreads his hands and foretells the planet's slow fading, each phrase weighted to spread fear, the crowd below going silent and stricken benea… |
+| **82** | "we have been robbed" — @vortham stands at the balcony's edge and lets a long, practiced silence hang before he speaks, his face a mask of shared grief, every gesture calcula… |
+| **83** | "torn from our world" — @vortham names the loss with grave tenderness; |
+| **84** | "our planet will be lost" — @vortham spreads his hands and foretells the planet's slow fading, each phrase weighted to spread fear, the crowd below going silent and stricken benea… |
 | **85** | los aliados en celda — the camera drifts across rows of holding pens flanking the balcony where the allies who saved @StellaPeloCorto stand captured and defeated, displayed to the … |
 | **86** | el amor se vuelve odio — the camera moves through the crowd catching faces mid-transformation — grief tightening into anger, tears drying into snarls, fists clenching — a peop… |
-| **87** | "@Stella. Thief. Traitor." — @Vorthan lets the silence build, then hands the crowd their enemy — the name landing like a verdict, his sorrow never slipping even as the plaza erupt… |
-| **88** | @Vorthan acaricia a la bebé (cierre) — above the roaring crowd, @Vorthan lifts @SelkaBebe so all can see her, and — almost too small to notice — gently strokes her white hair like a doting … |
+| **87** | "@Stella. Thief. Traitor." — @vortham lets the silence build, then hands the crowd their enemy — the name landing like a verdict, his sorrow never slipping even as the plaza erupt… |
+| **88** | Vortham acaricia a la bebé (cierre) — above the roaring crowd, @vortham lifts @SelkaBebe so all can see her, and — almost too small to notice — gently strokes her white hair like a doting … |
 
 ## RESUMEN
 - **Total Acto 1: 105 clips** (88 base + 17 sub-clips de acción/cobertura).

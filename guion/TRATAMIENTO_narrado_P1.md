@@ -1,7 +1,7 @@
 # STELLA FUGAZ · "EL NODO DE ERDIA" — TRATAMIENTO NARRADO (P1) · v0.1
 
 > Relato completo en voz de cuento + diálogos clave. Versión 0.1 del autor.
-> Canon: `PELI1_v2_material_base.md`. 🔒 El cambio de forma de Vorthan es secreto hasta el clímax.
+> Canon: `PELI1_v2_material_base.md`. 🔒 El cambio de forma de Vortham es secreto hasta el clímax.
 
 ---
 
@@ -49,7 +49,7 @@ Se escuchan pasos acercándose.
 
 —Llegaron —dice Naio—. Tomen a Selka y vayan por el Orbe. Cuando lo tengas, ponlo en tu mano. Pase lo que pase… nunca dejes que él lo tenga. Yo voy a retenerlos.
 
-Último abrazo. **Vorthan** aparece — sonrisa de amigo, soldados detrás.
+Último abrazo. **Vortham** aparece — sonrisa de amigo, soldados detrás.
 
 —Naio. Viejo amigo. Sabías que este día llegaría.
 
@@ -153,7 +153,7 @@ Selka pone el Orbe en la consola. No vuelve la luz. El palacio cobra vida: **sie
 
 —Majestad —retrocede Selka—, el Orbe debería traer la luz. ¿Qué es esto?
 
-Vorthan ríe con mil voces y se transforma. Primero en **Vera.** Con el rostro de la madre se acerca a Stella, que agoniza, y juega con ella hasta el final. Stella levanta los ojos y no ve al monstruo: ve a su madre. —Mamá… viniste —susurra, y se va en paz.
+Vortham ríe con mil voces y se transforma. Primero en **Vera.** Con el rostro de la madre se acerca a Stella, que agoniza, y juega con ella hasta el final. Stella levanta los ojos y no ve al monstruo: ve a su madre. —Mamá… viniste —susurra, y se va en paz.
 
 Después en **Marek** — el amigo de la resistencia. Siempre fue él.
 
@@ -161,7 +161,7 @@ Y por último en **Selka de niña.** Con esa carita se vuelve hacia la General: 
 
 Selka nunca mató a su madre. Y su madre murió creyendo que su propia hija la mataba. Selka tararea la nana, la entiende, y se rompe: —**ERA MI MADRE.**
 
-Se lanza contra el Parásito —su forma real, una criatura colosal— para cubrir el rescate; le arranca el brazo. Entra **Theron**, que reconoce a su presa: —Ahí estás. Con Brog y Nima sacan a Stella y a Selka. La nave de Vorthan despega con el Orbe y desaparece. —Veinte mil años buscándolo. Por fin sé adónde va a llevarlo.
+Se lanza contra el Parásito —su forma real, una criatura colosal— para cubrir el rescate; le arranca el brazo. Entra **Theron**, que reconoce a su presa: —Ahí estás. Con Brog y Nima sacan a Stella y a Selka. La nave de Vortham despega con el Orbe y desaparece. —Veinte mil años buscándolo. Por fin sé adónde va a llevarlo.
 
 ---
 

@@ -12,7 +12,7 @@
 | 5 | Orden + entrega Gix-protector + captura padre | ⚠️ | Mucha info; que Gix proteja algo pequeño en el juego (#3). |
 | 6 | Cámara: Rey humano, Selka rehén, Stella presa | 💪 | El "elige" funciona. |
 | 7 | Vera al rescate + "vete" + Stella huye | 💪 | Corazón del acto. No tocar. |
-| 8 | Vera dada por muerta (sobrevive) | ⚠️ | Hacer su supervivencia temática: Vorthan no registra a quien no sostiene el Orbe. |
+| 8 | Vera dada por muerta (sobrevive) | ⚠️ | Hacer su supervivencia temática: Vortham no registra a quien no sostiene el Orbe. |
 | 9-10 | Ductos+nave+persecución+hipervelocidad+Gix+estallido | ✂️⚠️ | Exceso del Acto 1: fundir en UNA ráfaga continua. El estallido=señal se queda. |
 | 11 | A la deriva / rescate de Theron | 💪 | Causa-efecto limpia. |
 | 12 | Pacto + Tregua de las Cenizas + tripulación | ⚠️ | Dosificar la Tregua (textura ahora, explicar en 2/3). |
@@ -25,7 +25,7 @@
 | 19 | Intento fallido de llegar a Selka | ➕ | Hoy es rápido; darle una escena real. |
 | 20 | Duelo de hermanas + Orbe arrancado + coma | 💪⚠️ | Darle a Stella un destello de cambio antes del coma. |
 | 21 | Transformación + "Fui yo" + doble lectura | 💪💪 | Mejor escena. Intocable. |
-| 22 | Forma real Vorthan + brazo de Selka | 💪 | Pago del giro. |
+| 22 | Forma real Vortham + brazo de Selka | 💪 | Pago del giro. |
 | 23 | Extracción (Brog/Nima) + despegue a Vorth | 💪 | "No te dejo". Derrota con verdad. |
 | 24 | Cierre: tanque, Selka prisionera, "despierta", el latido | 💪 | Gancho a la Peli 2. |
 
@@ -40,7 +40,7 @@
 ## TEMA Y MISIONES (decisión fija)
 
 **Peli 1 — dos misiones con peso parejo (no una por encima de la otra):**
-- Misión planeta/Orbe → **PERDIDA** (Vorthan escapa con el Orbe; Erdia en ruinas).
+- Misión planeta/Orbe → **PERDIDA** (Vortham escapa con el Orbe; Erdia en ruinas).
 - Misión hermana (su alma) → **GANADA** (Selka despierta del odio; "Fui yo" la libera).
 - Misión hermana (su vida) → **PENDIENTE** → motor de la Peli 2.
 - Por eso el final no deprime: pierde el mundo, pero rescata a la persona. Derrota y

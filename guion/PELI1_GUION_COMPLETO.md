@@ -7,7 +7,7 @@
 
 > Formato de guion para estimar metraje (1 página ≈ 1 minuto). Incluye los ajustes
 > acordados: entrada heroica de Vera, Gix como protector del padre, doble misión, escape
-> por hipervelocidad, Theron neutral/seco, Tregua de las Cenizas, Vorthan/Vorth, G44,
+> por hipervelocidad, Theron neutral/seco, Tregua de las Cenizas, Vortham/Vorth, G44,
 > renuncia activa de Selka. Borrador para trabajar, no versión final.
 
 
@@ -658,11 +658,11 @@ La nana se quiebra en un sollozo. El sollozo en un grito.
           ERA MI MADRE.
 
 Enciende el sable, se lanza. La ilusión ESTALLA. El falso rey toma su
-forma real: VORTHAN. El Parásito. Colosal, biomecánico, mil bocas.
+forma real: VORTHAM. El Parásito. Colosal, biomecánico, mil bocas.
 
 De un solo tajo, le SECCIONA el brazo a Selka.
 
-Pero Vorthan no la remata, ni la persigue. Ya tiene el Orbe. Bajo los
+Pero Vortham no la remata, ni la persigue. Ya tiene el Orbe. Bajo los
 cimientos, su nave nodriza despierta; el monstruo solo quiere despegar.
 
 Selka, manca, agonizante —veinte años de imperio cayéndosele del cuerpo
@@ -686,7 +686,7 @@ Nima carga a Stella. Brog agarra a Selka por el muñón.
 EXT. ÓRBITA BAJA DE ERDIA — CONTINUO
 
 La nave del Cazador rompe la atmósfera. De las ruinas del palacio ASCIENDE
-la nave nodriza de Vorthan, iluminada por la luz robada, abre un portal y
+la nave nodriza de Vortham, iluminada por la luz robada, abre un portal y
 desaparece. Erdia se resquebraja.
 
                     THERON (V.O.)

@@ -72,12 +72,12 @@
 | **193** | espectáculo: el palacio se enciende — what everyone believed a palace — what the people believed a meteorite — ignites whole: machinery everywhere, the @NavePalacio rising into itself. |
 | **194** | "siempre fue una nave" — the structure climbs around @SelkaGeneral — it was always a ship, every column a strut, every wall a bulkhead. |
 | **195** | @Selka retrocede con miedo — @SelkaGeneral backs away, afraid for the first time in her life; |
-| **196** | (reservado / transición al "Fui yo") — @Vorthan rises from the throne, unhurried; |
+| **196** | (reservado / transición al "Fui yo") — @vortham rises from the throne, unhurried; |
 
 ## 26 — ESCENA: "Fui yo" (la revelación) 🔒 · *(197-207)*
 | # | Clip |
 |---|---|
-| **197** | empieza a cambiar → @Vera — @Vorthan begins to change — his form flowing — and settles into the shape of @VeraEncapuchada, the mother's face, grey-blue eyes. |
+| **197** | empieza a cambiar → @Vera — @vortham begins to change — his form flowing — and settles into the shape of @VeraEncapuchada, the mother's face, grey-blue eyes. |
 | **198** | "@Vera" se acerca a @Stella — wearing the mother's face, the thing kneels beside the dying @StellaTeñida and strokes her dark-dyed hair — sweet and monstrous at once. |
 | **199** | @Stella ve a su madre — @StellaTeñida half-opens her eyes one last time — and does not see the monster; |
 | **200** | "mamá… viniste" / muere en paz — @StellaTeñida smiles, believing her mother came for her, and slips away in peace; |
@@ -87,7 +87,7 @@
 | **204** | "fui yo, vistiendo tu rostro" — with that tender little face the thing tells @SelkaGeneral the truth that unmakes her. |
 | **205** | la nana / "era mi madre" — @SelkaGeneral starts to hum the lullaby without meaning to — and finally understands it: her mother's song; |
 | **206** | (reacción) @Selka mira a @Stella muerta — @SelkaGeneral's eyes drop to @StellaTeñida, still on the floor — the sister who crossed a universe for her, whom she just driven to the floor without knowing. |
-| **207** | @Vorthan ríe / transición — the child-thing laughs, and its small shape begins to swell and distort — the disguise ending, the true horror rising. |
+| **207** | Vortham ríe / transición — the child-thing laughs, and its small shape begins to swell and distort — the disguise ending, the true horror rising. |
 
 ## 27 — ESCENA: El Parásito / el brazo de @Selka / @Theron / la extracción · *(208-216)*  · SET-PIECE A8
 | # | Clip |

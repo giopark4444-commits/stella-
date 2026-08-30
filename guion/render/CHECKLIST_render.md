@@ -71,7 +71,7 @@
 | 11 | `CHAR_11_noah` | `@noah` | Noah (humano de la Tierra) | 🟢 generada | `a48d6010` |
 | 12 | `CHAR_12_marek` | `@marek` | Marek (Rey infiltrado) | 🟢 generada | `6108f350` |
 | 13 | `CHAR_13_vosk` | `@vosk` | Vosk (matón) | 🟢 generada | `48370937` |
-| 14 | `CHAR_14_vorthan_real` | `@vorthan_real` | Vorthan / el Parásito | 🟢 generada | `90f40f08` |
+| 14 | `CHAR_14_vorthan_real` | `@vorthan_real` | Vortham / el Parásito | 🟢 generada | `90f40f08` |
 
 ---
 

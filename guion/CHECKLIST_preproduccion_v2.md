@@ -25,9 +25,9 @@
 | **Noah** (humano de Tierra) | ⬜ | ⬜ | noble |
 | **Ren** (pirata) | ⬜ | ⬜ | arrogante |
 | **Juno** (pirata) | ⬜ | ⬜ | arrogante |
-| **Vorthan** (el Rey, humano) | ⬜ | ⬜ | |
-| **Vorthan** (Parásito, forma real) | ⬜ | ⬜ | 🔒 secreto hasta el final |
-| **Marek** (disfraz de Vorthan) | ⬜ | ⬜ | 🔒 = Vorthan infiltrado |
+| **Vortham** (el Rey, humano) | ⬜ | ⬜ | |
+| **Vortham** (Parásito, forma real) | ⬜ | ⬜ | 🔒 secreto hasta el final |
+| **Marek** (disfraz de Vortham) | ⬜ | ⬜ | 🔒 = Vortham infiltrado |
 | **Vosk** (matón nodriza) | ⬜ | ⬜ | |
 | **Korin** y **Lessa** (leales de Vera) | ⬜ | ⬜ | |
 | **S1G1** (robot oscuro) | ⬜ | ⬜ | |
@@ -44,7 +44,7 @@
 | **Laboratorio de Naio** | ⬜ | ⬜ | |
 | **Sala del Orbe** | ⬜ | ⬜ | la caída de Vera |
 | **Pasillos del palacio** | ⬜ | ⬜ | huida |
-| **Palacio-meteorito** (exterior) | ⬜ | ⬜ | 🔒 es la NAVE de Vorthan |
+| **Palacio-meteorito** (exterior) | ⬜ | ⬜ | 🔒 es la NAVE de Vortham |
 | **Sala del Trono** | ⬜ | ⬜ | clímax |
 | **Erdia podrida** (neblina, minas) | ⬜ | ⬜ | año 20 |
 | **Catacumbas / minas** (Naio esclavo) | ⬜ | ⬜ | |
@@ -61,7 +61,7 @@
 | **Naves del imperio** | ⬜ | ⬜ | persecución |
 | **Naves aliadas** (los que se sacrifican) | ⬜ | ⬜ | |
 | **Nave nodriza de Theron** (exterior) | ⬜ | ⬜ | |
-| **Palacio-nave de Vorthan** (despegando) | ⬜ | ⬜ | 🔒 reveló final |
+| **Palacio-nave de Vortham** (despegando) | ⬜ | ⬜ | 🔒 reveló final |
 
 ## 🔮 PROPS / ELEMENTOS CLAVE
 | Elemento | Ref. imagen | Ficha | Notas |
@@ -80,7 +80,7 @@
 | **Río de luzagua** | ⬜ | ⬜ | |
 | **Híper salto** | ⬜ | ⬜ | |
 | **Beam de la palma de Stella** | ⬜ | ⬜ | poder del Orbe |
-| **Transformación de Vorthan** | ⬜ | ⬜ | 🔒 secreto final |
+| **Transformación de Vortham** | ⬜ | ⬜ | 🔒 secreto final |
 | **Gix abrazando el corazón** | ⬜ | ⬜ | clímax, dentro del cuerpo |
 
 ---

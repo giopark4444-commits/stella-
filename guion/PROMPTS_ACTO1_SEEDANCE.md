@@ -21,7 +21,7 @@
 - `@Naio` — ~45, father/scientist; **white/grey hair + short beard, round glasses**; tired kind **amber eyes**; **white lab coat with gold seams**, holographic gauntlet; warm, wise. **He created @Gix** (often holds the little light-axolotl). Tech for the common good.
 - `@SelkaBebe` — 1-year-old baby; wisp of white hair; **grey-blue eyes**; wrapped in pale cloth.
 - `@Gix` — small translucent **axolotl spirit of water and light** (sweet smiling face, big dark eyes, luminous golden frond-gills, pale luzagua-blue skin dusted with golden star-points, finned tail trailing light, warm gold glow in its chest); luzagua-blue + warm gold, **never cold steel-grey** (that's the Empire). Playful, empathetic.
-- `@Vorthan` — the King; tall, ageless, regal; calm friendly smile that never reaches the eyes; ornate dark-and-gold imperial robes.
+- `@vortham` — the King; tall, ageless, regal; calm friendly smile that never reaches the eyes; ornate dark-and-gold imperial robes.
 - `@S1G1` — sleek dark assassin robot; matte black-grey plating; single glowing optic; fast, silent.
 - `@RobotImperial` — white/grey imperial soldier robots; faceless visor; bulkier than @S1G1.
 - `@Piloto1` — the allied pilot who speaks on the radio (has the on-screen face); **NOT white hair**; resolute, flight gear. *(Clips 72-74.)*
@@ -466,15 +466,15 @@
 - **Audio:** SFX only — urgent whispers, footsteps closing, baby's small sounds. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
 
-### CLIP 34 — entra @Vorthan
+### CLIP 34 — entra Vortham
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The lab doorway filled by a tall silhouette, robot soldiers banked behind him like a wall of shadow.
-- **Characters:** @Vorthan (warm friendly smile); @RobotImperial soldiers crowding the doorway behind.
-- **Shot/lens:** wide low-angle on @Vorthan in the doorway, the robots as a dark mass behind.
+- **Characters:** @vortham (warm friendly smile); @RobotImperial soldiers crowding the doorway behind.
+- **Shot/lens:** wide low-angle on @vortham in the doorway, the robots as a dark mass behind.
 - **Camera:** a slow push to his calm, friendly smile.
 - **Light:** he enters backlit, a silhouette resolving into that disarming smile.
-- **Action:** the door opens and @Vorthan steps in with the easy warmth of a family friend dropping by, spreading his hands, the faceless @RobotImperial units filling the frame behind him — menace dressed as affection.
-- **Dialogue (@Vorthan):** "@Naio. Old friend. You knew this day would come."
+- **Action:** the door opens and @vortham steps in with the easy warmth of a family friend dropping by, spreading his hands, the faceless @RobotImperial units filling the frame behind him — menace dressed as affection.
+- **Dialogue (@vortham):** "@Naio. Old friend. You knew this day would come."
 - **Mood:** charming menace.
 - **Audio:** SFX only — door, heavy robot footfalls settling, his soft warm voice. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -482,12 +482,12 @@
 ### CLIP 35 — @Naio derribado / "DAD!"
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @Laboratorio — match its architecture, materials, colors; lush, detailed, painterly background. The cold lab erupting into motion, a force-field flaring blue-white.
-- **Characters:** @Naio, @Vorthan, @StellaArmadura, @VeraArmadura (grey-blue eyes).
-- **Shot/lens:** dynamic wide; @Naio steps between them, a shield flares, @Vorthan strikes him down.
+- **Characters:** @Naio, @vortham, @StellaArmadura, @VeraArmadura (grey-blue eyes).
+- **Shot/lens:** dynamic wide; @Naio steps between them, a shield flares, @vortham strikes him down.
 - **Camera:** a quick whip-pan and push as @StellaArmadura cries out.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
 - **Light:** the force-field's bright flash, then the cold returning.
-- **Action:** @Naio throws himself forward and snaps up a crackling force-field to buy seconds; @Vorthan, almost gently, swats it apart and drops @Naio with a single pulse of energy (shown purely as light, nothing graphic); @StellaArmadura lunges with a cry as @VeraArmadura hauls her bodily toward the back exit.
+- **Action:** @Naio throws himself forward and snaps up a crackling force-field to buy seconds; @vortham, almost gently, swats it apart and drops @Naio with a single pulse of energy (shown purely as light, nothing graphic); @StellaArmadura lunges with a cry as @VeraArmadura hauls her bodily toward the back exit.
 - **Dialogue (@StellaArmadura):** "DAD!"
 - **Mood:** the family shattering.
 - **Audio:** SFX only — force-field hum, a concussive thud, @Stella's cry. No music.
@@ -627,14 +627,14 @@
 - **Audio:** SFX only — doors, breathless arrival, the swelling Orb hum. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
 
-### CLIP 44 — @Vorthan entra por el lado opuesto
+### CLIP 44 — Vortham entra por el lado opuesto
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast hall, the Orb's light splitting the space between two far doorways.
-- **Characters:** @Vorthan (opposite side), @VeraArmadura (grey-blue eyes), @StellaArmadura. **Props:** @Orbe.
-- **Shot/lens:** wide symmetrical; the family at one side, @Vorthan entering opposite, the Orb suspended between.
+- **Characters:** @vortham (opposite side), @VeraArmadura (grey-blue eyes), @StellaArmadura. **Props:** @Orbe.
+- **Shot/lens:** wide symmetrical; the family at one side, @vortham entering opposite, the Orb suspended between.
 - **Camera:** a slow lateral move holding the standoff.
 - **Light:** the Orb's glow divides the chamber, each side half-lit.
-- **Action:** across the immense floor, a far door opens and @Vorthan steps in at the very same moment, unhurried, hands folded; the two parties freeze, separated by the glowing Orb — one held, suspended breath before the race detonates.
+- **Action:** across the immense floor, a far door opens and @vortham steps in at the very same moment, unhurried, hands folded; the two parties freeze, separated by the glowing Orb — one held, suspended breath before the race detonates.
 - **Mood:** the race coiled, about to spring.
 - **Audio:** SFX only — a tense low drone, the Orb pulse, a single distant alarm. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -792,16 +792,16 @@
 - **Audio:** SFX only — her gasp, footsteps skidding and reversing, Orb hum. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
 
-### CLIP 53 — @Vorthan la atrapa por la trenza
+### CLIP 53 — Vortham la atrapa por la trenza
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The center of the hall, cold and warm light meeting where the King stands.
-- **Characters:** @Vorthan, @StellaArmadura.
-- **Shot/lens:** @Vorthan catches @StellaArmadura by her long braid and lifts her dangling.
+- **Characters:** @vortham, @StellaArmadura.
+- **Shot/lens:** @vortham catches @StellaArmadura by her long braid and lifts her dangling.
 - **Camera:** a push to his cruel calm, then down to her kicking feet.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
-- **Light:** cold on @Vorthan, warm Orb-glow behind.
-- **Action:** @Vorthan's hand closes around @StellaArmadura's long white braid and hoists her off the floor, leaving her swinging and clawing at the air; he studies her struggle with serene, almost affectionate cruelty and speaks softly.
-- **Dialogue (@Vorthan):** "So like your mother. Running toward what she loves."
+- **Light:** cold on @vortham, warm Orb-glow behind.
+- **Action:** @vortham's hand closes around @StellaArmadura's long white braid and hoists her off the floor, leaving her swinging and clawing at the air; he studies her struggle with serene, almost affectionate cruelty and speaks softly.
+- **Dialogue (@vortham):** "So like your mother. Running toward what she loves."
 - **Mood:** cruel, intimate menace.
 - **Audio:** SFX only — his low laugh, her grunting struggle, fabric and hair tension. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -809,12 +809,12 @@
 ### CLIP 53A — el tirón de la trenza (impacto)
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast luminous Orb chamber, its warm light fractured by combat, energy scorch-marks across the obsidian-gold floor.
-- **Characters:** @Vorthan, @StellaArmadura.
+- **Characters:** @vortham, @StellaArmadura.
 - **Shot/lens:** extreme insert + impact frame on the braid snapping taut.
 - **Camera:** whip-pan as her head wrenches back, boots leaving the floor.
 - **Motion:** very high motion strength, vertiginous and visceral, rapid handheld + whip-pans + impact frames + motion blur, hits land with weight, faces in sharp focus with raw expression.
-- **Light:** cold on @Vorthan, Orb-warm on her face.
-- **Action:** @Vorthan's fist snaps @StellaArmadura's braid taut; her head wrenches back, strands tearing loose, her boots lifting off the floor — a single brutal impact frame of helpless force.
+- **Light:** cold on Vortham, Orb-warm on her face.
+- **Action:** @vortham's fist snaps @StellaArmadura's braid taut; her head wrenches back, strands tearing loose, her boots lifting off the floor — a single brutal impact frame of helpless force.
 - **Mood:** violent, cruel.
 - **Audio:** SFX only — a hard snap, hair tension, her choked gasp. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -1001,14 +1001,14 @@
 - **Audio:** SFX only — groaning metal, electric crackle, rising whine. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
 
-### CLIP 64 — @Vorthan levanta a la bebé
+### CLIP 64 — Vortham levanta a la bebé
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The hall now dimmer with the Orb gone, the fallen mother small on the vast floor.
-- **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @VeraArmadura (grey-blue eyes) (still on the floor), @RobotImperial.
-- **Shot/lens:** @Vorthan lifts the baby from the alcove; robots move toward @VeraArmadura's body.
+- **Characters:** @vortham, @SelkaBebe (grey-blue eyes), @VeraArmadura (grey-blue eyes) (still on the floor), @RobotImperial.
+- **Shot/lens:** @vortham lifts the baby from the alcove; robots move toward @VeraArmadura's body.
 - **Camera:** slow, cold, deliberate.
 - **Light:** dimmer now that the Orb is gone, a fading warmth around the body.
-- **Action:** @Vorthan crosses the great floor and lifts @SelkaBebe gently from her niche; the baby quiets in his arms, grey-blue eyes wide; behind him @RobotImperial units stoop toward @VeraArmadura's still form.
+- **Action:** @vortham crosses the great floor and lifts @SelkaBebe gently from her niche; the baby quiets in his arms, grey-blue eyes wide; behind him @RobotImperial units stoop toward @VeraArmadura's still form.
 - **Mood:** cold aftermath.
 - **Audio:** SFX only — baby quieting, heavy servo steps. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -1016,12 +1016,12 @@
 ### CLIP 65 — "she's gone. find @Stella."
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaDelOrbe — match its architecture, materials, colors; lush, detailed, painterly background. The vast dimmed hall, @VeraArmadura left alone and small on the mirror-floor.
-- **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes), @VeraArmadura (grey-blue eyes) (left on the floor), @RobotImperial.
-- **Shot/lens:** @Vorthan halts the robots with a gesture, turns away with the baby, leaving @VeraArmadura behind.
+- **Characters:** @vortham, @SelkaBebe (grey-blue eyes), @VeraArmadura (grey-blue eyes) (left on the floor), @RobotImperial.
+- **Shot/lens:** @vortham halts the robots with a gesture, turns away with the baby, leaving @VeraArmadura behind.
 - **Camera:** a slow pull-back, leaving @VeraArmadura tiny and alone in the great room.
 - **Light:** cold, the last warmth draining from around the body.
-- **Action:** @Vorthan raises a single hand and the robots freeze over @VeraArmadura's body; without a flicker of feeling he turns and walks out with the baby, his flat order echoing as the camera pulls back to leave @VeraArmadura alone on the immense floor.
-- **Dialogue (@Vorthan):** "What are you doing? She's gone. Go find @Stella. We need that Orb."
+- **Action:** @vortham raises a single hand and the robots freeze over @VeraArmadura's body; without a flicker of feeling he turns and walks out with the baby, his flat order echoing as the camera pulls back to leave @VeraArmadura alone on the immense floor.
+- **Dialogue (@vortham):** "What are you doing? She's gone. Go find @Stella. We need that Orb."
 - **Mood:** chilling indifference.
 - **Audio:** SFX only — his flat voice, retreating footsteps, a vast silence settling over the body. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -1303,12 +1303,12 @@
 
 ---
 
-## SECUENCIA 9 — ESCENA: El discurso de @Vorthan (Erdia, Año 0) · *(clips 81-88)*
+## SECUENCIA 9 — ESCENA: El discurso de Vortham (Erdia, Año 0) · *(clips 81-88)*
 
 ### CLIP 81 — establishing: la plaza
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. A vast palace plaza beneath a still-blue sky, an enormous crowd packed across terraces and steps, banners hanging, a high balcony above — grandeur with a held breath under it.
-- **Characters:** @Vorthan (distant, on the balcony), the crowd.
+- **Characters:** @vortham (distant, on the balcony), the crowd.
 - **Shot/lens:** huge establishing wide over the gathered people toward the balcony.
 - **Camera:** a slow crane over the sea of heads toward the distant King.
 - **Light:** bright clear day, but the air already heavy.
@@ -1320,12 +1320,12 @@
 ### CLIP 82 — "we have been robbed"
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The high balcony over the crowd, the King framed against the bright sky.
-- **Characters:** @Vorthan.
-- **Shot/lens:** strong medium of @Vorthan addressing the crowd, mournful and perfect.
+- **Characters:** @vortham.
+- **Shot/lens:** strong medium of @vortham addressing the crowd, mournful and perfect.
 - **Camera:** a slow push to his composed, sorrowful face.
 - **Light:** clean daylight, controlled and flattering.
-- **Action:** @Vorthan stands at the balcony's edge and lets a long, practiced silence hang before he speaks, his face a mask of shared grief, every gesture calculated to look like a man carrying his people's pain.
-- **Dialogue (@Vorthan):** "Today, we have been robbed."
+- **Action:** @vortham stands at the balcony's edge and lets a long, practiced silence hang before he speaks, his face a mask of shared grief, every gesture calculated to look like a man carrying his people's pain.
+- **Dialogue (@vortham):** "Today, we have been robbed."
 - **Mood:** manipulative sorrow.
 - **Audio:** SFX only — his amplified voice rolling over the plaza, the crowd hushing. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -1333,12 +1333,12 @@
 ### CLIP 83 — "torn from our world"
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The balcony and the crowd below, faces beginning to break with horror.
-- **Characters:** @Vorthan, the crowd.
-- **Shot/lens:** medium on @Vorthan, intercut with the horrified crowd.
+- **Characters:** @vortham, the crowd.
+- **Shot/lens:** medium on @vortham, intercut with the horrified crowd.
 - **Camera:** steady on him, then cutting down to the faces.
 - **Light:** bright daylight.
-- **Action:** @Vorthan names the loss with grave tenderness; the camera cuts to the crowd as a wave of gasps and grief ripples backward through the plaza, hands to mouths, the lie taking root.
-- **Dialogue (@Vorthan):** "The Orb… has been torn from our world."
+- **Action:** @vortham names the loss with grave tenderness; the camera cuts to the crowd as a wave of gasps and grief ripples backward through the plaza, hands to mouths, the lie taking root.
+- **Dialogue (@vortham):** "The Orb… has been torn from our world."
 - **Mood:** spreading dread.
 - **Audio:** SFX only — his voice, a rolling wave of gasps. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -1346,12 +1346,12 @@
 ### CLIP 84 — "our planet will be lost"
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The balcony, the day's light feeling subtly colder as he speaks.
-- **Characters:** @Vorthan.
-- **Shot/lens:** medium on @Vorthan delivering the prophecy.
+- **Characters:** @vortham.
+- **Shot/lens:** medium on @vortham delivering the prophecy.
 - **Camera:** a slow push.
 - **Light:** daylight that seems to lose warmth as the words land.
-- **Action:** @Vorthan spreads his hands and foretells the planet's slow fading, each phrase weighted to spread fear, the crowd below going silent and stricken beneath him.
-- **Dialogue (@Vorthan):** "Without it, the light will fade. The water will fade. our planet will be lost."
+- **Action:** @vortham spreads his hands and foretells the planet's slow fading, each phrase weighted to spread fear, the crowd below going silent and stricken beneath him.
+- **Dialogue (@vortham):** "Without it, the light will fade. The water will fade. our planet will be lost."
 - **Mood:** doom, weaponized.
 - **Audio:** SFX only — his voice, an uneasy crowd murmur. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -1359,11 +1359,11 @@
 ### CLIP 85 — los aliados en celda
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. Beside and below the balcony, captured allies displayed in holding pens as a grim spectacle.
-- **Characters:** @Vorthan, captured allies (resistance pilots like @Piloto1, @Piloto2, @Piloto3).
+- **Characters:** @vortham, captured allies (resistance pilots like @Piloto1, @Piloto2, @Piloto3).
 - **Shot/lens:** wide revealing the confined, weary allies behind/below him.
 - **Camera:** a slow lateral move past the holding pens.
 - **Light:** harsh daylight falling on the prisoners.
-- **Action:** the camera drifts across rows of holding pens flanking the balcony where the allies who saved @StellaPeloCorto stand captured and defeated, displayed to the crowd as proof — weary but unharmed — while @Vorthan gestures to them as traitors.
+- **Action:** the camera drifts across rows of holding pens flanking the balcony where the allies who saved @StellaPeloCorto stand captured and defeated, displayed to the crowd as proof — weary but unharmed — while @vortham gestures to them as traitors.
 - **Mood:** cruel theater.
 - **Audio:** SFX only — chains shifting, a low crowd murmur. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -1383,24 +1383,24 @@
 ### CLIP 87 — "@Stella. Thief. Traitor."
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The balcony, the King delivering the verdict to a turning crowd.
-- **Characters:** @Vorthan.
-- **Shot/lens:** strong close on @Vorthan delivering the name like a sentence.
+- **Characters:** @vortham.
+- **Shot/lens:** strong close on @vortham delivering the name like a sentence.
 - **Camera:** a push to his calm, cruel face.
 - **Light:** daylight, his eyes cold beneath the grief-mask.
-- **Action:** @Vorthan lets the silence build, then hands the crowd their enemy — the name landing like a verdict, his sorrow never slipping even as the plaza erupts in fury beneath him.
-- **Dialogue (@Vorthan):** "And who condemned us? One of our own. @Stella. Thief. Traitor."
+- **Action:** @vortham lets the silence build, then hands the crowd their enemy — the name landing like a verdict, his sorrow never slipping even as the plaza erupts in fury beneath him.
+- **Dialogue (@vortham):** "And who condemned us? One of our own. @Stella. Thief. Traitor."
 - **Mood:** the lie sealed.
 - **Audio:** SFX only — his voice, then the crowd roaring @Stella's name in hatred. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
 
-### CLIP 88 — @Vorthan acaricia a la bebé (cierre)
+### CLIP 88 — Vortham acaricia a la bebé (cierre)
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @PlazaPalacio — match its architecture, materials, colors; lush, detailed, painterly background. The balcony above the roaring plaza, the King holding a small child before the multitude.
-- **Characters:** @Vorthan, @SelkaBebe (grey-blue eyes).
-- **Shot/lens:** @Vorthan holds @SelkaBebe before the crowd and, almost imperceptibly, strokes her head like a father; then to black.
+- **Characters:** @vortham, @SelkaBebe (grey-blue eyes).
+- **Shot/lens:** @vortham holds @SelkaBebe before the crowd and, almost imperceptibly, strokes her head like a father; then to black.
 - **Camera:** a slow push to the tender-yet-wrong gesture, then a fade to black.
 - **Light:** bright day whose warmth now feels like a lie.
-- **Action:** above the roaring crowd, @Vorthan lifts @SelkaBebe so all can see her, and — almost too small to notice — gently strokes her white hair like a doting father, the baby's grey-blue eyes blinking up at him; the image holds, intimate and deeply wrong, then cuts to black. **END OF ACT 1.**
+- **Action:** above the roaring crowd, @vortham lifts @SelkaBebe so all can see her, and — almost too small to notice — gently strokes her white hair like a doting father, the baby's grey-blue eyes blinking up at him; the image holds, intimate and deeply wrong, then cuts to black. **END OF ACT 1.**
 - **Mood:** intimate dread, the seed of everything to come.
 - **Audio:** SFX only — the roaring crowd fading out, a soft breath, then silence. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.

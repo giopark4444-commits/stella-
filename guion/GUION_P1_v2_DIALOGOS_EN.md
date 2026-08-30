@@ -717,9 +717,9 @@ Un abrazo de los tres, demasiado corto, con la bebé apretada en medio.
 
 La puerta principal se abre.
 
-Entra **VORTHAN** —el Rey. Alto, sereno, con una **sonrisa de viejo amigo de la familia**. Soldados-robot detrás de él, llenando el umbral como una sombra.
+Entra **VORTHAM** —el Rey. Alto, sereno, con una **sonrisa de viejo amigo de la familia**. Soldados-robot detrás de él, llenando el umbral como una sombra.
 
-**VORTHAN**
+**VORTHAM**
 *(casi con cariño)*
 Naio. Old friend.
 *(mira la escena: el traje a medio poner, la bebé en brazos de su madre, la salida trasera)*
@@ -727,7 +727,7 @@ You knew this day was coming.
 
 Vera y Stella ya se deslizan hacia la salida trasera, despacio, sin correr todavía. Pero los ojos del Rey lo ven todo.
 
-**VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 *(sin levantar la voz)*
 Don't let them out.
 
@@ -741,7 +741,7 @@ PAPA!
 
 Un robot se inclina a rematarlo. El Rey lo detiene **con dos dedos.**
 
-**VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 *(sin dejar de mirar a Naio en el suelo)*
 Not that one.
 *(beat)*
@@ -813,7 +813,7 @@ Vera y Stella entran por un lado, todavía abriéndose paso a golpes.
 
 Y por el otro se abre una puerta y entran tres.
 
-**VORTHAN.** Andando. Sin prisa.
+**VORTHAM.** Andando. Sin prisa.
 
 A su derecha, **S1G1** —un robot distinto: oscuro, esbelto, rápido, sin el ruido de los demás. Un asesino.
 
@@ -830,7 +830,7 @@ Stella cruza la sala a toda velocidad y **salta.** Las manos por delante. A un m
 
 Y el Rey, sin moverse del sitio, sin levantar la voz, casi con pereza:
 
-**VORTHAN**
+**VORTHAM**
 Attack.
 
 Y los dos **salen disparados. Vuelan.**
@@ -857,9 +857,9 @@ empieza a **arrastrarse hacia su madre.**
 
 *(Le acaban de dar una sola regla y la rompe en el primer minuto. **Va a seguir rompiéndolas durante veinticuatro años.**)*
 
-Vorthan la mira arrastrarse. Y se le suaviza la voz.
+Vortham la mira arrastrarse. Y se le suaviza la voz.
 
-**VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 So much like your mother. Crawling toward what she loves.
 *(beat)*
 That's why you always lose.
@@ -882,9 +882,9 @@ Y entonces, de rodillas entre los escombros, con lo poco que le queda, **Stella 
 
 Sale del tamaño de una mano. Una criatura de partículas de luz con forma de axolote, temblando en el aire, diminuta en medio de una catedral rota.
 
-Y **Vorthan se ríe.**
+Y **Vortham se ríe.**
 
-**VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 *(divertido de verdad)*
 …That?
 
@@ -892,11 +892,11 @@ Y Gix **crece.**
 
 Las partículas se multiplican, se ordenan, se llenan de luz —y en dos segundos hay en esa sala un animal de luz **más grande que el demoledor.**
 
-Vorthan deja de reírse.
+Vortham deja de reírse.
 
 Y por un segundo —**el único de toda la secuencia**— nadie se mueve. Ni las máquinas, ni el Rey, ni ella.
 
-*(Es la primera vez en la película que Vorthan mira algo que no esperaba.)*
+*(Es la primera vez en la película que Vortham mira algo que no esperaba.)*
 
 Stella se sube a él. **Y cabalga.**
 
@@ -912,7 +912,7 @@ Y **la sala se queda a oscuras.**
 
 *(La única luz que había aquí dentro se acaba de ir con ella.)*
 
-Vorthan levanta la mano.
+Vortham levanta la mano.
 
 *(No para matarla. **No puede.** Ese Orbe está encriptado dentro de esa niña y no sale de ahí sin ella. Lo que le lanza es para **tumbarla y quitársela del cuerpo.**)*
 
@@ -988,11 +988,11 @@ La onda escupe a Stella por el otro lado, al cielo abierto.
 
 ABAJO, en la sala a oscuras: Vera **boca abajo entre los escombros, sin moverse.**
 
-**VORTHAN** se levanta del suelo sacudiéndose, **con la bebé todavía en un brazo.** Selka ha dejado de llorar. Lo mira.
+**VORTHAM** se levanta del suelo sacudiéndose, **con la bebé todavía en un brazo.** Selka ha dejado de llorar. Lo mira.
 
 Dos robots se inclinan a recoger el cuerpo de Vera. El Rey los detiene con un gesto.
 
-**VORTHAN**
+**VORTHAM**
 *(frío, sin mirarla)*
 What are you doing? She's already dead.
 *(se da la vuelta con la bebé)*
@@ -1067,21 +1067,21 @@ Blanco total.
 
 ## SEC. 9 — INT. PALACIO, BALCÓN REAL — ERDIA — [AÑO 0] — DÍA
 
-Bajo un cielo todavía azul, **VORTHAN** habla ante una multitud inmensa. Voz de luto. Perfecta.
+Bajo un cielo todavía azul, **VORTHAM** habla ante una multitud inmensa. Voz de luto. Perfecta.
 
-**VORTHAN**
+**VORTHAM**
 Today, we have been robbed.
 *(deja caer la palabra)*
 The Orb — the heart of Erdia, the source of everything we are — has been torn out of our world.
 
 Murmullo de horror en la plaza.
 
-**VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 Without it, the light will go. The water will go. And our planet… will begin to die.
 
 Detrás de él, exhibidos en jaulas, los **TRES PILOTOS** que salvaron a Stella —presos, vencidos. (Los demás aliados murieron abriéndole el cielo.)
 
-**VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 And who has condemned us to this? One of our own.
 *(beat)*
 A child we gave everything to. Who chose to keep everyone's light for herself rather than let it run.
@@ -1090,7 +1090,7 @@ Stella. Thief. Traitor.
 
 La multitud, que esa mañana la habría amado, empieza a gritar su nombre con odio.
 
-VORTHAN sostiene a la **bebé Selka** en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
+VORTHAM sostiene a la **bebé Selka** en brazos, frente a todos. La bebé mira la plaza enfurecida sin entender nada.
 
 Y muy despacio, casi sin que se note, el Rey le **acaricia la cabeza** —como un padre.
 
@@ -1254,22 +1254,22 @@ Pelean de verdad. La niña es rápida y está bien entrenada —se le nota quié
 
 La tira al suelo. Se levanta. La vuelve a tirar. Se vuelve a levantar.
 
-Desde la penumbra, sentado, **VORTHAN** mira.
+Desde la penumbra, sentado, **VORTHAM** mira.
 
 Y aquí está el problema: Selka **titubea**. Cada vez que tiene el golpe hecho, se frena una fracción de segundo. Como si le costara. Y en esa fracción, el autómata la castiga.
 
 La tira otra vez. Y otra.
 
-Vorthan **se pone de pie.** No puede seguir sentado.
+Vortham **se pone de pie.** No puede seguir sentado.
 
-**VORTHAN**
+**VORTHAM**
 Again.
 
 Selka se levanta. Ataca. Vuelve a frenarse a mitad del golpe. El autómata la manda contra la pared.
 
 Silencio. Solo la respiración de la niña en el suelo.
 
-Y a Vorthan se le sube algo a la cara que no es rabia: es **vergüenza**. Ocho años. Ocho años puestos en esto.
+Y a Vortham se le sube algo a la cara que no es rabia: es **vergüenza**. Ocho años. Ocho años puestos en esto.
 
 Cruza la sala. Selka se está incorporando —confusa, esperando una corrección— cuando lo ve venir.
 
@@ -1297,17 +1297,17 @@ Hasta que no queda nada que golpear.
 
 Se queda de pie sobre los restos, medio ciega, temblando de agotamiento, con la hoja colgando de la mano.
 
-Y Vorthan —que hace un minuto estaba avergonzado— la mira ahora **con algo parecido al orgullo.** Acaba de conseguir en cuatro segundos lo que no consiguió en ocho años.
+Y Vortham —que hace un minuto estaba avergonzado— la mira ahora **con algo parecido al orgullo.** Acaba de conseguir en cuatro segundos lo que no consiguió en ocho años.
 
 Se acerca. Se arrodilla a su altura. Le retira la mano del ojo con una suavidad insoportable y mira la herida como quien mira un desperfecto en un mueble caro.
 
-**VORTHAN**
+**VORTHAM**
 *(dulce)*
 There you were.
 
 Le limpia la mejilla con el pulgar.
 
-**VORTHAN (CONT.)**
+**VORTHAM (CONT.)**
 *(se incorpora, ya sereno, saliendo)*
 Have it treated. But make sure it shows.
 *(en la puerta, sin voltear)*
@@ -2114,7 +2114,7 @@ Y otra vez la vemos bajar las manos. Otra vez la vemos caminar hacia ella con la
 
 Y ahora la cámara **no se corta.** Se queda. Y por primera vez vemos lo que había detrás de ella todo este tiempo.
 
-**VORTHAN.**
+**VORTHAM.**
 
 De pie en la penumbra, con su forma de siempre, esperando. Lleva ahí desde antes de que ella reventara la cúspide.
 
@@ -2124,9 +2124,9 @@ Cruza los tres metros que los separan y le cruza la espalda de un golpe seco, si
 
 Stella se desploma de cara contra el suelo.
 
-*(Y ahí está el motivo, aunque nadie lo diga todavía: lo único que Vorthan no puede permitirse es que esa mujer llegue hasta Selka **desarmada, llorando y llamándola por un nombre.** Eso podría despertarla. Una pelea, en cambio, es segura: peleando, Selka sigue siendo un soldado.)*
+*(Y ahí está el motivo, aunque nadie lo diga todavía: lo único que Vortham no puede permitirse es que esa mujer llegue hasta Selka **desarmada, llorando y llamándola por un nombre.** Eso podría despertarla. Una pelea, en cambio, es segura: peleando, Selka sigue siendo un soldado.)*
 
-Vorthan se retira a la penumbra. Ya hizo lo que tenía que hacer.
+Vortham se retira a la penumbra. Ya hizo lo que tenía que hacer.
 
 Y la figura de pelo blanco **por fin se gira.**
 
@@ -2216,7 +2216,7 @@ Majesty… the Orb should bring the light back. What is this? What's happening?
 
 Desde el trono, una risa. Mil voces a la vez.
 
-**VORTHAN (O.S.)**
+**VORTHAM (O.S.)**
 The light was never for them, little one.
 *(beat)*
 And it was never yours.
@@ -2225,7 +2225,7 @@ And it was never yours.
 
 ## SEC. 26 — INT. SALA DEL TRONO — CONTINUO — "FUI YO"
 
-VORTHAN se levanta del trono. Y empieza a **cambiar.**
+VORTHAM se levanta del trono. Y empieza a **cambiar.**
 
 Primero toma la forma de **VERA.**
 
@@ -2330,7 +2330,7 @@ No está muerta.
 
 Por primera vez en toda la película, esa cosa se queda absolutamente quieta.
 
-**VORTHAN**
+**VORTHAM**
 *(muy bajo, para sí)*
 …That wasn't there before.
 
@@ -2343,7 +2343,7 @@ No llora. No grita. Se le va todo de la cara, como cuando se apaga una pantalla.
 **SELKA**
 How many years have you been using me.
 
-**VORTHAN**
+**VORTHAM**
 *(divertido, recomponiéndose)*
 Twenty-four.
 
@@ -2354,7 +2354,7 @@ I'll do it one more time. This time I choose who.
 
 Y ataca —no por rabia: para **cubrir el rescate de su hermana.**
 
-A Vorthan se le borra la sonrisa. Dos cosas fuera de control en un mismo minuto: la niña que no murió, y el arma que eligió bando.
+A Vortham se le borra la sonrisa. Dos cosas fuera de control en un mismo minuto: la niña que no murió, y el arma que eligió bando.
 
 Y la cosa abandona todos los disfraces. No como un truco: como una **rabieta.** Toma su **forma real.**
 
@@ -2516,7 +2516,7 @@ CORTE A NEGRO.
 - **Theron entró DESPUÉS de la transformación:** vio solo la forma de Parásito. **Sigue sin saber que es un
   cambiaformas.** Selka y Naio sí lo saben — contárselo (o callárselo) es una escena de la P2.
 - **Naio sabe qué es la nave-palacio y por dónde se abre** (el legado de Vera, SEC 19/29): el arma de la P2.
-- **Vorthan sabe que Stella no murió** (vio la brasa, SEC 27). La niña que se le escapó dos veces.
+- **Vortham sabe que Stella no murió** (vio la brasa, SEC 27). La niña que se le escapó dos veces.
 - **La cicatriz de Selka** es la única prueba física de que la máscara del Rey se rompe. Se la hizo él a
   los 9 años, por una pregunta. Ella la lleva en cada plano de la película sin saber lo que significa.
 - **La señal de Vera existe** (SEC 12/18): la voz de la madre, grabada. Una reliquia para las dos hermanas.

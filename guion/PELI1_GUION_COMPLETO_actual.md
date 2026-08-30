@@ -7,7 +7,7 @@
 > Borrador completo de largometraje. Reparto: Stella · Selka · Vera · Naio · Gix ·
 > Theron (el Cazador) · Brog · Nima · Noah (humano) · Marek (2º líder de la
 > resistencia = el Rey infiltrado) · Korin y Lessa (leales de Vera) · Vosk (el matón) ·
-> el Rey / Vorthan · robots G44 · pueblo naiel · planeta del Parásito: Vorth.
+> el Rey / Vortham · robots G44 · pueblo naiel · planeta del Parásito: Vorth.
 > Dilatación: 1 año fuera = 4 en Erdia.
 
 
@@ -1328,7 +1328,7 @@ Selka, destrozada por dentro, alza su sable contra "Marek".
           Te voy a —
 
 No termina. El Rey suelta por fin su forma. La carne de Marek se abre como
-una boca y de dentro emerge VORTHAN en su forma real: la colmena hecha
+una boca y de dentro emerge VORTHAM en su forma real: la colmena hecha
 cuerpo, colosal, una superficie donde ondean las caras de todos los que ha
 devorado. Una anti-luz que traga en vez de dar.
 
@@ -1342,7 +1342,7 @@ Hacia la pelea. Hacia seguir siendo un arma.
 
 No lo hace.
 
-Da la espalda al trono, a Vorthan, a todo lo que fue durante veinte años —
+Da la espalda al trono, a Vortham, a todo lo que fue durante veinte años —
 y se arrastra hacia STELLA. Hacia su hermana en coma. La primera elección
 verdaderamente suya en toda su vida.
 
@@ -1356,14 +1356,14 @@ verdaderamente suya en toda su vida.
 Stella no responde. Pulso casi nulo.
 
 IRRUMPEN, abriéndose paso desde el fondo: BROG, NIMA, NOAH, y detrás
-KORIN y LESSA. Vorthan, colosal, podría aplastarlos. Pero la mole de Brog
+KORIN y LESSA. Vortham, colosal, podría aplastarlos. Pero la mole de Brog
 se interpone entre el monstruo y las dos hermanas.
 
                     BROG
               (cargando a Stella como a una pluma)
           No te dejo. ¿Me oíste, niña? No te dejo.
 
-Vorthan extiende un apéndice hacia ellos — Noah y Nima lo cubren, Korin y
+Vortham extiende un apéndice hacia ellos — Noah y Nima lo cubren, Korin y
 Lessa abren fuego. Lessa mira a Selka, manca, en el suelo, la mujer a la
 que odió veinte años. Duda medio segundo. Luego le tiende la mano.
 
@@ -1375,7 +1375,7 @@ Selka mira esa mano. No la merece y lo sabe. La toma igual.
 31  EXT. ERDIA — CIELO — CONTINUO                                        31
 
 Los nuestros huyen hacia la nave pequeña mientras el palacio se viene
-abajo. Y arriba, rasgando las nubes, asciende la NAVE NODRIZA de Vorthan:
+abajo. Y arriba, rasgando las nubes, asciende la NAVE NODRIZA de Vortham:
 colosal, llevándose el Orbe, dejando atrás un planeta que se resquebraja.
 
 Theron, desde la órbita, en su puente, ve la nave del Parásito despegar
@@ -1408,7 +1408,7 @@ a su hermana a través del cristal.
           veces. Una por la mentira. Otra por la
           verdad.
 
-Korin y Lessa, los únicos que vieron la cara de Marek volverse Vorthan,
+Korin y Lessa, los únicos que vieron la cara de Marek volverse Vortham,
 los únicos testigos: saben que Selka es inocente. Ese conocimiento es lo
 único que la mantiene viva.
 

@@ -36,7 +36,7 @@
 | 3 | Orbe arrancado / coma | 2 |
 | 3 | Inserción / cataclismo / transformación | 2.5 |
 | 3 | "Fui yo" / doble lectura / muerte de Stella | 3.5 |
-| 3 | Quiebre de Selka / forma real Vorthan / brazo | 2.5 |
+| 3 | Quiebre de Selka / forma real Vortham / brazo | 2.5 |
 | 3 | Renuncia de Selka / extracción | 2.5 |
 | 3 | Despegue a Vorth | 1.5 |
 | 3 | Bahía médica / "despierta" / latido / cierre | 2.5 |

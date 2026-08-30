@@ -33,7 +33,7 @@ Textura que enriquece sin robar foco. Nunca en monólogo:
 - **El pelo blanco como voto:** puro **visual** (el gris del futuro, el blanco falso de Selka, el teñido
   de Stella) — sin explicar la regla.
 - **La dilatación temporal:** se establece **1-2 veces** + **rótulos de año**. No se repite.
-- **El plan de 20 años de Vorthan:** se **siente** (mundo podrido, Selka criada como arma), no se explica.
+- **El plan de 20 años de Vortham:** se **siente** (mundo podrido, Selka criada como arma), no se explica.
 - **El secreto del palacio-nave:** **setup mudo** que paga en el clímax.
 - **Theron y su flota cazadora:** establecido **ligero** (su misión se intuye por cómo actúan).
 - **Vosk:** hilo **B** (rival→leal), sin robar escenas a las hermanas.

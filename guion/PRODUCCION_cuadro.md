@@ -43,9 +43,9 @@
 | `@SelkaGeneral` | la General (21), armadura blanca, gris-azul | 2-3 | — |
 | `@SelkaNiña` | Selka de niña (forma del "Fui yo") 🔒 | 3 | — |
 | `@Gix` | ser de luz | 1-3 | ⬜ |
-| `@Vorthan` | el Rey | 1-3 | ⬜ |
-| `@Marek` | líder bueno de la resistencia 🔒 (=Vorthan) | 2-3 | — |
-| `@Parasito` | forma real colosal 🔒 (=Vorthan) | 3 | — |
+| `@vortham` | el Rey | 1-3 | ⬜ |
+| `@Marek` | líder bueno de la resistencia 🔒 (=Vortham) | 2-3 | — |
+| `@Parasito` | forma real colosal 🔒 (=Vortham) | 3 | — |
 | `@S1G1` | robot asesino oscuro | 1 | ✅ |
 | `@RobotImperial` | soldados robot imperiales | 1-3 | 🟡 |
 | `@Theron` | el Cazador (especie Threa) | 2-3 | — |
@@ -107,4 +107,4 @@
 - **Toda la P1 = 248 prompts** (88 listos + 160 por escribir).
 - **Inventario total ≈ 66 elementos** de referencia: ~26 personajes · 6 naves · 17 locaciones · 10 props/objetos.
 - **Acto 1 (lo activo): 31 referencias** — ✅ 9 listas, 🟡 1, ⬜ 21 (16 de ellas = locaciones/naves/props que se cubren generando el establishing y reusándolo).
-- 🔒 = secreto: `@Marek`, `@Parasito`, `@SelkaNiña` y `@NavePalacio` son la misma entidad (Vorthan) — se montan como elementos separados para no spoilear.
+- 🔒 = secreto: `@Marek`, `@Parasito`, `@SelkaNiña` y `@NavePalacio` son la misma entidad (Vortham) — se montan como elementos separados para no spoilear.

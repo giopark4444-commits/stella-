@@ -13,7 +13,7 @@
 - **Objetivo:** Stella debe alcanzar el Orbe; Vera, mantener viva a Selka.
 - **Oponente/gimmick:** robots imperiales (masa) → **S1G1**, asesino silencioso, más rápido que todo lo anterior.
 - **Giros:** (1) madre e hija pelean en equipo y *funcionan* → (2) S1G1 rompe el equilibrio, el tono pasa de "pelea" a "cacería" → (3) Stella elige a su madre por encima del Orbe.
-- **Decisión/Coste:** Vorthan la inmoviliza por la trenza; Vera muere en luz; Stella **se corta la trenza** para liberarse — nace la guerrera.
+- **Decisión/Coste:** Vortham la inmoviliza por la trenza; Vera muere en luz; Stella **se corta la trenza** para liberarse — nace la guerrera.
 - **Hook:** el escudo de luz de Vera floreciendo alrededor de Stella en el mismo plano en que se le apaga el brillo vital.
 
 **Coreografía (beat a beat):**
@@ -23,7 +23,7 @@
 4. **Entra S1G1** (clip 48). **Speed ramp:** todo frena un instante — su óptico se enciende en la penumbra — y luego **estalla** a velocidad imposible. La cámara casi no lo alcanza.
 5. **Vera vs S1G1** (clip 50): intercambio brutal, ella da todo. *Rostros:* de furia a duda a aceptación. S1G1 la barre con una **onda de energía**; cae. Cámara que **cae con ella**.
 6. **La elección** (clip 52): Stella a tres pasos del Orbe, mano extendida — **freeze de un latido** en su cara (el dilema) — y gira. La cámara *whip* del Orbe a su madre.
-7. **La trenza** (clip 53-54): Vorthan la engancha; ella queda colgando. *Primerísimo plano:* lágrimas suspendidas en el aire cargado, dientes apretados, pánico puro.
+7. **La trenza** (clip 53-54): Vortham la engancha; ella queda colgando. *Primerísimo plano:* lágrimas suspendidas en el aire cargado, dientes apretados, pánico puro.
 8. **El doble golpe** (clip 55): plano amplio que sostiene **el escudo floreciendo** sobre Stella y, detrás, la **lanza de luz** apagando el brillo de Vera. Sin sangre — luz que abandona un cuerpo.
 9. **El corte** (clip 56): *insert* del filo de luz contra la trenza blanca; un tajo limpio; Stella **cae libre**. Micro cámara lenta en el mechón que flota.
 

@@ -7,7 +7,7 @@
 
 > Guion expandido para revisión y corrección, parte por parte. Esta entrega cubre el KI
 > (la hora dorada). Integra los ajustes acordados y siembra los pagos posteriores.
-> Reparto: Stella · Selka · Vera · Naio · Gix · Theron · Brog · Nima · Vorthan (el Rey) ·
+> Reparto: Stella · Selka · Vera · Naio · Gix · Theron · Brog · Nima · Vortham (el Rey) ·
 > robots G44 · pueblo naiel · la Fuente Madre (el Orbe) · planeta del Parásito: Vorth.
 
 
@@ -205,7 +205,7 @@ ya es un poco aburrido.
           otra, si esa mano la deja pasar.
 
 [Siembra clave: la regla del Orbe. Pago en el Ten — Selka tiene que
-arrancarlo y entregarlo; Vorthan no puede tomarlo solo.]
+arrancarlo y entregarlo; Vortham no puede tomarlo solo.]
 
 Acerca la palma al campo. El Orbe se inclina hacia él, como una planta
 hacia el sol.

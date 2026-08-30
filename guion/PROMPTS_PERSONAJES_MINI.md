@@ -135,7 +135,7 @@ How would that same particle spirit look after it grows, big enough for a girl t
 ### @Gix — el axolote de luz
 How would a small friendly spirit look that is made of drifting particles of water and light held together in the shape of an axolotl, so that its edges never quite settle? Show me 4 examples. Not humanoid — a creature. Ghibly style and water color painting.
 
-### @Vorthan — el Rey
+### @vortham — el Rey
 How would an alien king look who has not aged in centuries, and whom his people worship as a god? Show me 4 examples. Ghibly style and water color painting.
 
 ### @RobotDemoledor — el de tres metros 🆕
@@ -156,7 +156,7 @@ How would the fastest machine of an alien army look, the one that runs on four l
 ### @RobotDescarga — el que nunca avanza 🆕
 How would the machine that never advances look, standing far back on very long legs and firing down on everything? Show me 4 examples. Not human technology. Never white. Ghibly style and water color painting.
 
-### @Parasito — la forma real de Vorthan 🔒
+### @Parasito — la forma real de Vortham 🔒
 How would a creature that devours whole worlds look, made out of the light it has stolen from them? Show me 4 examples. Not humanoid. Ghibly style and water color painting.
 
 ---

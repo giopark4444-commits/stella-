@@ -32,8 +32,8 @@
 | 24 | La guerra · campos del palacio (amanecer, Orbe canalizado) | `2342c511` |
 | 25-26 | El combate del trono (Stella vs Selka General) | `4be136c7` |
 | 27 | La entrega (el Rey inserta el Orbe · inversión de luz) | `b02e4653` |
-| 28 | "Fui yo" · metamorfosis de Vorthan (rostro fluyendo) — VFX clave | `3225c573` |
-| 29 | Forma real (Vorthan colosal · brazo de Selka seccionado) | `1a10e776` |
+| 28 | "Fui yo" · metamorfosis de Vortham (rostro fluyendo) — VFX clave | `3225c573` |
+| 29 | Forma real (Vortham colosal · brazo de Selka seccionado) | `1a10e776` |
 | 31 | Cielo de Erdia · despegue de la nodriza (palacio cae) | `3b1906c4` |
 | 32 | Bahía médica · el latido final de Gix (Stella en tanque) | `2c363ee1` |
 

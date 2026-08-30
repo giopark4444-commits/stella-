@@ -48,8 +48,8 @@
 | **20** | 5:19 | 5:37 | 18 | 63-66 | Una chispa de Gix baja y baila en la palma de Stella, como una luciérn / Stella junta la frente a la de la beb |
 | **21** | 5:37 | 5:55 | 18 | 67-70 | Naio y Vera se cruzan una mirada / Naio, rápido, firme, ya en marcha / Naio agarra la cara de Stella con las d |
 | **22** | 5:55 | 6:10 | 15 | 71-74 | Stella, los ojos llenándose, negando / Naio, sin dejarla terminar, todo el amor en tres frases / Un abrazo de  |
-| **23** | 6:10 | 6:29 | 19 | 75-78 | Entra VORTHAN, el Rey / Vorthan, casi con cariño, saboreando el momento / Los ojos de Vorthan recorren la esce |
-| **24** | 6:29 | 6:47 | 18 | 79-84 | Los ojos del Rey lo ven todo / Naio se interpone / El Rey mira a Naio casi con pena / Vorthan lo derriba de un |
+| **23** | 6:10 | 6:29 | 19 | 75-78 | Entra VORTHAM, el Rey / Vortham, casi con cariño, saboreando el momento / Los ojos de Vortham recorren la esce |
+| **24** | 6:29 | 6:47 | 18 | 79-84 | Los ojos del Rey lo ven todo / Naio se interpone / El Rey mira a Naio casi con pena / Vortham lo derriba de un |
 
 ## SEC 4 — Pasillos del palacio
 *6:47 → 7:37 · 3 bloques*
@@ -72,7 +72,7 @@
 | **32** | 8:50 | 9:10 | 20 | 118-123 | Vera, con horror, gritando / Demasiado tarde / Stella cuelga inmóvil, pataleando en el aire, sostenida solo po |
 | **33** | 9:10 | 9:30 | 20 | 124-128 | En el suelo, Vera junta lo último que le queda / Un escudo de luz se forma alrededor de Stella, tejido por las |
 | **34** | 9:30 | 9:50 | 20 | 129-133 | Los labios de Vera se mueven una última vez, casi sin voz / Stella, colgada del pelo, atrapada, ve morir a su  |
-| **35** | 9:50 | 10:06 | 16 | 134-136 | La trenza cortada queda colgando de la mano de Vorthan, un trofeo inút / El escudo de Vera se apaga con ella / |
+| **35** | 9:50 | 10:06 | 16 | 134-136 | La trenza cortada queda colgando de la mano de Vortham, un trofeo inút / El escudo de Vera se apaga con ella / |
 
 ## SEC 6 — Toma del Orbe / huida
 *10:06 → 11:16 · 4 bloques*
@@ -81,7 +81,7 @@
 |---|---|---|--:|---|---|
 | **36** | 10:06 | 10:24 | 18 | 137-143 | Stella rueda, se levanta / Esquiva a un robot / Y toma el Orbe / En el segundo exacto del contacto, la llave d |
 | **37** | 10:24 | 10:42 | 18 | 144-149 | POV de Stella: su madre tirada, quieta / Stella aprieta los dientes, se traga el grito / S1G1 dispara sus prop |
-| **38** | 10:42 | 11:00 | 18 | 150-153 | ABAJO, en la sala: Vera muerta en el piso / VORTHAN se acerca, sin prisa, y levanta a Selka en sus brazos / Do |
+| **38** | 10:42 | 11:00 | 18 | 150-153 | ABAJO, en la sala: Vera muerta en el piso / VORTHAM se acerca, sin prisa, y levanta a Selka en sus brazos / Do |
 | **39** | 11:00 | 11:16 | 16 | 154-156 | El Rey se da la vuelta con la bebé, dando la espalda al cuerpo / Los robots sueltan el cuerpo, que golpea el s |
 
 ## SEC 7 — Cielo / naves aliadas
@@ -112,10 +112,10 @@
 
 | # | entra | sale | s | planos | acción |
 |---|---|---|--:|---|---|
-| **51** | 14:20 | 14:37 | 17 | 198-200 | Bajo un cielo todavía azul, una plaza inmensa repleta de gente / Vorthan habla con voz de luto, perfecta, medi |
-| **52** | 14:37 | 14:52 | 15 | 201-203 | Murmullo de horror recorriendo la plaza / Vorthan, la condena creciendo / Detrás de él, exhibidos en jaulas, l |
-| **53** | 14:52 | 15:08 | 16 | 204-206 | Uno de los pilotos alza apenas la mirada hacia el cielo, hacia donde s / Vorthan, girando el cuchillo / Vortha |
-| **54** | 15:08 | 15:24 | 16 | 207-209 | Vorthan, la palabra final como una sentencia / La multitud, que esa mañana la habría amado, empieza a gritar s |
+| **51** | 14:20 | 14:37 | 17 | 198-200 | Bajo un cielo todavía azul, una plaza inmensa repleta de gente / Vortham habla con voz de luto, perfecta, medi |
+| **52** | 14:37 | 14:52 | 15 | 201-203 | Murmullo de horror recorriendo la plaza / Vortham, la condena creciendo / Detrás de él, exhibidos en jaulas, l |
+| **53** | 14:52 | 15:08 | 16 | 204-206 | Uno de los pilotos alza apenas la mirada hacia el cielo, hacia donde s / Vortham, girando el cuchillo / Vortha |
+| **54** | 15:08 | 15:24 | 16 | 207-209 | Vortham, la palabra final como una sentencia / La multitud, que esa mañana la habría amado, empieza a gritar s |
 | **55** | 15:24 | 15:42 | 18 | 210-212 | Muy despacio, casi sin que se note, el Rey le acaricia la cabeza a la  / La manita de Selka se cierra sobre el |
 
 # ACTO 2 · 64 bloques · 17:55
@@ -313,7 +313,7 @@
 
 | # | entra | sale | s | planos | acción |
 |---|---|---|--:|---|---|
-| **144** | 40:28 | 40:43 | 15 | 96-98 | Vorthan se levanta del trono en la penumbra; su silueta empieza a defo / La carne del Rey se pliega y se recom |
+| **144** | 40:28 | 40:43 | 15 | 96-98 | Vortham se levanta del trono en la penumbra; su silueta empieza a defo / La carne del Rey se pliega y se recom |
 | **145** | 40:43 | 41:00 | 17 | 99-101 | «Vera» se arrodilla junto a Stella; le acaricia el pelo teñido, dulce  / Stella entreabre los ojos por última  |
 | **146** | 41:00 | 41:18 | 18 | 102-104 | Stella, un hilo de voz, una sonrisa que rompe el corazón / «Vera» con la voz exacta de la madre; ternura enven |
 | **147** | 41:18 | 41:35 | 17 | 105-107 | La mano de Stella se afloja del todo sobre el suelo frío; queda quieta / La cosa se incorpora sobre el cuerpo; |

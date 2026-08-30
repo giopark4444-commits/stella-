@@ -861,7 +861,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 94 — SEC 25 Ship — A Laugh of a Thousand Voices
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = location only (@Vorthan O.S.); Image 2 = @SalaTrono (throne).
+- **References to attach:** Image 1 = location only (@vortham O.S.); Image 2 = @SalaTrono (throne).
 - **Framing:** wide, static (slow push framing held).
 - **Subject:** location only — the shadowed throne, from which a laugh of a thousand voices at once seems to rise (the source unseen).
 - **Staging / background:** the deep-shadowed throne dominating frame.
@@ -870,9 +870,9 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 95 — SEC 25 Ship — "It Was Never Yours"
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @Vorthan (silhouette in shadow); Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = @vortham (silhouette in shadow); Image 2 = @SalaTrono.
 - **Framing:** extreme close-up on the shadowed King, static.
-- **Subject:** @Vorthan's silhouette, the multiple voice about to speak — a wrongness beneath a regal shape.
+- **Subject:** @vortham's silhouette, the multiple voice about to speak — a wrongness beneath a regal shape.
 - **Staging / background:** his shadowed form filling frame.
 - **Light & mood:** cold; the many-voiced cruelty of "The light was never theirs, little one. And it was never yours."
 - **Note:** the King's true nature hinted in shadow (no rendered text).
@@ -883,16 +883,16 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 96 — SEC 26 It Was Me — He Begins to Change
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @Vorthan; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = @vortham; Image 2 = @SalaTrono.
 - **Framing:** full shot, static.
-- **Subject:** @Vorthan rising from the throne in shadow, his silhouette beginning to deform, form flowing.
+- **Subject:** @vortham rising from the throne in shadow, his silhouette beginning to deform, form flowing.
 - **Staging / background:** his uncoiling shape at the throne.
 - **Light & mood:** cold, silhouette distorting; still/quiet/held, dread.
 - **Note:** the disguise beginning to slip.
 
 ### FRAME 97 — SEC 26 It Was Me — His Flesh Becomes Vera
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @Vorthan → Vera-shape (grey-blue eyes); Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = @vortham → Vera-shape (grey-blue eyes); Image 2 = @SalaTrono.
 - **Framing:** tight insert / detail, static.
 - **Subject:** the King's flesh folding and re-forming, resolving into the shape of Vera the mother — grey-blue eyes (the mother's branch), warm-familiar face.
 - **Staging / background:** the face resolving out of the shifting mass.
@@ -901,7 +901,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 98 — SEC 26 It Was Me — "Vera" Approaches
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = Vera-shape (grey-blue eyes) [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = Vera-shape (grey-blue eyes) [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** medium, static.
 - **Subject:** wearing the mother's face, the thing walking slowly toward dying @StellaTeñida on the floor — sweet and monstrous, grey-blue eyes.
 - **Staging / background:** "Vera" advancing, Stella's body ahead.
@@ -910,7 +910,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 99 — SEC 26 It Was Me — "Vera" Kneels and Strokes Her Hair
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = Vera-shape (grey-blue eyes) [=Vorthan] (with @StellaTeñida); Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = Vera-shape (grey-blue eyes) [=Vortham] (with @StellaTeñida); Image 2 = @SalaTrono.
 - **Framing:** full shot, static.
 - **Subject:** "Vera" kneeling beside @StellaTeñida, stroking her dark-dyed hair — dulce and monstrous; Stella dying, amber eyes fluttering.
 - **Staging / background:** the two low on the cold floor.
@@ -928,7 +928,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 101 — SEC 26 It Was Me — POV: The Mother's Face
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = Vera-shape (grey-blue eyes) [=Vorthan] (POV); Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = Vera-shape (grey-blue eyes) [=Vortham] (POV); Image 2 = @SalaTrono.
 - **Framing:** POV from the floor, soft-focus, static.
 - **Subject:** Stella's blurred POV — the mother's face bent over her, bathed in soft light, grey-blue eyes tender.
 - **Staging / background:** the mother's face filling the hazy frame.
@@ -946,7 +946,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 103 — SEC 26 It Was Me — "Rest, My Love"
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = Vera-shape (grey-blue eyes) [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = Vera-shape (grey-blue eyes) [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** close-up, static.
 - **Subject:** "Vera" with the mother's exact voice, poisoned tenderness, mouth mid-word — grey-blue eyes, false warmth.
 - **Staging / background:** her face large, Stella soft below.
@@ -973,7 +973,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 106 — SEC 26 It Was Me — Vera Melts Into Marek
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = Marek-shape [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = Marek-shape [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** medium, static.
 - **Subject:** the thing rising over the body, the Vera-face dissolving and shifting into @Marek — the resistance's beloved leader.
 - **Staging / background:** the face morphing above Stella's still form.
@@ -991,7 +991,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 108 — SEC 26 It Was Me — "How Did the King Always Know?"
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = Marek-shape [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = Marek-shape [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** close-up, static.
 - **Subject:** "Marek" smiling with the good leader's face, mouth mid-word — warm-wrong.
 - **Staging / background:** his face large.
@@ -1000,7 +1000,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 109 — SEC 26 It Was Me — "There Was No Resistance"
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = Marek-shape [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = Marek-shape [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** medium, static (slow push framing held).
 - **Subject:** "Marek" delivering the revelation like a slab dropping, mouth mid-word — warm-wrong smile.
 - **Staging / background:** his face, Selka soft beyond.
@@ -1018,7 +1018,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 111 — SEC 26 It Was Me — The Form Shrinks
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = form shifting [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = form shifting [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** tight insert / detail, static.
 - **Subject:** the form shrinking, becoming small, shifting for the last time.
 - **Staging / background:** the shape collapsing inward mid-morph.
@@ -1027,7 +1027,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 112 — SEC 26 It Was Me — A Small White-Haired Child
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @SelkaNiña (grey-blue eyes) [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = @SelkaNiña (grey-blue eyes) [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** full shot, static.
 - **Subject:** the thing now a small child — @SelkaNiña, white hair, grey-blue eyes — standing in the cold hall.
 - **Staging / background:** the little figure dwarfed by the vast throne hall.
@@ -1036,7 +1036,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 113 — SEC 26 It Was Me — "It Was You Who Killed Her"
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @SelkaNiña (grey-blue eyes) [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = @SelkaNiña (grey-blue eyes) [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** close-up, static.
 - **Subject:** the child tilting her head toward the General, sweetest voice in the world, mouth mid-word — grey-blue eyes, white hair.
 - **Staging / background:** the child-face large.
@@ -1054,7 +1054,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 115 — SEC 26 It Was Me — "Hating You"
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @SelkaNiña (grey-blue eyes) [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = @SelkaNiña (grey-blue eyes) [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** close-up, static.
 - **Subject:** "Selka niña" cruel and sweet, mouth mid-word — grey-blue eyes, white hair.
 - **Staging / background:** child-face large.
@@ -1072,7 +1072,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 117 — SEC 26 It Was Me — "Wearing Your Face"
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @SelkaNiña (grey-blue eyes) [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = @SelkaNiña (grey-blue eyes) [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** extreme close-up, static (slow push framing held).
 - **Subject:** the child delivering the final blow, mouth mid-word — grey-blue eyes, white hair, uncanny.
 - **Staging / background:** child-face fills frame.
@@ -1081,7 +1081,7 @@ Un prompt de imagen fija por toma. Adjunta las láminas indicadas; reutiliza la 
 
 ### FRAME 118 — SEC 26 It Was Me — The Child Laughs
 - **Style:** cel-animation anime storyboard frame, cinematic composition, 2D hand-painted cel-animation look, film-grade lighting, soft grain, painterly detailed background, single still frame, no motion blur. 21:9 aspect ratio.
-- **References to attach:** Image 1 = @SelkaNiña (grey-blue eyes) [=Vorthan]; Image 2 = @SalaTrono.
+- **References to attach:** Image 1 = @SelkaNiña (grey-blue eyes) [=Vortham]; Image 2 = @SalaTrono.
 - **Framing:** medium, static.
 - **Subject:** the child laughing a childish giggle that chills the blood — grey-blue eyes, white hair, wrong.
 - **Staging / background:** the small figure, cold hall around.

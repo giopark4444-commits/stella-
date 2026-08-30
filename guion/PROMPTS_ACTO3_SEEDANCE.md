@@ -3,7 +3,7 @@
 
 > Mismo sistema (`PROMPTS_ACTO1/2.md`): English, @menciones, Setting exquisito, Action al detalle,
 > **grey-blue eyes** (@Vera/@Selka), **MODO ACCIÓN** + **acción ×2** (A6 asalto, A7 trono, A8 Parásito).
-> 🔒 El cambio de forma de @Vorthan se revela en SEC 26. Marcado por SECUENCIA / ESCENA.
+> 🔒 El cambio de forma de @vortham se revela en SEC 26. Marcado por SECUENCIA / ESCENA.
 > Numeración continua tras el Acto 2 (que terminó en 154).
 
 ---
@@ -11,8 +11,8 @@
 ## 🎭 BIBLIA — NUEVOS @ELEMENTOS DEL ACTO 3
 - `@StellaTeñida` — @Stella ~19, **pelo teñido oscuro** (camuflada), @TrajeNuevo, amber eyes; mayor, endurecida.
 - `@SelkaGeneral` — la General (21), armadura blanca/dorada, hoja de luz, **grey-blue eyes**, **scar over her left eye**, fría; luego **manca** (sin un brazo).
-- `@SelkaNiña` — @Selka de niña pequeña (forma del "Fui yo"), pelo blanco, **grey-blue eyes**. 🔒 (=@Vorthan)
-- `@Vorthan` — el Rey. `@Marek` — líder de la resistencia 🔒. `@Parasito` — @Vorthan's true form 🔒: a ~300m pitch-black colossal mass made of countless screaming human faces (the devoured) that surface, cry and sink as it endlessly transforms; a porous black membrane that drinks all light; no fixed form, no boundaries. Alt forms: scattering shadow-spores, a giant-armed shape, a city-covering curtain, a gravity-vortex sphere. *(los tres = misma entidad)*
+- `@SelkaNiña` — @Selka de niña pequeña (forma del "Fui yo"), pelo blanco, **grey-blue eyes**. 🔒 (=Vortham)
+- `@vortham` — el Rey. `@Marek` — líder de la resistencia 🔒. `@Parasito` — Vortham's true form 🔒: a ~300m pitch-black colossal mass made of countless screaming human faces (the devoured) that surface, cry and sink as it endlessly transforms; a porous black membrane that drinks all light; no fixed form, no boundaries. Alt forms: scattering shadow-spores, a giant-armed shape, a city-covering curtain, a gravity-vortex sphere. *(los tres = misma entidad)*
 - `@NaioRescatado` — @Naio anciano, liberado. `@Theron` · `@Brog` · `@Nima` · `@Vosk` · `@Korin`. `@Gix` (ser de luz).
 - `@NavePalacio` — el palacio que se revela **nave** colosal 🔒.
 - Locaciones: `@ErdiaRuinas` · `@SalaTrono` · `@NodrizaInterior` (enfermería).
@@ -653,12 +653,12 @@
 ### CLIP 195 — @Selka retrocede con miedo
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @Vorthan (O.S.).
+- **Characters:** @SelkaGeneral (grey-blue eyes, scar over her left eye), @vortham (O.S.).
 - **Shot/lens:** @Selka backs toward the throne; a voice answers from it.
 - **Camera:** push to her fear, then to the shadowed throne.
 - **Light:** cold, the throne in deeper shadow.
 - **Action:** @SelkaGeneral backs away, afraid for the first time in her life; from the throne a laugh answers in a thousand voices.
-- **Dialogue (@SelkaGeneral):** "Majesty… the Orb should bring the light. What is this?" — **(@Vorthan, O.S.):** "The light was never theirs, little one. And it was never yours."
+- **Dialogue (@SelkaGeneral):** "Majesty… the Orb should bring the light. What is this?" — **(@vortham, O.S.):** "The light was never theirs, little one. And it was never yours."
 - **Mood:** terror dawning.
 - **Audio:** SFX only — a laugh in many voices, machinery. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -666,11 +666,11 @@
 ### CLIP 196 — (reservado / transición al "Fui yo")
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vorthan, @SelkaGeneral (grey-blue eyes, scar over her left eye), @StellaTeñida (down).
+- **Characters:** @vortham, @SelkaGeneral (grey-blue eyes, scar over her left eye), @StellaTeñida (down).
 - **Shot/lens:** the King rises from the throne; the hall holds its breath.
-- **Camera:** slow ominous push to @Vorthan rising.
+- **Camera:** slow ominous push to Vortham rising.
 - **Light:** cold, his silhouette uncoiling.
-- **Action:** @Vorthan rises from the throne, unhurried; @StellaTeñida lies dying nearby, @SelkaGeneral frozen — the moment before everything is revealed.
+- **Action:** @vortham rises from the throne, unhurried; @StellaTeñida lies dying nearby, @SelkaGeneral frozen — the moment before everything is revealed.
 - **Mood:** the breath before the blow.
 - **Audio:** SFX only — slow footsteps, a low thrum. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -682,11 +682,11 @@
 ### CLIP 197 — empieza a cambiar → @Vera
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** @Vorthan → @VeraEncapuchada (grey-blue eyes).
-- **Shot/lens:** @Vorthan's form shifts and resolves into @Vera.
+- **Characters:** @vortham → @VeraEncapuchada (grey-blue eyes).
+- **Shot/lens:** Vortham's form shifts and resolves into @Vera.
 - **Camera:** slow, unnerving push as the change completes.
 - **Light:** cold, the face resolving warm-familiar.
-- **Action:** @Vorthan begins to change — his form flowing — and settles into the shape of **@VeraEncapuchada**, the mother's face, grey-blue eyes.
+- **Action:** @vortham begins to change — his form flowing — and settles into the shape of **@VeraEncapuchada**, the mother's face, grey-blue eyes.
 - **Mood:** dread, the secret breaking.
 - **Audio:** SFX only — a wet shifting sound, a thousand-voice hush. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
@@ -694,7 +694,7 @@
 ### CLIP 198 — "@Vera" se acerca a @Stella
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** "@VeraEncapuchada" (grey-blue eyes) (=@Vorthan), @StellaTeñida (dying).
+- **Characters:** "@VeraEncapuchada" (grey-blue eyes) (=Vortham), @StellaTeñida (dying).
 - **Shot/lens:** the mother's face kneels by the dying daughter, strokes her hair.
 - **Camera:** slow, tender, monstrous.
 - **Light:** cold, a false warmth on the face.
@@ -731,7 +731,7 @@
 ### CLIP 201 — cambia a @Marek
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** "@Marek" (=@Vorthan), @SelkaGeneral (grey-blue eyes, scar over her left eye).
+- **Characters:** "@Marek" (=Vortham), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the form rises and becomes @Marek; @Selka watches in horror.
 - **Camera:** slow reveal of the second face.
 - **Light:** cold.
@@ -743,7 +743,7 @@
 ### CLIP 202 — "no había resistencia, solo yo"
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** "@Marek" (=@Vorthan).
+- **Characters:** "@Marek" (=Vortham).
 - **Shot/lens:** @Marek's smile delivering the truth.
 - **Camera:** slow push to the smiling face.
 - **Light:** cold, his eyes wrong.
@@ -756,7 +756,7 @@
 ### CLIP 203 — la última forma: @Selka niña
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** "@SelkaNiña" (grey-blue eyes) (=@Vorthan), @SelkaGeneral (grey-blue eyes, scar over her left eye).
+- **Characters:** "@SelkaNiña" (grey-blue eyes) (=Vortham), @SelkaGeneral (grey-blue eyes, scar over her left eye).
 - **Shot/lens:** the form shrinks into a small white-haired child and turns to the General.
 - **Camera:** slow, uncanny push.
 - **Light:** cold, the child-face lit.
@@ -803,10 +803,10 @@
 - **Audio:** SFX only — a faint ember pulse, her ragged breath. No music.
 - **Negative:** gentle stylized action, no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no on-screen text, no watermark.
 
-### CLIP 207 — @Vorthan ríe / transición
+### CLIP 207 — Vortham ríe / transición
 - **Style:** cel-animation anime, cinematic composition, cinematic mood, 2D hand-painted cel-animation look, fluid motion, film-grade lighting, soft grain. 21:9, 20s.
 - **Setting:** the location shown in @SalaTrono — match its architecture, materials, colors; lush, detailed, painterly background.
-- **Characters:** "@SelkaNiña" (grey-blue eyes) (=@Vorthan).
+- **Characters:** "@SelkaNiña" (grey-blue eyes) (=Vortham).
 - **Shot/lens:** the child-face laughing, beginning to swell.
 - **Camera:** push as the small form starts to grow.
 - **Light:** cold, distorting.
@@ -1151,5 +1151,5 @@
 ## RESUMEN ACTO 3
 - **86 prompts** = 74 base (155-228) + 12 sub-clips de acción en A6/A7/A8 (172A, 174A, 175A, 177A, 181A, 182A, 183A, 188A, 208A, 209A, 210A, 215A).
 - Acción del clímax **doblada** (asalto/escalada, duelo del trono, el Parásito) — vertiginosa y visceral como A1-A2.
-- 🔒 Revelación de @Vorthan solo en SEC 26. @StellaTeñida · @SelkaGeneral/@SelkaNiña **grey-blue eyes** · @NavePalacio.
+- 🔒 Revelación de Vortham solo en SEC 26. @StellaTeñida · @SelkaGeneral/@SelkaNiña **grey-blue eyes** · @NavePalacio.
 - **Película 1 completa:** Acto 1 (105) + Acto 2 (86) + Acto 3 (78) = **269 prompts ≈ 58-64 min.**

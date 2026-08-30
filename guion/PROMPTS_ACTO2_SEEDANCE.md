@@ -21,8 +21,8 @@
 - `@Nima` — mecánica con **cuatro brazos**; práctica, cálida; herramientas; mono de trabajo.
 - `@Noah` — humano joven superviviente; **pelo oscuro alborotado, ojos marrones** (no pelo blanco); rostro curtido/sucio; **bufanda azul raída**, un **solo hombro acorazado** (pauldron), guantes sin dedos, equipo desgastado; **espadachín con arma de luz / espada** (no de fuego). Mochila.
 - `@Vosk` — matón grande, cicatrices, rudo (luego leal).
-- `@Marek` — líder cálido y carismático de la resistencia 🔒 (=@Vorthan).
-- `@Vorthan` — el Rey (en su discurso/control, igual que A1).
+- `@Marek` — líder cálido y carismático de la resistencia 🔒 (=Vortham).
+- `@vortham` — el Rey (en su discurso/control, igual que A1).
 - `@RobotImperial` · `@CazadorRecompensas` (matones que capturan a @Stella).
 
 **Naves / locaciones / props nuevos**
