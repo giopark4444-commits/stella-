@@ -226,6 +226,13 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • **LAS ARMAS DE LOS HUMANOS LAS FABRICA NIMA (SEC 16).** En el mismo banco donde le hace el traje a
+>   Stella hay **otras tres cosas a medio hacer: una espada, una lanza y un arco.** Les mide el alcance,
+>   gruñe, corrige, lima. *«A ustedes tres no les sale nada del cuerpo. **Pues se lo pongo yo en la
+>   mano.**»* 🔒 Ahí queda dicha la regla de armas del film **por boca de quien la resuelve**, y sin
+>   explicarla: la misma mano azul equipa a la que tiene un planeta en la palma **y a los que no tienen
+>   nada dentro.** *(Esa espada, esa lanza y ese arco son los que aguantan un flanco en la plaza
+>   diecisiete años después.)*
 > • 🔒 **ENKO NO MUERE EN LA APERTURA: AGONIZA. Y LA SEC 0 NO NOS DICE SI SE SALVA.** ⚠️ En el
 >   PLANO SECUENCIA 3 la cámara se para sobre unos ojos que **parpadean**, un pecho que sube poco, y
 >   **Gara encontrándole algo de pulso**. Lo carga, lo sienta contra un muro, le sostiene el cuello con
@@ -2851,6 +2858,22 @@ Y Brogu, que podría partir una máquina por la mitad, **lleva un buen rato sin 
 **NIMA**
 *(ajustando)*
 Tu traje viejo era de niña. Este es de quien va a volver a entrar a ese palacio.
+
+Y en el mismo banco, al lado del traje, hay **otras tres cosas a medio hacer.**
+
+Una **espada.** Una **lanza.** Un **arco.**
+
+**NOAH, CARL y LUCY** entran a probárselas. Nima les hace levantar los brazos, les mide el alcance, gruñe, corrige, lima.
+
+**NIMA (CONT.)**
+*(sin dejar de trabajar)*
+A ustedes tres no les sale nada del cuerpo.
+*(le pone la espada en las manos a Noah, y la suelta cuando ve que la aguanta)*
+Pues se lo pongo yo en la mano.
+
+*(La misma mujer que le está haciendo un traje a la que tiene un planeta metido en la palma **le está fabricando un «dentro» a los que no tienen ninguno.** Y no lo dice como un favor: lo dice como un dato técnico.)*
+
+*(Esa espada, esa lanza y ese arco son los que van a aguantar un flanco en una plaza dentro de diecisiete años.)*
 
 Y Stella entrenando el **Orbe.** Al principio inestable —descargas que la tiran al piso, que revientan paneles. Después, de a poco, **canalizándolo:** la luz le sale de la palma, controlada, como un río que por fin aprende a dejar correr.
 

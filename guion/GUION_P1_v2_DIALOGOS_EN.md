@@ -2240,6 +2240,22 @@ Y Brogu, que podría partir una máquina por la mitad, **lleva un buen rato sin 
 *(ajustando)*
 Your old suit was a child's. This one belongs to whoever walks back into that palace.
 
+Y en el mismo banco, al lado del traje, hay **otras tres cosas a medio hacer.**
+
+Una **espada.** Una **lanza.** Un **arco.**
+
+**NOAH, CARL y LUCY** entran a probárselas. Nima les hace levantar los brazos, les mide el alcance, gruñe, corrige, lima.
+
+**NIMA (CONT.)**
+*(sin dejar de trabajar)*
+Nothing comes out of the three of you.
+*(le pone la espada en las manos a Noah, y la suelta cuando ve que la aguanta)*
+So I'll put it in your hand myself.
+
+*(La misma mujer que le está haciendo un traje a la que tiene un planeta metido en la palma **le está fabricando un «dentro» a los que no tienen ninguno.** Y no lo dice como un favor: lo dice como un dato técnico.)*
+
+*(Esa espada, esa lanza y ese arco son los que van a aguantar un flanco en una plaza dentro de diecisiete años.)*
+
 Y Stella entrenando el **Orbe.** Al principio inestable —descargas que la tiran al piso, que revientan paneles. Después, de a poco, **canalizándolo:** la luz le sale de la palma, controlada, como un río que por fin aprende a dejar correr.
 
 Por primera vez desde la huida, Stella no parece una sobreviviente. Parece un arma que eligió su causa.
