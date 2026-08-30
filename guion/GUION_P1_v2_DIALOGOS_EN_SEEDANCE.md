@@ -1950,11 +1950,23 @@ Al pecho del **REY DEL BASURERO**, y a la cosa pequeña y vieja que le cuelga de
 *(para sí, ya decidida)*
 …No.
 
-Se agacha. Los propulsores se le ponen al rojo.
+Y **se toca el brazalete.**
 
-Y **sale disparada en diagonal hacia el palco.**
+Y por primera vez desde que salió de Erdia, delante de tres mil desconocidos, **sale @GIX.**
 
-Veinte metros en línea recta hacia arriba mientras todo lo que hay en esa sala le tira algo. Cruza el balcón entero, los guardias no llegan a tiempo—
+Del tamaño de una mano. Y **crece.**
+
+Un animal de luz en mitad de un pozo de apuestas — y las gradas, que llevan toda la noche pidiendo estirpe, **se callan de golpe.**
+
+*(Hace dos años esta criatura se deshizo delante de un golpe que iba a acabar con. Y lleva dos años ahí dentro esperando que se lo pida.)*
+
+@Gix **arranca hacia el palco.**
+
+No pelea: **abre.** Entra en el balcón como un ariete de luz y **manda por el aire a todo el que hay ahí arriba** — guardias, mesas, la corte entera del basurero, todo saliendo despedido por los lados.
+
+*(Y ahí está, por primera vez, la forma exacta de esta película: **alguien le abre un pasillo y ella pasa por él.** Veinte años después se lo van a abrir doce personas en una plaza. El primero fue un animal de luz que no llegaba a un palmo.)*
+
+Y por ese hueco **sale disparada @Stella**, con los propulsores al rojo, veinte metros en línea recta hacia arriba—
 
 —y **le pone los dos pies en los hombros al Rey.**
 
@@ -2009,6 +2021,12 @@ Y en el otro extremo de la bahía, **@NOAH, CARL y LUCY**, sentados en el suelo,
 Montaje. La familia rara que la fue curando.
 
 **BROGU** y @Stella, sentados frente a un cielo cruzado de cometas. El gigante le enseña su **idioma muerto** —palabras guturales, antiguas, que ya no le quedan a nadie más en el universo. @Stella las repite. Brogu asiente, despacio, y se le arruga la cara. Es lo más parecido a una sonrisa que tiene una montaña.
+
+Y **@GIX** está ahí. Fuera, suelto, del tamaño de una mano — enroscado y **dormido sobre el hombro de Brogu**, subiendo y bajando con la respiración del gigante.
+
+Y Brogu, que podría partir una máquina por la mitad, **lleva un buen rato sin moverse** para no despertarlo.
+
+*(El último de su especie y una criatura hecha de partículas. **Aquí es donde esto se convierte en una familia**, y no hace falta decirlo.)*
 
 **@NIMA**, en el laboratorio, le construye un **traje nuevo** —ligero, hecho a su medida. Trabaja de pie sobre un cajón para alcanzar la mesa, y no lo menciona nunca.
 
@@ -2433,6 +2451,12 @@ Abajo, sola en la orilla, de espaldas a todos: **@STELLA.**
 
 Lleva el pelo blanco largo. No bebe. No mira las estrellas. Mira el agua.
 
+Y no está sola del todo: **@GIX** flota a un palmo de la superficie, hecho de partículas, y su reflejo se le mezcla con las estrellas del fondo del lago.
+
+Ella le pasa la mano por debajo. Él se deshace y se rehace del otro lado.
+
+*(Es lo único de su casa que le queda. Y hace cinco años que solo lo saca cuando no hay nadie mirando.)*
+
 EN LA TERRAZA.
 
 **@THERON** apoyado en la baranda, mirando a los suyos. A su lado aparece **THARA** —su mujer— con dos vasos. Le da uno. Y sigue la mirada de él hasta donde no estaba mirando.
@@ -2469,6 +2493,14 @@ You've been waiting twenty thousand years and you're still whole. She's been wai
 @Theron mira el vaso que ya no tiene. Y baja.
 
 EN LA ORILLA.
+
+Y en cuanto @Stella oye los pasos en la grava —**antes de girarse siquiera**— levanta la mano.
+
+Y **@Gix se deshace y se le mete por la palma.**
+
+El único color del cuadro se apaga. Cuando @Theron llega, ahí no hay nada.
+
+*(Cinco años en su nave. Y lo primero que hace al oírlo llegar es **guardar lo que brilla.** Eso lo aprendió la primera noche, en una bahía a oscuras, cuando él le dijo que todo lo que brilla así se puede seguir.)*
 
 Se sienta al lado de @Stella. No dice nada. Bastante rato.
 
