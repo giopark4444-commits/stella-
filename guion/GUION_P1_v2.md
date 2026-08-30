@@ -477,6 +477,11 @@
 >   falling star`. ⚠️ En inglés **el artículo es obligatorio si lleva dos puntos o coma**
 >   (`STELLA: A FALLING STAR`); *«Stella a falling star»* sin signo es incorrecto.
 >   *(«Stella Fugaz» sigue siendo el nombre interno del proyecto y del juego.)*
+> • **LA SEC 9 SE RUEDA DESDE LA PLAZA, NO DESDE EL BALCÓN** (`@loc_erdia-square-night`). El plano
+>   está abajo, con la gente, mirando hacia arriba: **al Rey lo vemos como lo ve Erdia** — pequeño, muy
+>   alto y muy iluminado. Y pasa a ser **de noche**, la del mismo día: el cielo **todavía limpio**, con
+>   las estrellas que dentro de veinte años seguirán ahí pero atravesadas de humo. *(No hace falta hoja
+>   de «balcón real».)*
 > • 🔒 **LAS HERMANAS NO SE CRUZAN ANTES DE LA SALA DEL TRONO. NUNCA.** ⚠️ Se escribió y **se cortó**
 >   un bloque en la SEC 23 en el que se cruzaban a un metro en un pasillo. Fuera, y por dos razones —la
 >   segunda es la que manda:
@@ -1885,9 +1890,16 @@ Blanco total.
 
 ---
 
-## SEC. 9 — INT. PALACIO, BALCÓN REAL — ERDIA — [AÑO 0] — DÍA
+## SEC. 9 — EXT. LA GRAN PLAZA — BAJO EL BALCÓN REAL — ERDIA — [AÑO 0] — NOCHE
 
-Bajo un cielo todavía azul, **VORTHAM** habla ante una multitud inmensa. Voz de luto. Perfecta.
+> *`@loc_erdia-square-night`. **El plano no está en el balcón: está en la plaza**, con la gente, mirando
+> hacia arriba. Al Rey lo vemos como lo ve Erdia: **pequeño, muy alto y muy iluminado.**
+
+Cae la noche del mismo día. La plaza entera de pie.
+
+Y **el cielo todavía está limpio.** Se ven las estrellas — las mismas que dentro de veinte años seguirán ahí, atravesadas de humo, la noche en que ella vuelva.
+
+Arriba, en el balcón, **VORTHAM** habla ante una multitud inmensa. Voz de luto. Perfecta.
 
 **VORTHAM**
 Hoy nos han robado.

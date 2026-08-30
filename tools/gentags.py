@@ -89,7 +89,7 @@ LOC = {
  "2":"@loc_luzagua-park","3":"@loc_erdia-palace-lab","4":"@erdia-palace-corridors",
  "5":"@loc_erdia-orbe-room","6":"@loc_erdia-orbe-room-destroyed · @loc_duct",
  "7":"@loc_erdia-past","8":"⚠️ interior de la nave — FALTA · @ship-stella",
- "9":"⚠️ balcón real — FALTA","10":"@loc_modershipo-hospital","10A":"@loc_modershipo-hospital",
+ "9":"@loc_erdia-square-night","10":"@loc_modershipo-hospital","10A":"@loc_modershipo-hospital",
  "11":"⚠️ pasillos de la Nodriza — FALTA · @loc_nimas-laboratory",
  "12":"@loc_rebel-house","12A":"@loc_erdia-palace-traingin-room",
  "13":"@loc_junk-planet","13B":"@loc_junk-planet-market","14":"@loc_junk-planet-colisseum",

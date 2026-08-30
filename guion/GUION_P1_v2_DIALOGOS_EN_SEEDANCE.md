@@ -1158,9 +1158,16 @@ Blanco total.
 
 ---
 
-## SEC. 9 — INT. PALACIO, BALCÓN REAL — ERDIA — [AÑO 0] — DÍA
+## SEC. 9 — EXT. LA GRAN PLAZA — BAJO EL BALCÓN REAL — ERDIA — [AÑO 0] — NOCHE
 
-Bajo un cielo todavía azul, **VORTHAM** habla ante una multitud inmensa. Voz de luto. Perfecta.
+> *`@loc_erdia-square-night`. **El plano no está en el balcón: está en la plaza**, con la gente, mirando
+> hacia arriba. Al Rey lo vemos como lo ve Erdia: **pequeño, muy alto y muy iluminado.**
+
+Cae la noche del mismo día. La plaza entera de pie.
+
+Y **el cielo todavía está limpio.** Se ven las estrellas — las mismas que dentro de veinte años seguirán ahí, atravesadas de humo, la noche en que ella vuelva.
+
+Arriba, en el balcón, **VORTHAM** habla ante una multitud inmensa. Voz de luto. Perfecta.
 
 **VORTHAM**
 Today, we have been robbed.
