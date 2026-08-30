@@ -199,8 +199,8 @@ How would the woman of that same trio of humans look, the one the other two turn
 ### @MujerVerde — la que va hacia arriba 🆕 *(nombre provisional)*
 How would the fighter look who climbs the enemy's own machines to reach what is standing behind them, tall and green-skinned? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
 
-### @HombrePulpo — el que atrapa 🆕 *(nombre provisional)*
-How would a fighter with many arms look, who catches what leaps at him with three of them while still fighting with the rest? Show me 4 examples. Clearly not human. Ghibly style and water color painting.
+### @boro — BORO, el que atrapa ✅ *(ya generado)*
+El de los muchos brazos, **de color rosa**. Atrapa en el aire lo que le salta encima —con tres brazos, sin dejar de pelear con los demás— y lo abre por las juntas. **Ya existe en la biblioteca: usar `@boro`.**
 
 ### @Gara — la que carga al muerto 🆕
 How would a woman of a scavenger crew look, carrying a dead comrade off the line and then walking straight back into it? Show me 4 examples. Clearly not human. Ghibly style and water color painting.

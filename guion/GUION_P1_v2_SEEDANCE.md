@@ -92,8 +92,8 @@
 >   presentador contesta **«son la misma escoria de raza»**, insultándola con **la verdad de su
 >   propio origen** sin saberlo. Se suben a la nave con ella y no se bajan más.
 > • **La tripulación en la plaza:** Brogu · @Nima · @Vosk · Gara · Enko · **los tres humanos** — **@NOAH, CARL y LUCY**
->   (`@TrioHumano`, `@Carl`, `@Lucy`) · **la mujer verde** (`@MujerVerde`, provisional) · **el hombre pulpo**
->   (`@HombrePulpo`, provisional). Cada uno pelea distinto y **ninguno duplica a otro**.
+>   (`@TrioHumano`, `@Carl`, `@Lucy`) · **la mujer verde** (`@MujerVerde`, provisional) · **Boro**
+>   (`@boro`, provisional). Cada uno pelea distinto y **ninguno duplica a otro**.
 > • **El palacio es UNA ESFERA** de piedra del tamaño de una montaña apoyada sobre la ciudad.
 >   No es una cúpula sobre un edificio: es una bola. La cúspide es su punto más alto.
 >   @Noah una **hoja de luz**; Brogu sus manos; @Nima cacharros que fabrica ella. La violencia se muestra
@@ -223,7 +223,7 @@ La cámara avanza **en dolly, rasante.** Y por delante del objetivo empiezan a c
 
 Pies de máquina —tres dedos de metal oscuro, pisando todos a la vez— yendo en una dirección.
 
-Y **los nuestros**, yendo en la contraria: unos pies enormes y peludos que hacen temblar la tierra al pisar (**BROGU**); unos pies diminutos y azules corriendo a toda velocidad (**@NIMA**); una bota que va **arrastrando estirpe** (**@VOSK**); y **ocho miembros que no son piernas** pasando de largo a la vez (**EL HOMBRE PULPO**).
+Y **los nuestros**, yendo en la contraria: unos pies enormes y peludos que hacen temblar la tierra al pisar (**BROGU**); unos pies diminutos y azules corriendo a toda velocidad (**@NIMA**); una bota que va **arrastrando estirpe** (**@VOSK**); y **ocho miembros rosas que no son piernas** pasando de largo a la vez (**BORO**).
 
 Y detrás de todos ellos, **decenas de pies más** que no reconocemos y que van en la misma dirección: botas, garras, patas, cascos, pies de una docena de pueblos distintos. **Los REBELDES.** Son muchísimos.
 
@@ -281,7 +281,7 @@ Sin corte. Ahora vamos por dentro. Y aquí no se aguanta nada: **se avanza a gol
 
 **LA MUJER VERDE** sale disparada hacia arriba. Salta, corre por el lomo de las máquinas como si fueran suelo, y se lanza sobre las patas larguísimas de uno **DE DESCARGA.** La máquina se dobla por la mitad y se viene abajo — **era la que estaba apuntando al pasillo.** Ella es la que va a por los que no bajan.
 
-Un **CORREDOR** salta hacia el objetivo — y **EL HOMBRE PULPO** lo atrapa en el aire **con tres brazos, sin dejar de pelear con los otros**, y lo abre por las juntas.
+Un **CORREDOR** salta hacia el objetivo — y **BORO**, rosa y de muchos brazos, lo atrapa en el aire **con tres de ellos sin dejar de pelear con los demás**, y lo abre por las juntas.
 
 Y la cámara pasa junto a **la figura encapuchada** — y es la única persona de toda la plaza que **no está mirando al enemigo. Está mirando hacia arriba.**
 
@@ -2221,7 +2221,7 @@ La cámara entra con ellos y **no vuelve a parar.**
 
 **BROGU** abre camino: choca de frente contra un **pesado** el doble de alto que él y lo para en seco. **@NIMA** pasa por debajo de su brazo y rueda algo entre las patas de la máquina; el pulso revienta hacia arriba y el pesado **cae de rodillas.**
 
-**LA MUJER VERDE** salta, corre por el lomo de las máquinas y se lanza sobre las patas de uno **de descarga**, que se dobla por la mitad. Un **corredor** salta y **EL HOMBRE PULPO** lo atrapa en el aire con tres brazos sin dejar de pelear con los otros.
+**LA MUJER VERDE** salta, corre por el lomo de las máquinas y se lanza sobre las patas de uno **de descarga**, que se dobla por la mitad. Un **corredor** salta y **BORO** lo atrapa en el aire con tres brazos sin dejar de pelear con los otros.
 
 **@NOAH, CARL y LUCY** aguantan un flanco espalda contra espalda. A @Noah le tiembla el brazo: lleva demasiado rato sosteniendo el mismo metro de suelo y **no piensa moverse de ahí.**
 

@@ -72,7 +72,7 @@
 
 ## Tripulación de la nave — carpeta 06 (14 assets)
 
-`@theron` · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · `@boro` · `@yuri` · `@sabo` · `@hessa` · `@thara`
+`@theron` · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · **`@boro`** *(el de muchos brazos, rosa)* · `@yuri` · `@sabo` · `@hessa` · `@thara`
 
 ## Humanos — carpeta 07 (3 assets)
 
