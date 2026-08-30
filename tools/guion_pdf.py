@@ -33,7 +33,7 @@ SALIDA_DIR = RAIZ / "guion" / "render"
 HTML_TMP = SALIDA_DIR / "_guion_print.html"
 PDF = SALIDA_DIR / "GUION_P1_v2.pdf"
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-VERSION = "v2.7"
+VERSION = "v2.8"
 
 CSS = """
 @page { size: A4; margin: 22mm 20mm 20mm 24mm; }

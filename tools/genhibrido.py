@@ -30,7 +30,7 @@ MD = RAIZ / "guion" / "GUION_P1_v2.md"
 DIC = Path(__file__).resolve().parent / "dialogos_en.json"
 SALIDA_MD = RAIZ / "guion" / "GUION_P1_v2_DIALOGOS_EN.md"
 SALIDA_HTML = RAIZ / "guion" / "GUION_P1_v2_DIALOGOS_EN.html"
-VERSION = "v2.7"
+VERSION = "v2.8"
 
 CABECERA = f"""# STELLA · *a falling star*
 ## Guion — Película 1 ({VERSION}) · Acción en español · Diálogos en inglés

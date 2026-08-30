@@ -1,5 +1,5 @@
 # @STELLA · *a falling star*
-## Guion — Película 1 (v2.7) · Acción en español · Diálogos en inglés
+## Guion — Película 1 (v2.8) · Acción en español · Diálogos en inglés
 
 > **Versión híbrida.** Todo en español —encabezados, acción, acotaciones y nombres de personaje—
 > y **solo lo que los personajes dicen en voz alta, en inglés**.
@@ -2886,6 +2886,81 @@ I am not taking you to save your planet. Or to get your father out, or to find y
 *(beat)*
 I'm taking you to **look at your king.**
 
+@Stella **no le toma la mano.**
+
+**@STELLA**
+You've been after that thing for twenty thousand years. Why have you never found it.
+
+**@THERON**
+Because I don't know where it comes from.
+*(sin dramatismo; es un informe)*
+They arrive. They eat everything. They leave.
+Nobody has ever followed one home.
+
+**@STELLA**
+Because nobody has ever given it what it wants.
+
+@Theron se queda con la mano tendida en el aire.
+
+**@STELLA (CONT.)**
+*(se abre la palma izquierda)*
+I have what it wants. I carry it right here.
+*(beat)*
+The day he has me in front of him he won't end me. He'll ask me for this.
+*(cierra la mano)*
+And I give it to him.
+
+Silencio. Abajo, en el agua, las estrellas siguen quietas.
+
+**@STELLA (CONT.)**
+And he takes it home with him. And we're right behind him.
+
+**@THERON**
+He'd know.
+
+**@STELLA**
+Not if I lose for real.
+*(beat)*
+It has to look like I lost. Not like I gave it to him. **Like he took it from me.**
+
+@Theron baja la mano. Despacio.
+
+**@THERON**
+And how do you get out of there.
+
+@Stella no contesta.
+
+**@THERON (CONT.)**
+Answer me.
+
+@Stella no contesta.
+
+*(Y esa es la respuesta. La oye él y la oímos nosotros, y faltan cinco años para que se cumpla.)*
+
+**@THERON (CONT.)**
+No.
+*(y ahora sí, duro)*
+I've been at this twenty thousand years. I've buried everyone who ever tried to help me, one by one.
+*(beat)*
+I'm not going to find it by **spending you.**
+
+**@STELLA**
+You're not spending me. I'm offering.
+
+**@THERON**
+It's the same thing. Only who says it changes.
+
+Se da la vuelta hacia la terraza. Y antes de subir:
+
+**@THERON (CONT.)**
+I'm taking you to look. Nothing more.
+*(sin girarse)*
+And if you ever open your hand to that thing, **don't let it be for me.**
+
+@Stella se levanta sola.
+
+*(🔒 **Y esta es la semilla del final.** En la SEC 24 ella abre la mano —y la abre **por su hermana**, no por él. @Theron le puso una condición sin saberlo, ella la cumple sin saberlo, y **él no lo va a saber nunca.**)*
+
 Y arriba, en la terraza, **THARA** los ve subir juntos. Y **no sonríe.**
 
 *(Ella lo mandó a enseñarle a esperar. Y él ha vuelto habiendo decidido **dejar de esperar.** Es su marido y lo conoce: acaba de ver empezar algo que no se va a poder parar.)*
@@ -4141,7 +4216,11 @@ Y levanta la cara.
 
 Y **lo ve.**
 
-Ahí arriba, subiendo, en la cubierta abierta al cielo, entre los rayos. Por primera vez en veinte mil años lo ve **con sus propios ojos.** Y todo —cada planeta apagado, cada rastro perdido, cada siglo— por fin **tiene cara.**
+Y **no lo ve.**
+
+Ahí arriba, subiendo, en la cubierta abierta al cielo, entre los rayos: algo del tamaño de una catedral, **a contraluz.** Una forma. Nada más que una forma.
+
+*(Veinte mil años detrás de esto. Lo tiene delante, a doscientos metros, y el sol de Erdia le está dando por detrás. **Sigue sin tener cara.**)*
 
 **@THERON**
 *(bajo, casi un rezo)*
@@ -4157,11 +4236,13 @@ La descarga cruza doscientos metros de aire y **entra.**
 
 No es gran cosa: un mordisco de luz en algo del tamaño de una catedral. Pero **entra** — y de esa herida sale un hilo de luz robada que se le escapa a la cosa por el costado.
 
-Y el **PARÁSITO se detiene.**
+Y la **forma se detiene.**
 
-Y por primera vez en veinte mil años, **baja los ojos y lo mira.**
+Y **gira.** Despacio. Hacia él.
 
-Un segundo. Los dos quietos, a doscientos metros, mirándose.
+*(Algo lo está mirando desde ahí arriba. Él lo **siente.** No lo **ve.** Y esa es la distancia exacta de toda su vida.)*
+
+Un segundo. Los dos quietos, a doscientos metros.
 
 *(Y esto vale toda la Película 2: **se puede.** No mucho, no bastante, pero **se puede.** Y ahora esa cosa sabe que existe.)*
 
@@ -4324,7 +4405,110 @@ And it's going out.
 Hunter. They say you can follow him now.
 
 **@THERON**
-Wherever he goes.
+I can't.
+
+@Naio levanta la cara del cristal.
+
+**@THERON (CONT.)**
+I had him at two hundred metres. I hit him.
+*(beat)*
+And I never saw his face. To track a thing I need to have seen it. Truly. Once.
+*(beat)*
+I've been after those things for twenty thousand years and I have never seen one's face. **That's why it's been twenty thousand years.**
+
+Silencio en la sala.
+
+**@THERON (CONT.)**
+And there's something you don't know.
+
+Se giran todos. **@NIMA. BROGU. @VOSK. @NOAH.** Y **@SELKA** en la puerta, con el brazo nuevo colgándole del hombro.
+
+**@THERON (CONT.)**
+Five years ago, in a port, this girl sat down beside a lake and proposed **handing it over to him.**
+*(beat)*
+On purpose. Surrender to his face and let him take it. And behind him, us — **all the way to wherever he lives.**
+
+**@VOSK**
+*(el único que se atreve)*
+And what did you tell her.
+
+**@THERON**
+No.
+*(beat)*
+Me — the one who's spent twenty thousand years looking for where they come from. I said no because when I asked her how she got out of there, **she had no answer.**
+
+Silencio.
+
+**@THERON (CONT.)**
+Yesterday she had the Orb closed in her hand.
+*(beat)*
+And she **opened it.**
+
+Nadie respira.
+
+**@NIMA**
+*(muy bajo)*
+So she did it.
+
+> ⚠️🔱 **AQUÍ SE BIFURCA EL FINAL DE LA PELÍCULA. Las dos versiones están escritas y las dos funcionan.**
+> **La decisión se toma en montaje, con la película armada — no en la página.** Rodar las dos: es una sola
+> línea de @Theron y su remate, mismo plano, misma luz, mismo día de trabajo.
+
+### ▸ VERSIÓN A — «No lo sé» · *el plan existió, pero no fue eso*
+
+**@THERON**
+I don't know.
+*(y esto le cuesta más que todo lo demás)*
+Her sister was on top of her. She was losing. They were decisive her.
+*(mira el tanque)*
+Maybe she gave up. Maybe she'd spent five years waiting for that exact second.
+*(beat)*
+The only one who knows **is in there.**
+
+*(Y en esa sala, cada uno escoge lo que necesita creer. Ninguno lo va a saber nunca —y todos lo van a contar como si lo supieran—. **Nosotros sí estábamos allí.** Nosotros le vimos moverse los dedos. Y nos vamos a ir a casa sabiendo lo que esta gente no va a saber jamás: **que no fue un plan. Que fue su hermana.**)*
+
+*(⚖️ **Lo que compra esta versión:** la SEC 24 no se toca. La rendición sigue siendo amor y no táctica, y el final gana una segunda capa — la tripulación se va con una estratega y el público se va con una niña. Lo que cuesta: la sala nunca sabe si ganó algo.)*
+
+### ▸ VERSIÓN B — «Lo hizo» · *el plan era real*
+
+**@THERON**
+She did it.
+*(y no hay ni una gota de triunfo en cómo lo dice)*
+Five years waiting for that second. She let herself be beaten in front of her sister, in front of her father and in front of an entire planet, **and she held** until that thing believed it.
+*(beat)*
+It cost her @Selka's arm. It cost her Erdia. And she couldn't warn a single one of you, because if one of you had known, **it would have shown on your face.**
+
+Silencio.
+
+**@VOSK**
+*(por lo bajo, y va completamente en serio)*
+She's insane.
+
+**@THERON**
+She's alone. It's not the same thing.
+
+*(⚖️ **Lo que compra esta versión:** la película termina en jugada y no en derrota, y @Stella sale del acto 3 convertida en la estratega de la trilogía. Lo que cuesta: la mano que se abre en la SEC 24 pasa de rendición a maniobra, y el brazo de @Selka pasa de tragedia a precio calculado.)*
+
+> ⚠️ **Fin de la bifurcación.** Las dos versiones vuelven a juntarse exactamente aquí.
+
+**@NIMA** se acerca al cristal. Le pone la mano encima, justo sobre la brasa.
+
+**@NIMA**
+I know why we can follow him.
+*(sin apartar la mano)*
+The Orb doesn't travel: it travels as **particles.** And she commands them.
+*(beat)*
+When she opened her hand, **a piece of her went inside with it.**
+That's what we're following. It isn't a signal. **It's her.**
+
+@Theron mira el tanque de otra manera.
+
+**@NIMA (CONT.)**
+As long as she's alive, we know where that ship is.
+*(beat)*
+If she dies, **we lose him.**
+
+*(El reloj de la Película 2, dicho en dos frases: **la brasa que se apaga no es solo el corazón de @Stella. Es el rastro.** Veinte mil años de cacería caben ahora dentro de una niña dormida — y por eso mantenerla viva deja de ser amor y pasa a ser **la misión.**)*
 
 **@NAIO**
 Following isn't enough. When you catch him… do you know what he is? Do you know how you get inside?
@@ -4447,7 +4631,7 @@ Pero late.
 
 CORTE A NEGRO.
 
-**EL NODO DE ERDIA.**
+**@STELLA · *a falling star*.**
 
 *(Fin de la Película 1.)*
 
@@ -4456,8 +4640,16 @@ CORTE A NEGRO.
 ## NOTAS PARA LA PELÍCULA 2 (semillas plantadas)
 - **La brasa de @Gix** apagándose = el reloj de @Stella. ¿Cuánto le queda antes de que el corazón se detenga?
 - **@Selka jura volver** y hereda la misión de su hermana: ella es la protagonista activa de la P2 mientras @Stella duerme.
-- **@Theron sabe adónde fue el Parásito** = el mapa de la cacería de la P2. Y algo más: su poder exige una
-  **referencia física**, y en la SEC 27 **por fin lo vio con sus propios ojos** — ahora sí puede rastrearlo.
+- 🔒 **@THERON NO PUEDE RASTREARLO.** Su poder exige **referencia física** —haberlo visto de verdad, una
+  vez— y en veinte mil años **no le ha visto la cara a ninguno**. En la SEC 27 lo tuvo a doscientos metros
+  y le acertó, pero **a contraluz: una forma, no una cara.** Sigue sin poder cazarlo por su cuenta.
+- 🔒 **EL ÚNICO RASTRO ES @STELLA.** Cuando abrió la mano se le fue **un pedazo de sus partículas dentro
+  del Orbe**. Eso es lo que siguen. Con dos consecuencias enormes para la P2: **(a)** el rastro y la vida
+  de @Stella son **el mismo reloj** —si la brasa se apaga, pierden la nave—; y **(b)** mantener viva a
+  @Stella deja de ser un asunto sentimental y pasa a ser **el objetivo estratégico de toda la flota.**
+- 🔱 **EL FINAL ESTÁ BIFURCADO A PROPÓSITO (SEC 29B).** Versión A «no lo sé» / Versión B «lo hizo».
+  **Rodar las dos** —es una línea y su remate, mismo plano y mismo día— y **decidir en montaje.**
+  De esa elección depende si @Stella sale de la P1 como estratega o como hermana.
 - **@Theron entró DESPUÉS de la transformación:** vio solo la forma de Parásito. **Sigue sin saber que es un
   cambiaformas.** @Selka y @Naio sí lo saben — contárselo (o callárselo) es una escena de la P2.
 - **@Naio sabe qué es la nave-palacio y por dónde se abre** (el legado de @Vera, SEC 19/29): el arma de la P2.

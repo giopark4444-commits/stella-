@@ -3019,6 +3019,81 @@ No te voy a llevar a salvar tu planeta. Ni a sacar a tu padre, ni a buscar a tu 
 *(beat)*
 Te voy a llevar a **mirar a tu rey.**
 
+Stella **no le toma la mano.**
+
+**@char_stella-adult-theron-cloths**
+Llevas veinte mil años detrás de esa cosa. ¿Por qué no la has encontrado nunca.
+
+**@theron**
+Porque no sé de dónde sale.
+*(sin dramatismo; es un informe)*
+Llegan. Se lo comen todo. Se van.
+Nadie ha seguido nunca a uno hasta su casa.
+
+**@char_stella-adult-theron-cloths**
+Porque nadie le ha dado nunca lo que quiere.
+
+Theron se queda con la mano tendida en el aire.
+
+**@char_stella-adult-theron-cloths (CONT.)**
+*(se abre la palma izquierda)*
+Yo tengo lo que quiere. Lo llevo aquí.
+*(beat)*
+El día que me tenga delante no me va a matar. Me va a pedir esto.
+*(cierra la mano)*
+Y yo se lo doy.
+
+Silencio. Abajo, en el agua, las estrellas siguen quietas.
+
+**@char_stella-adult-theron-cloths (CONT.)**
+Y se va con eso a su casa. Y nosotros detrás.
+
+**@theron**
+Se daría cuenta.
+
+**@char_stella-adult-theron-cloths**
+No si pierdo de verdad.
+*(beat)*
+Tiene que parecer que perdí. No que se lo di. **Que me lo quitó.**
+
+Theron baja la mano. Despacio.
+
+**@theron**
+¿Y tú cómo sales de ahí.
+
+Stella no contesta.
+
+**@theron (CONT.)**
+Contéstame.
+
+Stella no contesta.
+
+*(Y esa es la respuesta. La oye él y la oímos nosotros, y faltan cinco años para que se cumpla.)*
+
+**@theron (CONT.)**
+No.
+*(y ahora sí, duro)*
+Llevo veinte mil años en esto. He enterrado a todo el que quiso ayudarme, uno por uno.
+*(beat)*
+No lo voy a encontrar **gastándote a ti.**
+
+**@char_stella-adult-theron-cloths**
+No me estás gastando. Me estoy ofreciendo.
+
+**@theron**
+Es lo mismo. Solo cambia quién lo dice.
+
+Se da la vuelta hacia la terraza. Y antes de subir:
+
+**@theron (CONT.)**
+Te llevo a mirar. Nada más.
+*(sin girarse)*
+Y si algún día le abres la mano a esa cosa, **que no sea por mí.**
+
+Stella se levanta sola.
+
+*(🔒 **Y esta es la semilla del final.** En la SEC 24 ella abre la mano —y la abre **por su hermana**, no por él. Theron le puso una condición sin saberlo, ella la cumple sin saberlo, y **él no lo va a saber nunca.**)*
+
 Y arriba, en la terraza, **@thara** los ve subir juntos. Y **no sonríe.**
 
 *(Ella lo mandó a enseñarle a esperar. Y él ha vuelto habiendo decidido **dejar de esperar.** Es su marido y lo conoce: acaba de ver empezar algo que no se va a poder parar.)*
@@ -4315,7 +4390,11 @@ Y levanta la cara.
 
 Y **lo ve.**
 
-Ahí arriba, subiendo, en la cubierta abierta al cielo, entre los rayos. Por primera vez en veinte mil años lo ve **con sus propios ojos.** Y todo —cada planeta muerto, cada rastro perdido, cada siglo— por fin **tiene cara.**
+Y **no lo ve.**
+
+Ahí arriba, subiendo, en la cubierta abierta al cielo, entre los rayos: algo del tamaño de una catedral, **a contraluz.** Una forma. Nada más que una forma.
+
+*(Veinte mil años detrás de esto. Lo tiene delante, a doscientos metros, y el sol de Erdia le está dando por detrás. **Sigue sin tener cara.**)*
 
 **@theron**
 *(bajo, casi un rezo)*
@@ -4331,11 +4410,13 @@ La descarga cruza doscientos metros de aire y **entra.**
 
 No es gran cosa: un mordisco de luz en algo del tamaño de una catedral. Pero **entra** — y de esa herida sale un hilo de luz robada que se le escapa a la cosa por el costado.
 
-Y el **PARÁSITO se detiene.**
+Y la **forma se detiene.**
 
-Y por primera vez en veinte mil años, **baja los ojos y lo mira.**
+Y **gira.** Despacio. Hacia él.
 
-Un segundo. Los dos quietos, a doscientos metros, mirándose.
+*(Algo lo está mirando desde ahí arriba. Él lo **siente.** No lo **ve.** Y esa es la distancia exacta de toda su vida.)*
+
+Un segundo. Los dos quietos, a doscientos metros.
 
 *(Y esto vale toda la Película 2: **se puede.** No mucho, no bastante, pero **se puede.** Y ahora esa cosa sabe que existe.)*
 
@@ -4486,7 +4567,7 @@ Selka lo mira. Y **lo abre.**
 ## SEC. 29B — INT. NAVE NODRIZA DE THERON — SALA DE RECUPERACIÓN — DÍA
 
 > 🏷️ **LOCACIÓN** · `@loc_mothership-recovery-room`
-> 🏷️ **REPARTO** · `@nima` · `@theron` · `⚠️@stella-tanque-FALTA` · `@selka-ending-1` · `@naio-prison-2`
+> 🏷️ **REPARTO** · `@nima` · `@vosk` · `@theron` · `⚠️@stella-tanque-FALTA` · `@selka-ending-1` · `@naio-prison-2`
 > 🏷️ **PROPS** · `@selka-ending-1`
 
 
@@ -4513,7 +4594,110 @@ Y se está apagando.
 Cazador. Dicen que ahora puedes seguirlo.
 
 **@theron**
-Adonde vaya.
+No puedo.
+
+Naio levanta la cara del cristal.
+
+**@theron (CONT.)**
+Lo tuve a doscientos metros. Le acerté.
+*(beat)*
+Y no le vi la cara. Yo para rastrear una cosa necesito haberla visto. De verdad. Una vez.
+*(beat)*
+Llevo veinte mil años detrás de esas cosas y no le he visto la cara a ninguna. **Por eso llevo veinte mil años.**
+
+Silencio en la sala.
+
+**@theron (CONT.)**
+Y hay algo que ustedes no saben.
+
+Se giran todos. **NIMA. BROGU. VOSK. NOAH.** Y **@selka-ending-1** en la puerta, con el brazo nuevo colgándole del hombro.
+
+**@theron (CONT.)**
+Hace cinco años, en un puerto, esta muchacha se sentó al lado de un lago y me propuso **entregárselo.**
+*(beat)*
+A propósito. Rendirse en su cara y dejar que se lo llevara. Y detrás de él, nosotros, **hasta donde viva.**
+
+**@vosk**
+*(el único que se atreve)*
+¿Y qué le dijiste.
+
+**@theron**
+Que no.
+*(beat)*
+Se lo dije yo, que llevo veinte mil años buscando de dónde salen. Le dije que no porque cuando le pregunté cómo salía ella de ahí, **no supo contestarme.**
+
+Silencio.
+
+**@theron (CONT.)**
+Ayer tuvo el Orbe cerrado en la mano.
+*(beat)*
+Y **la abrió.**
+
+Nadie respira.
+
+**@nima**
+*(muy bajo)*
+¿Entonces lo hizo.
+
+> ⚠️🔱 **AQUÍ SE BIFURCA EL FINAL DE LA PELÍCULA. Las dos versiones están escritas y las dos funcionan.**
+> **La decisión se toma en montaje, con la película armada — no en la página.** Rodar las dos: es una sola
+> línea de Theron y su remate, mismo plano, misma luz, mismo día de trabajo.
+
+### ▸ VERSIÓN A — «No lo sé» · *el plan existió, pero no fue eso*
+
+**@theron**
+No lo sé.
+*(y esto le cuesta más que todo lo demás)*
+Tenía a su hermana encima. Estaba perdiendo. La estaban matando.
+*(mira el tanque)*
+Puede que se rindiera. Puede que llevara cinco años esperando ese segundo exacto.
+*(beat)*
+La única que lo sabe **está ahí dentro.**
+
+*(Y en esa sala, cada uno escoge lo que necesita creer. Ninguno lo va a saber nunca —y todos lo van a contar como si lo supieran—. **Nosotros sí estábamos allí.** Nosotros le vimos moverse los dedos. Y nos vamos a ir a casa sabiendo lo que esta gente no va a saber jamás: **que no fue un plan. Que fue su hermana.**)*
+
+*(⚖️ **Lo que compra esta versión:** la SEC 24 no se toca. La rendición sigue siendo amor y no táctica, y el final gana una segunda capa — la tripulación se va con una estratega y el público se va con una niña. Lo que cuesta: la sala nunca sabe si ganó algo.)*
+
+### ▸ VERSIÓN B — «Lo hizo» · *el plan era real*
+
+**@theron**
+Lo hizo.
+*(y no hay ni una gota de triunfo en cómo lo dice)*
+Cinco años esperando ese segundo. Se dejó ganar delante de su hermana, delante de su padre y delante de un planeta entero, **y aguantó** hasta que esa cosa se lo creyó.
+*(beat)*
+Le costó el brazo de Selka. Le costó Erdia. Y no pudo avisarle a nadie de ustedes, porque si uno solo lo hubiera sabido, **se le habría notado en la cara.**
+
+Silencio.
+
+**@vosk**
+*(por lo bajo, y va completamente en serio)*
+Está loca.
+
+**@theron**
+Está sola. No es lo mismo.
+
+*(⚖️ **Lo que compra esta versión:** la película termina en jugada y no en derrota, y Stella sale del acto 3 convertida en la estratega de la trilogía. Lo que cuesta: la mano que se abre en la SEC 24 pasa de rendición a maniobra, y el brazo de Selka pasa de tragedia a precio calculado.)*
+
+> ⚠️ **Fin de la bifurcación.** Las dos versiones vuelven a juntarse exactamente aquí.
+
+**@nima** se acerca al cristal. Le pone la mano encima, justo sobre la brasa.
+
+**@nima**
+Yo sé por qué podemos seguirlo.
+*(sin apartar la mano)*
+El Orbe no viaja: viaja hecho **partículas.** Y se las manda ella.
+*(beat)*
+Cuando abrió la mano, **se le fue un pedazo adentro.**
+Eso es lo que estamos siguiendo. No es una señal. **Es ella.**
+
+Theron mira el tanque de otra manera.
+
+**@nima (CONT.)**
+Mientras esté viva, sabemos dónde está esa nave.
+*(beat)*
+Si se muere, **lo perdemos.**
+
+*(El reloj de la Película 2, dicho en dos frases: **la brasa que se apaga no es solo el corazón de Stella. Es el rastro.** Veinte mil años de cacería caben ahora dentro de una niña dormida — y por eso mantenerla viva deja de ser amor y pasa a ser **la misión.**)*
 
 **@naio-prison-2**
 Seguirlo no basta. Cuando lo alcances… ¿sabes qué es? ¿Sabes cómo se le entra?
@@ -4636,7 +4820,7 @@ Pero late.
 
 CORTE A NEGRO.
 
-**EL NODO DE ERDIA.**
+**STELLA · *a falling star*.**
 
 *(Fin de la Película 1.)*
 
@@ -4645,8 +4829,16 @@ CORTE A NEGRO.
 ## NOTAS PARA LA PELÍCULA 2 (semillas plantadas)
 - **La brasa de Gix** apagándose = el reloj de Stella. ¿Cuánto le queda antes de que el corazón se detenga?
 - **Selka jura volver** y hereda la misión de su hermana: ella es la protagonista activa de la P2 mientras Stella duerme.
-- **Theron sabe adónde fue el Parásito** = el mapa de la cacería de la P2. Y algo más: su poder exige una
-  **referencia física**, y en la SEC 27 **por fin lo vio con sus propios ojos** — ahora sí puede rastrearlo.
+- 🔒 **THERON NO PUEDE RASTREARLO.** Su poder exige **referencia física** —haberlo visto de verdad, una
+  vez— y en veinte mil años **no le ha visto la cara a ninguno**. En la SEC 27 lo tuvo a doscientos metros
+  y le acertó, pero **a contraluz: una forma, no una cara.** Sigue sin poder cazarlo por su cuenta.
+- 🔒 **EL ÚNICO RASTRO ES STELLA.** Cuando abrió la mano se le fue **un pedazo de sus partículas dentro
+  del Orbe**. Eso es lo que siguen. Con dos consecuencias enormes para la P2: **(a)** el rastro y la vida
+  de Stella son **el mismo reloj** —si la brasa se apaga, pierden la nave—; y **(b)** mantener viva a
+  Stella deja de ser un asunto sentimental y pasa a ser **el objetivo estratégico de toda la flota.**
+- 🔱 **EL FINAL ESTÁ BIFURCADO A PROPÓSITO (SEC 29B).** Versión A «no lo sé» / Versión B «lo hizo».
+  **Rodar las dos** —es una línea y su remate, mismo plano y mismo día— y **decidir en montaje.**
+  De esa elección depende si Stella sale de la P1 como estratega o como hermana.
 - **Theron entró DESPUÉS de la transformación:** vio solo la forma de Parásito. **Sigue sin saber que es un
   cambiaformas.** Selka y Naio sí lo saben — contárselo (o callárselo) es una escena de la P2.
 - **Naio sabe qué es la nave-palacio y por dónde se abre** (el legado de Vera, SEC 19/29): el arma de la P2.

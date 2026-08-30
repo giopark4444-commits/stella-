@@ -4,6 +4,38 @@
 > estado está cada cosa en esa secuencia. **Ningún prompt puede depender de «lo que acabamos de
 > generar»**, porque puede que no se haya generado todavía.
 
+## 🔒 La regla del rastreo (v2.8) — la más fácil de romper en un prompt
+
+**THERON NO PUEDE RASTREAR A VORTHAM.** Su poder de cacería exige **referencia física**: tiene que
+haber **visto** la cosa, de verdad, una vez. En veinte mil años **no le ha visto la cara a ningún
+Parásito**, y esa es exactamente la razón de que lleve veinte mil años.
+
+⚠️ **En la SEC 27 lo tiene a doscientos metros, le dispara y le acierta — y aun así NO le ve la cara.**
+La cubierta pasa **a contraluz**: él ve **una forma**, no un rostro. Ningún prompt de la SEC 27 puede
+mostrar a Theron viéndole la cara, ni mostrar el rostro del Parásito desde el punto de vista de Theron.
+Es **silueta contra el sol de Erdia**, siempre.
+
+🔒 **Por lo tanto el único rastro que existe al final de la Película 1 es STELLA.** Cuando abre la mano
+en la SEC 24, **se le van sus propias partículas dentro del Orbe**. Nima lo explica en la SEC 29B: no
+siguen una señal, **la siguen a ella.** Consecuencias que ningún prompt puede contradecir:
+
+- **La brasa de Gix en el pecho de Stella es a la vez su vida y el rastro.** Si se apaga, pierden la nave.
+- **Mantener viva a Stella es la misión**, no un asunto sentimental.
+- **Theron sigue sin saber que Vortham es un cambiaformas.** Solo Selka y Naio lo saben.
+
+## 🔱 El final está bifurcado a propósito (SEC 29B)
+
+La pregunta de Nima —*«¿Entonces lo hizo.»*— tiene **dos respuestas escritas** en el guion:
+
+| | Réplica de Theron | Qué significa |
+|---|---|---|
+| **A** | *«No lo sé.»* | El plan existió, pero ella abrió la mano **por su hermana**. La sala se queda con una estratega; el público sabe la verdad |
+| **B** | *«Lo hizo.»* | El plan era real y se ejecutó. La película termina en jugada, no en derrota |
+
+⚠️ **Rodar las dos.** Es una línea y su remate: mismo plano, misma luz, mismo día de trabajo. **La
+decisión se toma en montaje.** Hasta entonces, **ningún otro clip de la película puede dar por buena
+ninguna de las dos** — ni un plano, ni una mirada, ni una línea en otra escena.
+
 ## ⚠️ Las siete trampas
 
 **① EL PELO DE STELLA CAMBIA CUATRO VECES.** Suelto → **trenza** (se la hace en el laboratorio) →
