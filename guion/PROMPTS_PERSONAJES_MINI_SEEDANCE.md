@@ -187,8 +187,14 @@ How would the newest and youngest member of a hard scavenger crew look, still no
 ### @Rebeldes — el ejército de la rebelión 🆕
 How would the army of a rebellion look, made of a dozen different peoples who are not from the same world and fight side by side? Show me 4 examples. Many different species together. Ghibly style and water color painting.
 
-### @TrioHumano — los tres humanos 🆕
+### @TrioHumano — @NOAH, CARL y LUCY 🆕
 How would three human fighters look who always stand back to back and cover each other's blind side? Show me 4 examples. Human. Ghibly style and water color painting.
+
+### @Carl — el segundo humano 🆕
+How would one of only three humans aboard an alien ship look, a man who has spent more of his life among other species than among his own? Show me 4 examples. Human. Ghibly style and water color painting.
+
+### @Lucy — la tercera humana 🆕
+How would the woman of that same trio of humans look, the one the other two turn to first when something goes wrong? Show me 4 examples. Human. Ghibly style and water color painting.
 
 ### @MujerVerde — la que va hacia arriba 🆕 *(nombre provisional)*
 How would the fighter look who climbs the enemy's own machines to reach what is standing behind them, tall and green-skinned? Show me 4 examples. Clearly not human. Ghibly style and water color painting.

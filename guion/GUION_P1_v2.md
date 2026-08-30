@@ -87,8 +87,8 @@
 > • **Hay naves desde el primer segundo, pero LEJOS**: siluetas pequeñas cruzando muy arriba contra
 >   el cielo. De cerca no se ve ninguna hasta que Stella va subiendo por la fachada y **una le pasa
 >   por debajo de las botas.** Lo que sí vemos desde el suelo son sus impactos caminando por la tierra.
-> • **La tripulación en la plaza:** Brogu · Nima · Vosk · Gara · Enko · **los tres humanos** (Noah entre
->   ellos, `@TrioHumano`) · **la mujer verde** (`@MujerVerde`, provisional) · **el hombre pulpo**
+> • **La tripulación en la plaza:** Brogu · Nima · Vosk · Gara · Enko · **los tres humanos** — **NOAH, CARL y LUCY**
+>   (`@TrioHumano`, `@Carl`, `@Lucy`) · **la mujer verde** (`@MujerVerde`, provisional) · **el hombre pulpo**
 >   (`@HombrePulpo`, provisional). Cada uno pelea distinto y **ninguno duplica a otro**.
 > • **El palacio es UNA ESFERA** de piedra del tamaño de una montaña apoyada sobre la ciudad.
 >   No es una cúpula sobre un edificio: es una bola. La cúspide es su punto más alto.
@@ -281,7 +281,7 @@ Un **CORREDOR** salta hacia el objetivo — y **EL HOMBRE PULPO** lo atrapa en e
 
 Y la cámara pasa junto a **la figura encapuchada** — y es la única persona de toda la plaza que **no está mirando al enemigo. Está mirando hacia arriba.**
 
-**LOS TRES HUMANOS** aguantan un flanco espalda contra espalda, rotando, cubriéndose los ángulos ciegos. **NOAH** es uno de ellos, con la espada de luz. No tienen nada especial en el cuerpo: **son los únicos que pelean como un ejército y no como individuos**, y por eso ese flanco no se rompe. Y si ese flanco no se rompe, **el pasillo sigue abierto.**
+**LOS TRES HUMANOS** —**NOAH**, **CARL** y **LUCY**— aguantan un flanco espalda contra espalda, rotando, cubriéndose los ángulos ciegos. No tienen nada especial en el cuerpo: **son los únicos que pelean como un ejército y no como individuos**, y por eso ese flanco no se rompe. Y si ese flanco no se rompe, **el pasillo sigue abierto.**
 
 **VOSK** hace otra cosa: **se sube a un PESADO.** Trepa por él mientras la máquina se sacude entera para quitárselo, llega arriba, y **lo tumba desde dentro.** El pesado se derrumba encima de la línea imperial. Vosk está abierto de un costado, la sangre le baja hasta la bota, y **se ríe.** No se está divirtiendo: se está despidiendo.
 
@@ -2181,7 +2181,7 @@ La cámara entra con ellos y **no vuelve a parar.**
 
 **LA MUJER VERDE** salta, corre por el lomo de las máquinas y se lanza sobre las patas de uno **de descarga**, que se dobla por la mitad. Un **corredor** salta y **EL HOMBRE PULPO** lo atrapa en el aire con tres brazos sin dejar de pelear con los otros.
 
-**LOS TRES HUMANOS** aguantan un flanco espalda contra espalda, y **NOAH** entre ellos: le tiembla el brazo, lleva demasiado rato sosteniendo el mismo metro de suelo y **no piensa moverse de ahí.**
+**NOAH, CARL y LUCY** aguantan un flanco espalda contra espalda. A Noah le tiembla el brazo: lleva demasiado rato sosteniendo el mismo metro de suelo y **no piensa moverse de ahí.**
 
 **VOSK** trepa por un pesado mientras la máquina se sacude para quitárselo, y **lo tumba desde dentro.** Cae uno y **se ríe.** Cae otro y se ríe más fuerte. Ya hizo las cuentas, le salieron mal, y aun así se está riendo.
 
