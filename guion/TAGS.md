@@ -127,7 +127,10 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 
 ---
 
-# 📍 LOCACIONES (39 assets)
+# 📍 LOCACIONES (39 en tu panel · **29 anotadas aquí**)
+
+> ⚠️ **Faltan 10 por transcribir.** Esta tabla se armó leyendo un pantallazo y no entraron todas.
+> Antes de mandar a generar una locación «que falta», **comprobar que no sea una de esas 10.**
 
 ## Erdia — el pasado
 
@@ -149,7 +152,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | **La sala del Orbe** | `@loc_eridia-orbe-room` |
 | La sala del Orbe, alrededores | `@loc_erdia-orbe-room-surround` |
 | **La sala del Orbe DESTRUIDA** | `@loc_erdia-orbe-room-destroyed` |
-| **La sala de instrucción** ⚠️ typo en origen | `@loc_erdia-palace-traingin-room` |
+| **La sala de entrenamiento** ⚠️ typo en origen | `@loc_erdia-palace-traingin-room` |
 
 ## Erdia — año 24
 
