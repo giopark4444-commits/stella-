@@ -217,6 +217,23 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • **LOS TRES PILOTOS SE COBRAN EN LA SEC 23, POR BOCA DE @NAIO.** @Stella pregunta por ellos mientras
+>   lo saca de las celdas: los tuvieron cuatro días y los **ejecutaron en la plaza, delante de todos,
+>   «porque no servían para nada»**. Y de ahí sale la ley que explica a Vortham entero:
+>   *«Ese hombre no perdona, hija. **CONSERVA.** A mí me conserva porque yo cerré el Orbe. A tu hermana
+>   la conserva porque la puede usar. **Todo lo demás lo tira.**»*
+>   🔒 Con eso se paga la frase de la SEC 3 —*«Ese no. Ese lo cerró. Ese va a tener que abrirlo»*— y
+>   queda dicha la vida entera de @Naio: **lleva veinte años vivo porque es una herramienta**, y sabe
+>   qué pasa el día que deje de serlo, porque se lo hicieron a tres tipos delante de todo el mundo.
+> • 🔒 **POR QUÉ LA LLAVE VA EN @STELLA: NO ES UN PLAN, ES ADN — Y SE LO ESCONDEN.** ⚠️ Nadie le
+>   explica en pantalla que va a irse sola, **y es a propósito.** Lo que sí se dice es la regla:
+>   *«El Orbe es nuestra estirpe. **Los cuatro.** Nadie más en todo el universo puede tocarlo.»* @Naio
+>   empieza a advertirle qué le pasa al que lo intente **y no termina la frase** — la termina **@VOSK**
+>   dos años después, convulsionando en la SEC 10 con los dedos agarrotados alrededor de la esfera.
+>   **La prueba llega después del enunciado, y por eso el enunciado no necesita defenderse.**
+>   ⚠️ **@Vera NUNCA le dice que la nave tiene un solo asiento.** Si se lo dice, @Stella no se sube —es
+>   la que cinco minutos más tarde desobedece la única orden que le dan para arrastrarse hacia su
+>   madre—. **El silencio de @Vera es lo que hace que el plan funcione**, y hay que rodarlo sabiéndolo.
 > • **@GIX NO DESAPARECE EN EL ACTO 2: SALE TRES VECES, Y CADA UNA HACE UN TRABAJO DISTINTO.**
 >   **① SEC 15, la fosa** *(año 2)* — @Stella se toca el brazalete delante de **tres mil desconocidos** y
 >   @Gix crece y **le abre el palco del Rey del Basurero de un ariete**, mandando por el aire a la corte
@@ -1111,7 +1128,13 @@ Y @Stella se ríe con ella —con catorce años, con la palma ardiéndole a la e
 *(Acaban de convertirle la mano en una caja fuerte. Y lo primero que hace con ella es **esconderla**, para que su hermana no la vea.)*
 
 **@NAIO (CONT.)**
-El Orbe es nuestra estirpe, @Stella. Solo nuestra familia puede tocarlo.
+El Orbe es nuestra estirpe, @Stella. Los cuatro. **Nadie más en todo el universo puede tocarlo.**
+*(beat)*
+Y el que lo intente…
+
+No termina la frase.
+
+*(No es que le falte tiempo: **es que no quiere decírselo.** Esa frase la va a terminar otra persona dentro de dos años, en una mesa de metal, convulsionando con los dedos agarrotados alrededor de la esfera.)*
 
 Y **le cierra la mano.**
 
@@ -1211,18 +1234,7 @@ Entiendo. Tú solo cuida de @Selka.
 **@VERA**
 Pase lo que pase, llega a la nave. La dejé afuera, en la salida que da al parque.
 
-**@STELLA**
-*(corriendo)*
-…¿Las dos?
-
-@Vera **no la mira.**
-
-**@VERA**
-Tú.
-*(beat)*
-Hoy no hay nadie en este planeta que pueda sacar una nave de aquí. Solo tú.
-
-*(Y ahí está contestada la pregunta que el público lleva diez minutos haciéndose: **por qué la llave fue a la niña de catorce y no a la madre.** No la eligieron por valiente. La eligieron **porque es la que vuela.** Mañana tenía la prueba.)*
+*(Y ojo con lo que @Vera **no** dice, porque es lo más importante de la escena. Hay una nave, y hay **un asiento.** Y no piensa decírselo. Si se lo dice, esta niña no se sube: es la que dentro de cinco minutos va a desobedecer la única orden que le den, para arrastrarse hacia su madre. **Se lo esconde a propósito. Y por eso funciona.**)*
 
 Y @Stella, corriendo, entiende una cosa que le va a doler el resto de su vida: **su madre dejó esa nave preparada antes de ir al parque.**
 
@@ -3326,7 +3338,42 @@ Lo sé, papá. Ya lo sé todo.
 *(le besa la frente, donde @Vera lo besó)*
 La cumplo yo.
 
-Lo carga hasta la boca del pasillo, donde el estruendo de arriba ya es ensordecedor. Al otro lado del boquete, en la plaza, **BROGU** llega abriendo una pared.
+Lo carga hacia la boca del pasillo. Y por el camino pasan por delante de las otras celdas.
+
+**@STELLA**
+*(sin dejar de andar)*
+Papá. Los tres pilotos. Los que me abrieron el cielo aquel día.
+*(le cuesta)*
+Los vi en las celda.
+
+@Naio tarda en contestar.
+
+**@NAIO**
+Los tuvieron cuatro días.
+*(beat)*
+Después los ejecutaron a los tres, en la plaza, delante de todo el mundo.
+
+**@STELLA**
+*(se le rompe la voz)*
+…¿Por qué.
+
+**@NAIO**
+Porque no servían para nada.
+
+Y lo que dice después lo dice sin rabia, como quien recita algo que lleva veinte años sabiéndose de memoria.
+
+**@NAIO (CONT.)**
+Ese hombre no perdona, hija. **Conserva.**
+*(beat)*
+A mí me conserva porque yo cerré el Orbe y algún día va a necesitar que lo abra. A tu hermana la conserva porque la puede usar.
+*(la mira con el ojo que le queda)*
+Todo lo demás lo tira.
+
+*(Y ahí está la vida entera de este hombre dicha de una vez: **lleva veinte años vivo porque es una herramienta.** Y sabe exactamente lo que pasa el día que deje de serlo, porque se lo hicieron a tres tipos que solo intentaron sacar del planeta a la hija de otro.)*
+
+Silencio. @Stella no dice nada más. Solo aprieta un poco más el paso.
+
+Llegan a la boca del pasillo, donde el estruendo de arriba ya es ensordecedor. Al otro lado del boquete, en la plaza, **BROGU** llega abriendo una pared.
 
 @Stella le entrega a su padre. El gigante lo alza con un cuidado imposible para esas manos —y se lo pasa hacia atrás, por encima de la línea, a **CARL y LUCY**, que se lo llevan de la plaza cargado entre los dos.
 

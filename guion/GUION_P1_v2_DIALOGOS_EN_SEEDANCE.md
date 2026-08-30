@@ -673,7 +673,13 @@ Y @Stella se ríe con ella —con catorce años, con la palma ardiéndole a la e
 *(Acaban de convertirle la mano en una caja fuerte. Y lo primero que hace con ella es **esconderla**, para que su hermana no la vea.)*
 
 **@NAIO (CONT.)**
-The Orb is our trace, @Stella. Only our family can touch it.
+The Orb is our trace, @Stella. The four of us. **No one else in the whole universe can touch it.**
+*(beat)*
+And anyone who tries…
+
+No termina la frase.
+
+*(No es que le falte tiempo: **es que no quiere decírselo.** Esa frase la va a terminar otra persona dentro de dos años, en una mesa de metal, convulsionando con los dedos agarrotados alrededor de la esfera.)*
 
 Y **le cierra la mano.**
 
@@ -773,18 +779,7 @@ I understand. You just take care of @Selka.
 **@VERA**
 Whatever happens, get to the ship. I left it outside, at the exit that opens onto the park.
 
-**@STELLA**
-*(corriendo)*
-…Both of us?
-
-@Vera **no la mira.**
-
-**@VERA**
-You.
-*(beat)*
-There is no one on this planet today who can fly a ship out of here. Only you.
-
-*(Y ahí está contestada la pregunta que el público lleva diez minutos haciéndose: **por qué la llave fue a la niña de catorce y no a la madre.** No la eligieron por valiente. La eligieron **porque es la que vuela.** Mañana tenía la prueba.)*
+*(Y ojo con lo que @Vera **no** dice, porque es lo más importante de la escena. Hay una nave, y hay **un asiento.** Y no piensa decírselo. Si se lo dice, esta niña no se sube: es la que dentro de cinco minutos va a desobedecer la única orden que le den, para arrastrarse hacia su madre. **Se lo esconde a propósito. Y por eso funciona.**)*
 
 Y @Stella, corriendo, entiende una cosa que le va a doler el resto de su vida: **su madre dejó esa nave preparada antes de ir al parque.**
 
@@ -2888,7 +2883,42 @@ I know, dad. I know all of it.
 *(le besa la frente, donde @Vera lo besó)*
 I'll keep it for her.
 
-Lo carga hasta la boca del pasillo, donde el estruendo de arriba ya es ensordecedor. Al otro lado del boquete, en la plaza, **BROGU** llega abriendo una pared.
+Lo carga hacia la boca del pasillo. Y por el camino pasan por delante de las otras celdas.
+
+**@STELLA**
+*(sin dejar de andar)*
+Dad. The three pilots. The ones who opened the sky for me that day.
+*(le cuesta)*
+I saw them in the holding pens.
+
+@Naio tarda en contestar.
+
+**@NAIO**
+They kept them four days.
+*(beat)*
+Then they ended all three, in the square, in front of everyone.
+
+**@STELLA**
+*(se le rompe la voz)*
+…Why.
+
+**@NAIO**
+Because they were of no use.
+
+Y lo que dice después lo dice sin rabia, como quien recita algo que lleva veinte años sabiéndose de memoria.
+
+**@NAIO (CONT.)**
+That man doesn't forgive, girl. **He keeps.**
+*(beat)*
+He keeps me because I sealed the Orb and one day he'll need it opened. He keeps your sister because he can use her.
+*(la mira con el ojo que le queda)*
+Everything else he throws away.
+
+*(Y ahí está la vida entera de este hombre dicha de una vez: **lleva veinte años vivo porque es una herramienta.** Y sabe exactamente lo que pasa el día que deje de serlo, porque se lo hicieron a tres tipos que solo intentaron sacar del planeta a la hija de otro.)*
+
+Silencio. @Stella no dice nada más. Solo aprieta un poco más el paso.
+
+Llegan a la boca del pasillo, donde el estruendo de arriba ya es ensordecedor. Al otro lado del boquete, en la plaza, **BROGU** llega abriendo una pared.
 
 @Stella le entrega a su padre. El gigante lo alza con un cuidado imposible para esas manos —y se lo pasa hacia atrás, por encima de la línea, a **CARL y LUCY**, que se lo llevan de la plaza cargado entre los dos.
 
