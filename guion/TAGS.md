@@ -129,6 +129,17 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 
 ---
 
+> 🔒 **REGLA DE ENCUADRE PARA TODA HOJA DE LOCACIÓN — vista panorámica, siempre.**
+> Nunca un plano cerrado. Estas hojas son **referencias de mundo**: si no se ve el mundo, no sirven.
+> Bloque fijo al principio de cada prompt:
+> ```
+> EXTREME WIDE PANORAMIC ESTABLISHING SHOT. Very wide field of view, elevated
+> vantage point, horizon to horizon. Deep layered distance — foreground, midground
+> and a far horizon. The landscape must read as an entire world, not as a corner
+> of one. No close-ups, no detail crops.
+> ```
+> Los planos cerrados se piden **en el prompt del clip**, no en la hoja.
+
 # 📍 LOCACIONES — **36, panel completo leído 2026-08-30**
 
 ## Erdia — el palacio
