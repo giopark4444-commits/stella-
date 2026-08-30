@@ -96,6 +96,10 @@
 >   es **lo que le queda después de haber dado tanto**.
 > • **Erdia está destruido, pero es BONITO dentro de su propio caos.** El cielo del año 24 tiene
 >   estrellas de verdad, y el humo las atraviesa. La belleza y el desastre están en el mismo cuadro.
+> • **LAS NAVES QUE ATACAN SON `@ship-enemy-erdia` Y `@ship-4-enemyy`.** Oscuras y angulosas,
+>   formas de flecha, casi negras — **lo contrario de las erdianas**, que son doradas y redondeadas
+>   (`@ship-erdia-1`, `@ship-big-erdia`). Contra el cielo violeta se leen como siluetas sin
+>   iluminarlas.
 > • **Hay naves desde el primer segundo, pero LEJOS**: siluetas pequeñas cruzando muy arriba contra
 >   el cielo. De cerca no se ve ninguna hasta que Stella va subiendo por la fachada y **una le pasa
 >   por debajo de las botas.** Lo que sí vemos desde el suelo son sus impactos caminando por la tierra.

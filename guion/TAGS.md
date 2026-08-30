@@ -203,7 +203,8 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | **La nave de Stella** | `@ship-stella` |
 | La Nodriza | `@mothership` |
 | Erdianas | `@ship-erdia-1` · `@ship-big-erdia` · `@ship-1-dust-erdia` · `@ship-2-dust-erdia` |
-| **Enemigas** | `@ship-enemy-erdia` · `@ship-enemy-erdia-white` · `@ship-4-enemyy` ⚠️ typo |
+| **Enemigas — LAS QUE ATACAN** | **`@ship-enemy-erdia`** · **`@ship-4-enemyy`** ⚠️ typo en origen |
+| Enemiga blanca | `@ship-enemy-erdia-white` |
 | Genéricas | `@ship-1` · `@ship-2` · `@prop_ship-3` ⚠️ · `@ship-5` |
 
 ---
