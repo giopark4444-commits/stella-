@@ -97,7 +97,7 @@
 - **Notes:** Act 3, freed and reunited. Derive from @NaioEsclavo; gentler, unchained. Keep the amber eyes.
 - **Negative:** no photorealism, no 3D render, no CGI, no hyper-detailed rendering, no busy micro-texture, no text, no watermark, no logos, only one character, no extra characters.
 
-### @Selka9 — Selka, 9 años, en instrucción 🆕 v2.2
+### @Selka9 — Selka, 9 años, en entrenamiento 🆕 v2.2
 - **Style:** 2D hand-painted anime CHARACTER SHEET (model sheet / turnaround), cel-animation style — clean line work, flat cel shading with simple shadow shapes, restrained detail; the same character on a clean neutral background: front view, 3/4 view and full-body, plus a face close-up, all consistent across views; soft cinematic lighting, soft grain. 21:9 aspect ratio.
 - **Character:** Make a character sheet of Selka at nine years old, a child being trained as a weapon inside an imperial palace.
 - **Appearance:** white hair pulled back with discipline; grey-blue eyes; a small, serious, tired face with no childishness left in it; slight, wiry nine-year-old build, all knees and elbows; fair skin; a plain white-and-grey training uniform, well made and worn thin at the elbows; a short light-blade held with both hands because one is not enough yet.

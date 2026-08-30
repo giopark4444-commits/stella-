@@ -126,6 +126,16 @@ propia mano.** Sin memoria de nada. Se arrodilla y se queda mirando el **pelo bl
 
 ## 転 TEN — EL REGRESO Y EL TRONO (Acto 3)
 
+**11b. El planeta chatarra (SEC 13 · 13B · 14 · 15).** Cuatro secuencias y una sola idea: **qué es
+Stella sin lo que lleva dentro.** La misión era un **amuleto** que lleva al cuello el rey del
+basurero. Vosk la delata y cae con ella; Brogu se esconde, cuenta y **se va a buscar la nave**. Los
+pasean por un mercado de cien especies **sin un solo humano**, donde las crías se esconden de ella.
+En la fosa —**a mano limpia, con el collar puesto**— tumba a los tres humanos **sin rematar a
+ninguno** y les **abre la mano**. En la fuga: cono de luz gravitacional, Stella **se sale de la luz**
+por Vosk, Nima se descuelga y le **pulveriza el collar**, ella libera a Vosk de un golpe, **le arranca
+el amuleto al Rey usándole los hombros de trampolín**, y los tres pelean **sin peso dentro del cono**
+hasta subir.
+
 **9b. La mesa (SEC 10).** Stella inconsciente sobre una mesa de metal con la tripulación entera
 alrededor decidiendo qué es. Sabo cuenta lo que nadie sabía: los erdianos son **naiel**, colonizaron
 media galaxia y pararon solo tras una guerra que casi los borra. Vosk: «no entiendo por qué la

@@ -106,7 +106,7 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
   encajar quién era («la del piso, la de mi cuarto»).
 - **Selka es CADETE en el año 14**, no General (15 años, aposentos en el palacio, criada por el Rey).
 - **El muelle (SEC 26):** Vortham sostuvo la resistencia 24 años para dejarle a Stella dónde atracar.
-- Hojas nuevas: `@Selka9`, `@Selka9Herida`, `@SalaInstruccion`, `@AutomataInstruccion`.
+- Hojas nuevas: `@Selka9`, `@Selka9Herida`, `@SalaEntrenamiento`, `@AutomataInstruccion`.
 
 **Cambios v2.2:**
 - **Naio es PRISIONERO DEL PALACIO** (celdas del nivel de servicio) los 24 años — **nunca estuvo en las minas**.
@@ -183,7 +183,7 @@ con `tools/cola_estilo.py --set "..."`.
 2. **Regenerar el corpus de planos** (frames y clips) de las secuencias tocadas por v2.2/v2.3 —
    y pasarlos al formato concepto. Es el grueso que queda.
 3. **Retraducir** el guion inglés y el híbrido desde v2.3.
-4. Hojas nuevas por generar: `@Selka9`, `@Selka9Herida`, `@SalaInstruccion`, `@AutomataInstruccion`,
+4. Hojas nuevas por generar: `@Selka9`, `@Selka9Herida`, `@SalaEntrenamiento`, `@AutomataInstruccion`,
    `@SelkaGeneralManca`, `@SalaTronoAbierta`, `@CieloAño24`, `@EnfermeriaNodriza`, `@CeldasPalacio`,
    `@PuñalSelka`, `@TransmisorVera`, `@NaveStellaRota`, `@CadenasEsclavo`.
 5. **Decisión abierta:** vestuario de Selka en SEC 20 y 20A (propuesta: de gala la falsa, descalza

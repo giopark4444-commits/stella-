@@ -1120,7 +1120,9 @@ CORTE A NEGRO.
 
 ---
 
-## SEC. 10 — INT. NAVE NODRIZA DE THERON — LA MESA — ¿?
+## SEC. 10 — INT. NAVE NODRIZA DE THERON — HOSPITAL — ¿?
+
+`@loc_modershipo-hospital`. Luz blanca, quirúrgica.
 
 Una mesa larga de metal. Encima, boca arriba, **STELLA.** Catorce años. Inconsciente.
 
@@ -1250,11 +1252,14 @@ La sala se queda vacía. Solo Nima, trabajando en silencio. Y la niña, que no h
 
 ---
 
-## SEC. 10A — INT. NAVE NODRIZA DE THERON — BAHÍA DE CARGA — ¿?
+## SEC. 10A — INT. NAVE NODRIZA DE THERON — HOSPITAL — MÁS TARDE
 
-Goteo metálico. Luz fría, muy lejos.
+> *`@loc_modershipo-hospital`. **La misma sala de la SEC 10**, horas después: se fueron todos y
+> **apagaron la luz.** De la luz quirúrgica de antes no queda más que una lámpara lejana al fondo.*
 
-Y en el suelo de una bahía enorme y oscura, **STELLA.**
+Zumbido bajo. Goteo metálico. Y una oscuridad de sala vacía.
+
+Sobre la mesa, **STELLA.**
 
 **Abre los ojos de golpe**, con una bocanada de aire. Se empuja sobre un codo.
 
@@ -1268,15 +1273,17 @@ Stella **suelta el aire.**
 
 *(No ha preguntado dónde está. No ha preguntado si está viva. Lo primero que comprueba una niña de catorce años que lo ha perdido todo hoy es **si todavía tiene lo que le costó a su madre la vida.**)*
 
-Al fondo, la nave de su madre —lo que queda de ella— cuelga enganchada por brazos mecánicos, como un animal cazado.
+Se sienta en el filo de la mesa. Y solo entonces mira alrededor.
 
-Y en la penumbra, muy al fondo, **una figura alta a contraluz.**
+Al fondo de la sala hay un **ventanal** que da a la bahía. Y ahí abajo, colgada de brazos mecánicos, **la nave de su madre** —lo que queda de ella— como un animal cazado.
+
+Y en la penumbra, entre ella y la lámpara del fondo, **una figura alta a contraluz.**
 
 No se le ve la cara. Solo un filo de luz recorriéndole el contorno.
 
 La cabeza de Stella **se gira de golpe** hacia ella.
 
-Se sienta. Sube la guardia. Le tiembla la barbilla y no le tiemblan los ojos.
+Sube la guardia. Le tiembla la barbilla y no le tiemblan los ojos.
 
 **STELLA**
 *(la voz rota)*
@@ -1425,7 +1432,7 @@ Es lo único, en ocho años de resistencia, que no le ha contado a nadie. Ni siq
 
 ---
 
-## SEC. 12A — INT. PALACIO IMPERIAL — SALA DE INSTRUCCIÓN — [ERDIA · AÑO 8] — NOCHE
+## SEC. 12A — INT. PALACIO IMPERIAL — SALA DE ENTRENAMIENTO — [ERDIA · AÑO 8] — NOCHE
 
 CORTE DIRECTO desde el refugio: de un cuarto oscuro lleno de gente que se quiere, a una sala blanca, altísima y vacía.
 
@@ -1506,6 +1513,10 @@ CORTE.
 
 Una misión de la flota de Theron. Stella, ya un poco mayor, más dura, se mueve entre escombros con un grupo. Brogu cubre. Vosk va al frente.
 
+Van a por **una sola cosa**, y es pequeña: **un AMULETO** que lleva encima el rey de este basurero. Theron los mandó a buscarlo y no les dijo qué es.
+
+*(Ninguno de los que están aquí abajo sabe para qué sirve. **Ella tampoco.** Solo sabe que esa es la misión — y va a acordarse de eso dentro de un rato, cuando ya no le convenga.)*
+
 Algo sale mal. Cazarrecompensas locales los emboscan. En el caos, Stella se esconde en una grieta, fuera de la vista de los enemigos. A salvo.
 
 Y ve a **VOSK** mirándola desde lejos. Sus ojos se cruzan.
@@ -1530,31 +1541,103 @@ No, no, wait, I handed her to you! I—!
 
 Se lo llevan a él también.
 
+Y a treinta metros, tapado por una plancha de chatarra, **BROGU** lo ve todo.
+
+Ve a los cazadores llevarse a los dos. Cuenta cuántos son. Y **no sale.**
+
+*(No la abandona: **hace cuentas.** Es lento, no es tonto — solo, y a mano, no los saca de aquí. Los va a sacar con la nave.)*
+
+Espera a que el ruido se aleje. Y **se va a buscar ayuda.**
+
+---
+
+## SEC. 13B — EXT. PLANETA CHATARRA — EL MERCADO — MÁS TARDE
+
+`@loc_junk-planet-market`.
+
+A los presos los llevan atados en fila por el corazón del mercado, camino de la fosa.
+
+Y este mercado es **cien especies a la vez.** Escamas, plumas, quitina, seis brazos, tres ojos, cosas que reptan y cosas que flotan. De todo.
+
+**Ni un solo humano.**
+
+Stella va en la fila, sucia, con el collar puesto, mirándolo todo. Dieciséis años y es la primera vez en su vida que ve un sitio así.
+
+Y entonces la ven a ella.
+
+El ruido **se corta** a su paso. Un puesto entero se queda callado.
+
+Y después vuelve el ruido, **peor.**
+
+Alguien le grita algo en un idioma que no entiende. Otro lo repite. Y otro. No es una amenaza: es la palabra que le están poniendo encima, y la van pasando de boca en boca.
+
+Una **cría** de una especie que no sabríamos nombrar la ve venir y **se esconde detrás de la pierna de su madre.** Y otra. Y otra.
+
+Y una madre le **tapa los ojos a su bebé** para que no la mire.
+
+*(No es una asesina, no es un monstruo, no ha hecho nada aquí. Es una chica de dieciséis años cubierta de tierra. Y a un mercado entero de desconocidos se le pone la misma cara.)*
+
+Le tiran algo. Le da en el hombro.
+
+Nadie lo impide.
+
+Stella se gira hacia el único de la fila que podría explicárselo.
+
+**VOSK**, atado dos puestos por delante, también lo ha visto todo.
+
+Y **mira para otro lado.**
+
+*(Él lo sabe perfectamente. Lo dijo en voz alta, en una mesa, con ella dormida delante. **Y no piensa decírselo.**)*
+
+Stella baja la cara y sigue andando.
+
+*(Se va a pasar años creyendo que la miran así **por lo que ella hizo.**)*
+
 ---
 
 ## SEC. 14 — INT. ESTACIÓN DE APUESTAS — LA FOSA — DÍA
 
-Una estación-mercado en el confín de la galaxia. Subastas de esclavos. Y abajo, el corazón del negocio: **LA FOSA** —un pozo de combate rodeado de gradas donde se apuesta a muerte.
+`@loc_junk-planet-colisseum`. Un pozo de combate rodeado de gradas donde se apuesta a muerte.
 
 Y esta noche el cartel es especial. El presentador lo grita como quien vende un milagro:
 
 **LA GRAN LUCHA DE HUMANOS.**
 
-Cuatro en el pozo. Sale uno.
+Cuatro en el pozo. **A mano limpia.** Sale uno.
+
+*(Ese es el número. No es una pelea: es una rareza de feria. Los humanos son pocos, están lejos y aquí no hay ninguno — y este sitio vive de enseñarle a la gente cosas que no ha visto nunca.)*
 
 Y de paso —sin decir su nombre, ni de dónde viene, ni qué hizo— anuncia que entre esos cuatro está **la cabeza más cara del sector.** Solo dice cuánto vale. Y la cifra es tan alta que las gradas rugen.
 
 *(Aquí nadie sabe lo del Orbe. Fuera de Erdia nadie lo sabe. Solo saben que hay una recompensa por alguien de ahí abajo que no la paga ningún gobierno conocido, y eso ya es suficiente para venir a verla morir.)*
 
-Por las rejas empujan a cuatro personas al pozo.
+ARRIBA, EN EL PALCO.
 
-**NOAH** —joven, magullado, una vieja espada y una hoja de luz, ojos que no se rinden.
+Separado de las gradas, en su propio balcón, **EL REY DEL BASURERO.** Gordo de poder, rodeado de guardias, aburrido.
 
-**CARL** —mayor, curtido, alguien que lleva más años viviendo entre otras especies que entre la suya.
+Y colgado del cuello, contra el pecho, **un AMULETO** pequeño y viejo que no pega nada con el resto de lo que lleva encima.
 
-**LUCY** —a la que los otros dos miran primero cuando algo sale mal.
+*(Es lo que vinieron a buscar. Está a veinte metros de ella, en alto, imposible. Y ella todavía no lo ha visto.)*
 
-Y **STELLA**, todavía con el collar puesto.
+AL BORDE DEL POZO.
+
+**VOSK**, atado de rodillas, con dos guardias detrás.
+
+A él no lo meten. Él es **el número siguiente** —el que van a ejecutar cuando este acabe— y de momento se queda ahí, mirando.
+
+*(Y ese es su castigo antes del castigo: **va a tener que ver, entero y sin poder cerrar los ojos, lo que hace la chica a la que vendió.**)*
+
+EN EL POZO.
+
+Por las rejas empujan a cuatro personas.
+
+**NOAH** —joven, magullado, con los nudillos partidos de otras veces y unos ojos que no se rinden.
+
+**CARL** —mayor, curtido, el más grande de los cuatro. Alguien que lleva más años viviendo entre otras especies que entre la suya.
+
+**LUCY** —a la que los otros dos miran primero cuando algo sale mal. La única que no se ha puesto en guardia.
+
+Y **STELLA**, la más pequeña de los cuatro, todavía con el collar puesto.
 
 Que mira a los tres. Y a las gradas. Y no entiende nada.
 
@@ -1578,71 +1661,173 @@ Y se queda helada. Porque esa gente **se parece a ella. A los suyos.**
 
 La multitud exige sangre.
 
-Carl y Lucy se colocan a los lados de Noah, **espalda contra espalda**, como quien ya ha hecho esto antes.
+> ⚠️ **TODA LA PELEA ES A MANO LIMPIA Y STELLA NO TIENE NADA.** El collar le mantiene el traje
+> apagado: sin Orbe, sin propulsores, sin Gix. **Es la única pelea de la película que gana con nada
+> encima** — solo con lo que le enseñaron sus padres. Y la gana **sin lastimar a nadie**, que es
+> justo lo que las gradas no vinieron a ver.
 
-Noah levanta la espada, en guardia. **Stella no.**
+**CARL** va primero. El más grande, de frente, con todo el cuerpo.
+
+Stella **no lo recibe.** Gira sobre un pie, le engancha la muñeca y **le devuelve su propio peso.** Carl se estrella de espaldas y toda la fosa ruge.
+
+Y ella **no remata.** Se retira dos pasos y espera.
+
+*(Primer aviso de que esto no va a ser lo que compraron.)*
+
+**NOAH** y **CARL** se miran un segundo. Y se abren, uno por cada lado.
+
+Sale torpe —se estorban, llegan descompasados, se leen mal—. Llevan cinco minutos conociéndose.
+
+*(Pero fíjense en lo que están haciendo: **no están tratando de matarse entre ellos. Están tratando de entenderse.** Y Stella lo ve.)*
+
+Se agacha por debajo del brazo de Noah, lo empuja **contra Carl**, y los dos se llevan por delante.
+
+Quedan en el suelo. **Y ella otra vez se retira.**
+
+Y ahí es cuando se acuerda de que falta una.
+
+**LUCY no se ha movido en toda la pelea.** Ha estado mirándola. Leyéndola.
+
+Y llega **última, baja y por el lado ciego** —y es la única que la tiene de verdad. Stella cae de espaldas con Lucy encima.
+
+Y Lucy **duda.**
+
+Medio segundo. El que hace falta para hacerlo de verdad.
+
+*(Y ese medio segundo lo dice todo de ella: **no es que no pueda. Es que le cuesta.**)*
+
+Stella le pasa el brazo por debajo, la rueda y se la quita de encima. **Sin hacerle daño.**
+
+Tres en el suelo. Una de pie. Y las gradas de pie con ella, aullando por el remate.
+
+El presentador grita algo. La fosa entera lo corea.
+
+Y Stella, en medio del pozo, **abre la mano.**
+
+La palma hacia arriba. Ofrecida.
+
+*(El gesto de su madre. El del parque. Y ni ella se da cuenta de que lo está haciendo.)*
 
 **STELLA**
-I'm not going to kill you so they can applaud.
+If we kill each other down here, he wins.
+*(mira arriba, al palco)*
+If we get out, the four of us get out.
+
+El rugido de las gradas **cambia de tono.** Empiezan los abucheos. Esto no es lo que pagaron.
+
+**NOAH** mira esa mano abierta. Mira las gradas. Y se levanta él solo.
 
 **NOAH**
-*(midiéndola, sin bajar el arma)*
 …Is this a trick?
 
 **STELLA**
 It's an offer.
 
-**NOAH**
-*(beat — decide)*
-Then you're going to have to help me get out of here.
+Y le da la mano. **Carl** se levanta detrás.
+
+**LUCY** es la que más tarda. Se queda sentada en el polvo, mirándola desde abajo.
+
+**LUCY**
+Nobody gets out of this pit.
 
 **STELLA**
-With this on I'm no use to anyone.
+Today somebody does.
 
-Y hace algo que las gradas no entienden.
+Y le da la mano también.
 
-**Se da la vuelta. Le da la espalda.** Y levanta la barbilla para dejarle el cuello a la vista.
+Los cuatro, de pie, de espaldas entre ellos, mirando hacia afuera **por primera vez.**
 
-**STELLA (CONT.)**
-The collar.
+ARRIBA, ATADO EN EL BORDE, **VOSK** mira lo que acaba de pasar y no dice nada.
 
-Silencio arriba. Y después un rugido: el público cree que se está entregando.
+*(Acaba de ver a la chica que él vendió tener a tres personas en el suelo y **no cobrárselo a ninguna.** Le va a costar dos años admitir que ahí es donde empezó a cambiar de bando.)*
 
-Noah se queda mirando lo que tiene delante. **Una hoja de luz encendida en su mano. Y el cuello desnudo de la mujer que acaba de negarse a matarlo.**
-
-*(Puede degollarla ahora mismo. Puede cobrar la recompensa entera él solo. Puede salir de aquí rico. Y ella lo sabe: por eso se dio la vuelta.)*
-
-Noah mira la hoja. Mira las gradas. Mira esa nuca.
-
-Y **corta el collar.**
-
-El aro cae al piso partido en dos — y el **Orbe vuelve a encenderse en la mano de Stella**, delante de tres mil personas que acababan de apostar por su muerte.
-
-*(Y esa es la primera vez que alguien fuera de Erdia ve lo que esa chica lleva dentro. En un pozo de apuestas, con las gradas llenas.)*
-
-Stella se gira hacia él. Y ya no se miran como dos que van a pelear.
-
-*(Le dio la espalda a un desconocido con un arma encendida. Él eligió armarla. **Eso es todo lo que va a hacer falta durante los veinticuatro años siguientes.**)*
-
-Y en vez de pelear entre ellos, los dos se giran hacia los guardias.
-
-La fosa se convierte en una fuga.
+Y el techo de la fosa **se abre.**
 
 ---
 
-## SEC. 15 — INT. ESTACIÓN DE APUESTAS — LA FOSA / PASARELAS — CONTINUO
+## SEC. 15 — INT. ESTACIÓN DE APUESTAS — LA FOSA — CONTINUO
 
-Caos. Stella y Noah pelean espalda con espalda. Brogu entra rompiendo la pared exterior de un hombro; Nima detrás, con algo en la mano que hace saltar las rejas —Theron mandó por ella.
+El techo de la fosa se raja y entra **LA NAVE**, bajando sobre el pozo, enorme y fuera de lugar.
 
-En medio del tumulto, en una plataforma de ejecución sobre la fosa, los dueños del lugar están por **ajusticiar a un prisionero** que ya no les sirve.
+En los controles, **GARA** y **ENKO** —los dos, desde el primer segundo hasta el último—. En la rampa abierta, **BROGU**, agarrado al mamparo con un brazo y el otro estirado hacia abajo.
 
-Es **VOSK.** De rodillas, con una hoja de luz encendida en la nuca.
+*(El que se escondió detrás de una plancha de chatarra y se fue a buscar ayuda. **Volvió con toda la nave.**)*
 
-Stella lo ve. Se detiene. Noah le grita que vámonos.
+Y del vientre de la nave baja un **CONO DE LUZ GRAVITACIONAL** que se clava en el centro del pozo.
 
-Y Stella —a la que Vosk vendió, traicionó, entregó— cambia de dirección y va por él.
+Lo que cae dentro de esa luz **deja de pesar.**
 
-Rompe la plataforma, desvía la descarga con la palma, lo carga. Vosk la mira sin entender, con el cuello todavía marcado por el calor de la hoja.
+**NOAH, CARL y LUCY** empiezan a subir, girando despacio, agarrándose unos a otros. Las gradas se vuelven locas.
+
+Y **STELLA** también sube.
+
+Sube tres metros.
+
+Y desde ahí arriba mira hacia el borde del pozo.
+
+Y ve a **VOSK.**
+
+De rodillas, atado, con un guardia del tamaño de una puerta sujetándolo por la nuca y ya levantando el brazo.
+
+Stella mira a los otros tres, que ya casi tocan la rampa. **Están a salvo.**
+
+Y mira a Vosk.
+
+**Y se tira de lado, fuera de la luz.**
+
+*(Le acaba de dar la espalda a una salida abierta. Por el que la vendió.)*
+
+Cae ocho metros y aterriza mal, rodando en el polvo del pozo.
+
+Y ahí empieza lo peor que le pasa en toda la película: **pelea con el collar puesto.**
+
+Sin traje. Sin Orbe. Sin propulsores. Dieciséis años, un metro sesenta, y **catorce guardias** entrando al pozo.
+
+Aguanta a dos. Al tercero ya no. La tiran, se levanta, la vuelven a tirar.
+
+*(Todo lo que hace bien no le alcanza. **Esto es lo que es sin lo que lleva dentro**, y por primera vez lo estamos viendo.)*
+
+ARRIBA, EN LA RAMPA.
+
+**NIMA** lo ve desde el borde. Y no lo piensa.
+
+Se descuelga **por fuera del cono** —donde la luz no la sostiene— y **se deja caer.**
+
+Baja los ocho metros a plomo y frena en el último tramo con sus **TRES CRISTALES**, que se le abren alrededor y le rompen la caída.
+
+*(Elfa azul, metro y medio, la más pequeña de toda la nave. Y es la única que se ha tirado.)*
+
+Toca suelo al lado de Stella.
+
+**NIMA**
+*(sin aliento, urgente)*
+Your neck! Don't move!
+
+Y las dos hacen **una sola cosa entre las dos:**
+
+**Stella pelea hacia afuera** —a puño limpio, girando alrededor de Nima, tumbando todo lo que se acerca al metro cuadrado en el que están.
+
+Y **Nima trabaja hacia adentro.** Manda los tres cristales alrededor del collar, uno delante y dos detrás, y los cierra en triángulo.
+
+No sale a la primera. Nima aprieta los dientes, se le doblan las rodillas, y **empuja.**
+
+El collar **se raja.**
+
+Y se **pulveriza** en polvo de metal que se le va entre los dedos.
+
+Y en la palma izquierda de Stella **se enciende el Orbe.**
+
+Delante de tres mil personas que acababan de apostar por su muerte.
+
+*(Y esa es la primera vez que alguien de fuera de Erdia ve lo que esa chica lleva dentro. En un pozo de apuestas, con las gradas llenas.)*
+
+El traje se le enciende entero. Los propulsores de las botas prenden.
+
+Y Stella **cruza el pozo de un dash** y le mete al guardia de la puerta **un solo golpe.**
+
+El grandullón sale despedido. Las ataduras de Vosk revientan con él.
+
+Vosk cae de bruces, libre, con la marca todavía en el cuello. La mira sin entender.
 
 **VOSK**
 *(aturdido)*
@@ -1651,17 +1836,79 @@ Rompe la plataforma, desvía la descarga con la palma, lo carga. Vosk la mira si
 **STELLA**
 Because I'm not you.
 
-Lo suelta de un empujón hacia la salida. Y por primera vez, el matón la mira distinto. Algo en él se rompe y se recompone.
+*(Y aquí acaba la traición de Vosk. No porque entendiera nada de los naiel, ni porque cambiara de opinión sobre su raza —**no cambia**—, sino porque una cría a la que él vendió **volvió por él cuando ya tenía la salida delante.**)*
 
-*(Y aquí acaba la traición de Vosk. **No aquí dentro: aquí.** No porque entendiera nada de los naiel, ni porque cambiara de opinión sobre su raza —**no cambia**—, sino porque una cría a la que él vendió volvió por él cuando ya tenía la salida delante.)*
+*(Y ojo con cómo se le nota, porque **el orgullo se lo queda entero.** No le da las gracias. No lo menciona nunca más. No se disculpa ni una sola vez en toda la película. Lo único que cambia es **dónde se pone:** a partir de este día, en cada operación, Vosk va delante de ella. Y años después va a ser el que le tape una puerta con el cuerpo para que ella salga.)*
 
-*(Ojo con cómo se le nota, porque **el orgullo se lo queda entero.** No le da las gracias. No lo menciona nunca más. No se disculpa ni una sola vez en toda la película. Lo único que cambia es **dónde se pone:** a partir de este día, en cada operación, Vosk va delante de ella. Y años después va a ser el que le tape una puerta con el cuerpo para que ella salga.)*
+Lo empuja hacia la luz. **Nima y Vosk entran en el cono** y empiezan a subir.
 
-Escapan todos juntos —Stella, **Noah, Carl y Lucy**, Brogu, Nima y Vosk— mientras la estación arde detrás.
+Y desde dentro se **impulsan** —Vosk contra el suelo, Nima con los cristales— para subir más rápido, porque el pozo entero se les está echando encima.
 
-*(Y los tres humanos se suben a esa nave y **no se bajan nunca más.** Veinticuatro años después, tres de las personas que le abren el pasillo en esa plaza son tres que estaban en el mismo pozo que ella.)*
+Porque los del basurero **también se están metiendo en la luz.** Trepan por el cono como quien sube por una cuerda: diez, quince, veinte cuerpos flotando detrás de ellos.
 
-Más tarde, en la nave, **THERON** observa a Stella desde lejos. No dice nada. Pero algo cambió: la mocosa que recogió acaba de salvar a quien la traicionó. Eso, para un cazador de veinte mil años, vale más que el brillo de su mano.
+ABAJO, STELLA NO HA SUBIDO.
+
+Se ha quedado en el suelo del pozo. Y está mirando hacia arriba.
+
+**Al palco.**
+
+Al pecho del **REY DEL BASURERO**, y a la cosa pequeña y vieja que le cuelga del cuello.
+
+*(La misión. La cosa por la que vinieron a este planeta. **La tiene delante y se va a ir sin ella.**)*
+
+**STELLA**
+*(para sí, ya decidida)*
+…No.
+
+Se agacha. Los propulsores se le ponen al rojo.
+
+Y **sale disparada en diagonal hacia el palco.**
+
+Veinte metros en línea recta hacia arriba mientras todo lo que hay en esa sala le tira algo. Cruza el balcón entero, los guardias no llegan a tiempo—
+
+—y **le pone los dos pies en los hombros al Rey.**
+
+Un segundo. Cara a cara con él.
+
+Le **arranca el amuleto del cuello.**
+
+Y en el mismo movimiento —usando los hombros del Rey de trampolín— **se impulsa hacia atrás y se tira al cono de luz.**
+
+*(Y ahí está toda ella en un solo gesto: no vino a robarle. Vino a terminar el trabajo. **Y usa al hombre que la vendió a la fosa de escalón para salir de ella.**)*
+
+DENTRO DEL CONO.
+
+Los tres, subiendo, con veinte cuerpos flotando entre ellos.
+
+Y **pelean ahí dentro**, sin peso, girando en el aire: Vosk agarra y lanza, Nima abre los cristales en abanico y los va despegando de la columna de luz, y Stella cruza de un lado a otro con los propulsores usando a los que suben de punto de apoyo.
+
+Uno a uno, los del basurero **se salen por los lados** del cono, dejan de flotar y **caen.**
+
+Y arriba, en el borde de la rampa, **BROGU** los va sacando del aire de uno en uno con un solo brazo, como quien recoge fruta.
+
+Los tres entran.
+
+**NIMA**
+*(desde la rampa, gritando)*
+THAT'S EVERYONE! GO!
+
+Y **GARA y ENKO despegan.**
+
+La nave sale por el techo roto de la fosa mientras la estación arde debajo.
+
+MÁS TARDE, EN LA NAVE.
+
+Stella abre la mano y deja **el amuleto** en la palma de Theron. Sucio, pequeño, sin nada de particular.
+
+Theron lo mira. Y después la mira a ella.
+
+*(Ella no sabe qué es. **Él sí.** Y no se lo va a decir todavía.)*
+
+No dice nada. Pero algo ha cambiado: la mocosa que recogió acaba de salvar a quien la traicionó **y de traerle lo que fue a buscar.** Eso, para un cazador de veinte mil años, vale más que el brillo de su mano.
+
+Y en el otro extremo de la bahía, **NOAH, CARL y LUCY**, sentados en el suelo, sin nada, mirando el techo de una nave que no es suya.
+
+*(Los tres se suben ese día y **no se bajan nunca más.** Veinticuatro años después, tres de las personas que le abren el pasillo en esa plaza son tres que estaban en el mismo pozo que ella.)*
 
 Noah, vendándose una herida, no le quita los ojos de encima a Stella. Ella ni lo nota. Mira el cielo, hacia donde queda Erdia.
 

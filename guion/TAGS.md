@@ -169,7 +169,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | El salón | `@loc_mothership-hall` |
 | El bar | `@loc_mothership-bar` |
 | La sala de control | `@mothership-control-room` ⚠️ sin `loc_` |
-| **El hospital** ⚠️ typo en origen | `@loc_modershipo-hospital` |
+| **El hospital** ⚠️ typo en origen | `@loc_modershipo-hospital` — **la sala más usada del film:** SEC 10 (la mesa), SEC 10A (despierta) y SEC 29A (el brazo de Selka) |
 | **La sala de recuperación — el tanque** | `@loc_mothership-recovery-room` |
 
 ## El planeta chatarra
@@ -273,7 +273,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | `@RobotDemoledor` | **`@robot-giant-demoledor`** |
 | `@S1G1` | **`@robot-s1g1`** |
 | `@SalaDelOrbe` | **`@loc_eridia-orbe-room`** |
-| `@SalaInstruccion` | **`@loc_erdia-palace-traingin-room`** |
+| `@SalaEntrenamiento` | **`@loc_erdia-palace-traingin-room`** |
 | `@SalaTrono` | **`@loc_eridia-orbe-room`** |
 | `@SalaTronoAbierta` | **`@loc_erdia-orbe-room-destroyed`** |
 | `@Selka9` | **`@selka-girl`** |
