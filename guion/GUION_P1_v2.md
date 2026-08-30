@@ -226,6 +226,13 @@
 > • **MÉTODOS DE CÁMARA — solo cuatro, y planos lo más largos posibles:** `dolly` · `steadycam` ·
 >   `brazo mecánico` · `POV de dron`. ⚠️ **Nunca cámara en mano**, nunca temblor, nunca corrección
 >   de operador. El movimiento siempre es mecánico y con masa.
+> • **VOSK ARRASTRA LA QUEMADURA A LA SEC 11.** Entra con **la mano derecha vendada hasta la muñeca**
+>   y lo primero que le pone a Stella delante de la cara no es un insulto: **es la mano.** *«¿Ves esto?
+>   Es tuyo.»* 🔒 Su odio deja de ser el de un matón genérico: **no la odia por lo que es, la odia por
+>   cómo quedó él** — el jefe tuvo que arrancarlo de la muñeca de una niña dormida delante de todos.
+>   Y cuando tira el primer puñetazo **con la derecha, le falla**: los dedos vendados no le cierran.
+>   *(Segunda humillación en dos días, y esta se la hizo su propio cuerpo.)* Solo entonces le entra con
+>   la izquierda.
 > • **EL ORBE VUELVE SOLO (SEC 10).** Nadie lo guarda porque **nadie puede**: en cuanto Vosk sale
 >   volando, la esfera se queda flotando sola un momento —**y nadie se atreve a acercarse**— y después
 >   **se deshace y le entra por la palma izquierda**. El brazalete se cierra con un clic.
@@ -1981,14 +1988,33 @@ La tripulación de Theron mira a Stella como se mira a algo que no debería esta
 
 **VOSK** (matón, grande, cicatrices) le bloquea el paso. La mide.
 
+Y lo primero que le pone delante de la cara **no es un insulto.**
+
+Es **la mano derecha, vendada hasta la muñeca.**
+
 **VOSK**
+¿Ves esto?
+*(se la deja ahí, a un palmo de sus ojos)*
+Es tuyo.
+
+*(Y ahí está lo que le pasa a este hombre, y no es lo que parece: la otra noche, **delante de la tripulación entera**, el jefe tuvo que arrancarlo de la muñeca de una niña dormida con una descarga en la palma. **No la odia por lo que es. La odia por cómo quedó él.**)*
+
+**VOSK (CONT.)**
 La mascota del jefe. El cebo que respira.
-*(la empuja con un dedo)*
+*(la empuja — con la mano buena)*
 ¿Sabes qué le pasa al cebo cuando el pez ya picó?
 
-Stella le aparta la mano de un golpe. Vosk sonríe —era lo que quería. Le tira el primer puñetazo.
+Stella le aparta la mano de un golpe. Vosk sonríe —era lo que quería.
 
-Pelean. Stella es rápida, entrenada, pero pequeña; Vosk es un muro. La tiene contra la pared cuando—
+Y tira el primer puñetazo **con la derecha.**
+
+Y **le falla.** Los dedos vendados no le cierran, se le abren solos a mitad de camino, y el golpe le llega a Stella flojo y torcido.
+
+*(Segunda humillación en dos días, y esta se la hizo su propio cuerpo.)*
+
+Se le pone la cara roja. Y entonces sí: le entra con la izquierda y con todo lo demás.
+
+Pelean. Stella es rápida, entrenada, pero pequeña; Vosk es un muro **incluso con una mano rota.** La tiene contra la pared cuando—
 
 Una **mano enorme y peluda** del tamaño de un yunque cae sobre el hombro de Vosk y lo aparta sin esfuerzo.
 

@@ -1421,14 +1421,33 @@ La tripulación de Theron mira a Stella como se mira a algo que no debería esta
 
 **VOSK** (matón, grande, cicatrices) le bloquea el paso. La mide.
 
+Y lo primero que le pone delante de la cara **no es un insulto.**
+
+Es **la mano derecha, vendada hasta la muñeca.**
+
 **VOSK**
+You see this?
+*(se la deja ahí, a un palmo de sus ojos)*
+It's yours.
+
+*(Y ahí está lo que le pasa a este hombre, y no es lo que parece: la otra noche, **delante de la tripulación entera**, el jefe tuvo que arrancarlo de la muñeca de una niña dormida con una descarga en la palma. **No la odia por lo que es. La odia por cómo quedó él.**)*
+
+**VOSK (CONT.)**
 The boss's pet. The bait that breathes.
-*(la empuja con un dedo)*
+*(la empuja — con la mano buena)*
 You know what happens to bait once the fish bites?
 
-Stella le aparta la mano de un golpe. Vosk sonríe —era lo que quería. Le tira el primer puñetazo.
+Stella le aparta la mano de un golpe. Vosk sonríe —era lo que quería.
 
-Pelean. Stella es rápida, entrenada, pero pequeña; Vosk es un muro. La tiene contra la pared cuando—
+Y tira el primer puñetazo **con la derecha.**
+
+Y **le falla.** Los dedos vendados no le cierran, se le abren solos a mitad de camino, y el golpe le llega a Stella flojo y torcido.
+
+*(Segunda humillación en dos días, y esta se la hizo su propio cuerpo.)*
+
+Se le pone la cara roja. Y entonces sí: le entra con la izquierda y con todo lo demás.
+
+Pelean. Stella es rápida, entrenada, pero pequeña; Vosk es un muro **incluso con una mano rota.** La tiene contra la pared cuando—
 
 Una **mano enorme y peluda** del tamaño de un yunque cae sobre el hombro de Vosk y lo aparta sin esfuerzo.
 
