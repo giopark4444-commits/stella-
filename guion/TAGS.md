@@ -207,11 +207,11 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | Qué | Dónde | Por qué |
 |---|---|---|
 | **LOS TRES PILOTOS** | SEC 7 · 9 | Mueren abriéndole el cielo y los exhiben en jaulas cerrando el acto 1 |
-| **STELLA 16, CON EL COLLAR Y SIN ARMADURA** | SEC 13 · 13B · 14 · 15 | **Cuatro secuencias seguidas.** El collar le tira las placas y queda con la ropa fina de debajo |
+| ~~STELLA CON EL COLLAR~~ ✅ | — | **`@stella-collar`** — resuelto 2026-08-30 |
 | **STELLA EN EL TANQUE, EN COMA** | SEC 29B | El último plano de la película |
-| **SELKA CON EL BRAZO BIOMECÁNICO** | SEC 29A · 29B **y toda la P2** | `@selka-theron-ship` **no lo lleva** — confirmado |
-| **VOSK CON LA MANO VENDADA** | SEC 11 · 13 | Variante corta |
-| **ENKO AGONIZANDO** | SEC 0 · 23B | Sale dos veces, y la cámara se para veinte segundos sobre él |
+| ~~SELKA CON EL BRAZO BIOMECÁNICO~~ ✅ | — | **`@selka-ending-1`** · **`@selka-ending-2`** — resuelto 2026-08-30 |
+| **VOSK CON LA MANO VENDADA** | SEC 11 · 13 | ⚠️ **Probablemente no hace falta hoja:** una mano vendada se describe en el prompt sobre `@vosk` |
+| **ENKO AGONIZANDO** | SEC 0 · 23B | ⚠️ **Probablemente tampoco:** «parpadea mal, el pecho sube poco» se describe sobre `@enko` |
 
 ## 🟠 Locaciones que sí faltan
 | Qué | Dónde |

@@ -1734,7 +1734,7 @@ CORTE.
 ## SEC. 13 — EXT. PLANETA CHATARRA — OPERACIÓN DE LA FLOTA — [STELLA: ~AÑO 2]
 
 > 🏷️ **LOCACIÓN** · `@loc_junk-planet`
-> 🏷️ **REPARTO** · `@brogu` · `@vosk` · `@theron` · `@stella-short-hair-theron`
+> 🏷️ **REPARTO** · `@brogu` · `@vosk` · `@theron` · `@stella-short-hair-theron → @stella-collar`
 > 🏷️ **PROPS** · `@prop_collar · @prop_junk-king-orb *(el amuleto)*`
 
 
@@ -1789,7 +1789,7 @@ Espera a que el ruido se aleje. Y **se va a buscar ayuda.**
 ## SEC. 13B — EXT. PLANETA CHATARRA — EL MERCADO — MÁS TARDE
 
 > 🏷️ **LOCACIÓN** · `@loc_junk-planet-market`
-> 🏷️ **REPARTO** · `@vosk` · `⚠️@stella-collar-FALTA`
+> 🏷️ **REPARTO** · `@vosk` · `@stella-collar`
 > 🏷️ **PROPS** · `@prop_collar`
 
 
@@ -1854,7 +1854,7 @@ Stella baja la cara y sigue andando.
 ## SEC. 14 — INT. ESTACIÓN DE APUESTAS — LA FOSA — DÍA
 
 > 🏷️ **LOCACIÓN** · `@loc_junk-planet-colisseum`
-> 🏷️ **REPARTO** · `@vosk` · `@carl` · `@char_lucy` · `@char_noah` · `@char_junk-planet-fight-host` · `@junk-king` · `⚠️@stella-collar-FALTA`
+> 🏷️ **REPARTO** · `@vosk` · `@carl` · `@char_lucy` · `@char_noah` · `@char_junk-planet-fight-host` · `@junk-king` · `@stella-collar`
 > 🏷️ **PROPS** · `@prop_collar · @prop_junk-king-orb *(el amuleto)*`
 
 
@@ -1892,7 +1892,7 @@ Por las rejas empujan a cuatro personas.
 
 **@char_lucy** —a la que los otros dos miran primero cuando algo sale mal. La única que no se ha puesto en guardia.
 
-Y **⚠️@stella-collar-FALTA**, la más pequeña de los cuatro, todavía con el collar puesto.
+Y **@stella-collar**, la más pequeña de los cuatro, todavía con el collar puesto.
 
 Que mira a los tres. Y después **levanta la cara a las gradas.**
 
@@ -1914,7 +1914,7 @@ Baja la cara. Vuelve a los tres.
 
 Y no entiende nada de lo otro.
 
-**⚠️@stella-collar-FALTA**
+**@stella-collar**
 Yo no soy humana.
 
 El presentador ni la mira. No deja de sonreírle al público.
@@ -1989,7 +1989,7 @@ La palma hacia arriba. Ofrecida.
 
 *(El gesto de su madre. El del parque. Y ni ella se da cuenta de que lo está haciendo.)*
 
-**⚠️@stella-collar-FALTA**
+**@stella-collar**
 Si nos matamos aquí, gana él.
 *(mira arriba, al palco)*
 Si salimos, salimos los cuatro.
@@ -2001,7 +2001,7 @@ El rugido de las gradas **cambia de tono.** Empiezan los abucheos. Esto no es lo
 **@char_noah**
 …¿Es una trampa?
 
-**⚠️@stella-collar-FALTA**
+**@stella-collar**
 Es una oferta.
 
 Y le da la mano. **Carl** se levanta detrás.
@@ -2011,7 +2011,7 @@ Y le da la mano. **Carl** se levanta detrás.
 **@char_lucy**
 Nadie sale de esta fosa.
 
-**⚠️@stella-collar-FALTA**
+**@stella-collar**
 Hoy sí.
 
 Y le da la mano también.
@@ -2029,7 +2029,7 @@ Y el techo de la fosa **se abre.**
 ## SEC. 15 — INT. ESTACIÓN DE APUESTAS — LA FOSA — CONTINUO
 
 > 🏷️ **LOCACIÓN** · `@loc_junk-planet-colisseum`
-> 🏷️ **REPARTO** · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · `@theron` · `@char_noah` · `@junk-king` · `⚠️@stella-collar-FALTA` · `@gix-giant`
+> 🏷️ **REPARTO** · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · `@theron` · `@char_noah` · `@junk-king` · `@stella-collar` · `@gix-giant`
 > 🏷️ **PROPS** · `@prop_collar · @prop_junk-king-orb *(el amuleto)* · ⚠️ 3 cristales de Nima — FALTAN · @mothership`
 
 
@@ -2045,7 +2045,7 @@ Lo que cae dentro de esa luz **deja de pesar.**
 
 **NOAH, CARL y LUCY** empiezan a subir, girando despacio, agarrándose unos a otros. Las gradas se vuelven locas.
 
-Y **⚠️@stella-collar-FALTA** también sube.
+Y **@stella-collar** también sube.
 
 Sube tres metros.
 
@@ -2145,7 +2145,7 @@ Vosk cae de bruces, libre, con la marca todavía en el cuello. La mira sin enten
 *(aturdido)*
 …Yo te entregué. Te vendí. ¿Por qué—?
 
-**⚠️@stella-collar-FALTA**
+**@stella-collar**
 Porque yo no soy tú.
 
 *(Y aquí acaba la traición de Vosk. No porque entendiera nada de los naiel, ni porque cambiara de opinión sobre su raza —**no cambia**—, sino porque una cría a la que él vendió **volvió por él cuando ya tenía la salida delante.**)*
@@ -2168,7 +2168,7 @@ Al pecho del **@junk-king**, y a la cosa pequeña y vieja que le cuelga del cuel
 
 *(Y que quede claro que **no acaba de verlo:** lleva una hora sin poder dejar de mirarlo. Lo localizó **antes** de que empezara la pelea, y desde entonces se ha peleado con tres humanos a mano limpia con un collar al cuello, se ha dejado tirar al suelo por catorce guardias y se ha tirado de una luz que ya la estaba subiendo — **y esa cosa no se ha movido del pecho de ese hombre en toda la noche.** Veinte metros. Y la nave se va.)*
 
-**⚠️@stella-collar-FALTA**
+**@stella-collar**
 *(para sí, ya decidida)*
 …No.
 
@@ -4389,15 +4389,15 @@ Por fin sé adónde va a llevarlo.
 ## SEC. 29A — INT. NAVE NODRIZA DE THERON — HOSPITAL — DÍA
 
 > 🏷️ **LOCACIÓN** · `@loc_modershipo-hospital`
-> 🏷️ **REPARTO** · `@nima` · `@selka-theron-ship`
-> 🏷️ **PROPS** · `⚠️ Selka con el brazo biomecánico — FALTA`
+> 🏷️ **REPARTO** · `@nima` · `@selka-no-arm-ver-1 → @selka-ending-1`
+> 🏷️ **PROPS** · `@selka-ending-1 *(el brazo nuevo)* · ⚠️ 3 cristales de Nima — FALTAN`
 
 
 > *`@loc_modershipo-hospital`. Ocurre **al mismo tiempo** que la SEC 29B, dos puertas más allá.*
 
 Luz blanca, quirúrgica. Nada de la calidez del resto de la nave.
 
-**@selka-theron-ship**, boca arriba sobre la mesa. Inconsciente desde el palacio. Le han cortado la manga del uniforme imperial hasta el hombro, y lo que queda del brazo está abierto y sostenido en el aire por un campo de luz.
+**@selka-no-arm-ver-1 → @selka-ending-1**, boca arriba sobre la mesa. Inconsciente desde el palacio. Le han cortado la manga del uniforme imperial hasta el hombro, y lo que queda del brazo está abierto y sostenido en el aire por un campo de luz.
 
 No es lo único: la cosa la estuvo golpeando contra una cubierta de metal sujetándola de un pie. **Está entera de un color que no es el suyo.**
 
@@ -4411,7 +4411,7 @@ Y Selka **abre los ojos.**
 
 Reacciona antes de entender: se incorpora de golpe y la mano que le queda sale disparada a buscar un arma que no está. Nima no se aparta un centímetro. Ni levanta la voz.
 
-**@selka-theron-ship**
+**@selka-no-arm-ver-1 → @selka-ending-1**
 *(la voz destrozada)*
 ¿Dónde está mi hermana.
 
@@ -4426,7 +4426,7 @@ A Selka se le va todo el cuerpo hacia atrás, contra la mesa. Se queda mirando e
 
 Y solo entonces gira la cabeza y ve lo que le están montando en el hombro.
 
-**@selka-theron-ship (CONT.)**
+**@selka-no-arm-ver-1 → @selka-ending-1 (CONT.)**
 *(sin fuerza)*
 Ustedes saben lo que soy.
 
@@ -4448,7 +4448,7 @@ Selka se le queda mirando.
 
 *(Veinte años obedeciendo. Es la primera vez en su vida que alguien le pregunta **antes** de tocarla. Y no sabe cómo se responde a eso.)*
 
-**@selka-theron-ship**
+**@selka-no-arm-ver-1 → @selka-ending-1**
 *(muy bajo)*
 …Sí.
 
@@ -4465,8 +4465,8 @@ Selka lo mira. Y **lo abre.**
 ## SEC. 29B — INT. NAVE NODRIZA DE THERON — SALA DE RECUPERACIÓN — DÍA
 
 > 🏷️ **LOCACIÓN** · `@loc_mothership-recovery-room`
-> 🏷️ **REPARTO** · `@nima` · `@theron` · `⚠️@stella-tanque-FALTA` · `⚠️@selka-brazo-biomecanico-FALTA` · `@naio-prison-2`
-> 🏷️ **PROPS** · `⚠️ Selka con el brazo biomecánico — FALTA`
+> 🏷️ **REPARTO** · `@nima` · `@theron` · `⚠️@stella-tanque-FALTA` · `@selka-ending-1` · `@naio-prison-2`
+> 🏷️ **PROPS** · `@selka-ending-1`
 
 
 > *`@loc_mothership-recovery-room`.*
@@ -4504,7 +4504,7 @@ Yo sé por dónde se abre.
 
 Theron lo mira largo. Un cazador de veinte mil años, midiendo al viejo que acaba de convertirse en su mapa.
 
-**⚠️@selka-brazo-biomecanico-FALTA** entra. Lleva **el brazo nuevo** colgando del hombro como algo prestado, todavía sin creérselo. La cara, la de alguien que perdió todo en una sola noche y todavía no sabe cómo se respira con eso.
+**@selka-ending-1** entra. Lleva **el brazo nuevo** colgando del hombro como algo prestado, todavía sin creérselo. La cara, la de alguien que perdió todo en una sola noche y todavía no sabe cómo se respira con eso.
 
 Se acerca a **Naio.** Su padre. Lo mira.
 
@@ -4514,7 +4514,7 @@ Y no siente nada.
 
 Se queda un segundo mirando esos dedos suyos que están agarrando a su padre sin enterarse. Y **cambia de mano.**
 
-**⚠️@selka-brazo-biomecanico-FALTA**
+**@selka-ending-1**
 *(sin casi voz)*
 Perdóname.
 *(beat)*
@@ -4541,7 +4541,7 @@ Ya lo dije. Ya puedo decirlo.
 
 Selka se vuelve hacia el tanque. Apoya la **palma** —la de verdad, la que siente— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que se tiró por un ducto sellado para llegar a ella, que se negó a matarla, que cruzó un universo para volver.
 
-**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
+**@selka-ending-1 (CONT.)**
 *(la frente contra el cristal)*
 No sabía que eras tú.
 
@@ -4549,7 +4549,7 @@ Silencio. El zumbido de la nave.
 
 Y entonces —porque no hay nadie mirando, y porque es la única forma que va a tener nunca de hablar con su hermana— **se sienta en el suelo, con la espalda contra el tanque.** Y le cuenta.
 
-**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
+**@selka-ending-1 (CONT.)**
 Yo tenía nueve años cuando me hizo esto en el ojo.
 *(se lo toca)*
 Porque dudé. Yo qué sé por qué dudé. Le pegaba a una máquina y me frenaba, y no sabía por qué me frenaba.
@@ -4558,7 +4558,7 @@ Ahora sí lo sé. Es que **había alguien.** Aquí dentro. Muy al fondo. Y él l
 
 Cambia de postura. Habla con la mano nueva encima de la rodilla, como quien no sabe todavía dónde ponerla.
 
-**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
+**@selka-ending-1 (CONT.)**
 Hace seis años me desperté en mi cuarto con una mujer muerta en el suelo. Pelo blanco. Como el mío.
 *(le cuesta)*
 No sabía quién era. Estuve seis años sin poder quitármela de encima y **sin saber quién era.**
@@ -4567,14 +4567,14 @@ Era nuestra madre. Y estuvo en mi cuarto. Y yo no me acuerdo.
 
 Silencio largo.
 
-**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
+**@selka-ending-1 (CONT.)**
 No me acuerdo de ella, Stella. De ninguna. Ni de ella, ni de él, ni de ti.
 *(y aquí sí se le rompe)*
 Me robaron los recuerdos de mi propia familia y **ni siquiera puedo echarlos de menos**, porque no sé qué es lo que falta.
 
 Apoya la nuca en el cristal. Mira al techo.
 
-**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
+**@selka-ending-1 (CONT.)**
 Tú te acuerdas de todo. Por las dos.
 *(beat)*
 Así que despierta.
@@ -4589,7 +4589,7 @@ Se queda ahí sentada, en el suelo, hablándole a un cristal.
 
 Después se levanta. Y le dice lo que vino a decirle.
 
-**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
+**@selka-ending-1 (CONT.)**
 Despierta. Y déjame decírtelo a la cara.
 
 Y desde el fondo del coma, algo se le enciende.

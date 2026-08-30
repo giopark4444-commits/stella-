@@ -46,10 +46,10 @@ V = {  # SEC : {NOMBRE: tag}
  "11": {"STELLA":"@stella-short-hair-theron"},
  "12": {"VERA":"@char_vera-rebel-hoodie"},
  "12A":{"SELKA":"@selka-girl","VORTHAM":"@vortham-no-coat"},
- "13": {"STELLA":"@stella-short-hair-theron"},
- "13B":{"STELLA":"⚠️@stella-collar-FALTA"},
- "14": {"STELLA":"⚠️@stella-collar-FALTA"},
- "15": {"STELLA":"⚠️@stella-collar-FALTA","GIX":"@gix-giant"},
+ "13": {"STELLA":"@stella-short-hair-theron → @stella-collar"},
+ "13B":{"STELLA":"@stella-collar"},
+ "14": {"STELLA":"@stella-collar"},
+ "15": {"STELLA":"@stella-collar","GIX":"@gix-giant"},
  "15B":{"STELLA":"@stella-short-hair-theron"},
  "16": {"STELLA":"@stella-long-hair-theron","GIX":"@gix"},
  "17": {"STELLA":"@stella-long-hair-theron"},
@@ -71,8 +71,8 @@ V = {  # SEC : {NOMBRE: tag}
  "27": {"STELLA":"@char_stella-adult-armor","SELKA":"@selka-no-arm-ver-1",
         "VORTHAM":"@vortham-parasite","GIX":"@gix-giant"},
  "28": {"VORTHAM":"@vortham-parasite"},
- "29A":{"SELKA":"@selka-theron-ship"},
- "29B":{"STELLA":"⚠️@stella-tanque-FALTA","SELKA":"⚠️@selka-brazo-biomecanico-FALTA","NAIO":"@naio-prison-2"},
+ "29A":{"SELKA":"@selka-no-arm-ver-1 → @selka-ending-1"},
+ "29B":{"STELLA":"⚠️@stella-tanque-FALTA","SELKA":"@selka-ending-1","NAIO":"@naio-prison-2"},
 }
 
 def rep_factory(mapa):
@@ -144,7 +144,7 @@ PROPS = {
  "20B":"⚠️ mapa del salón — FALTA · ⚠️ proyector — FALTA · ⚠️ 3 cristales — FALTAN",
  "20D":"@prop_stella-bracelet · @stella-therons-armor",
  "23B":"@prop_palace-cover *(la placa soldada)*","0":"@prop_palace-cover *(la placa soldada)*",
- "29A":"⚠️ Selka con el brazo biomecánico — FALTA","29B":"⚠️ Selka con el brazo biomecánico — FALTA",
+ "29A":"@selka-ending-1 *(el brazo nuevo)* · ⚠️ 3 cristales de Nima — FALTAN","29B":"@selka-ending-1",
  "24":"@prop_orb · @prop_stella-bracelet","25":"@prop_orb · @prop_orbe-in-room",
  "27":"@prop_orb · @prop_stella-bracelet","28":"@mothership",
 }
