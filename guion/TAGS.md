@@ -183,9 +183,9 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | Su armadura ver 1.1 | `@prop_stella-armor-ver-1-1` |
 | **EL COLLAR DE CONTENCIÓN** ✅ | `@prop_collar` |
 | **El Orbe** | `@prop_orb` · `@prop_orbe-in-room` |
-| **El «orbe locker»** ⚠️ *¿es la caja de la mano de la SEC 3?* | `@prop_orbe-locker` |
-| **«Junk king orb»** ⚠️ *¿es el AMULETO del Rey del Basurero?* | `@prop_junk-king-orb` |
-| **«Palace cover»** ⚠️ *¿es la PLACA SOLDADA de la cúspide?* | `@prop_palace-cover` |
+| ✅ **LA CAJA DE LA MANO** *(SEC 3)* | `@prop_orbe-locker` — **confirmado por Gio 2026-08-30** |
+| ✅ **EL AMULETO** *(SEC 14 · 15 · y P2)* | `@prop_junk-king-orb` — **confirmado** |
+| ✅ **LA PLACA SOLDADA DE LA CÚSPIDE** *(SEC 0 · 23B)* | `@prop_palace-cover` — **confirmada** |
 
 ## Naves
 | Qué es | Tag |
@@ -209,6 +209,7 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 | **LOS TRES PILOTOS** | SEC 7 · 9 | Mueren abriéndole el cielo y los exhiben en jaulas cerrando el acto 1 |
 | **STELLA 16, CON EL COLLAR Y SIN ARMADURA** | SEC 13 · 13B · 14 · 15 | **Cuatro secuencias seguidas.** El collar le tira las placas y queda con la ropa fina de debajo |
 | **STELLA EN EL TANQUE, EN COMA** | SEC 29B | El último plano de la película |
+| **SELKA CON EL BRAZO BIOMECÁNICO** | SEC 29A · 29B **y toda la P2** | `@selka-theron-ship` **no lo lleva** — confirmado |
 | **VOSK CON LA MANO VENDADA** | SEC 11 · 13 | Variante corta |
 | **ENKO AGONIZANDO** | SEC 0 · 23B | Sale dos veces, y la cámara se para veinte segundos sobre él |
 
@@ -237,11 +238,14 @@ a Stella** — o el alojamiento del Orbe en su sala. Si es la caja, ya no hace f
 **el Rey del Basurero** `@junk-king` *(y hay `@junk-queen`)* · **`@robot-g45` confirmado** ·
 **VERA MAYOR** `@vera-rebel` · `@char_vera-rebel-hoodie` · `@vera-damaged-1` · `@vera-little-damaged`
 
-## ❓ CUATRO CONFIRMACIONES DE UNA LÍNEA
-1. **`@prop_junk-king-orb`** — ¿es **el amuleto** que Stella le arranca del cuello?
-2. **`@prop_palace-cover`** — ¿es **la placa soldada** de la cúspide?
-3. **`@prop_orbe-locker`** — ¿es **la caja** donde Naio le mete la mano en la SEC 3?
-4. **`@selka-theron-ship`** — ¿lleva ya **el brazo biomecánico**, o es sin brazo?
+## ✅ LAS CUATRO CONFIRMACIONES, RESUELTAS (Gio, 2026-08-30)
+1. ✅ **`@prop_junk-king-orb` ES el amuleto** que Stella le arranca del cuello al Rey del Basurero.
+2. ✅ **`@prop_palace-cover` ES la placa soldada** de la cúspide. *(Con eso la cúspide probablemente
+   no necesita hoja propia: `@loc_facade` + esta placa. **Comprobarlo en la primera generación.**)*
+3. ✅ **`@prop_orbe-locker` ES la caja** donde Naio le mete la mano izquierda en la SEC 3. Llevaba
+   semanas sin resolverse.
+4. ❌ **`@selka-theron-ship` NO lleva el brazo biomecánico.** Sigue faltando **Selka con el brazo
+   biomecánico** — SEC 29A (segunda mitad), SEC 29B **y toda la Película 2.**
 
 ---
 

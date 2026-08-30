@@ -19,7 +19,7 @@
 
 > 🏷️ **LOCACIÓN** · `@loc_erdia-square-destroyed · @loc_facade · @loc_duct`
 > 🏷️ **REPARTO** · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · `@boro` · `@hessa` · `@carl` · `@char_lucy` · `@char_noah`
-> 🏷️ **PROPS** · `@prop_palace-cover *(¿la placa?)*`
+> 🏷️ **PROPS** · `@prop_palace-cover *(la placa soldada)*`
 
 
 > *Apertura en frío, antes del título. Sin rótulo de año, sin nombres, sin una sola línea de diálogo.
@@ -603,7 +603,7 @@ Sin mirar ni una vez cómo se aleja su madre.
 
 > 🏷️ **LOCACIÓN** · `@loc_erdia-palace-lab`
 > 🏷️ **REPARTO** · `@stella-armor` · `@vera-armor` · `@selka-baby` · `@naio` · `@vortham`
-> 🏷️ **PROPS** · `@prop_orbe-locker *(¿la caja?)* · @prop_stella-armor-ver-1-1 · @prop_stella-bracelet`
+> 🏷️ **PROPS** · `@prop_orbe-locker *(la caja de la mano)* · @prop_stella-armor-ver-1-1 · @prop_stella-bracelet`
 
 
 > *En esta habitación no hay nadie más: **un padre, una madre, una niña y una bebé.** Y se habla del
@@ -1735,7 +1735,7 @@ CORTE.
 
 > 🏷️ **LOCACIÓN** · `@loc_junk-planet`
 > 🏷️ **REPARTO** · `@brogu` · `@vosk` · `@theron` · `@stella-short-hair-theron`
-> 🏷️ **PROPS** · `@prop_collar · @prop_junk-king-orb *(¿el amuleto?)*`
+> 🏷️ **PROPS** · `@prop_collar · @prop_junk-king-orb *(el amuleto)*`
 
 
 Una misión de la flota de Theron. Stella, ya un poco mayor, más dura, se mueve entre escombros con un grupo. Brogu cubre. Vosk va al frente.
@@ -1855,7 +1855,7 @@ Stella baja la cara y sigue andando.
 
 > 🏷️ **LOCACIÓN** · `@loc_junk-planet-colisseum`
 > 🏷️ **REPARTO** · `@vosk` · `@carl` · `@char_lucy` · `@char_noah` · `@char_junk-planet-fight-host` · `@junk-king` · `⚠️@stella-collar-FALTA`
-> 🏷️ **PROPS** · `@prop_collar · @prop_junk-king-orb *(¿el amuleto?)*`
+> 🏷️ **PROPS** · `@prop_collar · @prop_junk-king-orb *(el amuleto)*`
 
 
 `@loc_junk-planet-colisseum`. Un pozo de combate rodeado de gradas donde se apuesta a muerte.
@@ -2030,7 +2030,7 @@ Y el techo de la fosa **se abre.**
 
 > 🏷️ **LOCACIÓN** · `@loc_junk-planet-colisseum`
 > 🏷️ **REPARTO** · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · `@theron` · `@char_noah` · `@junk-king` · `⚠️@stella-collar-FALTA` · `@gix-giant`
-> 🏷️ **PROPS** · `@prop_collar · @prop_junk-king-orb · ⚠️ 3 cristales de Nima — FALTAN · @mothership`
+> 🏷️ **PROPS** · `@prop_collar · @prop_junk-king-orb *(el amuleto)* · ⚠️ 3 cristales de Nima — FALTAN · @mothership`
 
 
 El techo de la fosa se raja y entra **LA NAVE**, bajando sobre el pozo, enorme y fuera de lugar.
@@ -3546,7 +3546,7 @@ Todavía no.
 
 > 🏷️ **LOCACIÓN** · `@loc_erdia-square-destroyed · @loc_facade`
 > 🏷️ **REPARTO** · `@brogu` · `@nima` · `@vosk` · `@gara` · `@enko` · `@boro` · `@hessa` · `@char_noah` · `@rebel-people` · `@char_stella-adult-armor`
-> 🏷️ **PROPS** · `@prop_palace-cover *(¿la placa?)*`
+> 🏷️ **PROPS** · `@prop_palace-cover *(la placa soldada)*`
 
 
 > *La **SEC 0** abrió la película con este mismo momento, en abierto y sin nombres. Aquí va
@@ -4390,6 +4390,7 @@ Por fin sé adónde va a llevarlo.
 
 > 🏷️ **LOCACIÓN** · `@loc_modershipo-hospital`
 > 🏷️ **REPARTO** · `@nima` · `@selka-theron-ship`
+> 🏷️ **PROPS** · `⚠️ Selka con el brazo biomecánico — FALTA`
 
 
 > *`@loc_modershipo-hospital`. Ocurre **al mismo tiempo** que la SEC 29B, dos puertas más allá.*
@@ -4464,7 +4465,8 @@ Selka lo mira. Y **lo abre.**
 ## SEC. 29B — INT. NAVE NODRIZA DE THERON — SALA DE RECUPERACIÓN — DÍA
 
 > 🏷️ **LOCACIÓN** · `@loc_mothership-recovery-room`
-> 🏷️ **REPARTO** · `@nima` · `@theron` · `⚠️@stella-tanque-FALTA` · `@selka-theron-ship` · `@naio-prison-2`
+> 🏷️ **REPARTO** · `@nima` · `@theron` · `⚠️@stella-tanque-FALTA` · `⚠️@selka-brazo-biomecanico-FALTA` · `@naio-prison-2`
+> 🏷️ **PROPS** · `⚠️ Selka con el brazo biomecánico — FALTA`
 
 
 > *`@loc_mothership-recovery-room`.*
@@ -4502,7 +4504,7 @@ Yo sé por dónde se abre.
 
 Theron lo mira largo. Un cazador de veinte mil años, midiendo al viejo que acaba de convertirse en su mapa.
 
-**@selka-theron-ship** entra. Lleva **el brazo nuevo** colgando del hombro como algo prestado, todavía sin creérselo. La cara, la de alguien que perdió todo en una sola noche y todavía no sabe cómo se respira con eso.
+**⚠️@selka-brazo-biomecanico-FALTA** entra. Lleva **el brazo nuevo** colgando del hombro como algo prestado, todavía sin creérselo. La cara, la de alguien que perdió todo en una sola noche y todavía no sabe cómo se respira con eso.
 
 Se acerca a **Naio.** Su padre. Lo mira.
 
@@ -4512,7 +4514,7 @@ Y no siente nada.
 
 Se queda un segundo mirando esos dedos suyos que están agarrando a su padre sin enterarse. Y **cambia de mano.**
 
-**@selka-theron-ship**
+**⚠️@selka-brazo-biomecanico-FALTA**
 *(sin casi voz)*
 Perdóname.
 *(beat)*
@@ -4539,7 +4541,7 @@ Ya lo dije. Ya puedo decirlo.
 
 Selka se vuelve hacia el tanque. Apoya la **palma** —la de verdad, la que siente— en el cristal frío, justo sobre la cara de su hermana dormida. Esa hermana que se tiró por un ducto sellado para llegar a ella, que se negó a matarla, que cruzó un universo para volver.
 
-**@selka-theron-ship (CONT.)**
+**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
 *(la frente contra el cristal)*
 No sabía que eras tú.
 
@@ -4547,7 +4549,7 @@ Silencio. El zumbido de la nave.
 
 Y entonces —porque no hay nadie mirando, y porque es la única forma que va a tener nunca de hablar con su hermana— **se sienta en el suelo, con la espalda contra el tanque.** Y le cuenta.
 
-**@selka-theron-ship (CONT.)**
+**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
 Yo tenía nueve años cuando me hizo esto en el ojo.
 *(se lo toca)*
 Porque dudé. Yo qué sé por qué dudé. Le pegaba a una máquina y me frenaba, y no sabía por qué me frenaba.
@@ -4556,7 +4558,7 @@ Ahora sí lo sé. Es que **había alguien.** Aquí dentro. Muy al fondo. Y él l
 
 Cambia de postura. Habla con la mano nueva encima de la rodilla, como quien no sabe todavía dónde ponerla.
 
-**@selka-theron-ship (CONT.)**
+**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
 Hace seis años me desperté en mi cuarto con una mujer muerta en el suelo. Pelo blanco. Como el mío.
 *(le cuesta)*
 No sabía quién era. Estuve seis años sin poder quitármela de encima y **sin saber quién era.**
@@ -4565,14 +4567,14 @@ Era nuestra madre. Y estuvo en mi cuarto. Y yo no me acuerdo.
 
 Silencio largo.
 
-**@selka-theron-ship (CONT.)**
+**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
 No me acuerdo de ella, Stella. De ninguna. Ni de ella, ni de él, ni de ti.
 *(y aquí sí se le rompe)*
 Me robaron los recuerdos de mi propia familia y **ni siquiera puedo echarlos de menos**, porque no sé qué es lo que falta.
 
 Apoya la nuca en el cristal. Mira al techo.
 
-**@selka-theron-ship (CONT.)**
+**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
 Tú te acuerdas de todo. Por las dos.
 *(beat)*
 Así que despierta.
@@ -4587,7 +4589,7 @@ Se queda ahí sentada, en el suelo, hablándole a un cristal.
 
 Después se levanta. Y le dice lo que vino a decirle.
 
-**@selka-theron-ship (CONT.)**
+**⚠️@selka-brazo-biomecanico-FALTA (CONT.)**
 Despierta. Y déjame decírtelo a la cara.
 
 Y desde el fondo del coma, algo se le enciende.

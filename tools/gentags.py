@@ -72,7 +72,7 @@ V = {  # SEC : {NOMBRE: tag}
         "VORTHAM":"@vortham-parasite","GIX":"@gix-giant"},
  "28": {"VORTHAM":"@vortham-parasite"},
  "29A":{"SELKA":"@selka-theron-ship"},
- "29B":{"STELLA":"⚠️@stella-tanque-FALTA","SELKA":"@selka-theron-ship","NAIO":"@naio-prison-2"},
+ "29B":{"STELLA":"⚠️@stella-tanque-FALTA","SELKA":"⚠️@selka-brazo-biomecanico-FALTA","NAIO":"@naio-prison-2"},
 }
 
 def rep_factory(mapa):
@@ -129,21 +129,22 @@ cabecera, cuerpo = md[:md.index("# ACTO")], md[md.index("# ACTO"):]
 NOM = re.compile(r"\*\*[\"“]?([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ0-9 ]{1,24})[\"”]?( \(CONT\.\))?([.,:;]?)\*\*")
 
 PROPS = {
- "3":"@prop_orbe-locker *(¿la caja?)* · @prop_stella-armor-ver-1-1 · @prop_stella-bracelet",
+ "3":"@prop_orbe-locker *(la caja de la mano)* · @prop_stella-armor-ver-1-1 · @prop_stella-bracelet",
  "5":"@prop_orbe-in-room · @prop_orb · @prop_stella-bracelet · ⚠️ escudo de Vera — FALTA · ⚠️ muñequera — FALTA",
  "4":"⚠️ escudo de Vera — FALTA · @prop_stella-bracelet",
  "6":"⚠️ muñequera — FALTA · @prop_stella-bracelet",
  "7":"@ship-stella · @ship-enemy-erdia · @ship-4-enemyy · @ship-erdia-1",
  "8":"@ship-stella · @prop_orb","9":"@ship-enemy-erdia",
  "10":"@prop_orb · @prop_stella-bracelet","10A":"@prop_stella-bracelet",
- "13":"@prop_collar · @prop_junk-king-orb *(¿el amuleto?)*",
- "13B":"@prop_collar","14":"@prop_collar · @prop_junk-king-orb *(¿el amuleto?)*",
- "15":"@prop_collar · @prop_junk-king-orb · ⚠️ 3 cristales de Nima — FALTAN · @mothership",
+ "13":"@prop_collar · @prop_junk-king-orb *(el amuleto)*",
+ "13B":"@prop_collar","14":"@prop_collar · @prop_junk-king-orb *(el amuleto)*",
+ "15":"@prop_collar · @prop_junk-king-orb *(el amuleto)* · ⚠️ 3 cristales de Nima — FALTAN · @mothership",
  "16":"⚠️ espada, lanza y arco — FALTAN · @prop_stella-armor-ver-1-1",
  "18":"⚠️ proyector de Vera — FALTA",
  "20B":"⚠️ mapa del salón — FALTA · ⚠️ proyector — FALTA · ⚠️ 3 cristales — FALTAN",
  "20D":"@prop_stella-bracelet · @stella-therons-armor",
- "23B":"@prop_palace-cover *(¿la placa?)*","0":"@prop_palace-cover *(¿la placa?)*",
+ "23B":"@prop_palace-cover *(la placa soldada)*","0":"@prop_palace-cover *(la placa soldada)*",
+ "29A":"⚠️ Selka con el brazo biomecánico — FALTA","29B":"⚠️ Selka con el brazo biomecánico — FALTA",
  "24":"@prop_orb · @prop_stella-bracelet","25":"@prop_orb · @prop_orbe-in-room",
  "27":"@prop_orb · @prop_stella-bracelet","28":"@mothership",
 }
