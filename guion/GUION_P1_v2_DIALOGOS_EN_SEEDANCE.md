@@ -1,5 +1,5 @@
 # STELLA FUGAZ · "EL NODO DE ERDIA"
-## Guion — Película 1 (v2.5) · Acción en español · Diálogos en inglés
+## Guion — Película 1 (v2.6) · Acción en español · Diálogos en inglés
 
 > **Versión híbrida.** Todo en español —encabezados, acción, acotaciones y nombres de personaje—
 > y **solo lo que los personajes dicen en voz alta, en inglés**.
@@ -1435,7 +1435,7 @@ Es **un rastro.**
 
 La tripulación de @Theron mira a @Stella como se mira a algo que no debería estar a bordo. La empujan. La ignoran. Le tiran un plato de comida al piso.
 
-*(Y ahora sabemos por qué, aunque ella no: **no la odian por lo que hizo. La odian por lo que es.** Lleva un día a bordo y ya arrastra una guerra que terminó antes de que naciera su bisabuela.)*
+*(Y ahora sabemos por qué, aunque ella no: **no la odian por lo que hizo. La odian por lo que es.** Lleva tres días a bordo y ya arrastra una guerra que terminó antes de que naciera su bisabuela.)*
 
 **@VOSK** (matón, grande, cicatrices) le bloquea el paso. La mide.
 

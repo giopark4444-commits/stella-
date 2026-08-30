@@ -559,6 +559,35 @@
 >   **pelo corto** → **traje de @Nima**, ligero y a su medida y **sin muñequera** (SEC 16, año 3) →
 >   **traje de @Theron + pelo teñido de oscuro + brazaletes rehechos** (SEC 20D, acto 3).
 >
+> **Revisión v2.6 (2026-08-30) — la revisión de guionista:**
+> • **ERDIA PASA DE 24 A 20 AÑOS.** @Stella se ausenta **cinco** para ella; dilatación 1:4 intacta.
+>   Vuelve con **19**, @Selka tiene **21** y sigue siendo mayor que ella. @Vera murió hace **seis**.
+> • **@STELLA NO SALTA ENTRE UNIVERSOS: SE ENCIENDE.** Su nave se queda muerta en el vacío y toda la
+>   energía del Orbe **sale** — una bengala visible desde media galaxia. **Quien salta es la Nodriza**,
+>   siguiendo esa lectura. Y por eso el acto 2 existe: **el salto lo decide @Theron.**
+> • **LA SALA DEL TRONO ES LA SALA DEL ORBE.** La misma habitación veinte años después — y por eso
+>   @Stella se cree que la figura de pelo blanco del fondo es su madre.
+> • **EL ORBE ESTÁ ENCRIPTADO EN LA FAMILIA, NO EN @STELLA.** Vortham no puede tocarlo: por eso conserva
+>   a @Naio y **por eso crió a @Selka — no para tener una General, sino para tener una mano.**
+> • **SÍ HAY ARMAS, Y LA REGLA ES DE estirpe:** el que tiene poder no carga nada; **el que no, carga
+>   acero.** @Noah espada · Carl lanza · Lucy arco, fabricadas por @Nima.
+> • **EL PLANETA CHATARRA, REESCRITO ENTERO** — cuatro secuencias y una sola idea: **qué es @Stella sin
+>   lo que lleva dentro.** El collar le apaga **todo**, incluidos los brazaletes. Nueva **SEC 13B (el
+>   mercado)** y nueva **SEC 15B (el tinte)**, que se adelanta tres años y cambia de motivo.
+> • **@GIX VUELVE TRES VECES EN EL ACTO 2** (la fosa, los cometas, el puerto) — y @Stella **creía que
+>   había muerto por ella**, así que la fosa es un reencuentro, no una invocación.
+> • **EL CLÍMAX LO ABRE @STELLA.** Abre los ojos, manda fuera un puñado de @Gix, y **ese segundo es el que
+>   le cuesta las dos** a Vortham. Brogu las carga a las dos —«Aguanta, @Stella»— y **@Theron elige a once
+>   personas** en vez de a su presa.
+> • **ENKO AGONIZA EN LA APERTURA Y SE MUERE EN LA 23B**, viendo reventar la cúspide. Con eso la SEC 23B
+>   deja de ser una repetición y pasa a ser **la continuación**.
+> • **ERDIA TIENE PRINCIPIO Y FINAL:** la **tercera bajada** al planeta seco, @Stella tocando la tierra y
+>   rompiéndose — y al final, **cientos de personas mirando irse el palacio sin entender nada.**
+> • **SEC 20B (el montaje de los años) y SEC 20C (el puerto estelar) son nuevas.** Y la muñequera **ya
+>   no escribe: es un color** (azul cargada, rojo parpadeante).
+> • Además: los tres pilotos se cobran, el susurro de @Selka se paga, @Vosk arrastra la quemadura,
+>   @Stella **abre todas las celdas**, y se deja capturar a propósito. **40 secuencias.**
+>
 > **Revisión v2.5 (2026-08-28):**
 > • **APERTURA EN FRÍO (SEC 0).** La película ya no empieza por el principio: arranca con **la batalla
 >   entera** — Brogu, @Nima, @Noah, @Vosk, Gara y Enko aguantando una marea de robots y **abriendo un
@@ -2066,7 +2095,7 @@ Es **un rastro.**
 
 La tripulación de @Theron mira a @Stella como se mira a algo que no debería estar a bordo. La empujan. La ignoran. Le tiran un plato de comida al piso.
 
-*(Y ahora sabemos por qué, aunque ella no: **no la odian por lo que hizo. La odian por lo que es.** Lleva un día a bordo y ya arrastra una guerra que terminó antes de que naciera su bisabuela.)*
+*(Y ahora sabemos por qué, aunque ella no: **no la odian por lo que hizo. La odian por lo que es.** Lleva tres días a bordo y ya arrastra una guerra que terminó antes de que naciera su bisabuela.)*
 
 **@VOSK** (matón, grande, cicatrices) le bloquea el paso. La mide.
 
