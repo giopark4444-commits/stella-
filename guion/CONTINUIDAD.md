@@ -41,10 +41,14 @@ plano de la película.**
 
 **⑦ LA LLAVE APARECE A MITAD DE LA SEC 3.** Antes de la caja, la palma izquierda está limpia.
 
-**⑧ LOS BRAZALETES SON DOS, Y VAN EN LOS DOS PLANOS.** 🔒 Stella lleva **uno en cada muñeca** desde
-la SEC 3 hasta el final, y le sirve **cualquiera de los dos**. No se le quitan nunca: son el mando de
-todo lo que le entra y le sale del cuerpo. Si en un plano solo se le ve una muñeca, en la otra
-**también hay brazalete.**
+**⑧ LOS BRAZALETES SON DOS, EN TODOS LOS PLANOS, SIN EXCEPCIÓN.** 🔒 Uno en cada muñeca, desde la
+SEC 3 hasta el tanque del final. **No se le quitan nunca** — ni durmiendo, ni en la fosa con el
+collar puesto, ni en coma. Y **le sirve cualquiera de los dos, indistintamente**: no hay que acordarse
+de cuál. Si en un plano solo se le ve una muñeca, **en la otra también hay brazalete.**
+
+⚠️ **No son el monitor.** El monitor del traje (el que marca «MAX») es otra cosa, va con el traje y
+puede no estar. Los brazaletes están siempre. Y **el resplandor azul sale por debajo del brazalete
+izquierdo**, que es el del lado de la llave — nunca del derecho, nunca del monitor.
 
 **⑨ EL ORBE SOLO SE MATERIALIZA COMO ESFERA CUATRO VECES EN TODA LA PELÍCULA.** El resto del tiempo
 es **un resplandor azul debajo del brazalete**, nunca una bola visible:

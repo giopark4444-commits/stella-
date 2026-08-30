@@ -59,9 +59,13 @@
 >   **① LA PALMA IZQUIERDA es donde viven.** Ahí se la graba Naio en la SEC 3, ahí se integra el Orbe
 >   en la SEC 5, ahí entra Gix cuando se sacrifica, y **de ahí se lo arranca Selka en la SEC 27.**
 >   Todo lo que entra o sale del cuerpo de Stella **entra y sale por la palma.**
->   **② LOS BRAZALETES son el mando** —lleva uno en cada muñeca y le sirve **cualquiera de los dos**.
->   No guardan nada: **ordenan.** Ella se toca un brazalete y la cosa sale; se lo vuelve a tocar y la
->   cosa entra.
+>   **② LOS BRAZALETES son el mando. SIEMPRE SON DOS, uno en cada muñeca, en todos los planos de la
+>   película** — desde que su padre se los pone en la SEC 3 hasta el tanque del final. **No se le
+>   quitan nunca**, ni para dormir, ni en la fosa, ni en coma. Y le sirve **cualquiera de los dos,
+>   indistintamente**: no hay uno bueno y uno malo, no hay que acordarse de cuál es. No guardan nada:
+>   **ordenan.** Se toca uno y la cosa sale; se lo toca otra vez y la cosa entra.
+>   *(Y por eso son dos y no uno: **con el brazo que tenga libre, le basta.** Agarrada, colgando de una
+>   mano o con un brazo debajo de una placa, sigue pudiendo llamar a Gix. Es diseño, no decoración.)*
 >   **③ EL TRANSPORTE SIEMPRE SON PARTÍCULAS.** Nada aparece de golpe y nada desaparece de golpe: se
 >   deshace en un chorro de partículas que sube, gira y **se condensa** en la forma —esfera si es el
 >   Orbe, axolote si es Gix— o al revés, se deshace en partículas que **entran por la palma.**
@@ -206,7 +210,8 @@
 >   tres mil apostadores. Dentro de Erdia sí es «la ladrona», porque esa es la versión del Rey.
 > • **LA LLAVE VA EN LA PALMA IZQUIERDA. SIEMPRE.** Ahí se la graba Naio, ahí se integra el Orbe, de
 >   ahí se lo arranca Selka en la SEC 27, y esa es la mano abierta cuya luz se apaga en la apertura
->   en frío. **El Orbe nunca vive en el brazalete:** el brazalete es de Gix.
+>   en frío. **Nada vive dentro de un brazalete** —ni el Orbe ni Gix—: **los dos viven en ella**, y los
+>   brazaletes solo son el mando que los saca y los mete. Ver arriba la regla de las partículas.
 > • **LAS DOS MANOS.** En la SEC 2 Vera le cierra el puño para enseñarle que lo atrapado se muere.
 >   En la SEC 3 Naio le cierra **la misma mano** para decirle que lo guarde y no lo suelte nunca.
 >   Los dos padres, el mismo gesto, el mismo día, significando lo contrario. **En la SEC 26 Stella no
@@ -240,6 +245,11 @@
 >   No es una cúpula sobre un edificio: es una bola. La cúspide es su punto más alto.
 >   Noah una **hoja de luz**; Brogu sus manos; Nima cacharros que fabrica ella. La violencia se muestra
 >   **por luz, nunca por sangre.**
+> • ⚠️ **NO CONFUNDIR LOS BRAZALETES CON EL MONITOR.** En sus muñecas hay **dos cosas distintas**:
+>   los **dos brazaletes** (`@prop_stella-bracelet`), que son el mando y están siempre; y el **monitor
+>   del traje**, la pantallita que marcó **«MAX»** en la SEC 5 y que Nima le vuelve a montar en el
+>   traje nuevo de la SEC 16. El monitor **va y viene con el traje**; los brazaletes **no se le quitan
+>   nunca.** El resplandor azul del Orbe sale **por debajo del brazalete izquierdo**, nunca del monitor.
 > • **Stella tiene propulsores en las botas** (y en la espalda del traje): vuela a ráfagas cortas, tipo
 >   traje de vuelo. Ya los usa a los 14 para escapar por el ducto (SEC 6) — es el mismo movimiento que
 >   la sube por el palacio en la SEC 0 y la SEC 23, veinticuatro años después.
