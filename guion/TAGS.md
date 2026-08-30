@@ -90,7 +90,8 @@
 | **El demoledor de 3 m** | `@robot-giant-demoledor` |
 | Cíclope | `@robot-cyplop-s1s2` |
 | C84 | `@robot-c84` |
-| G44 | `@robot-g44` |
+| G44 ⚠️ **no usar en la plaza** | `@robot-g44` |
+| **G45** ⚠️ *tag por confirmar* | `@robot-g45` |
 | Cazador del planeta polvo | `@robot-dust-planet-hunter` |
 
 ## Planeta chatarra — carpeta Junk Planet (10 assets)

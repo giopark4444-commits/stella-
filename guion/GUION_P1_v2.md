@@ -20,10 +20,13 @@
 >   cuerpo, con su técnica o con su tecnología propia. Ni pistolas, ni rifles, ni balas, ni gatillos.
 >   Los imperiales lanzan **descargas** desde el cuerpo del propio robot; la resistencia usa **artefactos**;
 > • **EL EJÉRCITO IMPERIAL ES UNA MEZCLA, no una formación ordenada.** Salen modelos distintos
->   revueltos —`@robot-c84`, `@robot-g44`, `@robot-cyplop-s1s2`, `@robot-dust-planet-hunter`— y eso
+>   revueltos —`@robot-c84`, `@robot-cyplop-s1s2`, **`@robot-g45`** ⚠️*(pendiente de confirmar el tag)*,
+>   `@robot-dust-planet-hunter`— y eso
 >   **es lo que se ve**: un imperio que lleva veinticuatro años peleando y saca lo que tiene.
 >   El único con papel fijo es **`@robot-giant-demoledor`**, los tres metros que agachan la cabeza
 >   para pasar por una puerta.
+> • ⚠️ **`@robot-g44` NO SALE en la batalla de la plaza.** Decisión de Gio. Queda libre para otras
+>   secuencias.
 > • **Lo que sí se mantiene son las FUNCIONES**, repartidas entre los modelos que haya: algo aguanta
 >   la línea, algo la rompe, algo **corre por delante a cuatro patas**, y algo **dispara desde muy
 >   atrás sin avanzar nunca**. ⚠️ **Ninguno es blanco:** metal oscuro casi negro, se ven porque el
