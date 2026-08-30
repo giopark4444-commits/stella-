@@ -87,6 +87,10 @@
 > • **Hay naves desde el primer segundo, pero LEJOS**: siluetas pequeñas cruzando muy arriba contra
 >   el cielo. De cerca no se ve ninguna hasta que Stella va subiendo por la fachada y **una le pasa
 >   por debajo de las botas.** Lo que sí vemos desde el suelo son sus impactos caminando por la tierra.
+> • **NOAH, CARL Y LUCY SALEN DE LA MISMA FOSA.** Los venden como **«la gran lucha de humanos»** —
+>   cuatro en el pozo, sale uno— y meten a Stella con ellos. Ella dice que no es humana y el
+>   presentador contesta **«son la misma escoria de raza»**, insultándola con **la verdad de su
+>   propio origen** sin saberlo. Se suben a la nave con ella y no se bajan más.
 > • **La tripulación en la plaza:** Brogu · Nima · Vosk · Gara · Enko · **los tres humanos** — **NOAH, CARL y LUCY**
 >   (`@TrioHumano`, `@Carl`, `@Lucy`) · **la mujer verde** (`@MujerVerde`, provisional) · **el hombre pulpo**
 >   (`@HombrePulpo`, provisional). Cada uno pelea distinto y **ninguno duplica a otro**.
@@ -1522,21 +1526,51 @@ Se lo llevan a él también.
 
 Una estación-mercado en el confín de la galaxia. Subastas de esclavos. Y abajo, el corazón del negocio: **LA FOSA** —un pozo de combate rodeado de gradas donde se apuesta a muerte.
 
-Un presentador la anuncia como **la cabeza más cara del sector.**
+Y esta noche el cartel es especial. El presentador lo grita como quien vende un milagro:
 
-No dice su nombre. No dice de dónde viene. No dice qué hizo. **Solo dice cuánto vale** — y la cifra es tan alta que las gradas rugen.
+**LA GRAN LUCHA DE HUMANOS.**
 
-*(Aquí nadie sabe lo del Orbe. Fuera de Erdia nadie lo sabe. Solo saben que hay una recompensa por esa chica que no la paga ningún gobierno conocido, y eso ya es suficiente para venir a verla morir.)*
+Cuatro en el pozo. Sale uno.
 
-Stella, en el centro, todavía con el collar puesto, busca una salida que no existe.
+Y de paso —sin decir su nombre, ni de dónde viene, ni qué hizo— anuncia que entre esos cuatro está **la cabeza más cara del sector.** Solo dice cuánto vale. Y la cifra es tan alta que las gradas rugen.
 
-Por una reja se abre el lado opuesto del pozo. Empujan a su oponente.
+*(Aquí nadie sabe lo del Orbe. Fuera de Erdia nadie lo sabe. Solo saben que hay una recompensa por alguien de ahí abajo que no la paga ningún gobierno conocido, y eso ya es suficiente para venir a verla morir.)*
 
-Es un **humano.** **NOAH** —joven, magullado, una vieja espada y una hoja de luz, ojos que no se rinden.
+Por las rejas empujan a cuatro personas al pozo.
 
-Stella se queda helada. Porque ese chico **se parece a ella.** A su gente. *(Lo entenderá después: su planeta desterraba a los condenados a un mundo lejano para morir. No murieron. Se volvieron la humanidad. Son los hijos de sus exiliados.)*
+**NOAH** —joven, magullado, una vieja espada y una hoja de luz, ojos que no se rinden.
 
-La multitud exige sangre. Noah levanta la espada, en guardia. Stella no.
+**CARL** —mayor, curtido, alguien que lleva más años viviendo entre otras especies que entre la suya.
+
+**LUCY** —a la que los otros dos miran primero cuando algo sale mal.
+
+Y **STELLA**, todavía con el collar puesto.
+
+Que mira a los tres. Y a las gradas. Y no entiende nada.
+
+**STELLA**
+Yo no soy humana.
+
+El presentador ni la mira. No deja de sonreírle al público.
+
+**PRESENTADOR**
+Son la misma escoria de raza.
+
+Y la reja se cierra a su espalda.
+
+*(Se lo acaba de decir un tratante de esclavos **para insultarla.** Y va a tardar años en entender que le acaba de decir **la verdad.**)*
+
+Stella se gira hacia los otros tres.
+
+Y se queda helada. Porque esa gente **se parece a ella. A los suyos.**
+
+*(Erdia desterraba a sus condenados a un mundo lejano para que murieran allí. No murieron. **Se volvieron la humanidad.** Son los hijos de sus exiliados — y un vendedor de esclavos acaba de decirlo en voz alta sin saber lo que estaba diciendo.)*
+
+La multitud exige sangre.
+
+Carl y Lucy se colocan a los lados de Noah, **espalda contra espalda**, como quien ya ha hecho esto antes.
+
+Noah levanta la espada, en guardia. **Stella no.**
 
 **STELLA**
 No voy a matarte para que ellos aplaudan.
@@ -1609,7 +1643,9 @@ Porque yo no soy tú.
 
 Lo suelta de un empujón hacia la salida. Y por primera vez, el matón la mira distinto. Algo en él se rompe y se recompone.
 
-Escapan todos juntos —Stella, Noah, Brogu, Nima, Vosk— mientras la estación arde detrás.
+Escapan todos juntos —Stella, **Noah, Carl y Lucy**, Brogu, Nima y Vosk— mientras la estación arde detrás.
+
+*(Y los tres humanos se suben a esa nave y **no se bajan nunca más.** Veinticuatro años después, tres de las personas que le abren el pasillo en esa plaza son tres que estaban en el mismo pozo que ella.)*
 
 Más tarde, en la nave, **THERON** observa a Stella desde lejos. No dice nada. Pero algo cambió: la mocosa que recogió acaba de salvar a quien la traicionó. Eso, para un cazador de veinte mil años, vale más que el brillo de su mano.
 
