@@ -124,23 +124,34 @@ Y desde muy atrás, uno **DE DESCARGA** apunta—
 
 Cuando el polvo se abre, la cámara está otra vez **en el suelo.** Entre los que ya no están de pie.
 
-Y encuentra **unos ojos abiertos que no parpadean.**
+Y encuentra **unos ojos abiertos.**
 
 **PLANO SECUENCIA 3 — LA DECISIÓN.**
 
 La cámara **se queda quieta.** Es la primera vez en un minuto entero que no se mueve, y por eso este plano pesa el doble.
 
-Es **ENKO**. Boca arriba, con los ojos abiertos a un cielo que se apaga.
+Es **ENKO**. Boca arriba, mirando un cielo que se apaga.
+
+Y **parpadea.** Despacio, mal, con mucho esfuerzo. Y respira: se le mueve el pecho, poco, entrecortado.
+
+**Está vivo.** Y se está yendo.
 
 Y detrás de él, **completamente desenfocados**, los rebeldes siguen peleando. La guerra no se ha parado. **Solo se paró la cámara.**
 
-**GARA** entra en cuadro, se arrodilla y le busca el pulso en el cuello dos segundos —dos segundos que no tiene— y no encuentra nada.
+**GARA** entra en cuadro, se arrodilla y le pone dos dedos en el cuello.
 
-Se lo echa al hombro igual.
+Y ahí **hay algo.** Poquísimo.
 
-Y la cámara **se levanta con ella** y la acompaña, sin soltarla, mientras lo saca de ahí **cargándolo entero**, cojeando, apartando máquinas a patadas con la pierna buena. Lo sienta contra un muro. Y le baja los párpados **con los mismos dos dedos** con los que acaba de buscarle el pulso.
+Se lo echa al hombro.
 
-Y **vuelve a la línea.**
+Y la cámara **se levanta con ella** y la acompaña, sin soltarla, mientras lo saca de ahí **cargándolo entero**, cojeando, apartando máquinas a patadas con la pierna buena. Lo sienta contra un muro. Se arrodilla delante de él y **le sostiene el cuello con las dos manos.**
+
+Y la cámara **la deja ahí.**
+
+> ⚠️ **LA APERTURA NO NOS DICE SI SE MUERE.** No hay párpados que se bajen, no hay último aliento, no
+> hay corte de música. **Lo dejamos vivo y perdiendo.** El público se lleva esa pregunta abierta
+> durante toda la película — y la respuesta está en la **SEC 23B**, que es donde esta secuencia
+> continúa. *(Y para entonces ya sabremos sus nombres.)*
 
 La cámara **no la sigue de vuelta.** Se queda. Gira. Y encuentra a **una figura encapuchada** que ha visto todo eso sin moverse un centímetro.
 
@@ -3301,13 +3312,11 @@ Y desde atrás, uno **de descarga** apunta — y su disparo atraviesa el avance 
 
 **La cámara sale despedida y cae al suelo. Y se queda quieta.**
 
-Entre los que ya no están de pie, **ENKO**.
+Entre los que ya no están de pie, **ENKO** — vivo, parpadeando mal, con el pecho subiendo poco.
 
-**GARA** le busca el pulso dos segundos que no tiene. No lo encuentra.
+**GARA** lo saca de la línea cargándolo entero y lo sienta contra un muro. Se arrodilla delante de él y **le sostiene el cuello con las dos manos**, apretando, como si se pudiera tapar así.
 
-**Se lo echa al hombro igual**, lo saca de la línea cargándolo entero y lo sienta contra un muro. Y le baja los párpados **con los mismos dos dedos** con los que acaba de buscarle el pulso.
-
-Y **vuelve a la línea.**
+*(Y aquí la película recoge lo que dejó abierto en el primer minuto. **Esta vez la cámara no se va.**)*
 
 CERCA DE STELLA. Lo ha visto todo sin moverse un centímetro.
 
@@ -3367,6 +3376,63 @@ Debajo, **la boca del ducto.** Estrecho. Negro. Con las paredes todavía quemada
 Lo mira medio segundo.
 
 **Y se tira de cabeza.**
+
+> *La **SEC 0** cortaba aquí. **Esta no.** Lo que viene ahora es el minuto que la apertura nos escondió:
+> lo que pasa abajo mientras ella cae.*
+
+ABAJO, EN LA PLAZA.
+
+Y la plaza **se queda sin motivo.**
+
+Llevan una hora abriendo un pasillo para una persona. **La persona ya no está.** Y la guerra sigue exactamente igual de encendida que hace un segundo.
+
+**BROGU** mira hacia arriba, a los doscientos metros de piedra por donde acaba de desaparecer, y **no baja la cabeza.** Un pesado le llega por el costado y lo recibe sin mirarlo.
+
+**VOSK** sigue de pie. Abierto de un costado, la bota llena de sangre, y **sigue de pie.**
+
+**NOAH, CARL y LUCY** ya no rotan: aguantan.
+
+*(Y esto hay que decirlo aquí y no antes: **nadie de los que están abajo sabe si ella entró.** Están peleando por alguien que puede estar muerta desde hace treinta segundos.)*
+
+CONTRA EL MURO.
+
+**ENKO** todavía respira. Poco. Con los ojos entreabiertos.
+
+Y **GARA** delante de él, de rodillas, las dos manos en su cuello, aguantando.
+
+Y entonces —muy arriba, a doscientos metros— **la cúspide del palacio revienta.**
+
+Un fogonazo blanco contra el cielo violeta.
+
+Toda la plaza levanta la cara.
+
+Y **Gara le gira la cara a Enko para que lo vea.**
+
+**GARA**
+*(sin soltarle el cuello)*
+Look. Look at that.
+*(se le rompe la voz y no lo deja notar)*
+She's in. **We did it.**
+
+Enko mira ese fogonazo. Los ojos se le mueven. **Lo ve.**
+
+Y **cierra los ojos.**
+
+Y no los vuelve a abrir.
+
+Gara le pone los dos dedos en el cuello. Y esta vez sí: **dos segundos enteros.**
+
+Los dos segundos que no tenía en el primer minuto de la película.
+
+Y no hay nada.
+
+Le baja los párpados **con esos mismos dos dedos.**
+
+*(Se murió sabiendo que funcionó. **Es lo único que se le pudo dar, y ella se lo dio.**)*
+
+Gara se levanta.
+
+Y **vuelve a la línea.**
 
 ---
 
