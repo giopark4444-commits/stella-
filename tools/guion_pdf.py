@@ -28,7 +28,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from genweb_guion import cuerpo_desde_md  # noqa: E402  (misma conversión que la web)
 
 RAIZ = Path(__file__).resolve().parent.parent
-MD = RAIZ / "guion" / "GUION_P1_v2.md"
+MD = RAIZ / "guion" / "02_guiones" / "GUION_P1_v2.md"
 SALIDA_DIR = RAIZ / "guion" / "render"
 HTML_TMP = SALIDA_DIR / "_guion_print.html"
 PDF = SALIDA_DIR / "GUION_P1_v2.pdf"

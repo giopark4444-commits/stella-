@@ -21,10 +21,10 @@ import json
 import html
 import collections
 
-HIBRIDO = "guion/GUION_P1_v2_DIALOGOS_EN_SEEDANCE.md"
-BLOQUES = "guion/PRODUCCION_BLOQUES_20S.csv"
-SALIDA_HTML = "guion/PROMPTS_GUION_20S.html"
-SALIDA_MD = "guion/PROMPTS_GUION_20S.md"
+HIBRIDO = "guion/02_guiones/GUION_P1_v2_DIALOGOS_EN_SEEDANCE.md"
+BLOQUES = "guion/04_produccion/PRODUCCION_BLOQUES_20S.csv"
+SALIDA_HTML = "guion/06_web/PROMPTS_GUION_20S.html"
+SALIDA_MD = "guion/03_prompts/PROMPTS_GUION_20S.md"
 
 SEGUNDOS = 20
 
@@ -292,7 +292,7 @@ pre.txt{margin:0;padding:15px;white-space:pre-wrap;word-wrap:break-word;font:13.
 </style></head><body>
 <header><b>STELLA FUGAZ · PROMPTS DEL GUION</b><span class="m">{{N}} bloques de 20s · {{DUR}}</span></header>
 <div class="wrap">
-<a class="back" href="../index.html">← Volver al portal</a>
+<a class="back" href="../../index.html">← Volver al portal</a>
 
 <div class="ids">
   <h3>UUID de los personajes</h3>

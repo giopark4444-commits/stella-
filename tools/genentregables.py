@@ -11,8 +11,8 @@ Correr DESPUES de tools/gentags.py.
 import io, re, pathlib, sys
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
-FUENTE = RAIZ / "guion" / "GUION_P1_v2.md"
-TAGS   = RAIZ / "guion" / "GUION_P1_v2_TAGS.md"
+FUENTE = RAIZ / "guion" / "02_guiones" / "GUION_P1_v2.md"
+TAGS   = RAIZ / "guion" / "02_guiones" / "GUION_P1_v2_TAGS.md"
 
 src = io.open(FUENTE, encoding="utf-8").read()
 m = re.search(r"Película 1 \((v[\d.]+)\)", src)
@@ -56,7 +56,7 @@ for cab, cuerpo, nombre in (
     (CAB_REFS, io.open(TAGS, encoding="utf-8").read(), "GUION_REFERENCIAS_%s.md" % V),
 ):
     txt = cab.format(v=V) + "\n" + corta_cabecera(cuerpo) + "\n"
-    p = RAIZ / "guion" / nombre
+    p = RAIZ / "guion" / "02_guiones" / nombre
     io.open(p, "w", encoding="utf-8").write(txt)
     secs = txt.count("\n## SEC")
     assert secs == 40, "%s tiene %d secuencias, esperaba 40" % (nombre, secs)

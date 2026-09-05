@@ -17,7 +17,7 @@ import argparse
 import re
 from pathlib import Path
 
-GUION = Path(__file__).resolve().parent.parent / "guion"
+GUION = Path(__file__).resolve().parent.parent / "guion" / "03_prompts"
 ARCHIVOS = [
     "PROMPTS_LOCACIONES_MINI.md",
     "PROMPTS_PERSONAJES_MINI.md",

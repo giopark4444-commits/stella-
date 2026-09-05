@@ -94,7 +94,7 @@
   ahora **Vosk levanta a Selka**, Brogu carga a Stella y Nima va delante abriendo paso.
 - Donde Nima abría paredes a la fuerza, ahora usa artefactos.
 
-La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincronizada). **32 secuencias.**
+La fuente de verdad es `guion/02_guiones/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincronizada). **32 secuencias.**
 
 **Cambios v2.3:**
 - **SEC 12A NUEVA — Selka a los 9.** Pelea contra un autómata de combate entero y pierde porque
@@ -146,7 +146,7 @@ La fuente de verdad es `guion/GUION_P1_v2.md` (+ `ESCALETA_P1_v2.md`, sincroniza
 - **Selka:** cicatriz sobre el ojo izquierdo **desde los 9 años** (se la hace Vortham, SEC 12A);
   desde la SEC 27, **manca**.
 
-## 📁 Dónde vive cada cosa (`guion/*.md`)
+## 📁 Dónde vive cada cosa (`guion/**/*.md`)
 | Contenido | Archivo(s) | ¿Al día con v2.3? |
 |---|---|---|
 | **Guion canónico** | `GUION_P1_v2.md` (34 secuencias) | ✅ |
@@ -190,5 +190,5 @@ con `tools/cola_estilo.py --set "..."`.
    la real — ver conversación).
 
 ---
-*Para retomar: lee esto, luego `guion/GUION_P1_v2.md` (v2.5) y la escaleta. El guion manda sobre
+*Para retomar: lee esto, luego `guion/02_guiones/GUION_P1_v2.md` (v2.5) y la escaleta. El guion manda sobre
 cualquier prompt viejo.*

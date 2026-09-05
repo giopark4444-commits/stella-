@@ -425,12 +425,12 @@ def main():
 
     # Lo que se manda a Seedance (prompts) + el guion, que es de donde salen.
     # Se escriben COPIAS con sufijo _SEEDANCE: los originales de Gio no se tocan.
-    patrones = ["guion/PROMPTS_*.md", "guion/PROMPTS_*.txt", "guion/PROMPTS_*.html",
-                "guion/GUION_P1_v2.md", "guion/GUION_WEB.html",
-                "guion/SCRIPT_P1_v2_EN.md", "guion/SCRIPT_P1_v2_EN.html",
-                "guion/GUION_P1_v2_DIALOGOS_EN.md", "guion/GUION_P1_v2_DIALOGOS_EN.html",
-                "guion/GUION_TECNICO.html", "guion/STORYBOARD.html",
-                "guion/PRODUCCION_clips_*.md", "guion/PRODUCCION_setup_visual.md"]
+    patrones = ["guion/03_prompts/PROMPTS_*.md", "guion/03_prompts/PROMPTS_*.txt", "guion/06_web/PROMPTS_*.html",
+                "guion/02_guiones/GUION_P1_v2.md", "guion/06_web/GUION_WEB.html",
+                "guion/02_guiones/SCRIPT_P1_v2_EN.md", "guion/06_web/SCRIPT_P1_v2_EN.html",
+                "guion/02_guiones/GUION_P1_v2_DIALOGOS_EN.md", "guion/06_web/GUION_P1_v2_DIALOGOS_EN.html",
+                "guion/06_web/GUION_TECNICO.html", "guion/06_web/STORYBOARD.html",
+                "guion/04_produccion/PRODUCCION_clips_*.md", "guion/04_produccion/PRODUCCION_setup_visual.md"]
     archivos = sorted({f for p in patrones for f in glob.glob(p, recursive=True)
                        if "_archivo_guion_v1" not in f and "_SEEDANCE" not in f})
 

@@ -19,8 +19,8 @@ import sys
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
-MD = RAIZ / "guion" / "GUION_P1_v2.md"
-WEB = RAIZ / "guion" / "GUION_WEB.html"
+MD = RAIZ / "guion" / "02_guiones" / "GUION_P1_v2.md"
+WEB = RAIZ / "guion" / "06_web" / "GUION_WEB.html"
 APP = RAIZ / "STELLA_FUGAZ.html"
 VERSION = "v2.8"
 

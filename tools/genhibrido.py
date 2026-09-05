@@ -26,10 +26,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from genweb_guion import es_cue  # noqa: E402
 
 RAIZ = Path(__file__).resolve().parent.parent
-MD = RAIZ / "guion" / "GUION_P1_v2.md"
+MD = RAIZ / "guion" / "02_guiones" / "GUION_P1_v2.md"
 DIC = Path(__file__).resolve().parent / "dialogos_en.json"
-SALIDA_MD = RAIZ / "guion" / "GUION_P1_v2_DIALOGOS_EN.md"
-SALIDA_HTML = RAIZ / "guion" / "GUION_P1_v2_DIALOGOS_EN.html"
+SALIDA_MD = RAIZ / "guion" / "02_guiones" / "GUION_P1_v2_DIALOGOS_EN.md"
+SALIDA_HTML = RAIZ / "guion" / "06_web" / "GUION_P1_v2_DIALOGOS_EN.html"
 VERSION = "v2.8"
 
 CABECERA = f"""# STELLA · *a falling star*
@@ -124,7 +124,7 @@ def main() -> None:
     if args.apply:
         SALIDA_MD.write_text(hibrido, encoding="utf-8")
         SALIDA_HTML.write_text(
-            a_html(hibrido, RAIZ / "guion" / "GUION_WEB.html"), encoding="utf-8")
+            a_html(hibrido, RAIZ / "guion" / "06_web" / "GUION_WEB.html"), encoding="utf-8")
         print(f"✓ {SALIDA_MD.name} y {SALIDA_HTML.name} escritos")
     else:
         print("(dry-run: nada escrito; usa --apply)")

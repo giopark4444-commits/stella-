@@ -13,8 +13,8 @@ Uso:  python3 tools/gentags.py
 import re, pathlib
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
-MD   = RAIZ / "guion" / "GUION_P1_v2.md"
-OUT  = RAIZ / "guion" / "GUION_P1_v2_TAGS.md"
+MD   = RAIZ / "guion" / "02_guiones" / "GUION_P1_v2.md"
+OUT  = RAIZ / "guion" / "02_guiones" / "GUION_P1_v2_TAGS.md"
 
 # ── quién no cambia nunca ────────────────────────────────────────────────────
 FIJOS = {

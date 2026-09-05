@@ -19,8 +19,8 @@ Hay **dos entregables**, generados desde la misma fuente, y sirven para cosas di
 
 | Archivo | Para qué | Artefacto |
 |---|---|---|
-| `guion/GUION_REFERENCIAS_v2.8.md` | **Promptear.** Cada nombre viene sustituido por su `@tag` | https://claude.ai/code/artifact/8a3073ba-81d0-47c0-88fb-b808f67c12c9 |
-| `guion/GUION_CLASICO_v2.8.md` | **Leer.** Nombres normales | https://claude.ai/code/artifact/a4e1634c-ba6d-434c-a58e-1c43acf505e1 |
+| `guion/02_guiones/GUION_REFERENCIAS_v2.8.md` | **Promptear.** Cada nombre viene sustituido por su `@tag` | https://claude.ai/code/artifact/8a3073ba-81d0-47c0-88fb-b808f67c12c9 |
+| `guion/02_guiones/GUION_CLASICO_v2.8.md` | **Leer.** Nombres normales | https://claude.ai/code/artifact/a4e1634c-ba6d-434c-a58e-1c43acf505e1 |
 
 En el de referencias, cada `## SEC` abre con tres líneas 🏷️ — **locación · reparto · props**— antes
 de la primera palabra de acción. Y **el tag cambia según la secuencia**: Stella tiene once estados,
@@ -29,7 +29,7 @@ Vera ocho, Selka nueve. Nunca uses un tag de Stella sin mirar en qué secuencia 
 ✅ **Verificado el 2026-08-30: cero referencias rotas.** Todo lo que el guion cita existe en los
 paneles de Gio.
 
-**La fuente de verdad para editar es `guion/GUION_P1_v2.md`.** Los dos entregables se regeneran
+**La fuente de verdad para editar es `guion/02_guiones/GUION_P1_v2.md`.** Los dos entregables se regeneran
 desde ahí; editarlos a mano no sirve de nada.
 
 ---
@@ -66,7 +66,7 @@ Eso no es un error: es la compuerta. Copia la lista, traduce, y vuelve a correrl
 
 **⑤ El número de versión vive en cuatro sitios.** Al subir de versión hay que tocarlos todos:
 `tools/genweb_guion.py` · `tools/genhibrido.py` · `tools/guion_pdf.py` · `tools/gentags.py`
-y la cabecera de `guion/GUION_P1_v2.md`. `genentregables.py` lee la versión de la cabecera y la
+y la cabecera de `guion/02_guiones/GUION_P1_v2.md`. `genentregables.py` lee la versión de la cabecera y la
 estampa en el nombre de los archivos, así que si la cabecera está mal, todo sale mal.
 
 ---
@@ -98,7 +98,7 @@ Diez reglas. Cada una ha roto algo al menos una vez.
    La receta está en la sección 8.
 10. **Nunca texto dentro de la imagen. Nunca color quemado.**
 
-Más detalle en `guion/CONTINUIDAD.md` — ahí está el estado de cada cosa secuencia por secuencia,
+Más detalle en `guion/01_historia/CONTINUIDAD.md` — ahí está el estado de cada cosa secuencia por secuencia,
 para poder rodar en desorden.
 
 ---
@@ -162,7 +162,7 @@ tanque (`@char_stella-recovery-tank`), los 11 mundos del montaje, los cristales 
 de los humanos (**los dos están en skills**, no en props).
 
 ### El corpus de producción — esto sí es grande
-- **`guion/GUION_TECNICO.csv`** tiene desglose de planos para **29 secuencias de 40**. Faltan **12**:
+- **`guion/02_guiones/GUION_TECNICO.csv`** tiene desglose de planos para **29 secuencias de 40**. Faltan **12**:
   la **SEC 0** y las once con letra — **10A · 12A · 13B · 15B · 20A · 20B · 20C · 20D · 23B · 29A · 29B**
   (el mercado, el tinte, el montaje, el puerto estelar y el final entero).
 - **Y las 29 que existen describen la película vieja:** `SEC 8 — híper-salto` (ya no lo hace Stella),
@@ -170,7 +170,7 @@ de los humanos (**los dos están en skills**, no en props).
   salón), `SEC 19/20 — Año 14` (ese año ya no existe), `SEC 29 — Enfermería` (ahora son 29A y 29B).
 - **76 archivos dentro de `guion/` todavía dicen «El Nodo de Erdia».**
 
-🚫 **NO PROMPTEAR DESDE `guion/PROMPTS_*`.** Ese corpus —619 frames de storyboard y 233 clips—
+🚫 **NO PROMPTEAR DESDE `guion/03_prompts/PROMPTS_*`.** Ese corpus —619 frames de storyboard y 233 clips—
 describe la película anterior. **La única fuente buena es `GUION_REFERENCIAS_v2.8.md`.**
 
 **Consecuencia práctica: todavía no hay duración total de la película.** Sale del desglose, y el
