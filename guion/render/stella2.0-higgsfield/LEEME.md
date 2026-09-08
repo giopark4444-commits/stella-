@@ -1,90 +1,65 @@
-# 📥 STELLA 2.0 — bajar *AI Film Festival* de Higgsfield al escritorio
+# 📥 STELLA 2.0 — bajar los assets de Higgsfield al escritorio
 
-Deja `~/Desktop/stella2.0 higgsfield/` con los **551 assets** del proyecto
-(cuenta `drawinglion1404`), repartidos en las mismas carpetas que tiene Higgsfield.
+Deja `~/Desktop/stella2.0 higgsfield/` con los **657 assets** de la cuenta
+`drawinglion1404` (`user_3Hl0XObMDaFT2IDolV9XkUACEpZ`): **471 imágenes PNG y 186 vídeos MP4**.
 
-Son **tres pasos** y todo corre en tu Mac, en el mismo Chrome donde ya estás logueado.
+El `manifiesto.tsv` **ya está hecho** — se generó vía el conector de Higgsfield, con las URLs
+de los originales en máxima calidad (no miniaturas). Solo falta ejecutarlo.
 
 ---
 
-## Paso 1 · Sacar la lista de archivos
-
-1. Abrí el proyecto: `higgsfield.ai/generate/@drawinglion1404/ai-film-festival`
-2. Abrí la consola: **⌥⌘J** (Ver → Desarrollador → Consola JavaScript).
-3. Abrí `extraer_manifiesto.js`, copiá **todo** el contenido, pegalo en la consola y Enter.
-   Aparece un panel negro abajo a la derecha.
-4. Para **cada carpeta** del proyecto:
-   - hacé clic en la carpeta en la barra lateral;
-   - escribí su nombre en el campo **«Carpeta actual»** del panel — tal cual querés que se
-     llame en tu disco, con barras para anidar: `Characters/00.Stella`, `Characters/00.Stella/Selected`, `Audio`…
-   - pulsá **▶ Escanear esta carpeta** y esperá a que pare (baja sola hasta el final para
-     que carguen todas las miniaturas; en las de 200+ tarda un minuto).
-5. Cuando estén todas, pulsá **⬇ Exportar manifiesto.tsv**. Se descarga el archivo.
-
-> El script no inventa rutas de API: se engancha a las peticiones que la propia web hace
-> y recoge las URLs que van pasando. Por eso hay que abrir cada carpeta — solo ve lo que vos ves.
-
-## Paso 2 · Poner el manifiesto junto al script
-
-Mové el `manifiesto.tsv` descargado a **esta misma carpeta**, al lado de
-`descargar_stella2.0.command`.
-
-## Paso 3 · Descargar
+## Un solo paso
 
 Doble clic en **`descargar_stella2.0.command`**.
 
-Si macOS lo bloquea por ser de origen desconocido: clic derecho → **Abrir** → Abrir.
-O desde la Terminal: `bash descargar_stella2.0.command`
+Si macOS lo bloquea por origen desconocido: clic derecho → **Abrir** → Abrir.
+Desde Terminal: `bash descargar_stella2.0.command`
 
-Al terminar te abre la carpeta y te dice cuántos bajó.
+Al terminar abre la carpeta y dice cuántos bajó.
+
+- **Reejecutable sin miedo**: lo ya bajado se salta, así que si se corta internet, doble clic otra vez y sigue.
+- **Si algo falla**: al final lista los fallidos, y quedan en `_descarga.log` dentro de la carpeta destino. Reejecutar reintenta solo esos.
 
 ---
 
-## Detalles útiles
-
-- **Se puede reejecutar sin miedo.** Lo ya bajado se salta, así que si se corta internet
-  volvés a darle doble clic y sigue donde estaba.
-- **Si algo falla**, al final lista los archivos fallidos y quedan en `_descarga.log`
-  dentro de la carpeta de destino. Reejecutar reintenta solo esos.
-- **`_miniaturas/`**: los pósters de los vídeos se apartan ahí para no ensuciar las
-  carpetas. Si no los querés, borrá esas subcarpetas al final.
-- **Nombres**: se respeta el nombre de archivo de Higgsfield (su id + extensión).
-
-## Estructura que vas a obtener
-
-Según lo que se ve en el proyecto, con sus números de assets:
+## Qué vas a obtener
 
 ```
 stella2.0 higgsfield/
-├── Audio/
-├── Characters/            226
-│   ├── 00.Stella/          52   └── Selected/  26
-│   ├── 01.Vera/            41
-│   ├── 03.Naio/             8
-│   ├── 04.Selka/           33
-│   ├── 05.Gix/              6
-│   ├── 06.Ship Crew/       17
-│   ├── 07.Humans/           7
-│   ├── 08.Rebels/          13
-│   ├── 09.Robots/           8
-│   ├── 10.Vorthan/          4
-│   ├── 11.Ships & Pilots/  23
-│   └── 12.Extras/           9
-├── Film Posters/            2
-└── …las que queden debajo del scroll en la barra lateral
+├── imagenes/
+│   ├── 2026-08/   400 png
+│   └── 2026-09/    71 png
+├── videos/
+│   ├── 2026-08/    35 mp4
+│   └── 2026-09/   151 mp4
+└── _descarga.log
 ```
+
+Los nombres son los originales de Higgsfield (`hf_AAAAMMDD_HHMMSS_<id>`), así que quedan
+ordenados cronológicamente dentro de cada carpeta.
+
+Junto a este README va **`indice.csv`**, con una fila por asset: carpeta, archivo, tipo, fecha
+y **los elementos de referencia que usó** (`char_lessa`, `robot-g45`, `loc_facade`…). 186 de los
+657 los llevan. Sirve para localizar piezas por personaje o locación, y para reorganizar después.
 
 ---
 
+## ⚠️ Por qué NO están las carpetas de tu proyecto
+
+Pediste la estructura tal cual está en Higgsfield (`Characters/00.Stella`, `06.Ship Crew`…).
+**El conector no expone los proyectos ni sus carpetas** — solo el historial de generaciones y
+los Elements del workspace. Así que agrupé por lo único que sí puedo derivar: tipo y mes.
+
+Si querés las carpetas exactas, está `extraer_manifiesto.js`: se pega en la consola de Chrome
+con el proyecto abierto, vas marcando cada carpeta y le das a Escanear, y exporta un
+`manifiesto.tsv` con las carpetas reales. Ese manifiesto sustituye a este y el `.command`
+funciona igual. Con `indice.csv` podés cotejar que no falte nada.
+
+Los conteos tampoco coinciden del todo: tu proyecto marca 551 assets y el historial da 657.
+La diferencia es normal — el historial incluye generaciones que no metiste en el proyecto.
+
 ## Por qué lo corrés vos y no lo hizo Claude
 
-Mismo motivo que con `../stella-assets/`, y verificado otra vez en esta sesión:
-
-- `higgsfield.ai` y sus dos CDNs devuelven **403 por política de la organización** desde el
-  entorno remoto de Claude — no es un fallo de red, y no se reintenta.
-- El conector de Higgsfield de esa sesión estaba enlazado a **otra cuenta**
-  (`evolvingruler1495`), no a `drawinglion1404`, y un conector OAuth no se cambia
-  pasándole un nombre de usuario.
-- Ese entorno tampoco ve tu escritorio ni tu Chrome.
-
-Tu Mac tiene las tres cosas: la cuenta, la red y el escritorio.
+`higgsfield.ai` y sus CDNs responden **403 por política de la organización** desde el entorno
+remoto de Claude, y ese entorno no ve tu escritorio. El conector sí funciona (va por otro
+canal), y por eso el inventario y las URLs sí se pudieron sacar aquí. Bajar los bytes, no.
