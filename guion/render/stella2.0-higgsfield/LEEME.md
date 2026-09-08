@@ -1,10 +1,9 @@
-# 📥 STELLA 2.0 — bajar los assets de Higgsfield al escritorio
+# 📥 STELLA 2.0 — bajar todo lo de Higgsfield al escritorio
 
-Deja `~/Desktop/stella2.0 higgsfield/` con los **657 assets** de la cuenta
-`drawinglion1404` (`user_3Hl0XObMDaFT2IDolV9XkUACEpZ`): **471 imágenes PNG y 186 vídeos MP4**.
+Deja `~/Desktop/stella2.0 higgsfield/` con los **979 archivos** de la cuenta
+`drawinglion1404` (`user_3Hl0XObMDaFT2IDolV9XkUACEpZ`).
 
-El `manifiesto.tsv` **ya está hecho** — se generó vía el conector de Higgsfield, con las URLs
-de los originales en máxima calidad (no miniaturas). Solo falta ejecutarlo.
+El `manifiesto.tsv` ya está hecho y **verificado**. Solo falta ejecutarlo.
 
 ---
 
@@ -12,54 +11,68 @@ de los originales en máxima calidad (no miniaturas). Solo falta ejecutarlo.
 
 Doble clic en **`descargar_stella2.0.command`**.
 
-Si macOS lo bloquea por origen desconocido: clic derecho → **Abrir** → Abrir.
-Desde Terminal: `bash descargar_stella2.0.command`
+Si macOS lo bloquea: clic derecho → **Abrir** → Abrir. Desde Terminal: `bash descargar_stella2.0.command`
 
-Al terminar abre la carpeta y dice cuántos bajó.
-
-- **Reejecutable sin miedo**: lo ya bajado se salta, así que si se corta internet, doble clic otra vez y sigue.
-- **Si algo falla**: al final lista los fallidos, y quedan en `_descarga.log` dentro de la carpeta destino. Reejecutar reintenta solo esos.
-
----
+- **Reejecutable**: lo ya bajado se salta; si se corta internet, doble clic otra vez y sigue.
+- **Si algo falla**: lista los fallidos al terminar y los deja en `_descarga.log`. Reejecutar reintenta solo esos.
 
 ## Qué vas a obtener
 
 ```
 stella2.0 higgsfield/
-├── imagenes/
-│   ├── 2026-08/   400 png
-│   └── 2026-09/    71 png
-├── videos/
-│   ├── 2026-08/    35 mp4
-│   └── 2026-09/   151 mp4
-└── _descarga.log
+├── imagenes/2026-08/    400  ┐
+├── imagenes/2026-09/     71  │ 657 generaciones
+├── videos/2026-08/       35  │ (471 PNG + 186 MP4)
+├── videos/2026-09/      151  ┘
+├── subidas/imagenes/    314  ┐ 322 archivos que subiste vos
+└── subidas/videos/        8  ┘ (referencias, fuentes)
 ```
 
-Los nombres son los originales de Higgsfield (`hf_AAAAMMDD_HHMMSS_<id>`), así que quedan
-ordenados cronológicamente dentro de cada carpeta.
-
-Junto a este README va **`indice.csv`**, con una fila por asset: carpeta, archivo, tipo, fecha
-y **los elementos de referencia que usó** (`char_lessa`, `robot-g45`, `loc_facade`…). 186 de los
-657 los llevan. Sirve para localizar piezas por personaje o locación, y para reorganizar después.
+Junto a esto va **`indice.csv`**: una fila por archivo con carpeta, tipo, fecha y —en las
+generaciones que los llevan— **los elementos de referencia usados** (`char_lessa`, `robot-g45`,
+`loc_facade`…). Sirve para localizar piezas por personaje o locación.
 
 ---
 
-## ⚠️ Por qué NO están las carpetas de tu proyecto
+## ✅ Repaso de completitud (2026-09-08)
 
-Pediste la estructura tal cual está en Higgsfield (`Characters/00.Stella`, `06.Ship Crew`…).
-**El conector no expone los proyectos ni sus carpetas** — solo el historial de generaciones y
-los Elements del workspace. Así que agrupé por lo único que sí puedo derivar: tipo y mes.
+Se verificó que **lo que está online en la cuenta esté completo**, por dos vías independientes:
 
-Si querés las carpetas exactas, está `extraer_manifiesto.js`: se pega en la consola de Chrome
-con el proyecto abierto, vas marcando cada carpeta y le das a Escanear, y exporta un
-`manifiesto.tsv` con las carpetas reales. Ese manifiesto sustituye a este y el `.command`
-funciona igual. Con `indice.csv` podés cotejar que no falte nada.
+| Fuente | Resultado | Cómo se comprobó |
+|---|---|---|
+| Generaciones de imagen | **471** | Paginado sin filtro (657) y de nuevo filtrando por tipo. **0 faltantes** |
+| Generaciones de vídeo | **186** | Igual, contraste cruzado. **0 faltantes** |
+| Subidas de imagen | **314** | Paginado hasta `next_cursor: null` |
+| Subidas de vídeo | **8** | Paginado hasta `next_cursor: null` |
+| Generaciones de audio | **0** | La API devuelve lista vacía |
+| Subidas de audio | **0** | La API devuelve lista vacía |
+| Elements | sin archivos nuevos | Su media es o una generación o una subida ya incluida (comprobado por muestreo) |
+| Generaciones 3D | **no verificable** | La API da error de servidor en las dos consultas |
 
-Los conteos tampoco coinciden del todo: tu proyecto marca 551 assets y el historial da 657.
-La diferencia es normal — el historial incluye generaciones que no metiste en el proyecto.
+**Total: 979 archivos**, sin URLs repetidas, todas apuntando a la cuenta correcta.
 
-## Por qué lo corrés vos y no lo hizo Claude
+### Dos cosas que no cuadran, y por qué
 
-`higgsfield.ai` y sus CDNs responden **403 por política de la organización** desde el entorno
-remoto de Claude, y ese entorno no ve tu escritorio. El conector sí funciona (va por otro
-canal), y por eso el inventario y las URLs sí se pudieron sacar aquí. Bajar los bytes, no.
+**La carpeta `Audio` del proyecto sale vacía.** El conector no devuelve ningún audio, ni generado
+ni subido. O está vacía, o su contenido no se expone por esta vía.
+
+**Tu proyecto marca 551 assets y aquí hay 979.** No es contradicción: 551 es lo que queda **dentro
+del proyecto** *AI Film Festival*; 979 es **todo lo que sigue online en la cuenta**, incluyendo lo
+que borraste del proyecto pero no de la cuenta, más las subidas. Como pediste, prima que lo online
+esté completo. Nada se descarta por no estar ya en el proyecto.
+
+## ⚠️ Lo que sigue sin poder darse: las carpetas del proyecto
+
+El conector expone el historial, la mediateca y los Elements del workspace, pero **no los proyectos
+ni sus carpetas**. Por eso no hay `Characters/00.Stella` ni `06.Ship Crew`: agrupé por origen, tipo
+y mes, que es lo único derivable.
+
+Si querés las carpetas exactas, usá `extraer_manifiesto.js` (se pega en la consola de Chrome con el
+proyecto abierto). Su manifiesto sustituye a este y el `.command` funciona igual. Cotejá con
+`indice.csv` que no falte nada.
+
+## Por qué lo corrés vos
+
+`higgsfield.ai` y sus CDNs responden **403 por política de la organización** desde el entorno remoto
+de Claude, que además no ve tu escritorio. El conector va por otro canal, y por eso el inventario sí
+se pudo hacer aquí. Bajar los bytes, no.
